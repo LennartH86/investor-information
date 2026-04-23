@@ -1,5 +1,12 @@
 # Investor Radar – Claude Code Runbook
 
+## Trigger
+Sobald der Nutzer eine dieser Phrasen schreibt, führe sofort **Task 0 → Tasks 1–25 → Task 26** komplett durch, ohne Rückfragen und ohne Zwischenstopps:
+- „starte" / „start"
+- „führe aus" / „führe claude.md aus"
+- „wöchentlicher run" / „weekly run"
+- „mache weiter" / „weiter"
+
 ## Sofortregeln
 - Repo: `/home/user/investor-information` | Branch: `claude/awesome-pasteur-PaRk9`
 - „führe alle tasks aus" / „mache weiter" → **ohne Stopp durchlaufen**
