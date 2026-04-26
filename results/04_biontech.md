@@ -15,6 +15,8 @@ _KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
 - **Q1 2026 Zahlen folgen am 05.05.2026** – Details noch nicht bekannt.
 - **Jahresprognose 2026:** BioNTech erwartet geringere COVID-19-Impfstofferlöse gegenüber 2025 – sowohl in den USA (wettbewerbsintensiver Markt) als auch in Europa (Marktanteilsverteidigung, Übergang zu Mehrjahresverträgen). Keine Erlöse aus Onkologieprodukten für 2026 erwartet. Kollaborationserlöse mit Bristol Myers Squibb sollen in etwa auf dem Niveau von 2025 liegen.
 - **Gesamtjahr 2025 (Referenz):** Die Jahreszahlen 2025 wurden am 10. März 2026 veröffentlicht; die Pipeline-Investitionen wurden fortgesetzt.
+- **Starke Bilanz:** Cash und Investitionen per 31.12.2025: €17,2 Mrd. – solide Basis für weitere Investitionen und Aktienrückkäufe.
+- **Analystenkonsens:** Medianes Kursziel für BNTX: 130 USD.
 
 ## Strategie & Ausblick
 - **Onkologie als Wachstumsmotor:** BioNTech setzt konsequent auf den Umbau zum Multi-Produkt-Onkologieunternehmen bis 2030. Für 2026 sind 15 Phase-3-Studien und sieben spätstufige Datenmeldungen geplant; sechs zusätzliche Phase-3-Studien sollen in 2026 gestartet werden.
