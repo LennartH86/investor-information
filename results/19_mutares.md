@@ -3,44 +3,51 @@ _KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
 
 ## Aktuelle Meldungen
 
-- **Kapitalerhöhung erfolgreich abgeschlossen (22.04.2026):** Mutares schloss die Bezugsrechtskapitalerhöhung erfolgreich ab. Von den rund 3,19 Mio. angebotenen neuen Aktien zum Preis von 24,50 EUR wurden ca. 96 % gezeichnet (3,06 Mio. Aktien). Bruttoerlös: rd. EUR 105 Mio.
-- **Kapitalerhöhung beschlossen (01.04.2026):** Mutares beschloss eine Bezugsrechtskapitalerhöhung von bis zu ca. 4,27 Mio. neuen Aktien (bis zu 20 % des Grundkapitals). Bezugsfrist: 8.–21. April 2026 im Verhältnis 5:1.
-- **Verkauf inTime Group (14.04.2026):** Mutares veräußerte alle Tochtergesellschaften der inTime Group (zeitkritische Logistikdienstleistungen, Umsatz ca. EUR 100 Mio.) an die Tawin Holdings Group – schneller Exit mit Wertschöpfung in Rekordzeit.
-- **Erwerb Automotive-Assets von Magna International:** Mutares plant die Übernahme von Magnas europäischem Beleuchtungsgeschäft (Umsatz ca. USD 235 Mio.) und des Dachsystems-Geschäfts (Umsatz ca. USD 85 Mio.) im zweiten Quartal 2026.
+- **Kapitalerhöhung abgeschlossen (22. April 2026):** Mutares hat die Bezugsrechtskapitalerhöhung erfolgreich abgeschlossen. Insgesamt wurden 3.193.485 neue Aktien zu je EUR 24,50 angeboten. Davon wurden 3.064.002 neue Aktien (≈96 %) gezeichnet; Bruttoerlös rund EUR 105 Mio. Die neuen Aktien werden voraussichtlich am 28. April 2026 zum Handel an der Frankfurter Wertpapierbörse zugelassen.
+- **Kapitalerhöhung beschlossen (01. April 2026):** Mutares beschloss eine Bezugsrechtskapitalerhöhung von bis zu ca. 4,27 Mio. neuen Aktien (bis zu 20 % des Grundkapitals). Bezugsfrist: 8.–21. April 2026 im Verhältnis 5:1.
+- **Verkauf inTime Group (14. April 2026):** Mutares veräußerte alle Tochtergesellschaften der inTime Group (zeitkritische Logistikdienstleistungen, Umsatz ca. EUR 100 Mio.) an die Tawin Holdings Group – schneller Exit mit Wertschöpfung in Rekordzeit.
+- **Verkauf Relobus (April 2026):** Mutares unterzeichnete eine Vereinbarung zum Verkauf von Relobus Transport Polska sp. z o.o. an Infracapital; Closing erwartet im Q2 2026.
+- **Erwerb Automotive-Assets von Magna International (April 2026):** Mutares übernimmt Magnas europäisches Beleuchtungsgeschäft (Umsatz ca. USD 235 Mio.) und das Dachsysteme-Geschäft (Umsatz ca. USD 85 Mio.); Closing Q2 2026 geplant.
+- **Veröffentlichung Geschäftsbericht:** Der vollständig geprüfte Jahresbericht 2025 wird am 28. April 2026 veröffentlicht.
 
 ## Management
 
-- **Johannes Laumann (CIO):** Äußerte sich optimistisch zu Transaktionsmomentum: „Das zweite Quartal wird durch sehr hohes Transaktionsmomentum geprägt sein – sowohl auf der Akquisitions- als auch auf der Exitseite." Er betonte, die Pipeline sei so weit fortgeschritten wie seit langer Zeit nicht mehr.
-- **CIO-Interview (April 2026):** Laumann erläuterte gegenüber DER AKTIONÄR die Beweggründe für die Kapitalerhöhung und die strategische Bedeutung des US-Markts für Mutares als Beteiligungsunternehmer.
+- **CEO:** Robin Laik
+- **CIO:** Johannes Laumann – erläuterte in einem Interview mit DER AKTIONÄR (April 2026) die Beweggründe für die Kapitalerhöhung und die strategische Bedeutung des US-Markts: „Das zweite Quartal wird durch sehr hohes Transaktionsmomentum geprägt sein – sowohl auf der Akquisitions- als auch auf der Exitseite." Die Pipeline sei „so weit fortgeschritten wie seit langer Zeit nicht mehr" und lege „den Grundstein für eine deutliche Beschleunigung unserer Wachstumsstrategie."
+- **Ivo Hobson (Head of UK):** Betont Chancen bei Corporate Carve-outs; Mutares positioniert sich als bevorzugter Partner für Konglomerate, die nicht-strategische Einheiten abstoßen.
 
 ## Finanzielles
 
-- **Kapitalerhöhungserlöse:** Bruttoerlös von ca. EUR 105 Mio.; ca. 80 % für US-Expansion und neue europäische Chancen geplant, ca. 20 % zur Stärkung der Bilanz.
-- **Jahresprognose 2026:** Management erwartet Konzernumsatz zwischen 7,9 und 9,1 Mrd. EUR sowie einen Jahresüberschuss der Holding zwischen EUR 165 Mio. und EUR 200 Mio.
-- **Geschäftsjahr 2025 (Vorjahr):** Rekordjahr – Konzernumsatz 6,5 Mrd. EUR, Nettoergebnis der Holding 130,4 Mio. EUR; Anhebung der Mittelfristziele auf 25 % Wachstum p.a. bei Holding-Ergebnis und Konzernumsatz.
+- **Jahresergebnis 2025 (vorläufig, ungeprüft):** Konzernumsatz EUR 6,5 Mrd.; Nettoeinkommen Holding EUR 130,4 Mio. – erneutes Rekordjahr.
+- **Prognose 2026:** Konzernumsatz EUR 7,9–9,1 Mrd.; Nettoeinkommen Holding EUR 165–200 Mio.
+- **Bruttoerlös Kapitalerhöhung:** ca. EUR 105 Mio. (Zeichnungsquote 96 %); ca. 80 % für US-Expansion geplant, ca. 20 % zur Bilanzstärkung.
+- **Anleihen-Management:** Quartalsweise Tilgung von mind. EUR 25 Mio. ab Q2 2026; Ziel: Gesamtanleihebestand auf EUR 250–300 Mio. bis Ende 2026 reduzieren.
 - **Q1-Bericht 2026:** Veröffentlichung geplant für 12. Mai 2026.
 - **Hauptversammlung:** 3. Juli 2026.
 - **Dividende:** Auszahlung im April 2026 erfolgt.
-- **Anleihen:** Ziel, Anleihenvolumen auf 250–300 Mio. EUR zu reduzieren; Tilgung von ca. EUR 25 Mio. pro Quartal angestrebt.
+- **Mittelfristziel (angehoben):** 25 % Wachstum p.a. bei Holding-Ergebnis und Konzernumsatz.
 
 ## Strategie & Ausblick
 
-- **US-Expansion als Kernthema:** Rund 80 % der Kapitalerhöhungserlöse fließen primär in den US-Markt, wo Mutares eine stark gefüllte Transaktions-Pipeline sieht. CIO Laumann sieht erhebliches Potenzial für Transformation Investments in Nordamerika.
-- **SABIC-ETP-Deal (größte Akquisition der Unternehmensgeschichte):** Mutares erwarb das regionale Engineering-Thermoplastics-Geschäft (ETP) von SABIC in Europa und Amerika (Enterprise Value USD 450 Mio., Umsatzbasis ca. USD 2,5 Mrd., ~2.900 Mitarbeiter, 8 Standorte). Closing geplant für H2 2026. Als Folge wird ein fünftes Segment „Chemicals & Materials" geschaffen.
-- **Hamberger-Akquisition abgeschlossen (31.03.2026):** Übernahme des Fußbodengeschäfts der Hamberger Industriewerke – stärkt das Segment Goods & Services als neues Plattforminvestment.
-- **Amaneos / HiLo Group / Light Mobility Solutions:** Strategische Add-ons mit kombiniertem Umsatz von ca. USD 320 Mio. (2025) angekündigt.
-- **Hohes Transaktionsmomentum Q2 2026:** Management erwartet sehr aktive Akquisitions- und Exit-Aktivität im zweiten Quartal 2026.
+- **US-Expansion als Kernthema:** Rund 80 % der Kapitalerhöhungserlöse fließen in den US-Markt, wo Mutares eine stark gefüllte Transaktions-Pipeline sieht. CIO Laumann sieht erhebliches Potenzial für Transformation Investments in Nordamerika.
+- **SABIC-ETP-Deal (größte Akquisition der Unternehmensgeschichte):** Mutares erwarb das regionale Engineering-Thermoplastics-Geschäft (ETP) von SABIC in Europa und Amerika (Enterprise Value: USD 450 Mio.; erwarteter Zusatzumsatz: ca. USD 2,5 Mrd.; ca. 2.900 Mitarbeiter; 8 Standorte). Closing geplant für H2 2026. Als Folge wird ein fünftes Segment „Chemicals & Materials" geschaffen.
+- **Hamberger-Akquisition abgeschlossen (31. März 2026):** Übernahme des Fußbodengeschäfts der Hamberger Industriewerke abgeschlossen – stärkt das Segment Goods & Services als neues Plattforminvestment.
+- **Hohes Transaktionsmomentum Q2 2026:** Management erwartet sehr aktive Akquisitions- und Exit-Aktivität im zweiten Quartal 2026 auf beiden Seiten der Transaktionstätigkeit.
+- **Neue Segmentstruktur:** Durch den SABIC-ETP-Deal wird die Segmentstruktur auf fünf Bereiche ausgeweitet.
 
 ## Quellen
 
-- [Mutares beschließt Bezugsrechtskapitalerhöhung – US-Expansion](https://mutares.com/mutares-beschliest-bezugsrechtskapitalerhohung-zur-beschleunigung-des-wachstums-mit-einer-forcierten-expansion-in-den-usa/)
-- [Mutares schließt Kapitalerhöhung erfolgreich ab](https://mutares.com/en/mutares-se-co-kgaa-successfully-completes-capital-increase-with-subscription-rights-2/)
-- [Kapitalerhöhung abgeschlossen – Finanznachrichten](https://www.finanznachrichten.de/nachrichten-2026-04/68263338-kapitalerhoehung-abgeschlossen-mutares-sichert-frisches-kapital-fuer-us-wachstum-016.htm)
-- [Mutares erwartet hohes Transaktionsmomentum Q2 2026](https://mutares.com/en/mutares-expects-high-transaction-activity-in-the-second-quarter-of-2026/)
-- [Mutares acquires Magna auto suppliers – S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/4/mutares-acquires-magna-auto-suppliers-sterling-acquires-healthcare-linen-100582784)
-- [Mutares: Verkauf inTime Group – Finanznachrichten](https://www.finanznachrichten.de/nachrichten-2026-04/68193161-mutares-gelingt-schneller-exit-logistik-tochter-verkauft-wertschoepfung-in-rekordzeit-617.htm)
-- [Mutares Übernahme Hamberger Industriewerke](https://mutares.com/mutares-hat-die-ubernahme-des-fusbodengeschafts-der-hamberger-industriewerke-abgeschlossen/)
-- [Mutares: 105 Millionen für USA-Expansion – Stock World](https://www.stock-world.de/mutares-105-millionen-fuer-usa-expansion/)
-- [Mutares: Die Gelegenheiten bieten sich jetzt – Finanznachrichten (CEO/CIO Interview)](https://www.finanznachrichten.de/nachrichten-2026-04/68205487-mutares-die-gelegenheiten-fuer-investitionen-bieten-sich-jetzt-124.htm)
-- [Mutares Aktie: Optimistische Prognose für 2026 – Stockwatch](https://www.stockwatch.de/mutares-aktie-optimistische-prognose-fuer-2026)
+- [Mutares – Kapitalerhöhungsbeschluss (01.04.2026)](https://mutares.com/en/mutares-approves-capital-increase-with-subscription-rights-to-accelerate-growth-through-aggressive-expansion-in-the-u-s/)
+- [Mutares – Kapitalerhöhung erfolgreich abgeschlossen (22.04.2026)](https://mutares.com/en/mutares-se-co-kgaa-successfully-completes-capital-increase-with-subscription-rights-2/)
+- [Mutares – Hohe Transaktionsaktivität Q2 2026 erwartet](https://mutares.com/en/mutares-expects-high-transaction-activity-in-the-second-quarter-of-2026/)
+- [Mutares – Verkauf Relobus](https://mutares.com/mutares-unterzeichnet-vereinbarung-zum-verkauf-von-relobus-an-infracapital/)
+- [Mutares – Rekordgeschäftsjahr 2025 & Mittelfristziele](https://mutares.com/mutares-mit-weiterem-rekordjahr-nach-vorlaufigen-ungepruften-zahlen-steigert-mutares-konzernumsatz-und-nettoergebnis-der-holding-im-geschaftsjahr-2025-anhebung-der-mittelfristziele-auf-25/)
+- [Mutares – Übernahme Hamberger Industriewerke](https://mutares.com/mutares-hat-die-ubernahme-des-fusbodengeschafts-der-hamberger-industriewerke-abgeschlossen/)
+- [Finanznachrichten – CIO Interview April 2026](https://www.finanznachrichten.de/nachrichten-2026-04/68205487-mutares-die-gelegenheiten-fuer-investitionen-bieten-sich-jetzt-124.htm)
+- [Finanznachrichten – Exit Logistik-Tochter](https://www.finanznachrichten.de/nachrichten-2026-04/68193161-mutares-gelingt-schneller-exit-logistik-tochter-verkauft-wertschoepfung-in-rekordzeit-617.htm)
+- [Finanznachrichten – Kapitalerhöhung abgeschlossen](https://www.finanznachrichten.de/nachrichten-2026-04/68263338-kapitalerhoehung-abgeschlossen-mutares-sichert-frisches-kapital-fuer-us-wachstum-016.htm)
+- [S&P Global – Mutares acquires Magna auto suppliers](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/4/mutares-acquires-magna-auto-suppliers-sterling-acquires-healthcare-linen-100582784)
+- [EQS News – Vorabplatzierung Kapitalerhöhung](https://www.eqs-news.com/de/news/corporate/mutares-platziert-vorabplatzierung-der-kapitalerhoehung-erfolgreich-deutliche-ueberzeichnung-und-starkes-internationales-investoreninteresse/a5dd49c1-7717-482c-b58f-c9cd68da1616)
+- [Anleihen-Finder – Kapitalerhöhung & US-Expansion](https://www.anleihen-finder.de/mutares-beschliesst-kapitalerhoehung-und-plant-weitere-expansion-in-den-usa-00071700.html)
+- [Stock-World – 105 Mio. für USA-Expansion](https://www.stock-world.de/mutares-105-millionen-fuer-usa-expansion/)
 - [Mutares IR – Neuigkeiten](https://ir.mutares.com/)
