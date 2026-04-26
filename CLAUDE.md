@@ -1,34 +1,17 @@
-# Investor Radar – Claude Code Runbook
+# Investor Information – Claude Code Routine
 
-## Trigger
-Sobald der Nutzer eine dieser Phrasen schreibt, führe sofort **Task 0 → Tasks 1–25 → Task 26** komplett durch, ohne Rückfragen und ohne Zwischenstopps:
-- „starte" / „start"
-- „führe aus" / „führe claude.md aus"
-- „wöchentlicher run" / „weekly run"
-- „mache weiter" / „weiter"
-
-## Sofortregeln
-- Repo: `/home/user/investor-information` | Branch: `claude/admiring-maxwell-wlJWm`
-- „führe alle tasks aus" / „mache weiter" → **ohne Stopp durchlaufen**
+## Rules
+- Repo: `/home/user/investor-information` 
 - Max **6 parallele Agents** pro Batch (sonst Rate Limit)
-- Niemals auf `main` pushen
+- mach die neue Branche zu Default Branche
+- überdenke deine token usage, plane den gesamten Ablauf voraus, sodass du mit den Tokens einer Pro Subscription innerhalb eines 5 Stunden Tokenwindows aus kommst.
+- Lese das Laufprotokoll und lerne entsprechend
 
 ---
 
-## Task 0 – Cleanup
+## Task 0 – Metadata
 
-```bash
-REPO=/home/user/investor-information
-BRANCH=claude/admiring-maxwell-wlJWm
-git -C $REPO pull origin $BRANCH 2>&1 || true
-rm -f $REPO/results/*.md $REPO/results/*.log $REPO/index.html
-mkdir -p $REPO/results && touch $REPO/results/.gitkeep
-git -C $REPO add -A
-git -C $REPO commit -m "Cleanup: Starte neue Recherche KW$(date +%V)-$(date +%Y)"
-git -C $REPO push -u origin $BRANCH
-```
-
-Dann `results/_meta.md` schreiben:
+`results/_meta.md` schreiben:
 ```
 KW: [date +%V]
 JAHR: [date +%Y]
@@ -79,7 +62,7 @@ Datei: /home/user/investor-information/results/[FILE]
    Leere Abschnitte: "Keine aktuellen Informationen gefunden."
 
 3. Git push (mit Retry):
-   REPO=/home/user/investor-information; B=claude/admiring-maxwell-wlJWm
+   REPO=/home/user/investor-information; B=claude/***
    git -C $REPO pull --rebase origin $B 2>&1
    git -C $REPO add results/[FILE]
    git -C $REPO commit -m "[FIRMA]: Recherche KW[XX]-[JAHR]"
@@ -126,7 +109,7 @@ python3 /home/user/investor-information/scripts/build_site.py
 REPO=/home/user/investor-information; B=claude/awesome-pasteur-PaRk9
 git -C $REPO add index.html
 git -C $REPO commit -m "Website: Investor Radar KW[XX]-[JAHR]"
-git -C $REPO push -u origin claude/admiring-maxwell-wlJWm
+git -C $REPO push -u origin $B
 ```
 
 ### E-Mail (Gmail Draft)
@@ -169,5 +152,4 @@ Tool: `mcp__Gmail__create_draft`
 | Run | KW | Datum | Commits | Anmerkungen |
 |-----|----|-------|---------|-------------|
 | 1 | KW17 | 22.04.2026 | 30 | Erstrun; 13 Agents Rate-Limited; Batch-Größe zu groß (24) |
-| 2 | KW17 | 26.04.2026 | 29 | Erster automatischer Run; 2× ins 5h-Token-Limit gelaufen; alle 25 Dateien vorhanden |
-| 3 | KW17 | 26.04.2026 | 2 | Completion-Run: Task 26 (Website + E-Mail) nachgeholt; Branch auf claude/admiring-maxwell-wlJWm umgestellt |
+| 2 | KW17 | 26.04.2026 | 29 | Erster automatischer Run; 2 mal ins 5 Stunden Token Limit gelaufen, wobei Run 1 innerhalb eines 5 Stunden Tokenwindows durchgelaufen ist |
