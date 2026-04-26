@@ -8,7 +8,7 @@ Sobald der Nutzer eine dieser Phrasen schreibt, führe sofort **Task 0 → Tasks
 - „mache weiter" / „weiter"
 
 ## Sofortregeln
-- Repo: `/home/user/investor-information` | Branch: `claude/awesome-pasteur-PaRk9`
+- Repo: `/home/user/investor-information` | Branch: `claude/admiring-maxwell-wlJWm`
 - „führe alle tasks aus" / „mache weiter" → **ohne Stopp durchlaufen**
 - Max **6 parallele Agents** pro Batch (sonst Rate Limit)
 - Niemals auf `main` pushen
@@ -19,7 +19,7 @@ Sobald der Nutzer eine dieser Phrasen schreibt, führe sofort **Task 0 → Tasks
 
 ```bash
 REPO=/home/user/investor-information
-BRANCH=claude/awesome-pasteur-PaRk9
+BRANCH=claude/admiring-maxwell-wlJWm
 git -C $REPO pull origin $BRANCH 2>&1 || true
 rm -f $REPO/results/*.md $REPO/results/*.log $REPO/index.html
 mkdir -p $REPO/results && touch $REPO/results/.gitkeep
@@ -79,7 +79,7 @@ Datei: /home/user/investor-information/results/[FILE]
    Leere Abschnitte: "Keine aktuellen Informationen gefunden."
 
 3. Git push (mit Retry):
-   REPO=/home/user/investor-information; B=claude/awesome-pasteur-PaRk9
+   REPO=/home/user/investor-information; B=claude/admiring-maxwell-wlJWm
    git -C $REPO pull --rebase origin $B 2>&1
    git -C $REPO add results/[FILE]
    git -C $REPO commit -m "[FIRMA]: Recherche KW[XX]-[JAHR]"
@@ -126,7 +126,7 @@ python3 /home/user/investor-information/scripts/build_site.py
 REPO=/home/user/investor-information; B=claude/awesome-pasteur-PaRk9
 git -C $REPO add index.html
 git -C $REPO commit -m "Website: Investor Radar KW[XX]-[JAHR]"
-git -C $REPO push -u origin $B
+git -C $REPO push -u origin claude/admiring-maxwell-wlJWm
 ```
 
 ### E-Mail (Gmail Draft)
@@ -169,3 +169,5 @@ Tool: `mcp__Gmail__create_draft`
 | Run | KW | Datum | Commits | Anmerkungen |
 |-----|----|-------|---------|-------------|
 | 1 | KW17 | 22.04.2026 | 30 | Erstrun; 13 Agents Rate-Limited; Batch-Größe zu groß (24) |
+| 2 | KW17 | 26.04.2026 | 29 | Erster automatischer Run; 2× ins 5h-Token-Limit gelaufen; alle 25 Dateien vorhanden |
+| 3 | KW17 | 26.04.2026 | 2 | Completion-Run: Task 26 (Website + E-Mail) nachgeholt; Branch auf claude/admiring-maxwell-wlJWm umgestellt |
