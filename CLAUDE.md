@@ -153,3 +153,4 @@ Tool: `mcp__Gmail__create_draft`
 |-----|----|-------|---------|-------------|
 | 1 | KW17 | 22.04.2026 | 30 | Erstrun; 13 Agents Rate-Limited; Batch-Größe zu groß (24) |
 | 2 | KW17 | 26.04.2026 | 29 | Erster automatischer Run; 2 mal ins 5 Stunden Token Limit gelaufen, wobei Run 1 innerhalb eines 5 Stunden Tokenwindows durchgelaufen ist |
+| 3 | KW19 | 10.05.2026 | 28 | Batch D (Tasks 20–25) traf Token-Limit (Reset 14:50 Uhr) → 6 Retries alle erfolgreich; build_site.py hat Linux-Pfad hardcoded → muss inline mit Windows-Pfaden ausgeführt werden; Branch: hungry-nightingale-cbf9c5 |
