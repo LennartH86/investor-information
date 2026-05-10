@@ -1,45 +1,47 @@
 # Italmobiliare (ITM.MI)
-_KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
+_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
 
 ## Aktuelle Meldungen
-- **Hauptversammlung (22. April 2026):** Die Shareholders' Meeting fand am 22. April 2026 statt; 76,08 % des Grundkapitals waren vertreten.
-- **Jahresabschluss 2025 genehmigt:** Die Aktionäre billigten den Jahresabschluss zum 31. Dezember 2025, der mit einem Gewinn von 55,4 Mio. Euro und einer positiven Nettoliquiditätsposition von +231,0 Mio. Euro abschloss.
-- **Dividende beschlossen:** Ausschüttung von 1,10 Euro je Aktie (brutto) für das Geschäftsjahr 2025; Ex-Datum: 4. Mai 2026, Record-Date: 5. Mai 2026, Zahlung: 6. Mai 2026.
-- **Aktienrückkaufprogramm:** Launch des Buy-back-Programms wurde angekündigt/bestätigt.
-- **One-Tier-Governance-System (24. April 2026):** Die Hauptversammlung beschloss die Satzungsänderungen zur Einführung des einstufigen Verwaltungs- und Kontrollsystems (One-Tier-System), bei dem der Verwaltungsrat ein Management Control Committee umfasst – das in der internationalen Unternehmenswelt am weitesten verbreitete Modell.
-- **Neuer Verwaltungsrat:** Für die Dreijahresperiode 2026–2028 wurde ein 12-köpfiger Verwaltungsrat bestellt.
+- **Dividendenzahlung (6. Mai 2026):** Italmobiliare hat die Dividende von 1,10 Euro je Aktie (brutto) für das Geschäftsjahr 2025 wie angekündigt ausgezahlt. Ex-Datum war der 4. Mai, Record-Date der 5. Mai 2026.
+- **Hauptversammlungsprotokoll veröffentlicht (8. Mai 2026):** Italmobiliare veröffentlichte das Protokoll der ordentlichen Hauptversammlung vom 22. April 2026.
+- **SIDI – Neues Logo:** Die Portfoliogesellschaft SIDI (Schuh-/Outdoor-Marke) hat im Mai 2026 ein neues Logo vorgestellt, was den laufenden Relaunch und die Erneuerung der Marke unterstreicht.
+- **Aktienrückkaufprogramm aktiv:** Das im März 2026 gestartete Buy-back-Programm läuft; bis zu 300.000 Aktien für maximal 10 Mio. Euro werden zurückgekauft, um Treasury-Aktien für mögliche M&A-Transaktionen zu bilden.
+- **Q1-Ergebnisse erwartet am 13. Mai 2026:** Italmobiliare wird am 13. Mai 2026 zusätzliche periodische Finanzinformationen zum 31. März 2026 veröffentlichen.
 
 ## Management
-- **CEO:** Carlo Pesenti – leitet Italmobiliare als modernes Investment-Holding-Unternehmen; präsentiert gemeinsam mit der Vorsitzenden die Strategie der Gruppe.
-- **Vorsitzende (Chairman):** Laura Zanetti.
-- **Neues Langfrist-Anreizprogramm:** Die Hauptversammlung genehmigte den „Italmobiliare 2026–2028 Phantom Stock Grant Plan" für den CEO, die wichtigsten Führungskräfte und weitere vom CEO ausgewählte Manager.
-- Kein spezifisches CEO-Interview im Recherchezeitraum gefunden; Strategie und Ausblick wurden zuletzt beim Capital Market Day 2025 (Präsentation Laura Zanetti / Carlo Pesenti) kommuniziert.
+- **CEO & Chairman: Carlo Pesenti** – Seit dem 28. April 2026 ist Carlo Pesenti sowohl Chairman als auch CEO (One-Tier-Governance). Er kommunizierte in einem Interview mit L'Economia/Corriere della Sera (4. Mai 2026) die strategische Neuausrichtung: stärkere Internationalisierung und mögliche Ernennung eines externen CEO außerhalb der Familie Pesenti.
+- **Strategisches Leitbild (Interview Pesenti, Mai 2026):** Seit dem Verkauf von Italcementi 2016 investiert Italmobiliare systematisch in exzellente italienische Marken – darunter Caffè Borbone (Kaffee), Officina Profumo-Farmaceutica di Santa Maria Novella (Luxus-Pharmazeutik), Tecnica (Outdoor) und Iseo (Sicherheit).
+- **Alarico Melissari (Italmobiliare):** Als Gast der Interview-Reihe „Conversazione con i Giganti" von eToro sprach ein Italmobiliare-Manager über die Gruppe und ihre Portfoliounternehmen (2026).
+- **One-Tier-Board:** Der im April 2026 neu bestellte 12-köpfige Verwaltungsrat für die Periode 2026–2028 ist nun operativ tätig.
 
 ## Finanzielles
-- **NAV (31. Dezember 2025):** 2.304,9 Mio. Euro; NAV je Aktie: 54,8 Euro; positive Veränderung gegenüber Vorjahr: +133,2 Mio. Euro (+6 %), getragen durch Wertsteigerungen im Portfolio.
-- **Konzernumsatz (Portfolio-Unternehmen, pro forma 2025):** 1.750 Mio. Euro (+9,7 % ggü. Vorjahr).
-- **Ergebnis Italmobiliare S.p.A. 2025:** Jahresgewinn 55,4 Mio. Euro; positive Nettoliquiditätsposition +231,0 Mio. Euro.
-- **Nächste Quartalsberichterstattung:** Zusätzliche periodische Finanzinformationen zum 31. März 2026 geplant für den 13. Mai 2026; zum 30. September 2026 am 11. November 2026.
-- **Analystenschätzungen 2026 (Eulerpool):** Umsatzerwartung für Italmobiliare SpA ca. 701,37 Mrd. EUR (Anstieg ca. +19,74 %), basierend auf Konsensdaten (Schätzwert, extern).
+- **Jahresergebnis 2025:** Konzernumsatz (Portfolio-Unternehmen, pro forma): 1.750 Mio. Euro (+9,7 % ggü. Vorjahr); Jahresgewinn Italmobiliare S.p.A.: 55,74 Mio. Euro; EPS (fortgeführte Aktivitäten): 1,321 Euro.
+- **NAV (31. Dezember 2025):** 2.305 Mio. Euro; NAV je Aktie: 54,80 Euro (+6,0 % ggü. Vorjahr). Kursstand ca. 27,55 Euro – der Abschlag zum NAV beträgt rund 50 %.
+- **Dividende 2025:** 1,10 Euro je Aktie, ausgezahlt am 6. Mai 2026.
+- **Analystenkonsens (Eulerpool):** Umsatzerwartung 2026 ca. 701 Mrd. EUR Konsens-Schätzung (+19,74 % ggü. Vorjahr, externer Schätzwert).
+- **Nächste Veröffentlichungen:** Zusätzliche periodische Finanzinformationen Q1 (31. März 2026) am 13. Mai 2026; H1 am 29. Juli 2026; Q3 am 11. November 2026.
+- **Nettoliquiditätsposition:** +231,0 Mio. Euro (Stand 31. Dezember 2025).
 
 ## Strategie & Ausblick
-- **Governance-Reform:** Einführung des One-Tier-Systems stärkt internationale Vergleichbarkeit und Corporate-Governance-Standards; langfristig soll dies die Attraktivität für internationale Investoren erhöhen.
-- **Portfolio-Wachstum:** Kernportfolio-Unternehmen wachsen dynamisch: Caffè Borbone +10,8 % (370,8 Mio. Euro Umsatz), CDS-Casa della Salute +26,8 % (80,2 Mio. Euro), Bene Assicurazioni +21,7 %.
-- **Clessidra Group:** Fundraising von über 250 Mio. Euro erwartet; wesentlicher Beitrag zu Gebühren- und Provisionseinnahmen ab 2026 erwartet (Portfolio: Roberto Cavalli, Buccellati u. a.).
-- **Italgen (Energie):** Im Juli 2025 zwei Wasserkraftwerke erworben; installierte Kapazität nun 87 MW – Fokus auf erneuerbare Energien wird fortgesetzt.
-- **Investitionsstrategie:** Diversifiziertes Portfolio über Sektoren Baustoffe, Chemie, Energie, Gesundheit, Finanzen und Konsumgüter; zuletzt (September 2025) Investition in Mainsim; aktive Portfoliosteuerung wird fortgeführt.
-- **Langfristanreizplan 2026–2028:** Signalisiert Kontinuität im Management und Fokus auf langfristige Wertschöpfung.
+- **Internationalisierung als neue Priorität:** CEO Pesenti kündigte an, dass Italmobiliare künftig verstärkt im Ausland investieren will („there will be more abroad"). Bislang lag der Fokus auf exzellenten italienischen Marken; nun soll die internationale Diversifikation ausgebaut werden.
+- **Möglicher externer CEO:** Pesenti signalisierte die Bereitschaft, einen familienexternen CEO zu berufen – ein Schritt, der die professionelle Führung der Holding stärken soll.
+- **One-Tier-Governance:** Die im April 2026 beschlossene Reform stärkt die internationale Vergleichbarkeit und Investorenansprache; der neue Board ist ab sofort operativ tätig.
+- **Portfolio-Highlights (2025 Basis für 2026):** Caffè Borbone: 370,8 Mio. Euro Umsatz (+10,8 %), Auslandsgeschäft +47 %; CDS-Casa della Salute: 80,2 Mio. Euro (+26,8 %); Officina SMN: 74,4 Mio. Euro (+6,3 %); Bene Assicurazioni +21,7 %.
+- **Italgen (Energie):** Zwei Wasserkraftwerke erworben (Juli 2025), installierte Kapazität nun 87 MW – Ziel: Überschreitung von 100 MW; Fokus auf erneuerbare Energien bleibt bestehen.
+- **Buy-back-Programm als Akquisitionsvorbereitung:** Das laufende Rückkaufprogramm dient explizit der Bildung einer Aktienreserve für zukünftige M&A-Transaktionen.
+- **Clessidra Group:** Fundraising von über 250 Mio. Euro erwartet; Beiträge zu Gebühren- und Provisionseinnahmen ab 2026 antizipiert (Portfolio: Roberto Cavalli, Buccellati u. a.).
+- **Discount zum NAV als Investitionsthema:** Der anhaltende ~50 %-Abschlag des Aktienkurses zum NAV wird von Analysten (u. a. filosofaresuimercati.eu) als attraktive Einstiegsgelegenheit kommuniziert.
 
 ## Quellen
+- [Dividend for the financial year 2025 | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/dividend-financial-year-2025)
 - [Shareholders' Meeting: 2025 financial statements & dividend approved | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/shareholders-meeting-approved-2025-financial-statements-and-distribution)
-- [Dividend for financial year 2025 | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/dividend-financial-year-2025)
-- [Notice of call and Board of Directors report | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/notice-call-and-board-directors-report-extrordinary-and-ordinary-general)
-- [Launch of the buy-back program | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/launch-buy-back-program-0)
 - [Press Releases | Italmobiliare](https://www.italmobiliare.it/en/investor/press-releases)
+- [Launch of the buy-back program | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/launch-buy-back-program-0)
 - [Financial Results December 31, 2025 – Press Release (PDF)](https://www.italmobiliare.it/sites/default/files/pressrelease/2026-03/ITALMOBILIARE%20financial%20results%20December%2031,%202025.pdf)
 - [March 2026 Company Presentation (PDF)](https://www.italmobiliare.it/sites/default/files/documenti/032026_Company%20Presentation%20IR_NAV31122025%20ENG.pdf)
-- [Capital Market Day 2025 – CEO Presentation (PDF)](https://www.italmobiliare.it/sites/default/files/page/attachments/Italmobiliare%20-%20Italmobiliare%20Capital%20Market%20Day_0.pdf)
+- [Holding a Sconto: Italmobiliare – Filosofare sui mercati (4. Mai 2026)](https://www.filosofaresuimercati.eu/2026/05/04/holding-a-sconto-italmobiliare/)
+- [Alarico Melissari (Italmobiliare) – Conversazione con i Giganti | BeBeez](https://bebeez.it/bebeez-web-tv/e-alarico-melissari-italmobiliare-lospite-della-seconda-puntata-di-conversazione-con-i-giganti-il-ciclo-di-interviste-di-etoro-ai-top-manager-delle-societa-italiane-quotate/)
 - [Italmobiliare Stock Forecast & ITM Price Target 2026 | StocksGuide](https://stocksguide.com/en/forecast/Italmobiliare-IT0005253205)
-- [Italmobiliare Moves Toward Adoption of Monistic Governance | MarketScreener](https://www.marketscreener.com/news/italmobiliare-moves-toward-adoption-of-monistic-governance-ce7e5bded08bf623)
 - [Italmobiliare SpA Revenue 2026 | Eulerpool](https://eulerpool.com/stock/Italmobiliare-SpA-Stock-IT0005253205/revenue)
-- [Italmobiliare Investment Portfolio | CB Insights](https://www.cbinsights.com/investor/italmobiliare)
+- [Italmobiliare NAV | Italmobiliare](https://www.italmobiliare.it/en/investor/nav)
+- [MarketScreener – Italmobiliare](https://www.marketscreener.com/news/yearly-payment-ce7e5edcd98af026)

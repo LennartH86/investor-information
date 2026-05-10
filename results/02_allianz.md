@@ -1,46 +1,46 @@
 # Allianz (ALV.DE)
-_KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
+_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
 
 ## Aktuelle Meldungen
-- **Allianz Global Investors erwirbt 51 % an GESI (25.04.2026):** AllianzGI hat eine kontrollierende Mehrheitsbeteiligung an der Green Energy Storage Initiative (GESI) erworben – einem deutschen Entwickler großskaliger Batteriespeichersysteme mit 2,6 GW Projekte in der Pipeline.
-- **Allianz Trade warnt vor Insolvenzanstieg:** Das Kreditversicherungsarm der Gruppe prognostiziert einen Anstieg globaler Unternehmensinsolvenzen um 6 % im Jahr 2026, getrieben durch geopolitische Spannungen (insbesondere Nahost-Konflikt) und steigende Energiekosten. Der Nahost-Konflikt allein soll über 700 zusätzliche Insolvenzen in den USA verursachen.
-- **Allianz Life erweitert Rentenprodukte (21.04.2026):** Allianz Life Insurance Company of North America lanciert die „Allianz Accumulation Advantage 5", eine neue Fixed Index Annuity mit 5-Jahres-Auszahlungsperiode für den US-Markt.
-- **Allianz Risk Barometer 2026:** Allianz Commercial veröffentlichte den Risikoausblick 2026, der wachsende Geschäftsrisiken durch Zölle, schwache Nachfrage und hohe Energiekosten beleuchtet.
-- **Hauptversammlung am 7. Mai 2026:** Die geplante Dividende von 17,10 € je Aktie wird zur Abstimmung gestellt – ein Anstieg von 11 % gegenüber dem Vorjahr, entspricht einer Rendite von ca. 4,4 % auf Basis des aktuellen Kurses.
+- **Hauptversammlung am 7. Mai 2026:** Die Allianz SE hielt ihre Hauptversammlung ab; 51,21 % des Grundkapitals waren vertreten. Historische Schwelle erreicht: Im April 2026 überschritt Allianz erstmals die Marke von einer Million Privataktionäre, die direkt Anteile halten.
+- **Dividende 17,10 € je Aktie beschlossen:** Die HV bestätigte die Dividende von 17,10 € pro Aktie (+11 % gegenüber Vorjahr), entspricht einer Rendite von ca. 4,4 %.
+- **Allianz Commercial überträgt Standalone-Cyber-Portfolio an Coalition (06.05.2026):** In einer langfristigen Partnerschaft übernimmt Coalition, die San Francisco-basierte Insurtech, das globale kommerzielle Standalone-Cyber-Versicherungsgeschäft von Allianz. Coalition wird für Pricing, Produktentwicklung, Risikominderung und Schadensmanagement zuständig sein. Der Deal soll Coalition über 1 Milliarde US-Dollar Prämienvolumen katapultieren.
+- **Neuer Global Head of Multinational bei Allianz Commercial (08.05.2026):** Karol Dobias übernimmt mit Wirkung zum 1. Juni 2026 die Position des Global Head of Multinational bei Allianz Commercial und AGCS, verantwortlich für globales Wachstum und das neu eröffnete Multinational Excellence Center in Madrid.
+- **Q1 2026-Ergebnisse (30.04.2026):** Allianz meldete für Q1 2026 einen Gewinn nach Steuern von 2,6 Mrd. €, +16,1 % gegenüber Q1 2025. Das gesamte Geschäftsvolumen lag bei 47,0 Mrd. € (+8,2 % YoY), getrieben durch höhere Versicherungsmargen und starke Asset-Management-Performance.
 
 ## Management
-- **CEO Oliver Bäte (Monocle-Interview, Februar 2026):** Bäte diskutierte beim Monocle-Radio-Broadcast aus Mailand (anlässlich der Olympischen Winterspiele 2026) globalen Sport, Unternehmensverantwortung und Europas Zukunft. Er betonte, dass Italien nach Deutschland der zweitwichtigste Markt für Allianz ist.
-- **CEO Oliver Bäte bei Davos (Januar 2026):** Bäte sprach sich beim Weltwirtschaftsforum für konsequente Diversifikation im Hinblick auf geopolitische und wirtschaftliche Risiken aus. Zum Thema Klimaneutralität bekräftigte er Allianz' Engagement – allerdings mit pragmatischem Ansatz: „Make it a target and then keep focusing on it." Allianz hat den eigenen Energieverbrauch um mehr als 40 % reduziert.
-- **Vorstandsänderungen (März 2026):** Allianz SE gab Änderungen im Vorstand bekannt (Details laut Pressemeldung vom 12.03.2026).
-- **Christophe Zaniewski (1. April 2026):** Allianz Commercial ernannte Christophe Zaniewski zum Managing Director für Frankreich.
+- **CEO Oliver Bäte – Hauptversammlung 7. Mai 2026:** Bäte betonte in seiner Rede vor den Aktionären das Vertrauen in die Gruppe sowie strategische Wachstumsinitiativen. Erstmals hält eine Million Privataktionäre direkt Alteile an Allianz – ein Zeichen gestiegenen Vertrauens.
+- **CEO Oliver Bäte – Monocle-Interview (Februar 2026):** Bäte sprach in Mailand anlässlich der Olympischen Winterspiele über Unternehmensverantwortung, Europa und Kundenvertrauen; das Vertrauen der Kunden sei in der 136-jährigen Geschichte der Allianz noch nie so hoch gewesen.
+- **CEO Oliver Bäte bei Davos (Januar 2026):** Bäte bekräftigte Allianz' Engagement für Diversifikation und Nachhaltigkeit; kritisierte kurzfristiges Denken beim Thema Net Zero als „bulls---". Allianz hat den eigenen Energieverbrauch um mehr als 40 % gesenkt.
+- **Karol Dobias** (ab 1. Juni 2026): Neuer Global Head of Multinational bei Allianz Commercial und AGCS.
 
 ## Finanzielles
-- **Vorläufige Ergebnisse GJ 2025 (26.02.2026):** Allianz veröffentlichte die vorläufigen Jahreszahlen für 2025 – Detailergebnisse auf der Allianz Investor-Relations-Seite verfügbar.
-- **Nächste Quartalsmitteilung: 13. Mai 2026** – Quartalsmitteilung Q1 2026 mit Financial Supplement und Telefonkonferenzen für Analysten und Journalisten in München.
-- **Halbjahresbericht: 7. August 2026.**
-- **Dividende 2026:** 17,10 € je Aktie (+11 % gegenüber Vorjahr), Dividendenrendite ca. 4,4 %. Abstimmung auf der HV am 7. Mai 2026.
-- **Analystenschätzungen (finanzen.net):** Konsensus-Prognosen für 2026 weiterhin positiv; genaue EPS-Schätzungen unter finanzen.net/schätzungen verfügbar.
+- **Q1 2026:** Gewinn nach Steuern 2,6 Mrd. € (+16,1 % YoY); Gesamtgeschäftsvolumen 47,0 Mrd. € (+8,2 % YoY); starke Entwicklung in Versicherung und Asset Management.
+- **Gesamtjahr 2025 (veröffentlicht 26.02.2026):** Rekord-Betriebsergebnis von 17,4 Mrd. € (+8,4 % YoY).
+- **Ziel 2026:** Betriebsgewinn 17,4 Mrd. € ± 1 Mrd. €.
+- **Dividende 2026:** 17,10 € je Aktie (+11 % ggü. Vorjahr), HV-Bestätigung am 7. Mai 2026.
+- **Aktienrückkauf:** Allianz löste ein neues Rückkaufprogramm mit einem Volumen von bis zu 2,5 Mrd. € aus (Ankündigung 25.02.2026).
+- **Nächste Termine:** Halbjahresbericht 7. August 2026.
 
 ## Strategie & Ausblick
-- **Energiewende-Fokus:** Mit dem Kauf von 51 % an GESI (Batteriespeicher) und dem geplanten Erwerb einer indirekten Beteiligung am deutschen Stromnetzbetreiber Amprion (voraussichtlich Abschluss Q2 2026) verstärkt AllianzGI konsequent das Portfolio in erneuerbaren Energien und Infrastruktur.
-- **HSBC Life-Gebot (März 2026):** Allianz und Sunlife prüfen Gebote für die Versicherungssparte von HSBC (HSBC Life); der Verkaufsprozess läuft seit März 2026 – ein potenziell bedeutender M&A-Deal.
-- **Viridium-Akquisition abgeschlossen:** Das Konsortium aus Allianz, BlackRock, Generali, Hannover Re und T&D Holdings hat die Übernahme der Viridium Group (Lebensversicherungs-Run-off) abgeschlossen.
-- **Geopolitische Absicherung:** CEO Bäte betont Diversifikation als strategisches Leitmotiv; Allianz Trade sieht erhöhte Insolvenzrisiken durch Zölle und geopolitische Spannungen als zentrales Thema für 2026.
-- **Allianz Life Rentenstudie 2026:** 67 % der Amerikaner fürchten mehr, ihr Geld zu überleben als zu sterben (+ 10 Prozentpunkte seit 2022) – dies unterstreicht Allianz' strategisches Wachstumspotenzial im US-Rentenmarkt.
+- **Cyber-Partnerschaft mit Coalition:** Allianz zieht sich aus dem direkten Underwriting im Standalone-Cyber-Bereich zurück und setzt auf ein MGA-Modell mit Coalition als Partner – strategische Fokussierung auf kapitalleichtere Strukturen in diesem volatilen Segment.
+- **Energiewende und Infrastruktur:** AllianzGI hält weiterhin 51 % an GESI (deutscher Batteriespeicher-Entwickler, 2,6 GW Pipeline) und investiert erstmals in ein deutsches Stromnetz (Amprion-Beteiligung, Abschluss Q2 2026 erwartet).
+- **Aktionärsbasis ausgebaut:** Erstmals über eine Million Privataktionäre – stärkt Kapitalmarktstory und Markenbindung.
+- **HSBC Life-Gebot läuft:** Allianz und Sunlife prüfen weiterhin Gebote für die Versicherungssparte von HSBC (HSBC Life); potenziell bedeutender M&A-Deal in 2026.
+- **Multinational Excellence Center Madrid:** Ausbau der globalen Betreuungskapazitäten für multinationale Unternehmenskunden unter neuem Führungsteam.
 
 ## Quellen
-- [Allianz Life: New Accumulation-Focused Fixed Index Annuities (21.04.2026)](https://www.allianzlife.com/about/newsroom/2026-Press-Releases/Allianz-Life-Adds-New-Accumulation-Focused-Fixed-Index-Annuities)
-- [Allianz: Insolvency Warning – Middle East conflict (onenewspage.com)](https://www.onenewspage.com/n/Markets/1ztf28o0t0/Middle-East-conflict-to-add-over-700-business.htm)
-- [Allianz's Two-Front War: Green Storage Expansion (stockstoday.com)](https://stockstoday.com/allianzs-two-front-war-green-storage-expansion-meets-a-bleak-insolvency-warning/)
-- [AllianzGI buys 51% stake in GESI (renewablesnow.com)](https://renewablesnow.com/news/allianzgi-buys-51-percent-stake-in-german-energy-storage-firm-gesi-1293604/)
-- [AllianzGI buys stake in Amprion (allianzgi.com)](https://www.allianzgi.com/en/press-centre/media/press-releases/20260326-allianzgi-buys-stake-in-german-grid-amprion)
-- [Allianz CEO Oliver Bäte – Monocle Interview (monocle.com)](https://monocle.com/business/oliver-bate-allianz-ceo-interview/)
-- [Allianz CEO Bäte bei Davos/CNBC (01/2026)](https://www.cnbc.com/video/2026/01/20/trying-to-look-through-the-noise-for-the-signal-allianz-ceo.html)
-- [Allianz SE – Vorstandsänderungen (allianz.com)](https://www.allianz.com/en/mediacenter/news/media-releases/financials/260312-allianz-se-announces-changes-to-its-board-of-management.html)
-- [Allianz Finanzkalender 2026 (allianz.com)](https://www.allianz.com/de/investor_relations/konferenzen-praesentationen/finanzkalender.html)
-- [Allianz Tagesordnung HV 2026 (allianz.com)](https://www.allianz.com/de/investor_relations/aktionaere/hauptversammlung/tagesordnung-2026.html)
-- [Allianz Risk Barometer 2026 (commercial.allianz.com)](https://commercial.allianz.com/news-and-insights/news/allianz-risk-barometer-2026/de.html)
-- [Allianz Trade – Global Survey 2026 (presseportal.de)](https://www.presseportal.de/nr/65275)
-- [Allianz SE Acquisitions Overview (tracxn.com)](https://tracxn.com/d/acquisitions/acquisitions-by-allianz/__C6DRwKJs6hEWvw1GjVTQnaz_HKpjusF_cvNVPtrRxBY)
-- [Viridium Acquisition abgeschlossen (allianz.com)](https://www.allianz.com/en/mediacenter/news/media-releases/financials/250801-consortium-completes-acquisition-of-viridium.html)
-- [Allianz Life Retirement Study 2026 (Yahoo Finance)](https://finance.yahoo.com/markets/articles/allianz-life-study-finds-fear-151800891.html)
+- [Bericht des Vorstandsvorsitzenden HV 2026 (allianz.com)](https://www.allianz.com/de/investor_relations/aktionaere/hauptversammlung/tagesordnung-2026/rede-baete.html)
+- [Abstimmungsergebnisse HV 2026 (allianz.com – PDF)](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/investor-relations/de/hauptversammlung/dokumentencenter/2026/de-abstimmungsergebnisse-hv-2026.pdf)
+- [Allianz Commercial – Partnerschaft mit Coalition (commercial.allianz.com)](https://commercial.allianz.com/news-and-insights/news/coalition-partnership-2026/de.html)
+- [Allianz transfers cyber book to Coalition (Insurance Business)](https://www.insurancebusinessmag.com/us/news/cyber/allianz-transfers-global-commercial-cyber-portfolio-to-coalition-574271.aspx)
+- [Exclusive: Allianz hands cyber book to Coalition (theinsurer.com)](https://www.theinsurer.com/cyber-risk/news/exclusive-allianz-hands-cyber-book-to-coalition-in-deal-set-to-push-insurtech-2026-05-06/)
+- [Neuer Global Head of Multinational – Karol Dobias (commercial.allianz.com)](https://commercial.allianz.com/news-and-insights/news/new-global-head-of-multinational-2026/de.html)
+- [Allianz SE Q1 2026 Results – Strong Profit Growth (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/allianz-se-stock-de0008404005-q1-2026-results-show-strong-profit-growth/69262531)
+- [Allianz posts 7.7% rise in Q4 2025 net profit (rte.ie)](https://www.rte.ie/news/business/2026/0226/1560519-allianz-quarterly-results/)
+- [Allianz – Aktienrückkaufprogramm 2,5 Mrd. € (allianz.com)](https://www.allianz.com/en/mediacenter/news/media-releases/financials/260225-announcement.html)
+- [Allianz acquires majority stake in GESI (ess-news.com)](https://www.ess-news.com/2026/04/24/allianz-acquires-majority-stake-in-german-large-scale-storage-developer-gesi/)
+- [CEO Oliver Bäte – Monocle Interview (monocle.com)](https://monocle.com/business/oliver-bate-allianz-ceo-interview/)
+- [CEO Oliver Bäte bei CNBC/Davos Januar 2026 (cnbc.com)](https://www.cnbc.com/video/2026/01/20/trying-to-look-through-the-noise-for-the-signal-allianz-ceo.html)
+- [Allianz Ergebnisse & Berichte (allianz.com)](https://www.allianz.com/de/investor_relations/ergebnisse-berichte/ergebnisse.html)
+- [Allianz Finanzkalender (allianz.com)](https://www.allianz.com/en/investor_relations/conferences-presentations/financial-calendar.html)

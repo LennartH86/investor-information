@@ -1,53 +1,53 @@
 # Merck KGaA (MRK.DE)
-_KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
+_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
 
 > **Hinweis:** Merck KGaA, Darmstadt, Deutschland (EMD Group) – NICHT US-Merck & Co. (MRK).
 
 ## Aktuelle Meldungen
 
-- **Q1 2026 Quartalsergebnisse (21. April 2026):** Merck KGaA veröffentlichte seine Q1-2026-Zahlen mit einem Umsatzanstieg von 4,2 % auf ca. 5,2 Mrd. EUR (+6,1 % organisch bereinigt). Alle drei Segmente (Healthcare, Life Science, Electronics) berichteten; Healthcare wuchs um 8,1 % bereinigt auf 2,3 Mrd. EUR, Life Science +5,9 % auf 2,1 Mrd. EUR, Electronics rückläufig -2,4 % auf 1,3 Mrd. EUR (schwache Display-Märkte). Das operative Ergebnis blieb stabil bei ca. 1,1 Mrd. EUR, die Bruttomarge verbesserte sich auf 46,2 %.
-- **CEO-Wechsel angekündigt:** Belén Garijo verlässt Merck KGaA zum 1. Mai 2026. Kai Beckmann (bisheriger Leiter der Electronics-Sparte) übernimmt dann das Amt des Vorstandsvorsitzenden. Garijo wechselt zu Sanofi als CEO (Ankündigung 11. Februar 2026, Antritt Ende April 2026).
-- **Google Cloud Partnerschaft (22. April 2026):** Merck KGaA und Google Cloud verkündeten eine strategische Partnerschaft im Wert von bis zu 1 Mrd. USD, um eine agentenbasierte KI-Plattform (Agentic AI) konzernweit in den Bereichen F&E, Produktion, Vertrieb und Verwaltung einzuführen.
-- **SpringWorks-Übernahme abgeschlossen:** Merck KGaA schloss die Akquisition von SpringWorks Therapeutics in einem 3,4-Mrd.-USD-Deal ab; einzelne Pipeline-Assets aus dem ursprünglichen 3,9-Mrd.-USD-Angebot wurden nicht weiterverfolgt.
+- **Kai Beckmann offiziell neuer CEO (1. Mai 2026):** Auf der 31. Hauptversammlung von Merck KGaA in Frankfurt am Main übernahm Kai Beckmann formell das Amt des Vorstandsvorsitzenden von Belén Garijo. Die Aktionäre billigten die Führungsübergabe und genehmigten eine Dividende von 2,20 EUR je Aktie.
+- **JPMorgan stuft Merck KGaA auf „Overweight" (Mai 2026):** JPMorgan bestätigte die Einstufung mit einem Kursziel von 150 EUR. Die Analysten-Schätzungen für Betriebsergebnis und EPS lagen 2–3 % unterhalb des Marktkonsenses; Q1-2026-Ergebnisse erwartet am 13. Mai 2026.
+- **Aktienkurs nahe Jahreshoch:** Am 8. Mai 2026 notierte die Merck-KGaA-Aktie bei ca. 114,75 EUR an der Frankfurter Börse und damit in der Nähe des Jahreshochs; Pharma- und Life-Science-Sparten im Fokus der Anleger.
+- **Q1 2026 Ergebnisveröffentlichung geplant für 13. Mai 2026:** Merck KGaA wird am 13. Mai 2026 um 7:00 Uhr MEZ die Zahlen zum ersten Quartal 2026 bekanntgeben (gemäß offiziellem Finanzkalender auf emdgroup.com).
+- **Belén Garijo wechselt zu Sanofi:** Ex-CEO Garijo nahm ihre neue Rolle als CEO bei Sanofi auf, nachdem sie nach 15 Jahren (davon 5 als Vorstandsvorsitzende) Merck KGaA verlassen hatte.
 
 ## Management
 
-- **CEO-Nachfolge:** Belén Garijo übergibt das Amt des Vorstandsvorsitzenden (Chairman & CEO) zum 1. Mai 2026 an **Kai Beckmann**, der zuvor die Electronics-Division leitete. Beckmann gilt als Architekt der Semiconductor-Strategie des Konzerns.
-- **Belén Garijo** wechselt zu Sanofi (CEO ab Ende April 2026). Im Januar 2026 hatte sie in einem Interview betont, dass Indien für Merck KGaA der drittgrößte Standort nach USA und China sei, und die strategische Bedeutung von Bio-Electronics (Konvergenz von Biologie und Elektronik) hervorgehoben. Die Merck-Familie hält weiterhin rund 70 % der Anteile (13. Generation).
-- Merck KGaA wird in Nordamerika unter den Marken EMD Serono (Healthcare), MilliporeSigma (Life Science) und EMD Electronics geführt.
+- **Kai Beckmann (neuer CEO seit 1. Mai 2026):** Beckmann stieß 1989 zu Merck und war seit 2011 Mitglied des Vorstands, zuletzt als Leiter der Electronics-Sparte. Er gilt als Architekt der Halbleiter- und Displaymaterialien-Strategie des Konzerns. Mit seiner Ernennung betont Merck KGaA die strategische Bedeutung des Electronics-Segments.
+- **Belén Garijo (ehemalige CEO):** Verließ das Unternehmen nach Ablauf ihrer fünfjährigen Vertragszeit; wechselte zur französischen Sanofi SA als CEO. Auf der Hauptversammlung übergab sie die Führung symbolisch an Beckmann.
+- **Merck-Familie:** Hält weiterhin rund 70 % der Anteile (13. Generation); das Unternehmen bleibt damit mehrheitlich in Familienbesitz.
+- **Nordamerika-Marken:** EMD Serono (Healthcare), MilliporeSigma (Life Science), EMD Electronics.
 
 ## Finanzielles
 
-- **Q1 2026 Umsatz:** ca. 5,2 Mrd. EUR (+4,2 % berichtet, +6,1 % organisch bereinigt gegenüber Q1 2025).
-- **Segmentergebnisse Q1 2026:**
-  - Healthcare: ~2,3 Mrd. EUR (+8,1 % bereinigt)
-  - Life Science: ~2,1 Mrd. EUR (+5,9 % bereinigt)
-  - Electronics: ~1,3 Mrd. EUR (-2,4 % bereinigt; schwache Display-Nachfrage)
-- **Operatives Ergebnis (EBIT):** stabil bei ~1,1 Mrd. EUR; Bruttomarge: 46,2 %
-- **Gesamtjahresprognose 2026:** Nettoumsatz 20,0–21,1 Mrd. EUR (organisches Wachstum -1 % bis +2 % ggü. VJ); EPS (bereinigt) 7,10–8,00 EUR (vs. 8,34 EUR in 2025); Währungsgegenwind von 4–2 %.
-- **Ausblick 2026:** Der flache Ausblick und die konstante Dividendenpolitik wurden von Analysten kritisch bewertet; der Aktienkurs verzeichnete nach Q4 2025 / Jahresausblick einen Rückgang.
-- **Q1-Ergebnispräsentation:** 21. April 2026, Pressekonferenz 9:30 Uhr MESZ, Analystenkonferenz 14:00 Uhr MESZ.
+- **Q1 2026 Ergebnisse (Vorabblick):** Veröffentlichung am 13. Mai 2026; JPMorgan-Schätzungen liegen 2–3 % unterhalb des Analystenkonsenses bei Betriebsergebnis und EPS.
+- **JPMorgan-Kursziel:** 150 EUR; Rating „Overweight" (Übergewichten).
+- **Jahresprognose 2026 (aus Q1-Bericht vom April 2026):** Nettoumsatz 20,0–21,1 Mrd. EUR; organisches Wachstum -1 % bis +2 % ggü. Vorjahr; bereinigtes EPS 7,10–8,00 EUR; Dividende 2,20 EUR je Aktie (von HV beschlossen).
+- **Akquisition Terns Pharmaceuticals (März 2026):** Merck KGaA schloss die Übernahme von Terns Pharmaceutical für 6,7 Mrd. USD ab; Terns entwickelt Therapien gegen Lebererkrankungen und Krebs.
+- **SpringWorks (abgeschlossen Juli 2025):** Übernahme für 3,9 Mrd. USD; einzelne Pipeline-Assets wurden nicht weiterverfolgt (Hengrui-Lizenzvertrag); das Onkologie-Portfolio des Konzerns wurde damit deutlich gestärkt.
 
 ## Strategie & Ausblick
 
-- **KI-Transformation:** Die Google-Cloud-Partnerschaft (bis zu 1 Mrd. USD) ist das größte Digitalprojekt der Unternehmensgeschichte und soll Agentic-AI-Anwendungen konzernweit ausrollen – von der Wirkstoffforschung bis zur Halbleiterfertigung.
-- **M&A-Strategie:** Fokus auf bolt-on-Akquisitionen in margenstarken Bereichen (Cell-Therapy-Tools, Halbleitermaterialien). SpringWorks (3,4 Mrd. USD) stärkt das Onkologie-Portfolio; nicht weiterverfolgte Pipeline-Assets aus dem SpringWorks-Paket wurden aufgegeben (Hengrui-Lizenzvertrag).
-- **Bio-Electronics / Halbleiter:** Merck KGaA sieht sich als führenden Anbieter von Spezialchemikalien für die Chipproduktion; das Electronics-Segment leidet kurzfristig unter der schwachen Display-Nachfrage, profitiert aber langfristig vom KI-Chip-Boom.
-- **Life Science:** Wachstumstreiber sind Bioreagenzien und Prozesschemikalien für Biotech-Produktionen; organisches Wachstum von ~6 % unterstreicht die Erholung nach dem Nachfragerückgang post-COVID.
-- **CEO-Transition:** Der Führungswechsel zu Kai Beckmann (1. Mai 2026) wird als Zeichen gewertet, dass Merck KGaA die Elektronik-/Halbleitersparte strategisch stärker betonen will.
-- **M Ventures:** Der konzerneignene Corporate-VC-Fonds investiert weiterhin in Biotech, Life-Science-Tools, Electronics und Frontier Technology & Sustainability.
+- **Neue CEO-Ära unter Kai Beckmann:** Der Führungswechsel signalisiert eine stärkere strategische Ausrichtung auf das Electronics-/Halbleitersegment; Beckmann soll die Semiconductor-Strategie weiter ausbauen.
+- **M&A-Fokus:** Aktive Akquisitionsstrategie in Onkologie und Life Science; jüngste Übernahme Terns Pharmaceutical (6,7 Mrd. USD, März 2026) unterstreicht die Wachstumsambitionen im Healthcare-Segment.
+- **KI-Transformation:** Die im April 2026 verkündete Google-Cloud-Partnerschaft (bis zu 1 Mrd. USD) für Agentic-AI-Anwendungen läuft konzernweit an; Bereiche F&E, Produktion, Vertrieb und Verwaltung sollen profitieren.
+- **Electronics/Halbleiter:** Langfristig profitiert das Segment vom KI-Chip-Boom, kurzfristig belastet schwache Display-Nachfrage das Ergebnis.
+- **Life Science:** Organisches Wachstum bleibt Treiber; Bioreagenzien und Prozesschemikalien für Biotech-Produktion zeigen Erholungstendenz nach post-COVID-Rückgang.
+- **Drei Kernsegmente:** Healthcare (Onkologie, Fertilität, Autoimmunerkrankungen), Life Science, Performance Materials/Electronics.
 
 ## Quellen
 
-- [Merck KGaA Q1 2026 Quartalsergebnisse – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/merck-kgaa-aktie-de0006599905-quartalszahlen-q1-2026-mit-umsatzplus-von/69229903)
-- [Kai Beckmann übernimmt CEO-Amt von Belén Garijo ab Mai 2026 – emdgroup.com](https://www.emdgroup.com/en/news/garijo-beckmann-25-09-25.html)
-- [Merck & Google Cloud: Agentic AI Partnership (22. Apr. 2026) – merck.com](https://www.merck.com/news/merck-and-google-cloud-partner-to-accelerate-agentic-ai-enterprise-transformation/)
-- [Google Cloud Press Corner: Merck Partnership (22. Apr. 2026)](https://www.googlecloudpresscorner.com/2026-04-22-Merck-and-Google-Cloud-Partner-to-Accelerate-Agentic-AI-Enterprise-Transformation)
-- [Belén Garijo wird CEO von Sanofi – sanofi.com (11. Feb. 2026)](https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-12-06-30-00-3236866)
-- [Merck KGaA CEO-Nachfolge – fiercepharma.com](https://www.fiercepharma.com/pharma/merck-kgaa-names-new-ceo-geopolitical-tension-roils-pharma-semiconductor-giant)
-- [Merck KGaA Ausblick 2026 – simplywall.st](https://simplywall.st/de/stocks/de/pharmaceuticals-biotech/etr-mrk/merck-kgaa-shares/news/werden-ein-flacher-ausblick-fuer-2026-und-eine-konstante-div/amp)
-- [Merck KGaA SpringWorks Übernahme abgeschlossen – pharmexec.com](https://www.pharmexec.com/view/merck-kgaa-completes-acquisition-springworks-therapeutics-3-4-billion-deal)
-- [Merck KGaA Akquisitionsstrategie – emdgroup.com](https://www.emdgroup.com/en/investors/why-invest/acquisitions.html)
-- [Belén Garijo Interview (Januar 2026) – businesstoday.in](https://www.businesstoday.in/magazine/interview/story/we-come-to-india-looking-for-talent-says-belen-garijo-chair-executive-board-and-ceo-merck-group-510259-2026-01-09)
-- [Merck KGaA News & Stories – emdgroup.com](https://www.emdgroup.com/en/news-stories.html)
+- [Merck KGaA: Neuer CEO Kai Beckmann ab 1. Mai 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/merck-kgaa-aktie-de0006599905-neuer-ceo-kai-beckmann-ab-1-mai-2026/69248091)
+- [Kai Beckmann wird zum 1. Mai 2026 neuer CEO von Merck – chemie.de](https://www.chemie.de/news/1188594/kai-beckmann-wird-zum-1-mai-2026-neuer-ceo-von-merck.html)
+- [JPMorgan stuft Merck KGaA auf Overweight – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-05/68398730-jpmorgan-stuft-merck-kgaa-auf-overweight-322.htm)
+- [Merck KGaA Aktie: Kurs nahe Rekordhoch – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/merck-kgaa-aktie-de0006599905-kurs-nahe-rekordhoch-pharma-und/69294668)
+- [AGM 2026: Beckmann zum CEO ernannt – emdgroup.com](https://www.emdgroup.com/en/news/annual-general-meeting-2026.html)
+- [Kai Beckmann to Succeed Belén Garijo as CEO – emdgroup.com](https://www.emdgroup.com/en/news/garijo-beckmann-25-09-25.html)
+- [New CEO of Merck KGaA – chemistryviews.org](https://www.chemistryviews.org/new_ceo_of_merck_kgaa/)
+- [Merck KGaA AGM: Garijo's final address, Beckmann takes over – Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/merck-kgaa-agm-ceo-garijo-152859966.html)
+- [Merck KGaA grappling with geopolitical tensions, reveals CEO transition – fiercepharma.com](https://www.fiercepharma.com/pharma/merck-kgaa-names-new-ceo-geopolitical-tension-roils-pharma-semiconductor-giant)
+- [Q1 2026 Ergebnisveröffentlichung – emdgroup.com](https://www.emdgroup.com/en/events/q1-2026.html)
+- [Merck KGaA Acquisitions & Divestments – emdgroup.com](https://www.emdgroup.com/en/investors/why-invest/acquisitions.html)
+- [Merck KGaA drops pipeline assets from SpringWorks buyout – fiercebiotech.com](https://www.fiercebiotech.com/biotech/merck-kgaa-ending-pursuit-remaining-assets-39b-springworks-buyout)
+- [Merck KGaA Financials & Reports – emdgroup.com](https://www.emdgroup.com/en/investors/reports-and-financials.html)
 - [Yahoo Finance: MRK.DE](https://finance.yahoo.com/quote/MRK.DE/)
