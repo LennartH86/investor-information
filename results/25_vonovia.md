@@ -1,41 +1,42 @@
 # Vonovia (VNA.DE)
-_KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
+_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
 
 ## Aktuelle Meldungen
-- **Neue CDO ernannt:** Der Aufsichtsrat hat Katja Wünschel als neue Chief Development Officer (CDO) von Vonovia berufen. Sie trat dem Unternehmen am 1. April 2026 bei und wird ab 1. Juni 2026 dem Vorstand angehören. Wünschel war zuvor CEO bei RWE Renewables Europe & Australia GmbH.
-- **Kooperation mit Nokera:** Vonovia und das Schweizer Technologieunternehmen Nokera haben eine strategische Kooperation zur seriellen Gebäudemodernisierung vereinbart. Erste Pilotprojekte umfassen rund 1.000 Wohnungen in Heidenheim und Langenfeld, bei denen vorgefertigte Fassadenelemente zum Einsatz kommen.
-- **Solar-Offensive:** Vonovia investiert 400 Millionen Euro in Photovoltaik und beschleunigt seine Solarziele um vier Jahre – PV-Anlagen mit 300 Megawatt Spitzenleistung sollen bereits Ende 2026 statt 2030 in Betrieb sein.
-- **Dividende 2025:** Das Unternehmen schlägt eine Dividende von 1,25 Euro je Aktie für das Geschäftsjahr 2025 vor, die ausschließlich aus dem steuerlichen Einlagekonto ausgezahlt wird.
-- **Wichtige anstehende Termine:** Q1-Bericht am 7. Mai 2026; Ordentliche Hauptversammlung in Bochum am 21. Mai 2026.
+- **Q1-Bericht veröffentlicht (7. Mai 2026):** Vonovia meldet einen guten Jahresauftakt – bereinigtes EBITDA steigt auf 711,6 Mio. Euro (+1,4 %), getragen von organischem Mietwachstum von 4,0 %.
+- **Prognose 2026 bestätigt:** Das Unternehmen bekräftigt seine Jahresziele mit bereinigtem EBITDA von 2,95–3,05 Mrd. Euro und bereinigtem EBT von 1,9–2,0 Mrd. Euro; Zuversicht für Wachstum und Schuldenabbau bis 2028.
+- **Dividende 1,25 Euro je Aktie:** Ausschüttung für 2025 zahlbar am 26. Mai 2026, Ex-Tag 22. Mai 2026 (steuerfreie Ausschüttung aus dem steuerlichen Einlagekonto).
+- **Hauptversammlung am 21. Mai 2026** in Bochum.
+- **Value-add Segment stark:** Bereinigtes EBITDA im Value-add-Segment steigt um mehr als 30 % auf 50,1 Mio. Euro, getrieben durch Handwerkerorganisation und Energiegeschäft.
 
 ## Management
-- **CEO Luka Mucic:** Seit Januar 2026 ist Luka Mucic (ehemaliger CFO bei Vodafone und SAP) CEO von Vonovia SE. Auf seinem ersten Earnings Call als CEO im März 2026 bezeichnete er das operative Geschäft als „bemerkenswert robust" und hob starkes Wachstum im Vermietungs- und Nicht-Vermietungsgeschäft hervor.
-- **Strategische Prioritäten des CEO:** Mucic definierte drei Wachstumssäulen: (1) KI-gestütztes End-to-End-Prozessdesign, (2) Ausbau digitaler Kundenschnittstellen für Partner-Ökosysteme, (3) Aufbau eines bedeutenden B2B-Geschäfts durch Drittpartei-Management. Mittelfristiges Ziel: Steigerung des bereinigten EBT pro Aktie im mittleren einstelligen Prozentbereich jährlich bis 2028.
-- **CDO Katja Wünschel:** Neu ernannte Chief Development Officer, tritt Vorstandsposition am 1. Juni 2026 an (siehe Aktuelle Meldungen).
-- **Abgang Daniel Riedl:** Daniel Riedl verlässt Vonovia im Jahr 2026.
+- **CEO Luka Mucic:** Seit Januar 2026 CEO von Vonovia (zuvor CFO bei Vodafone und SAP). Auf dem ersten Earnings Call als CEO (März 2026) betonte er die „bemerkenswert robuste Wachstumsdynamik" des Vermietungsgeschäfts und die Chancen in den Nicht-Vermietungssegmenten.
+- **Strategische Drei-Säulen-Vision:** Mucic setzt auf (1) KI-gestütztes End-to-End-Prozessdesign, (2) digitale Kundenschnittstellen für Partner-Ökosysteme, (3) Aufbau eines bedeutenden B2B-Geschäfts durch Drittpartei-Management. Mittelfristiges Ziel: Steigerung des bereinigten EBT pro Aktie im mittleren einstelligen Prozentbereich jährlich bis 2028, langfristig Richtung hoher einstelliger Prozentbereich.
+- **CDO Katja Wünschel:** Neu ernannte Chief Development Officer tritt Vorstandsposition am 1. Juni 2026 an.
 
 ## Finanzielles
-- **Prognose bereinigtes EBITDA 2026:** 2,95 bis 3,05 Milliarden Euro (Vorjahr 2025: ca. 2,8 Milliarden Euro) – ein Anstieg von rund 200 Millionen Euro.
-- **Q1 2026:** Ein Quartalsergebnis von 515,4 Millionen Euro wird für Q1 2026 genannt; der offizielle Q1-Bericht erscheint am 7. Mai 2026.
-- **Dividende:** 1,25 Euro je Aktie für 2025, steuerfreie Ausschüttung aus dem Einlagekonto.
-- **Bilanzoptimierung:** Vonovia plant, den Loan-to-Value (LTV) von derzeit 45,4 % bis 2028 auf rund 40 % zu senken. Dazu ist ein Desinvestitionsprogramm von rund 2 Milliarden Euro geplant, mit Fokus auf Gewerbe- und Pflegeimmobilien.
-- **Analysten:** Seeking Alpha stufte Vonovia mit weiterem NAV-Wachstum 2026 herauf; die Dividendenrendite liegt bei rund 4,4 %, allerdings bei hoher operativer Ausführungsanforderung (Recycling von 3,7 Milliarden Euro in Assets).
+- **Bereinigtes EBITDA Q1 2026:** 711,6 Mio. Euro (+1,4 % ggü. Vorjahr).
+- **Bereinigtes EBITDA Vermietung Q1 2026:** +6,3 % trotz eines um rund 4.000 Wohnungen reduzierten Portfolios; organisches Mietwachstum 4,0 %; durchschnittliche Miete 8,46 Euro/m²/Monat (+3,8 %).
+- **Bereinigter Gewinn für Aktionäre:** 365,6 Mio. Euro (-7,2 %) – Rückgang wegen gestiegener Finanzierungskosten (+21 Mio. Euro).
+- **Gewinn vor Steuern:** 462 Mio. Euro (-4,1 %).
+- **Loan-to-Value (LTV):** 45,1 % (Ziel: rund 40 % bis 2028).
+- **Jahresprognose 2026:** Bereinigtes EBITDA 2,95–3,05 Mrd. Euro; bereinigtes EBT 1,9–2,0 Mrd. Euro.
+- **Dividende:** 1,25 Euro je Aktie für 2025, zahlbar 26. Mai 2026.
 
 ## Strategie & Ausblick
-- **Grüne Transformation:** Massive Investitionen in Photovoltaik (400 Mio. Euro) und serielle Sanierung als Kernelemente der Nachhaltigkeitsstrategie; Partnerschaften wie mit Nokera sollen die Sanierungsgeschwindigkeit erhöhen.
-- **Desinvestitionen:** Abbau von Gewerbe- und Pflegeimmobilien im Wert von ca. 2 Milliarden Euro, um Bilanz zu stärken und LTV zu reduzieren.
-- **B2B & Digitalisierung:** Aufbau einer B2B-Plattform für Drittpartei-Immobilienverwaltung sowie KI-gestützte Prozessoptimierung als Wachstumstreiber.
-- **Marktumfeld:** Steigende Wohnungsnachfrage (insb. im Mittelklasse-Segment) stützt das Vermietungsgeschäft; Zinsdruck bleibt ein Risikofaktor, dem Vonovia mit Desinvestitionen und LTV-Abbau entgegenwirkt.
-- **Keine größeren Übernahmen 2026:** Im Fokus stehen operative Verbesserungen und Portfoliobereinigung statt großer Akquisitionen; die Integration von Deutsche Wohnen läuft weiter.
+- **Schuldenabbau als Priorität:** Desinvestitionsprogramm von rund 5 Mrd. Euro (kumuliert bis 2028) zur Senkung des LTV auf ca. 40 % – Fokus auf Gewerbe- und Pflegeimmobilien.
+- **Keine großen Akquisitionen geplant:** Vonovia bleibt opportunistisch, priorisiert aber operative Optimierung und Portfoliobereinigung gegenüber Zukäufen; Integration von Deutsche Wohnen (2021) läuft weiter.
+- **Digitalisierung & KI:** CEO Mucic treibt KI-basierte Prozessredesigns und den Ausbau digitaler Serviceplattformen voran als Hebel für Effizienz- und Umsatzwachstum.
+- **Grüne Transformation:** Solar-Offensive (400 Mio. Euro Investition, 300 MW Ziel bereits Ende 2026); serielle Sanierung mit Nokera-Partnerschaft (Pilotprojekte ~1.000 Wohnungen).
+- **Marktlage:** Steigende Wohnungsnachfrage stützt Vermietungsgeschäft; Zinsdruck bleibt Risikofaktor, dem mit Deleveraging und operativer Effizienz begegnet wird.
 
 ## Quellen
-- [Vonovia Aktie 2026: Solar-Offensive und serielle Sanierung – avronline.de](https://www.avronline.de/nachrichten/news-views-markets/vonovia-aktie-2026-solar-offensive-nokera-sanierung-zinsdruck/17248/)
-- [Vonovia und Nokera kooperieren bei serieller Gebäudemodernisierung – vonovia.com](https://www.vonovia.com/presse/pressemitteilungen/2026/vonovia-und-nokera-vereinbaren-strategische-kooperation-zur-seriellen-gebaeudemodernisierung)
-- [Vonovia SE Announces Executive Changes – MarketScreener](https://www.marketscreener.com/news/vonovia-se-announces-executive-changes-ce7d50dbdb8bf62d)
-- [Vonovia: Further NAV Growth Expected In 2026 – Seeking Alpha](https://seekingalpha.com/article/4851048-vonovia-further-nav-growth-expected-in-2026-rating-upgrade)
-- [Vonovia 4.4% Yield Faces High-Execution Bar – ainvest.com](https://www.ainvest.com/news/vonovia-4-4-yield-faces-high-execution-bar-recycles-3-7b-assets-drive-ebitda-growth-2604/)
-- [Vonovia Q4 Earnings Call Highlights – themarketsdaily.com](https://www.themarketsdaily.com/2026/03/19/vonovia-q4-earnings-call-highlights.html)
-- [Vonovia: New CEO, new directions – MarketScreener](https://www.marketscreener.com/news/vonovia-new-ceo-new-directions-ce7e5eded88cf120)
-- [Vonovia erreicht Ziele und erhöht Dividende – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-03/67982169-vonovia-erreicht-ziele-und-erhoeht-dividende-015.htm)
-- [Vonovia Quartalszahlen – finanzen.net](https://www.finanzen.net/termine/vonovia)
-- [Vonovia: Daniel Riedl verlässt das Unternehmen 2026 – immobilienmanager.de](https://www.immobilienmanager.de/vonovia-daniel-riedl-verlaesst-das-unternehmen-2026-17092025)
+- [EQS-News: Vonovia Q1 2026 – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-05/68419400-eqs-news-vonovia-se-guter-jahresauftakt-prognose-2026-bestaetigt-zuversicht-fuer-wachstum-und-schuldenabbau-bis-2028-022.htm)
+- [Vonovia Q1 2026 – goldesel.de](https://goldesel.de/aktien/news/vonovia-q1-2026-mietwachstum-erhoht-bereinigtes-ebitda-gewinn-sinkt-wegen-finanzierungskosten-ziele-bestatigt)
+- [Vonovia bestätigt Prognose nach Q1 2026 – immobilienmanager.de](https://www.immobilienmanager.de/vonovia-bestaetigt-prognose-nach-q1-07052026)
+- [Vonovia Q1 Report 2026 – vonovia.com](https://www.vonovia.com/en/investors/news-and-publications/results-presentations/thursday-07-may-2026-q1-report-2026)
+- [Vonovia Q1 2026 Interim Statement – report.vonovia.com](https://report.vonovia.com/2026/q1/en/)
+- [Vonovia confirms 2026 guidance – investing.com](https://www.investing.com/news/stock-market-news/vonovia-confirms-2026-guidance-despite-first-quarter-earnings-decline-93CH-4666314)
+- [Vonovia Dividende Mai 2026 – de.marketscreener.com](https://de.marketscreener.com/boerse-nachrichten/vonovia-se-kuendigt-jaehrliche-dividende-an-zahlbar-am-26-mai-2026-ce7e51dcd08cf521)
+- [Vonovia: New CEO, new directions – marketscreener.com](https://www.marketscreener.com/news/vonovia-new-ceo-new-directions-ce7e5eded88cf120)
+- [Vodafone CFO departs for Vonovia CEO role – cfodive.com](https://www.cfodive.com/news/vodafone-cfo-departs-vonovia-ceo-realestate-telecom/747427/)
+- [Vonovia Holds 2026 Outlook Despite Q1 Earnings Dip – trustfinance.com](https://www.trustfinance.com/blog/vonovia-confirms-2026-guidance-despite-q1-earnings-decline)
