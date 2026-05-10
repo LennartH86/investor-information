@@ -1,44 +1,52 @@
 # Fraport (FRA.DE)
-_KW17 / 2026 | Zeitraum: 19.04.2026 – 26.04.2026_
+_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
 
 ## Aktuelle Meldungen
 
-- **Terminal 3 feierlich eröffnet (22. April 2026):** Fraport AG hat das neue Terminal 3 am Flughafen Frankfurt mit einem großen Festakt für über 400 geladene Gäste aus Politik, Wirtschaft und Luftfahrt eröffnet. Das Terminal startete am 23. April 2026 den regulären Betrieb.
-- **Erste Landung am Terminal 3:** Das erste Flugzeug am neuen Terminal 3 war Flug CZ8021 von China Southern Airlines aus Shenyang, welches am 23. April 2026 um 5:25 Uhr landete.
-- **57 Airlines relocieren zu Terminal 3:** Alle 57 dauerhaft in Terminal 3 einziehenden Airlines verlegen ihre Operationen in vier Wellen bis zum 9. Juni 2026 dorthin.
-- **Terminal-3-Kapazität:** In der ersten Ausbauphase mit den Gates G, H und J hat das neue Terminal eine Kapazität von bis zu 19 Millionen Passagieren pro Jahr; 64 Shops und Restaurants stehen zur Verfügung.
-- **Passagierziel 2026 bestätigt:** Trotz geopolitischer Unsicherheiten (Iran-Konflikt) hält Fraport an seinem Jahresziel von 65 bis 66 Millionen Passagieren für 2026 fest – rund 4 % mehr als 2025.
+- **Q1 2026 Ergebnisse veröffentlicht (5. Mai 2026):** Fraport startete mit positivem operativen Wachstum ins Jahr – Umsatz stieg um 5,2 % (bereinigt), EBITDA legte um 10,4 % auf 196,0 Mio. EUR zu.
+- **Jahresprognose 2026 bestätigt:** Trotz Iran-Krieg und Lufthansa-Streiks hält Fraport an seinen Zielen fest: Konzernpassagiervolumen von ca. 188–195 Mio., EBITDA bis ca. 1,5 Mrd. EUR.
+- **Passagierwachstum Frankfurt:** In Q1 2026 stieg das Passagiervolumen am Frankfurter Flughafen um 2,3 % auf 12,7 Mio. Passagiere; konzernweit +5,2 % auf 28,6 Mio. Passagiere.
+- **Terminal 3 in Betrieb:** Das am 23. April 2026 eröffnete Terminal 3 bringt höhere Abschreibungen und Zinsaufwendungen mit sich; Frankfurts Ziel: 65–66 Mio. Passagiere für 2026 (ca. +4 % vs. 2025).
+- **Kerosinversorgung gesichert:** Die Bundesregierung bestätigte die Versorgungssicherheit für Kerosin, was Fraport erlaubt, das Wachstumsziel aufrechtzuerhalten.
+- **Neues Betriebskonzept / Lärmschutzpaket:** Fraport veröffentlichte ein weiterentwickeltes Betriebskonzept für Frankfurt mit einem Lärmschutzpaket als zentralem Element.
+- **Stellenabbau-Diskussion:** Berichte über möglichen Stellenabbau 2026 im Zusammenhang mit Kostenoptimierungen zirkulieren in der Fachpresse.
 
 ## Management
 
-- **CEO Stefan Schulte** bezeichnete die Eröffnung von Terminal 3 als historischen Moment: „Today is a special day – for Fraport, for Frankfurt, for Hesse, and far beyond. With Terminal 3, one of Europe's most advanced terminals, we are positioning ourselves for long-term success."
-- Schulte betonte im Interview mit der Frankfurter Allgemeinen Zeitung, dass der Anteil der Nahost-Verbindungen am Gesamtverkehr weniger als 5 % ausmacht und der Flughafen das Jahresziel trotz Iran-Disruption erreichen will.
-- Direkt- und Langstreckenflüge nach Afrika und Fernost stiegen im März um über 20 %.
-- **Dietmar Focke** tritt zum 1. Mai 2026 als neues Mitglied in den Vorstand der Fraport AG ein.
+- **CEO Dr. Stefan Schulte** kommentierte die Q1-Zahlen: „The Fraport Group is on track in the first quarter. Despite the outbreak of the Iran war, we saw growth across all our markets. In Frankfurt, declines in Middle East traffic were offset by growth in traffic to other regions, particularly to the Far East."
+- **Neuer COO Dietmar Focke:** Dietmar Focke übernahm zum 1. Mai 2026 das Amt des Chief Operating Officer (COO) bei Fraport AG und ist verantwortlich für Aviation und Ground Services.
+- **Aufsichtsrat:** Alexander Lorz soll auf Michael Boddenberg im Fraport-Aufsichtsrat folgen (Beschluss aus Q1 2026).
+- **Analyst-Einschätzung:** Jefferies stufte Fraport am 5. Mai 2026 mit „Buy" ein; Analysten-Konsens mehrheitlich positiv mit durchschnittlichem Kursziel von ca. 84,88 EUR.
 
 ## Finanzielles
 
-- **Quartalsergebnis Q1 2026:** Ergebnisveröffentlichung ist für den **5. Mai 2026** geplant; erwartetes EPS: ca. -0,28 EUR (saisonbedingt schwaches erstes Quartal).
-- **Jahresprognose 2026:** Umsatz erwartet bei ca. 4,62 Mrd. EUR; Jahresüberschuss ca. 361 Mio. EUR (Konsensschätzungen).
-- **Dividendenpolitik:** CFO Matthias Zieschang bekräftigte für das Geschäftsjahr 2026 eine Rückkehr zur Ausschüttungsquote von 40–60 % des Jahresüberschusses.
-- Analysten empfehlen die Fraport-Aktie mehrheitlich zum Kauf (Stand März/April 2026).
+- **Q1 2026 EBITDA:** +18,5 Mio. EUR auf 196,0 Mio. EUR (traditionell schwächstes Quartal).
+- **Umsatz Q1 2026:** +1,6 % auf 882 Mio. EUR gesamt; bereinigt um Bau-/Erweiterungsleistungen +5,2 % auf 853,4 Mio. EUR.
+- **Konzernergebnis Q1 2026:** Saisonbedingt negativ bei ca. -33,1 Mio. EUR (Vorjahr: -26,4 Mio. EUR); Rückgang durch höhere Abschreibungen aus Expansionsprojekten (u. a. Terminal 3).
+- **Jahresprognose 2026 (EBITDA):** Anstieg auf bis zu ca. 1,5 Mrd. EUR erwartet.
+- **Jahresprognose 2026 (Passagiere Frankfurt):** 65–66 Mio.; Konzernweit 188–195 Mio.
+- **Aktie:** Kurs bei ca. 69,75 EUR (Stand Anfang Mai 2026); mehrheitlich „Kauf"-Empfehlung der Analysten.
 
 ## Strategie & Ausblick
 
-- **Terminal 3 als strategischer Meilenstein:** Die rund 4 Mrd. EUR teure Investition positioniert Frankfurt langfristig als führenden globalen Luftverkehrsknotenpunkt und stärkt Deutschlands Wettbewerbsfähigkeit im internationalen Luftverkehr.
-- **Internationales Wachstum:** Fraport Brasil S.A. (100%-Tochter) erhielt den Zuschlag für die Betriebskonzession am Flughafen Jericoacoara (Brasilien); Managementübernahme ist für Herbst 2026 geplant.
-- **Auslaufende Investitionsprojekte:** Mit dem Abschluss des Terminal-3-Baus erwartet Fraport einen deutlich positiven Free Cash Flow für das Geschäftsjahr 2025/2026, da die großen Kapitalausgaben wegfallen.
-- **Geopolitische Resilienz:** Flugrouten nach Afrika (+20 % im März) und Fernost kompensieren etwaige Rückgänge im Nahost-Verkehr (<5 % Volumenanteil).
+- **Terminal 3 als Wachstumsmotor:** Die rund 4 Mrd. EUR teure Investition positioniert Frankfurt als führenden globalen Hub; 57 Airlines ziehen bis 9. Juni 2026 in vier Wellen in das neue Terminal um.
+- **Internationale Expansion – Brasilien:** Fraport Brasil S.A. erhielt Zuschlag für die Betriebskonzession am Flughafen Jericoacoara (Brasilien, bis 2047); Managementübernahme für Herbst 2026 geplant.
+- **Geopolitische Resilienz:** Rückgänge im Nahost-Verkehr (< 5 % Volumenanteil) werden durch Wachstum auf Fernost- und Afrika-Routen kompensiert.
+- **Freier Cashflow-Ausblick:** Mit Abschluss der großen Kapitalausgaben (Terminal 3) erwartet Fraport mittelfristig deutlich positiven Free Cash Flow.
+- **Lärmschutz & Regulierung:** Neues Betriebskonzept mit Lärmschutzpaket soll gesellschaftliche Akzeptanz stärken und regulatorische Risiken mindern.
+- **Hannover Airport:** KPMG berät englischen Finanzinvestor bei Übernahme der Fraport-Beteiligung am Flughafen Hannover – möglicher Rückzug Fraports aus Hannover zeichnet sich ab.
 
 ## Quellen
 
-- [Fraport: A Historic Moment – Terminal 3 Inauguration](https://www.fraport.com/en/newsroom/press-releases/2026/q1/fraport-inaugurates-the-new-terminal-3.html)
-- [Fraport: Meilenstein in FRA – Erstlandung am Terminal 3](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/erstlandung-am-terminal-3.html)
-- [Frankfurt Airport Opens €4B Terminal 3 – eTurboNews](https://eturbonews.com/frankfurt-airport-terminal-3-opening-fraport/)
-- [Fraport CEO Affirms 2026 Passenger Growth Target Despite Iran War – TradingView](https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4140A5:0-fraport-ceo-affirms-2026-passenger-growth-target-despite-iran-war/)
-- [Dietmar Focke tritt Fraport-Vorstand bei](https://www.fraport.com/en/newsroom/press-releases/2026/q1/dietmar-focke-fraport-ag-s-executive-board.html)
-- [Fraport Quartalszahlen Termine – finanzen.net](https://www.finanzen.net/termine/fraport)
-- [Fraport Brasil gewinnt Konzession für Jericoacoara](https://www.fraport.com/de/newsroom/pressemitteilungen/2025/q4/fraport-brasil-s-a--aeroporto-de-fortaleza-erhaelt-zuschlag-fuer.html)
-- [Fraport Eröffnet Terminal 3 – goldesel.de](https://goldesel.de/aktien/news/fraport-eroffnet-terminal-3-in-frankfurt-4-mrd-euro-investition-und-6566-mio-passagiere-2026)
-- [Future Travel Experience: Terminal 3 Inauguration](https://www.futuretravelexperience.com/2026/04/fraport-elevates-passenger-experience-with-inauguration-of-new-terminal-3-at-frankfurt-airport/)
-- [Aviation A2Z: Frankfurt Airport Terminal 3](https://aviationa2z.com/index.php/2026/04/24/frankfurt-airport-just-inaugurated-its-terminal-3/)
+- [Fraport-Konzern im ersten Quartal 2026 mit Wachstum im operativen Geschäft – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/verkehrszahlen/fraport-konzern-im-ersten-quartal-2026-mit-wachstum-im-operative.html)
+- [Fraport Q1 2026 – Presseportal](https://www.presseportal.de/pm/31522/6268552)
+- [Fraport bestätigt 2026-Ziele trotz Iran-Krieg und Lufthansa-Streiks – goldesel.de](https://goldesel.de/aktien/news/fraport-bestatigt-2026-ziele-trotz-iran-krieg-und-lufthansa-streiks-188195-mio-passagiere)
+- [Fraport maintains growth forecast on promise of secure fuel supplies – Xinhua](https://english.news.cn/20260505/ecb50abbd400476aa485b72f239ebd74/c.html)
+- [Fraport Q1 2026 slides: Terminal 3 opens as EBITDA climbs 10% – Investing.com](https://www.investing.com/news/company-news/fraport-q1-2026-slides-terminal-3-opens-as-ebitda-climbs-10-93CH-4657812)
+- [Earnings call transcript: Fraport AG Q1 2026 – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-fraport-ag-q1-2026-shows-solid-revenue-growth-93CH-4657797)
+- [Dietmar Focke tritt Fraport-Vorstand bei – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q1/dietmar-focke-fraport-ag-s-executive-board.html)
+- [Weiterentwickeltes Betriebskonzept / Lärmschutzpaket – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/weiterentwickeltes-betriebskonzept-am-flughafen-frankfurt--laerm.html)
+- [Quartalsergebnis: Fraport steigert Umsatz trotz Iran-Krieges und Streiks – fvw.de](https://www.fvw.de/touristik/verkehr/quartalsergebnis-fraport-steigert-umsatz-trotz-iran-krieges-und-streiks-260962)
+- [KPMG berät bei Übernahme der Fraport-Beteiligung Hannover – juve-steuermarkt.de](https://www.juve-steuermarkt.de/mandate/flughafen-hannover-kpmg-beraet-englischen-finanzinvestor-bei-uebernahme-der-fraport-beteiligung/)
+- [Fraport Aktie: Solide trotz Gegenwind – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/fraport-aktie-solide-trotz-gegenwind/69282931)
+- [Fraport Brasil – Konzession Jericoacoara – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2025/q4/fraport-brasil-s-a--aeroporto-de-fortaleza-erhaelt-zuschlag-fuer.html)
