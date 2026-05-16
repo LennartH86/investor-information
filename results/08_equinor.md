@@ -1,60 +1,58 @@
 # Equinor (EQNR)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
 
 ## Aktuelle Meldungen
-- **Q1 2026 Ergebnisse (06.05.2026):** Equinor veröffentlichte Rekordzahlen für das erste Quartal: bereinigtes operatives Ergebnis von 9,77 Mrd. USD; bereinigter Nettogewinn von 3,70 Mrd. USD; bereinigtes EPS von 1,48 USD – ein deutlicher Schlag über der Konsensschätzung von 1,01 USD (+46 %).
-- **Rekordproduktion Q1 2026:** Equinor erzielte eine Gesamtproduktion (Equity) von 2.313 Mboe/Tag – ein Anstieg von 9 % gegenüber dem Vorjahresquartal (2.123 Mboe/Tag). Auf dem norwegischen Kontinentalschelf wurde ein Produktionszuwachs von 10 % erzielt, getrieben durch Johan Castberg, Halten East und Verdande.
-- **Nettogewinn +18 % YoY:** Das Nettobetriebsergebnis lag bei 8,78 Mrd. USD, der Nettogewinn bei 3,10 Mrd. USD – 18 % mehr als im Q1 2025 (2,6 Mrd. USD).
-- **Zweite Tranche des Aktienrückkaufprogramms (06.05.2026):** Nach der Hauptversammlung am 12. Mai 2026 startet Equinor die zweite Tranche des 2026er Rückkaufprogramms mit einem Volumen von bis zu 375 Mio. USD; Laufzeit bis spätestens 20. Juli 2026.
-- **Quartalsdividende Q1 2026 (06.05.2026):** Der Vorstand hat eine Bardividende von 0,39 USD je Aktie für Q1 2026 beschlossen. Die Dividende wird in USD gezahlt, in NOK abgerechnet.
-- **Ordentliche Hauptversammlung (12.05.2026):** Equinor veranstaltet die jährliche Hauptversammlung am 12. Mai 2026 um 15:00 Uhr CEST in Stavanger (Equinor Business Center) sowie digital via Lumi AGM; Stimmabgabe ausschließlich elektronisch oder per Vollmacht möglich.
-- **Sicherheitsbericht Q1 2026 (30.04.2026):** Equinor veröffentlichte die Sicherheitsergebnisse für das erste Quartal 2026; Details zu Sicherheitskennzahlen wurden intern kommuniziert.
+- **Annual General Meeting (12.05.2026):** Equinor held its 2026 Annual General Meeting on 12 May 2026 in Stavanger. The meeting approved the annual report and accounts for Equinor ASA and the Equinor Group for 2025. Seven shareholder proposals were put to a vote; none were adopted.
+- **Follow This Climate Proposal:** A climate-related shareholder proposal submitted by the activist group Follow This was backed by approximately 21% of independent shareholders at the AGM, reflecting ongoing investor pressure on Equinor's climate strategy.
+- **Share Buyback – Second Tranche (commenced 12.05.2026):** Following the AGM, Equinor commenced the second tranche of its 2026 share buyback programme, with a volume of up to USD 375 million. The full-year programme amounts to up to USD 1.5 billion.
+- **Dividend Announcement:** The NOK-denominated cash dividend for Q1 2026 will be communicated on 21 May 2026, with an expected payment date of 27 May 2026. The cash dividend in USD was set at USD 0.39 per share.
+- **Hammerfest LNG Unplanned Shutdown:** Equinor reported an unplanned shutdown at its Hammerfest LNG terminal – a key facility for European natural gas supply to Europe – shortly after early gas production commenced from the new Eirin field.
+- **Eirin Field Early Gas Production:** Equinor began early gas production from the Eirin field in Norway, helping to partially offset the Hammerfest LNG outage and supporting Norway's gas exports to Europe.
 
 ## Management
-- **CEO Anders Opedal** leitet das Unternehmen weiterhin; er äußerte sich im Kontext der Q1-Ergebnisse zu strategischen Prioritäten.
-- **Empire Wind – erhebliche Risiken:** Opedal bezeichnete das US-Offshore-Windprojekt Empire Wind (Investitionsvolumen über 4 Mrd. USD) als weiterhin mit „erheblichen Risiken" behaftet – insbesondere politisches Risiko durch die Trump-Administration, die Bauarbeiten zweifach gestoppt hatte. Equinor setzt den Bau dennoch fort.
-- **Hormuz-Straße und Marktveränderungen:** Die Schließung der Straße von Hormuz hat Equinors Markt verändert; neue Nachfrage kommt aus Asien und Australien, während europäische Stammkunden Priorität behalten.
-- **Russisches Gas:** Opedal bekräftigte beim CERAWeek-Interview in Houston seine ablehnende Haltung: Eine Rückkehr russischen Gases in die EU sei mitten im Ukraine-Krieg politisch kaum durchsetzbar.
-- **Zehn-Jahres-Investitionsplan:** Equinor plant rund 60 Mrd. USD/Jahr über die nächsten zehn Jahre, mit 250 Explorations­bohrungen und 75 Subsea-Feldern; der norwegische Kontinentalschelf bleibe „Rückgrat" des Unternehmens.
+- **CEO Anders Opedal** continues to lead Equinor. Key statements from interviews and the Q1 earnings call:
+- **Russian Gas:** Opedal reiterated at CERAWeek (Houston) that a return of Russian gas to the EU is politically "very, very difficult" while Russia's war against Ukraine continues, ruling out this scenario for the foreseeable future.
+- **Politicisation of Energy Investments:** Opedal commented in February/Q1 2026 that "energy investments are more and more politicalized and polarized," citing political debates around energy projects in the U.S. and the U.K.
+- **Norwegian Shelf as Backbone:** Opedal confirmed Equinor's commitment to the Norwegian Continental Shelf, with plans to spend approximately USD 60 billion per year over the next ten years, drill 250 exploration wells, and develop 75 subsea fields.
+- **Bay du Nord (Canada):** Opedal stated he hopes to approve the Bay du Nord offshore oil project in Canada in 2026, targeting first production by 2032 with a capacity of 160,000 boe/day and a total investment of approximately CAD 14 billion.
 
 ## Finanzielles
-- **Q1 2026 Ergebnis:** Bereinigtes operatives Ergebnis 9,77 Mrd. USD; bereinigter Nettogewinn 3,70 Mrd. USD; bereinigtes EPS 1,48 USD (Konsens: 1,01 USD).
-- **Nettobetriebsergebnis Q1:** 8,78 Mrd. USD; Nettogewinn 3,10 Mrd. USD (+18 % YoY).
-- **Produktion Q1 2026:** 2.313 Mboe/Tag (+9 % YoY); Norwegen +10 % YoY.
-- **Quartalsdividende:** 0,39 USD/Aktie für Q1 2026 (unverändert gegenüber Vorquartal).
-- **Aktienrückkaufprogramm 2026:** Gesamtrahmen bis zu 1,5 Mrd. USD; zweite Tranche bis zu 375 Mio. USD ab 12. Mai 2026.
-- **Capex-Prognose 2026:** Organisches Investitionsbudget ca. 13 Mrd. USD; Produktionswachstum von rund 3 % angestrebt.
-- **Cashflow-Szenario:** Bei 65 USD/Barrel Brent und 9 USD/MMBtu europ. Gas erwartet Equinor 16 Mrd. NOK operativen Cashflow nach Steuern; bei 85 USD/Barrel und 13 USD/MMBtu rund 8 Mrd. USD mehr.
-- **Aktie (Premarket):** Trotz Ergebnisschlag fiel die Aktie im Premarket, belastet durch Steuereffekte aus Norwegen.
+- **Q1 2026 Results (reported 06.05.2026):**
+  - Adjusted operating income: USD 9.77 billion
+  - Adjusted net income: USD 3.70 billion
+  - Net operating income: USD 8.78 billion
+  - Net income: USD 3.10 billion (+18% YoY vs. Q1 2025)
+  - Adjusted EPS: USD 1.48 (vs. consensus estimate of USD 1.01, a 46% beat)
+- **Record Production Q1 2026:** Total equity production of 2,313 mboe/day, up 9% from 2,123 mboe/day in Q1 2025.
+- **Realised Prices Q1 2026:** European gas price USD 12.9/MMBtu; liquids price USD 78.6/bbl.
+- **Renewable Power Generation:** Up 29% in Q1 2026, driven by Dogger Bank (UK) and new onshore wind assets.
+- **Cash Flow:** Cash flows from operations after taxes paid were USD 6.02 billion in Q1 2026; net debt to capital employed (adjusted) improved to 15.3%.
+- **Capex 2026 Guidance:** Organic capital expenditure approximately USD 13 billion; target production growth of ~3% for the full year.
 
 ## Strategie & Ausblick
-- **Öl & Gas als Kerngeschäft:** Equinor hält an rund 10 Mrd. USD/Jahr Investitionen in Öl und Gas fest; 26 Explorations- und Appraisal-Bohrungen offshore Norwegen für 2026 geplant.
-- **Brasilien – Raia-Projekt:** Das bisher größte internationale Investment Equinors (ca. 9 Mrd. USD) hat mit Bohrarbeiten begonnen; Offshore-Gasfeld vor der brasilianischen Küste.
-- **Argentinien – Vaca Muerta Divestment:** Vista Energy hat den Erwerb von Equinors nicht-operativen Anteilen an zwei Öl- und Gasblöcken in der Vaca-Muerta-Formation für 712 Mio. USD abgeschlossen.
-- **Zuliefererverträge:** Equinor hat Lieferantenverträge für Bohrdienstleistungen im Wert von 1,83 Mrd. USD verlängert.
-- **Erneuerbare Energien – Capex-Kürzung:** Das Organik-Capex für 2026/27 wurde um 4 Mrd. USD reduziert – hauptsächlich im Bereich Power & Low Carbon; Kern-Öl-und-Gas-Investitionen bleiben stabil.
-- **Empire Wind (USA):** Trotz politischer Unsicherheiten hält Equinor an dem mehr als 4 Mrd. USD teuren US-Offshore-Windprojekt fest; CEO Opedal sieht „erhebliche Risiken", aber klares strategisches Interesse.
-- **Halten East Unit:** Equinor hat den Anteil an der Halten East Unit durch Übernahme von Sval Energis 11,8 % auf 69,5 % erhöht.
-- **Ausblick HV 12.05.2026:** Auf der Hauptversammlung stehen u. a. Dividendenbeschlüsse, Rückkaufprogramm-Genehmigungen und Strategieupdates auf der Agenda.
+- **Brazil – Esquina do Vento Wind Acquisition:** Equinor expanded its integrated power portfolio in Brazil by acquiring the ready-to-build 230 MW Esquina do Vento onshore wind complex from Vestas Wind Systems, via its fully owned subsidiary Rio Energy. Construction is set to begin in 2026.
+- **Brazil – Raia Gas Development ($9bn):** Equinor has started drilling for the Raia project – its largest international investment to date at approximately USD 9 billion – an offshore gas development field off the Brazilian coast.
+- **Ørsted Stake:** Equinor has completed the acquisition of a 10% shareholding in Ørsted A/S, as announced in October 2024.
+- **Halten East Unit:** Equinor signed an agreement to acquire Sval Energi's 11.8% stake in the Halten East Unit, increasing Equinor's ownership to 69.5%.
+- **Supplier Contracts Extended:** Equinor extended supplier contracts for drilling services worth USD 1.83 billion.
+- **Renewable Capex Reduction:** Equinor cut its organic capex for the Power & Low Carbon segment by approximately USD 4 billion for 2026/27, while keeping core oil and gas investments stable.
+- **Empire Wind (USA):** Despite ongoing political risks under the Trump administration (construction halted twice), Equinor continues to proceed with the Empire Wind offshore project (investment of over USD 4 billion). CEO Opedal acknowledges "significant risks" but maintains strategic commitment.
+- **Norwegian Exploration 2026:** 26 exploration and appraisal wells planned offshore Norway for 2026.
 
 ## Quellen
-- [Equinor Q1 2026 Ergebnisse (equinor.com)](https://www.equinor.com/news/equinor-first-quarter-2026-results)
-- [GlobeNewswire: Equinor Q1 2026 Results](https://www.globenewswire.com/news-release/2026/05/06/3288464/0/en/Equinor-first-quarter-2026-results.html)
-- [GlobeNewswire: Second Tranche Share Buy-Back](https://www.globenewswire.com/news-release/2026/05/06/3288467/0/en/Equinor-to-commence-second-tranche-of-the-2026-share-buy-back-programme.html)
-- [GlobeNewswire: Cash Dividend Q1 2026](https://www.globenewswire.com/news-release/2026/05/06/3288466/0/en/Equinor-ASA-Key-information-relating-to-cash-dividend-for-first-quarter-2026.html)
-- [Offshore Technology: Q1 2026 Net Income +18%](https://www.offshore-technology.com/news/equinors-q1-2026-net-income/)
-- [Seeking Alpha: EQNR Q1 2026 Earnings Call Transcript](https://seekingalpha.com/article/4899704-equinor-asa-eqnr-q1-2026-earnings-call-transcript)
-- [Investing.com: Equinor surpasses Q1 2026 expectations](https://www.investing.com/news/transcripts/earnings-call-transcript-equinor-surpasses-q1-2026-expectations-stock-dips-premarket-93CH-4662427)
-- [Investing.com: Q1 2026 production surges 9%, stock drops on tax impact](https://www.investing.com/news/company-news/equinor-q1-2026-slides-production-surges-9-stock-drops-on-tax-impact-93CH-4662686)
-- [StockTitan: AGM 12 May 2026](https://www.stocktitan.net/sec-filings/EQNR/6-k-equinor-asa-current-report-foreign-issuer-1290d5f4c889.html)
-- [Equinor: Notice of AGM 12 May 2026](https://www.equinor.com/news/20260420-notice-annual-general-meeting-12-may-2026)
-- [Equinor: Second Tranche Buy-Back](https://www.equinor.com/news/20260506-second-tranche-2026-share-buy-back-programme)
-- [Equinor: Q1 2026 Safety Results](https://www.equinor.com/news/20260430-first-quarter-2026-safety-results)
-- [EnergyWatch: Equinor CEO on Empire Wind](https://energywatch.com/EnergyNews/wind/article19276591.ece)
-- [EnergyWatch: Hormuz blockade changes Equinor's market](https://energywatch.com/EnergyNews/Oil___Gas/article19278594.ece)
-- [Baird Maritime: Equinor CEO on Russian gas](https://www.bairdmaritime.com/amp/story/shipping/tankers/gas/equinor-ceo-eu-unlikely-to-increase-russian-gas-imports-despite-supply-squeeze)
-- [Investing.com: Vista Energy acquires Equinor Vaca Muerta assets](https://www.investing.com/news/sec-filings/vista-energy-completes-acquisition-of-equinor-assets-in-vaca-muerta-93CH-4669944)
-- [Rigzone: Equinor drills $9B Brazil gas development](https://www.rigzone.com/news/equinor_starts_drilling_for_9b_gas_development_offshore_brazil-25-mar-2026-183295-article/)
-- [Investing.com: Equinor extends $1.83B supplier deals](https://www.investing.com/news/company-news/equinor-extends-supplier-deals-worth-183-billion-for-drilling-services-93CH-4655092)
-- [Daily Political: Equinor ASA Q1 Earnings Call Highlights](https://www.dailypolitical.com/2026/05/09/equinor-asa-q1-earnings-call-highlights.html)
-- [Meyka: EQNR Earnings Beat](https://meyka.com/blog/eqnr-equinor-asa-earnings-beat-eps-crushes-estimates-0705/)
+- [Equinor: Minutes from the Annual General Meeting 2026 (equinor.com)](https://www.equinor.com/news/20260513-minutes-annual-general-meeting-2026)
+- [Equinor: Annual General Meeting 2026 (equinor.com)](https://www.equinor.com/news/20260512-annual-general-meeting-2026)
+- [GlobeNewswire: Equinor ASA Annual General Meeting 2026](https://www.globenewswire.com/news-release/2026/05/12/3293549/0/en/Equinor-ASA-Annual-general-meeting-2026.html)
+- [GlobeNewswire: Minutes from the Annual General Meeting 2026](https://www.globenewswire.com/news-release/2026/05/13/3293974/0/en/Equinor-ASA-Minutes-from-the-Annual-General-Meeting-2026.html)
+- [Responsible Investor: Follow This proposal backed by 21% of independent shareholders](https://www.responsible-investor.com/follow-this-proposal-at-equinor-backed-by-21-of-independent-shareholders/)
+- [Yahoo Finance: Equinor Balances Hammerfest LNG Setback With New Eirin Gas Supply](https://finance.yahoo.com/news/equinor-balances-hammerfest-lng-setback-132006251.html)
+- [Equinor: First Quarter 2026 Results (equinor.com)](https://www.equinor.com/news/equinor-first-quarter-2026-results)
+- [GlobeNewswire: Equinor First Quarter 2026 Results](https://www.globenewswire.com/news-release/2026/05/06/3288464/0/en/Equinor-first-quarter-2026-results.html)
+- [Yahoo Finance: Equinor Q1 2026 Net Income Jumps 18% to $3.1bn](https://finance.yahoo.com/sectors/energy/articles/equinor-q1-2026-net-income-111352147.html)
+- [StockTitan: Equinor Posts Record Q1 2026 Output and Higher Profit](https://www.stocktitan.net/sec-filings/EQNR/6-k-equinor-asa-current-report-foreign-issuer-5702ec13d0ad.html)
+- [Baird Maritime: Equinor CEO – EU unlikely to increase Russian gas imports](https://www.bairdmaritime.com/amp/story/shipping/tankers/gas/equinor-ceo-eu-unlikely-to-increase-russian-gas-imports-despite-supply-squeeze)
+- [E&E News / POLITICO: Equinor CEO – Energy investments becoming 'politicalized and polarized'](https://www.eenews.net/articles/equinor-ceo-energy-investments-becoming-politicalized-and-polarized/)
+- [Rigzone: Equinor Starts Drilling for $9B Gas Development offshore Brazil](https://www.rigzone.com/news/equinor_starts_drilling_for_9b_gas_development_offshore_brazil-25-mar-2026-183295-article/)
+- [Investing.com: Equinor extends supplier deals worth $1.83 billion](https://www.investing.com/news/company-news/equinor-extends-supplier-deals-worth-183-billion-for-drilling-services-93CH-4655092)
+- [Benzinga: Why Equinor Still Matters To Investors](https://www.benzinga.com/Opinion/26/05/52613170/why-equinor-still-matters-to-investors)
+- [InspéNet: Equinor achieves record production in Q1 2026](https://inspenet.com/en/news/equinor-production-record-q1-2026/)
