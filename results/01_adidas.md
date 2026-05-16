@@ -1,5 +1,5 @@
 # Adidas (ADS.DE)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
 
 ## Aktuelle Meldungen
 - Hauptversammlung am 07.05.2026 stattgefunden
@@ -23,7 +23,8 @@ _KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
 ## Strategie & Ausblick
 - Fokus auf FIFA Weltmeisterschaft 2026: neue Auswärtstrikots, Hyperboost Edge (Running), Adizero Dropset Elite (Training)
 - €100 Mio. Investition in DFL (Deutsche Fußball-Liga) mit 8-Jahres-Matchball-Deal bis 2034
-- Keine Akquisitionen 2026; organisches Wachstum und Kapitalrückführung im Vordergrund
+- Übernahme-Gerüchte: Investor brachte Puma-Adidas-Fusion ins Spiel; beide Konzerne äußern sich nicht dazu; zuletzt bestätigte Akquisition war Runtastic (2015)
+- Keine bestätigten Akquisitionen 2026; organisches Wachstum und Kapitalrückführung im Vordergrund
 - DTC-Kanal (Direct-to-Consumer) als Hauptwachstumstreiber
 
 ## Quellen
