@@ -1,40 +1,48 @@
 # BioNTech (BNTX)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
 
 ## Aktuelle Meldungen
-- **Q1 2026 Finanzergebnisse veröffentlicht (05.05.2026):** BioNTech meldete einen Umsatz von €118,1 Mio. für Q1 2026, verglichen mit €182,8 Mio. im Vorjahreszeitraum. Der Rückgang ist hauptsächlich auf geringere COVID-19-Impfstofferlöse zurückzuführen.
-- **Stellenabbau und Werksschließungen (05.05.2026):** BioNTech kündigte die Schließung mehrerer Produktionsstätten an – betroffen sind die Standorte Idar-Oberstein, Marburg, Tübingen sowie ein Werk in Singapur. Insgesamt werden ca. 1.860 Stellen abgebaut. Die jährlichen Einsparungen sollen bis 2029 auf ca. €500 Mio. (ca. 585 Mio. USD) steigen.
-- **Neues ADS-Aktienrückkaufprogramm (07.05.2026):** BioNTech gab ein neues Aktienrückkaufprogramm für American Depositary Shares (ADS) mit einem Gesamtvolumen von bis zu 1,0 Mrd. USD über zwölf Monate bekannt.
+
+- **Q1 2026 Ergebnisse (05.05.2026):** BioNTech veröffentlichte seine Quartalszahlen für Q1 2026 mit Umsätzen von €118,1 Mio. (entspr. $138,0 Mio.), einem Nettoverlust von €531,9 Mio. und einem verwässerten Verlust je Aktie von €2,10 ($2,463). Die Umsätze sanken gegenüber €182,8 Mio. im Vorjahreszeitraum, hauptsächlich bedingt durch rückläufige COVID-19-Impfstofferlöse.
+- **Stellenabbau und Werksschließungen:** BioNTech schließt mehrere Produktionsstätten (Idar-Oberstein, Marburg, Singapur sowie CureVac-Standorte), was rund 1.860 Stellen betrifft. Ziel sind jährliche Einsparungen von ca. $584,9 Mio. bis 2029; die COVID-19-Impfstoffproduktion wird vollständig an Pfizer übergeben.
+- **Aktienrückkauf:** BioNTech genehmigt ein Aktienrückkaufprogramm von bis zu $1,0 Mrd. über zwölf Monate; nach Bekanntmachung fiel die Aktie (BNTX) um 5,3 %.
+- **Gründer planen Abgang:** Vorstandsvorsitzender Uğur Şahin und Mitgründerin Özlem Türeci haben angekündigt, BioNTech bis Ende 2026 zu verlassen, um ein neues Unternehmen für „Next-Generation mRNA Innovations" zu gründen.
 
 ## Management
-- **CEO Uğur Şahin bestätigt Jahresstrategie:** Im Rahmen der Q1-Ergebnisse betonte Şahin, dass 2026 ein „katalysatorreiches Jahr" sei, in dem die Onkologie-Pipeline konkrete klinische Ergebnisse liefern soll. Er verwies auf laufende Phase-3-Studien und bevorstehende Zwischenauswertungen.
-- **Gründerabgang bleibt geplant:** Die angekündigte Übergabe von CEO Şahin und Co-Gründerin Özlem Türeci an Ende 2026 wird nicht revidiert. Analysten (u. a. Leerink) stellen weiterhin die Frage, ob BioNTech ohne das Gründer-Know-how seinen Kurs halten kann.
-- **Strategische Prioritäten 2026:** Drei Schwerpunkte: (1) Beschleunigung der spätstufigen Onkologie-Pipeline, (2) operative Kostendisziplin durch Restrukturierung, (3) Kapitalrückgabe an Aktionäre via Aktienrückkäufe.
+
+- **CEO Uğur Şahin** erklärte beim JPMorgan Healthcare Conference: „Positive results from these clinical studies could open the door to several short- and mid-term product launches." Gleichzeitig kündigte er an: „For us, this is the right time to prepare to hand over the baton."
+- **Özlem Türeci (CMO)** begleitet Şahin beim Aufbau des neuen, noch unbenannten mRNA-Unternehmens; beide beschreiben sich als bereit, „pioneers once again" zu sein.
+- BioNTech betonte, 2026 als ein „catalyst-rich year" zu sehen, mit mehreren Phase-III-Readouts aus dem Onkologieportfolio.
 
 ## Finanzielles
-- **Q1 2026 Umsatz:** €118,1 Mio. (Q1 2025: €182,8 Mio.) – Rückgang primär durch geringere COVID-19-Impfstofferlöse.
-- **Q1 2026 Nettoverlust:** €531,9 Mio. (Q1 2025: Nettoverlust €415,8 Mio.) – Ausweitung des Verlustes durch höhere F&E-Ausgaben.
-- **F&E-Ausgaben Q1 2026:** €557,0 Mio. (Q1 2025: €525,6 Mio.) – getrieben durch Immun-Onkologie- und ADC-Programme (vor allem Pumitamig und Gotistobart).
-- **Jahresprognose 2026 bestätigt:** Gesamtjahresumsatz 2026 zwischen 2,3 und 2,6 Mrd. USD; weiterhin keine Onkologie-Produktumsätze für 2026 erwartet.
-- **Liquidität (Stand 31.03.2026):** Starke Kassenposition von 19,6 Mrd. USD.
-- **Aktienrückkauf:** Genehmigtes Rückkaufprogramm über bis zu 1,0 Mrd. USD (ADS), Laufzeit zwölf Monate.
+
+- **Umsatz Q1 2026:** €118,1 Mio. ($138,0 Mio.) – Rückgang ggü. €182,8 Mio. im Q1 2025.
+- **Nettoverlust Q1 2026:** €531,9 Mio. (bereinigt: €494,6 Mio.).
+- **F&E-Aufwendungen:** €557,0 Mio. (hauptsächlich für Immuno-Onkologie und ADC-Programme, insb. pumitamig und gotistobart, sowie Kosten aus 2025-Akquisitionen).
+- **SG&A-Aufwendungen:** €150,8 Mio. (u. a. kommerzieller Aufbau und Integration von Akquisitionen).
+- **Liquiditätslage:** €16,8 Mrd. in Barmitteln, Geldmarktpapieren und Wertpapierinvestitionen; starke Bilanz gesichert.
+- **Jahresprognose 2026:** Umsatz $2,3–$2,6 Mrd. – bestätigt.
 
 ## Strategie & Ausblick
-- **Onkologie-Pipeline im Fokus:** Fünf neue pivotale Studien für den pan-tumor Antikörper Pumitamig wurden in Q1 2026 gestartet (Indikationen: triple-negativer Brustkrebs, MSS-kolorektales Karzinom, Magenkarzinom, zwei NSCLC-Settings) – in Zusammenarbeit mit Bristol Myers Squibb. BioNTech strebt 15 laufende Phase-3-Studien bis Jahresende an.
-- **Erwartete Phase-3-Zwischenauswertungen in 2026:** Interim Readouts für Trastuzumab Pamirtecan, Gotistobart (Anti-CTLA-4) und BNT113 (mRNA-Krebsimmuntherapie) sollen noch 2026 erfolgen.
-- **Restrukturierung und Kostensenkung:** Schließung der Produktionsstandorte (Idar-Oberstein, Marburg, Tübingen, Singapur, CureVac-Standort) soll ab 2029 ~€500 Mio. jährliche Einsparungen bringen; strategische Fokussierung auf effizientere, kerngeschäftsnahe Fertigung.
-- **CureVac-Integration läuft:** Die im Januar 2026 abgeschlossene Übernahme von CureVac (ca. 1,25 Mrd. USD) stärkt die mRNA-Plattform; Synergien werden u. a. durch Schließung des CureVac-Fertigungsstandorts realisiert.
-- **Penn-BioNTech-Fonds (PxB Fund):** Der gemeinsam mit der University of Pennsylvania im Januar 2026 aufgelegte Life-Science-Seedfonds über 50 Mio. USD investiert in Frühphasen-Biotech-Unternehmen auf Basis universitärer Forschung.
+
+- **Onkologie als Wachstumssäule:** BioNTech hat 2026 bisher fünf neue pivotale Studien für pumitamig (Anti-PD-L1 x IL-15) gestartet – in den Indikationen TNBC, MSS-CRC, Magenkrebs und zwei NSCLC-Settings –, jeweils in Zusammenarbeit mit Bristol Myers Squibb.
+- **Pipeline-Schwerpunkte:** pumitamig, gotistobart (Anti-CTLA-4), BNT113 (mRNA-Krebsimmuntherapie) und ADC-Programme; interim Phase-III-Readouts werden für H2 2026 erwartet.
+- **CureVac-Integration:** Der vollständige Erwerb von CureVac N.V. ($1,25 Mrd.) wurde mit Januar 2026 abgeschlossen; mRNA-Technologiebasis wird gestärkt.
+- **$50 Mio. Life-Science-Fonds:** Gemeinsam mit der University of Pennsylvania wurde der „Penn-BioNTech Innovative Therapeutics Seed (PxB) Fund" für Seed- und Series-A-Investitionen aufgelegt.
+- **Strategische Partnerschaften:** BioNTech ist offen für bevorzugte Partnerschaften, insbesondere für die Weiterentwicklung seiner Krebsmedikamente; Akquisitionen werden als sekundäre Kapitalverwendung nicht ausgeschlossen.
+- **Multiproduktunternehmen bis 2030:** Langfristiges Ziel bleibt, bis 2030 mehrere zugelassene Onkologieprodukte vermarkten zu können.
 
 ## Quellen
-- [BioNTech: Q1 2026 Finanzergebnisse – investors.biontech.de](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
-- [BioNTech Q1 2026 Pressemitteilung – GlobeNewswire (DE)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/de/biontech-ver%C3%B6ffentlicht-ergebnisse-f%C3%BCr-das-erste-quartal-2026-sowie-informationen-zur-gesch%C3%A4ftsentwicklung.html)
-- [BioNTech Q1 2026 Financial Results – GlobeNewswire (EN)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/en/BioNTech-Announces-First-Quarter-2026-Financial-Results-and-Corporate-Update.html)
-- [BioNTech: Neue ADS Rückkaufprogramm – GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/07/3289764/0/en/BioNTech-Announces-New-ADS-Repurchase-Program.html)
-- [BioNTech plant Schließung mehrerer Produktionsstätten – BioSpace](https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs)
-- [BioNTech to Cut 1,860 Jobs – Bloomberg](https://www.bloomberg.com/news/articles/2026-05-05/biontech-to-cut-as-many-as-1-860-jobs-as-covid-jab-sales-drop)
-- [BioNTech Releases Q1 2026 Results – PharmExec](https://www.pharmexec.com/view/biontech-releases-first-quarter-results-2026)
-- [BioNTech Q1 2026 Loss Widens – StockTitan](https://www.stocktitan.net/sec-filings/BNTX/6-k-bio-n-tech-se-current-report-foreign-issuer-1c30c20c9b1f.html)
-- [BioNTech CEO/CMO Departure – Fierce Biotech](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
-- [BioNTech Gründer verlassen für neues Venture – BioSpace](https://www.biospace.com/business/biontech-founders-to-leave-famed-mrna-biotech-for-new-venture)
-- [BioNTech schließt CureVac-Übernahme ab – investors.biontech.de](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent/)
+
+- [BioNTech Q1 2026 Financial Results – investors.biontech.de](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
+- [BioNTech Q1 2026 – GlobeNewswire (DE)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/de/biontech-ver%C3%B6ffentlicht-ergebnisse-f%C3%BCr-das-erste-quartal-2026-sowie-informationen-zur-gesch%C3%A4ftsentwicklung.html)
+- [BioNTech Q1 2026 – SEC Filing (6-K)](https://www.sec.gov/Archives/edgar/data/1776985/000177698526000030/a991_bntxq12026pressreleas.htm)
+- [BioNTech Stellenabbau 1.860 Jobs – BioSpace](https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs)
+- [BioNTech Job Cuts – Bloomberg](https://www.bloomberg.com/news/articles/2026-05-05/biontech-to-cut-as-many-as-1-860-jobs-as-covid-jab-sales-drop)
+- [BioNTech Founders Departure – BioPharma Dive](https://www.biopharmadive.com/news/biontech-founders-ugur-sahin-ozlem-tureci-mrna-startup/814290/)
+- [BioNTech CEO/CMO Prep Departure – FierceBiotech](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+- [BioNTech Open to Partnerships – Bloomberg](https://www.bloomberg.com/news/articles/2026-01-13/biontech-open-to-preferred-partnership-as-cancer-drugs-advance)
+- [BioNTech Pivots to Oncology at JPM – Yahoo Finance](https://finance.yahoo.com/news/biontech-pivots-back-oncology-jpm-090416406.html)
+- [BioNTech CureVac Acquisition Closed – investors.biontech.de](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent/)
+- [BioNTech Co-Founders New mRNA Company – biontech.com](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/03/biontech-and-co-founders-announce-plan-pursue-next-generation.html)
+- [PharmExec – BioNTech Q1 2026 Results](https://www.pharmexec.com/view/biontech-releases-first-quarter-results-2026)
