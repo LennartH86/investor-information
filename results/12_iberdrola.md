@@ -1,50 +1,52 @@
 # Iberdrola (IBE.MC)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
 
 ## Aktuelle Meldungen
-- **Investitionen €14,5 Mrd. in zwölf Monaten (02.05.2026):** Iberdrola hat in den vergangenen zwölf Monaten insgesamt €14,46 Mrd. investiert – der Großteil floss in Stromnetze in Großbritannien und den USA. Das berichtete Nettoeinkommen stieg dabei um 12 %.
-- **Brasilien – Neoenergia-Konzessionserneuerung (08.05.2026):** Die brasilianische Tochtergesellschaft Neoenergia unterzeichnete 30-jährige Konzessionserneuerungen für vier Verteilernetzbetreiber und kündigte ein Fünf-Jahres-Investitionsprogramm von R$47 Mrd. (~US$9,5 Mrd.) an. Die Mittel fließen in Modernisierung von Umspannwerken, Ausbau von Hoch- und Mittelspannungsnetzen, Erneuerung von Transformatoren und Masten sowie Digitalisierung/Smart-Grid.
-- **Pumpspeicherkraftwerk Valdecañas (07.05.2026):** Iberdrola hat technische Verbesserungen an seiner Valdecañas-Pumpstation am Tejo in der Nähe von Cáceres (Extremadura, Spanien) umgesetzt und damit die Flexibilität für die Netzstabilisierung erhöht.
-- **Compliance-Auszeichnung:** Iberdrola wurde von Compliance Week zum Compliance Program of the Year 2026 gekürt – für die Digitalisierung seiner Compliance-Prozesse in 20 Ländern über die vergangenen sechs Jahre.
-- **Abschluss Mexiko-Verkauf (24.04.2026):** Iberdrola hat den Verkauf seiner Mexiko-Aktivitäten (2.600 MW installierte Kapazität aus Gas-Kombi, Kraft-Wärme-Kopplung, Wind und Solar) an Cox Energy für ~US$4,2 Mrd. abgeschlossen – damit kompletter Rückzug aus dem mexikanischen Markt.
-- **Hauptversammlung:** Die ordentliche Hauptversammlung 2026 ist für den 29. Mai 2026 (erster Einberufungstermin) einberufen, entweder am Satzungssitz oder als Remote-Teilnahme. Vorab fanden Aktionärstreffen am 5. Mai in Pamplona und am 13. Mai in Madrid statt.
+
+- **Brasilien-Investitionszyklus (11.05.2026):** Iberdrola kündigt über seine Tochter Neoenergia einen neuen Investitionszyklus von fast 50 Mrd. BRL (~9 Mrd. EUR / ~10,2 Mrd. USD) für den Ausbau der Stromnetze in Brasilien bis 2030 an – 82 % mehr als im vorherigen Zyklus 2021–2025. Neoenergia versorgt mehr als 16 Mio. Kunden (40 Mio. Brasilianer) und steht nach dem PREVI-Rückkauf (Sept. 2025) zu 84 % im Besitz von Iberdrola.
+- **Akquisition in Italien (14.05.2026):** Iberdrola erwirbt 40 MW Onshore-Windkapazität von Belenergia (IT) und RGREEN INVEST (FR) und steigert damit die installierte Erneuerbare-Kapazität in Italien auf rund 450 MW.
+- **Hauptversammlung:** Die ordentliche Hauptversammlung ist für Freitag, 29. Mai 2026, 10:30 Uhr MEZ am Firmensitz angesetzt; Teilnahme auch per Fernzugang möglich.
+- **Aktionärstage:** Iberdrola hielt am 12.05.2026 eine Aktionärskonferenz in Pamplona und am 14.05.2026 einen Shareholders' Day in Madrid ab.
 
 ## Management
-- **Executive Chairman:** José Ignacio Sánchez Galán – repräsentiert das Unternehmen nach außen; war im Januar 2026 auf dem Weltwirtschaftsforum in Davos präsent.
-- **CEO:** Pedro Azagra Blázquez – seit 24. Juni 2025 Chief Executive Officer der Iberdrola Group.
-- **Davos 2026 (Januar):** Chairman Galán hob die steigende globale Stromnachfrage, die Notwendigkeit von Netzinfrastruktur-Investitionen und Iberdrolaس €60-Mrd.-Vier-Jahres-Expansionsplan hervor und verknüpfte Energiesicherheit mit nationaler Sicherheit.
-- Galán betonte: Mehr als zwei Drittel der geplanten €60 Mrd. sind für den Ausbau der Stromnetze vorgesehen.
+
+- **Executive Chairman:** Ignacio Galán – betonte auf dem WEF Davos 2026 den steigenden globalen Strombedarf und die Bedeutung des Netzausbaus; plant Investitionen von ~60 Mrd. EUR in den nächsten vier Jahren, davon mehr als zwei Drittel in Stromnetze.
+- **CEO:** Pedro Azagra Blázquez – präsentierte gemeinsam mit Galán und CFO José Sáinz Armada die Q1-2026-Ergebnisse.
+- **CNBC-Interview (Jan. 2026):** Galán erklärte, geopolitische Spannungen hätten Energieautonomie zurück auf die Agenda der Politik gebracht: „Energy security and national security are absolutely linked."
+- **WEF-Zitat:** „To do important things, you need ambition, vision and capability. I believe we are in the right industry at the right time."
 
 ## Finanzielles
-- **Q1 2026 Ergebnis:** Bereinigter Nettogewinn stieg um 11 % auf €1.865 Mio. – getragen vom Networks-Segment in Ländern mit A-Rating.
-- **Networks-EBITDA Q1 2026:** +9 % auf €2.048 Mrd.; regulierte Vermögensbasis (RAB) nähert sich €53 Mrd.
-- **Investitionen Q1 2026:** €2,7 Mrd. investiert, davon mehr als die Hälfte in UK und USA.
-- **Kapazitätszuwachs:** +3.300 MW erneuerbare Kapazität in den vergangenen 12 Monaten; Offshore-Windproduktion +42 % gegenüber Q1 2025.
-- **Guidance 2026 angehoben:** Bereinigter Nettogewinn-Zielkorridor von „ca. +6 %" auf „>+8 %" erhöht; Guidance 2026 bei ca. €6,6 Mrd. (Strategieplan-Ziel: €7,6 Mrd. bis 2028).
-- **Dividende 2025:** Iberdrola schüttet €4,5 Mrd. an Dividenden für das Geschäftsjahr 2025 aus.
-- **Gesamtinvestitionsplan 2025–2028:** €58 Mrd.; 85 % entfallen auf Länder mit A-Kreditrating; 70 % der netzgebundenen Investitionen gehen in UK und USA.
+
+- **Q1 2026 – Bereinigter Nettogewinn:** +11 % YoY auf 1.865 Mio. EUR (Konsensschätzung knapp übertroffen), trotz Gegenwind durch Wechselkurseffekte.
+- **Netzwerk-Segment (EBITDA):** 2.048 Mio. EUR (+9 %); Regulated Asset Base (RAB) nähert sich 53 Mrd. EUR.
+- **Power & Customers (EBITDA):** 2.022 Mio. EUR (–3 %) aufgrund einmaliger regulatorischer Kosten in Iberien und positiver Sondereffekte im Vorjahr (USA).
+- **Investitionen Q1 2026:** >2,7 Mrd. EUR.
+- **Offshore-Windproduktion:** +42 % vs. Q1 2025.
+- **Installierte Erneuerbare-Kapazität:** 46.741 MW per Ende Q1 2026 (+3.300 MW in den vergangenen 12 Monaten).
+- **Jahresguidance angehoben:** Bereinigter Nettogewinn 2026 nun erwartet bei >8 % Wachstum (vorher: ~6 %).
+- **Aktie (IBE.MC):** Leichter Anstieg nach Q1-Veröffentlichung.
 
 ## Strategie & Ausblick
-- **Schwerpunkt Netzinfrastruktur:** Iberdrola setzt konsequent auf Strom-Übertragung und -Verteilung (Networks); RAB-Ziel: +40 % auf €70 Mrd. bis 2028.
-- **Erneuerbare Kapazität:** Ziel von 60 GW bis 2028; aktuelle Kapazität ~58,9 GW; Solar ~9.013 MW (+12,7 %), Offshore-Wind ~2.621 MW (+16,2 %), Batteriespeicher ~683 MW (+157,6 %).
-- **Brasilien als Wachstumsmarkt:** Neoenergia-Konzessionserneuerungen sichern langfristige regulierte Erträge; Neoenergia nach Squeeze-out auf ~98–100 % konsolidiert.
-- **Portfolio-Optimierung (Mexiko-Exit):** Veräußerung nicht-strategischer Assets zur Konzentration auf Kernmärkte UK, USA, Brasilien und Spanien.
-- **Australien:** Kontrolle über 315-MW-Ararat-Windpark in Victoria (Inbetriebnahme Q4 2026); Iberdrola hält 51 %, Kansai 49 %.
-- **Iberdrola gewinnt Compliance-Auszeichnung 2026** – signalisiert zunehmend institutionelles ESG-Fokus als Wettbewerbsvorteil.
-- **Nächste Hauptversammlung:** 29. Mai 2026 – mögliche Beschlüsse zu Vergütung, Kapitalmaßnahmen und Strategiebestätigung.
+
+- **Strategieplan 2025–2028:** Geplante Bruttoinvestitionen von ~60 Mrd. EUR; mehr als 50 % der Erneuerbare-Investitionen fließen in Offshore-Wind (USA, UK, Frankreich, Deutschland).
+- **Brasilien:** Neoenergia-Kapex 2026–2030 von ~50 Mrd. BRL fokussiert auf Netzdigitalisierung, Versorgungsqualität und Kapazitätsausbau zur Deckung wachsender Energienachfrage.
+- **Italien:** Schrittweiser Ausbau des Erneuerbaren-Portfolios durch selektive Akquisitionen operativer Anlagen (zuletzt 40 MW Onshore-Wind → Gesamtkapazität ~450 MW).
+- **Australien:** Erstes Windprojekt in Victoria (315 MW, ~1,28 Mrd. EUR), Inbetriebnahme erwartet Q4 2026.
+- **Mexiko (Asset Rotation):** Verkauf des Mexiko-Geschäfts an Cox für ~4 Mrd. USD (inkl. 12-GW-Pipeline) abgeschlossen – Erlöse fließen in Kernmärkte.
+- **Gesamtstrategie:** Fokus auf regulierte Netzwirtschaft in A-gerateten Ländern als Ergebnistreiber, ergänzt durch selektiven Offshore-Wind-Aufbau; Energiesicherheitsdebatte in Europa kommt Iberdrola strategisch zugute.
 
 ## Quellen
-- [SolarQuarter – Iberdrola investiert €14,5 Mrd. in zwölf Monaten (02.05.2026)](https://solarquarter.com/2026/05/02/iberdrola-invests-e14-5-billion-in-twelve-months-with-majority-directed-to-networks-in-the-uk-and-united-states/)
-- [Rio Times Online – Neoenergia R$47 Mrd. Konzessionserneuerung Brasilien (08.05.2026)](https://www.riotimesonline.com/neoenergia-47-billion-concession-renewal-brazil-may-2026/)
-- [pv magazine – Iberdrola Pumpspeicher Valdecañas (07.05.2026)](https://www.pv-magazine.com/2026/05/07/iberdrola-advances-pumped-storage-hydro-station-in-spain/)
-- [Compliance Week – Iberdrola Compliance Program of the Year 2026](https://www.complianceweek.com/events/excellence-in-compliance-awards/iberdrola-wins-2026-compliance-program-of-the-year/)
-- [Iberdrola – Hauptversammlung 2026](https://www.iberdrola.com/corporate-governance/general-shareholders-meeting)
-- [Investing.com – Q1 2026 Earnings Call Transcript (Gewinn +11 %)](https://www.investing.com/news/transcripts/earnings-call-transcript-iberdrolas-q1-2026-profit-grows-stock-edges-up-93CH-4643991)
-- [Investing.com – Q1 2026 Slides: Guidance auf >8 % angehoben](https://www.investing.com/news/company-news/iberdrola-q1-2026-slides-profit-jumps-11-guidance-raised-to-8-93CH-4644123)
-- [Morningstar – Iberdrola 2026 Guidance Raised After Strong Earnings](https://global.morningstar.com/en-eu/stocks/iberdrola-earnings-2026-guidance-raised-after-strong-earnings-shares-rich)
-- [SolarQuarter – Chairman Galán WEF Davos 2026 / €60 Mrd. Plan](https://solarquarter.com/2026/01/28/at-world-economic-forum-iberdrola-chairman-galan-highlights-global-energy-demand-infrastructure-investment-and-e60-billion-four-year-expansion-plan/)
-- [Iberdrola – Investitionen €14,46 Mrd. / +12 % Nettogewinn](https://www.iberdrola.com/press-room/news/detail/investments-of-14-46-billion-drive-12-percent-growth-in-reported-net-profit)
-- [pv-tech – Cox übernimmt Iberdrola Mexiko für US$4 Mrd.](https://www.pv-tech.org/cox-acquires-iberdrola-mexico-12gw-renewable-energy-pipeline-us4-billion/)
-- [Iberdrola – Pressemitteilungen 2026](https://www.iberdrola.com/press-room/news/2026/-/sc/pag-1)
-- [Iberdrola – Strategischer Plan / Investitionen €41 Mrd.](https://www.iberdrola.com/press-room/news/detail/iberdrola-will-invest-41-billion-and-hire-10000-people-by-2026-to-accelerate-electrification)
-- [Strategic Energy Europe – Iberdrola Plan: 40 % mehr regulierte Assets, 60 GW bis 2028](https://strategicenergy.eu/iberdrolas-new-plan-foresees-40-more-regulated-assets-and-60-gw-by-2028/)
+
+- [SolarQuarter: Iberdrola Brasilien-Investitionszyklus ~50 Mrd. BRL (11.05.2026)](https://solarquarter.com/2026/05/11/iberdrola-launches-new-investment-cycle-in-brazil-with-nearly-50-billion-reais-committed-to-electricity-networks-through-2030/)
+- [Rigzone: Iberdrola to Invest $10B in Brazil through 2030 (11.05.2026)](https://www.rigzone.com/news/iberdrola_to_invest_10b_in_brazil_through_2030-11-may-2026-183655-article/)
+- [Rio Times Online: Spain's Iberdrola to Invest $9.5B in Brazil Grid Renewal](https://www.riotimesonline.com/neoenergia-47-billion-concession-renewal-brazil-may-2026/)
+- [Rigzone: Iberdrola Acquires 40 MW Wind Plant in Italy (14.05.2026)](https://www.rigzone.com/news/iberdrola_acquires_another_installed_re_plant_in_italy-14-may-2026-183686-article/)
+- [PVknowhow: Iberdrola renewable acquisition – 40 MW Italian Deal](https://www.pvknowhow.com/news/iberdrola-renewable-acquisition-stunning-40-mw-italian-deal/)
+- [Investing.com: Iberdrola Q1 2026 Earnings Call Transcript (Gewinn +11 %)](https://www.investing.com/news/transcripts/earnings-call-transcript-iberdrolas-q1-2026-profit-grows-stock-edges-up-93CH-4643991)
+- [Investing.com: Iberdrola Q1 2026 Slides – Guidance auf >8 % angehoben](https://www.investing.com/news/company-news/iberdrola-q1-2026-slides-profit-jumps-11-guidance-raised-to-8-93CH-4644123)
+- [Iberdrola Q1 2026 Results Report (PDF)](https://www.iberdrola.com/documents/20125/5846486/report-26Q1.pdf)
+- [SolarQuarter: WEF Davos 2026 – Galán / €60 Mrd. Investitionsplan](https://solarquarter.com/2026/01/28/at-world-economic-forum-iberdrola-chairman-galan-highlights-global-energy-demand-infrastructure-investment-and-e60-billion-four-year-expansion-plan/)
+- [CNBC: Iberdrola CEO on energy security and national security](https://www.cnbc.com/video/2026/01/21/iberdrola-ceo-energy-security-and-national-security-absolutely-linked.html)
+- [PV-Tech: Cox acquires Iberdrola Mexico for US$4B](https://www.pv-tech.org/cox-acquires-iberdrola-mexico-12gw-renewable-energy-pipeline-us4-billion/)
+- [Iberdrola Shareholders & Investors](https://www.iberdrola.com/shareholders-investors)
+- [Iberdrola Press Room 2026](https://www.iberdrola.com/press-room/news/2026/-/sc/pag-1)
