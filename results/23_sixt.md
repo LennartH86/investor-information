@@ -1,40 +1,55 @@
 # Sixt (SIX2.DE)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 10.05.2026 – 17.05.2026_
 
 ## Aktuelle Meldungen
-- **Sonderangebot für Spirit-Airlines-Passagiere (Mai 2026):** Sixt verlängerte ein Sonderangebot für Reisende, die von der Betriebseinstellung von Spirit Airlines betroffen sind. Buchungen mussten bis 17. Mai 2026 erfolgen, Anmietungen zwischen dem 5. und 31. Mai 2026 (Rückgabe bis spätestens 10. Juni 2026).
-- **Neue flexible Tarife in Deutschland (Mai 2026):** Sixt führt neue Tarife mit Premiumfahrzeugen und unbegrenzter Kilometerleistung ein – ab 69 Euro/Tag für Mittelklasse und ab 99 Euro/Tag für Premiummodelle (z. B. BMW, Mercedes). Buchbar bis Ende September 2026 an allen deutschen Sixt-Stationen; Kunden mit hohem Fahrbedarf sparen bis zu 30 % gegenüber Standardtarifen.
-- **Expansion in Lateinamerika und Karibik:** Sixt eröffnete neue Mietwagenstationen in Lateinamerika und der Karibik und setzt damit die internationale Flächenexpansion fort.
-- **Dividende:** Die Dividendenausschüttung für Vorzugsaktionäre ist für den 22. Juni 2026 geplant (vorbehaltlich HV-Beschluss).
+
+- **Q1 2026 Quartalsergebnis (13.05.2026):** Sixt veröffentlichte starke Quartalszahlen: Konzernumsatz stieg auf 928,9 Mio. Euro (+12,6 % währungsbereinigt ggü. Q1 2025). Dies markiert das 19. Rekordquartal in Folge; das Ergebnis übertraf die Erwartungen der Analysten.
+- **Rückkehr in die Gewinnzone:** EBT von +2,1 Mio. Euro (Vorjahr: –17,6 Mio. Euro) – Verbesserung um 19,7 Mio. Euro.
+- **Aktienkurs-Reaktion:** Die Stammaktie (SIX2.DE) stieg am 13.05.2026 um mehr als 6 % auf 73,20 Euro.
+- **DZ BANK Kaufempfehlung bestätigt (15.05.2026):** DZ Bank erneuerte das Kaufvotum für die Sixt-Stammaktie nach den Quartalszahlen.
+- **Neue flexible Tarife (Mai 2026):** Sixt führte neue Tarife mit Premiumfahrzeugen und unbegrenzter Laufleistung ein – ab 69 Euro/Tag (Mittelklasse) bzw. 99 Euro/Tag (Premium, z. B. BMW, Mercedes). Buchbar bis September 2026; Ersparnis bis zu 30 % für Vielfahrer.
 
 ## Management
-- Sixt SE wird weiterhin von den Co-CEOs **Alexander Sixt** und **Konstantin Sixt** geleitet (seit Juni 2021 im Amt).
-- **Alexander Sixt** bleibt öffentlich kritisch gegenüber den EU-Plänen für verpflichtende E-Fahrzeugquoten in Firmenflotten ab 2027; er warnt vor wirtschaftlichen Schäden aufgrund mangelnder Ladeinfrastruktur.
-- Alexander Sixt ist zuständig für Konzernstrategie, HR, IT sowie PR/Kommunikation; Konstantin Sixt verantwortet Marketing, internationale Franchise-Entwicklung und SIXT+.
+
+- **Co-CEOs:** Alexander Sixt und Konstantin Sixt leiten das Unternehmen gemeinsam (seit Juni 2021).
+  - Alexander Sixt verantwortet Konzernstrategie, HR, IT (Hard- und Software), PR/Kommunikation sowie Global Business Services.
+  - Konstantin Sixt verantwortet Marketing, internationale Franchise-Entwicklung & Business to Partners sowie SIXT+.
+- **Aussage Alexander Sixt (Jahresergebnis 2025):** „2025 war ein starkes Jahr für SIXT: Wir erzielten erneut einen Rekordumsatz und steigerten unsere Profitabilität um fast 20 %. Getrieben durch konsequente Flottendisziplin, den weiteren Ausbau des Premiumsegments und gezielte Technologieinvestitionen."
 
 ## Finanzielles
-- **Rekordjahr 2025:** Währungsbereinigter Umsatzanstieg von rund 9 % auf **4,3 Mrd. Euro**; Gewinn legte um fast **20 %** zu.
-- **Prognose 2026:** Sixt erwartet erneut einen Rekordumsatz (4,45–4,60 Mrd. Euro) mit verbesserter EBT-Marge von rund 10 %.
-- **Q1-2026-Ergebnisse:** Veröffentlichung des Quartalsberichts für Q1 2026 (Stichtag 31. März 2026) ist für **11.–13. Mai 2026** angekündigt – Ergebnisse lagen zum Recherchezeitraum noch nicht vor.
-- **Syndizierter Kredit:** Sixt SE hat seinen syndizierten Kredit auf **1,55 Mrd. Euro** ausgeweitet und die Laufzeit bis mindestens 2030 verlängert – zur Finanzierung weiteren Wachstums.
-- Rekordliquidität von über **1,5 Mrd. Euro** stärkt die Handlungsfähigkeit für Investitionen und Akquisitionen.
+
+- **Q1 2026 Umsatz:** 928,9 Mio. Euro (+12,6 % währungsbereinigt)
+- **Corporate EBITDA Q1 2026:** 67,7 Mio. Euro (+40,2 % ggü. Q1 2025)
+- **EBT Q1 2026:** +2,1 Mio. Euro (ggü. –17,6 Mio. Euro in Q1 2025)
+- **Durchschnittliche Flottengröße Q1 2026:** 182.900 Fahrzeuge (exkl. Franchise), +8,4 % ggü. Q1 2025
+- **Premiumanteil Flotte:** konstant ca. 58 %
+- **Jahresprognose 2026 bestätigt:** Umsatz 4,45–4,60 Mrd. Euro; EBT-Marge ca. 10 %
+- **Marktkapitalisierung:** ca. 3,18 Mrd. Euro; KGV 11,63; Dividendenrendite 4,52 %
+- **Konzernliquidität:** über 1,5 Mrd. Euro (gestützt durch syndizierten Kredit i. H. v. 1,55 Mrd. Euro bis mind. 2030)
 
 ## Strategie & Ausblick
-- **Starcar-Markenerwerb (März 2026, Strategiebestätigung):** Sixt hält die erworbenen Markenrechte des insolventen Konkurrenten Starcar und implementiert damit eine Zweitmarken-Strategie für preissensible Kundensegmente – ohne das Premiumimage der Kernmarke zu gefährden. Analysten werten dies als margenstützende Maßnahme.
-- **Premiumstrategie & diszipliniertes Flottenmanagement:** Sixt setzt auf kontrolliertes Wachstum statt Flottenmassierung; der Fokus liegt auf Rentabilität im Premiumsegment.
-- **Internationale Expansion:** Neue Stationen in Lateinamerika/Karibik sowie strategische Partnerschaften (Signature Aviation, Vuelta a España) festigen die globale Präsenz und Markenpositionierung.
-- **Reisesaison 2026:** Analysten erwarten eine starke Buchungssaison (vgl. Aktienwelt360, April 2026), was Sixt als Profiteur des Reisebooms positioniert.
-- Risiken: Währungseffekte (USD), makroökonomische Eintrübungen sowie regulatorischer Druck (EU-EV-Quoten) bleiben zentrale Unsicherheitsfaktoren.
+
+- **Starcar-Akquisition (März 2026):** Sixt erwarb die Markenrechte des insolventen Konkurrenten Starcar. Die Zweitmarkenstrategie zielt auf preisbewusste Kundensegmente, ohne das Premiumimage der Kernmarke zu gefährden. Analysten bewerten dies als margenstützend langfristig.
+- **US-Expansion:** Sixt hat seine Marktposition in den USA massiv ausgebaut; weiteres Wachstum im nordamerikanischen Markt ist fester Bestandteil der Langfriststrategie.
+- **Van & Truck:** Der Bereich Van & Truck soll bis Ende 2026 deutlich mehr zum Konzernumsatz beitragen.
+- **Stellantis-Rahmenvertrag:** Vereinbarung über Kauf von bis zu 250.000 Fahrzeugen legt Grundlage für weiteres globales Wachstum.
+- **Signature Aviation Partnership (April 2026):** Kooperation zur Ausweitung der Präsenz im europäischen Luftfahrtmarkt (Business-Travel-Segment).
+- **Hauptversammlung:** Für den 17. Juni 2026 geplant; erwartet werden Impulse zu Dividendenpolitik und internationaler Expansion.
+- **Sommersaison 2026:** Analysten erwarten eine starke Reisesaison; Sixt sieht sich mit Premiumflotte, starker Liquidität und globalem Netz gut positioniert.
+- **Risiken:** Währungseffekte (USD), makroökonomische Eintrübungen sowie regulatorischer Druck (EU-EV-Quoten ab 2027) bleiben Unsicherheitsfaktoren.
 
 ## Quellen
+
+- [EQS-News: SIXT mit starkem Jahresauftakt – onvista (13.05.2026)](https://www.onvista.de/news/2026/05-13-eqs-news-sixt-mit-starkem-jahresauftakt-umsatz-steigt-auf-929-mio-euro-ergebnis-uebertrifft-vorjahr-deutlich-0-37-26511420)
+- [SIXT strong start to the year – TradingView News](https://www.tradingview.com/news/eqs:798dbc24d094b:0-sixt-with-a-strong-start-to-the-year-revenue-rises-to-eur-929-million-earnings-significantly-exceed-prior-year/)
+- [Sixt beats Q1 profit estimates, confirms 2026 outlook – Investing.com](https://www.investing.com/news/earnings/sixt-beats-q1-profit-estimates-confirms-2026-outlook-on-higher-revenue-4683244)
+- [Sixt SE-Aktie: Quartalszahlen treiben Kurs über 73 Euro – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/sixt-se-aktie-de0007231326-quartalszahlen-treiben-kurs-ueber-73-euro/69331781)
+- [Sixt SE St Kaufen – DZ BANK Analyse – finanzen.net (15.05.2026)](https://www.finanzen.net/analyse/sixt_se_st_kaufen-dz_bank_1081759)
 - [Sixt Mietwagen: Neue Tarife und Flotte 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/sixt-mietwagen-neue-tarife-und-flotte-2026-fuer-geschaeftsreisende/69268710)
-- [SIXT Extends Special Offer to Travelers Impacted by Spirit Airlines – Las Vegas Sun News](https://lasvegassun.com/news/2026/may/05/sixt-extends-special-offer-to-travelers-impacted-b/)
-- [Sixt VZ: Dividende fällig am 22. Juni 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/sixt-vz-dividende-faellig-am-22-juni-2026/69287680)
-- [Growth financing: SIXT SE expands syndicated loan to EUR 1.55 billion – EQS News](https://www.eqs-news.com/news/corporate/growth-financing-sixt-se-expands-syndicated-loan-to-eur-1-55-billion-and-extends-maturity-until-at-least-2030/e6565e76-5df0-4a49-9238-ac82a5f8e4a7_en)
-- [SIXT Opens Car Rental Outlets Across Latin America, Caribbean – Auto Rental News](https://www.autorentalnews.com/10250879/sixt-opens-car-rental-outlets-across-latin-america-caribbean)
-- [Sixt – Premium-Strategie als Erfolgsfaktor – pressetext.com](https://www.pressetext.com/news/20260507016)
-- [Erich Sixt und der brillante Starcar-Coup 2026 – wirtschaft-magazin.de](https://wirtschaft-magazin.de/erich-sixt/)
-- [Sixt im Turbo-Modus: Starke Reisesaison voraus – aktienwelt360.de](https://www.aktienwelt360.de/2026/04/25/sixt-im-turbo-modus-starke-reisesaison-voraus-ist-die-aktie-jetzt-ein-attraktives-investment/)
-- [SIXT AKTIE Termine / Quartalszahlen – finanzen.net](https://www.finanzen.net/termine/sixt)
-- [Alexander Sixt, Co-CEO of Sixt SE – LinkedIn](https://www.linkedin.com/posts/sixt_alexander-sixt-co-ceo-of-sixt-se-in-an-activity-7261997811880091651-ieS4)
+- [SIXT Partners With Signature Aviation – BusinessWire (15.04.2026)](https://www.businesswire.com/news/home/20260415362742/en/SIXT-Partners-With-Signature-Aviation-to-Expand-Presence-in-European-Aviation-Market)
+- [Erich Sixt und der Starcar-Coup 2026 – wirtschaft-magazin.de](https://wirtschaft-magazin.de/erich-sixt/)
+- [Sixt im Turbo-Modus – aktienwelt360.de (25.04.2026)](https://www.aktienwelt360.de/2026/04/25/sixt-im-turbo-modus-starke-reisesaison-voraus-ist-die-aktie-jetzt-ein-attraktives-investment/)
+- [SIXT and Stellantis – Stellantis Media](https://www.media.stellantis.com/em-en/corporate-communications/press/sixt-and-stellantis-reach-agreement-for-the-purchase-of-up-to-250-000-vehicles-laying-the-foundation-for-further-global-expansion)
+- [Sixt SE: Digitalisierung und Expansion – it-boltwise.de](https://www.it-boltwise.de/sixt-se-digitalisierung-und-expansion-in-der-mobilitaetsbranche.html)
+- [SIXT mit starkem Jahresauftakt – IT-Times](https://www.it-times.de/news/sixt-mit-starkem-jahresauftakt-umsatz-steigt-auf-929-mio-euro-ergebnis-uebertrifft-vorjahr-deutlich-181630/)
 - [Investor Relations – SIXT SE](https://about.sixt.com/en/investor-relations/)
