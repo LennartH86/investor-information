@@ -1,47 +1,50 @@
 # Ionos (IOS.DE)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
 
 ## Aktuelle Meldungen
-- **WordPress Hosting Störung (08.05.2026):** Ab 01:10 CEST waren Teile der IONOS WordPress Hosting-Infrastruktur nicht erreichbar. Andere Produkte (WordPress Pro, Classic Web Hosting, VPS, Cloud Server, E-Mail, DNS, SSL) waren nicht betroffen und blieben stabil.
-- **Q1 2026 Ergebnisse angekündigt:** Der Webcast zur Veröffentlichung der Q1-2026-Zahlen wurde für den 12. Mai 2026 (09:00 CEST) angesetzt – kurz nach dem Recherchezeitraum.
-- **Hauptversammlung 19.05.2026:** Die ordentliche Hauptversammlung findet in der Alten Oper, Frankfurt am Main, statt (Einberufung bereits im April kommuniziert).
-- **Terraform Provider – Partner Premier Status:** Der IONOS Cloud Terraform Provider erhielt den "Partner Premier"-Status im Terraform Registry (HashiCorp) – Anerkennung für Qualitätsstandards bei Lifecycle-Management, Sicherheitskontrollen und Datensouveränität.
-- **Preisanpassung 2026:** IONOS kommuniziert weiterhin laufende Preisanpassungen individuell per E-Mail an betroffene Kunden.
+
+- **Q1 2026 Quartalsbericht (12. Mai 2026):** IONOS Group SE veröffentlichte starke Q1-Zahlen und meldete einen erfolgreichen Start ins Geschäftsjahr 2026. Umsatz, EBITDA und Kundenzahl wurden weiter gesteigert.
+- **Aktie über 30-Euro-Marke:** Nach den überzeugenden Quartalszahlen kletterte die IONOS-Aktie über die 30-Euro-Marke und ließ die 200-Tage-Linie hinter sich (14.05.2026).
+- **Aktienrückkäufe:** Zwischen dem 4. und 8. Mai 2026 erwarb IONOS insgesamt 181.653 eigene Aktien ausschließlich im XETRA-Handel im Rahmen des laufenden Rückkaufprogramms (bis zu 2,2 Mio. Aktien / bis zu 60 Mio. EUR, aufgelegt am 24.03.2026).
+- **WordPress-Hosting-Störung (8. Mai 2026):** Am 8. Mai 2026 kam es zu einer WordPress-Hosting-Störung; IONOS kommunizierte transparent über Diagnose und Behebung. Andere Produktlinien waren nicht betroffen.
 
 ## Management
-- **CEO Achim Weiss** führt die Strategie konsequent fort; zuletzt öffentlich im Q4-2025-Earnings-Call (19.03.2026) zu KI und Ausblick positioniert.
-- CEO-Zitat (Earnings Call FY 2025): „Wir haben unsere Profitabilität enorm gesteigert und unsere Fokussierung als Digitalisierungspartner für KMU weiter geschärft. Mit unserem neuen KI-Ökosystem ‚IONOS Momentum' haben wir erste KI-Anwendungen für Unternehmen jeder Größe zugänglich gemacht."
-- KI soll 2026 rund 50 % des inkrementellen Umsatzes beitragen (vs. ~20 % in 2025); bis 2028 soll dieser Anteil auf ~80 % steigen.
-- Kein neues CEO-Interview im Berichtszeitraum 03.–10.05.2026 gefunden.
+
+- **CEO:** Achim Weiss – verantwortlich für die Gesamtstrategie des Unternehmens; mehr als 25 Jahre Erfahrung in der Internetbranche.
+- **CEO-Statement Q1 2026:** „Wir hatten einen sehr starken Start in das Jahr 2026 und sind mit dem ersten Quartal äußerst zufrieden. Die Nachfrage nach unseren Produkten ist stark – was sich im weiteren deutlichen Anstieg des Kundenwachstums auf nun über 6,8 Millionen Kunden zeigt, bei gleichzeitig hoher Profitabilität."
+- **CFO zu M&A:** Der CFO signalisierte, dass M&A eine aktive Rolle bei der zukünftigen Kapitalallokation spielen werde – mit Präferenz für größere Hosting-Deals und kleinere Technologiezukäufe im Bereich Agentic AI.
 
 ## Finanzielles
-- **GJ 2025 (gemeldet März 2026):** Umsatz EUR 1,317 Mrd. (+5,5 % ggü. Vj.); bereinigtes EBITDA EUR 485,2 Mio. (+18,5 %); bereinigte EBITDA-Marge 36,8 % (+4 Pp.) – höchste Marge seit Börsengang.
-- **Prognose GJ 2026:** Währungsbereinigtes Umsatzwachstum ~7 % (Web Presence & Productivity: +7–8 %, Cloud Solutions: ~+10 %); bereinigtes EBITDA ~EUR 530 Mio.; Marge 37–38 %.
-- **Capex 2026:** Investitionen von EUR 75–85 Mio. geplant, Schwerpunkt Cloud-Infrastruktur.
-- **Refinanzierungsbedarf:** Schuldenfälligkeit von ~EUR 800 Mio. im Dezember 2026 muss refinanziert werden; Management hat Refinanzierungsstrategie angekündigt.
-- **Q1 2026:** Einzelzahlen noch nicht veröffentlicht (Webcast 12.05.2026 nach Recherchezeitraum).
-- **Aktienrückkauf:** Laufendes Programm; Neukunden fast verdoppelt in 2025 (+310.000 Nettoneukunden), was Umsatzbeschleunigung 2026 treiben soll.
+
+- **Umsatz Q1 2026:** 348,4 Mio. EUR (+5,7 % ggü. Q1 2025: 329,6 Mio. EUR)
+- **Bereinigtes EBITDA Q1 2026:** 118,2 Mio. EUR (+4,8 % ggü. Q1 2025: 112,8 Mio. EUR)
+- **Bereinigte EBITDA-Marge Q1 2026:** 33,9 % (Q1 2025: 34,2 %)
+- **Kundenbasis Q1 2026:** 6,81 Mio. Kunden (Q1 2025: 6,40 Mio. Kunden) – Wachstum von ca. 180.000 Kunden im Quartal, deutlich über Vorjahrestempo
+- **Public Cloud Q1 2026:** Wachstum von 16 %; Management erwartet für das Gesamtjahr über 20 % Wachstum
+- **Jahresprognose 2026:** Währungsbereinigtes Umsatzwachstum ca. 7 % (ca. 8 % ohne Intercompany-Umsätze); bereinigtes EBITDA-Ziel ca. 530 Mio. EUR (2025: 485,2 Mio. EUR); Marge 37–38 %
+- **Nettoverschuldung:** 645 Mio. EUR; Net Debt/EBITDA-Ratio 1,3 – solide Bilanz mit Spielraum für Akquisitionen
 
 ## Strategie & Ausblick
-- **KI als zentraler Wachstumstreiber:** IONOS setzt auf das KI-Ökosystem „IONOS Momentum" als Kernstrategie – europäische, souveräne Cloud- und KI-Plattform speziell für KMU.
-- **Europäische Cloud-Souveränität:** Zwei Drittel der deutschen KMU stehen KI positiv gegenüber, mehr als die Hälfte sorgt sich um Datenspeicherung in den USA oder China – IONOS positioniert sich bewusst als europäische Alternative (gemeinsame Studie mit YouGov).
-- **Euro-Office:** IONOS ist Teil einer Allianz führender europäischer Unternehmen, die mit „Euro-Office" eine souveräne Office-Alternative etablieren will.
-- **Neuer GPU-Server:** Dedizierter GPU-Server (IP4-50 GPU) mit NVIDIA RTX PRO 6000 (Blackwell-Architektur, 96 GB VRAM) angekündigt – KI-ready für anspruchsvolle Workloads.
-- **Up- und Cross-Selling:** Fokus auf bestehende Kundenbasis von >6,6 Mio. Kunden sowie Neukundengewinnung.
-- **AdTech-Verkauf:** Strategische Fokussierung auf Kerngeschäft; AdTech-Sparte zum Verkauf gestellt (angekündigt Nov. 2025).
-- **Keine Übernahmen/Akquisitionen:** Im Recherchezeitraum und bislang 2026 keine M&A-Aktivitäten gemeldet.
-- **Nächste wichtige Termine:** Q1-2026-Webcast 12.05.2026; Hauptversammlung 19.05.2026.
+
+- **KI-Ökosystem „IONOS Momentum":** Das Unternehmen setzt auf das neue KI-Ökosystem und die souveräne europäische Cloud-Infrastruktur als zentrale Wachstumstreiber; KI soll 2026 rund 50 % der zusätzlichen Umsätze beisteuern.
+- **Public Cloud beschleunigt:** Mit 16 % Wachstum in Q1 2026 und dem Ziel von >20 % für das Gesamtjahr ist die Cloud-Sparte ein klarer Wachstumstreiber.
+- **M&A-Strategie:** IONOS stellt Kasse für Akquisitionen bereit – CFO bevorzugt größere Hosting-Deals und kleinere Technologiezukäufe im Bereich Agentic AI.
+- **Strategische Beteiligung Entri (Aug. 2025):** IONOS hält eine Minderheitsbeteiligung am US-Unternehmen Entri (SaaS-APIs für Domain-Setup), die eine seit 2023 bestehende Partnerschaft vertieft.
+- **Aktienrückkaufprogramm:** Aktive Kapitalrückführung an Aktionäre unterstreicht finanzielle Stärke und Aktionärsfreundlichkeit.
+- **Hauptversammlung 2026:** Findet am 19.05.2026 in der Alten Oper Frankfurt statt.
 
 ## Quellen
+
+- [IONOS mit erfolgreichem Start ins Geschäftsjahr 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/ionos-mit-erfolgreichem-start-ins-geschaeftsjahr-2026-eqs-news-ionos/69309547)
+- [IONOS mit erfolgreichem Start ins Geschäftsjahr 2026 – IT-Times](https://www.it-times.de/news/ionos-mit-erfolgreichem-start-ins-geschaeftsjahr-2026-181533/)
+- [IONOS with a successful start to the 2026 fiscal year – IONOS Group SE (IR)](https://www.ionos-group.com/investor-relations/publications/announcements/ionos-with-a-successful-start-to-the-2026-fiscal-year.html)
+- [IONOS mit Rückenwind: Rückkäufe, 180.000 Neukunden & KI – wallstreetONLINE (14.05.2026)](https://www.wallstreet-online.de/nachricht/20874867-ionos-rueckenwind-rueckkaeufe-180-000-neukunden-ki)
+- [IONOS Q1 2026 slides: AI drives growth – Investing.com](https://www.investing.com/news/company-news/ionos-q1-2026-slides-ai-drives-growth-as-customers-surge-to-record-93CH-4679148)
+- [IONOS Group SE (IOSDF) Q1 2026 Earnings Call Transcript – Seeking Alpha](https://seekingalpha.com/article/4903387-ionos-group-se-iosdf-q1-2026-earnings-call-transcript)
+- [IONOS-Aktie klettert: EBITDA wächst trotz höherer Marketingausgaben – finanzen.net](https://www.finanzen.net/nachricht/aktien/united-internet-tochter-ionos-steigert-umsatz-und-gewinn-ausblick-bestaetigt-15677968)
+- [AKTIE IM FOKUS: Ionos lassen 30 Euro und 200-Tage-Linie hinter sich – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hoechst-erfreut-haben-investoren-am-dienstag-auf-den-quartalsbericht-von/69311879)
+- [IONOS secures strategic minority stake in Entri – IONOS Group SE (IR)](https://www.ionos-group.com/investor-relations/newsroom/ionos-secures-strategic-minority-stake-in-entri-api-platform-for-domains.html)
+- [IONOS stellt die Kasse auf Angriff – stock3](https://stock3.com/news/ionos-stellt-die-kasse-auf-angriff-kommt-bald-ein-grosser-zukauf-17073801)
+- [Ionos Aktie: Zahlen überzeugen – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/ionos-aktie-zahlen-ueberzeugen/69310915)
 - [IONOS WordPress Hosting Störung 8. Mai 2026 – onlinewachsen.de](https://onlinewachsen.de/news/ionos-wordpress-hosting-stoerung-8-mai-2026/)
-- [May 2026 Release Notes – IONOS Cloud Docs](https://docs.ionos.com/cloud/release-notes/may-2026)
-- [Information on the 2026 IONOS price adjustment – IONOS Help](https://www.ionos.com/help/2026/information-on-the-2026-ionos-price-adjustment/)
-- [IONOS HV 2026 – IONOS Group SE](https://www.ionos-group.com/de/investor-relations/hauptversammlung/2026.html)
-- [IONOS Group SE: Veröffentlichung einer Kapitalmarktinformation – EQS News](https://www.eqs-news.com/news/other-capital-market-information/ionos-group-se-release-of-a-capital-market-information/9ca37fea-d330-4826-8522-c894554b7437_en)
-- [IONOS Q1 2026 Ergebnisse – IONOS Group SE](https://www.ionos-group.com/investor-relations/financial-calendar/3m.html)
-- [Earnings call transcript: IONOS Group SE Q4 2025 – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-ionos-group-se-reports-strong-q4-2025-growth-93CH-4569972)
-- [IONOS Reports Successful 2025 Fiscal Year – IONOS Group SE](https://www.ionos-group.com/investor-relations/publications/announcements/ionos-reports-successful-2025-fiscal-year-profitability-at-record-levels.html)
-- [IONOS Is Betting Its Future on AI – webhosting.today](https://webhosting.today/2026/03/27/ionos-is-betting-its-future-on-ai-the-market-does-not-believe-it-yet/)
-- [IONOS FY 2025 slides: AI drives growth as margins hit 36.8% – Investing.com](https://www.investing.com/news/company-news/ionos-fy-2025-slides-ai-drives-growth-as-margins-hit-368-93CH-4570015)
-- [IONOS Pressemitteilungen 2026 – presseportal.de](https://www.presseportal.de/nr/160685)
-- [IONOS Share Buyback – IONOS Group SE](https://www.ionos-group.com/investor-relations/share/share-buyback.html)
+- [Ionos Quartalsergebnis Q1 2026 – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-05/68463714-eqs-news-ionos-group-se-ionos-mit-erfolgreichem-start-ins-geschaeftsjahr-2026-022.htm)

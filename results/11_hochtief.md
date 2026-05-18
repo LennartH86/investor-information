@@ -1,50 +1,48 @@
 # Hochtief (HOT.DE)
-_KW19 / 2026 | Zeitraum: 03.05.2026 – 10.05.2026_
+_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
 
 ## Aktuelle Meldungen
-- **Q1 2026 Umsatzrekord (veröffentlicht 05.05.2026)**: Hochtief erzielte im ersten Quartal 2026 einen Umsatz von 11,2 Mrd. Euro – ein Wachstum von 8 % gegenüber dem Vorjahresquartal; Aktie reagierte positiv (+2,1 % auf Xetra).
-- **Aktie auf Rekordhoch (05./06.05.2026)**: Die Hochtief-Aktie kletterte am 5. Mai 2026 um +6,41 % nach einer Kurszielanpassung durch Jefferies (neues Ziel: 480 Euro); in der Folge erreichte die Aktie im Verlauf der Woche neue Allzeithochs über 550 Euro – ein Gesamtanstieg von rund 20 % innerhalb von zwei Handelstagen.
-- **Jefferies-Analyse**: Jefferies hob das Kursziel auf 480 Euro an; Analyst Graham Hunt (Barclays) bekräftigte die positive Einschätzung mit Verweis auf anhaltend starke Nachfrage nach KI-Datenzentren.
-- **Vergütungsbekanntmachung (04.05.2026)**: Mehrere Vorstandsmitglieder erhielten im Rahmen des Long-Term Incentive Plan I (dreijährige Sperrfrist) Aktienübertragungen als aktienbasierte Vergütungskomponente.
-- **Quartalbericht Januar–März 2026**: Die offizielle Veröffentlichung des vollständigen Q1-Berichts war für den 11. Mai 2026 geplant (im Recherchezeitraum noch ausstehend).
-- **Jahresperformance**: Seit Jahresbeginn 2026 hat die Hochtief-Aktie um knapp 250 % zugelegt; auf Dreijahressicht mehr als versiebenfalcht.
+
+- **Q1-Ergebnisse veröffentlicht (11. Mai 2026):** Hochtief meldete einen operativen Konzerngewinn von 217 Mio. Euro im ersten Quartal 2026, ein Plus von knapp 30 % (währungsbereinigt +41 %) gegenüber dem Vorjahresquartal.
+- **Rekordrally der Aktie:** Die HOT-Aktie kletterte Anfang Mai 2026 auf rund 490 Euro (+46,6 % YTD). Analystenhaus Jefferies erhöhte das Kursziel auf 480 Euro.
+- **Gewinnmitnahmen nach Q1-Zahlen:** Trotz starker Zahlen verlor die Aktie am Tag der Bekanntgabe rund 3,5 % – Anleger nutzten die guten Ergebnisse zur Gewinnmitnahme nach der langen Rally.
+- **Umsatzrekord Q1 2026:** Der Umsatz stieg um 5,3 % auf knapp 9,4 Mrd. Euro; der Auftragseingang wuchs um 17,2 % auf 15,2 Mrd. Euro.
+- **Rekord-Auftragsbestand:** Der Auftragsbestand erreichte Ende März 2026 mit 79,3 Mrd. Euro einen neuen Höchstwert.
 
 ## Management
-- **CEO**: Juan Santamaría Cases (Vorsitzender des Vorstands) – keine neuen öffentlichen Interviews im Recherchezeitraum; aktuelle Aussagen fließen aus Earnings-Call-Transkripten und der Jahreskommunikation ein.
-- **CFO**: Christa Andresky
-- **Weitere Vorstandsmitglieder**: Ángel Muriel Bernal und Martina Steffen
-- CEO Juan Santamaría Cases betonte in Jahreskommunikation 2025: Hochtief sei als globaler End-to-End-Infrastrukturdienstleister in strategischen Wachstumsfeldern wie KI, digitale Infrastruktur, Energie, Verteidigung und kritische Mineralien positioniert.
-- **HV 2026 (29.04.2026)**: Hauptversammlung fand planmäßig statt; laut Presseportal-Eintrag und EQS-Ankündigung wurde die Tagesordnung ordnungsgemäß abgearbeitet.
+
+- **CEO:** Juan Santamaría Cases (Vorstandsvorsitzender seit Juli 2022) – begleitete die Q1-Ergebnisse mit dem Statement: „Wir sind erfolgreich in das Jahr 2026 gestartet, mit hohen Gewinnzuwächsen und einem Auftragsbestand auf Rekordniveau."
+- **Nuklearer Fokus:** CEO Santamaría Cases äußerte sich in einem Analysten-Call (Februar 2026) zum strategischen Interesse an Small Modular Reactors (SMR) außerhalb Europas – klares Signal zur Diversifikation ins Nuklearsegment.
+- **CFO:** Christa Andresky; weitere Vorstandsmitglieder: Ángel Muriel Bernal und Martina Steffen.
 
 ## Finanzielles
-- **Q1 2026 Umsatz**: 11,2 Mrd. Euro (+8 % gegenüber Q1 2025).
-  - Americas-Region: 7,1 Mrd. Euro
-  - Europa-Region: 3,1 Mrd. Euro
-- **Auftragsbestand per Ende März 2026**: 47 Mrd. Euro (+5 % gegenüber Vorjahr); Konzernauftragsbestand (inkl. aller Töchter) weiterhin bei 73 Mrd. Euro auf Rekordniveau.
-- **Guidance FY2026**: Operativer Nettogewinn von 950 Mio. – 1.025 Mio. Euro (entspricht +20 bis +30 % gegenüber FY2025 mit 789 Mio. Euro).
-- **Gewinnwachstum**: Für 2026 werden 20–30 % Gewinnanstieg erwartet; getrieben v. a. durch US-Tochter Turner (KI-Datenzentren) und australische Tochter CIMIC.
-- **Dividende 2026**: Dividende von 4,40 Euro je Aktie (+10 % gegenüber Vorjahr) laut Eulerpool-Prognose; exakter Betrag durch HV-Beschluss Ende April 2026 festgestellt.
-- **Aktienkurs (lfd. KW19)**: Allzeithoch über 550 Euro nach Kursrally von rund +250 % seit Jahresbeginn 2026.
+
+- **Operativer Konzerngewinn Q1 2026:** 217 Mio. Euro (+30 % ggü. Vorjahr; währungsbereinigt +41 %)
+- **Umsatz Q1 2026:** ca. 9,4 Mrd. Euro (+5,3 % ggü. Vorjahr)
+- **Auftragseingang Q1 2026:** 15,2 Mrd. Euro (+17,2 %; währungsbereinigt +27 %)
+- **Auftragsbestand (Ende März 2026):** 79,3 Mrd. Euro (neuer Rekordwert)
+- **Jahresprognose 2026:** Operativer Konzerngewinn von 950 Mio. bis 1,025 Mrd. Euro (+20–30 % ggü. Vorjahr) – bestätigt
+- **Vergleichsbasis 2025:** Operativer Nettogewinn 789 Mio. Euro (+26 %, über der damaligen Guidance)
 
 ## Strategie & Ausblick
-- **KI-Datenzentren als Kernwachstumstreiber**: Hochtief profitiert über Turner (USA) und CIMIC (Australien/Asien) massiv vom weltweiten Bau von KI-Rechenzentren; Nachfrage nach Kapazitäten übertrifft laut Barclays weiterhin deutlich das Angebot.
-- **Digitale Infrastruktur, Energie, Verteidigung**: Management definiert diese drei Segmente als strategische Wachstumsfelder für 2026 und darüber hinaus; Großprojekte wie der Militärflughafen Čáslav (Tschechien, ~220 Mio. Euro) und die Prager Metro Linie D (~428 Mio. Euro Hochtief-Anteil) aus KW17 laufen planmäßig.
-- **PPP-Projekt University of Southampton (März 2026)**: Ein Hochtief-Konsortium gewann ein 200-Mio.-Euro-PPP-Projekt in Großbritannien – zeigt geografische Diversifikation in Europa.
-- **Abertis-Beteiligung (20 %)**: Hochtief hält weiterhin einen 20%-Anteil an Abertis (globaler Mautstraßenbetreiber) als langfristiges Infrastrukturinvestment; keine neuen M&A-Ankündigungen im Recherchezeitraum.
-- **Keine neuen Übernahmen in KW19**: Im Zeitraum 03.–10.05.2026 wurden keine neuen Akquisitionen oder Übernahmen durch Hochtief bekanntgegeben; Fokus liegt auf organischem Wachstum und Abarbeitung des Rekord-Auftragsbestands.
-- **Nächste Ergebnisveröffentlichungen**: Vollständiger Q1-Bericht (11. Mai 2026), Halbjahresbericht (27. Juli 2026), 9-Monatsbericht (5. November 2026).
+
+- **KI-Datenzentren als Kernwachstumstreiber:** US-Tochter Turner Construction baut einen Rechenzentrumscampus für Meta in Indiana (USA); der globale KI-Boom gilt als zentraler Auftragsmotor.
+- **Nuklearprogramm Rolls-Royce SMR:** Hochtief wurde als Partner für das globale Rolls-Royce Small Modular Reactor (SMR)-Nuklearprogramm ausgewählt – strategische Diversifikation in die Energieinfrastruktur.
+- **Großauftrag Turner Construction:** US-Tochter erhielt einen Auftrag im Wert von 1,7 Mrd. USD für ein Laborgebäude in New York.
+- **Übernahme Dornan:** Integration der irischen Ingenieurgesellschaft Dornan stärkt das technische Dienstleistungsangebot.
+- **Lithium-Investment:** Beteiligung an Vulcan Energy als Einstieg in den Lithiummarkt (kritische Mineralien).
+- **Strategische Schwerpunkte:** Digitalisierung, kritische Mineralien, Energie und Verteidigung – Segmente mit starkem staatlichem und privatem Investitionsdruck. Der rekordhohe Auftragsbestand von 79,3 Mrd. Euro sichert hohe Planungssicherheit für 2026 und darüber hinaus.
+- **Nächste Termine:** Halbjahresbericht (27. Juli 2026), 9-Monatsbericht (5. November 2026).
 
 ## Quellen
-- [Hochtief Aktie klettert deutlich – wallstreet-online.de (05.05.2026)](https://www.wallstreet-online.de/nachricht/20825302-beachtet-hochtief-aktie-klettert-deutlich-05-05-2026)
-- [Hochtief steigt auf 490 Euro: Rekordrally, Analystenziele übertroffen – goldesel.de](https://goldesel.de/aktien/news/hochtief-steigt-auf-490-euro-rekordrally-analystenziele-ubertroffen-fokus-auf-q1-am-11-mai)
-- [Hochtief Aktie: Quartalszahlen Q1 2026 mit Umsatzrekord – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-aktie-de0006070006-quartalszahlen-q1-2026-mit-umsatzrekord/69282563)
-- [Hochtief Aktie: Alle Ziele gesprengt – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-aktie-alle-ziele-gesprengt/69281473)
-- [HOCHTIEF 2025 operativer Nettogewinn +26 % auf 789 Mio. Euro, Guidance 2026: +20–30 % – hochtief.com](https://www.hochtief.com/news-media/press-releases/press-release/hochtief-2025-operational-net-profit-up-26-percent-to-eur-789-million-is-above-guidance)
-- [Pressemitteilungen 2026 – Presseportal](https://www.presseportal.de/nr/17053)
-- [Pressemitteilungen – hochtief.com](https://www.hochtief.com/news-media/press-releases)
-- [Executive Board – hochtief.com](https://www.hochtief.com/about-hochtief/executive-board)
-- [Hochtief Financial Calendar – hochtief.com](https://www.hochtief.com/investor-relations/financial-calendar)
-- [Hochtief Dividende 2026 – eulerpool.com](https://eulerpool.com/de/aktie/Hochtief-Aktie-DE0006070006/dividendeproaktie)
-- [HOCHTIEF als Investment – hochtief.com](https://www.hochtief.com/investor-relations/reasons-to-invest-in-hochtief)
-- [HV-Einberufung 29.04.2026 – EQS News](https://www.eqs-news.com/news/agm-announcements/hochtief-aktiengesellschaft-bekanntmachung-der-einberufung-zur-hauptversammlung-am-29-04-2026-in-congress-center-west-messeplatz-1-45131-essen-deutschland-mit-dem-ziel-der-europaweiten-verbreitung/8c93b057-ac2c-47d2-8882-4e33fd1f9de0_de)
-- [Hochtief Aktie steigt nach Kurszielanpassung – asatunews.co.id](https://www.asatunews.co.id/de/hochtief-aktie-kursplus-jefferies-analyse)
+
+- [Hochtief Aktie: Operativer Gewinn springt 30 Prozent – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-aktie-operativer-gewinn-springt-30-prozent/69315594)
+- [HOCHTIEF AG-Aktie: Operativer Gewinn plus 30 Prozent im Q1 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-ag-aktie-de0006070006-operativer-gewinn-plus-30-prozent-im-q1/69311550)
+- [Hochtief startet mit Zuwächsen ins neue Jahr – finanzen.net](https://www.finanzen.net/nachricht/aktien/hochtief-startet-mit-zuwaechsen-ins-neue-jahr-gewinnziel-bestaetigt-15676019)
+- [HOCHTIEF: Starker Jahresauftakt 2026 mit deutlichem Gewinnanstieg – grundrichtig.de](https://grundrichtig.de/hochtief-starker-jahresauftakt-2026-mit-deutlichem-gewinnanstieg/)
+- [Hochtief Aktie: 950 bis 1,025 Milliarden Gewinnziel 2026 – boerse-express.com](https://www.boerse-express.com/news/articles/hochtief-aktie-950-bis-1025-milliarden-gewinnziel-2026-903530)
+- [Hochtief steigt auf 490 Euro: Rekordrally – goldesel.de](https://goldesel.de/aktien/news/hochtief-steigt-auf-490-euro-rekordrally-analystenziele-ubertroffen-fokus-auf-q1-am-11-mai)
+- [HOCHTIEF CEO: Want To Build Small Nuclear Power Plants Outside Europe – TradingView/Reuters](https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3VP0K6:0-hochtief-ag-ceo-on-call-want-to-build-small-nuclear-power-plants-outside-europe/)
+- [Hochtief Aktie: Strategischer Umbau – stock-world.de](https://www.stock-world.de/hochtief-aktie-strategischer-umbau/)
+- [HOCHTIEF Pressemitteilungen 2026 – presseportal.de](https://www.presseportal.de/nr/17053)
+- [HOCHTIEF Investor Relations – hochtief.com](https://www.hochtief.com/investor-relations)
