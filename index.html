@@ -165,8 +165,9 @@
     opacity: 0;
     transition: opacity 0.25s;
     backdrop-filter: blur(2px);
+    pointer-events: none;
   }
-  #overlay.visible { opacity: 1; }
+  #overlay.visible { opacity: 1; pointer-events: auto; }
 
   /* ── SIDEBAR ── */
   #sidebar {
