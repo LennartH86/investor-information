@@ -1,48 +1,59 @@
 # Hochtief (HOT.DE)
-_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
+_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 
 ## Aktuelle Meldungen
 
-- **Q1-Ergebnisse veröffentlicht (11. Mai 2026):** Hochtief meldete einen operativen Konzerngewinn von 217 Mio. Euro im ersten Quartal 2026, ein Plus von knapp 30 % (währungsbereinigt +41 %) gegenüber dem Vorjahresquartal.
-- **Rekordrally der Aktie:** Die HOT-Aktie kletterte Anfang Mai 2026 auf rund 490 Euro (+46,6 % YTD). Analystenhaus Jefferies erhöhte das Kursziel auf 480 Euro.
-- **Gewinnmitnahmen nach Q1-Zahlen:** Trotz starker Zahlen verlor die Aktie am Tag der Bekanntgabe rund 3,5 % – Anleger nutzten die guten Ergebnisse zur Gewinnmitnahme nach der langen Rally.
-- **Umsatzrekord Q1 2026:** Der Umsatz stieg um 5,3 % auf knapp 9,4 Mrd. Euro; der Auftragseingang wuchs um 17,2 % auf 15,2 Mrd. Euro.
-- **Rekord-Auftragsbestand:** Der Auftragsbestand erreichte Ende März 2026 mit 79,3 Mrd. Euro einen neuen Höchstwert.
+- **Grundsteinlegung Rechenzentrum (20.05.2026):** Im Funkenberg-Quartier fand eine Grundsteinlegung für ein neues Rechenzentrum (Projekt YEXIO) statt. Hochtief positioniert sich damit als Profiteur des wachsenden Bedarfs an Rechenleistung, Digitalisierung und energieintensiver Infrastruktur – insbesondere im Bereich KI-Rechenzentren großer Tech-Konzerne.
+- **Mögliche DAX-Aufnahme (Entscheidung 31.05.2026):** Deutsche-Bank-Analysten sehen Hochtief als Top-Kandidaten für die DAX-Aufnahme; der Entscheidungstermin ist der 31. Mai 2026, was zusätzliche institutionelle Nachfrage auslösen könnte.
+- **Aktienkurs auf Rekordhoch:** Die HOT-Aktie hatte Anfang Mai 2026 rund 490 Euro erreicht. Jefferies hob das Kursziel auf 480 Euro an.
+- **Management-Aktienprogramm (04.05.2026):** Mehrere Vorstandsmitglieder erhielten Aktienübertragungen im Rahmen des Long-Term Incentive Plan mit einer dreijährigen Haltefrist.
+- **CIMIC-Auftrag Indien:** Die australische Tochtergesellschaft CIMIC erhielt einen Auftrag zum Bau einer Zinkrecyclinganlage in Indien mit einem erwarteten Umsatz von ca. 400 Mio. AUD (rund 230 Mio. EUR).
+- **Rolls-Royce Nuklear-Programm:** Hochtief wurde als Teil von Amentums globalem Projektteam für das Rolls-Royce-SMR-Nuklearprogramm ausgewählt. Das Unternehmen kann dabei auf über sieben Jahrzehnte Erfahrung im Nuklearbereich zurückgreifen.
+- **Dividende:** Für Juli 2026 ist eine Dividende von 6,60 EUR je Aktie geplant – eine deutliche Erhöhung gegenüber dem Vorjahr.
 
 ## Management
 
-- **CEO:** Juan Santamaría Cases (Vorstandsvorsitzender seit Juli 2022) – begleitete die Q1-Ergebnisse mit dem Statement: „Wir sind erfolgreich in das Jahr 2026 gestartet, mit hohen Gewinnzuwächsen und einem Auftragsbestand auf Rekordniveau."
-- **Nuklearer Fokus:** CEO Santamaría Cases äußerte sich in einem Analysten-Call (Februar 2026) zum strategischen Interesse an Small Modular Reactors (SMR) außerhalb Europas – klares Signal zur Diversifikation ins Nuklearsegment.
-- **CFO:** Christa Andresky; weitere Vorstandsmitglieder: Ángel Muriel Bernal und Martina Steffen.
+- **CEO:** Juan Santamaría Cases (Vorsitzender des Vorstands seit Juli 2022).
+- **CEO-Statement zu 2025/Ausblick:** Santamaría bezeichnete die operative und finanzielle Leistung von Hochtief im Jahr 2025 als „herausragend" und verwies auf einen Kursanstieg von 160 % in den vorangegangenen zwölf Monaten.
+- **CEO zu Kernenergie (2026):** In einem Analysten-Call äußerte der CEO den Wunsch, kleine Kernkraftwerke (SMR) außerhalb Europas zu bauen – strategisches Signal zur Ausweitung des Nuklear-Engagements.
+- **Weitere Vorstandsmitglieder:** CFO Christa Andresky, Ángel Muriel Bernal und Martina Steffen.
 
 ## Finanzielles
 
-- **Operativer Konzerngewinn Q1 2026:** 217 Mio. Euro (+30 % ggü. Vorjahr; währungsbereinigt +41 %)
-- **Umsatz Q1 2026:** ca. 9,4 Mrd. Euro (+5,3 % ggü. Vorjahr)
-- **Auftragseingang Q1 2026:** 15,2 Mrd. Euro (+17,2 %; währungsbereinigt +27 %)
-- **Auftragsbestand (Ende März 2026):** 79,3 Mrd. Euro (neuer Rekordwert)
-- **Jahresprognose 2026:** Operativer Konzerngewinn von 950 Mio. bis 1,025 Mrd. Euro (+20–30 % ggü. Vorjahr) – bestätigt
-- **Vergleichsbasis 2025:** Operativer Nettogewinn 789 Mio. Euro (+26 %, über der damaligen Guidance)
+- **Q1 2026 veröffentlicht am 11.05.2026**
+- **Q1 2026 – Umsatz:** 9,39 Mrd. EUR (+5,3 % ggü. Vorjahr; währungsbereinigt +14 %).
+- **Q1 2026 – Operativer Konzerngewinn:** +30 % auf 217 Mio. EUR (währungsbereinigt +41 %).
+- **Q1 2026 – Ergebnis je Aktie:** 2,79 EUR; Analysten erwarten für das Gesamtjahr 2026 rund 13,60 EUR/Aktie.
+- **Q1 2026 – Auftragseingang:** 15,2 Mrd. EUR (+17,2 %; währungsbereinigt +27 %).
+- **Q1 2026 – Auftragsbestand:** Rekordwert von 79,3 Mrd. EUR (+5 % ggü. Vorjahr).
+- **Q1 2026 – Auftragspipeline:** 47 Mrd. EUR (Ende März 2026).
+- **Q1 2026 – Verschuldung:** 4,2 Mrd. EUR.
+- **Regionale Umsatzverteilung Q1 2026:** Amerika 7,1 Mrd. EUR (größter Anteil), Europa 3,1 Mrd. EUR.
+- **Jahresausblick 2026 (bestätigt):** Bereinigter Nettogewinn 0,95–1,025 Mrd. EUR (+20–30 % ggü. 2025).
+- **Vergleichsbasis 2025:** Operativer Nettogewinn 789 Mio. EUR (+26 %, über der eigenen Prognose); Neuaufträge +32 %, Auftragsbestand 73 Mrd. EUR.
 
 ## Strategie & Ausblick
 
-- **KI-Datenzentren als Kernwachstumstreiber:** US-Tochter Turner Construction baut einen Rechenzentrumscampus für Meta in Indiana (USA); der globale KI-Boom gilt als zentraler Auftragsmotor.
-- **Nuklearprogramm Rolls-Royce SMR:** Hochtief wurde als Partner für das globale Rolls-Royce Small Modular Reactor (SMR)-Nuklearprogramm ausgewählt – strategische Diversifikation in die Energieinfrastruktur.
-- **Großauftrag Turner Construction:** US-Tochter erhielt einen Auftrag im Wert von 1,7 Mrd. USD für ein Laborgebäude in New York.
-- **Übernahme Dornan:** Integration der irischen Ingenieurgesellschaft Dornan stärkt das technische Dienstleistungsangebot.
-- **Lithium-Investment:** Beteiligung an Vulcan Energy als Einstieg in den Lithiummarkt (kritische Mineralien).
-- **Strategische Schwerpunkte:** Digitalisierung, kritische Mineralien, Energie und Verteidigung – Segmente mit starkem staatlichem und privatem Investitionsdruck. Der rekordhohe Auftragsbestand von 79,3 Mrd. Euro sichert hohe Planungssicherheit für 2026 und darüber hinaus.
-- **Nächste Termine:** Halbjahresbericht (27. Juli 2026), 9-Monatsbericht (5. November 2026).
+- **KI-Rechenzentren als Kernwachstumstreiber:** Hochtief (u. a. über US-Tochter Turner Construction) profitiert massiv vom Boom bei KI-Rechenzentren. Der Auftragseingang der US-Tochter hat sich nahezu verdoppelt. Das Projekt YEXIO (Rechenzentrum im Funkenberg-Quartier) unterstreicht diese Positionierung.
+- **Nuklearstrategie (SMR):** Das Engagement im SMR-Bereich über Rolls Royce und eigene jahrzehntelange Nuklearerfahrung signalisiert eine gezielte Diversifikation in zukunftsträchtige Energieinfrastruktur – mit explizitem CEO-Signal für außereuropäische Expansion.
+- **Geografische Diversifikation:** Mit starker Präsenz in Amerika (Turner Construction) und Australien/Asien (CIMIC, inkl. Indien-Auftrag) ist Hochtief breiter aufgestellt als viele europäische Baukonzerne.
+- **Infrastrukturboom:** Das Unternehmen profitiert überproportional vom globalen Infrastrukturausbau in den Bereichen Energie, Verteidigung, kritische Mineralien und Verkehr. Der rekordhohe Auftragsbestand von 79,3 Mrd. EUR sichert hohe Planungssicherheit.
+- **Potenzielle DAX-Aufnahme (31.05.2026):** Eine Indexaufnahme würde zusätzliche passive Fondsnachfrage generieren und die Aktionärsbasis verbreitern.
+- **Nächste Termine:** Halbjahresbericht 27. Juli 2026; 9-Monatsbericht 5. November 2026.
 
 ## Quellen
 
-- [Hochtief Aktie: Operativer Gewinn springt 30 Prozent – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-aktie-operativer-gewinn-springt-30-prozent/69315594)
+- [Hochtief steigt auf 490 Euro: Rekordrally, Analystenziele übertroffen – goldesel.de](https://goldesel.de/aktien/news/hochtief-steigt-auf-490-euro-rekordrally-analystenziele-ubertroffen-fokus-auf-q1-am-11-mai)
+- [Hochtief Aktie: 13,60 Euro Gewinn für 2026 erwartet – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-aktie-13-60-euro-gewinn-fuer-2026-erwartet/69386870)
 - [HOCHTIEF AG-Aktie: Operativer Gewinn plus 30 Prozent im Q1 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-ag-aktie-de0006070006-operativer-gewinn-plus-30-prozent-im-q1/69311550)
-- [Hochtief startet mit Zuwächsen ins neue Jahr – finanzen.net](https://www.finanzen.net/nachricht/aktien/hochtief-startet-mit-zuwaechsen-ins-neue-jahr-gewinnziel-bestaetigt-15676019)
-- [HOCHTIEF: Starker Jahresauftakt 2026 mit deutlichem Gewinnanstieg – grundrichtig.de](https://grundrichtig.de/hochtief-starker-jahresauftakt-2026-mit-deutlichem-gewinnanstieg/)
-- [Hochtief Aktie: 950 bis 1,025 Milliarden Gewinnziel 2026 – boerse-express.com](https://www.boerse-express.com/news/articles/hochtief-aktie-950-bis-1025-milliarden-gewinnziel-2026-903530)
-- [Hochtief steigt auf 490 Euro: Rekordrally – goldesel.de](https://goldesel.de/aktien/news/hochtief-steigt-auf-490-euro-rekordrally-analystenziele-ubertroffen-fokus-auf-q1-am-11-mai)
-- [HOCHTIEF CEO: Want To Build Small Nuclear Power Plants Outside Europe – TradingView/Reuters](https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3VP0K6:0-hochtief-ag-ceo-on-call-want-to-build-small-nuclear-power-plants-outside-europe/)
-- [Hochtief Aktie: Strategischer Umbau – stock-world.de](https://www.stock-world.de/hochtief-aktie-strategischer-umbau/)
-- [HOCHTIEF Pressemitteilungen 2026 – presseportal.de](https://www.presseportal.de/nr/17053)
-- [HOCHTIEF Investor Relations – hochtief.com](https://www.hochtief.com/investor-relations)
+- [Hochtief Aktie: Quartalszahlen Q1 2026 mit Umsatzrekord – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-aktie-de0006070006-quartalszahlen-q1-2026-mit-umsatzrekord/69282563)
+- [Hochtief liefert starkes Q1 – goldesel.de](https://goldesel.de/aktien/news/hochtief-liefert-starkes-q1-anleger-drucken-aktie-trotz-umsatz-53-und-gewinnziel-0951025-mrd)
+- [HOCHTIEF 2025 Jahresergebnis – Pressemitteilung hochtief.com](https://www.hochtief.com/news-media/press-releases/press-release/hochtief-2025-operational-net-profit-up-26-percent-to-eur-789-million-is-above-guidance)
+- [17 News von HOCHTIEF AG – Presseportal](https://www.presseportal.de/nr/17053)
+- [Hochtief Aktie: 31. Mai bringt DAX-Entscheidung – boerse-express.com](https://www.boerse-express.com/news/articles/hochtief-aktie-31-mai-bringt-dax-entscheidung-907770)
+- [Hochtief AG CEO: Want To Build Small Nuclear Power Plants Outside Europe – TradingView/Reuters](https://www.tradingview.com/news/reuters.com,2026:newsml_S8N3VP0K6:0-hochtief-ag-ceo-on-call-want-to-build-small-nuclear-power-plants-outside-europe/)
+- [HOCHTIEF AG-Aktie: Neuer Ausblick, hohe Dividende und Chancen im Infrastrukturboom – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-ag-aktie-de0006070006-neuer-ausblick-hohe-dividende-und/69381190)
+- [Aktie nicht zu stoppen: Hochtief im Höhenflug – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-02/67750704-aktie-nicht-zu-stoppen-hochtief-im-hoehenflug-us-tochter-liefert-das-signal-auftragseingang-verdoppelt-049.htm)
+- [HOCHTIEF AG-Aktie: Auftragslage, Dividende und Ausblick im Fokus – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-ag-aktie-de0006070006-auftragslage-dividende-und-ausblick-im/69366261)
+- [Hochtief Executive Board – hochtief.com](https://www.hochtief.com/about-hochtief/executive-board)
+- [How HOCHTIEF Delivers Advanced Infrastructure – constructiondigital.com](https://constructiondigital.com/news/hochtief-delivers-advanced-infrastructure)
