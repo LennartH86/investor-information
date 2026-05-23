@@ -3,36 +3,41 @@ _KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 
 ## Aktuelle Meldungen
 
-- **Grundsteinlegung Rechenzentrum (20.05.2026):** Im Funkenberg-Quartier fand eine Grundsteinlegung für ein neues Rechenzentrum statt. Hochtief positioniert sich damit als Profiteur des wachsenden Bedarfs an Rechenleistung, Digitalisierung und energieintensiver Infrastruktur – insbesondere im Bereich KI-Rechenzentren großer Tech-Konzerne.
+- **Grundsteinlegung Rechenzentrum (20.05.2026):** Im Funkenberg-Quartier fand eine Grundsteinlegung für ein neues Rechenzentrum (Projekt YEXIO) statt. Hochtief positioniert sich damit als Profiteur des wachsenden Bedarfs an Rechenleistung, Digitalisierung und energieintensiver Infrastruktur – insbesondere im Bereich KI-Rechenzentren großer Tech-Konzerne.
 - **Mögliche DAX-Aufnahme (Entscheidung 31.05.2026):** Deutsche-Bank-Analysten sehen Hochtief als Top-Kandidaten für die DAX-Aufnahme; der Entscheidungstermin ist der 31. Mai 2026, was zusätzliche institutionelle Nachfrage auslösen könnte.
-- **Aktienkurs auf Rekordhoch:** Die HOT-Aktie hatte Anfang Mai 2026 rund 490 Euro erreicht (+46,6 % YTD). Jefferies hob das Kursziel auf 480 Euro an.
+- **Aktienkurs auf Rekordhoch:** Die HOT-Aktie hatte Anfang Mai 2026 rund 490 Euro erreicht. Jefferies hob das Kursziel auf 480 Euro an.
 - **Management-Aktienprogramm (04.05.2026):** Mehrere Vorstandsmitglieder erhielten Aktienübertragungen im Rahmen des Long-Term Incentive Plan mit einer dreijährigen Haltefrist.
 - **CIMIC-Auftrag Indien:** Die australische Tochtergesellschaft CIMIC erhielt einen Auftrag zum Bau einer Zinkrecyclinganlage in Indien mit einem erwarteten Umsatz von ca. 400 Mio. AUD (rund 230 Mio. EUR).
-- **Rolls-Royce Nuklear-Programm:** Hochtief übernahm das Baumanagement für Rolls Royce (Großbritannien) zur Umsetzung eines globalen Programms für kleine und mittlere Kernreaktoren (SMR). Das Unternehmen kann dabei auf über sieben Jahrzehnte Erfahrung im Nuklearbereich zurückgreifen.
+- **Rolls-Royce Nuklear-Programm:** Hochtief wurde als Teil von Amentums globalem Projektteam für das Rolls-Royce-SMR-Nuklearprogramm ausgewählt. Das Unternehmen kann dabei auf über sieben Jahrzehnte Erfahrung im Nuklearbereich zurückgreifen.
+- **Dividende:** Für Juli 2026 ist eine Dividende von 6,60 EUR je Aktie geplant – eine deutliche Erhöhung gegenüber dem Vorjahr.
 
 ## Management
 
 - **CEO:** Juan Santamaría Cases (Vorsitzender des Vorstands seit Juli 2022).
 - **CEO-Statement zu 2025/Ausblick:** Santamaría bezeichnete die operative und finanzielle Leistung von Hochtief im Jahr 2025 als „herausragend" und verwies auf einen Kursanstieg von 160 % in den vorangegangenen zwölf Monaten.
-- **CEO zu Kernenergie (Februar 2026):** In einem Analysten-Call äußerte der CEO den Wunsch, kleine Kernkraftwerke (SMR) außerhalb Europas zu bauen – strategisches Signal zur Ausweitung des Nuklear-Engagements.
+- **CEO zu Kernenergie (2026):** In einem Analysten-Call äußerte der CEO den Wunsch, kleine Kernkraftwerke (SMR) außerhalb Europas zu bauen – strategisches Signal zur Ausweitung des Nuklear-Engagements.
 - **Weitere Vorstandsmitglieder:** CFO Christa Andresky, Ángel Muriel Bernal und Martina Steffen.
 
 ## Finanzielles
 
-- **Q1 2026 – Umsatz:** 9,39 Mrd. EUR (+5,3 % ggü. Vorjahr); für das Gesamtquartal wird auch ein Wert von bis zu 11,2 Mrd. EUR (inkl. Konsolidierungsanpassungen) genannt.
+- **Q1 2026 veröffentlicht am 11.05.2026**
+- **Q1 2026 – Umsatz:** 9,39 Mrd. EUR (+5,3 % ggü. Vorjahr; währungsbereinigt +14 %).
 - **Q1 2026 – Operativer Konzerngewinn:** +30 % auf 217 Mio. EUR (währungsbereinigt +41 %).
 - **Q1 2026 – Ergebnis je Aktie:** 2,79 EUR; Analysten erwarten für das Gesamtjahr 2026 rund 13,60 EUR/Aktie.
 - **Q1 2026 – Auftragseingang:** 15,2 Mrd. EUR (+17,2 %; währungsbereinigt +27 %).
-- **Auftragsbestand (Ende März 2026):** Rekordwert von 79,3 Mrd. EUR (+5 % ggü. Vorjahr).
+- **Q1 2026 – Auftragsbestand:** Rekordwert von 79,3 Mrd. EUR (+5 % ggü. Vorjahr).
+- **Q1 2026 – Auftragspipeline:** 47 Mrd. EUR (Ende März 2026).
+- **Q1 2026 – Verschuldung:** 4,2 Mrd. EUR.
+- **Regionale Umsatzverteilung Q1 2026:** Amerika 7,1 Mrd. EUR (größter Anteil), Europa 3,1 Mrd. EUR.
 - **Jahresausblick 2026 (bestätigt):** Bereinigter Nettogewinn 0,95–1,025 Mrd. EUR (+20–30 % ggü. 2025).
 - **Vergleichsbasis 2025:** Operativer Nettogewinn 789 Mio. EUR (+26 %, über der eigenen Prognose); Neuaufträge +32 %, Auftragsbestand 73 Mrd. EUR.
 
 ## Strategie & Ausblick
 
-- **KI-Rechenzentren als Kernwachstumstreiber:** Hochtief (u. a. über US-Tochter Turner Construction) profitiert massiv vom Boom bei KI-Rechenzentren. Der Auftragseingang der US-Tochter hat sich nahezu verdoppelt.
-- **Nuklearstrategie (SMR):** Das Engagement im SMR-Bereich über Rolls Royce und eigene jahrzehntelange Nuklearerfahrung signalisiert eine gezielte Diversifikation in zukunftsträchtige Energieinfrastruktur.
+- **KI-Rechenzentren als Kernwachstumstreiber:** Hochtief (u. a. über US-Tochter Turner Construction) profitiert massiv vom Boom bei KI-Rechenzentren. Der Auftragseingang der US-Tochter hat sich nahezu verdoppelt. Das Projekt YEXIO (Rechenzentrum im Funkenberg-Quartier) unterstreicht diese Positionierung.
+- **Nuklearstrategie (SMR):** Das Engagement im SMR-Bereich über Rolls Royce und eigene jahrzehntelange Nuklearerfahrung signalisiert eine gezielte Diversifikation in zukunftsträchtige Energieinfrastruktur – mit explizitem CEO-Signal für außereuropäische Expansion.
 - **Geografische Diversifikation:** Mit starker Präsenz in Amerika (Turner Construction) und Australien/Asien (CIMIC, inkl. Indien-Auftrag) ist Hochtief breiter aufgestellt als viele europäische Baukonzerne.
-- **Infrastrukturboom:** Das Unternehmen profitiert überproportional vom globalen Infrastrukturausbau in den Bereichen Energie, Verteidigung, kritische Mineralien und Verkehr. Der rekordhohe Auftragsbestand sichert hohe Planungssicherheit.
+- **Infrastrukturboom:** Das Unternehmen profitiert überproportional vom globalen Infrastrukturausbau in den Bereichen Energie, Verteidigung, kritische Mineralien und Verkehr. Der rekordhohe Auftragsbestand von 79,3 Mrd. EUR sichert hohe Planungssicherheit.
 - **Potenzielle DAX-Aufnahme (31.05.2026):** Eine Indexaufnahme würde zusätzliche passive Fondsnachfrage generieren und die Aktionärsbasis verbreitern.
 - **Nächste Termine:** Halbjahresbericht 27. Juli 2026; 9-Monatsbericht 5. November 2026.
 
@@ -51,3 +56,4 @@ _KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 - [Aktie nicht zu stoppen: Hochtief im Höhenflug – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-02/67750704-aktie-nicht-zu-stoppen-hochtief-im-hoehenflug-us-tochter-liefert-das-signal-auftragseingang-verdoppelt-049.htm)
 - [HOCHTIEF AG-Aktie: Auftragslage, Dividende und Ausblick im Fokus – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/hochtief-ag-aktie-de0006070006-auftragslage-dividende-und-ausblick-im/69366261)
 - [Hochtief Executive Board – hochtief.com](https://www.hochtief.com/about-hochtief/executive-board)
+- [How HOCHTIEF Delivers Advanced Infrastructure – constructiondigital.com](https://constructiondigital.com/news/hochtief-delivers-advanced-infrastructure)
