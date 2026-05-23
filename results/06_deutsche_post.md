@@ -1,64 +1,76 @@
 # Deutsche Post / DHL Group (DHL.DE)
-_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
+_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 
 ## Aktuelle Meldungen
 
-- **Umbenennung zu DHL AG rechtskräftig beschlossen** (05.05.2026): Die Hauptversammlung der Deutsche Post AG hat den tiefgreifenden Konzernumbau bestätigt. Die börsennotierte Muttergesellschaft firmiert künftig als **DHL AG** und fungiert als Holdinggesellschaft für Strategie, Governance und konzernübergreifende Dienste. Der offizielle Namenswechsel soll zum **1. September 2026** nach Eintragung ins Handelsregister wirksam werden.
-- **Post & Parcel Deutschland wird eigenständige Tochter**: Der Bereich wird als rechtlich eigenständige, nicht börsennotierte Tochtergesellschaft unter dem Namen **Deutsche Post AG** ausgegliedert.
-- **Dividendenerhöhung auf 1,90 Euro je Aktie** (05.05.2026): Aktionäre stimmten der Anhebung von 1,85 auf **1,90 Euro je Aktie** zu; Gesamtausschüttung rund **2,1 Mrd. Euro**.
-- **KI-gestützte Sendungsidentifikation** (07.05.2026): DHL Express hat als erstes Unternehmen weltweit ein KI-basiertes Artikelidentifikationssystem für die internationale Sendungsabwicklung eingeführt. Es analysiert per Computer Vision ein vom Kunden erzeugtes Foto und erstellt automatisch eine zollkonforme Warenbeschreibung.
-- **Heavy Weight Express Service** (11.05.2026): DHL Express erweitert sein globales Portfolio um einen neuen Schwersendungsservice für Sendungen bis **3.000 kg** in über 220 Ländern und Territorien.
-- **ACT Expo Award 2026**: DHL wurde als „Leading Global Fleet Winner 2026" ausgezeichnet und damit seine Vorreiterrolle bei der Dekarbonisierung der globalen Logistikflotte anerkannt.
-- **DHL Group in TIME100 Most Influential Companies 2026** aufgenommen.
+- **Western Union-Service in Deutsche-Post-Filialen** (20.05.2026): Deutsche Post hat einen neuen Western-Union-Bargeld­transfer­service eingeführt. Kunden können damit in über 5.000 Partner­filialen Überweisungen in mehr als 200 Länder und Regionen senden und empfangen. Der Rollout auf weitere Standorte ist für den Rest des Jahres 2026 geplant.
+- **DHL integriert Schiene in die Formel-1-Logistik** (20.05.2026): Erstmals überhaupt transportierte DHL rund 50 Container mit Rennaus­rüstung per Bahn von Miami, Florida, nach Montreal, Kanada – ein Meilenstein für nachhaltigere Event-Logistik im Rahmen der Green-Logistics-Strategie.
+- **Spatenstich: Europäischer Batterie-Logistik-Hub in den Niederlanden** (21.05.2026): DHL Supply Chain hat in Holtum, Limburg, mit dem Bau eines dedizierten Batterie- und Energie­speicher-Logistik­zentrums begonnen. Die Anlage soll Anfang 2027 in Betrieb gehen und DHL als Spezialist für Batterielogistik in Europa weiter etablieren.
+- **KI-gestützte Artikel­identifikation bei DHL Express** (07.05.2026, laufend): Das als Branchenpremiere gestartete KI-System zur zollkonformen Waren­beschreibung (via Computer Vision auf Kunden­fotos) ist seit KW20 in acht Märkten aktiv: Kanada, Deutschland, Hongkong, Niederlande, Singapur, Südafrika, Spanien und VAE. In KW21 läuft der globale Rollout weiter.
+- **Heavy Weight Express Service** (11.05.2026, laufend): Der neue Service für Sendungen bis 3.000 kg in über 220 Ländern und Territorien wird weiter vermarktet und ausgebaut.
+- **DHL Named 2026 Leading Global Fleet Winner** (ACT Expo): DHL erhielt auf der ACT Expo 2026 die Auszeichnung als führendes globales Flotten­unternehmen für Fortschritte bei Elektrifizierung und Dekarbonisierung.
 
 ## Management
 
-- **CEO Tobias Meyer** (seit 2023 CEO, im Vorstand seit 2019): Vertrag wurde im März 2026 bis **März 2031** verlängert. Meyer begründete den Konzernumbau öffentlich – Zitat: Was drinnen ist, solle auch außen draufstehen; die DHL-Marke sei international deutlich stärker als der historisch gewachsene Name Deutsche Post.
-- **CEO warnt vor globalem Tipping Point** (21.04.2026): In einem Bloomberg-Interview warnte Meyer vor einem systemischen Risiko für die globale Logistik, sollte der Ölmangel anhalten; zugleich betonte er, DHL sei dank Strategie 2030 gut auf geopolitische Volatilität vorbereitet.
-- **Singapore-Fokus**: Meyer äußerte sich in einem Interview mit der Singapore Economic Development Board über die strategische Bedeutung Singapurs als regionalem Hub für Konnektivität und Innovation.
-- Der Aufsichtsrat unterstützt die strategische Neuausrichtung und den Hive-Down-Prozess vollumfänglich.
+- **CEO Tobias Meyer – Vertrag bis 2031 verlängert** (04.03.2026, weiterhin aktuell): Der Aufsichtsrat verlängerte Meyers Vertrag um fünf Jahre. Meyer führt die Umsetzung der Strategy 2030 und den Hive-Down-Prozess zur Umbenennung in DHL AG fort.
+- **Meyer zu den Jahresergebnissen 2025**: Im offiziellen Interview erläuterte Meyer, dass DHL 2025 trotz geopolitischer Turbulenzen und Handelskonflikten alle Finanzziele übertroffen habe. Für 2026 plant der Konzern keine Verbesserung des makro­ökonomischen Umfelds ein, ist aber mit der Strategie­bestätigung und dem Kapazitäts­management gut positioniert.
+- **Meyer zu Singapur und Asien-Pazifik**: In einem aktuellen Interview mit der Singapore Economic Development Board betonte Meyer, Asien-Pazifik sei neben Europa das zweite „Heimat­markt­segment" von DHL; Singapur nehme als Knotenpunkt für Konnektivität und Innovation eine einzigartige Rolle ein.
+- **DHL Supply Chain – Neue Führungskräfte** (21.05.2026): DHL Supply Chain gab drei Personalernennungen auf globaler und regionaler Führungsebene bekannt, um Strategy 2x30 zu stärken.
 
 ## Finanzielles
 
-- **Q1 2026 (veröffentlicht 30.04.2026)**:
-  - Umsatz berichtet: **20,4 Mrd. Euro** (–1,9 % yoy; belastet durch Währungseffekte)
-  - Umsatz organisch: **+2,0 % yoy**
-  - Konzernergebnis: **863 Mio. Euro** (Q1 2025: 830 Mio. Euro); davon 812 Mio. Euro auf Deutsche Post AG-Aktionäre entfallend
-  - **DHL Express**: EBIT **799 Mio. Euro** (+20,6 % yoy) – stärkste Division; siebter EBIT-Anstieg in Folge
-  - **Post & Parcel Deutschland**: Umsatz +1,7 % yoy dank höherer Preise und gestiegener nationaler/internationaler Paketvolumen; EBIT **264 Mio. Euro** (–5,8 % yoy)
-  - Gesamtkonzern-EBIT: **1.483 Mio. Euro** (+8,3 % yoy); Aktie stieg am Ergebnistag um ca. 4 %
-- **Jahresprognose 2026 bestätigt**:
-  - EBIT-Ziel: **über 6,2 Mrd. Euro**
-  - Free Cash Flow (ex M&A): ca. **3 Mrd. Euro**
-- **Aktienrückkaufprogramm**: Erweiterung auf insgesamt **6 Mrd. Euro** (bis spätestens Ende 2026)
-- **Analysten-Fazit nach Q1**: Marktkommentare fokussieren auf Margenstabilisierung; Express-Division kompensiert Schwäche in Post & Parcel DE
+**Q1 2026 (veröffentlicht 30.04.2026) – Zahlen weiterhin im Fokus der KW21:**
+
+| Kennzahl | Q1 2026 | Q1 2025 | Veränderung |
+|---|---|---|---|
+| Umsatz (berichtet) | EUR 20,4 Mrd. | EUR 20,8 Mrd. | –1,9 % |
+| Umsatz (organisch) | – | – | +2,0 % |
+| EBIT (Konzern) | EUR 1,5 Mrd. | EUR 1,4 Mrd. | +8,3 % |
+| Konzernergebnis (Aktionäre) | EUR 812 Mio. | EUR 786 Mio. | +3,3 % |
+| Free Cash Flow (vor M&A) | EUR 1,2 Mrd. | EUR 732 Mio. | +64 % |
+| Capex | EUR 518 Mio. | EUR 461 Mio. | +12,4 % |
+
+- **DHL Express**: Umsatz –1,9 % auf EUR 6,0 Mrd.; EBIT +20,6 % – dank aktivem Kapazitäts­management, Yield-Optimierung und Kostendisziplin.
+- **DHL Supply Chain**: Umsatz +5,7 %; getrieben durch Neukundengeschäft, Vertrags­verlängerungen und E-Commerce-Wachstum.
+- **Capex-Schwerpunkte**: Supply Chain und Post & Parcel Germany (je Ausbau­programme).
+- **Jahresprognose 2026 bestätigt**: EBIT > EUR 6,2 Mrd.; Free Cash Flow (vor M&A) ca. EUR 3,0 Mrd.
+
+**Jahresergebnis 2025 (als Basis):**
+- EBIT: EUR 6,1 Mrd. (über eigener Prognose); Free Cash Flow: EUR 3,2 Mrd.
+- Dividende: EUR 1,90 je Aktie (zuvor EUR 1,85); Gesamtausschüttung ca. EUR 2,1 Mrd. – von der Hauptversammlung am 05.05.2026 mit 99,95 % Zustimmung beschlossen.
+
+**Risiken**: Der Nahost-Konflikt verursacht direkte operative Auswirkungen (Umwege, höhere Treibstoffkosten). Die Jahresprognose unterstellt keine Verbesserung des globalen Handelsumfelds.
 
 ## Strategie & Ausblick
 
-- **Konzernumbau als strategisches Kernelement**: Ausgliederung von Post & Parcel Deutschland und Umbenennung in DHL AG sollen internationale Markenstrategie stärken und Holdingstruktur transparenter machen. Inkrafttreten geplant September 2026.
-- **KI & Digitalisierung**: Einführung KI-gestützter Zollidentifikation bei DHL Express als Branchenpremiere; Ausbau digitaler Tracking- und Kundenlösungen.
-- **Schwergutnetzwerk**: Neuer Heavy Weight Express Service (bis 3.000 kg) stärkt die Position als führender globaler Integrator für zeitkritische Großsendungen.
-- **DHL Now & Next Summit (Shanghai, März 2026)**: Fokus auf Supply-Chain-Resilienz und Neuausrichtung chinesischer Unternehmen inmitten geopolitischer Volatilität.
-- **Life Sciences & Healthcare**: Laufendes EUR-2-Mrd.-Investitionsprogramm bis 2030; Akquisition CRYOPDP Group (Pharma-Speziallogistik) genehmigt.
-- **Sub-Sahara-Afrika**: Geplante Investitionen von rund **300 Mio. Euro** über fünf Jahre; Übernahme dreier Vital-Group-Unternehmen in Südafrika durch South Africa's Competition Tribunal genehmigt.
-- **Green Logistics**: 46 % der Zustellflotte per Ende 2025 elektrifiziert; 10 % SAF (Sustainable Aviation Fuels) im Frachtflugbetrieb.
-- **Strategy 2030** „Accelerating Sustainable Growth" bleibt übergeordneter Rahmen: Employer of Choice, Provider of Choice, Investment of Choice, Green Logistics of Choice.
-- Jahresprognose 2026 trotz Handelsverschiebungen und Zollrisiken (US-Importzölle) bestätigt; CEO zeigt sich „sehr zuversichtlich".
+- **Umbenennung in DHL AG / Konzernstrukturreform**: Auf der Hauptversammlung am 05.05.2026 stimmten die Aktionäre mit 99,95 % der Ausgliederung von Post & Parcel Germany in eine eigenständige, nicht börsennotierte Tochtergesellschaft und der Umbenennung der börsennotierten Mutter in DHL AG zu. Beide Schritte sollen im zweiten Halbjahr 2026 nach Handelsregistereintragung wirksam werden.
+- **Strategy 2030 / Strategy 2x30**: Fokus auf Wachstum in vier Feldern – Employer of Choice, Provider of Choice, Investment of Choice und Green Logistics of Choice. Konkrete Initiativen in KW21: Batterie­logistik-Hub, Schienen-F1-Logistik, KI-Rollout und neue Führungsstruktur.
+- **Investitionen & Akquisitionen 2026**:
+  - Vital Group (Südafrika): Übernahme von drei Gesellschaften (Vital Distribution Solutions, Staffing Logistics, Vital Fleet) nach Genehmigung durch das südafrikanische Competition Tribunal.
+  - Sub-Sahara-Afrika: Geplante Investitionen von ca. EUR 300 Mio. über fünf Jahre.
+  - Batterie-Logistik-Hub Niederlande: Bau begonnen, Inbetriebnahme Q1 2027.
+  - Frühere Akquisitionen (Pharma/E-Commerce, 2025): CRYOPDP, SDS Rx, AJEX, IDS, Inmar Supply Chain Solutions.
+  - Capex Q1 2026: EUR 518 Mio. (+12,4 % yoy).
+- **Green Logistics**: Schienen-Logistik für Formel 1 als Pilotprojekt für skalierbare Nachhaltigkeitslösungen; Flottenelektrifizierung und SAF-Einsatz laufen weiter.
+- **Geopolitische Einschätzung**: DHL erwartet anhaltende Volatilität durch Handelskon­flikte und den Nahost-Konflikt, hat die Prognose für 2026 aber trotzdem bestätigt.
 
 ## Quellen
 
 - [DHL Group Pressemitteilung: Hauptversammlung 2025 – Dividendenerhöhung & Konzernumbau (05.05.2026, DE)](https://group.dhl.com/de/presse/pressemitteilungen/2026/hauptversammlung-fuer-das-geschaeftsjahr-2025.html)
 - [DHL Group Press Release: Annual General Meeting 2025 – Dividend increase & modernization (05.05.2026, EN)](https://group.dhl.com/en/media-relations/press-releases/2026/annual-general-meeting-for-the-financial-year-2025.html)
-- [DHL Group Press Release: DHL Express AI-Powered Item Identification (07.05.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-express-introduces-ai-powered-item-identification-for-international-shipping.html)
-- [DHL Group Press Release: Heavy Weight Express Service (11.05.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-express-expands-global-portfolio-with-new-heavy-weight-express-service.html)
-- [DHL Group Pressemitteilung: Q1 2026 Ergebnis (30.04.2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-group-konzernergebnisse-q1-2026.html)
-- [DHL Group Press Release: Q1 2026 Results (30.04.2026, EN)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html)
-- [DHL Group: Interview CEO Tobias Meyer zum Jahresergebnis 2025](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
-- [Bloomberg: DHL CEO Warns of 'Tipping Point' Risk If Oil Shortage Persists (21.04.2026)](https://www.bloomberg.com/news/articles/2026-04-21/dhl-ceo-warns-of-tipping-point-risk-if-oil-shortage-persists)
-- [Air Cargo News: DHL signs up CEO Meyer for another five years](https://www.aircargonews.net/people/2026/03/dhl-signs-up-ceo-meyer-for-another-five-years/)
-- [FreightWaves: DHL distances itself from historic Deutsche Post name](https://www.freightwaves.com/news/dhl-distances-itself-from-historic-deutsche-post-name)
-- [Retail-News: Deutsche Post wird zur DHL AG – Hauptversammlung beschließt Konzernumbau](https://retail-news.de/deutsche-post-wird-dhl-ag-konzernumbau-2026/)
-- [Ad-hoc-news: DHL Group – Focus on margins after Q1 2026 results](https://www.ad-hoc-news.de/boerse/news/ueberblick/dhl-group-deutsche-post-stock-de0005552004-focus-on-margins-after-q1/69338990)
-- [DHL Supply Chain: Vital Group South Africa acquisition](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
+- [Deutsche Post startet neuen Western Union-Service in Filialen (20.05.2026, DE)](https://group.dhl.com/de/presse/pressemitteilungen/2026/deutsche-post-startet-neuen-western-union-service-in-filialen.html)
+- [DHL brings rail into Formula 1 logistics for the first time (20.05.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-brings-rail-into-its-formula-1-logistic-for-the-first-time.html)
+- [DHL Supply Chain Breaks Ground on European Battery Logistics Hub in the Netherlands (21.05.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-supply-chain-breaks-ground-on-european-battery-logistics-hub-in-the-netherlands.html)
+- [DHL Express introduces AI-powered item identification for international shipping (07.05.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-express-introduces-ai-powered-item-identification-for-international-shipping.html)
+- [DHL Express expands with new Heavy Weight Express Service (11.05.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-express-expands-global-portfolio-with-new-heavy-weight-express-service.html)
+- [DHL Group Q1 2026: Erfolgreich gestartet (30.04.2026, EN)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html)
+- [DHL Q1 2026 Results – IndexBox-Analyse](https://www.indexbox.io/blog/dhl-group-q1-2026-operating-profit-rises-83-despite-revenue-dip-and-middle-east-conflict/)
+- [RTT News: DHL Group Q1 Profit Rises, Revenues Down; Backs FY26 EBIT Outlook](https://www.rttnews.com/3645137/dhl-group-q1-profit-rises-revenues-down-backs-fy26-ebit-outlook.aspx?type=ern)
+- [DHL Group exceeds earnings guidance and increases dividend – FY2025 (05.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-annual-earnings-2025.html)
+- [DHL Group extends contract of CEO Tobias Meyer (04.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-extends-contract-of-ceo-tobias-meyer.html)
+- [Interview with CEO Tobias Meyer on Annual Earnings 2025](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
 - [Singapore EDB: DHL Group CEO on Singapore as regional hub](https://www.edb.gov.sg/en/business-insights/insights/nobody-knows-asia-like-we-do-dhl-group-ceo-on-singapore-as-a-regional-hub-for-connectivity-and-innovation.html)
-- [DHL Group Press releases (Übersicht)](https://group.dhl.com/en/media-relations/press-releases.html)
+- [Air Cargo News: DHL signs up CEO Meyer for another five years](https://www.aircargonews.net/people/2026/03/dhl-signs-up-ceo-meyer-for-another-five-years/)
+- [DHL Supply Chain Acquires Vital Group Companies in South Africa](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
+- [DHL Named 2026 Leading Global Fleet Winner by ACT Expo](https://www.dhl.com/us-en/home/press/press-archive/2026/dhl-named-2026-leading-global-fleet-winner-by-act-expo.html)
+- [DHL Group Press Releases (Übersicht)](https://group.dhl.com/en/media-relations/press-releases.html)
