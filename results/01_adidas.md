@@ -1,36 +1,41 @@
 # Adidas (ADS.DE)
-_KW20 / 2026 | Zeitraum: 09.05.2026 – 16.05.2026_
+_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 
 ## Aktuelle Meldungen
-- Hauptversammlung am 07.05.2026 stattgefunden
-- Q1 2026 Ergebnisse (29.04.2026): Umsatz +14 % währungsbereinigt auf €6,59 Mrd., Betriebsgewinn +16 % auf €705 Mio. – übertrafen Analystenerwartungen deutlich
-- Adidas Originals x Willy Chavarria Spring/Summer 2026 Kollektion veröffentlicht
-- Starke Performance beim London Marathon mit dem Adizero Adios Pro Evo 3
+- **19.05.2026**: Adidas platziert erfolgreich eine Anleihe über €500 Mio. zur Refinanzierung
+- **20.05.2026**: Adidas kündigt „Home of Soccer"-Aktivierungen in 8 nordamerikanischen Städten für die FIFA WM 2026 an (New York, Toronto, Los Angeles, Houston, Atlanta, Mexico City, Guadalajara, Monterrey)
+- Adidas präsentiert die Teamkits für die Olympischen Winterspiele Milano Cortina 2026
+- Q1 2026 Ergebnisse (29.04.2026) weiterhin prägend: Umsatz +14 % währungsbereinigt auf €6,59 Mrd., Betriebsgewinn €705 Mio. – übertrafen Analystenerwartungen um ~5 %
 
 ## Management
-- CEO Björn Gulden: Bezeichnet Q1 als „great start" ins finale Jahr des vierjährigen Turnaround-Plans
-- Vertrag von Gulden durch Aufsichtsrat bis 31.12.2030 verlängert
-- Gulden verweist auf breite Nachfrage über alle Märkte hinweg; China-Team unter Simon Siu voll vertraut
+- CEO Björn Gulden begleitet Bundeskanzler Friedrich Merz auf Delegationsreise nach China; Greater China Region verzeichnet seit 9 Quartalen in Folge zweistelliges Wachstum
+- Gulden: Adidas sei „ahead of schedule" beim Turnaround-Plan – Ziel „gesundes Unternehmen bis 2026" gilt als erreicht
+- Vertrag Gulden bis 31.12.2030 verlängert (bekanntgegeben Anfang 2026)
+- Superstar (1970er-Silhouette) als nächster Wachstumstreiber im Fokus des Managements
 
 ## Finanzielles
-- Q1 2026: Nettoumsatz €6,6 Mrd. (+7 % in Euro, +14 % währungsbereinigt)
-- Betriebsgewinn Q1: €705 Mio., Marge 10,7 %
-- Nettoeinkommen aus fortgeführten Aktivitäten: €484 Mio. (+11 % ggü. Vorjahr)
-- Jahresprognose 2026 bestätigt: währungsbereinigtes Umsatzwachstum im hohen einstelligen Bereich (~€2 Mrd. zusätzlich), Betriebsgewinn ca. €2,3 Mrd.
-- Belastung durch US-Zölle und Währungseffekte: ca. €400 Mio. für Gesamtjahr
+- Q1 2026: Nettoumsatz €6,6 Mrd. (+7 % in EUR, +14 % währungsbereinigt)
+- Betriebsgewinn €705 Mio. (+16 %), operative Marge 10,7 % (+0,8 Pp.)
+- Nettoeinkommen aus fortgeführten Aktivitäten: €484 Mio. (+11 %), EPS €2,70
+- Bruttomarge: 51,1 % (belastet durch Währung & US-Zölle: ~€350 Mio. Translationseffekt)
+- Bekleidung schnellste Kategorie: +31 % kw. auf €2,4 Mrd.; Footwear +4 % kw. auf €3,7 Mrd.
+- DTC: alle Märkte zweistellig; E-Commerce +25 %, eigener Einzelhandel +19 %
+- Jahresprognose 2026 bestätigt: kw. Umsatzwachstum hoch einstellig, Betriebsgewinn ca. €2,3 Mrd.
+- Neue €500-Mio.-Anleihe (19.05.2026) stärkt Finanzierungsbasis
 - Aktienrückkaufprogramm 2026: bis zu €1 Mrd.
 
 ## Strategie & Ausblick
-- Fokus auf FIFA Weltmeisterschaft 2026: neue Auswärtstrikots, Hyperboost Edge (Running), Adizero Dropset Elite (Training)
-- €100 Mio. Investition in DFL (Deutsche Fußball-Liga) mit 8-Jahres-Matchball-Deal bis 2034
-- Übernahme-Gerüchte: Investor brachte Puma-Adidas-Fusion ins Spiel; beide Konzerne äußern sich nicht dazu; zuletzt bestätigte Akquisition war Runtastic (2015)
-- Keine bestätigten Akquisitionen 2026; organisches Wachstum und Kapitalrückführung im Vordergrund
-- DTC-Kanal (Direct-to-Consumer) als Hauptwachstumstreiber
+- FIFA WM 2026 als zentrales Marketing-Ereignis: „Home of Soccer"-Hubs, neue Away-Trikots, offizieller Matchball Trionda
+- Milano Cortina 2026: Adidas stattet mehrere Nationalmannschaften mit Olympia-Kits aus
+- €100 Mio. Investment in DFL (8-Jahres-Deal, Matchball-Partnerschaft bis 2034)
+- China-Strategie: Lokales Team unter Simon Siu; von ausländischen Marken einer der wenigen mit Wachstum im Land
+- Keine Akquisitionen 2026 bestätigt; Fokus auf organisches Wachstum und Kapitalrückführung; Puma-Fusions-Gerüchte von beiden Konzernen nicht kommentiert
 
 ## Quellen
-- [adidas records strong start Q1 2026 – adidas Group](https://www.adidas-group.com/en/media/press-releases/adidas-records-strong-start-to-the-year-in-the-first-quarter-of-2026)
+- [Adidas €500M Bond Placement – adidas Group](https://www.adidas-group.com/en/media/press-releases/adidas-announces-successful-placement-of-euro-500-million-bond_190526)
+- [Adidas Home of Soccer WM 2026 Aktivierungen – Rolling Out](https://rollingout.com/2026/05/20/adidas-2026-world-cup-soccer-hubs/)
+- [Adidas Q1 2026 Strong Start – adidas Group](https://www.adidas-group.com/en/media/press-releases/adidas-records-strong-start-to-the-year-in-the-first-quarter-of-2026)
 - [Adidas Q1 2026 Earnings Beat – WWD](https://wwd.com/business-news/financial/https-wwd-com-business-news-financial-adidas-q1-2026-results-14-growth-1238932161/)
-- [Earnings call transcript Q1 2026 – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-adidas-q1-2026-beats-forecasts-stock-surges-93CH-4645915)
-- [CEO Gulden Vertragsverlängerung bis 2030 – WWD](https://wwd.com/footwear-news/shoe-industry-news/adidas-ceo-bjorn-gulden-contract-extension-2030-1238647419/)
-- [Adidas €100M DFL-Investment – Sporting Goods Intelligence](https://www.sgieurope.com/financing/adidas-pumps-100m-into-bundesliga/120857.article)
-- [Adidas Aktienrückkauf $1,2 Mrd. – Investing.com](https://www.investing.com/news/stock-market-news/adidas-plans-12-billon-share-buyback-in-2026-4474211)
+- [Earnings Call Q1 2026 Highlights – GuruFocus](https://www.gurufocus.com/news/8830952/adidas-ag-adddf-q1-2026-earnings-call-highlights-strong-revenue-growth-amid-margin-pressures)
+- [CEO Gulden China-Delegation & Strategy – 36Kr](https://eu.36kr.com/en/p/3509829190360192)
+- [Adidas DFL €100M Investment – SGI Europe](https://www.sgieurope.com/financing/adidas-pumps-100m-into-bundesliga/120857.article)
