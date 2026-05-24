@@ -1,64 +1,52 @@
 # Rio Tinto (RIO.L)
-_KW20 / 2026 | Zeitraum: 10.05.2026 – 17.05.2026_
+_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 
 ## Aktuelle Meldungen
 
-- **Jahrsergebnis 2025 veröffentlicht (11. Mai 2026):** Rio Tinto präsentierte starke Zahlen mit einem Underlying EBIT von USD 10,1 Mrd. (2024: USD 7,9 Mrd.) und einem Umsatz von USD 54,3 Mrd., getragen von höheren Eisenerz- und Kupferpreisen.
-- **BHP-Kooperation Pilbara:** Rio Tinto und BHP prüfen eine Zusammenarbeit zur Förderung von bis zu 200 Millionen Tonnen Eisenerz in der Pilbara-Region – potenzielle Infrastruktur-Bündelung zur Verbesserung der Kostenstrukturen beider Konzerne.
-- **30-jährige Solarstrom-Vereinbarung (Pilbara):** Rio Tinto sicherte sich ein langfristiges Solarstromabkommen für seine Pilbara-Operationen als weiteren Schritt zur Dekarbonisierung.
-- **Neue Chief Legal Officer:** Trudi Charles (aktuell Deputy General Counsel bei BP plc) wurde als Nachfolgerin von Isabelle Deschamps ernannt; Amtsantritt 1. August 2026.
-- **Sodexo-Vertrag Pilbara:** Sodexo erhielt einen 7-Jahres-Vertrag (mit Option auf 3 weitere Jahre) zur Bewirtschaftung der FIFO-Unterkünfte und Betriebsstandorte in der Pilbara; Vertragsbeginn Juni 2026.
-- **International Day of Action (2026):** Protestaktionen gegen Rio Tinto fanden weltweit statt, insbesondere mit Fokus auf Resolution Copper (Arizona) und Umweltvorgänge in Madagaskar/Westaustralien.
+- **19 May 2026 – 8 Billion Tonne Iron Ore Milestone:** Rio Tinto shipped the 8 billionth tonne of iron ore from its Pilbara operations, exactly 60 years after the company's first export sailed from Western Australia to Japan. The milestone shipment departed Cape Lambert port aboard the vessel *Juno Horizon*, bound for Nippon Steel Corporation, one of Rio Tinto's longest-standing partners. The cumulative volume is enough steel to build over 161,000 Perth Optus Stadiums, 134,000 Tokyo Skytrees, or more than 46,000 Beijing National Stadiums.
+- **18 May 2026 – Company Secretary Changes:** Rio Tinto announced changes to its company secretary function, effective 18 May 2026.
+- **Week of 16–23 May 2026 – Stock Performance:** RIO.L shares had risen approximately 29.3% year-to-date as of 19 May 2026, trading well above the start-of-year reference level of ~$80.03. Investor focus centres on copper growth momentum, iron ore pricing dynamics, and capital return capacity.
 
 ## Management
 
-- **CEO Simon Trott** (seit August 2025) präsentierte auf der Bank of America Global Metals, Mining & Steel Conference 2026 – sein erster Auftritt als CEO auf diesem Event; Schwerpunkt: Sicherheit, Produktivität und kupfergeführtes Wachstum.
-- Trott bekräftigte auf der AGM (6. Mai 2026) in Perth den Fokus auf Arbeitssicherheit nach drei Todesfällen (Simandou, Kennecott) im Q1 2026; beide Standorte wurden sofort stillgelegt und schrittweise wieder hochgefahren.
-- Trott setzt das Ziel, **USD 5–10 Mrd.** durch Devestitionen und operative Effizienzsteigerungen freizusetzen; bisher USD 650 Mio. an Produktivitätsgewinnen erzielt.
-- **Kostensenkungsprogramm mit Personalfokus:** CEO treibt aktiv Stellenabbau und strukturelle Kostenreduktionen voran.
+- **CEO Simon Trott** (in office since August 2025) continues to drive the company's strategic agenda around safety, productivity, and copper-led growth following Jakob Stausholm's departure.
+- **New Chief Legal Officer – Trudi Charles:** Rio Tinto appointed Trudi Charles to succeed Isabelle Deschamps as Chief Legal Officer, Governance & Corporate Affairs. Charles currently serves as Deputy General Counsel and Senior Vice President Legal (Supply, Trading & Shipping) at BP plc and will join Rio Tinto on **1 August 2026**.
+- **Jakob Stausholm (former CEO):** Stausholm, who led Rio Tinto from January 2021 through August 2025, has spoken publicly about his departure. During his tenure he reset the company's strategy to align with energy-transition opportunities and shaped a pathway toward a decade of profitable growth, emphasising social licence and stakeholder relations.
 
 ## Finanzielles
 
-- **Jahrsergebnis 2025 (veröffentlicht 11. Mai 2026):**
-  - Underlying EBIT: **USD 10,1 Mrd.** (2024: USD 7,9 Mrd.) – +28 % YoY
-  - Umsatz: **USD 54,3 Mrd.**
-  - Pilbara EBITDA: **USD 16,8 Mrd.**
-- **Q1 2026 Produktionsergebnisse (veröffentlicht April 2026):**
-  - Kupferäquivalentes Produktionswachstum: **+9 % YoY** (Oyu-Tolgoi-Hochlauf, starkes Aluminium-Segment)
-  - Eisenerz (Pilbara): **78,8 Mio. t** – zweithöchstes Q1 seit 2018, +13 % YoY; Versand durch zwei Zyklone beeinträchtigt
-  - Aluminium: **835.000 t** (+1 % YoY); Alumina +6 %; Bauxit -11 % (Unwetter)
-  - Lithium: Fenix 1B und Sal de Vida mechanisch fertiggestellt; erste Produktion für H2 2026 geplant
-- **Capex-Guidance 2026:** ca. **USD 11 Mrd.** (Schwerpunkt: Kupfer- und Lithiumexpansion)
-- **Exploration & Evaluation:** USD 180 Mio. in Q1 2026 (Q1 2025: USD 141 Mio.) – +28 % YoY
-- **Nächste Termine:** Halbjahresergebnisse 29. Juli 2026; Q2/Halbjahres-Produktionsbericht 5. August 2026
+- **Q1 2026 Production Results (released 21 April 2026):**
+  - Copper-equivalent (CuEq) production grew **9% year-over-year** across the portfolio, driven by the continued ramp-up of the Oyu Tolgoi underground copper mine in Mongolia and strong performance from the integrated aluminium business.
+  - Pilbara iron ore mines delivered strong output, though shipments were constrained by two cyclones during the quarter.
+  - Resolution Copper (Arizona) achieved a historic federal land exchange, unlocking the next development phase.
+- **Full-year 2025 Final Dividend:** On 19 February 2026, Rio Tinto declared a final dividend of **254.00 US cents per share** for the financial year ended 31 December 2025.
+- **Boyne Smelter (Queensland) – Government Partnership (March 2026):** The Queensland and Commonwealth Governments committed a combined **A$2 billion over 10 years to 2040** in partnership with Rio Tinto to support continued operation of the Boyne aluminium smelter.
+- **Capex Guidance 2026:** Approximately **USD 11 billion**, with the majority directed at copper and lithium expansion projects.
+- **Upcoming Dates:** Half-year results 29 July 2026; Q2/half-year production report 5 August 2026.
 
 ## Strategie & Ausblick
 
-- **Kupfer-geführtes Wachstum:** CEO Trott positioniert Rio Tinto strategisch als Kupfer- und Energiemetall-Champion; Resolution Copper (Arizona) nach historischem Landtausch kurz vor nächster Entwicklungsphase.
-- **Los Azules (Argentinien):** Rio Tinto prüft Aufstockung der 17,2 %-Beteiligung am McEwen Copper-Projekt – eines der weltweit größten unerschlossenen Kupfervorkommen.
-- **Lithium-Ausbau:** Mehrheitsbeteiligung an Nemaska Lithium (Kanada, 54 %) gesichert; Fenix 1B und Sal de Vida auf Kurs für H2-2026-Produktion.
-- **CBA-Akquisition (Brasilien):** Rio Tinto und Chalco erwarben gemeinsam die 68,596 %-Kontrollbeteiligung von Votorantim an der Companhia Brasileira de Alumínio (CBA) – Rio-Tinto-Anteil: 33 % / Kaufpreis pro-rata: **USD 297,8 Mio.**; Ziel: CO₂-armer Aluminium-Fußabdruck in Wachstumsmärkten.
-- **Simandou (Guinea):** Trotz Sicherheitsvorfalls läuft das Simandou-Eisenerzprojekt als eines der größten Infrastrukturvorhaben der Welt weiter.
-- **Dekarbonisierung:** 30-jährige Solarstromvereinbarung für Pilbara; strukturelle Ausrichtung auf erneuerbare Energie für Bergbaubetrieb.
-- **ESG-Druck:** Zunehmender Druck von institutionellen Investoren und Aktivisten; Umweltvorfälle in Madagaskar, Westaustralien und Arizona unter öffentlicher Beobachtung.
+- **Rhodes Ridge Iron Ore Development:** Rio Tinto (50% interest) is advancing pre-feasibility studies at the Rhodes Ridge project in Western Australia, described as one of the world's best undeveloped iron ore deposits. Target capacity is approximately **100 million tonnes per annum** of high-quality ore, intended to sustain Rio Tinto's Pilbara mid-term production target of **345–360 million tonnes per year**.
+- **Copper Growth – Oyu Tolgoi:** The Mongolian underground copper mine continues its planned ramp-up and is the primary driver of the company's CuEq production growth thesis for 2026 and beyond.
+- **Resolution Copper (Arizona):** Following the historic federal land exchange completed in Q1 2026, the project team is focused on unlocking the next phase of permitting and development for one of the world's largest untapped copper deposits.
+- **CBA Aluminium Acquisition (signed January 2026):** Rio Tinto and Aluminum Corporation of China (Chalco) agreed to acquire Votorantim's **68.596% controlling stake in Companhia Brasileira de Alumínio (CBA)** via a joint venture (Rio Tinto 33% / Chalco 67%). The transaction was priced at a **~21.2% premium** to the 20-day volume-weighted average price. The deal strengthens Rio Tinto's low-carbon aluminium footprint in Brazil.
+- **Nemaska Lithium – Continued Investment (February 2026 update):** Rio Tinto holds a **53.9% stake** in Nemaska Lithium (Government of Québec: 46.1%). Rio Tinto committed to invest **more than USD 300 million in 2026** to advance lithium production capacity in Québec; the Government of Québec is co-investing up to USD 200 million through equity subscriptions.
+- **Simandou (Guinea):** The Simandou iron ore project – one of the world's largest mining infrastructure undertakings – continues to progress despite earlier safety incidents.
+- **ESG & Social Licence:** International Day of Action protests against Rio Tinto took place in 2026, with campaigners focused on Resolution Copper (Arizona), and environmental incidents in Madagascar and Western Australia. The company continues to engage with communities and regulators to maintain its social licence.
 
 ## Quellen
 
-- [Rio Tinto Newsroom – Releases](https://www.riotinto.com/en/news/releases)
-- [Rio Tinto & BHP: Kooperation Pilbara Eisenerz](https://www.riotinto.com/en/news/releases/2026/rio-tinto-and-bhp-explore-collaboration-to-mine-up-to-200-million-tonnes-of-pilbara-iron-ore)
-- [Rio Tinto Q1 2026 Produktionsergebnisse (offiziell)](https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-first-quarter-2026-production-results)
-- [Rio Tinto Q1 2026 – Aluminium Today](https://aluminiumtoday.com/news/rio-tinto-releases-q1-2026-production-results)
-- [Rio Tinto Q1 FY26 Analyse – AInvest](https://www.ainvest.com/news/rio-tinto-q1-fy26-operational-excellence-meets-structural-demand-record-breaking-quarter-2605/)
-- [AGM 2026 – MarketScreener](https://www.marketscreener.com/news/rio-tinto-agms-2026-results-of-annual-general-meetings-ce7f58d2db8af52c)
-- [Rio Tinto CEO Kostensenkungen – Mining.com](https://www.mining.com/rio-tinto-boss-pushes-cost-cuts-with-jobs-in-focus/)
-- [CEO Bank of America Conference – TipRanks](https://www.tipranks.com/news/company-announcements/rio-tinto-ceo-to-address-bank-of-america-metals-and-mining-conference)
-- [CEO Growth Ambition – TipRanks](https://www.tipranks.com/news/company-announcements/rio-tinto-ceo-sets-growth-ambition-on-safety-productivity-and-copper-led-expansion)
-- [Bank of America Conference Transcript – Seeking Alpha](https://seekingalpha.com/article/4903087-rio-tinto-group-rio-presents-at-bank-of-america-global-metals-mining-steel-conference-2026)
-- [Rio Tinto CBA-Akquisition (offiziell)](https://www.riotinto.com/en/news/releases/2026/rio-tinto-strengthens-its-global-low-carbon-aluminium-footprint-through-joint-acquisition-with-chalco-of-votorantims-interest-in-cba)
-- [Rio Tinto & Chalco / CBA – Yahoo Finance](https://finance.yahoo.com/news/rio-tinto-chalco-acquire-controlling-103458309.html)
-- [CBA Akquisition – Discovery Alert](https://discoveryalert.com.au/acquisition-cba-chinalco-rio-tinto-2026-aluminum-markets/)
-- [Nemaska Lithium – Bloomberg](https://www.bloomberg.com/news/articles/2026-02-18/rio-tinto-raises-stake-in-canada-miner-to-boost-lithium-output)
-- [Los Azules Stake – Mining Technology](https://www.mining-technology.com/news/rio-tinto-to-increase-stake-los-azules/)
-- [Neue CLO Trudi Charles – StockTitan](https://www.stocktitan.net/sec-filings/RIO/6-k-rio-tinto-plc-current-report-foreign-issuer-e9d69c64fd21.html)
-- [Rio Tinto Solar Pilbara – TradersUnion](https://tradersunion.com/news/financial-news/show/2037549-rio-tinto-up-0-64percent-at/)
-- [International Day of Action – AZ Mining Reform Coalition](https://azminingreform.org/2026-international-day-of-action-against-rio-tinto/)
+- [Rio Tinto ships 8 billionth tonne of iron ore from the Pilbara – Rio Tinto Official Release](https://www.riotinto.com/en/news/releases/2026/rio-tinto-ships-8-billionth-tonne-of-iron-ore-from-the-pilbara)
+- [Rio Tinto Reaches 8 Billion Tonnes Iron Ore Milestone – IndexBox](https://www.indexbox.io/blog/rio-tinto-marks-8-billion-tonnes-of-iron-ore-shipped-from-pilbara-since-1966/)
+- [Rio Tinto Announces Company Secretary Changes, Effective May 18, 2026 – MarketScreener](https://www.marketscreener.com/news/rio-tinto-announces-company-secretary-changes-effective-may-18-2026-ce7f5ad8d88eff20)
+- [Rio Tinto releases first quarter 2026 production results – Rio Tinto Official Release](https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-first-quarter-2026-production-results)
+- [Rio Tinto announces Chief Executive succession plan – Rio Tinto Official Release](https://www.riotinto.com/en/news/releases/2025/rio-tinto-announces-chief-executive-succession-plan)
+- [Rio Tinto CEO Jakob Stausholm breaks silence on shock resignation – The Nightly](https://thenightly.com.au/business/rio-tinto-ceo-jakob-stausholm-breaks-silence-on-shock-resignation--c-18945736)
+- [Rio Tinto stock (AU000000RIO1): Strong copper, iron ore focus in 2026 – Ad-Hoc-News](https://www.ad-hoc-news.de/boerse/news/ueberblick/rio-tinto-stock-au000000rio1-strong-copper-iron-ore-focus-in-2026/69403971)
+- [Rio Tinto plc stock: Miner tracks 2026 share gains after Q1 update – Ad-Hoc-News](https://www.ad-hoc-news.de/boerse/news/ueberblick/rio-tinto-plc-stock-gb0007188757-miner-tracks-2026-share-gains-after-q1/69370030)
+- [Rio Tinto schedules 2026 annual meetings for May 6 – Investing.com](https://www.investing.com/news/company-news/rio-tinto-schedules-2026-annual-meetings-for-may-6-93CH-4572352)
+- [SEC Form 6-K – CBA/Chalco/Votorantim transaction (January 2026)](https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000008/ex16d30rtchalcovotorantim2.htm)
+- [SEC Form 6-K – Nemaska Lithium investment update (February 2026)](https://www.sec.gov/Archives/edgar/data/0000863064/000086306426000015/ex08d18nemaskamr.htm)
+- [SEC Form 6-K – Queensland Boyne Smelter partnership (March 2026)](https://www.sec.gov/Archives/edgar/data/863064/000086306426000019/ex15d25queenslandboyne.htm)
+- [Rio Tinto News Releases – Official Page](https://www.riotinto.com/en/news/releases)
+- [2026 International Day of Action against Rio Tinto – Arizona Mining Reform Coalition](https://azminingreform.org/2026-international-day-of-action-against-rio-tinto/)
