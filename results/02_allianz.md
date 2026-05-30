@@ -1,13 +1,13 @@
 # Allianz (ALV.DE)
-_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
+_KW22 / 2026 | Zeitraum: 23.05.2026 – 30.05.2026_
 
 ## Aktuelle Meldungen
 
+- **Aktienrückkauf (20.–22. Mai 2026):** Allianz erwarb im Berichtszeitraum insgesamt 240.477 eigene Aktien im Rahmen des laufenden Rückkaufprogramms (Volumen: bis zu 2,5 Mrd. €). Das Programm läuft planmäßig weiter.
+- **Risikobericht „Politische Gewalt" (19. Mai 2026):** Allianz Commercial veröffentlichte eine Studie zu geopolitischen Risiken. Demnach ist Krieg/politische Gewalt für mehr als 50 % der befragten Unternehmen weltweit das größte Einzelrisiko – ein Ausläufer des anhaltenden Nahost-Konflikts. Politische Gewalt und zivile Unruhen kletterten auf Platz sieben im Allianz Risk Barometer – das höchste Ranking aller Zeiten.
 - **Q1 2026 Quartalsmitteilung (13. Mai 2026):** Allianz meldete ein operatives Rekordergebnis für das erste Quartal 2026 in Höhe von 4,5 Mrd. € (+6,6 % YoY), das die Analystenerwartungen von 4,36 Mrd. € übertraf. Der bereinigte Quartalsüberschuss der Anteilseigner stieg um 48,4 % auf 3,8 Mrd. €.
-- **Aktienrückkaufprogramm läuft (angekündigt 25. Februar 2026):** Das laufende Programm über bis zu 2,5 Mrd. € ist aktiv; im Q1 2026 wurden bereits Aktien im Wert von 0,3 Mrd. € zurückgekauft.
 - **Hauptversammlung 7. Mai 2026:** Die Jahreshauptversammlung fand in der Münchner Olympiahalle statt. Erstmals halten über eine Million Privataktionäre direkt Allianz-Anteile – ein Meilenstein für die Aktionärsbasis.
 - **Allianz Commercial überträgt Standalone-Cyber-Geschäft an Coalition (6. Mai 2026):** Allianz Commercial vereinbarte die Übertragung seines globalen kommerziellen Standalone-Cyberversicherungsgeschäfts an das Insurtech Coalition, das exklusiver globaler Partner für Cyber-Versicherungen in allen kommerziellen Segmenten wird.
-- **Politische Risiken auf Rekordhoch im Allianz Risk Barometer (19. Mai 2026):** Politische Gewalt und zivile Unruhen kletterten auf Platz sieben im Allianz Risk Barometer 2026 – das höchste Ranking aller Zeiten. Krieg ist für mehr als die Hälfte der befragten Unternehmen das meistgefürchtete Risiko im Bereich politische Gewalt.
 - **Neuer Global Head of Multinational (8. Mai 2026):** Karol Dobias übernimmt ab 1. Juni 2026 die Position des Global Head of Multinational bei Allianz Commercial und Allianz Global Corporate & Specialty SE (AGCS).
 - **MoU mit National Bank of Greece (7. Mai 2026):** Allianz SE und die National Bank of Greece unterzeichneten ein Memorandum of Understanding, das die Absicht vorsieht, dass die National Bank of Greece einen 30%-Minderheitsanteil an Allianz European Reliance erwirbt.
 - **Batterie-Speicher-Investment mit TotalEnergies:** Allianz erwirbt 50 % von TotalEnergies' Anteilen an 11 Batteriespeicherprojekten in Deutschland (Gesamtinvestition ca. 500 Mio. €; Inbetriebnahme bis 2028) – Ausbau des Infrastruktur-Engagements in der Energiewende.
