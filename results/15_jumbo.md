@@ -1,48 +1,45 @@
 # Jumbo (BELA.AT)
-_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
+_KW22 / 2026 | Zeitraum: 26.05.2026 – 31.05.2026_
 
 ## Aktuelle Meldungen
-- Jumbo SA (BELA.AT) ist der griechische Spielzeug- und Geschenkartikel-Einzelhändler (Athens Stock Exchange: BELA); nicht zu verwechseln mit dem niederländischen Supermarktkonzern Jumbo Supermarkten.
-- Im Recherchezeitraum 16.05.–23.05.2026 wurden keine neuen Ad-hoc-Meldungen oder Pressemitteilungen von Jumbo SA identifiziert; der letzte bekannte IR-Termin war der 29.04.2026 (Giga-Verteilzentrum Rumänien) und die Jahresergebnisveröffentlichung mit Conference Call vom 29.04.2026.
-- Das Unternehmen handelt an der Athener Börse mit einem Aktienkurs von ca. 22–23 EUR (Stand: Mitte Mai 2026); Analysten-Kaufkonsensus bleibt intakt.
-- Nächster IR-Termin: Hauptversammlung (Annual General Meeting) am 08.07.2026.
-- Nächste erwartete Finanzveröffentlichung: Halbjahresergebnisse H1 2026 (für den Zeitraum bis 30.06.2026).
+
+- **Jahreshauptversammlung geplant:** Die Jumbo S.A. hat ihre Annual General Meeting für den 8. Juli 2026 angekündigt.
+- **Aktienkurs:** Der Kurs der BELA.AT-Aktie lag am 26. Mai 2026 bei ca. €22,66 (+0,35 % auf Tagesbasis). Das Analysten-Konsensziel liegt bei €32,90 – rund 49 % über dem letzten Schlusskurs von €22,06.
+- **Dividende:** Jumbo S.A. schüttete zuletzt €1,20 je Aktie aus (Trailing-Dividendenrendite ca. 5,44 %).
+- **Rumänien – Giga-Distributionszentrum (29.04.2026):** Jumbo erwarb ein 60.000 m² großes Giga-Distributionszentrum in Rumänien (Corporate Asset Purchase). Dies unterstreicht die Expansionsstrategie in Osteuropa.
+- Keine weiteren Ad-hoc-Meldungen oder Pressemitteilungen von Jumbo S.A. (BELA.AT) für den Berichtszeitraum KW22 (26.–31.05.2026) identifiziert.
 
 ## Management
-- Keine neuen CEO-Interviews, Vorstandsstatements oder Personalveränderungen für den Recherchezeitraum 16.–23.05.2026 identifiziert.
-- Unternehmensführung unverändert; keine Wechsel im Vorstand oder Aufsichtsrat bekannt.
-- Mitarbeiterzahl: Stand 19.05.2026 beschäftigt Jumbo SA 7.230 Mitarbeiter.
-- Verweis auf Corporate Governance: https://corporate.e-jumbo.gr/en/investor-relations/corporate-governance/managers/
+
+- **Guidance 2026:** Das Unternehmen bestätigte ein erwartetes Umsatzwachstum von ca. 5 % für das Geschäftsjahr 2026.
+- Keine neuen CEO-Interviews, Vorstandsstatements oder Personalveränderungen im Berichtszeitraum KW22 identifiziert.
+- Hinweis: Personalmeldungen aus dem Recherchezeitraum (Jesper Højer als neuer CEO) beziehen sich auf den niederländischen Supermarktkonzern Jumbo Supermarkten – nicht auf die griechische Jumbo S.A. (BELA.AT).
 
 ## Finanzielles
-- **Rekordumsatz FY 2025:** 1,23 Mrd. EUR (+7,2 % YoY gegenüber FY 2024).
-- **EPS FY 2025:** 2,38 EUR (vs. 2,36 EUR in FY 2024; leichtes Wachstum).
-- **Nettogewinn FY 2025:** ca. 320,3 Mio. EUR (weitgehend stabil gegenüber Vorjahr).
-- **Prognose 2026 (Guidance):** Umsatzwachstum von rund 5 % erwartet; Nettogewinn im Bereich 310–320 Mio. EUR.
-- **Marktkapitalisierung:** ca. 3,42 Mrd. USD (Stand Mai 2026); Trailing Twelve Month Revenue ca. 1,39 Mrd. USD.
-- **Dividende:** Zuletzt 0,98 EUR je Aktie; Dividendenrendite ca. 3,9 % (Kurs ca. 23 EUR).
-- **Analysten-Kursziel:** Konsensus bei 34,70 EUR; Aufwärtspotenzial ca. +38 % gegenüber aktuellem Kursniveau.
-- **H1 2025 regionale Umsatzentwicklung (zur Einordnung):** Griechenland +9 %, Zypern +7 %, Bulgarien +2 %, Rumänien +8 %; Franchise-Umsätze +52 % auf 38 Mio. EUR; E-Commerce-Anteil 2,3 % des Konzernumsatzes.
-- Keine neuen Quartalsergebnisse für den Berichtszeitraum KW21 veröffentlicht.
+
+- **Aktienkurs (26.05.2026):** ca. €22,66
+- **Analysten-Kursziel (Konsensus):** €32,90 (+49,1 % Upside)
+- **Dividendenrendite (Trailing):** ca. 5,44 % (€1,20 je Aktie)
+- **Umsatzwachstumsprognose FY2026 (Guidance):** ~5 %
+- **Rekordumsatz FY2025 (zur Einordnung):** €1,23 Mrd. (+7,2 % YoY); Nettogewinn ca. €320,3 Mio.
+- Spezifische Quartalsergebnisse (Q1/Q2 2026) für Jumbo S.A. (BELA.AT) wurden im Berichtszeitraum nicht veröffentlicht; nächster erwarteter Termin ist die Halbjahresveröffentlichung H1 2026.
 
 ## Strategie & Ausblick
-- **Rumänien – Giga-Verteilzentrum (29.04.2026):** Abschluss des Corporate Asset Purchase eines 60.000 m² großen Giga-Distributionszentrums in Rumänien; strategische Stärkung der Logistikinfrastruktur zur Unterstützung des Wachstums im osteuropäischen Markt.
-- **Investitionsprogramm:** Laufende Investitionen in zwei neue Verteilzentren, ERP-Modernisierung, Cybersicherheit und KI-Tools; Gesamtinvestitionsvolumen über 60 Mio. EUR im Drei-bis-Fünf-Jahres-Zeitraum.
-- **Marktfokus:** Strategischer Schwerpunkt verbleibt auf den vier bestehenden Märkten (Griechenland, Zypern, Bulgarien, Rumänien); keine Ankündigungen zur geografischen Expansion in neue Länder.
-- **E-Commerce:** Ausbau des digitalen Kanals (e-jumbo.gr); E-Commerce-Anteil wächst, liegt mit 2,3 % des Gesamtumsatzes jedoch noch auf niedrigem Niveau mit Wachstumspotenzial.
-- **Makroumfeld Griechenland:** BIP-Wachstum 2026 erwartet bei ca. +2,3 %; Einzelhandelsumsatzindex +3,4 % (Januar 2026) – unterstützendes Umfeld für das Kerngeschäft.
-- **Filialnetz:** 89 Filialen gesamt per 31.12.2025 – 53 in Griechenland, 6 in Zypern, 10 in Bulgarien, 20 in Rumänien.
+
+- **Expansion Osteuropa:** Der Erwerb des Giga-Distributionszentrums in Rumänien (April 2026) stärkt die Logistikinfrastruktur zur Unterstützung des Wachstums im rumänischen Markt (89 Filialen gesamt per 31.12.2025: 53 GR, 6 CY, 10 BG, 20 RO).
+- **Organisches Wachstum:** Die Umsatzguidance von +5 % für FY2026 deutet auf stabiles organisches Wachstum hin – unterstützt durch ein positives makroökonomisches Umfeld in Griechenland (BIP-Wachstum erwartet ~+2,3 % in 2026).
+- **Laufendes Investitionsprogramm:** Investitionen in Distributionszentren, ERP-Modernisierung, Cybersicherheit und KI-Tools (>€60 Mio. über 3–5 Jahre).
+- **Marktfokus:** Strategischer Schwerpunkt bleibt auf den vier bestehenden Märkten (GR, CY, BG, RO); keine Ankündigungen zu geografischer Expansion in neue Länder.
+- Keine Hinweise auf größere M&A-Aktivitäten oder strategische Akquisitionen im Berichtszeitraum KW22.
 
 ## Quellen
-- [Jumbo S.A. (BELA.AT) – Yahoo Finance Quote](https://finance.yahoo.com/quote/BELA.AT/)
-- [Jumbo S.A. Latest News – Yahoo Finance](https://finance.yahoo.com/quote/BELA.AT/news/)
-- [Jumbo S.A. Press Releases – Yahoo Finance CA](https://ca.finance.yahoo.com/quote/BELA.AT/press-releases/)
-- [Jumbo Investor Relations – Announcements & Press Releases](https://corporate.e-jumbo.gr/en/investor-relations/announcements-press-releases/all-years/)
-- [Jumbo SA – Financial Statements (financialreports.eu)](https://financialreports.eu/companies/jumbo-sa/)
-- [Jumbo (BELA) – Quartr Investor Relations & Earnings Summary](https://quartr.com/companies/jumbo-s-a_15933)
-- [Jumbo SA – Simply Wall St Stock Analysis](https://simplywall.st/stocks/gr/retail/ath-bela/jumbo-shares)
-- [Jumbo SA – PitchBook Company Profile 2026](https://pitchbook.com/profiles/company/59301-91)
-- [Jumbo SA – Alpha Spread Investor Relations](https://www.alphaspread.com/security/athex/bela/investor-relations)
-- [Jumbo Greece – Multiples.vc Valuation Multiples](https://multiples.vc/public-comps/jumbo-greece-valuation-multiples)
-- [Jumbo SA – GuruFocus Summary](https://www.gurufocus.com/stock/ATH:BELA/summary)
-- [Jumbo SA – GlobalData Company Profile](https://www.globaldata.com/company-profile/jumbo-sa/)
+
+- [Jumbo S.A. (BELA.AT) – Yahoo Finance](https://finance.yahoo.com/quote/BELA.AT/)
+- [Jumbo S.A. – Latest News & Headlines – Yahoo Finance](https://finance.yahoo.com/quote/BELA.AT/news/)
+- [Jumbo S.A. – Press Releases – Yahoo Finance CA](https://ca.finance.yahoo.com/quote/BELA.AT/press-releases/)
+- [Jumbo SA – Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/)
+- [Jumbo SA – Simply Wall St](https://simplywall.st/stocks/gr/retail/ath-bela/jumbo-shares)
+- [Jumbo SA – GuruFocus](https://www.gurufocus.com/stock/ATH:BELA/summary)
+- [Jumbo S.A. – Financial Reports EU](https://financialreports.eu/companies/jumbo-sa/)
+- [Jumbo – Announcements & Press Releases (corporate.e-jumbo.gr)](https://corporate.e-jumbo.gr/en/investor-relations/announcements-press-releases/all-years/)
+- [Jumbo 2026 Company Profile – PitchBook](https://pitchbook.com/profiles/company/59301-91)
