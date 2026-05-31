@@ -1,52 +1,52 @@
 # Italmobiliare (ITM.MI)
-_KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
+_KW22 / 2026 | Zeitraum: 26.05.2026 – 31.05.2026_
 
 ## Aktuelle Meldungen
 
-- **13.05.2026 – Q1 2026 Results published:** The Board of Directors approved the additional periodic financial report at March 31, 2026. Aggregate revenue from Industrial Portfolio Companies reached €395.7 million (+5.4% YoY vs. €375.4 million in Q1 2025); aggregate EBITDA rose to €28.1 million (+16.5% YoY). Key drivers: CDS-Casa della Salute (+34%), Caffè Borbone (+5.6%), Iseo (+8.8%), Bene Assicurazioni (+8.6%).
-- **14.05.2026 – Equita confirms Buy rating:** Following Q1 results, Equita maintained its Buy recommendation on ITM.MI; the stock rose approximately +1.6% on the day. The analyst cited continued portfolio momentum and the strong NAV-to-price setup.
-- **08.05.2026 – Shareholders' Meeting minutes published:** Minutes of the Ordinary AGM held on April 22, 2026, were made available to the public (adoption of the one-tier governance model, new 12-member board for 2026–2028).
-- **04.–06.05.2026 – Dividend payment:** Dividend of **€1.10 per share** for FY2025 (total: ~€46.28 million) was ex-dividend on May 4, 2026; payment commenced May 6, 2026. Stock declined ~2.41% on the ex-date (ca. €27.55).
-- **Ongoing – Share buyback program:** Active since March 16, 2026. Updates on progress posted to the investor relations page during the period.
+- **Keine neuen Pflichtmitteilungen oder Pressemitteilungen im Zeitraum 26.–31.05.2026 identifiziert.** Die zuletzt veröffentlichten Meldungen datieren aus der Vorwoche (KW21): Q1-Ergebnisse vom 13.05.2026 und Hauptversammlungsprotokoll vom 08.05.2026.
+- **Laufendes Aktienrückkaufprogramm (seit 16.03.2026):** Regelmäßige Updates zum Fortschritt des Share-Buyback-Programms werden auf der IR-Seite veröffentlicht; keine neuen Einzelmeldungen für KW22 bekannt.
+- **Dividendenzahlung abgeschlossen:** Die Dividende von **€1,10 je Aktie** für GJ2025 (Ex-Datum: 04.05.2026, Zahltag: 06.05.2026) ist vollständig abgewickelt.
 
 ## Management
 
-- **Carlo Pesenti – Chairman & CEO:** Confirmed at the post-AGM Board meeting on April 28, 2026. In a prior interview with *L'Economia del Corriere della Sera*, Pesenti signaled a significantly stronger push toward international portfolio diversification ("there will be more abroad") and openness to appointing an external, non-family CEO.
-- **Laura Zanetti – Independent Board Chair** (Capital Market Day role): Sits on the new 12-member one-tier board (2026–2028 term).
-- **Phantom Stock Grant Plan 2026–2028:** The Board adopted a long-term incentive plan; 568,319 phantom stock rights were granted to 19 beneficiaries, aligning management compensation with NAV growth.
-- No specific new public CEO interview or media appearance identified exclusively within the period 16–23 May 2026.
+- **Carlo Pesenti – Chairman & CEO:** Seit der Verwaltungsratssitzung am 28.04.2026 im Amt bestätigt. Kein neues öffentliches Interview oder mediales Auftreten im Berichtszeitraum 26.–31.05.2026 identifiziert.
+- **Phantom-Stock-Vergütungsplan 2026–2028:** Vom Board beschlossen; 568.319 Phantom-Stock-Rechte wurden an 19 Begünstigte ausgegeben, um Managementvergütung an NAV-Wachstum zu koppeln.
+- **Governance-Reform:** Das neue einstufige Board-Modell (12 Mitglieder, Amtszeit 2026–2028) ist seit der HV vom 22.04.2026 aktiv. Pesenti hat öffentlich Offenheit für die Ernennung eines externen, nicht-familiären CEOs signalisiert.
 
 ## Finanzielles
 
-**NAV (Net Asset Value) – 31.03.2026:**
-- Total NAV (excl. treasury shares): **€2,299.7 million** (flat vs. €2,304 million at 31.12.2025)
-- NAV per share: **€54.7** (in line with year-end 2025: €54.80)
-- Implied NAV discount at market price (~€27.55): approximately **~50%**
+**NAV (Net Asset Value) – Stand 31.03.2026 (zuletzt veröffentlicht):**
+- Gesamt-NAV (ohne eigene Aktien): **€2.299,7 Millionen** (nahezu unverändert vs. €2.304,9 Mio. per 31.12.2025)
+- NAV je Aktie: **€54,7** (in line mit Jahresende 2025: €54,80)
+- Implizierter NAV-Abschlag zum Börsenkurs (~€27,55): ca. **~50 %**
 
-**Net Financial Position – Italmobiliare S.p.A.:**
-- **+€225.2 million** (positive) at 31.03.2026 vs. +€231.0 million at 31.12.2025 — a substantial liquidity buffer for future acquisitions and portfolio support.
+**Netto-Finanzposition – Italmobiliare S.p.A. (31.03.2026):**
+- **+€225,2 Millionen** (positiv) vs. +€231,0 Mio. per 31.12.2025 — erheblicher Liquiditätspuffer für Akquisitionen und Portfolio-Unterstützung.
 
-**Q1 2026 Portfolio Company Revenue:**
+**Q1 2026 Portfolio-Unternehmen – Kennzahlen:**
 
-| Company | Q1 2026 Revenue | YoY Growth | EBITDA / Note |
+| Unternehmen | Umsatz Q1 2026 | YoY | EBITDA / Hinweis |
 |---|---|---|---|
-| Caffè Borbone | €93.9 million | +5.6% | EBITDA €15.0 mln (+18.1%); foreign sales ~+40% |
-| CDS – Casa della Salute | €25.2 million | +34% | EBITDA €3.0 mln (+51%) |
-| Santa Maria Novella | €14.8 million | +3.7% | E-commerce +10.8%, growth across all geographies |
-| Iseo (Serrature) | n/a | +8.8% | — |
-| Bene Assicurazioni | n/a | +8.6% | — |
+| Caffè Borbone | €93,9 Mio. | +5,6 % | EBITDA €15,0 Mio. (+18,1 %); Auslandserlöse ~+40 % |
+| CDS – Casa della Salute | €25,2 Mio. | +34 % | EBITDA €3,0 Mio. (+51 %) |
+| Santa Maria Novella | €14,8 Mio. | +3,7 % | E-Commerce +10,8 %, Wachstum in allen Regionen |
+| Iseo (Serrature) | k. A. | +8,8 % | — |
+| Bene Assicurazioni | k. A. | +8,6 % | — |
 
-**FY2025 Reference (from March 2026 annual results):**
-- Net profit (excl. minorities): €55.74 million (vs. €93.64 million in FY2024); EPS €1.321.
+Aggregiert: **Umsatz €395,7 Mio. (+5,4 % YoY)**, **EBITDA €28,1 Mio. (+16,5 % YoY)**.
+
+**GJ2025 Referenz:**
+- Nettogewinn (ohne Minderheiten): €55,74 Mio. (vs. €93,64 Mio. in GJ2024); EPS €1,321.
+
+**Analystenbewertung:** Equita bestätigte nach den Q1-Ergebnissen (14.05.2026) die **Buy-Empfehlung**; Aktie stieg am Tag der Veröffentlichung ca. +1,6 %.
 
 ## Strategie & Ausblick
 
-- **Internationalisation:** Carlo Pesenti has publicly committed to increasing international exposure of the portfolio. Caffè Borbone already demonstrates the model — foreign revenues up ~40% in Q1 2026, led by the single-serve segment.
-- **External CEO option:** Management has signalled readiness to appoint a non-family professional CEO — a meaningful governance evolution for a historically family-controlled holding.
-- **CDS – Casa della Salute M&A expansion (Q1 2026):** Three acquisitions completed — entering **Valle d'Aosta** (new region), plus deals in **Liguria** and **Sardinia**. First clinic opened in **Turin**. Total network: **43 clinics in 4 Italian regions.** Demonstrates Italmobiliare's active-ownership, buy-and-build strategy at the portfolio level.
-- **Share buyback as M&A tool:** The buyback program (launched March 16, 2026) is explicitly designed to create a securities reserve for potential stake exchanges or acquisitions — signaling near-term inorganic activity at the holding level.
-- **NAV discount remains a structural investment theme:** At ~50% discount, ITM.MI is widely referenced in independent financial commentary as a value opportunity. Governance reform (one-tier board, professional management) is the stated lever to close the gap.
-- **2026 outlook:** No formal earnings guidance has been published. Portfolio growth trajectory is intact across all major companies; further M&A by CDS and potentially new platform investments are expected in H2 2026 given the strong cash position.
+- **Internationalisierung des Portfolios:** Carlo Pesenti hat öffentlich eine stärkere internationale Ausrichtung angekündigt. Caffè Borbone zeigt den Weg: Auslandserlöse in Q1 2026 um ~40 % gestiegen, getrieben durch das Einzeldosis-Segment.
+- **M&A durch Portfolio-Unternehmen (CDS – Casa della Salute):** In Q1 2026 wurden drei Akquisitionen abgeschlossen — Markteintritt in das **Valle d'Aosta** (neue Region), plus je ein Deal in **Ligurien** und **Sardinien**. Erste Klinik in **Turin** eröffnet. Gesamtnetz: **43 Kliniken in 4 italienischen Regionen.** Belegt die aktive Buy-and-Build-Strategie auf Portfolio-Ebene.
+- **Aktienrückkauf als strategisches Instrument:** Das Rückkaufprogramm (seit 16.03.2026) ist explizit als Reserve für mögliche Beteiligungstausche oder Akquisitionen konzipiert — Signal für baldige anorganische Aktivitäten auf Holding-Ebene.
+- **NAV-Abschlag als strukturelles Investment-Thema:** Bei ~50 % Abschlag wird ITM.MI in der unabhängigen Finanzberichterstattung regelmäßig als Value-Opportunity genannt. Governance-Reformen (einstufiges Board, professionelles Management) sind der erklärte Hebel zur Schließung des Abschlags.
+- **Ausblick 2026:** Kein formelles Earnings Guidance veröffentlicht. Das Wachstum des Portfolios setzt sich bei allen Hauptunternehmen fort; weitere M&A durch CDS und potenziell neue Plattform-Investitionen werden für H2 2026 erwartet, gestützt durch die starke Cashposition von über €225 Mio.
 
 ## Quellen
 
@@ -55,11 +55,12 @@ _KW21 / 2026 | Zeitraum: 16.05.2026 – 23.05.2026_
 - [Italmobiliare – Press Releases (investor relations)](https://www.italmobiliare.it/en/investor/press-releases)
 - [Italmobiliare – Aggiornamento programma acquisto azioni proprie (buyback)](https://www.italmobiliare.it/it/archivio/comunicati-stampa/aggiornamento-sul-programma-di-acquisto-di-azioni-proprie-14)
 - [Italmobiliare – Board of Directors & Governance](https://www.italmobiliare.it/en/governance/board-directors)
-- [Italmobiliare – Capital Market Day 2025 Presentation](https://www.italmobiliare.it/sites/default/files/page/attachments/Italmobiliare%20-%20Italmobiliare%20Capital%20Market%20Day_0.pdf)
-- [BeBeez – NAV fine Q1 2026, ricavi +5.4%, MOL +16.5%](https://bebeez.it/private-equity/italmobiliare-a-fine-trimestre-2026-il-nav-e-di-229-mld-di-euro-ricavi-delle-portfolio-companies-a-3957-mln-54-e-il-mol-a-a-281-mln-165/)
-- [SoldiOnline – Bilancio 2025, dividendo 2026 €1.10](https://www.soldionline.it/notizie/azioni-italia/conti-italmobiliare-bilancio-2025-dividendo-2026)
+- [Italmobiliare – Company Presentation March 2026 (PDF)](https://www.italmobiliare.it/sites/default/files/documenti/032026_Company%20Presentation%20IR_NAV31122025%20ENG.pdf)
+- [BeBeez – NAV fine Q1 2026, ricavi +5,4 %, MOL +16,5 %](https://bebeez.it/private-equity/italmobiliare-a-fine-trimestre-2026-il-nav-e-di-229-mld-di-euro-ricavi-delle-portfolio-companies-a-3957-mln-54-e-il-mol-a-a-281-mln-165/)
+- [SoldiOnline – Bilancio 2025, dividendo 2026 €1,10](https://www.soldionline.it/notizie/azioni-italia/conti-italmobiliare-bilancio-2025-dividendo-2026)
 - [SoldiOnline – Risultati finanziari primo trimestre 2026](https://www.soldionline.it/notizie/azioni-italia/italmobiliare-risultati-finanziari-primo-trimestre-2026)
-- [MilanoFinanza – Equita conferma Buy dopo i conti Q1 2026 (+1.6%)](https://www.milanofinanza.it/newsmarketdriver/market-driver-italmobiliare-1-6-equita-conferma-buy-dopo-conti-202605140940081580)
-- [Teleborsa – Piazza Affari: in calo Italmobiliare (04.05.2026)](https://www.teleborsa.it/News/2026/05/04/piazza-affari-in-calo-italmobiliare-83_TLB-AUTO.html)
+- [MilanoFinanza – Equita conferma Buy dopo i conti Q1 2026 (+1,6 %)](https://www.milanofinanza.it/newsmarketdriver/market-driver-italmobiliare-1-6-equita-conferma-buy-dopo-conti-202605140940081580)
 - [Teleborsa – Ricavi aggregati e MOL in crescita nel primo trimestre (13.05.2026)](https://www.teleborsa.it/News/2026/05/13/italmobiliare-ricavi-aggregati-e-mol-in-crescita-nel-primo-trimestre-223.html)
 - [Filosofare sui mercati – Holding a Sconto: Italmobiliare (04.05.2026)](https://www.filosofaresuimercati.eu/2026/05/04/holding-a-sconto-italmobiliare/)
+- [Moomoo – ITALMOBILIARE SPA Ex-Dividend May 4, 2026](https://www.moomoo.com/news/post/69268795/italmobiliare-spa-to-go-ex-dividend-on-may-4th-2026)
+- [MarketScreener – Italmobiliare Annual Dividend payable May 6, 2026](https://www.marketscreener.com/news/italmobiliare-s-p-a-announces-annual-dividend-payable-on-may-06-2026-ce7e5fded088f726)
