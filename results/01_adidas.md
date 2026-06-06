@@ -1,42 +1,44 @@
 # Adidas (ADS.DE)
-_KW22 / 2026 | Zeitraum: 23.05.2026 – 30.05.2026_
+_KW23 / 2026 | Zeitraum: 30.05.2026 – 06.06.2026_
 
 ## Aktuelle Meldungen
-- **26.05.2026**: Adidas-Aktie unter Druck, dennoch WM-Fantasie treibt Kurs über 200-Tage-Linie
-- **19.05.2026**: Adidas platziert erfolgreich eine Anleihe über €500 Mio. zur Refinanzierung (laufende Wirkung)
-- **20.05.2026**: „Home of Soccer"-Hubs für FIFA WM 2026 eröffnet – öffentliche Fanzonen in New York City & Toronto als Marktzentrum Nordamerika
-- Q1 2026 Ergebnisse (29.04.2026) weiterhin Referenzpunkt: Umsatz +14 % währungsbereinigt auf €6,59 Mrd., Betriebsgewinn €705 Mio.
+- **05.06.2026**: Adidas-Aktie mit kräftigem Monatsgewinn – Mai 2026 +12,91%; Analysten sehen weiteres Kurspotenzial im Juni (wallstreet-online)
+- **10.06.2026 (bevorstehend)**: Adidas Originals x Willy Chavarria „Comienza Con El Sueño" WM-Kollektion erscheint – Megaride AG XL & Willy Mega Low, WM-Merchandise mit Mexiko-Football-Erbe
+- **2026**: Ende der 70-jährigen DFB-Partnerschaft; Adidas führt neue Tiro-26-Teamlinie als Nachfolgeprodukt ein
+- **April 2026**: Adidas investiert €100 Mio. in strategische Partnerschaft mit der Deutschen Fußball Liga (DFL) / Bundesliga
+- **29.04.2026** (Referenzpunkt): Q1 2026 Ergebnisse – Umsatz +14 % kw. auf €6,59 Mrd., Betriebsgewinn €705 Mio.
 - Q2 2026-Ergebnisse werden am **30.07.2026** erwartet
 
 ## Management
-- CEO Björn Gulden: „We said we'd have a healthy company, but I think we can now say we have a successful company – not only in the short term but also the long term"
-- Gulden-Vertrag bis 31.12.2030 verlängert (bekanntgegeben Anfang 2026)
-- Interview mit 36kr (Feb. 2026): Adidas einer der wenigen ausländischen Brands in China mit anhaltendem Wachstum
-- Podcast „In Good Company with Nicolai Tangen" (Apr. 2026): Gulden erläutert Turnaround-Strategie und schnelle Entscheidungskultur
+- CEO Björn Gulden bezeichnet Q1 2026 als „great start" – 2026 ist das finale Jahr des vierjährigen Turnaround-Plans
+- Gulden zu WM-Vorbereitung: Adidas hat in Q1 bewusst Produkte vorgezogen (Home/Away-Trikots WM), um Nachfrage zu bedienen
+- Gulden-Interview zu US-Zöllen (LinkedIn/Footwear News): Adidas beobachtet Situation, sieht keine unmittelbaren gravierenden Auswirkungen
+- CEO-Vertrag verlängert bis 31.12.2030 (Supervisory Board, Anfang 2026)
+- Annual Report 2025-Interview: „2026 ist ein Jahr, in dem wir Momentum fortführen und weiter um mehrere Milliarden wachsen können"
 
 ## Finanzielles
-- Q1 2026: Nettoumsatz €6,6 Mrd. (+7 % in EUR, +14 % währungsbereinigt)
-- Betriebsgewinn €705 Mio. (+16 %), operative Marge 10,7 % (+0,8 Pp.)
-- EPS €2,72 (Vorjahr: €2,40)
-- Bekleidung schnellste Kategorie: +31 % kw.; E-Commerce +25 %, eigener Einzelhandel +19 %
+- Q1 2026: Nettoumsatz €6,59 Mrd. (+14 % kw., +7 % in EUR) – 5 % über Markterwartungen
+- Betriebsgewinn €705 Mio. (+15,5 %), operative Marge 10,7 % (Vorjahr: 9,9 %)
+- Running-Kategorie: +28 % kw.; Apparel stärkste Kategorie: +31 % kw. (€2,44 Mrd.)
+- Adidas-Aktie: +12,91 % im Mai 2026; nach Q1-Zahlen zeitweise +8 % in einer Handelssitzung
 - Jahresprognose 2026 bestätigt: kw. Umsatzwachstum hoch einstellig, Betriebsgewinn ca. €2,3 Mrd.
-- €500 Mio. Anleihe vom 19.05.2026 stärkt Finanzierungsbasis
-- Aktienrückkaufprogramm 2026: bis zu €1 Mrd.
-- Q2-Konsenserwartung: WM-Effekt soll Umsatztrend beschleunigen; Marge-Test durch Währungsbelastungen (~€350 Mio./Jahr)
+- Aktienrückkaufprogramm 2026: bis zu €1 Mrd. (läuft)
+- €500 Mio. Anleihe (19.05.2026) stärkt Finanzierungsbasis
 
 ## Strategie & Ausblick
-- FIFA WM 2026 zentrales Marketing-Event: Home-of-Soccer-Hubs (NYC, Toronto), offizieller Matchball Trionda, Away-Jerseys mit starker Nachfrage
-- Milano Cortina 2026: Adidas stattet mehrere Nationalmannschaften aus
-- Running: Adizero Adios Pro Evo 3 gewinnt London-Marathon (Herren: Sebastian Sawe, Damen: Tigist Assefa) – Markenpräsenz im Performance-Segment gestärkt
-- Kollaboration Adidas Originals x Willy Chavarria SS26 fortgesetzt – Kulturmarketing zur Positionierung jüngerer Zielgruppen
-- Keine Akquisitionen 2026 bestätigt; Fokus auf organisches Wachstum und Kapitalrückführung
+- FIFA WM 2026 als zentrales Marketingevent: Home-of-Soccer-Hubs (NYC, Toronto), Trionda-Matchball, WM-Kooperationen (x Willy Chavarria)
+- Bundesliga-Investition €100 Mio. (DFL-Partnerschaft, April 2026) – strategische Verankerung im deutschen Fußball trotz DFB-Abgang
+- Adizero Evo SL: erfolgreichstes Laufschuh-Modell nach Volumen (10 Mio. Paar); Sub-2h-Marathon-Ambitionen
+- Samba-Expansion in neue Silhouetten: Mary-Jane- und Ballerina-Konstruktionen mit starker Nachfrage
+- Keine M&A-Aktivitäten bestätigt; Fokus auf organisches Wachstum und Kapitalrückführung (Rückkäufe, Dividende)
+- 2026: Letztes Jahr des „Own the Game"-Nachfolgezyklusses; CEO kündigt mittelfristige Wachstumsstrategie ab 2027 an
 
 ## Quellen
-- [Adidas €500M Bond Placement – adidas Group](https://www.adidas-group.com/en/media/press-releases/adidas-announces-successful-placement-of-euro-500-million-bond_190526)
-- [Adidas Home of Soccer WM 2026 – BMO Stadium](https://bmostadium.com/news/adidas-home-of-soccer/)
-- [Adidas Q1 2026 Strong Start – adidas Group](https://www.adidas-group.com/en/media/press-releases/adidas-records-strong-start-to-the-year-in-the-first-quarter-of-2026)
-- [Adidas WM-Euphorie & Quartalszahlen – Cash](https://www.cash-online.de/a/adidas-aktie-auf-hoehenflug-wm-euphorie-trifft-starke-quartalszahlen-718969/)
-- [Adidas Global CEO Interview – 36Kr](https://eu.36kr.com/en/p/3509829190360192)
-- [CEO Gulden Vertragsverlängerung – WWD](https://wwd.com/footwear-news/shoe-industry-news/adidas-ceo-bjorn-gulden-contract-extension-2030-1238647419/)
-- [Adidas Running: London Marathon / Adizero – WWD](https://wwd.com/footwear-news/shoe-industry-news/adidas-adizero-running-shoe-london-marathon-bjorn-gulden-1238933421/)
-- [Adidas x Willy Chavarria SS26 – adidas News](https://news.adidas.com/originals/adidas-originals-and-willy-chavarria-release-spring-summer-2026-collection---campaign/s/072d0487-5ff9-40db-b96a-7505b1874a25)
+- [Adidas Aktie: Monatsgewinn & Chancen Juni 2026 – wallstreet-online](https://www.wallstreet-online.de/nachricht/20968360-aktie-check-adidas-kraeftigem-monatsgewinn-chancen-juni-2026)
+- [Willy Chavarria x Adidas Megaride – WM-Kollektion – WWD](https://wwd.com/footwear-news/sneaker-news/willy-chavarria-adidas-megaride-copa-world-cup-release-date-1238991691/)
+- [Adidas investiert €100 Mio. in Bundesliga/DFL – SportsPro](https://www.sportspro.com/news/finance-investment/bundesliga-dfl-adidas-investment-strategic-partnership-april-2026/)
+- [Adidas Q1 2026: 14% Growth, Beats Expectations – WWD](https://wwd.com/business-news/financial/https-wwd-com-business-news-financial-adidas-q1-2026-results-14-growth-1238932161/)
+- [Adidas Q1 2026 Earnings – Sportico](https://www.sportico.com/business/commerce/2026/adidas-sales-earnings-sub-2-marathon-shoes-1234891451/)
+- [CEO Björn Gulden Annual Report 2025 Interview – adidas Group](https://report.adidas-group.com/2025/en/to-our-shareholders/interview-with-our-ceo.html)
+- [Adidas CEO Gulden Contract Extension 2030 – WWD](https://wwd.com/footwear-news/shoe-industry-news/adidas-ceo-bjorn-gulden-contract-extension-2030-1238647419/)
+- [Adidas CEO Bjørn Gulden Talks Tariffs – LinkedIn/Footwear News](https://www.linkedin.com/pulse/adidas-ceo-bj%C3%B8rn-gulden-talks-tariffs-footwear-news-gi9we)
