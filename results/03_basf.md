@@ -1,59 +1,63 @@
 # BASF (BAS.DE)
-_KW22 / 2026 | Zeitraum: 23.05.2026 – 30.05.2026_
+_KW23 / 2026 | Zeitraum: 30.05.2026 – 06.06.2026_
 
 ## Aktuelle Meldungen
 
-- **Personelle Veränderungen im Vorstand (Pressemitteilung Mai 2026):** BASF gab personelle Änderungen an der Konzernspitze bekannt. Haryono Lim, bislang President Mega Projects Asia, übernimmt ab 1. Juli 2026 die Funktion als President und Chairman BASF Greater China in Shanghai und tritt die Nachfolge von Dr. Jeffrey Jianfeng Lou an.
-- **Strategische Kooperation mit Arva (26. Mai 2026):** BASF und Arva kündigten eine strategische Zusammenarbeit an, um Biokraftstoffproduzenten und Landwirte beim Zugang zur US-Steuergutschrift für saubere Kraftstoffproduktion (Section 45Z / 45Z Clean Fuel Production Credit) zu unterstützen, sobald die Durchführungsbestimmungen abgeschlossen sind.
-- **ESG Investment Story Mai 2026 veröffentlicht:** BASF aktualisierte seine ESG-Investorenunterlagen und stellte die ESG Investment Story für Mai 2026 bereit.
-- **Aktienrückkaufprogramm läuft:** BASF plant Aktienrückkäufe in Höhe von insgesamt 12 Mrd. EUR im Zeitraum 2025–2028. Das Programm ist weiterhin aktiv.
+- **Coatings-Verkauf abgeschlossen (Juni 2026):** Die Europäische Kommission genehmigte den Verkauf der BASF-Lacksparte (Coatings) an den US-Finanzinvestor Carlyle und die Qatar Investment Authority. Der Closing-Abschluss erfolgte im Juni 2026 zu einem Enterprise Value von 7,7 Mrd. EUR. BASF behält eine Beteiligung von 40 % an der neuen eigenständigen Gesellschaft. Der Mittelzufluss vor Steuern beläuft sich auf rund 5,8 Mrd. EUR.
+- **Aktienrückkaufprogramm endet im Juni:** Das laufende Aktienrückkaufprogramm über bis zu 1,5 Mrd. EUR läuft im Juni 2026 aus. Bis Ende Mai wurden insgesamt knapp 28 Mio. eigene Aktien zurückgekauft; allein Ende Mai erwarb BASF weitere 950.000 Papiere.
+- **CIPPE 2026 in Shanghai (9.–11. Juni):** BASF debütierte auf der CIPPE 2026 in Shanghai und präsentierte Petrochemikalien-Technologien, Katalysatoren, Adsorbentien sowie Hochdruckausrüstungen für den chinesischen Markt.
+- **Neue Aromastoffe-Produktionsanlagen in Betrieb:** BASF nahm drei neu errichtete Weltklasse-Anlagen für Aromastoffe in Betrieb: zwei Werke für Menthol und Linalool am Standort Ludwigshafen (Investitionsvolumen im dreistelligen Millionenbereich) sowie eine Citral-Anlage im chinesischen Zhanjiang.
 
 ## Management
 
-- **Haryono Lim übernimmt Greater China (ab 1. Juli 2026):** Lim folgt auf Dr. Jeffrey Jianfeng Lou als President und Chairman von BASF Greater China in Shanghai. Die Personalentscheidung unterstreicht die Bedeutung des China-Geschäfts für BASF.
-- **CEO Markus Kamieth – China-Strategie:** Kamieth bekräftigte, dass die Verdoppelung des China-Engagements die „richtige Entscheidung" sei. China ist ein bedeutender F&E-Standort; der Verbund-Standort Zhanjiang (Guangdong) hat seine Hauptanlagen erfolgreich hochgefahren. Der China-Umsatzanteil soll von derzeit ca. 13 % auf 15–20 % steigen.
-- **CEO Fokus 2026:** Markus Kamieth betonte den Fokus auf eigene Effizienzverbesserungsmaßnahmen als zentrales Thema des laufenden Jahres und verwies auf das Anfang Mai gestartete „CoreShift"-Programm.
-- **BASF US – Führung:** Heather Remley, President und CEO von BASF Corporation (USA), hob auf der Energy Projects Conference 2026 Investitionen in Nordamerika hervor: 24 % des Vier-Jahres-Investitionsbudgets entfallen auf Nordamerika, darunter eine 1-Mrd.-USD-Erweiterung des MDI-Werks in Geismar.
+- **CEO Markus Kamieth – China-Strategie bekräftigt:** Kamieth betonte im März 2026 in einem Interview, dass die strategische Verdoppelung des China-Engagements die „richtige Entscheidung" sei. China sei zu einem bedeutenden Standort für Forschung und Entwicklung geworden; die grüne Transformation Chinas biete dem Konzern erhebliche Chancen.
+- **Markus Kamieth als CEFIC-Präsident:** Seit dem 1. Januar 2026 ist Kamieth Präsident des europäischen Chemieverbandsverbandes CEFIC sowie Vorsitzender des International Council of Chemical Associations (ICCA).
+- **BASF US – Führung:** Heather Remley, President und CEO von BASF Corporation (USA), hob auf der Energy Projects Conference 2026 die Nordamerika-Investitionen hervor: 24 % des Vier-Jahres-Investitionsbudgets entfallen auf Nordamerika, darunter eine 1-Mrd.-USD-Erweiterung des MDI-Werks in Geismar, Louisiana.
+- **BASF Coatings: Führungswechsel nach Closing:** Im Zuge des Closings des Coatings-Verkaufs wurde Jens Lühring als neuer CEO der eigenständigen BASF Coatings GmbH berufen.
 
 ## Finanzielles
 
-- **Q1 2026 Umsatz:** 16,02 Mrd. EUR (Q1 2025: 16,51 Mrd. EUR; −488 Mio. EUR); Rückgang hauptsächlich durch negative Währungseffekte bei USD und CNY sowie leicht niedrigere Preise.
-- **EBITDA vor Sonderposten Q1 2026:** 2,4 Mrd. EUR (Q1 2025: 2,5 Mrd. EUR); EBITDA-Marge 14,7 % (Vorjahr: 15,1 %).
-- **Nettogewinn Q1 2026:** 927 Mio. EUR (+15 % gegenüber Q1 2025: 808 Mio. EUR).
-- **Ergebnis je Aktie Q1 2026:** 1,06 EUR (Q1 2025: 0,91 EUR) – Verbesserung beim Nettogewinn trotz leicht rückläufigem EBITDA.
-- **Segmententwicklung Q1 2026:** Surface Technologies und Materials verbesserten ihr EBITDA; Industrial Solutions auf Vorjahresniveau; Chemicals, Agricultural Solutions und Nutrition & Care mit Ergebnisrückgang.
-- **Jahresausblick 2026 bestätigt:** EBITDA vor Sonderposten zwischen 6,2 Mrd. EUR und 7,0 Mrd. EUR erwartet.
-- **Dividende ausgezahlt:** 2,25 EUR je Aktie am 6. Mai 2026 (Ex-Tag: 4. Mai 2026).
-- **BASF Coatings – Junk-Bond-Finanzierung (4. Mai 2026):** Zur Finanzierung der Übernahme der BASF Coatings Division durch Carlyle Group und Qatar Investment Authority wurde eine Junk-Bond-Emission von rund 1,95 Mrd. EUR-Äquivalent initiiert. Transaktionswert der Coatings-Einheit: 7,7 Mrd. EUR; BASF behält 40 % Anteil; Abschluss für Q2 2026 erwartet.
+**Q1 2026 Ergebnisse (berichtet April 2026)**
+
+| Kennzahl | Q1 2026 | Q1 2025 | Veränderung |
+|---|---|---|---|
+| Umsatz | 16.020 Mio. EUR | 16.509 Mio. EUR | −489 Mio. EUR |
+| EBITDA vor Sondereinflüssen | 2.400 Mio. EUR | 2.500 Mio. EUR | −100 Mio. EUR |
+| EBIT | 1.261 Mio. EUR | 1.159 Mio. EUR | +102 Mio. EUR |
+| Ergebnis nach Steuern | 927 Mio. EUR | 808 Mio. EUR | +119 Mio. EUR |
+| Ergebnis je Aktie | 1,06 EUR | 0,91 EUR | +0,15 EUR |
+
+Der Umsatzrückgang ist auf negative Währungseffekte (USD, CNY) und Preisdruck zurückzuführen, während Nettogewinn und Ergebnis je Aktie verbessert wurden.
+
+**Jahresprognose 2026 (bestätigt)**
+- EBITDA vor Sondereinflüssen: 6,2 – 7,0 Mrd. EUR (2025: 6,6 Mrd. EUR)
+- Free Cashflow: 1,5 – 2,3 Mrd. EUR
+
+**Mittelzufluss aus Coatings-Verkauf:** Rund 5,8 Mrd. EUR (vor Steuern) sollen zur Bilanzstärkung und zur Finanzierung der strategischen Transformation im Rahmen der „Winning Ways"-Initiative eingesetzt werden.
 
 ## Strategie & Ausblick
 
-- **"Winning Ways" – nächste Phase mit "CoreShift":** Nachdem die Ausgliederung der eigenständigen Geschäfte weitgehend abgeschlossen ist, konzentriert sich BASF auf die Stärkung und das Wachstum der Kerngeschäfte. Das „CoreShift"-Programm soll bis 2029 zahlungswirksame Fixkosten um bis zu 20 % gegenüber 2024 senken.
-- **Agrarsparte eigenständig / IPO 2027:** Die Agricultural Solutions Division agiert seit Mai 2026 operativ vollständig getrennt von der Muttergesellschaft – als Voraussetzung für den geplanten Börsengang in Frankfurt 2027. Dr. Livio Tedeschi leitet die neue Tochtergesellschaft.
-- **Coatings-Verkauf an Carlyle/QIA:** Transaktionswert 7,7 Mrd. EUR; BASF behält 40 % Anteil; Finanzierung via ~1,95 Mrd. EUR Junk Bonds; Abschluss für Q2 2026 erwartet.
-- **AgBiTech-Akquisition (abgeschlossen März 2026):** BASF Agricultural Solutions übernahm den Anbieter biologischer Insektizide AgBiTech; stärkt BASF im brasilianischen und lateinamerikanischen Biologika-Markt – erster M&A-Deal des Jahres 2026.
-- **China-Strategie:** Verbund-Standort Zhanjiang in Betrieb; Innovationscampus Shanghai als F&E-Zentrum Asien-Pazifik. China-Umsatzanteil soll auf 15–20 % wachsen.
-- **Nordamerika-Investitionen:** 24 % des Vier-Jahres-Investitionsbudgets für Nordamerika; Erweiterung MDI-Werk Geismar (Louisiana) für 1 Mrd. USD.
-- **Nachhaltigkeit / Netto-Null:** BASF strebt Netto-Null-Emissionen bis 2050 an; Umstellung der Werke auf grüne Energie und Pilotprojekte für neue Nachhaltigkeitstechnologien; Kooperation mit Arva für 45Z-Biokraftstoff-Steuergutschrift in den USA.
-- **Aktienrückkäufe:** 12 Mrd. EUR Rückkaufprogramm 2025–2028 läuft.
+- **„Winning Ways" / „CoreShift":** BASF setzt die Portfoliooptimierungsstrategie „Winning Ways" fort. Das „CoreShift"-Programm zielt auf eine Reduktion der zahlungswirksamen Fixkosten um bis zu 20 % gegenüber 2024 bis 2029.
+- **China-Strategie:** Verbund-Standort Zhanjiang (Guangdong) mit neuer Citral-Anlage in Betrieb; Innovationscampus Shanghai als F&E-Zentrum für Asien-Pazifik. Der China-Umsatzanteil soll mittelfristig auf 15–20 % wachsen.
+- **Agrarsparte eigenständig / IPO 2027:** Die Agricultural Solutions Division agiert seit Mai 2026 operativ vollständig getrennt von der Muttergesellschaft – als Voraussetzung für den geplanten Börsengang in Frankfurt 2027. Dr. Livio Tedeschi leitet die Tochtergesellschaft.
+- **AgBiTech-Akquisition (abgeschlossen März 2026):** BASF Agricultural Solutions schloss die Übernahme des Anbieters biologischer Insektizide AgBiTech ab und stärkt damit seine Position im brasilianischen und lateinamerikanischen Biologika-Markt.
+- **Portfolio-Bereinigungen:** Verkauf des Aseptrol®-Biozid-Portfolios an Oxidium Technologies LLC (März 2026); Verkauf der Coatings-Sparte an Carlyle/Qatar Investment Authority (Juni 2026).
+- **Nordamerika-Investitionen:** 24 % des Vier-Jahres-Investitionsbudgets für Nordamerika, Schwergewicht auf MDI-Erweiterung in Geismar (1 Mrd. USD).
 
 ## Quellen
 
-- [BASF: Personelle Veränderungen (basf.com)](https://www.basf.com/global/de/media/news-releases/2026/05/p-26-106)
-- [BASF und Arva: Strategische Kooperation 45Z-Biokraftstoff (basf.com)](https://www.basf.com/us/en/media/news-releases/2026/05/P-US-26-24)
-- [BASF: ESG Investment Story Mai 2026 (marketscreener.com)](https://www.marketscreener.com/news/basf-esg-investment-story-may-2026-ce7f58d9d889f22c)
-- [BASF: Stärkung und Wachstum der Kerngeschäfte – "Winning Ways" / "CoreShift" (basf.com)](https://www.basf.com/global/de/media/news-releases/2026/05/p-26-105)
-- [BASF-Gruppe: Geschäftszahlen Q1 2026 (basf.com)](https://www.basf.com/global/de/media/news-releases/2026/04/p-26-076)
-- [BASF Quartalsmitteilung Q1 2026 – PDF (basf.com)](https://www.basf.com/dam/jcr:614c841c-bfea-47a0-834a-92b42b01bf4b/basf/www/global/documents/de/investor-relations/calendar-and-publications/reports/2026/BASF_Quartalsmitteilung_01_2026.pdf)
-- [BASF: 2,4 Mrd. EUR EBITDA im Q1 2026 (trading-treff.de)](https://trading-treff.de/trading/basf-24-milliarden-ebitda-im-q1-2026)
-- [BASF Coatings: Junk-Bond-Emission ~1,95 Mrd. EUR (bloomberg.com)](https://www.bloomberg.com/news/articles/2026-05-04/banks-kick-off-sale-of-junk-bonds-backing-basf-coatings-deal)
-- [BASF: 12 Mrd. EUR Aktienrückkäufe geplant (carbon-pulse.com)](https://carbon-pulse.com/515919/)
-- [BASF CEO: China-Strategie richtige Entscheidung (thestar.com.my)](https://www.thestar.com.my/news/world/2026/03/04/interview-basf-ceo-says-doubling-down-on-china-right-decision)
-- [BASF CEO Interview: Fokus 2026 auf Effizienz (sundayguardianlive.com)](https://sundayguardianlive.com/world/brief-basf-ceo-focus-in-2026-on-our-own-efficiency-improvement-measures-capital-markets-update-154126/amp/)
-- [BASF US CEO Heather Remley – Energy Projects Conference 2026 (epcshow.com)](https://www.epcshow.com/news/executive-interview-heather-remley-ceo-basf)
-- [BASF Agricultural Solutions: AgBiTech-Akquisition abgeschlossen (basf.com)](https://www.basf.com/global/en/media/news-releases/2026/03/p-26-029)
-- [BASF Agricultural Solutions: AgBiTech – erster M&A-Deal 2026 (agnavigator.com)](https://www.agnavigator.com/Article/2026/01/14/basf-makes-ma-deal-of-2026-with-bio-control-company-agbitech/)
-- [BASF Coatings: Leadership-Transition nach Closing (basf.com)](https://www.basf.com/global/en/media/news-releases/2026/03/p-26-064)
-- [BASF Agrarsparte ab Mai 2026 eigenständig (kapitalmarktexperten.de)](https://www.kapitalmarktexperten.de/basf-agrarsparte-ab-mai-2026-eigenstaendig/)
-- [BASF Dividende Mai 2026 – Ex-Tag 4. Mai (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/basf-ex-dividenden-tag-am-4-mai/69267835)
-- [BASF SE-Aktie: Quartalszahlen, Dividende und China-Strategie (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/basf-se-aktie-de000basf111-quartalszahlen-dividende-und/69424040)
+- [BASF Aktie: 7,7-Milliarden-Closing im Juni – Börse Express](https://www.boerse-express.com/news/articles/basf-aktie-77-milliarden-closing-im-juni-911618)
+- [BASF schließt Coatings-Verkauf für 7,7 Mrd. EUR ab – Germanic Nachrichten](https://germanic.news/basf-schliesst-coatings-verkauf-fuer-77-milliarden-euro-ab/)
+- [BASF: 28 Millionen Aktien bis Ende Juni – Ad-hoc-News](https://www.ad-hoc-news.de/boerse/news/ueberblick/basf-28-millionen-aktien-bis-ende-juni/69479049)
+- [BASF Aktie: Aktienrückkauf und Branchennachfrage – Capital.com](https://capital.com/de-de/market-updates/basf-stock-forecast-03-06-2026)
+- [BASF Technologie-Offensive auf CIPPE Shanghai – Finanztrends](https://www.finanztrends.de/news/basf-aktie-technologie-offensive-auf-cippe-shanghai/)
+- [BASF erreicht wichtige Meilensteine bei „Winning Ways"-Strategie – BASF.com](https://www.basf.com/global/de/media/news-releases/2026/02/p-26-020)
+- [BASF CEO: China-Wette war die richtige Entscheidung – The Star](https://www.thestar.com.my/news/world/2026/03/04/interview-basf-ceo-says-doubling-down-on-china-right-decision)
+- [BASF CEO wird nächster CEFIC-Präsident – CHEManager](https://chemanager-online.com/en/news/basf-ceo-to-become-next-cefic-president)
+- [Executive Interview: Heather Remley, CEO BASF Corporation – EPC Show](https://www.epcshow.com/news/executive-interview-heather-remley-ceo-basf)
+- [BASF-Gruppe: Geschäftszahlen Q1 2026 – BASF.com](https://www.basf.com/global/de/media/news-releases/2026/04/p-26-076)
+- [BASF verbessert Betriebsergebnis Q1 2026 – Chemieindustrie-Online](https://www.chemieindustrie-online.de/branchennews/basf-verbessert-betriebsergebnis-gewinn-ersten-quartal-2026)
+- [BASF Agricultural Solutions schließt AgBiTech-Übernahme ab – BASF.com](https://www.basf.com/global/en/media/news-releases/2026/03/p-26-029)
+- [BASF und Oxidium: Verkauf Aseptrol-Portfolio – BASF.com](https://www.basf.com/us/en/media/news-releases/2026/03/P-US-26-12)
+- [BASF Coatings Buyout: 1,95 Mrd. EUR Junk-Bond – Bloomberg](https://www.bloomberg.com/news/articles/2026-05-04/banks-kick-off-sale-of-junk-bonds-backing-basf-coatings-deal)
+- [BASF Coatings: Leadership-Transition nach Closing – BASF.com](https://www.basf.com/global/en/media/news-releases/2026/03/p-26-064)
