@@ -33,6 +33,9 @@ _KW23 / 2026 | Zeitraum: 30.05.2026 – 06.06.2026_
 - **KI-Partnerschaft mit Anthropic (Januar 2026):** Allianz SE gab eine strategische Partnerschaft mit dem US-KI-Anbieter Anthropic bekannt – Schwerpunkt auf KI-Integration in Betrieb und Produktentwicklung.
 - **National Bank of Greece / Allianz European Reliance:** Die National Bank of Greece soll eine Minderheitsbeteiligung von 30 % an Allianz European Reliance erwerben (MoU unterzeichnet); stärkt die Bancassurance-Präsenz in Griechenland.
 - **Allianz Partners nib-Akquisition (Australien/Neuseeland):** Stärkung des Reiseversicherungsgeschäfts im australischen Markt; inklusive etablierter Intermediärsbeziehungen.
+- **Indien-Joint-Venture (April 2026):** Jio Financial Services Limited (JFSL) und Allianz Group unterzeichneten eine bindende Vereinbarung zur Gründung eines 50:50-Joint-Ventures für den indischen Erst- und Krankenversicherungsmarkt – ein bedeutender Schritt in einen der weltweit größten Wachstumsmärkte.
+- **Batteriespeicher-Investment (April 2026):** Allianz Global Investors erwarb im Auftrag von Allianz-Versicherungsgesellschaften eine Beteiligung von 51 % an der Batteriespeicherplattform Green Energy Storage Initiative (GESI) – weiterer Ausbau des Infrastruktur- und Energiewendeportfolios.
+- **Prüfung HSBC Life (März 2026):** Allianz prüft gemeinsam mit Sun Life eine Übernahme der Versicherungssparte HSBC Life; ein formeller Bieterprozess wurde eingeleitet.
 - **Nächster Termin:** Halbjahresbericht / Q2-Ergebnisse voraussichtlich August 2026.
 
 ## Quellen
