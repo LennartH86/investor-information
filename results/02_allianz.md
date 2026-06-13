@@ -4,8 +4,9 @@ _KW24 / 2026 | Zeitraum: 06.06.2026 – 13.06.2026_
 ## Aktuelle Meldungen
 
 - **Neue Leiterin Allianz Partners Deutschland (ab Juni 2026):** Olivia Pauthner übernahm zum 1. Juni 2026 die Position der Managing Director von Allianz Partners Deutschland sowie die Funktion der Chief Representative der AWP P&C S.A., Niederlassung Deutschland. Pauthner kam direkt aus dem Büro von CEO Oliver Bäte, wo sie seit Februar 2023 an zentralen Konzernprojekten und Wachstumsstrategien gearbeitet hatte. Der Wechsel steht explizit im Zeichen von KI, neuen Geschäftsmodellen und Wachstum.
-- **KI-Partnerschaft mit Anthropic:** Allianz bekräftigt seine im Januar 2026 geschlossene globale strategische Partnerschaft mit dem KI-Unternehmen Anthropic (Entwickler der Claude-Modellfamilie). Medienberichte thematisieren die Spannung zwischen Allianz' KI-Ambitionen und der Skepsis des Marktes gegenüber dem tatsächlichen Wertbeitrag.
+- **KI-Partnerschaft mit Anthropic:** Allianz bekräftigt seine im Januar 2026 geschlossene globale strategische Partnerschaft mit dem KI-Unternehmen Anthropic (Entwickler der Claude-Modellfamilie). Allianz plant, Claude in seine interne KI-Plattform zu integrieren und allen Mitarbeitern weltweit Zugang zu Tools für Recherche, Analyse und Wissensmanagement zu ermöglichen. Medienberichte thematisieren die Spannung zwischen Allianz' KI-Ambitionen und der Skepsis des Marktes gegenüber dem tatsächlichen Wertbeitrag.
 - **Aktienkurs:** Die Allianz-Aktie notierte Anfang Juni 2026 bei ca. 375,90–376,10 EUR; das durchschnittliche 12-Monats-Kursziel von Analysten liegt bei ca. 407 EUR.
+- **Allianz Partners: nib-Reiseversicherung (5. Juni 2026):** Übernahme eines Großteils des australischen und neuseeländischen Reiseversicherungsportfolios von nib, inkl. der Marke Travel Insurance Direct (TID) und einem 20-jährigen White-Label-Vertriebsabkommen.
 
 ## Management
 
@@ -40,9 +41,9 @@ Allianz erzielte im ersten Quartal 2026 ein operatives Ergebnis von **4,52 Milli
 - **Viridium-Übernahme abgeschlossen:** Ein Konsortium aus Allianz, BlackRock, Generali Financial Holdings, Hannover Rück und T&D Holdings schloss die Übernahme der Viridium Group (führender europäischer Lebensversicherungs-Portfoliospezialist, zuvor im Besitz von Cinven) ab.
 - **National Bank of Greece / Allianz European Reliance:** Die National Bank of Greece soll eine Minderheitsbeteiligung von 30 % an Allianz European Reliance erwerben (MoU unterzeichnet); stärkt die Bancassurance-Präsenz in Griechenland.
 - **Indien-Joint-Venture (April 2026):** Jio Financial Services Limited (JFSL) und Allianz schlossen eine bindende Vereinbarung zur Gründung eines 50:50-Joint-Ventures für den indischen Erst- und Krankenversicherungsmarkt – ein bedeutender Schritt in einen der weltweit größten Wachstumsmärkte.
-- **Allianz Partners: nib-Reiseversicherung (5. Juni 2026):** Übernahme eines Großteils des australischen und neuseeländischen Reiseversicherungsportfolios von nib, inkl. der Marke Travel Insurance Direct (TID) und einem 20-jährigen White-Label-Vertriebsabkommen.
 - **Batteriespeicher-Investment (April 2026):** Allianz Global Investors erwarb eine Beteiligung von 51 % an der Batteriespeicherplattform Green Energy Storage Initiative (GESI) – weiterer Ausbau des Infrastruktur- und Energiewendeportfolios.
 - **Prüfung HSBC Life (März 2026):** Allianz prüft gemeinsam mit Sun Life die Übernahme der Versicherungssparte HSBC Life.
+- **KI als strategischer Fokus:** Die KI-Partnerschaft mit Anthropic sowie die Ernennung von Olivia Pauthner mit ausdrücklichem KI-Mandat verdeutlichen, dass Allianz Künstliche Intelligenz als zentralen strategischen Hebel für Wachstum und Effizienz positioniert.
 - **Nächster Termin:** Halbjahresbericht / Q2-Ergebnisse voraussichtlich August 2026.
 
 ## Quellen
