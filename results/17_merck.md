@@ -1,5 +1,5 @@
 # Merck KGaA (MRK.DE)
-_KW23 / 2026 | Zeitraum: 30.05.2026 – 06.06.2026_
+_KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
 
 > **Hinweis:** Alle Informationen beziehen sich auf **Merck KGaA, Darmstadt, Deutschland** (EMD Group, MRK.DE / MKGAF) – **NICHT** auf Merck & Co., Inc. (USA, MRK NYSE).
 
@@ -7,131 +7,94 @@ _KW23 / 2026 | Zeitraum: 30.05.2026 – 06.06.2026_
 
 ## Aktuelle Meldungen
 
-- **Kurs konsolidiert nach Strategieupdate-Rally:** Nach dem starken Kurssprung von bis zu +8 % am 13.05.2026 (Veröffentlichung Q1-Ergebnisse und Strategic Update) und dem DAX-Tagesführertitel hat MRK.DE in KW23 auf erhöhtem Niveau konsolidiert. Analysten von JPMorgan und anderen Häusern bestätigten weiterhin positive Einschätzungen und erwarteten zusätzliche Konsensanhebungen.
+- **Aktie steigt nach starken Q1-Zahlen (Mai 2026):** Merck KGaA übertraf im ersten Quartal 2026 die Analystenerwartungen deutlich. Der Umsatz lag bei 5,134 Mrd. Euro (leicht über Konsens), der bereinigte EPS bei 2,11 EUR gegenüber der Schätzung von 1,99 EUR. Die Aktie legte daraufhin im vorbörslichen Handel um ca. 6,23 % zu.
+  _(Quelle: The Pharmaletter / Investing.com, Mai 2026)_
 
-- **Veeva Vault CRM – Nachgang globaler Rollout:** Die Ende KW22 (27./28.05.2026) angekündigte konzernweite Einführung von Veeva Vault CRM in allen globalen Geschäftsbereichen wird in der Finanzpresse weiter diskutiert. Der Schritt unterstreicht Mercks Digitalisierungsstrategie und die Modernisierung von Vertriebsprozessen im Healthcare-Bereich.
+- **Prognoseanhebung nach Q1:** Merck KGaA erhöhte die Jahresprognose für das bereinigte EBITDA auf 5,7–6,1 Mrd. Euro (zuvor: 5,5–6,0 Mrd. Euro), gestützt auf stärkere Nachfrage im Life-Science-Segment und einen bislang verzögerten Generika-Markteintritt für Mavenclad in den USA (ab März 2026 wirksam).
+  _(Quelle: Ad-hoc-news.de / harianbasis.co, 2026)_
 
-- **Google Cloud Agentic AI-Partnerschaft (April 2026) – Fortschritt:** Die im April 2026 bekanntgegebene strategische Partnerschaft mit Google Cloud (Volumen bis zu 1 Mrd. USD) zur Implementierung von Agentic AI in F&E, Produktion und Vertrieb wird planmäßig umgesetzt. Ziel ist die Transformation der Enterprise-IT-Infrastruktur mithilfe von KI-Agenten.
+- **Gesamtjahresguidance 2026:** Umsatz 20,0–21,1 Mrd. Euro erwartet (organisches Wachstum –1 % bis +2 %); wesentliche Belastungen bleiben negative Währungseffekte und der Rückgang im Healthcare-Segment durch Mavenclad-Generika.
+  _(Quelle: Ad-hoc-news.de, 2026)_
 
-- **SpringWorks-Pipeline-Assets endgültig abgeschrieben:** Merck KGaA hat bestätigt, dass die verbleibenden Pipeline-Assets aus der 3,9-Mrd.-USD-Übernahme von SpringWorks Therapeutics (2025) nicht weiterverfolgt werden. Auch die Hengrui-Lizenzvereinbarung wurde beendet. Das Unternehmen fokussiert sich künftig auf frühe externe Akquisitionen mit klarem strategischem Fit.
-
-- **Analyst Coverage / Marktbeobachtung KW23:** Investorenfokus liegt auf dem M&A-Ausblick des neuen CEO Kai Beckmann sowie auf der Entwicklung des Generikawettbewerbs für Mavenclad (Multiple Sklerose) in den USA – ein verzögerter Markteintritt von Generika hatte die Prognoseanhebung im Mai ermöglicht.
+- **Marktwert und Dividende (Stand: 01.06.2026):** Marktkapitalisierung ca. 57 Mrd. Euro; Dividende 2,20 Euro je Aktie (Rendite ca. 1,68 %).
+  _(Quelle: Lightyear.com, Juni 2026)_
 
 ---
 
 ## Management
 
-- **Kai Beckmann (CEO seit 01.05.2026):**
-  - Übernahm den Vorstandsvorsitz von Belén Garijo zum 01.05.2026; langjähriger Leiter des Electronics-Segments (Semiconductor Solutions).
-  - Strategische Kernbotschaft beim Debüt-Earnings-Call (13.05.2026): M&A als „kritischen Wachstumshebel" und externe Innovation zur Stärkung der Pharma-Pipeline.
-  - Zitat: _„We will broaden our M&A scope."_
-  - Digitalisierung und KI als zentrale Priorität: _„By combining our core strengths in biology, chemistry and physics with data and AI, we will become a more agile company that delivers at greater speed and scale."_
-  - Beckmann positioniert Merck KGaA als technologiegetriebenes Wissenschaftsunternehmen mit drei Wachstumssäulen: Process Solutions (Life Science), Rare Diseases (Healthcare) und Semiconductor Solutions (Electronics).
+- **CEO-Wechsel vollzogen (01.05.2026):** Belén Garijo beendete ihre fünfjährige Amtszeit als CEO planmäßig Ende April 2026. Kai Beckmann, langjähriger Leiter des Electronics-Segments (Semiconductor Solutions), übernahm zum 1. Mai 2026 den Vorstandsvorsitz.
 
-- **Danny Bar Zohar (CEO Healthcare-Segment):**
-  - Bezeichnete die früh- bis mittelstufige Pharma-Pipeline offen als „rather slim" (eher dünn).
-  - Unterstreicht damit die Dringlichkeit weiterer M&A-Aktivitäten im Pharmabereich.
+- **Letztes öffentliches Statement von Garijo (Januar 2026):** Im Rahmen des Weltwirtschaftsforums in Davos (20.01.2026) betonte Garijo gegenüber Bloomberg, Merck KGaA werde die Zusammenarbeit mit den USA weiter ausbauen und Life-Sciences-Innovationen für Patienten vorantreiben. Sie äußerte sich auch zu geopolitischen Spannungen und deren Auswirkungen auf das Pharma- und Halbleitergeschäft.
+  _(Quelle: Bloomberg, 20.01.2026)_
 
-- **Belén Garijo (ehemalige CEO, bis April 2026):**
-  - CEO-Übergabe an Beckmann zum 01.05.2026 abgeschlossen.
-  - War seit Mai 2021 CEO und Chair of the Executive Board; zuvor sechs Jahre Healthcare-CEO bei Merck KGaA.
-  - Wechselte als CEO zu Sanofi (Ankündigung 11./12.02.2026; Amtsantritt nach Sanofi-HV am 29.04.2026).
-  - Wesentliche Hinterlassenschaften: Übernahme SpringWorks Therapeutics, Aufbau des Semiconductor-Solutions-Geschäfts, Google-Cloud-Partnerschaft, strategische Neuausrichtung auf drei Wachstumssäulen.
+- **Garijo wechselt als CEO zu Sanofi:** Im Februar 2026 wurde bekannt, dass Garijo Nachfolgerin von Paul Hudson bei Sanofi werden sollte (Ankündigung 11./12.02.2026; Amtsantritt nach Sanofi-HV am 29.04.2026).
+  _(Quelle: Sanofi Pressemitteilung, 12.02.2026 / Endpoints News)_
+
+- **Erster öffentlicher Auftritt von CEO Beckmann (Q1-Earnings, Mai 2026):** Beckmann bezeichnete das Quartal als "a solid start to 2026 despite global challenges" und unterstrich die strategische Bedeutung von M&A: "We will broaden our M&A scope." M&A sei ein "kritischer" Wachstumshebel zur Stärkung der risiko-balancierten Pharma-Pipeline.
+  _(Quelle: EMD Group Earnings Call Transkript, Mai 2026 / FiercePharma)_
 
 ---
 
 ## Finanzielles
 
-### Q1 2026 Ergebnisse – Zusammenfassung (veröffentlicht 13.05.2026)
+### Q1 2026 Ergebnisse – Überblick (veröffentlicht 13.05.2026)
 
-| Kennzahl | Q1 2026 | Veränderung (berichtet) | Veränderung (organisch) |
-|---|---|---|---|
-| Nettoumsatz (Net Sales) | 5,134 Mrd. EUR | −2,8 % | +2,9 % |
-| EBITDA pre | 1,530 Mrd. EUR | −0,3 % | +5,3 % |
-| EBITDA-pre-Marge | 29,8 % | — | — |
-| EPS pre (bereinigt) | 2,11 EUR | ca. ±0 % | — |
-| Operativer Cashflow | 818 Mio. EUR | +47,2 % | — |
-| Netto-Finanzschulden | 8,318 Mrd. EUR | −3,5 % | — |
+| Kennzahl | Q1 2026 | Kommentar |
+|---|---|---|
+| Nettoumsatz | 5,134 Mrd. EUR | −2,8 % berichtet; über Konsensschätzung |
+| Bereinigter EPS | 2,11 EUR | +6 % über Konsens (1,99 EUR) |
+| Bereinigtes EBITDA (Guidance GJ) | 5,7–6,1 Mrd. EUR | erhöht gegenüber ursprünglicher Guidance |
+| Umsatz-Guidance GJ 2026 | 20,0–21,1 Mrd. EUR | organisches Wachstum –1 % bis +2 % |
 
-- **EPS** von 2,11 EUR übertraf Analysten-Konsens von 1,99 EUR um ca. +6 %.
-- **Umsatz** von 5,134 Mrd. EUR leicht über Erwartung von 5,09 Mrd. EUR.
-- Wechselkursgegenwind (FX headwinds) belastete berichtete Zahlen erheblich; organisch deutlich positives Bild.
+**Segmentergebnisse Q1 2026:**
+- **Life Science / Process Solutions:** Erstmals seit Anfang 2023 wieder über 1 Mrd. Euro Quartalsumsatz; angetrieben durch steigende Nachfrage nach Downstream-Processing und Einweglösungen (Single-Use) gegen Ende des Quartals.
+- **Electronics:** Organisches Wachstum +4,2 %; getrieben durch hohe Nachfrage nach Halbleitermaterialien für KI-Anwendungen (AI) und Advanced Nodes.
+- **Healthcare:** Organischer Umsatzrückgang −3,4 %; belastet durch Generika-Wettbewerb für Mavenclad (Multiple Sklerose) in den USA nach dem Markteintritt von Generika ab März 2026.
 
-### Segment-Performance Q1 2026
-
-| Segment | Umsatz (ca.) | Organisches Wachstum | Kommentar |
-|---|---|---|---|
-| Life Science | ~2,3 Mrd. EUR | +8,3 % | Process Solutions mit starker Biopharma-Nachfrage |
-| Healthcare | ~2,3 Mrd. EUR | rückläufig | Generikawettbewerb Mavenclad (USA) |
-| Electronics | positiv | +3–7 % Guidance | KI-Chip-Nachfrage, Advanced Nodes |
-
-### Pergoveris (Fertilitätsprodukt)
-
-- Organisches Wachstum von **+20 %** in Q1 2026.
-- Doppelstelliges Wachstum für das Gesamtjahr 2026 erwartet.
-- Launch in weiteren Märkten für **H2 2026** geplant.
-
-### Jahresprognose 2026 (angehoben am 13.05.2026)
-
-| Kennzahl | Guidance 2026 |
-|---|---|
-| Nettoumsatz | 20,4–21,4 Mrd. EUR |
-| EBITDA pre | 5,7–6,1 Mrd. EUR |
-| EPS pre | 7,50–8,20 EUR |
-| Life Science (organisches Wachstum) | +4 % bis +7 % |
-| Healthcare (organisches Wachstum) | −6 % bis −3 % |
-| Electronics (organisches Wachstum) | +3 % bis +7 % |
-
-- Prognose nach den starken Q1-Zahlen nach oben angepasst (zuvor EBITDA pre bis 6,0 Mrd. EUR; EPS pre bis 8,00 EUR).
-- Healthcare-Guidance weiterhin negativ infolge Generika-Konkurrenz; verzögerter US-Generikaeintritt bei Mavenclad bildet kurzfristiges Puffer.
+**Prognose-Anpassung:** Nach den Q1-Zahlen hob Merck KGaA die EBITDA-Guidance für 2026 an, gestützt auf stärkere als erwartete Life-Science-Nachfrage und den bislang verzögerten Generika-Effekt bei Mavenclad.
+_(Quellen: Investing.com / EMD Group Q1 2026 Event / harianbasis.co)_
 
 ---
 
 ## Strategie & Ausblick
 
-### M&A-Strategie (Schwerpunkt KW23-Investor-Fokus)
+- **Großakquisition SpringWorks Therapeutics ($3,9 Mrd.) – abgeschlossen 2025/2026:** Merck KGaA erwarb SpringWorks Therapeutics für ca. 47 USD je Aktie (Gesamtwert ca. 3,9 Mrd. USD) – die größte Akquisition der Gruppe seit einem Jahrzehnt. SpringWorks brachte zwei FDA-zugelassene Produkte ins Portfolio: **Ogsiveo (nirogacestat)** für Desmoid-Tumore und **Gomekli (mirdametinib)** für plexiforme Neurofibrome. Allerdings entschied Merck KGaA im Nachgang, die verbleibenden Pipeline-Assets aus dem Deal sowie eine Lizenzvereinbarung mit Hengrui nicht weiterzuverfolgen.
+  _(Quellen: pharmaphorum.com / FierceBiotech / TipRanks)_
 
-- CEO Kai Beckmann: M&A ist „kritisch" für Innovation und Pipeline-Stärkung; künftig breiterer M&A-Fokus.
-- Nach Abschreibung der restlichen SpringWorks-Assets und Beendigung der Hengrui-Vereinbarung: Fokus auf **frühe externe Akquisitionen** mit klarem strategischem Fit.
-- Zielfelder: Healthcare (seltene Erkrankungen, frühe Onkologie), Life-Science-Tools (Process Solutions), Elektronik/Halbleitermaterialien.
-- Pipeline des Healthcare-Segments gilt intern als „rather slim" (Bar Zohar) – M&A-Druck hoch.
+- **Übernahme Terns Pharmaceutical (März 2026):** Die Akquisition von Terns Pharmaceutical, einem Entwickler von Therapien für Lebererkrankungen und Krebs, wurde im März 2026 abgeschlossen.
+  _(Quelle: Tracxn / FiercePharma)_
 
-### Digitalisierung & KI
+- **Strategische M&A-Ausrichtung unter neuem CEO Beckmann:** Beckmann bekräftigte beim Q1-Earnings-Call: "We will broaden our M&A scope." M&A sei ein entscheidender Wachstumshebel, da die früh- bis mittelstufige Pharma-Pipeline intern als "rather slim" (dünn) eingestuft wurde. Zielfelder: seltene Erkrankungen, frühe Onkologie, Life-Science-Tools und Halbleitermaterialien.
+  _(Quellen: FiercePharma / FierceBiotech / Investing.com Transkript)_
 
-- **Google Cloud-Partnerschaft** (Volumen bis zu 1 Mrd. USD, Ankündigung April 2026): Konzernweiter Einsatz von Agentic AI zur Transformation von Enterprise-Prozessen (F&E-Beschleunigung, Produktionsoptimierung, Vertrieb).
-- **Veeva Vault CRM** (Ankündigung 27./28.05.2026): Konzernweite CRM-Plattform zur Modernisierung des Healthcare-Vertriebs.
-- Vier-Säulen-KI-Strategie: Integration von KI in F&E, Produktion, Vertrieb und Unternehmensinfrastruktur; Shift von Einzelprodukten zu integrierten Lösungen (Materialien + Software + Instrumente + Services).
+- **Google Cloud-Partnerschaft (April 2026):** Merck KGaA schloss eine strategische Partnerschaft mit Google Cloud (Volumen bis zu 1 Mrd. USD) zur konzernweiten Implementierung von Agentic AI in F&E, Produktion und Vertrieb. Ziel ist die Transformation der Enterprise-IT-Infrastruktur durch KI-Agenten.
 
-### Drei strategische Wachstumssäulen
-
-1. **Process Solutions (Life Science):** Biopharma-Zuliefergeschäft; anhaltend starke Nachfrage durch Bioprocessing-Boom; organisches Wachstum im hohen einstelligen bis zweistelligen Bereich erwartet.
-2. **Rare Diseases (Healthcare):** Ausbau des Portfolios für seltene Erkrankungen; M&A als zentraler Wachstumshebel zur Pipeline-Stärkung.
-3. **Semiconductor Solutions (Electronics):** Langfristiger Rückenwind durch KI-getriebene Chip-Nachfrage; Advanced-Nodes-Transition als struktureller Treiber; Beckmanns Heimatdomäne.
-
-### Risiken
-
-- **Mavenclad-Generika (Healthcare):** Generikaeintritt in den USA bleibt mittelfristiges Risiko; bisherige Verzögerung stützte Prognoseanhebung, ist aber temporär.
-- **Geopolitische Spannungen:** Handelszölle (USA), China-Spannungen betreffen Halbleiter-Lieferketten (Electronics) und Biotechmarkt (Life Science); bislang kein wesentlicher operativer Impact gemeldet.
-- **Pipeline-Risiko Healthcare:** Dünne früh- bis mittelstufige Pipeline ohne baldige M&A-Aktivität birgt mittelfristiges Umsatzrisiko.
-- **FX-Gegenwind:** Wechselkursbelastungen trübten Q1-Berichtszahlen; anhaltend möglich bei starkem Euro.
+- **Electronics: KI und Halbleiter als Wachstumsmotor:** Das Electronics-Segment profitiert strukturell von der steigenden Nachfrage nach Spezialmaterialien für KI-Chips und Advanced-Node-Halbleiter. Beckmann, als ehemaliger Leiter dieses Segments, positioniert es als eine der drei strategischen Wachstumssäulen neben Process Solutions (Life Science) und Rare Diseases (Healthcare).
+  _(Quellen: Investing.com Transkript / Ad-hoc-news.de)_
 
 ---
 
 ## Quellen
 
-- [Earnings call transcript: Merck KGaA beats Q1 2026 expectations, stock rises 6% – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-merck-kgaa-beats-q1-2026-expectations-stock-rises-6-93CH-4684993)
-- [Q1 2026: Publication of the results for the 1st quarter of 2026 – emdgroup.com](https://www.emdgroup.com/en/events/q1-2026.html)
 - [Merck KGaA climbs sharply after exceeding estimates – The Pharmaletter](https://www.thepharmaletter.com/pharma-news/merck-kgaa-climbs-sharply-after-exceeding-estimates)
-- [Merck KGaA Touts "Next Wave of Growth" at JPM Healthcare, Reaffirms 2025 Guidance – Yahoo Finance](https://finance.yahoo.com/news/merck-kgaa-touts-next-wave-154854027.html)
-- [Kai Beckmann to Succeed Belén Garijo as CEO as of May 2026 – emdgroup.com](https://www.emdgroup.com/en/news/garijo-beckmann-25-09-25.html)
-- [Merck KGaA CEO Belén Garijo to leave next May, when electronics unit leader will take the helm – Endpoints News](https://endpoints.news/merck-kgaa-ceo-belen-garijo-to-leave-next-may-when-electronics-unit-leader-will-take-the-helm/)
-- [Merck KGaA, grappling with geopolitical tensions, reveals CEO transition – Fierce Pharma](https://www.fiercepharma.com/pharma/merck-kgaa-names-new-ceo-geopolitical-tension-roils-pharma-semiconductor-giant)
+- [Merck KGaA Stock: Navigating 2026 Guidance Challenges – Ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/merck-kgaa-stock-navigating-2026-guidance-challenges-amid-pharma-sector/69005456)
+- [Earnings call transcript: Merck KGaA beats Q1 2026 expectations, stock rises 6% – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-merck-kgaa-beats-q1-2026-expectations-stock-rises-6-93CH-4684993)
+- [Germany's Merck eyes life science deals, but muted 2026 outlook knocks shares – iTiger](https://www.itiger.com/news/2575998827)
+- [Q1 2026: Publication of the results – EMD Group](https://www.emdgroup.com/en/events/q1-2026.html)
+- [Merck KGaA Increases 2026 Full Year Outlook Following Solid Q1 Performance – harianbasis.co](https://www.harianbasis.co/en/merck-kgaa-raises-2026-outlook-performance)
+- [Financials – Investors | Merck KGaA, Darmstadt, Germany (EMD Group)](https://www.emdgroup.com/en/investors/reports-and-financials/financials.html)
+- [Merck KGaA, grappling with geopolitical tensions, reveals CEO transition – FiercePharma](https://www.fiercepharma.com/pharma/merck-kgaa-names-new-ceo-geopolitical-tension-roils-pharma-semiconductor-giant)
+- [Merck KGaA CEO Belén Garijo to leave next May – Endpoints News](https://endpoints.news/merck-kgaa-ceo-belen-garijo-to-leave-next-may-when-electronics-unit-leader-will-take-the-helm/)
+- [Kai Beckmann to Succeed Belén Garijo as CEO as of May 2026 – EMD Group](https://www.emdgroup.com/en/news/garijo-beckmann-25-09-25.html)
 - [Kai Beckmann to take over from Belén Garijo as Merck CEO – European Pharmaceutical Review](https://www.europeanpharmaceuticalreview.com/news/266143/kai-beckmann-belen-garijo-merck-group-ceo/)
-- [Merck and Google Cloud Partner to Accelerate Agentic AI Enterprise Transformation – PR Newswire (April 2026)](https://www.prnewswire.com/news-releases/merck-and-google-cloud-partner-to-accelerate-agentic-ai-enterprise-transformation-302749237.html)
-- [Merck KGaA drops pipeline assets from SpringWorks buyout, Hengrui licensing deal – Fierce Biotech](https://www.fiercebiotech.com/biotech/merck-kgaa-ending-pursuit-remaining-assets-39b-springworks-buyout)
-- [Merck KGaA looks to M&A to bolster its 'rather slim' pipeline – Fierce Pharma](https://www.fiercepharma.com/pharma/merck-kgaa-looks-ma-bolster-its-rather-slim-pipeline)
-- [Merck KGaA, Darmstadt, Deutschland entscheidet sich für Veeva Vault CRM Worldwide – PR Newswire DE](https://www.prnewswire.com/news-releases/merck-kgaa-darmstadt-deutschland-entscheidet-sich-fur-veeva-vault-crm-worldwide-302784934.html)
-- [Acquisitions and Divestments – Merck KGaA Investor Relations](https://www.emdgroup.com/en/investors/why-invest/acquisitions.html)
-- [Press Release: Belén Garijo to become Chief Executive Officer of Sanofi – Sanofi](https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-12-06-30-00-3236866)
-- [Merck KGaA (MRK.DE) Stock Price, News, Quote & History – Yahoo Finance](https://finance.yahoo.com/quote/MRK.DE/)
-- [Investors Section – Merck KGaA, Darmstadt, Germany](https://www.emdgroup.com/en/investors.html)
+- [Belén Garijo – Bloomberg Interview Davos 2026 (20.01.2026)](https://www.bloomberg.com/news/videos/2026-01-20/merck-ceo-on-us-business-life-sciences-innovation)
+- [Press Release: Belén Garijo to become CEO of Sanofi – Sanofi (12.02.2026)](https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-12-06-30-00-3236866)
+- [Merck agrees $3.9 billion takeover of SpringWorks – pharmaphorum](https://pharmaphorum.com/news/merck-agrees-39-billion-takeover-springworks)
+- [Merck KGaA drops pipeline assets from SpringWorks buyout, Hengrui licensing deal – FierceBiotech](https://www.fiercebiotech.com/biotech/merck-kgaa-ending-pursuit-remaining-assets-39b-springworks-buyout)
+- [Merck KGaA looks to M&A to bolster its 'rather slim' pipeline – FiercePharma](https://www.fiercepharma.com/pharma/merck-kgaa-looks-ma-bolster-its-rather-slim-pipeline)
+- [Merck KGaA to acquire SpringWorks Therapeutics for $47 per share – TipRanks](https://www.tipranks.com/news/the-fly/merck-kgaa-to-acquire-springworks-therapeutics-for-47-per-share-in-cash)
+- [List of Acquisitions by Merck (May 2026) – Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-merck/__0z6lV4yciqgs5NwHZxS0VG-6Y6EopsT4RGuZXLg1AqE)
+- [News & Stories – EMD Group](https://www.emdgroup.com/en/news-stories.html)
+- [Merck KGaA (MRK.DE) – Yahoo Finance](https://finance.yahoo.com/quote/MRK.DE/)
+- [Merck KGaA (MRK.DE) – Lightyear](https://lightyear.com/en/stock/MRK:XETRA)
