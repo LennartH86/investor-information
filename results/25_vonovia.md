@@ -1,59 +1,87 @@
 # Vonovia (VNA.DE)
-_KW23 / 2026 | Zeitraum: 30.05.2026 – 06.06.2026_
+_KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
 
 ## Aktuelle Meldungen
 
-- **01.06.2026 – Neue CDO tritt Amt an:** Katja Wünschel, zuvor bei RWE tätig, hat am 1. Juni 2026 offiziell ihr Amt als Chief Development Officer (CDO) im Vorstand von Vonovia angetreten. Sie war bereits zum 1. April 2026 ins Unternehmen eingetreten und verantwortet nun die Entwicklungsstrategie des Konzerns.
-- **Dividendenzahlung am 25.06.2026:** Die Hauptversammlung vom 21. Mai 2026 hatte eine Dividende von 1,25 Euro je Aktie für das Geschäftsjahr 2025 (Vorjahr: 1,22 Euro) beschlossen. Der Ex-Dividenden-Tag war der 29. Mai 2026; die Auszahlung erfolgt am 25. Juni 2026.
-- **Aktienkurs unter Druck – Nähe zum Jahrestief:** Die Vonovia-Aktie näherte sich Anfang Juni 2026 mit einem Kurs von rund 20,23 Euro dem Jahrestief von 20,09 Euro. Seit Februar 2026 verzeichnete das Papier einen Rückgang von rund 27 Prozent, belastet durch das anhaltend schwierige Umfeld aus hohen Finanzierungskosten und gedämpfter Investorennachfrage.
-- **Hauptversammlung hat Aufsichtsrat neu besetzt:** Dr. Anne-Marie Großmann-Minkwitz wurde auf der HV am 21. Mai 2026 erstmals in den Aufsichtsrat gewählt; Jürgen Fenk wurde für eine zweite Amtszeit wiedergewählt.
-- **Investitionen in Dresden:** Vonovia plant für 2026 Investitionen von rund 86 Millionen Euro in Dresdner Quartiere und setzt damit das Engagement aus den Vorjahren fort.
+- **11.06.2026 – EZB-Zinserhöhung belastet Vonovia-Aktie:** Die Europäische Zentralbank hat am 11. Juni 2026 – erstmals seit September 2023 – die Leitzinsen um jeweils 25 Basispunkte angehoben. Dies drückte die Vonovia-Aktie um rund 1,35 %. Auch andere Wohnimmobilienunternehmen wie Aroundtown, TAG Immobilien, LEG und Grand City Properties verzeichneten Verluste zwischen 1,9 und 4 %. Höhere Leitzinsen erhöhen die Refinanzierungskosten und drücken die Bewertungsmultiples von Immobilienportfolios.
+  _(Quelle: ad-hoc-news.de, 11.06.2026)_
+
+- **08.06.2026 – Aktienkurs bei rund 19,70 EUR:** Vonovia-Aktien notierten am Montag, 8. Juni 2026, im XETRA-Handel bei rund 19,70 EUR.
+  _(Quelle: wallstreet-online.de, 03.06.2026)_
+
+- **Refinanzierungsbedarf 2026 – 1,6 Milliarden Euro:** Vonovia hat einen Refinanzierungsbedarf von rund 1,6 Milliarden Euro für das Jahr 2026 kommuniziert. Angesichts der nun gestiegenen EZB-Zinsen erhöht sich der Kostendruck für die Refinanzierung entsprechend.
+  _(Quelle: ad-hoc-news.de)_
+
+- **01.06.2026 – Neue CDO Katja Wünschel im Amt:** Katja Wünschel hat zum 1. Juni 2026 offiziell ihr Amt als Chief Development Officer (CDO) im Vorstand von Vonovia angetreten und damit Daniel Riedl abgelöst, der das Unternehmen zum 31. Mai 2026 im gegenseitigen Einvernehmen verlassen hatte. Wünschel war bereits seit dem 1. April 2026 im Unternehmen tätig.
+  _(Quelle: vonovia.com/en/press, immobilienmanager.de)_
+
+- **Vonovia investiert rund 86 Mio. Euro in Dresden:** Vonovia setzt seine Quartiersinvestitionen in Dresden fort und plant für 2026 Investitionen in Höhe von rund 86 Millionen Euro.
+  _(Quelle: vonovia.com/presse/pressemitteilungen/2026)_
 
 ## Management
 
-- **CEO Luka Mucic** (seit Januar 2026): Ehemaliger SAP- und Vodafone-Manager leitet Vonovia seit Anfang 2026. Strategische Prioritäten: Schuldenabbau, digitale Transformation, KI-gestützte Prozessoptimierung und Aufbau eines B2B-Drittverwalter-Geschäfts.
-- **Neue CDO Katja Wünschel (ab 01.06.2026):** Die ehemalige RWE-Managerin verstärkt den Vorstand als Chief Development Officer und übernimmt die Verantwortung für alle Entwicklungsaktivitäten des Konzerns.
-- **Rolf Buch (Ex-CEO, ausgeschieden Ende 2025):** In seinen letzten Interviews als CEO zeigte sich Buch zuversichtlich für 2026 und bekräftigte das Ziel eines bereinigten EBITDA-Wachstums um rund 200 Millionen Euro sowie den Schuldenabbau bis 2028. Der Übergangsprozess an Nachfolger Mucic verlief geordnet.
+- **CEO Luka Mucic (seit Januar 2026):** Rolf Buch, langjähriger Vorstandsvorsitzender, schied zum Jahreswechsel 2025/2026 aus. Sein Nachfolger ist Luka Mucic, ehemaliger CFO bei SAP und Vodafone. Unter Mucic stehen Schuldenabbau, Digitalisierung und KI-gestützte Prozessoptimierung im Mittelpunkt der Konzernstrategie.
+  _(Quelle: immobilienmanager.de, boersen-zeitung.de)_
+
+- **Rolf Buch – Abschied mit Optimismus:** In seiner letzten Pressekonferenz als CEO erklärte Buch, die Immobilienkrise durch steigende Zinsen und sinkende Immobilienwerte sei seit Herbst 2024 überwunden. Er betonte, dass der Neubau wieder Fahrt aufgenommen habe – „die Bagger rollen" – und das Wachstum auf das Vorkrisenniveau zurückgekehrt sei. Gleichzeitig verabschiedete er sich mit einem optimistischen Ausblick auf 2026 und die Entschuldungsziele bis 2028.
+  _(Quelle: boersen-zeitung.de)_
+
+- **Neue CDO Katja Wünschel:** Die frühere RWE-Managerin ist seit 1. Juni 2026 Mitglied des Vorstands und verantwortet fortan alle Entwicklungsaktivitäten des Konzerns.
+  _(Quelle: vonovia.com/en/press)_
 
 ## Finanzielles
 
-- **Q1 2026 – Quartalsergebnis im Überblick:**
+- **Q1 2026 – Quartalsergebnisse (veröffentlicht Mai 2026):**
   - Bereinigtes EBITDA Total: 711,6 Mio. Euro (+1,4 % ggü. Vorjahr)
-  - Bereinigtes EBITDA Vermietung: +6,3 % – trotz ~4.000 weniger Wohneinheiten im Bestand
+  - Bereinigtes EBITDA Vermietung: +6,3 % – trotz Portfolioreduzierung um rund 4.000 Wohneinheiten
   - Organisches like-for-like-Mietwachstum: +4,0 %
   - Bereinigtes EBT: 462,2 Mio. Euro (gesunken aufgrund gestiegener Finanzierungskosten)
-  - Value-add-Segment: Bereinigtes EBITDA +30 % auf 50,1 Mio. Euro
-  - Investitionen Q1 2026: gesamt +8 % ggü. Vorjahr
+  - Ergebnis je Aktie (Q1 2026): ca. 0,25 USD
+  - Umsatz (Q1 2026): ca. 1,48 Mrd. USD
+  - Nettogewinnmarge: 56,28 % | Eigenkapitalrendite: 14,79 %
+  _(Quelle: goldesel.de, report.vonovia.com/2026/q1/en/, dailypolitical.com)_
+
 - **Jahresprognose 2026 vollumfänglich bestätigt:**
   - Bereinigtes EBITDA Total: 2,95–3,05 Mrd. Euro
   - Bereinigtes EBT: 1,9–2,0 Mrd. Euro
-- **Dividende:** 1,25 Euro je Aktie für GJ 2025 (Auszahlung: 25. Juni 2026); steigende Dividende gegenüber Vorjahr (1,22 Euro).
-- **Refinanzierung:** Vonovia hat frühzeitig Liquidität über Euro- und Yen-Anleihen gesichert, um in 2026/2027 fällig werdende Anleihen zu refinanzieren.
+  _(Quelle: finanznachrichten.de, immobilienmanager.de)_
+
+- **Refinanzierungskosten als Belastungsfaktor:** Der Konzerngewinn blieb durch höhere Finanzierungskosten gedrückt. Die Zinserhöhung der EZB vom 11. Juni 2026 verschärft diesen Druck zusätzlich. Vonovia hatte frühzeitig Liquidität über Euro- und Yen-Anleihen gesichert, um fällig werdende Anleihen zu refinanzieren.
+  _(Quelle: ad-hoc-news.de, goldesel.de)_
 
 ## Strategie & Ausblick
 
-- **Schuldenabbau als zentrale Priorität:** Vonovia kommuniziert Zuversicht für weiteren Schuldenabbau und operatives Wachstum bis 2028. Ziel-LTV liegt bei ~40 % (aktuell: 45,4 %).
-- **Portfoliobereinigung durch Verkäufe:** Für 2026 plant Vonovia den Verkauf von bis zu 3.500 Wohneinheiten sowie nicht-strategischer Gewerbe- und Pflegeimmobilien (~2 Mrd. Euro). Veräußerungen sind zentrales Instrument zur Entschuldung.
-- **Selektive Akquisitionen:** Neben dem Portfolioabbau setzt Vonovia punktuell auf strategische Zukäufe. In der ersten Jahreshälfte 2025 wurden 820 Wohnungen und 261 Gewerbeeinheiten aus der QUARTERBACK Real Estate Group (~0,3 Mrd. Euro) sowie Baugrundstücke (~0,9 Mrd. Euro) übernommen.
-- **Investitionssteigerung bis 2028:** Die jährlichen Investitionen in Modernisierung, energetische Sanierung und Neubau sollen auf bis zu 2 Mrd. Euro steigen.
-- **Digitalisierung & KI:** CEO Mucic treibt KI-gestützte Prozessoptimierung und digitale Kundenschnittstellen voran; über die App „Mein Vonovia" können Mietinteressenten Verträge vollständig digital abschließen.
-- **Marktumfeld:** Hohe Wohnungsnachfrage und stabiles Mietwachstum stützen das Kerngeschäft. Belastend wirken weiterhin hohe Finanzierungskosten, die das bereinigte EBT dämpfen.
-- **Mittelfristiger Ausblick:** Wachstum im mittleren einstelligen Prozentbereich p.a. beim bereinigten EBT je Aktie bis 2028; langfristig hoher einstelliger Bereich angestrebt.
+- **Portfoliostrategie und Entschuldung:** Vonovia setzt seine Strategie der selektiven Portfoliobereinigung fort. Im Q1 2026 wurden rund 4.000 Wohneinheiten veräußert. Disposals und Joint-Venture-Strukturen bleiben zentrale Instrumente der Kapitalallokation. Das Unternehmen kommuniziert klar formulierte Entschuldungsziele bis 2028 (Ziel-LTV: ~40 %, aktuell: ~45,4 %).
+  _(Quelle: ad-hoc-news.de, vonovia.com)_
+
+- **Neubau und Wachstum:** Nach Überwindung der Immobilienkrise (seit Herbst 2024) investiert Vonovia wieder verstärkt in den Neubau. Für 2026–2028 ist eine Steigerung der jährlichen Investitionen in Modernisierung, energetische Sanierung und Neubau auf bis zu 2 Mrd. Euro geplant. Vonovia ist Europas führendes privates Wohnungsunternehmen mit rund 548.000 Wohnungen in Deutschland (89 % aller Einheiten), Schweden und Österreich.
+  _(Quelle: boersen-zeitung.de, de.investing.com)_
+
+- **Keine großen Akquisitionen in KW24:** Im Berichtszeitraum wurden keine bedeutenden Übernahmen oder Großakquisitionen kommuniziert. Der Fokus liegt auf organischem Wachstum, Portfoliobereinigung und Bilanzsanierung. Zuletzt erwarb Vonovia (H1/2025) 820 Wohnungen und 261 Gewerbeeinheiten aus der QUARTERBACK Real Estate Group sowie Baugrundstücke.
+  _(Quelle: handelsblatt.com, vonovia.com)_
+
+- **Energetische Sanierung & Smart Building:** Strategischer Schwerpunkt bleibt die energieeffiziente Sanierung und CO₂-Reduzierung des Bestands sowie die Einführung von Smart-Building-Technologien zur Kostensenkung und Verbesserung des Mieterkomforts.
+  _(Quelle: de.investing.com)_
+
+- **Mittelfristiger Ausblick:** Wachstum im mittleren einstelligen Prozentbereich p.a. beim bereinigten EBT je Aktie bis 2028 angestrebt; langfristig hoher einstelliger Bereich geplant.
+  _(Quelle: anlegerplus.de, finanznachrichten.de)_
 
 ## Quellen
 
-- [Monatsanalyse: Vonovia schwächer im Vormonat – Turnaround im Juni 2026? | wallstreetONLINE](https://www.wallstreet-online.de/nachricht/20958505-monatsanalyse-vonovia-schwaecher-vormonat-turnaround-juni-2026)
-- [Vonovia Q1 2026: Mietwachstum erhöht bereinigtes EBITDA, Gewinn sinkt | goldesel.de](https://goldesel.de/aktien/news/vonovia-q1-2026-mietwachstum-erhoht-bereinigtes-ebitda-gewinn-sinkt-wegen-finanzierungskosten-ziele-bestatigt)
-- [Vonovia Aktie: 27 Prozent Minus seit Februar | ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-aktie-27-prozent-minus-seit-februar/69492996)
-- [Vonovia: Katja Wünschel von RWE kommt Juni 2026 | Trading-Treff](https://trading-treff.de/aktien/vonovia-katja-wuenschel-von-rwe-kommt-juni-2026)
-- [Vonovia: Katja Wünschel kommt Juni 2026 | stock-world.de](https://www.stock-world.de/vonovia-katja-wuenschel-kommt-juni-2026/)
-- [Vonovia bestätigt Prognose nach dem ersten Quartal 2026 | immobilienmanager.de](https://www.immobilienmanager.de/vonovia-bestaetigt-prognose-nach-q1-07052026)
-- [HV beschließt Dividende 2025 | Vonovia SE](https://www.vonovia.com/presse/pressemitteilungen/2026/vonovia-se-hauptversammlung-beschliesst-dividende-von-1-25-je-aktie-und-waehlt-dr.-anne-marie-grossmann-minkwitz-in-den-aufsichtsrat)
-- [Vonovia investiert weiter in Dresden | vonovia.com](https://www.vonovia.com/presse/pressemitteilungen/2026/vonovia-investiert-weiter-in-dresden-und-staerkt-quartiere-vor-ort)
-- [Vonovia Zwischenmitteilung Q1 2026 (Download) | report.vonovia.com](https://report.vonovia.com/2026/q1/de/downloads)
-- [Vonovia Q1 2026 Interim Statement | vonovia.com](https://www.vonovia.com/en/press/q1-2026)
-- [Vonovia-CEO Rolf Buch verabschiedet sich mit optimistischem Ausblick | Börsen-Zeitung](https://www.boersen-zeitung.de/unternehmen-branchen/vonovia-ceo-rolf-buch-verabschiedet-sich-mit-optimistischem-ausblick)
-- [Vonovia: Luka Mucic folgt auf Rolf Buch | immobilienmanager.de](https://www.immobilienmanager.de/vonovia-luka-mucic-folgt-auf-rolf-buch-07052025)
-- [Vonovia SE: Guter Jahresauftakt – Prognose 2026 bestätigt | AnlegerPlus](https://anlegerplus.de/vonovia-se-guter-jahresauftakt-prognose-2026-bestaetigt-zuversicht-fuer-wachstum-und-schuldenabbau-bis-2028/)
-- [Vonovia (VNA.VI) Juni 2026 Dividende | Stock Events](https://stockevents.app/de/event/dividends/38419172)
-- [Akquisition – Vonovia](https://www.vonovia.com/en/about-us/company/acquisition)
+- [Vonovia Aktie: 1,35 % Minus nach EZB-Zinsanhebung – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-aktie-1-35-prozent-minus-nach-ezb-zinsanhebung/69522355)
+- [Vonovia Aktie: 1,6 Mrd. Refinanzierungsbedarf 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-aktie-1-6-milliarden-refinanzierungsbedarf-2026/69511947)
+- [Vonovia Aktie: 1,6 Mrd. Refinanzierung bei EZB-Anhebung – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-aktie-1-6-milliarden-refinanzierung-bei-ezb-anhebung/69524173)
+- [Monatsanalyse Vonovia Juni 2026 – wallstreet-online.de](https://www.wallstreet-online.de/nachricht/20958505-monatsanalyse-vonovia-schwaecher-vormonat-turnaround-juni-2026)
+- [Vonovia bestätigt Prognose nach Q1 2026 – immobilienmanager.de](https://www.immobilienmanager.de/vonovia-bestaetigt-prognose-nach-q1-07052026)
+- [Vonovia Q1 2026: Mietwachstum erhöht bereinigtes EBITDA – goldesel.de](https://goldesel.de/aktien/news/vonovia-q1-2026-mietwachstum-erhoht-bereinigtes-ebitda-gewinn-sinkt-wegen-finanzierungskosten-ziele-bestatigt)
+- [EQS-News: Guter Jahresauftakt, Prognose 2026 bestätigt – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-05/68419400-eqs-news-vonovia-se-guter-jahresauftakt-prognose-2026-bestaetigt-zuversicht-fuer-wachstum-und-schuldenabbau-bis-2028-022.htm)
+- [Vonovia SE: Guter Jahresauftakt – AnlegerPlus](https://anlegerplus.de/vonovia-se-guter-jahresauftakt-prognose-2026-bestaetigt-zuversicht-fuer-wachstum-und-schuldenabbau-bis-2028/)
+- [Vonovia Interim Statement Q1 2026 – report.vonovia.com](https://report.vonovia.com/2026/q1/en/)
+- [Vonovia Q1 Report 2026 – vonovia.com](https://www.vonovia.com/en/investors/news-and-publications/results-presentations/thursday-07-may-2026-q1-report-2026)
+- [Vonovia Pressemitteilungen – vonovia.com](https://www.vonovia.com/en/press/press-releases)
+- [Vonovia investiert in Dresden 2026 – vonovia.com](https://www.vonovia.com/presse/pressemitteilungen/2026/vonovia-investiert-weiter-in-dresden-und-staerkt-quartiere-vor-ort)
+- [Vonovia-CEO Rolf Buch verabschiedet sich – boersen-zeitung.de](https://www.boersen-zeitung.de/unternehmen-branchen/vonovia-ceo-rolf-buch-verabschiedet-sich-mit-optimistischem-ausblick)
+- [Vonovia: Luka Mucic folgt auf Rolf Buch – immobilienmanager.de](https://www.immobilienmanager.de/vonovia-luka-mucic-folgt-auf-rolf-buch-07052025)
+- [Vonovia SE profitiert von Zukunftsaussichten – de.investing.com](https://de.investing.com/analysis/vonovia-se-der-europaische-immobilien-konzern-profitiert-von-zukunftsaussichten-200496366)
+- [Vonovia SE stock: Stabilizing after Q1 2026 earnings – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-se-stock-de000a1ml7j1-stabilizing-after-q1-2026-earnings-and/69420321)
+- [Vonovia Hauptversammlung 2026 – vonovia.com](https://www.vonovia.com/presse/hv)
