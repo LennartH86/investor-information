@@ -1,87 +1,103 @@
 # Deutsche Post / DHL Group (DHL.DE)
-_KW24 / 2026 | Zeitraum: 06.06.2026 – 13.06.2026_
+_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Aktuelle Meldungen
 
-**Umbenennung / Rebranding:** Die DHL-Aktionäre haben den Vorschlag gebilligt, den historischen Rechtsnamen „Deutsche Post" auf Konzernebene aufzugeben. Das bisherige Segment Post & Parcel Germany wird künftig unter dem Namen Deutsche Post AG als eigenständige, nicht börsennotierte Einheit weitergeführt. Die offizielle Umfirmierung der Holding in DHL Group soll nach Registrierung beim deutschen Handelsregister bis spätestens **1. September 2026** abgeschlossen sein.
+- **Rentenanpassung 2026 (12.06.2026):** Deutsche Post versendet rund 21,5 Millionen Mitteilungen zur Rentenanpassung an Rentenempfänger in Deutschland und im Ausland; Anpassung wirksam ab 01.07.2026 gemäß Rentenwertbestimmungsverordnung 2026. / Deutsche Post dispatched approximately 21.5 million pension adjustment notifications to recipients in Germany and abroad, effective July 1, 2026.
+  - Quelle: [Pressemitteilung DHL Group (12.06.2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/deutsche-post-versendet-mitteilungen-zur-rentenanpassung-2026.html)
 
-**E-Commerce Trends Report 2026 (2. Juni 2026):** DHL veröffentlichte seinen jährlichen E-Commerce-Trendbericht, der auf Befragungen von 29.000 Online-Käufern und 5.800 E-Commerce-Unternehmen in 29 Ländern basiert. Kernaussage: Künstliche Intelligenz schreibt die Regeln im Onlinehandel neu und könnte langfristig zum Verschwinden traditioneller Online-Shops führen.
+- **New Energy Logistics (11.06.2026):** DHL Group baut seine Kapazitäten im Segment „New Energy Logistics" deutlich aus – inklusive neuem Time-Definite-Plus-Service, Erweiterung des Elektrofahrzeugnetzes, Batterielogistik und Energiespeicheranlagen. Steigende Nachfrage nach resilienten Energiesystemen treibt das Wachstum. / DHL Group ramps up New Energy Logistics with a new Time Definite Plus service and expanded EV fleet, battery logistics, and energy storage facilities.
+  - Quelle: [Pressemitteilung DHL Group (11.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-ramps-up-new-energy-logistics-as-demand-for-energy-resilience-surges.html)
 
-**Investitionen in Frankreich (4. Juni 2026):** DHL Group kündigte an, von 2026 bis 2027 rund **160 Millionen Euro** in die Logistikinfrastruktur und die Energiewende in Frankreich zu investieren. Damit belaufen sich die kumulierten DHL-Investitionen in Frankreich von 2018 bis 2027 auf rund 900 Millionen Euro.
+- **USMCA / Nordamerika (16.06.2026):** DHL betont Resilienz des nordamerikanischen Handels vor der USMCA-Überprüfung und sieht Chancen durch stabile, verlässliche Handelsabkommen. / DHL highlights North America's trade resilience ahead of the USMCA review, stressing stable and predictable trade frameworks as essential to cross-border commerce.
+  - Quelle: [DHL US Press Release (Juni 2026)](https://www.dhl.com/us-en/home/press/press-archive/2026/dhl-highlights-north-americas-trade-resilience-ahead-of-usmca-review.html)
 
-**New Energy Logistics (11. Juni 2026):** DHL Group verstärkt den Ausbau des Bereichs „New Energy Logistics" als strategisches Wachstumsfeld der Strategy 2030. Die weltweit wachsende Nachfrage nach resilienten Energiesystemen treibt das Segment an. DHL hat seit der Definition des Feldes im Herbst 2024 signifikant in globale Expertise investiert.
+- **Umbenennung / Rebranding:** DHL-Aktionäre haben im Mai 2026 beschlossen, den historischen Konzernnamen „Deutsche Post" aufzugeben. Das Segment Post & Parcel Germany firmiert künftig als „Deutsche Post AG". Die formelle Umschreibung der Holding auf „DHL" wird bis 1. September 2026 erwartet. / Shareholders approved in May 2026 the dropping of the "Deutsche Post" corporate name; Post & Parcel Germany will operate as "Deutsche Post AG"; group rename to DHL expected by September 1, 2026.
+  - Quelle: [FreightWaves – DHL distances itself from Deutsche Post name](https://www.freightwaves.com/news/dhl-distances-itself-from-historic-deutsche-post-name)
 
-**Partnerschaft mit Western Union:** Deutsche Post erweitert sein Serviceangebot durch eine Kooperation mit Western Union, die es Kunden ermöglicht, ab Q2 2026 über Partnerfilialen weltweit Geld zu senden und zu empfangen.
+- **Analystenrating JPMorgan:** JPMorgan hebt Kursziel auf 60 EUR an, Empfehlung „Overweight". Aktie notierte am 14.06.2026 bei ca. 51,70 EUR auf Xetra. / JPMorgan raised its price target to EUR 60 with "Overweight" rating; stock traded near EUR 51.70 on June 14, 2026.
+  - Quelle: [Ad-hoc-News (JPMorgan, Juni 2026)](https://www.ad-hoc-news.de/boerse/news/ueberblick/dhl-group-deutsche-post-aktie-de0005552004-jpmorgan-hebt-kursziel-auf/69559906)
 
-**Aktienkurs:** Die DHL-Aktie legte am 6. Juni 2026 rund 3 % auf ca. 41,80 EUR zu, nachdem Q1-2026-Zahlen und strategische Meldungen positiv aufgenommen wurden.
+- **Weitere Analystenratings (KW22/23):** Kepler Cheuvreux Upgrade von „Hold" auf „Buy" (02.06.2026); Bernstein bestätigt „Hold" (10.06.2026). / Kepler Cheuvreux upgraded from Hold to Buy (June 2); Bernstein confirmed Hold (June 10).
+
+- **Investitionen in Frankreich (04.06.2026):** DHL Group investiert 2026–2027 rund 160 Mio. EUR in Frankreich zur Stärkung der Logistikinfrastruktur und der Energiewende. Kumulierte DHL-Investitionen in Frankreich 2018–2027: knapp 900 Mio. EUR. / DHL Group to invest approximately EUR 160 million in France (2026–2027); total 10-year investment in France nearly EUR 900 million.
+  - Quelle: [Pressemitteilung DHL Group Frankreich (04.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-to-invest-around-eur160-million-in-2026-2027-to-strengthen-logistics-infrastructure-and-support-clean-energy-transition-in-france.html)
 
 ## Management
 
-**CEO Tobias Meyer – Vertrag bis 2031 verlängert (4. März 2026):** Der Aufsichtsrat verlängerte den Vertrag von CEO Tobias Meyer um fünf Jahre bis März 2031. Meyer ist seit 2023 Vorstandsvorsitzender.
+- **CEO Tobias Meyer – Vertragsverlängerung (04.03.2026):** Der Aufsichtsrat der Deutsche Post AG verlängerte den Vertrag von CEO Tobias Meyer bis März 2031. Meyer ist seit 2019 im Vorstand und leitet das Unternehmen seit 2023 als CEO. / The Supervisory Board extended CEO Tobias Meyer's contract until March 2031; Meyer has been on the Board of Management since 2019 and CEO since 2023.
+  - Quelle: [Pressemitteilung DHL Group (04.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-extends-contract-of-ceo-tobias-meyer.html)
 
-**Interview zum Geschäftsjahr 2025:** Meyer erläuterte die Gründe für die verbesserte Profitabilität und betonte, dass die Strategy 2030 gerade im aktuellen Umfeld ihre Stärken entfalten könne. Für 2026 bekräftigte er das Ziel eines operativen Ergebnisses (EBIT) von über 6,2 Mrd. EUR sowie einen Free Cashflow (ex M&A) von rund 3 Mrd. EUR.
+- **Interview Tobias Meyer – Jahreszahlen 2025:** Meyer erläuterte die verbesserte Profitabilität trotz leichtem währungsbedingtem Umsatzrückgang, die Stärken der Strategy 2030 im aktuellen Umfeld sowie die Planungen für 2026. Nachhaltigkeit als vierte Dimension „Green Logistics of Choice" schaffe langfristigen Wettbewerbsvorteil. / Meyer outlined improved profitability despite minor currency-driven revenue decline, the relevance of Strategy 2030, and DHL's sustainability commitment as a lasting competitive advantage.
+  - Quelle: [Interview CEO Tobias Meyer – Annual Earnings 2025](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
 
-**Warnung vor geopolitischen Risiken (April 2026):** Meyer warnte in einem Bloomberg-Interview, dass die Weltwirtschaft an einen „Tipping Point" geraten könnte, sollte die Ölversorgung infolge des Nahost-Konflikts weiter angespannt bleiben. Der Konflikt belaste Transportrouten und treibe die Frachtkosten in die Höhe.
-
-**Nachhaltigkeit als Führungsthema:** Meyer hob die feste Verankerung von „Green Logistics of Choice" in der Konzernstrategie hervor. Ende 2025 bestanden 46 % der Zustellflotte aus Elektrofahrzeugen; im Luftfrachtbereich wurden 10 % Sustainable Aviation Fuels (SAF) eingesetzt.
+- **Geopolitische Risiken (April 2026):** Meyer warnte in einem Bloomberg-Interview, dass die Weltwirtschaft an einen „Tipping Point" geraten könnte, sollte die Ölversorgung infolge des Nahost-Konflikts weiter angespannt bleiben. / Meyer warned in a Bloomberg interview of a potential economic "tipping point" if oil supply remains constrained due to the Middle East conflict.
 
 ## Finanzielles
 
-**Q1 2026 – Ergebnisse (veröffentlicht 30. April 2026):**
+- **Q1 2026 Ergebnis (30.04.2026):** Konzernnettogewinn 863 Mio. EUR (Vorjahr: 830 Mio. EUR, +4,0 %); davon 812 Mio. EUR auf Aktionäre der Deutsche Post AG, 50 Mio. EUR Minderheitsanteile. / Group net profit EUR 863 million in Q1 2026 (prior year EUR 830 million, +4.0%); EUR 812 million attributable to Deutsche Post AG shareholders.
+  - Quelle: [Pressemitteilung Q1 2026 (30.04.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html) | [MarketScreener Q1 2026](https://www.marketscreener.com/news/dhl-quarterly-statement-as-of-march-31-2026-ce7f58dbd889f020)
+
+- **Kerndaten Q1 2026:**
 
 | Kennzahl | Q1 2026 | Veränderung ggü. Vorjahr |
 |---|---|---|
 | Umsatz (berichtet) | 20,4 Mrd. € | −1,9 % |
 | Umsatz (organisch) | – | +2,0 % |
-| EBIT (operativer Gewinn) | 1,5 Mrd. € | +8,3 % |
-| Nettogewinn | 863 Mio. € | +4,0 % (von 830 Mio. €) |
+| EBIT | 1,5 Mrd. € | +8,3 % |
+| Nettogewinn | 863 Mio. € | +4,0 % |
+| EPS (unverwässert) | 0,73 € | – |
+| Capex | 518 Mio. € | – |
 
-- Umsatzrückgang durch Währungseffekte; organisches Wachstum +2,0 % positiv.
-- EBIT-Wachstum von 8,3 % resultierte aus aktivem Kapazitätsmanagement, strukturellen Kostensenkungen und Preisanpassungen.
-- **DHL Express:** Umsatz −1,9 % auf 6,0 Mrd. €; EBIT +20,6 % dank Kapazitätsmanagement und Yield-Optimierung.
-- **DHL Supply Chain:** Umsatz +5,7 % durch Neukundengeschäft und E-Commerce-Wachstum.
-- **Global Forwarding:** Umsatz −5,0 % auf 4,5 Mrd. € aufgrund niedrigerer Frachtraten.
+- **Post & Parcel Germany (Q1 2026):** EBIT 264 Mio. EUR, –5,8 % ggü. Vorjahr. Höhere Paketvolumina konnten Rückgang im Briefgeschäft (u.a. wahlbedingt) sowie steigende Transport- und Personalkosten nicht kompensieren. / EBIT EUR 264 million, –5.8% year-on-year; higher parcel volumes could not offset declining letter volumes (partially election-related) and rising transport/staff costs.
+  - Quelle: [DHL Group Reporting Hub Q1 2026](https://reporting-hub.group.dhl.com/2026-q1/en/business-performance/)
 
-**Jahresprognose 2026 bestätigt:**
-- Operativer Gewinn (EBIT): **> 6,2 Mrd. €**
-- Free Cashflow (ex M&A): ca. **3,0 Mrd. €**
+- **Capex Q1 2026:** 518 Mio. EUR, überwiegend in den Divisionen Supply Chain und Post & Parcel Germany. / Capex EUR 518 million, primarily in Supply Chain and Post & Parcel Germany.
 
-**Geschäftsjahr 2025 (Referenz):**
-- EBIT: 6,1 Mrd. € (Guidance übertroffen); Free Cashflow: 3,2 Mrd. €; Dividende erhöht auf **1,90 EUR je Aktie**.
+- **Jahresguidance 2026 (bestätigt):** EBIT > 6,2 Mrd. EUR; Free Cashflow (ex M&A) ca. 3,0 Mrd. EUR. / FY2026 guidance: EBIT above EUR 6.2 billion; FCF (ex-M&A) approximately EUR 3.0 billion.
+
+- **Jahresergebnis 2025 (Referenz, 05.03.2026):** EBIT 6,1 Mrd. EUR (Guidance übertroffen); Free Cashflow 3,2 Mrd. EUR; Dividende auf 1,90 EUR je Aktie erhöht. / FY2025: EBIT EUR 6.1 billion (guidance exceeded); FCF EUR 3.2 billion; dividend raised to EUR 1.90 per share.
+  - Quelle: [Pressemitteilung Jahreszahlen 2025 (05.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-annual-earnings-2025.html)
 
 ## Strategie & Ausblick
 
-**Strategy 2030 – Wachstumsfelder im Fokus:**
+- **Strategy 2030 – „Accelerating Sustainable Growth":** Vier strategische Dimensionen: (1) Employer of Choice, (2) Provider of Choice, (3) Investment of Choice, (4) Green Logistics of Choice. / Four strategic pillars: Employer of Choice, Provider of Choice, Investment of Choice, Green Logistics of Choice.
+  - Quelle: [DHL Group Investor Relations](https://group.dhl.com/en/investors.html) | [Investor Presentation April/Mai 2026 (PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-center/investors/documents/presentations/2026/DHL-Group-April-2026-Roadshow-Presentation.pdf)
 
-1. **New Energy Logistics:** Ausbau der Logistik für erneuerbare Energien und Energiewende-Infrastruktur, unterstrichen durch die 160-Mio.-EUR-Investition in Frankreich und globalen Kapazitätsaufbau (11. Juni 2026).
-2. **Data Center Logistics / USA-Expansion:** Mehr als zehn neue Lagerstandorte mit insgesamt über 650.000 m² Kapazität in Nordamerika bis Ende 2026 geplant.
-3. **E-Commerce & KI:** Nutzung von KI-Potenzialen entlang der gesamten E-Commerce-Wertschöpfungskette; strategische Partnerschaft mit Western Union für Finanzservices in Filialen.
-4. **Nachhaltigkeit:** Ziel „Green Logistics of Choice" mit steigendem Anteil an Elektrofahrzeugen (46 % Ende 2025) und SAF (10 % Frachtflotte).
+- **New Energy Logistics:** Strategisches Wachstumsfeld seit Herbst 2024; weltweiter Kapazitätsaufbau für Logistik rund um erneuerbare Energien, Batterien und Energiespeicheranlagen. / Strategic growth field since autumn 2024; global capacity build-out for renewables, battery, and energy storage logistics.
 
-**Akquisitionen:** DHL Supply Chain übernahm Inmar Supply Chain Solutions (Returns & Reverse Logistics) mit 14 Rückgabe-Centern und ca. 800 Mitarbeitern und festigt damit die Marktführerschaft in der Reverse Logistics in Nordamerika.
+- **Nordamerika / Supply Chain:** Mehr als zehn neue Lagerstandorte mit über 650.000 m² Kapazität in Nordamerika bis Ende 2026; Fokus auf Rechenzentrumslogistik. / More than ten additional warehouse sites in North America (>650,000 sqm) by end 2026; data center logistics is a key focus.
 
-**Rebranding abgeschlossen bis Q3 2026:** Die Abkehr vom Namen „Deutsche Post" auf Konzernebene und die klare Positionierung unter der Marke DHL unterstreichen die globale Wachstumsstrategie.
+- **Subsahara-Afrika:** Geplantes Investitionsprogramm von ca. 300 Mio. EUR über fünf Jahre zum Netzwerkausbau in Subsahara-Afrika. / Planned EUR 300 million investment over five years to expand the Sub-Saharan Africa network.
 
-**Geopolitische Risiken:** DHL erwartet anhaltende Volatilität durch Handelskonflikte und Nahost-Spannungen, hat die Jahresprognose 2026 aber explizit ohne Annahme einer makroökonomischen Verbesserung bestätigt.
+- **Akquisition Südafrika:** DHL Supply Chain übernimmt Vital Group Companies zur Ausweitung transportbasierter Logistik und Unterstützung des Kundenwachstums in Südafrika. / DHL Supply Chain acquires Vital Group Companies to expand transport-led logistics in South Africa.
+  - Quelle: [DHL South Africa Press Release](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
+
+- **Akquisitionsfokus (historisch 2025/2026):** Gezielte Übernahmen in klinischer Logistik/Spezialpharmaloigstik (CRYOPDP, SDS Rx) und E-Commerce-Netzwerken (AJEX, IDS, Inmar Supply Chain Solutions). / Targeted acquisitions in clinical trial/specialty pharma logistics (CRYOPDP, SDS Rx) and e-commerce networks (AJEX, IDS, Inmar).
+
+- **Wachstumsmärkte:** Investitionsschwerpunkte in Märkten mit überdurchschnittlichem Wachstumspotenzial: Indien, China, Kolumbien. / Investment focus on high-growth markets: India, China, Colombia.
+
+- **Nachhaltigkeit / Net Zero 2050:** Weitere Schritte bei Sustainable Aviation Fuel (SAF) und Solarprojekten; Elektromobilitätsausbau im Zustellnetz (46 % Elektroanteil Ende 2025). CEO Meyer sieht steigende Nachfrage nach emissionsarmer Logistik als strukturellen Wettbewerbsvorteil. / Further steps toward net-zero via SAF and solar initiatives; EV fleet at 46% by end 2025. Meyer views rising demand for low-emission logistics as a structural competitive advantage.
+  - Quelle: [DHL – From SAF to solar (05.01.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/from-saf-to-solar-dhls-bold-steps-toward-net-zero-by-2050.html)
+
+- **Geopolitische Risiken:** DHL erwartet anhaltende Volatilität durch Handelskonflikte und geopolitische Spannungen, hat die Jahresprognose 2026 aber explizit ohne Annahme einer makroökonomischen Verbesserung bestätigt. / DHL anticipates continued volatility from trade conflicts and geopolitical tensions but confirmed 2026 guidance without assuming macro improvement.
 
 ## Quellen
 
-- [DHL Group – Konzernergebnisse Q1 2026 (30. April 2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-group-konzernergebnisse-q1-2026.html)
-- [DHL Group – Q1 2026 Results: Successful Start (englisch)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html)
-- [DHL Group – Quarterly Statement Q1 2026 (MarketScreener)](https://www.marketscreener.com/news/dhl-quarterly-statement-as-of-march-31-2026-ce7f58dbd889f020)
-- [DHL Group – Q1 2026 Reporting Hub (Geschäftsverlauf)](https://reporting-hub.group.dhl.com/2026-q1/de/geschaeftsverlauf/)
-- [IndexBox – DHL Q1 2026: Express and Supply Chain Drive Profit Growth](https://www.indexbox.io/blog/dhl-group-q1-2026-operating-profit-rises-83-despite-revenue-dip-and-middle-east-conflict/)
-- [DHL Group – E-Commerce Trends Report 2026 (2. Juni 2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-e-commerce-trends-report-2026-ki-schreibt-die-regeln-im-onlinehandel-neu.html)
-- [DHL Group – Investitionen Frankreich 160 Mio. € (4. Juni 2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-group-investiert-von-2026-bis-2027-rund-160-millionen-euro-in-frankreich.html)
-- [DHL Group – New Energy Logistics Ausbau (11. Juni 2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-group-baut-den-bereich-logistik-fuer-neue-energien-aus-waehrend-nachfrage-fuer-resiliente-energiesysteme-waechst.html)
-- [DHL Group – Presseportal 2026 (alle Pressemitteilungen)](https://www.presseportal.de/nr/30097)
-- [DHL Group – Interview CEO Tobias Meyer zum Geschäftsjahr 2025](https://group.dhl.com/de/presse/veranstaltungen/interviews/2026/interview-mit-tobias-meyer-geschaeftsjahr-2025.html)
-- [DHL Group – Vertragsverlängerung CEO Tobias Meyer (4. März 2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-extends-contract-of-ceo-tobias-meyer.html)
-- [DHL Group – Jahresergebnis 2025 übertrifft Prognose (5. März 2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-annual-earnings-2025.html)
-- [Bloomberg – DHL CEO warnt vor „Tipping Point" bei Ölmangel (21. April 2026)](https://www.bloomberg.com/news/articles/2026-04-21/dhl-ceo-warns-of-tipping-point-risk-if-oil-shortage-persists)
-- [Logistics Viewpoints – DHL CEO Gulf Energy Shock Warning](https://logisticsviewpoints.com/2026/04/21/dhl-ceo-warns-gulf-energy-shock-could-push-global-economy-toward-a-tipping-point/)
-- [DHL Group – Investor Roadshow Presentation Mai 2026 (PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-center/investors/documents/presentations/2026/DHL-Group-April-2026-Roadshow-Presentation.pdf)
-- [FreightWaves – DHL distances itself from historic Deutsche Post name](https://www.freightwaves.com/news/dhl-distances-itself-from-historic-deutsche-post-name)
-- [Global Trailer – DHL Group expands US operations](https://www.globaltrailermag.com/dhl-group-expands-us-operations/)
-- [PrivSource – DHL Supply Chain acquires Inmar Supply Chain Solutions](https://www.privsource.com/acquisitions/deal/dhl-supply-chain-acquires-inmar-supply-chain-solutions-2VSqM8)
-- [Aktienfinder – DHL Group Aktie im Juni 2026](https://aktienfinder.net/aktien-profil/DHL%20Group%20(Deutsche%20Post)-Aktie)
+- [DHL Group – Pressemitteilungen 2026 (offiziell)](https://group.dhl.com/en/media-relations/press-releases.html)
+- [DHL Group – Investor Relations](https://group.dhl.com/en/investors.html)
+- [Pressemitteilung: Rentenanpassung 2026 (12.06.2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/deutsche-post-versendet-mitteilungen-zur-rentenanpassung-2026.html)
+- [Pressemitteilung: New Energy Logistics (11.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-ramps-up-new-energy-logistics-as-demand-for-energy-resilience-surges.html)
+- [Pressemitteilung: USMCA / Nordamerika (Juni 2026)](https://www.dhl.com/us-en/home/press/press-archive/2026/dhl-highlights-north-americas-trade-resilience-ahead-of-usmca-review.html)
+- [Pressemitteilung: Investitionen Frankreich (04.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-to-invest-around-eur160-million-in-2026-2027-to-strengthen-logistics-infrastructure-and-support-clean-energy-transition-in-france.html)
+- [Pressemitteilung: Q1 2026 Ergebnis (30.04.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html)
+- [Pressemitteilung: Jahreszahlen 2025 (05.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-annual-earnings-2025.html)
+- [Pressemitteilung: CEO-Vertragsverlängerung Tobias Meyer (04.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-extends-contract-of-ceo-tobias-meyer.html)
+- [Interview CEO Tobias Meyer – Jahreszahlen 2025](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
+- [DHL Supply Chain – Südafrika Akquisition Vital Group](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
+- [DHL Group – Investor Presentation April/Mai 2026 (PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-center/investors/documents/presentations/2026/DHL-Group-April-2026-Roadshow-Presentation.pdf)
+- [DHL – Net Zero / SAF / Solar (05.01.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/from-saf-to-solar-dhls-bold-steps-toward-net-zero-by-2050.html)
+- [MarketScreener – Quarterly Statement Q1 2026](https://www.marketscreener.com/news/dhl-quarterly-statement-as-of-march-31-2026-ce7f58dbd889f020)
+- [DHL Group Reporting Hub Q1 2026](https://reporting-hub.group.dhl.com/2026-q1/en/business-performance/)
+- [FreightWaves – DHL distances itself from Deutsche Post name](https://www.freightwaves.com/news/dhl-distances-itself-from-historic-deutsche-post-name)
+- [Ad-hoc-News – JPMorgan Kursziel 60 EUR](https://www.ad-hoc-news.de/boerse/news/ueberblick/dhl-group-deutsche-post-aktie-de0005552004-jpmorgan-hebt-kursziel-auf/69559906)

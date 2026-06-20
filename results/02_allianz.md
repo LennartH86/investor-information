@@ -1,66 +1,67 @@
 # Allianz (ALV.DE)
-_KW24 / 2026 | Zeitraum: 06.06.2026 – 13.06.2026_
+_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Aktuelle Meldungen
 
-- **Neue Leiterin Allianz Partners Deutschland (ab Juni 2026):** Olivia Pauthner übernahm zum 1. Juni 2026 die Position der Managing Director von Allianz Partners Deutschland sowie die Funktion der Chief Representative der AWP P&C S.A., Niederlassung Deutschland. Pauthner kam direkt aus dem Büro von CEO Oliver Bäte, wo sie seit Februar 2023 an zentralen Konzernprojekten und Wachstumsstrategien gearbeitet hatte. Der Wechsel steht explizit im Zeichen von KI, neuen Geschäftsmodellen und Wachstum.
-- **KI-Partnerschaft mit Anthropic:** Allianz bekräftigt seine im Januar 2026 geschlossene globale strategische Partnerschaft mit dem KI-Unternehmen Anthropic (Entwickler der Claude-Modellfamilie). Allianz plant, Claude in seine interne KI-Plattform zu integrieren und allen Mitarbeitern weltweit Zugang zu Tools für Recherche, Analyse und Wissensmanagement zu ermöglichen. Medienberichte thematisieren die Spannung zwischen Allianz' KI-Ambitionen und der Skepsis des Marktes gegenüber dem tatsächlichen Wertbeitrag.
-- **Aktienkurs:** Die Allianz-Aktie notierte Anfang Juni 2026 bei ca. 375,90–376,10 EUR; das durchschnittliche 12-Monats-Kursziel von Analysten liegt bei ca. 407 EUR.
-- **Allianz Partners: nib-Reiseversicherung (5. Juni 2026):** Übernahme eines Großteils des australischen und neuseeländischen Reiseversicherungsportfolios von nib, inkl. der Marke Travel Insurance Direct (TID) und einem 20-jährigen White-Label-Vertriebsabkommen.
+- **AllianzGI betritt europäischen ETF-Markt (19.06.2026):** Allianz Global Investors kündigt den Launch von fünf aktiv gemanagten ETFs unter dem Label „Allianz Smart Active ETFs" an – geplante Markteinführung zwischen Juli und September 2026, gelistet in Deutschland, Italien, Großbritannien und der Schweiz als irische UCITS-Strukturen. AllianzGI war einer der letzten großen deutschen Asset Manager ohne eigenes ETF-Angebot in Europa. ([investrends.ch](https://investrends.ch/aktuell/investments/allianzgi-betritt-den-europaischen-etf-markt-wie-ist-die-strategie-zu-beurteilen/))
+- **Allianz Pension Index 2026 (16.06.2026):** Laut dem Allianz Pension Index 2026 glaubt in Deutschland nur jeder Fünfte, im Alter gut und ausreichend versorgt zu sein. Allianz plant als Reaktion Angebote für alle Produktkategorien im Rahmen der deutschen Altersvorsorge-Reform. ([allianz.de](https://www.allianz.de/presse/mitteilungen/altersvorsorge-reform-allianz-plant-angebot-fuer-alle-produktkategorien/))
+- **Berenberg-Analyse „Buy" (15.06.2026):** Berenberg Bank bekräftigt die Kaufempfehlung für die Allianz-Aktie. ([finanzen.net](https://www.finanzen.net/analyse/allianz_buy-joh_berenberg_gossler__co_kg_berenberg_bank__1086211))
+- **Aktienkurs:** Die Allianz-Aktie notiert Mitte Juni 2026 bei rund 380–401 Euro und bewegt sich damit knapp unterhalb ihres 52-Wochen-Hochs; positive Kursdynamik durch starke operative Entwicklung gestützt. ([aktiencheck.de](https://www.aktiencheck.de/news/Artikel-Allianz_Aktie_Ausblick_auf_Rest_Jahres-19834953))
+- **Managementwechsel – Olivia Pauthner:** Pauthner übernimmt ab Juni 2026 die Leitung von Allianz Partners Deutschland; sie kommt direkt aus dem CEO-Büro von Oliver Bäte, wo sie seit Februar 2023 an zentralen Konzernthemen wie Wachstums- und Vertriebsstrategie sowie KI-Initiativen gearbeitet hat. ([finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-olivia-pauthner-leitet-partners-deutschland-ab-juni/))
 
 ## Management
 
-- **CEO Oliver Bäte – Monocle Interview (Frühjahr 2026):** Im Gespräch mit Monocle aus Mailand während der Olympischen Winterspiele 2026 äußerte sich Bäte zur globalen Unternehmensverantwortung, Europas Zukunft und den fiskalischen Herausforderungen des Kontinents. Kernaussage: „Wir können uns die Sozialsysteme, die wir haben, nicht leisten." – Europa trägt mit 5 % der Weltbevölkerung rund 50 % der globalen Sozialausgaben.
-- **CEO Oliver Bäte – CNBC Davos (Januar 2026):** Bäte widersprach der These, dass Europa die Netto-Null-Ziele aufgeben werde, und kritisierte kurzfristiges Denken in der Klimapolitik.
-- **Hauptversammlung (7. Mai 2026):** Auf der Allianz-Hauptversammlung 2026 adressierte das Management die Aktionäre; Aufsichtsratsvorsitzender Michael Diekmann erstattete den Bericht des Aufsichtsrats.
+- **CEO Oliver Bäte – Q1-Kommentar (Mai 2026):** „These results are a testament to the strength of our fundamentals and the effectiveness of our customer-centered strategy" – Bätes Statement zum operativen Rekordergebnis von 4,52 Mrd. Euro im ersten Quartal 2026. ([allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html))
+- **CNBC Davos-Interview (Januar 2026):** Bäte erläuterte, wie Allianz angesichts geopolitischer und wirtschaftlicher Risiken die Diversifikation optimiert und betonte die Notwendigkeit, „durch den Lärm das Signal zu finden". ([cnbc.com](https://www.cnbc.com/video/2026/01/20/trying-to-look-through-the-noise-for-the-signal-allianz-ceo.html))
+- **Monocle-Interview (Februar 2026, Mailand):** Im Rahmen der Olympischen Winterspiele 2026 sprach Bäte über die globale Sportpartnerschaft von Allianz, unternehmerische Verantwortung, Innovation und Europas Zukunft. Kernaussage: „Wir können uns die Sozialsysteme, die wir haben, nicht leisten." ([monocle.com](https://monocle.com/business/oliver-bate-allianz-ceo-interview/))
+- **Personalie Olivia Pauthner:** Wechsel aus dem CEO-Büro von Oliver Bäte zur Leitung von Allianz Partners Deutschland; Fokus auf KI, neue Geschäftsmodelle und Wachstum. ([finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-olivia-pauthner-leitet-partners-deutschland-ab-juni/))
 
 ## Finanzielles
 
 **Q1 2026 – Operatives Rekordergebnis (Bericht: 13. Mai 2026):**
 
-Allianz erzielte im ersten Quartal 2026 ein operatives Ergebnis von **4,52 Milliarden Euro** – das höchste Quartalsergebnis in der Unternehmensgeschichte, 4 % über dem Analysten-Konsens von 4,36 Mrd. EUR.
+Allianz erzielte im ersten Quartal 2026 ein operatives Ergebnis von **4,52 Milliarden Euro** – das höchste Quartalsergebnis der Unternehmensgeschichte, rund 4 % über dem Analysten-Konsens von 4,36 Mrd. Euro.
 
 | Kennzahl | Q1 2026 | Veränderung ggü. Vorjahr |
 |---|---|---|
 | Operatives Ergebnis | 4,52 Mrd. EUR | +6,6 % |
 | Bereinigter Überschuss (Anteilseigner) | 3,8 Mrd. EUR | +48,4 % |
-| Gesamtgeschäftsvolumen | 28,3 Mrd. EUR | +4,8 % (intern: +6,8 %) |
-| Gesamtumsatz | 53,0 Mrd. EUR | −1,8 % |
-| Solvency-II-Quote | 221 % | +2 Prozentpunkte |
-| Combined Ratio (P&C) | 91,0 % | besser als Jahresziel 92–93 % |
-| Kerngewinn je Aktie | — | +9 % ggü. Q1 2025 |
-| Annualisierte bereinigte Eigenkapitalrendite | 24,2 % | — |
+| Gesamtumsatz | 53,0 Mrd. EUR | Intern +3,5 % |
+| Solvency-II-Quote | 221 % | +2 Prozentpunkte ggü. Ende 2025 |
+| Annualisierte bereinigte Eigenkapitalrendite | 24,2 % (bereinigt: 18 %) | — |
 
-- **PIMCO:** 37,6 Milliarden Euro Nettomittelzuflüsse von Drittanlegern im Quartal.
-- **Aktienrückkauf:** Laufendes Rückkaufprogramm bis zu **2,5 Milliarden Euro** (beschlossen Februar 2026); im Q1 bereits 0,3 Mrd. EUR zurückgekauft.
-- **Jahresausblick 2026 bestätigt:** Operatives Ziel von **17,4 Mrd. EUR (±1 Mrd. EUR)**.
+- **Aktienrückkäufe:** Milliarden-Rückkaufprogramm läuft weiter; begeistert Anleger laut Analysten. ([aktiencheck.de](https://www.aktiencheck.de/analysen/Artikel-Allianz_Q1_2026_Zahlen_Rekordquartal_und_Milliarden_Rueckkaeufe_begeistern_Anleger-19759245))
+- **Dividende:** 17,10 Euro je Aktie (letzte 12 Monate); Dividendenrendite ca. 4,27 % bei einem Kurs von ~400,90 Euro. ([aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende))
+- **Jahresausblick 2026 bestätigt:** Operatives Ziel von **17,4 Mrd. Euro (± 1 Mrd. Euro)**. ([trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant))
 
 ## Strategie & Ausblick
 
-- **Mögliche Übernahme Capital Four (Private Markets):** Allianz prüft die Akquisition des dänischen Kreditmanagers Capital Four (Kopenhagen), der mehr als 23 Mrd. EUR verwaltet, davon ca. 8 Mrd. EUR in Private-Credit-Strategien. Die Übernahme würde Allianz' Position im Private-Markets-Geschäft erheblich ausbauen.
-- **Viridium-Übernahme abgeschlossen:** Ein Konsortium aus Allianz, BlackRock, Generali Financial Holdings, Hannover Rück und T&D Holdings schloss die Übernahme der Viridium Group (führender europäischer Lebensversicherungs-Portfoliospezialist, zuvor im Besitz von Cinven) ab.
-- **National Bank of Greece / Allianz European Reliance:** Die National Bank of Greece soll eine Minderheitsbeteiligung von 30 % an Allianz European Reliance erwerben (MoU unterzeichnet); stärkt die Bancassurance-Präsenz in Griechenland.
-- **Indien-Joint-Venture (April 2026):** Jio Financial Services Limited (JFSL) und Allianz schlossen eine bindende Vereinbarung zur Gründung eines 50:50-Joint-Ventures für den indischen Erst- und Krankenversicherungsmarkt – ein bedeutender Schritt in einen der weltweit größten Wachstumsmärkte.
-- **Batteriespeicher-Investment (April 2026):** Allianz Global Investors erwarb eine Beteiligung von 51 % an der Batteriespeicherplattform Green Energy Storage Initiative (GESI) – weiterer Ausbau des Infrastruktur- und Energiewendeportfolios.
-- **Prüfung HSBC Life (März 2026):** Allianz prüft gemeinsam mit Sun Life die Übernahme der Versicherungssparte HSBC Life.
-- **KI als strategischer Fokus:** Die KI-Partnerschaft mit Anthropic sowie die Ernennung von Olivia Pauthner mit ausdrücklichem KI-Mandat verdeutlichen, dass Allianz Künstliche Intelligenz als zentralen strategischen Hebel für Wachstum und Effizienz positioniert.
+- **ETF-Expansion (AllianzGI):** Markteintritt im europäischen ETF-Segment mit fünf aktiv gemanagten „Allianz Smart Active ETFs"; strategische Öffnung eines bislang nicht besetzten Distributionskanals. ([investrends.ch](https://investrends.ch/aktuell/investments/allianzgi-betritt-den-europaischen-etf-markt-wie-ist-die-strategie-zu-beurteilen/))
+- **Mögliche Übernahme – HSBC Life Singapur:** Allianz soll Berichten zufolge an der Übernahme des Versicherungsgeschäfts von HSBC in Singapur interessiert sein – potenzieller Milliarden-Deal zur weiteren Expansion in Asien. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/wahrscheinlichster-kaeufer-allianz-aktie-im-plus-offenbar-uebernahme-von-hsbc-versicherungsgeschaeft-in-singapur-in-milliarden-deal-15744248))
+- **Altersvorsorge-Reform:** Allianz plant Angebote für alle Produktkategorien im Rahmen der deutschen Altersvorsorge-Reform; Hintergrund ist der Pension Index 2026, der erhebliche Versorgungslücken in der deutschen Bevölkerung aufzeigt. ([allianz.de](https://www.allianz.de/presse/mitteilungen/altersvorsorge-reform-allianz-plant-angebot-fuer-alle-produktkategorien/))
+- **KI und neue Geschäftsmodelle:** Allianz setzt verstärkt auf KI-gestützte Wachstumsstrategien; Personalwechsel bei Allianz Partners Deutschland mit ausdrücklichem KI-Mandat unterstreicht den strategischen Fokus.
+- **Kurs auf Jahresziel:** Nach starkem Q1 ist Allianz auf Kurs Richtung operativem Jahresergebnis von 17,4 Mrd. Euro.
+- **Globale Sportpartnerschaften:** Allianz ist weltweiter Olympia-Partner; CEO Bäte kommentierte die strategische Bedeutung dieser Partnerschaft in Zeiten politischer Unsicherheit. ([monocle.com](https://monocle.com/business/oliver-bate-allianz-ceo-interview/))
 - **Nächster Termin:** Halbjahresbericht / Q2-Ergebnisse voraussichtlich August 2026.
 
 ## Quellen
 
-- [Allianz Quartalszahlen 1Q 2026 | Operatives Rekordergebnis | allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
-- [Allianz posts record Q1 profit on P&C strength, confirms 2026 outlook – Investing.com](https://www.investing.com/news/earnings/allianz-posts-record-q1-profit-on-pc-strength-confirms-2026-outlook-4683313)
-- [Allianz: Q1 2026 results – Atlas Magazine](https://www.atlas-mag.net/en/articles/allianz-q1-2026-results)
-- [Allianz Q1 2026 Zahlen: Rekordquartal und Milliarden-Rückkäufe – aktiencheck.de](https://www.aktiencheck.de/analysen/Artikel-Allianz_Q1_2026_Zahlen_Rekordquartal_und_Milliarden_Rueckkaeufe_begeistern_Anleger-19759245)
-- [Allianz knackt mit operativem Ergebnis bisherige Rekordmarke – 4investors.de](https://www.4investors.de/nachrichten/amp/boerse.php?sektion=stock&ID=189921)
-- [Allianz Aktie: Rekord-Betriebsgewinn im Q1 – Capital.com](https://capital.com/de-de/market-updates/allianz-stock-forecast-03-06-2026)
-- [Allianz Aktie: Olivia Pauthner leitet Partners Deutschland ab Juni – Finanztrends](https://www.finanztrends.de/news/allianz-aktie-olivia-pauthner-leitet-partners-deutschland-ab-juni/)
-- [Allianz Partners Deutschland: Olivia Pauthner wird neue Managing Director – Pressemitteilung](https://www.allianz-partners.com/de_DE/in-the-news/press-releases/2026/Allianz_Partners_Deutschland_Olivia_Pauthner_wird_neue_Managing_Director.html)
-- [Allianz SE beschließt neues Rückkaufprogramm – 2,5 Mrd. EUR | allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260225-mitteilung.html)
-- [Allianz: Milliarden-Zukauf in Vorbereitung (Capital Four) – Der Aktionär](https://www.deraktionaer.de/artikel/aktien/allianz-milliarden-zukauf-in-vorbereitung-20381517.html)
-- [Konsortium schließt Übernahme Viridium ab – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/250801-konsortium-schliesst-uebernahme-viridium-ab.html)
-- [Allianz Wrestles With Two Identities as AI Ambitions Meet Market Skepticism – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/allianz-wrestles-with-two-identities-as-ai-ambitions-meet-market/69488209)
-- ['We cannot afford the social systems we have.' – Allianz CEO Oliver Bäte | Monocle](https://monocle.com/business/oliver-bate-allianz-ceo-interview/)
-- [Top business leaders on the green backlash – CNBC Davos 2026](https://www.cnbc.com/2026/01/22/davos-wef-green-energy-climate-change-trump.html)
-- [Report of the Supervisory Board, Annual General Meeting 2026 – allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-diekmann.html)
-- [Allianz Mediencenter – Medienmitteilungen](https://www.allianz.com/de/mediencenter/news/medienmitteilungen.html)
+- [Allianz Q1 2026 Quartalsmitteilung – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
+- [Allianz Medienmitteilungen – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen.html)
+- [Allianz Q1 2026: Rekordquartal und Milliarden-Rückkäufe – aktiencheck.de](https://www.aktiencheck.de/analysen/Artikel-Allianz_Q1_2026_Zahlen_Rekordquartal_und_Milliarden_Rueckkaeufe_begeistern_Anleger-19759245)
+- [EQS-News: Allianz startet mit operativem Rekordergebnis ins Jahr 2026 – aktiencheck.de](https://www.aktiencheck.de/news/Artikel-EQS_News_Allianz_startet_operativem_Rekordergebnis_ins_Jahr_2026_deutsch-19758267)
+- [Allianz Aktie: Ausblick auf den Rest des Jahres – aktiencheck.de](https://www.aktiencheck.de/news/Artikel-Allianz_Aktie_Ausblick_auf_Rest_Jahres-19834953)
+- [Allianz Rekordgewinn Q1 – wiwo.de](https://www.wiwo.de/unternehmen/dienstleister/allianz-rekordgewinn-im-1.-quartal-ziele-fuer-2026-im-blick/100224751.html)
+- [Allianz knackt Rekordmarke – 4investors.de](https://www.4investors.de/nachrichten/amp/boerse.php?sektion=stock&ID=189921)
+- [Allianz Betriebsergebnis 17,4 Mrd. 2026 – trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant)
+- [AllianzGI betritt europäischen ETF-Markt – investrends.ch](https://investrends.ch/aktuell/investments/allianzgi-betritt-den-europaischen-etf-markt-wie-ist-die-strategie-zu-beurteilen/)
+- [Allianz Altersvorsorge-Reform – allianz.de](https://www.allianz.de/presse/mitteilungen/altersvorsorge-reform-allianz-plant-angebot-fuer-alle-produktkategorien/)
+- [Allianz Presseportal – presseportal.de](https://www.presseportal.de/nr/65275)
+- [Allianz Aktie: Olivia Pauthner leitet Partners Deutschland – finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-olivia-pauthner-leitet-partners-deutschland-ab-juni/)
+- [Oliver Bäte – CNBC Davos 2026](https://www.cnbc.com/video/2026/01/20/trying-to-look-through-the-noise-for-the-signal-allianz-ceo.html)
+- [Oliver Bäte – Monocle Interview 2026](https://monocle.com/business/oliver-bate-allianz-ceo-interview/)
+- [Berenberg Buy-Analyse 15.06.2026 – finanzen.net](https://www.finanzen.net/analyse/allianz_buy-joh_berenberg_gossler__co_kg_berenberg_bank__1086211)
+- [Allianz Dividende – aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende)
+- [Allianz Übernahme HSBC Singapur – finanzen.net](https://www.finanzen.net/nachricht/aktien/wahrscheinlichster-kaeufer-allianz-aktie-im-plus-offenbar-uebernahme-von-hsbc-versicherungsgeschaeft-in-singapur-in-milliarden-deal-15744248)
+- [Allianz Akquisitionen – tracxn.com](https://tracxn.com/d/acquisitions/acquisitions-by-allianz/__C6DRwKJs6hEWvw1GjVTQnaz_HKpjusF_cvNVPtrRxBY)
+- [Allianz Stakes & Investments – allianz.com](https://www.allianz.com/en/mediacenter/news/financials/stakes_investments.html)
