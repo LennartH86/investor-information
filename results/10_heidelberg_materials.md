@@ -1,22 +1,22 @@
 # Heidelberg Materials (HEIG.DE)
-_KW24 / 2026 | Zeitraum: 06.06.2026 – 13.06.2026_
+_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Aktuelle Meldungen
 
-Die Heidelberg Materials-Aktie (HEIG.DE) steht in der KW24 weiterhin unter Druck. Seit Jahresbeginn hat sie rund 20–21 % an Wert verloren (Stand: 10. Juni 2026, Kurs: ca. 172,00 EUR). Analysten verweisen auf ein schwieriges Marktumfeld: Die Baukonjunktur bleibt verhalten, und politische Diskussionen rund um den europäischen Emissionshandel belasten die Stimmung.
-
-Das Unternehmen hatte am 6. Mai 2026 einen „robusten Start ins Geschäftsjahr 2026" kommuniziert: Umsatz Q1 2026 bei 4,536 Mrd. EUR, Dividendenerhöhung um 9 % auf 3,60 EUR je Aktie. Parallel läuft ein Aktienrückkaufprogramm im Volumen von 1,2 Mrd. EUR – ein Signal für Kapitalrendite-Disziplin trotz operativer Vorsicht im Ausblick.
-
-Eine spezifische Pressemitteilung aus dem engeren Zeitraum 6.–13. Juni 2026 war zum Recherchezeitpunkt nicht auffindbar. Die jüngste veröffentlichte Pressemitteilung datiert vom 6. Mai 2026. Nächster Berichtstermin: Halbjahresbericht am 30. Juli 2026.
+- **Aktie weiter unter Druck:** Die Heidelberg Materials-Aktie bleibt in KW25 unter Druck. Seit Jahresbeginn hat sie rund 20–21 % an Wert verloren. Schwache Einkaufsmanagerindizes in einzelnen Märkten signalisieren eine weiterhin fragile Baukonjunktur. / *The stock remains under pressure in KW25, down ~20–21% year-to-date. Weak purchasing managers' indices signal a persistently fragile construction economy.*
+- **Jahresprognose 2026 bestätigt:** Heidelberg Materials bekräftigte das RCO-Ziel von 3,40–3,75 Mrd. Euro für 2026; das Prognoseband steht jedoch unter Beobachtung angesichts der makroökonomischen Unsicherheit. / *The company reconfirmed its full-year RCO guidance of €3.40–3.75 billion, though the range remains under observation given macro uncertainty.*
+- **Aktienrückkauf – dritte Tranche läuft:** Seit dem 21. Mai 2026 läuft die dritte Tranche des Aktienrückkaufprogramms (Gesamtvolumen bis zu 1,2 Mrd. Euro), voraussichtlich bis Mitte Dezember 2026. / *The third tranche of the up-to-€1.2 billion share buyback programme has been running since 21 May 2026 and is expected to complete by mid-December 2026.*
+- **Anteilserhöhung Akçansa / Türkei abgeschlossen:** Heidelberg Materials erhöhte seinen Anteil an der türkischen Zementtochter Akçansa auf 79,44 %, womit ein wichtiger Schritt zur Konsolidierung im Mittelmeerraum vollzogen wurde. / *Heidelberg Materials raised its stake in Turkish cement producer Akçansa to 79.44%, completing a key consolidation step in the Mediterranean region.*
+- **Nächster Berichtstermin:** Halbjahresbericht 2026 am 30. Juli 2026. / *Next reporting date: H1 2026 half-year report on 30 July 2026.*
 
 ## Management
 
-CEO Dr. Dominik von Achten äußerte sich zuletzt ausführlich beim Weltwirtschaftsforum in Davos (Januar 2026) sowie im Rahmen der Q1-Ergebnisse (Mai 2026):
-
-- **Marktausblick 2026:** Von Achten erwartet einen leicht verbesserten Markt für Baumaterialien. Wichtigste Wachstumstreiber sind Infrastruktur- und Verteidigungsausgaben; der Wohnungsbau bleibt schwach („Housing for now is not really moving"), bedingt durch rückläufige Migration und gedämpfte Renovierungsnachfrage.
-- **Volumenerwartung:** Das Unternehmen rechnet für das Gesamtjahr 2026 mit einem Volumenwachstum über alle Märkte. April zeigte bereits eine deutliche Erholung – klar über Vorjahr und Unternehmensplan.
-- **M&A-Strategie:** Von Achten bekräftigte ein M&A-Budget von rund 10 Mrd. EUR bis 2030, mit geografischem Schwerpunkt USA – jedoch keine „Elephant Deals" über 10 Mrd. EUR. Die M&A-Pipeline sei „voll".
-- **GCCA-Präsidentschaft:** Dr. von Achten wurde zum Präsidenten der Global Cement and Concrete Association (GCCA) ernannt.
+- **CEO Dr. Dominik von Achten – Gewinnwachstumsversprechen:** Von Achten bekräftigte Anfang 2026 das Ziel eines deutlichen Gewinnwachstums für das Gesamtjahr 2026 und verwies auf die starke operative Disziplin des Konzerns. / *CEO von Achten reaffirmed the target of significant profit growth for FY 2026 and pointed to strong operational discipline.*
+- **Akquisitionsstrategie bis 2030 – rund 10 Mrd. Euro:** „Bis 2030 wollen wir rund zehn Milliarden Euro in Akquisitionen investieren", so von Achten. Der Fokus liegt auf aggregatreichen, vertikal integrierten Plattformen, keine „Elephant Deals" über 10 Mrd. Euro geplant. / *"Until 2030 we want to invest approximately ten billion euros in acquisitions," von Achten stated, targeting aggregates-rich, vertically integrated platforms without mega-deals above €10 billion.*
+- **Maas-Akquisition als Wachstumstreiber:** Von Achten hob die Maas-Übernahme in Ostaustralien als besonders attraktiv hervor wegen der starken Marktposition und erheblicher erwarteter Synergien sowie positiver Gewinnwachstumsbeiträge. / *Von Achten highlighted the Maas acquisition in eastern Australia as particularly attractive due to its strong market position, expected synergies, and positive EPS contribution.*
+- **Resilienz gegenüber US-Zöllen:** Da Heidelberg Materials lokal in den USA produziert, sind US-Zölle laut CEO kein direktes Risiko. / *Local US production shields the company from American tariff policy, per the CEO.*
+- **Globale Volatilität:** Von Achten betonte die Bedeutung von Resilienz und Flexibilität in einem volatilen geopolitischen Umfeld. / *Von Achten underscored the importance of resilience and flexibility in a volatile geopolitical environment.*
+- **GCCA-Präsidentschaft:** Dr. von Achten wurde zum Präsidenten der Global Cement and Concrete Association (GCCA) ernannt. / *Von Achten was appointed President of the Global Cement and Concrete Association (GCCA).*
 
 ## Finanzielles
 
@@ -27,53 +27,49 @@ CEO Dr. Dominik von Achten äußerte sich zuletzt ausführlich beim Weltwirtscha
 | Umsatz | 4.536 Mio. EUR | 4.715 Mio. EUR | −4 % |
 | RCO | 163 Mio. EUR | 235 Mio. EUR | −72 Mio. EUR (−31 %) |
 | EBITDA | 484 Mio. EUR | ca. 556 Mio. EUR | −13 % |
-| EPS | 1,27 EUR | – | unter Konsens (1,50 EUR) |
+| EPS | 1,27 EUR | – | unter Konsens (~1,50 EUR) |
 | RCOBD-Marge | 10,7 % | 11,8 % | −1,1 Pp |
 
-Hauptursache des Rückgangs war ungewöhnlich schlechtes Wetter in Europa und dem Nordosten der USA. Die positive Preis-Kosten-Dynamik federte den Effekt teilweise ab.
+- **Belastungsfaktoren:** Ungünstige Witterungsbedingungen in Europa und dem Nordosten der USA, geopolitische Unsicherheit sowie höhere Energiekosten belasteten Volumen und Profitabilität. / *Adverse weather in Europe and northeastern USA, geopolitical uncertainty, and higher energy costs weighed on volumes and margins.*
+- **Preiskraft wirkt stützend:** Trotz Volumenrückgängen sorgten höhere Preise und Kostendisziplin für eine teilweise Abfederung. / *Despite volume declines, pricing power and cost discipline partially offset headwinds.*
+- **Transformation Accelerator Initiative:** Kumulierte Einsparungen von 405 Mio. Euro realisiert; Ziel von 500 Mio. Euro bis Ende 2026 bereits gesichert. / *Cumulative savings of €405 million achieved; the €500 million target by end-2026 is already secured.*
 
 **Jahresguidance 2026 (bestätigt)**
-- RCO: 3,40 – 3,75 Mrd. EUR
+- RCO: 3,40 – 3,75 Mrd. EUR (Mittelpunkt 3,575 Mrd. EUR)
 - ROIC: > 10 %
 - Netto-Capex: 1,2 – 1,3 Mrd. EUR
-- Aktienrückkauf gesamt: 1,2 Mrd. EUR (dritte Tranche bis zu 448 Mio. EUR, läuft bis Dez. 2026)
+- Verschuldung: ~1,5× EBITDA erwartet
+- Aktienrückkauf gesamt: bis zu 1,2 Mrd. EUR
+- Dividende: +9 % auf 3,60 EUR je Aktie (vorgeschlagen)
 
 **Referenz: GJ 2025 (Rekord)**
 - Umsatz: 21,5 Mrd. EUR | RCO: 3,4 Mrd. EUR (+6 % like-for-like) | RCOBD-Marge: 21,8 %
 
-**Nächster Berichtstermin:** Halbjahresbericht 2026 am 30. Juli 2026.
-
 ## Strategie & Ausblick
 
-Heidelberg Materials verfolgt eine klare Wachstumsstrategie entlang drei Achsen:
-
-1. **Geographische Expansion (M&A):**
-   - *Maas Group / Australien (Feb. 2026):* Erwerb des Baustoffgeschäfts für AUD 1,7 Mrd. (ca. 1 Mrd. EUR; 8,4× EBITDA nach Synergien). Portfolio: 40 Steinbrüche (>350 Mio. t Reserven), 22 Betonwerke, 2 Asphaltanlagen, 1 Recyclinganlage in New South Wales, Queensland und Victoria; >1.000 Mitarbeiter. Abschluss erwartet H2 2026.
-   - *Akçansa / Türkei (April 2026):* Anteilserhöhung von 39,72 % auf 79,44 % (Übernahme des Sabanci-Holding-Pakets). Strategischer Hub für den Mittelmeerraum.
-   - *AmeriTex Pipe & Products / USA (Mai 2026):* Minderheitsbeteiligung an führendem texanischen Betonrohr- und Fertigteilhersteller; verknüpft mit langfristigem Materialliefervertrag. US-Markt bleibt zentraler M&A-Fokus.
-
-2. **Dekarbonisierung / evoZero:** CO₂-Abscheideanlage Lengfurt (Inbetriebnahme 2026), neue Ofenlinie Airvault (Frankreich, Mai 2026) sowie das evoZero-Produktportfolio als strategische Differenzierungsmerkmale. Transformation Accelerator: 405 Mio. EUR Einsparungen realisiert; Ziel 500 Mio. EUR bis Ende 2026 bereits gesichert.
-
-3. **Autonomisierung & Digitalisierung:** 30 autonome Schwerlastfahrzeuge in 2026, Ziel >100 Einheiten global bis Ende 2028; KI und Automatisierung als operative Kernprioritäten.
-
-**Risiken:** Anhaltende Schwäche im Wohnungsbau, Zollrisiken in den USA sowie Unsicherheit rund um europäische Klimapolitik (EU-Emissionshandel) könnten den Ausblick belasten.
+- **Akquisition Maas Group / Australien (Feb. 2026):** Erwerb des Baustoffgeschäfts der australischen Maas Group für AUD 1,7 Mrd. (~1 Mrd. EUR; 8,4× EBITDA nach Synergien). Portfolio: 40 Steinbrüche (>350 Mio. t Reserven), 22 Betonwerke, Asphalt- und Recyclinganlagen in New South Wales, Queensland und Victoria; Abschluss erwartet in H2 2026. / *Acquisition of Maas Group's construction materials business for A$1.7 billion, comprising 40 quarries (>350 Mt reserves), 22 ready-mix plants, asphalt and recycling operations; expected to close H2 2026.*
+- **Strategische Beteiligung AmeriTex / USA (Mai 2026):** Minderheitsbeteiligung an AmeriTex Pipe & Products – führender texanischer Hersteller von Betonrohren, Kastendurchlässen und Fertigbetonprodukten. Plattform für Wachstum im US-Infrastrukturmarkt, gestützt durch mehrjährige Bundes- und Staatsprogramme. / *Minority stake in AmeriTex Pipe & Products as a platform for precast concrete infrastructure solutions in Texas, backed by multi-year federal and state infrastructure budgets.*
+- **Akçansa / Türkei:** Anteilserhöhung auf 79,44 % als strategischer Hub für den Mittelmeerraum. / *Stake increase to 79.44% strengthens Heidelberg Materials' Mediterranean hub.*
+- **USA als zentraler M&A-Fokus:** US-Markt bleibt Priorität; lokale Produktion schützt vor Zollrisiken, Infrastrukturprogramme (Infrastructure Investment and Jobs Act) treiben Nachfrage. / *The US market remains the top M&A priority; local production shields from tariff risk while infrastructure programmes drive demand.*
+- **Dekarbonisierung & evoZero:** CO₂-Abscheideanlage Lengfurt (Inbetriebnahme 2026), neue Ofenlinie Airvault (Frankreich, Mai 2026), evoZero-Produktportfolio als strategische Differenzierung. Politische Diskussionen zum EU-Emissionshandel bleiben ein Risikofaktor. / *CCS plant Lengfurt commissioned in 2026, new kiln line Airvault (France, May 2026), evoZero low-carbon products as differentiators; EU emissions trading policy remains a risk factor.*
+- **Autonomisierung & Digitalisierung:** 30 autonome Schwerlastfahrzeuge 2026 geplant; Ziel >100 Einheiten global bis Ende 2028; KI und Automatisierung als operative Kernprioritäten. / *30 autonomous heavy vehicles in 2026, targeting >100 globally by end-2028; AI and automation as core operational priorities.*
+- **Risiken:** Anhaltende Schwäche im Wohnungsbau, Zollrisiken in den USA, unsichere Entwicklung der Baukonjunktur in Europa, EU-Klimapolitik (Emissionshandel). / *Key risks: sustained housing weakness, US tariff uncertainty, fragile European construction activity, EU climate policy (emissions trading).*
 
 ## Quellen
 
-- [Heidelberg Materials – Aktuelle Nachrichten (boerse.de)](https://www.boerse.de/aktien/Heidelberg-Materials-Aktie/DE0006047004)
-- [Heidelberg Materials Aktie: 21 Prozent Minus seit Jahresbeginn (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/heidelberg-materials-aktie-21-prozent-minus-seit-jahresbeginn/69510801)
-- [Heidelberg Materials Aktie: 1,2 Milliarden Euro für Rückkäufe (boerse-express.com)](https://www.boerse-express.com/news/articles/heidelberg-materials-aktie-12-milliarden-euro-fuer-rueckkaeufe-914049)
-- [Warum Heidelberg Materials an der Börse unter Druck bleibt (ms-aktuell.de)](https://ms-aktuell.de/welt/heidelberg-materials-aktie-juni-2026/)
-- [Press releases – Heidelberg Materials (offiziell)](https://www.heidelbergmaterials.com/en/media/press-releases)
+- [Heidelberg Materials – Pressemitteilungen (offiziell)](https://www.heidelbergmaterials.com/en/media/press-releases)
 - [Robust start to financial year 2026 – Pressemitteilung 06.05.2026](https://www.heidelbergmaterials.com/en/pr-2026-05-06)
-- [Heidelberg Materials sees defence, infrastructure driving construction in 2026, CEO says at Davos (MarketScreener)](https://www.marketscreener.com/news/heidelberg-materials-sees-defence-infrastructure-driving-construction-in-2026-ceo-says-at-davos-ce7e58d2d988f32c)
-- [Heidelberg Materials CEO expects volume growth in 2026 (Investing.com UK)](https://uk.investing.com/news/stock-market-news/heidelberg-materials-ceo-expects-volume-growth-in-2026-93CH-4524014)
-- [Earnings call transcript: Heidelberg Materials Q1 2026 results show resilience (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-heidelberg-materials-q1-2026-results-show-resilience-93CH-4663550)
-- [Earnings call transcript: Heidelberg Materials Q1 2026 – EPS miss, stock stable (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-heidelberg-materials-q1-2026-sees-eps-miss-stock-stable-93CH-4681745)
-- [Heidelberg Materials reports Q1 2026 financial results (globalcement.com)](https://www.globalcement.com/news/20733-heidelberg-materials-reports-financial-results-for-first-quarter-of-2026)
 - [Q1 2026 Quarterly Statement (PDF, offiziell)](https://www.heidelbergmaterials.com/system/files/2026-05/HM_Q1_Quarterly%20Statement%202026.pdf)
-- [Heidelberg Materials North America – Strategic investment in AmeriTex Pipe & Products](https://www.heidelbergmaterials.us/home/news/news/2026/05/19/heidelberg-materials-north-america-announces-strategic-investment-in-ameritex-pipe---products)
-- [Heidelberg Materials expands Australian footprint with Maas Group acquisition (european-coatings.com)](https://www.european-coatings.com/news/markets-companies/heidelberg-materials-expands-australian-footprint-with-maas-group-acquisition/)
-- [Australia acquisition expands footprint – Pressemitteilung 05.02.2026](https://www.heidelbergmaterials.com/en/pr-2026-02-05)
-- [Heidelberg Materials stock: Q1 2026 results and Turkish stake increase (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/heidelberg-materials-stock-de0006047004-q1-2026-results-and-turkish/69291719)
-- [Reports and presentations – Heidelberg Materials](https://www.heidelbergmaterials.com/en/investor-relations/reports-and-presentations)
+- [Heidelberg Materials reports Q1 2026 financial results – Global Cement](https://www.globalcement.com/news/20733-heidelberg-materials-reports-financial-results-for-first-quarter-of-2026)
+- [Heidelberg Materials Q1 2026 slides: weather hits volumes, margins rise – Investing.com](https://www.investing.com/news/company-news/heidelberg-materials-q1-2026-slides-weather-hits-volumes-margins-rise-93CH-4664187)
+- [Earnings call transcript: Q1 2026 EPS miss, stock stable – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-heidelberg-materials-q1-2026-sees-eps-miss-stock-stable-93CH-4681745)
+- [Q1 2026 results and Turkish stake increase in focus – Ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/heidelberg-materials-stock-de0006047004-q1-2026-results-and-turkish/69291719)
+- [Robust start to 2026 with new acquisitions – Ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/heidelberg-materials-stock-de0006047004-robust-start-to-2026-with-new/69297324)
+- [US expansion plans meet chart pressure – Ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/heidelberg-materials-stock-de0006047004-us-expansion-plans-meet-chart/69411300)
+- [Heidelberg Materials North America – Strategic Investment in AmeriTex Pipe & Products – GlobeNewswire (19.05.2026)](https://www.globenewswire.com/news-release/2026/05/19/3297752/0/en/heidelberg-materials-north-america-announces-strategic-investment-in-ameritex-pipe-products.html)
+- [AmeriTex strategic investment – Pulse2](https://pulse2.com/heidelberg-materials-north-america-strategic-investment-in-ameritex-pipe-products/)
+- [CEO Dominik von Achten verspricht deutliches Gewinnwachstum für 2026 – Focus Plus](https://www.focusplus.de/wirtschaft/heidelberg-materials-dominik-von-achten-ceo-dax-konzerns-heidelberg-materials-ceo-verspricht-deutliches-gewinnwachstum-fuer-2026-10792)
+- [Warum Heidelberg Materials an der Börse unter Druck bleibt – MS Aktuell (Juni 2026)](https://ms-aktuell.de/welt/heidelberg-materials-aktie-juni-2026/)
+- [Heidelberg Materials: Kommt jetzt der große Sprung? – Börsennews](https://www.boersennews.de/nachrichten/artikel/boersennews/heidelberg-materials-kommt-jetzt-der-grosse-sprung/5179908/)
+- [Reports and presentations – Heidelberg Materials (offiziell)](https://www.heidelbergmaterials.com/en/investor-relations/reports-and-presentations)
+- [Heidelberg Materials Aktie (boerse.de)](https://www.boerse.de/aktien/Heidelberg-Materials-Aktie/DE0006047004)
