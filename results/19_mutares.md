@@ -1,7 +1,11 @@
 # Mutares (MUX.DE)
-_KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
+_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Aktuelle Meldungen
+
+Keine aktuellen Informationen gefunden.
+
+Die durchgeführten Web-Suchen für den Zeitraum 13.06.2026 – 20.06.2026 lieferten keine indexierten Ergebnisse zu neuen Meldungen von Mutares in dieser Woche. Zur Orientierung sind nachfolgend die zuletzt bekannten Meldungen aus KW24 aufgeführt:
 
 - **10.06.2026 – Monatsanalyse: Starkes Monatsplus im Mai 2026:** Mutares verzeichnete im Mai 2026 ein zweistelliges Kursplus von +13,43 % und steht nun im Fokus der Analysten, die prüfen, ob die Aktie im Juni weiteres Potenzial bietet. Eine Analyse vom 13. Juni 2026 beleuchtet die neuesten Zahlen und die strategische Positionierung.
   _(Quelle: wallstreet-online.de, 10.06.2026)_

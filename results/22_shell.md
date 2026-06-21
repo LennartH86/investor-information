@@ -1,95 +1,104 @@
 # Shell (SHEL.L)
-_KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
+_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Aktuelle Meldungen
 
-**Share Buyback Programme – Rückkäufe und Aussetzung (KW24)**
-Shell führte im Berichtszeitraum zunächst planmäßig tägliche Aktienrückkäufe fort, die als Teil des am 7. Mai 2026 angekündigten 3,0-Milliarden-Dollar-Programms laufen:
+**Share Buyback Programme – Continued Repurchases (KW25)**
+Shell continued its ongoing share buyback programme, originally announced on May 7, 2026, worth $3.0 billion and executed by Goldman Sachs International under preset parameters. During the week of June 13–20, 2026, Shell reported further daily buybacks on the London Stock Exchange (LSE), Chi-X (CXE) and BATS (BXE):
 
-- **08.06.2026:** Rückkauf von 950.000 LSE-Aktien zu einem volumengewichteten Durchschnittspreis von ca. £32,47 je Aktie.
-- **11.06.2026:** Rückkauf von insgesamt 1.986.023 Aktien für die Einziehung (LSE, Chi-X, BATS).
-- **12.06.2026:** Shell gab die **Aussetzung des Rückkaufprogramms vom 12. Juni bis zum 14. Juli 2026** bekannt. Grund: wertpapierrechtliche Anforderungen im Zusammenhang mit der Veröffentlichung des ARC Resources Ltd. Aktionärszirkulars (Quelle: GlobeNewswire, 12.06.2026).
+- On June 11, 2026 Shell repurchased a total of 1,986,023 shares for cancellation across LSE, Chi-X and BATS. The programme had previously been paused from June 12 to July 14, 2026 due to securities law requirements linked to the publication of the ARC Resources Ltd. shareholder circular, but resumed thereafter.
 
-**Registered Exchange Offer – Schuldenmanagement (08.06.2026)**
-Shell Finance US Inc. leitete registrierte Umtauschangebote für Schuldverschreibungen ein, die im Rahmen eines früheren privaten Austauschangebots ausgegeben wurden. Die Annahmefrist endet am 8. Juli 2026 um 17:00 Uhr New Yorker Zeit. Der Schritt dient der Optimierung der Kapitalstruktur im Zuge der ARC-Resources-Akquisition (Quelle: GlobeNewswire, 08.06.2026).
+**Q1 2026 Dividend Payment (June 15, 2026)**
+Shell announced the sterling and euro equivalent payments for the Q1 2026 interim dividend on June 15, 2026. The dividend, originally declared at US$0.3906 per ordinary share on May 7, 2026, was set at €0.3381 and 29.18p per ordinary share based on average market exchange rates from June 10 to June 12, 2026. The dividend was payable on June 29, 2026 to shareholders on the register as of May 22, 2026. This represents a 5% increase over the prior-year quarterly dividend, reflecting management's confidence in the company's cash generation capacity.
+
+**ARC Resources Acquisition Progress**
+The $13.6 billion (equity value) acquisition of Canadian upstream producer ARC Resources continued to advance through regulatory and shareholder approval processes. The ARC shareholder circular was published in mid-June 2026, prompting the temporary suspension of the share buyback programme. The deal is expected to close in Q3 2026 and remains Shell's most significant strategic transaction of the year.
 
 ## Management
 
-**Bloomberg-Interview mit CEO Wael Sawan (13.04.2026)**
-Sawan sprach mit Francine Lacqua über Shells Strategie zur Energiewende und die kulturelle Entwicklung des Konzerns – weg von einem „Allwissenden"- hin zu einem „Alles-Lernenden"-Ansatz. Er verteidigte Shells Rückzug aus dem Bereich erneuerbare Stromerzeugung und die Fokussierung auf LNG als zentrale Brücke zur Dekarbonisierung (Quelle: Bloomberg, 13.04.2026).
+**CEO Wael Sawan – Oil Supply Warning (CNBC, May 7, 2026)**
+Shell CEO Wael Sawan appeared on CNBC's 'Money Movers' following the Q1 2026 results release to discuss both the financial performance and the broader geopolitical context. Sawan made headlines by warning that the oil market faces a structural shortage of close to 1 billion barrels of crude due to the ongoing Iran war and the associated disruption of flows through the Strait of Hormuz. He stated: "We have dug ourselves a hole of close to a billion barrels of crude shortage at the moment," adding that the shortfall deepens every day. Sawan emphasized Shell's resilience through its integrated portfolio and its trading operations, which benefit from volatility.
 
-**CNBC-Interview (07.05.2026)**
-Im Anschluss an die Q1-2026-Ergebnisveröffentlichung erläuterte Sawan in der Sendung „Money Movers" die Quartalszahlen sowie den Einfluss des Nahostkonflikts (Iran-Krieg) auf das globale Ölangebot. Er warnte vor einem strukturellen Versorgungsdefizit von fast 1 Milliarde Barrel und betonte Shells Resilienz dank des integrierten Portfolio- und Trading-Ansatzes (Quelle: CNBC, 07.05.2026).
+**CEO Wael Sawan – Energy Strategy (Bloomberg, April 13, 2026)**
+In an interview with Bloomberg's Francine Lacqua, Sawan outlined Shell's long-term energy strategy and defended the company's decision to scale back from renewable electricity generation in favor of LNG as the primary bridge fuel for the energy transition. He described a cultural shift within Shell from an "all-knowing" to an "all-learning" mindset, highlighting the company's renewed focus on capital discipline and high-margin operations. He reiterated the "More Value, Less Emissions" strategic framework that guides capital allocation priorities through 2030.
 
-**CSIS-Gespräch in Washington (Januar 2026)**
-Sawan besuchte Washington und forderte stabile regulatorische Rahmenbedingungen für langfristige Energieinvestitionen. Er bekräftigte Shells Investitionsbereitschaft in Nigeria – weitere 20 Mrd. USD gemeinsam mit Partnern. Kernbotschaft: „Washington, please, consistency" (Quelle: CSIS).
+**CEO Wael Sawan – Washington Policy Engagement (CSIS, January 2026)**
+At the Center for Strategic and International Studies (CSIS) in Washington, Sawan called on the US government to provide consistent regulatory frameworks for long-term energy infrastructure investment. He also underscored Shell's commitment to investing in Nigeria alongside partners, citing potential outlays of $20 billion. The CSIS appearance reinforced Shell's posture as a politically engaged global energy major seeking stable policy environments across jurisdictions.
 
-**Strategischer Kurs**
-CEO Sawan wiederholt konsistent die „More Value, Less Emissions"-Strategie: disziplinierte Kapitalallokation mit LNG, Tiefsee-Upstream und Chemie als Wachstumssäulen bis 2030. LNG bleibt Shells erklärter Hauptbeitrag zur Energiewende.
+**Executive Committee Changes**
+Shell also announced changes to its Executive Committee in 2026 (press release published on Shell Global), reflecting ongoing leadership adjustments as the company reshapes its business structure around its strategic priorities of LNG, deepwater upstream, and chemicals.
 
 ## Finanzielles
 
-**Q1 2026 Ergebnisse (veröffentlicht am 07.05.2026)**
+**Q1 2026 Results (Published May 7, 2026)**
 
-| Kennzahl | Q1 2026 | Q4 2025 | Veränderung |
+Shell reported strong Q1 2026 earnings, driven by higher commodity prices and improved operational performance across its integrated business.
+
+| Metric | Q1 2026 | Q1 2025 | Change |
 |---|---|---|---|
-| Adjusted Earnings | 6,9 Mrd. USD | 3,3 Mrd. USD | +109 % |
-| Net Income (Aktionäre) | 5,694 Mrd. USD | – | – |
-| Cashflow aus dem Betrieb | >17 Mrd. USD | – | – |
-| Free Cash Flow | 2,9 Mrd. USD | – | – |
-| Brent-Ölpreis (Ø) | 81 USD/bbl | 64 USD/bbl | +27 % |
-| Europ. Gaspreise (Ø) | 13,7 USD/MMBtu | 10,3 USD/MMBtu | +33 % |
-| Gearing | 23,2 % | 20,7 % | +2,5 Pp |
+| Adjusted Earnings | $6.915 billion | $5.577 billion | +24% |
+| Net Income (attributable to shareholders) | $5.694 billion | $4.780 billion | +19% |
+| Cash Flow from Operations (excl. working capital) | $17.2 billion | — | — |
+| Gearing | 23.2% | — | vs. 20.7% end of Q4 2025 |
 
 **Shareholder Returns (Q1 2026)**
-- Aktienrückkäufe: 3,2 Mrd. USD; Bardividenden: 2,1 Mrd. USD; Gesamt: 5,3 Mrd. USD.
-- Dividende Q1 2026: +5 % auf 0,3906 USD je Aktie, zahlbar Juni 2026.
-- Neues Rückkaufprogramm: 3,0 Mrd. USD über ca. drei Monate (Mai–Juli 2026), aktuell bis 14. Juli 2026 ausgesetzt.
+- Total shareholder distributions in Q1 2026 amounted to $5.3 billion: share repurchases of $3.2 billion plus cash dividends paid of $2.1 billion.
+- Q1 2026 dividend declared: $0.3906 per share (+5% year-on-year), payable June 29, 2026.
+- New $3.0 billion buyback programme announced May 7, 2026, expected to complete by Q2 2026 results (July 30, 2026).
 
-**Operative Besonderheiten**
-- Working-Capital-Abfluss von 11,2 Mrd. USD in Q1 2026 infolge extremer Rohstoffpreisvolatilität (höhere Lagerbestände und Forderungen).
-- Produktionsstörungen in Katar (Anfang März 2026) durch geopolitische Spannungen.
-- Capex-Ausblick 2026: 24–26 Mrd. USD (inkl. ~4 Mrd. USD für ARC Resources); 2027–2028 unverändert bei 20–22 Mrd. USD.
-- Nächste Ergebnisveröffentlichung: Q2 2026 am 30. Juli 2026 (Quelle: Shell Global / Investing.com / Grafa / energy-pedia.com).
+**Capital Expenditure Outlook**
+- Full-year 2026 cash capex guidance: $24–$26 billion, including approximately $4 billion for the ARC Resources acquisition.
+- 2027–2028 capex guidance remains unchanged at $20–$22 billion per year.
+
+**Working Capital and Debt**
+Gearing rose to 23.2% at end of Q1 2026 from 20.7% at end of Q4 2025, driven primarily by higher net debt. A $11.2 billion working capital outflow occurred in Q1 2026 due to extreme commodity price volatility, which inflated inventory balances and receivables.
+
+**Next Results Date**
+Shell's Q2 2026 results are scheduled for July 30, 2026.
 
 ## Strategie & Ausblick
 
-**Akquisition: ARC Resources Ltd. (Kerntransaktion 2026)**
-Shell übernimmt den kanadischen Upstream-Produzenten ARC Resources – die bedeutendste strategische Maßnahme des Unternehmens 2026:
+**ARC Resources Acquisition – Strategic Rationale**
+Shell's acquisition of Canadian upstream producer ARC Resources (announced April 27, 2026) is the defining strategic move of 2026. The deal has an enterprise value of approximately $16.4 billion (equity value: $13.6 billion), financed through approximately $3.4 billion in cash and $10.2 billion in Shell shares.
 
-- **Unternehmenswert:** ca. 16,4 Mrd. USD (Eigenkapitalwert: 13,6 Mrd. USD).
-- **Finanzierung:** 3,4 Mrd. USD in bar + 10,2 Mrd. USD in Shell-Aktien.
-- **Assets:** ARC bringt >1,5 Mio. Netto-Acres in der Montney-Formation (British Columbia/Alberta) ein; kombiniert mit Shells ~440.000 Netto-Acres entsteht eine der größten Positionen in diesem nordamerikanischen Gas- und Kondensatfeld.
-- **Reserven:** Hinzufügung von ca. 2 Mrd. Barrel Öläquivalent (Proved + Probable Reserves).
-- **Produktionswachstum:** CAGR steigt von 1 % auf 4 % (Basisjahr 2025); Flüssigproduktionsziel von ~1,4 Mio. bbl/Tag bis 2030 und darüber hinaus gesichert.
-- **Synergien:** ~250 Mio. USD jährlich innerhalb eines Jahres nach Closing.
-- **Status KW24:** ARC-Aktionärszirkulär veröffentlicht → Rückkaufprogramm ausgesetzt bis 14.07.2026; Closing erwartet Q3 2026.
+Key strategic benefits:
+- Adds approximately 370,000 barrels of oil equivalent per day (kboe/d) to Shell's production.
+- Accelerates Shell's production CAGR from 1% to 4% through 2030 (base year 2025).
+- Adds approximately 2 billion barrels of oil equivalent in proved and probable reserves.
+- Provides over 1.5 million net acres in the Montney Formation (British Columbia/Alberta), creating one of the largest positions in this prolific North American gas and condensate play.
+- Strengthens Shell's feedstock supply to LNG Canada, the export terminal Shell operates with a 40% stake, which will be well-positioned to supply Asian buyers via Pacific Coast routes faster and with fewer chokepoint risks than US Gulf Coast LNG.
+- Expected annual synergies of approximately $250 million within one year of closing.
 
-**Registered Exchange Offer – Kapitalstrukturoptimierung**
-Shell Finance US Inc. bietet eine registrierte Umtauschanleihe für mehrere langfristige Schuldtitel an (Frist: 08.07.2026), um die Finanzierungsstruktur für die ARC-Akquisition zu optimieren (Quelle: GlobeNewswire / SEC EDGAR).
+Closing is expected in Q3 2026, pending ARC shareholder approval and regulatory clearances.
 
-**Portfolio-Strategie**
-Shell setzt den selektiven Rückzug aus erneuerbaren Energie- und Retail-Assets fort (u. a. indische Plattform Sprng Energy, französisches Tankstellennetz), um den Fokus auf margenstarke Upstream- und LNG-Operationen zu schärfen. Gleichzeitig prüft Shell einen Teilverkauf seiner Beteiligung an LNG Canada an institutionelle Anleger.
+**LNG as Core Strategic Pillar**
+Shell continues to position LNG as its primary vehicle for both growth and its contribution to the energy transition. The ARC acquisition reinforces this thesis by securing long-term gas supply for LNG Canada. Canadian LNG is increasingly attractive given its Pacific routing to Asian markets, which avoids the Strait of Hormuz (currently disrupted by the Iran war) and the Panama Canal. Shell operates the world's largest LNG portfolio and aims to leverage this competitive advantage through 2030 and beyond.
 
-**Geopolitisches Risiko**
-Die Blockade der Straße von Hormus bleibt das wichtigste Nahe-Horizont-Risiko. CEO Sawan warnt, dass das strukturelle Versorgungsdefizit bis 2027 anhalten könnte.
+**Geopolitical Context – Iran War and Oil Supply**
+The closure of the Strait of Hormuz by Iran has created acute disruption to global oil and LNG flows. CEO Sawan warned that the resulting structural crude shortage of approximately 1 billion barrels could persist and deepen. This geopolitical environment strengthens the investment case for Shell's Canadian and other non-Gulf supply sources and its integrated trading capabilities.
 
-**HV 2026 / Klimaaktivismus**
-Auf der Hauptversammlung am 19. Mai 2026 wurde die aktivistische Resolution 23 zu Klimaverpflichtungen mit 86,99 % der Stimmen abgelehnt – ein klares Votum institutioneller Aktionäre für Managements aktuellen Kurs.
+**Capital Discipline and Portfolio Reshaping**
+Shell continues its selective exit from renewable electricity and retail assets (including the Indian renewables platform Sprng Energy and its French fuel retail network) to concentrate capital on high-margin upstream and LNG operations. The company is also reported to be evaluating a partial sale of its LNG Canada stake to institutional investors to recycle capital.
+
+**Shareholder Climate Vote**
+At Shell's Annual General Meeting on May 19, 2026, an activist resolution (Resolution 23) calling for stricter climate commitments was rejected by 86.99% of shareholders, providing a strong institutional mandate for management's current strategic direction.
 
 ## Quellen
 
-- [Shell plc buys back 950k LSE shares on 8 June 2026 – StockTitan](https://www.stocktitan.net/news/SHEL/transaction-in-own-q0izfdwi6itf.html)
 - [Shell plc buys back shares on 11 June 2026 – StockTitan](https://www.stocktitan.net/news/SHEL/transaction-in-own-dajuk8uqrsxa.html)
-- [Shell announces pause in share buyback programme – GlobeNewswire, 12.06.2026](https://www.globenewswire.com/news-release/2026/06/12/3311049/0/en/Shell-announces-pause-in-share-buyback-programme.html)
-- [Shell plc Commences Registered Exchange Offers – GlobeNewswire, 08.06.2026](https://www.globenewswire.com/news-release/2026/06/08/3308243/0/en/Shell-plc-Commences-Registered-Exchange-Offers-for-Notes-Issued-in-Connection-with-Prior-Private-Exchange-Offer-by-Shell-Finance-US-Inc.html)
+- [Shell plc First Quarter 2026 Euro and GBP Equivalent Dividend Payments – Shell Global](https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-plc-first-quarter-2026-euro-and-gbp-equivalent-dividend-payments.html)
+- [Shell plc First Quarter 2026 Euro and GBP Equivalent Dividend Payments – London Stock Exchange](https://www.londonstockexchange.com/news-article/SHEL/shell-plc-first-quarter-2026-euro-and-gbp-equivalent-dividend-payments/17638485)
+- [Shell plc First Quarter 2026 Interim Dividend – The Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/GlobeNewswire/1761712/shell-plc-first-quarter-2026-interim-dividend/)
 - [Shell plc publishes first quarter 2026 press release – Yahoo Finance](https://finance.yahoo.com/sectors/energy/articles/shell-plc-publishes-first-quarter-060100462.html)
-- [Watch Shell CEO Wael Sawan on Oil, Renewables and the Future of Energy – Bloomberg, 13.04.2026](https://www.bloomberg.com/news/videos/2026-04-13/shell-ceo-wael-sawan-on-oil-renewables-and-the-future-of-energy-mnwq4v8f)
+- [Shell plc publishes first quarter 2026 press release – GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/07/3289611/0/en/shell-plc-publishes-first-quarter-2026-press-release.html)
+- [Shell plc announces changes to the Executive Committee – Shell Global](https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-plc-announces-changes-to-the-executive-committee.html)
 - [Watch CNBC's full interview with Shell CEO Wael Sawan – CNBC, 07.05.2026](https://www.cnbc.com/video/2026/05/07/watch-cnbcs-full-interview-with-shell-ceo-wael-sawan.html)
+- [Shell CEO says oil market is short nearly 1 billion barrels due to Iran war – CNBC](https://www.cnbc.com/2026/05/07/shell-ceo-iran-war-oil-lost-shortage.html)
+- [Watch Shell CEO Wael Sawan on Oil, Renewables and the Future of Energy – Bloomberg, 13.04.2026](https://www.bloomberg.com/news/videos/2026-04-13/shell-ceo-wael-sawan-on-oil-renewables-and-the-future-of-energy-mnwq4v8f)
 - [Energy Leadership Conversation with Wael Sawan – CSIS](https://www.csis.org/analysis/conversation-wael-sawan-ceo-shell)
-- [Shell Q1 2026 slides: earnings double amid commodity recovery – Investing.com](https://www.investing.com/news/company-news/shell-q1-2026-slides-earnings-double-amid-commodity-recovery-93CH-4669887)
-- [Shell announces first quarter 2026 results – energy-pedia.com](https://www.energy-pedia.com/news/general/shell-announces-first-quarter-2026-results-203840)
-- [Shell Q1 2026 results: $6.9B earnings & ARC acquisition – Grafa](https://grafa.com/en/news/united-states/shell-q1-2026-earnings-buyback-arc-resources-acquisition)
-- [Q1 2026 Quarterly Press Release (PDF) – Shell Global](https://www.shell.com/investors/results-and-reporting/quarterly-results/_jcr_content/root/main/section/simple_copy/promo_1962010312_cop/links/item0.stream/1778115268202/e177be427a9e32c1ade2cd6530cf0fdffce50c4f/q1-2026-quarterly-press-release.pdf)
-- [Shell plc – Form 6-K (June 2026) – SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001306965/000117184326003828/f6k_060126.htm)
-- [Shell Quarterly Results Page – Shell Global](https://www.shell.com/investors/results-and-reporting/quarterly-results.html)
+- [Shell plc – Form 6-K Q1 2026 – SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001306965/000162828026031628/quarterlyexhibit992-q12026.htm)
+- [Shell is Acquiring a Canadian Energy Company for Nearly $14 Billion – The Motley Fool](https://www.fool.com/investing/2026/04/27/shell-is-acquiring-a-canadian-energy-company-for-n/)
+- [Shell Bets $16.4 Billion On Canadian Gas In Major LNG Growth Push – OilPrice.com](https://oilprice.com/Latest-Energy-News/World-News/Shell-Bets-164-Billion-On-Canadian-Gas-In-Major-LNG-Growth-Push.html)
+- [ANALYSIS: How Shell's $22B deal could spur more investment in Canada's oilpatch – CBC News](https://www.cbc.ca/news/canada/calgary/bakx-shell-arc-resources-montney-alberta-9.7179152)
+- [Shell first quarter 2026 update note (PDF) – Shell Global](https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2026/shell-first-quarter-2026-update-note/_jcr_content/root/main/section/simple_copy/call_to_action/links/item0.stream/1775623791412/2a30cca0aa0f8f916114f4143d59be3ecedaadfb/q1-2026-quarterly-update-note.pdf)
+- [News and media releases – Shell Global](https://www.shell.com/news-and-insights/newsroom/news-and-media-releases.html)
