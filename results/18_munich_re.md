@@ -1,22 +1,25 @@
 # Munich Re (MUV2.DE)
-_KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
+_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Aktuelle Meldungen
 
-- **RiskScan 2026 (veröffentlicht 08.06.2026):** Munich Re US und das Insurance Information Institute haben die RiskScan 2026-Studie veröffentlicht – eine umfassende branchenübergreifende Studie zu Risikowahrnehmungen in den USA und UK. Kernergebnisse: 55 % der Marktteilnehmer nennen Cyberangriffe als Top-Risiko, 42 % Naturkatastrophen (mit Anstieg auf 52 % in der Vorausschau). Weitere abgedeckte Themen: wirtschaftliche Volatilität, Künstliche Intelligenz, Betriebsunterbrechung und Haftungsrisiken.
-- **Aktienrückkauf (Share Buyback):** Im Zeitraum 02.–09. Juni 2026 erwarb Munich Re weitere 92.562 eigene Aktien über Xetra. Seit Mitte Mai wurden damit kumuliert rund 856.106 Aktien zurückgekauft – ein dreistelliger Millionen-Euro-Betrag bei einem Schlusskurs von ca. €460 je Aktie. Das Rückkaufprogramm läuft bis April 2027 (Gesamtvolumen: bis zu €2,25 Mrd.).
-- **Juni-Erneuerungsrunde (June Renewals):** Bei den Juni-Erneuerungen in der Property-Catastrophe-Rückversicherung (v. a. US-Naturkatastrophengeschäft) sanken die Preise um 15–20 %. Dies signalisiert eine erste merkliche Abkühlung nach mehreren Hartmarkjahren.
-- **Führungswechsel APAC/Afrika/Greater China (ab 01.07.2026):** Johanna Roman übernimmt die Leitung der Regionen Australasien, Greater China und Afrika. Marco Petrovic verantwortet ab August 2026 die verbleibenden asiatischen Märkte und zieht nach Singapur um.
-- **Claims-Führungswechsel (01.06.2026):** Mehrere neue Führungskräfte im Bereich Claims (Schadenmanagement) haben zum 1. Juni 2026 ihre Positionen angetreten.
-- **Jahresprognose bestätigt:** Munich Re hält an seinem Nettogewninnziel von **€6,3 Mrd.** für das Gesamtjahr 2026 fest.
+- **Aktienrückkauf (Share Buyback):** Munich Re setzt das laufende Rückkaufprogramm kontinuierlich fort. Im Zeitraum bis zur KW25 wurden seit Mitte Mai 2026 kumuliert rund 856.106 eigene Aktien über Xetra zurückgekauft (Schlusskurs ca. €460 je Aktie). Das Programm hat ein Gesamtvolumen von bis zu **€2,25 Mrd.** und läuft bis April 2027.
+- **Juni-Erneuerungsrunde (June Renewals):** Bei den June Renewals in der Property-Catastrophe-Rückversicherung – vor allem US-Naturkatastrophengeschäft – sanken die Preise um **15–20 %**. Dies stellt die erste deutlichere Abkühlung nach mehreren Hartmarkjahren dar. Munich Re setzt auf diszipliniertes Underwriting und zieht Volumen bei nicht adäquaten Konditionen zurück.
+- **Führungswechsel APAC/Afrika/Greater China (ab 01.07.2026):** **Johanna Roman** übernimmt ab 1. Juli 2026 die Leitung der Regionen Australasien, Greater China und Afrika. **Marco Petrovic** verantwortet ab August 2026 die verbleibenden asiatischen Märkte und zieht nach Singapur.
+- **Jahresprognose 2026 bestätigt:** Munich Re hält an seinem IFRS-Nettogewinnziel von **€6,3 Mrd.** für das Gesamtjahr 2026 fest.
+- **RiskScan 2026:** Munich Re US und das Insurance Information Institute veröffentlichten Anfang Juni 2026 die RiskScan 2026-Studie. Kernergebnis: 55 % der Marktteilnehmer nennen Cyberangriffe als Top-Risiko, 42 % Naturkatastrophen. Weitere Themen: wirtschaftliche Volatilität, KI, Betriebsunterbrechung und Haftungsrisiken.
+
+_Hinweis: Die für KW25 (13.–20.06.2026) durchgeführten Web-Suchen (5 Suchanfragen zu Munich Re News, Pressemitteilungen, CEO-Interview, Quartalsergebnisse und Akquisitionen) lieferten keine neuen indizierten Meldungen aus diesem spezifischen Zeitraum. Die obigen Punkte basieren auf dem zuletzt verfügbaren Stand bis KW24._
 
 ## Management
 
-- **CEO Christoph Jurecka** (Vorsitzender des Vorstands seit 01.01.2026): Jurecka führt Munich Re seit Jahresbeginn 2026. Als früherer CFO überzeugte er Investoren; nun muss er sich im sich verändernden Marktumfeld (erste Preiserosion im P&C-Markt) beweisen. Die neue Konzernstrategie **Ambition 2030** steht unter seiner Führung.
-- **Joachim Wenning (Ex-CEO, bis 31.12.2025):** Wenning schied nach fast neun Jahren aus dem Vorstand aus und steigerte in seiner Amtszeit das Jahresergebnis auf über €6 Mrd. Aufsichtsratschef Nikolaus von Bomhard sprach sich im April 2026 öffentlich dafür aus, Wenning als seinen Nachfolger im Aufsichtsratsvorsitz zu nominieren – obwohl von Bomhards eigenes Mandat noch zwei Jahre läuft.
+- **CEO Christoph Jurecka** (Vorsitzender des Vorstands seit 01.01.2026): Jurecka führt Munich Re seit Jahresbeginn 2026. Als früherer CFO ist er bei Investoren für finanzielle Disziplin bekannt. Im aktuellen Marktumfeld – erste Preiserosion im P&C-Rückversicherungsmarkt – muss er die Balance zwischen Wachstum und Profitabilität beweisen. Die Konzernstrategie **Ambition 2030** steht unter seiner Führung.
+- **Joachim Wenning (Ex-CEO, bis 31.12.2025):** Wenning schied nach fast neun Jahren aus dem Vorstand aus und steigerte in seiner Amtszeit das Jahresergebnis auf über €6 Mrd. Aufsichtsratschef Nikolaus von Bomhard sprach sich im April 2026 öffentlich dafür aus, Wenning als seinen Nachfolger im Aufsichtsratsvorsitz zu nominieren.
 - **Johanna Roman:** Ab 01.07.2026 Leiterin Australasien, Greater China und Afrika (Rückversicherung Life & Health / P&C).
 - **Marco Petrovic:** Ab August 2026 Leiter der verbleibenden asiatischen Märkte, Standort Singapur.
 - **Kevin Rethual:** CEO Munich Re Retakaful seit 01.06.2026.
+
+_Keine neuen CEO-Interviews oder Managementmeldungen für KW25 (13.–20.06.2026) gefunden._
 
 ## Finanzielles
 
@@ -31,7 +34,7 @@ _KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
 | Eigenkapital (Group Equity) | 34.616 Mio. € | – | – |
 | Return on Equity (annualisiert) | 19,7 % | 13,3 % | +6,4 Pp. |
 
-**Treiber:** Historisch niedrige Großschadenbelastung (€108 Mio. vs. >€1.000 Mio. im Q1 2025, das durch die LA-Waldbrände belastet wurde) sowie solide operative Performance in allen Segmenten.
+**Treiber:** Historisch niedrige Großschadenbelastung (€108 Mio. vs. >€1.000 Mio. in Q1 2025, das durch die LA-Waldbrände belastet wurde) sowie solide operative Performance in allen Segmenten.
 
 **Jahresprognose 2026 (nach Q1 bekräftigt und teilweise angehoben):**
 - IFRS-Nettogewinn: **€6,3 Mrd.**
@@ -47,17 +50,21 @@ _KW24 / 2026 | Zeitraum: 08.06.2026 – 14.06.2026_
 **Nächster Berichtstermin:**
 - Halbjahresfinanzbericht (Half-Year Financial Report, Stand 30. Juni 2026): **7. August 2026**
 
+_Keine neuen Quartalszahlen für KW25 (13.–20.06.2026) verfügbar. Nächste Veröffentlichung: H1-Bericht am 07.08.2026._
+
 ## Strategie & Ausblick
 
 - **Ambition 2030:** Das neue Strategieprogramm (Nachfolger von Ambition 2025, vorgestellt Dezember 2025, bekräftigt auf HV April 2026) setzt Kernziele bis Ende 2030: Return on Equity >18 %, EPS-Wachstum >8 % p. a., Gesamtausschüttungsquote >80 % p. a.
-- **Preisdisziplin & Cycle Management:** Munich Re beobachtet bei den Juni-Erneuerungen einen Preisrückgang von 15–20 % in der Property-Cat-Rückversicherung und setzt weiterhin auf diszipliniertes Underwriting: Volumenrückzug bei nicht adäquaten Preisen oder Konditionen.
-- **Investitionen & Akquisitionen:** Munich Re hat laut Tracxn insgesamt 63 Investments getätigt (zuletzt Series-C-Runde in Litmus, Nov. 2025) und 7 Übernahmen abgeschlossen (zuletzt apinity, Clareto, Zeguro). Für 2026 wurden bislang keine neuen Akquisitionen abgeschlossen. Schwerpunktbereiche bleiben InsurTech, Cybersecurity und spezialisierte Versicherungsmärkte. Referenzakquisition: **NEXT Insurance** (März 2025, ca. $2,6 Mrd.).
-- **IFRS-Gewinziel 2026:** Munich Re peilt einen IFRS-Nettogewinn von **$7,33 Mrd.** (ca. €6,7 Mrd.) an – ein ambitionierteres internes Ziel neben der offiziell kommunizierten Guidance von €6,3 Mrd.
-- **Cyber als Wachstumsfeld:** Der RiskScan 2026 unterstreicht Cyber als das meistgenannte Top-Risiko. Munich Re positioniert sich als führender Anbieter von Cyber-Rückversicherung und will diese Wachstumschance nutzen.
+- **Preisdisziplin & Cycle Management:** Bei den Juni-Erneuerungen zeigt sich ein Preisrückgang von 15–20 % in der Property-Cat-Rückversicherung. Munich Re setzt auf diszipliniertes Underwriting: Volumenrückzug bei nicht adäquaten Preisen oder Konditionen.
+- **Investitionen & Akquisitionen:** Munich Re hat laut Tracxn insgesamt 63 Investments getätigt (zuletzt Series-C-Runde in Litmus, Nov. 2025) und 7 Übernahmen abgeschlossen (zuletzt apinity, Clareto, Zeguro). Für 2026 wurden bislang keine neuen Akquisitionen bekannt gegeben. Schwerpunktbereiche bleiben InsurTech, Cybersecurity und spezialisierte Versicherungsmärkte. Größte Referenzakquisition: **NEXT Insurance** (März 2025, ca. $2,6 Mrd.).
+- **IFRS-Gewinnziel 2026:** Munich Re peilt intern einen IFRS-Nettogewinn von **$7,33 Mrd.** (ca. €6,7 Mrd.) an – ein ambitionierteres internes Ziel neben der offiziell kommunizierten Guidance von €6,3 Mrd.
+- **Cyber als Wachstumsfeld:** Der RiskScan 2026 unterstreicht Cyber als das meistgenannte Top-Risiko. Munich Re positioniert sich als führender Anbieter von Cyber-Rückversicherung.
 - **ERGO-Transformation:** Weiterhin laufend: ~1.000 Stellenabbau bis 2030 (ca. 200 p. a.), parallel Umschulung auf KI-gestützte Prozesse.
 - **Kapitalstärke & Retrozessionsstrategie:** Die Solvency-II-Quote von 292 % erlaubt Munich Re, auf teure externe Retrozession zu verzichten; Reduktion der Retrozessionsdeckung von $1,55 Mrd. auf $600 Mio. (–über 60 %); Auflösung der Sidecars Eden Re und Leo Re.
 
 ## Quellen
+
+_Hinweis: Die 5 Web-Suchen für KW25 (13.–20.06.2026) – zu den Themen News, Pressemitteilungen, CEO-Interview, Quartalsergebnisse und Akquisitionen – lieferten keine neu indizierten Ergebnisse aus dem gesuchten Zeitraum. Die nachfolgenden Quellen stammen aus dem bis KW24 verfügbaren Recherchematerial._
 
 - [Munich Re RiskScan 2026 Survey – MarketScreener](https://www.marketscreener.com/news/munich-re-riskscan-2026-survey-ce7f5dd3d889fe24)
 - [Munich Re's RiskScan 2026 Puts Cyber in the Crosshairs – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/munich-re-s-riskscan-2026-puts-cyber-in-the-crosshairs-as-shares-trade/69516281)
