@@ -1,5 +1,5 @@
 # Deutsche Post / DHL Group (DHL.DE)
-_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
+_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
 
 ## Aktuelle Meldungen
 
@@ -22,6 +22,12 @@ _KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 - **Investitionen in Frankreich (04.06.2026):** DHL Group investiert 2026–2027 rund 160 Mio. EUR in Frankreich zur Stärkung der Logistikinfrastruktur und der Energiewende. Kumulierte DHL-Investitionen in Frankreich 2018–2027: knapp 900 Mio. EUR. / DHL Group to invest approximately EUR 160 million in France (2026–2027); total 10-year investment in France nearly EUR 900 million.
   - Quelle: [Pressemitteilung DHL Group Frankreich (04.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-to-invest-around-eur160-million-in-2026-2027-to-strengthen-logistics-infrastructure-and-support-clean-energy-transition-in-france.html)
+
+- **Life Sciences Campus Frankreich – KW26 (25.06.2026):** DHL Supply Chain France erwirbt ein 7,0 Hektar großes Grundstück in Escrennes (südlich von Paris) zur Entwicklung eines neuen Multi-User Life Sciences & Healthcare Campus mit geplanter Fläche von 32.000 m² für temperaturgeführte Pharmadistribution (Kühlung/Cold-Chain). / DHL Supply Chain France acquires a 7.0-hectare site in Escrennes (south of Paris) to develop a multi-user Life Sciences & Healthcare campus with a planned 32,000 sqm facility for temperature-controlled pharmaceutical distribution.
+  - Quelle: [DHL Supply Chain France – Life Sciences Campus Escrennes (25.06.2026)](https://www.dhl.com/fr-en/home/press/press-archive/2026/dhl-supply-chain-france-strengthens-its-life-sciences-and-healthcare-footprint-with-a-new-logistics-campus-project-in-escrennes.html)
+
+- **E-Commerce Trends Report 2026 (02.06.2026):** DHL veröffentlicht seinen globalen E-Commerce Trends Report 2026 – basierend auf einer Umfrage unter 29.000 Online-Käufern und 5.800 E-Commerce-Unternehmen in 29 Ländern. Kernerkenntnisse: KI könnte künftig Kaufentscheidungen beeinflussen, Nachhaltigkeit ist von „nice-to-have" zu „non-negotiable" geworden, Second-Hand-Shopping wird zum Mainstream. / DHL E-Commerce Trends Report 2026: AI set to influence purchasing decisions; sustainability now non-negotiable; second-hand shopping going mainstream. Survey of 29,000 online shoppers and 5,800 businesses in 29 countries.
+  - Quelle: [DHL E-Commerce Trends Report 2026 (02.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-ecommerce-trends-report-2026-old-rules-do-not-apply-in-the-age-of-ai.html)
 
 ## Management
 
@@ -101,3 +107,10 @@ _KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 - [DHL Group Reporting Hub Q1 2026](https://reporting-hub.group.dhl.com/2026-q1/en/business-performance/)
 - [FreightWaves – DHL distances itself from Deutsche Post name](https://www.freightwaves.com/news/dhl-distances-itself-from-historic-deutsche-post-name)
 - [Ad-hoc-News – JPMorgan Kursziel 60 EUR](https://www.ad-hoc-news.de/boerse/news/ueberblick/dhl-group-deutsche-post-aktie-de0005552004-jpmorgan-hebt-kursziel-auf/69559906)
+- [DHL Supply Chain France – Life Sciences Campus Escrennes (25.06.2026)](https://www.dhl.com/fr-en/home/press/press-archive/2026/dhl-supply-chain-france-strengthens-its-life-sciences-and-healthcare-footprint-with-a-new-logistics-campus-project-in-escrennes.html)
+- [DHL E-Commerce Trends Report 2026 (02.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-ecommerce-trends-report-2026-old-rules-do-not-apply-in-the-age-of-ai.html)
+- [IndexBox – DHL Q1 2026 Results Analysis](https://www.indexbox.io/blog/dhl-group-q1-2026-operating-profit-rises-83-despite-revenue-dip-and-middle-east-conflict/)
+- [RTTNews – DHL Group Q1 Profit Rises, Revenues Down](https://www.rttnews.com/3645137/dhl-group-q1-profit-rises-revenues-down-backs-fy26-ebit-outlook.aspx?type=ern)
+- [Air Cargo News – DHL signs up CEO Meyer for another five years (März 2026)](https://www.aircargonews.net/people/2026/03/dhl-signs-up-ceo-meyer-for-another-five-years/)
+- [Singapore EDB – DHL CEO Tobias Meyer on Singapore as a regional hub](https://www.edb.gov.sg/en/business-insights/insights/nobody-knows-asia-like-we-do-dhl-group-ceo-on-singapore-as-a-regional-hub-for-connectivity-and-innovation.html)
+- [Tracxn – DHL Group Acquisitions 2026](https://tracxn.com/d/acquisitions/acquisitions-by-dhl/__rNywbpUyoJIoo1r4mDHWcVjDyHrUUyuRRSVR2-PNPl4)

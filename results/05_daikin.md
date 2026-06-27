@@ -1,5 +1,5 @@
 # Daikin (6367.T)
-_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
+_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
 
 ## Aktuelle Meldungen
 
