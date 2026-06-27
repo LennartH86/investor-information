@@ -1,11 +1,12 @@
 # BASF (BAS.DE)
-_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
+_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
 
 ## Aktuelle Meldungen
 
+- **BASF Coatings Executive Committee benannt (25.06.2026):** BASF Coatings hat sein Führungsteam für die neue Eigenständigkeit als unabhängiges Unternehmen ab 1. Juli 2026 offiziell bekanntgegeben. Jens Luehring übernimmt als CEO, Michael Pontzen als CFO. Die Coatings-Sparte wird zu 60 % von Carlyle und der Qatar Investment Authority gehalten; BASF behält 40 % der Anteile. ([basf.com – Pressemitteilung 25.06.2026](https://www.basf.com/global/en/media/news-releases/2026/06/p-26-119))
 - **Aktienrückkaufprogramm abgeschlossen:** Das im November 2025 gestartete Rückkaufprogramm im Volumen von 1,5 Mrd. Euro endete Ende Juni 2026; rund 31 Millionen Aktien wurden eingezogen. Dies ist Teil des übergeordneten 4-Mrd.-Euro-Plans bis Ende 2028. ([aktiencheck.de](https://www.aktiencheck.de/news/Artikel-BASF_startet_Aktienrueckkaeufe_frueher_Volumen_1_5_Milliarden_Euro_bis_Juni_2026-19151057)) ([boerse-global.de](https://www.boerse-global.de/basf-31-millionen-aktien-eingezogen/799073))
 - **Neues Produkt – Oppanol® N PLUS:** BASF präsentierte auf der Battery Show Europe (9.–11. Juni 2026, Stuttgart, Halle 5, Stand A20) ein neues Hochleistungs-Bindemittel für die nächste Generation von Elektrofahrzeugbatterien. ([basf.com](https://www.basf.com/global/de/media/news-releases))
-- **Personalwechsel BASF Coatings:** Steve Arndt übernimmt zum 1. Juli 2026 von Chris Titmarsh die Position des Senior Vice President, Global Automotive Refinish Coatings; Arndt bringt über 30 Jahre Branchenerfahrung in Nordamerika und Europa mit. ([presseportal.de](https://www.presseportal.de/nr/16344))
+- **Personalwechsel BASF Coatings – Refinish:** Steve Arndt übernimmt zum 1. Juli 2026 von Chris Titmarsh die Position des Senior Vice President, Global Automotive Refinish Coatings; Arndt bringt über 30 Jahre Branchenerfahrung in Nordamerika und Europa mit. ([presseportal.de](https://www.presseportal.de/nr/16344))
 - **Führungswechsel Greater China:** Haryono Lim übernimmt ab 1. Juli 2026 als President und Chairman die Verantwortung für BASF Greater China in Shanghai. ([presseportal.de](https://www.presseportal.de/nr/16344))
 - **Sustainability Award:** BASF Coatings erhielt den Sustainability Award in Automotive 2026 für das Overspray-Free-Application-Verfahren (OFLA). ([presseportal.de](https://www.presseportal.de/nr/16344))
 - **Berliner Debatte:** Berlins Regierende Bürgermeisterin äußerte sich öffentlich zu Verlagerungsabsichten von BASF. ([berlin.de](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1642544.php))
@@ -49,6 +50,7 @@ _KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
 
 ## Quellen
 
+- [basf.com – BASF Coatings Executive Committee benannt (25.06.2026)](https://www.basf.com/global/en/media/news-releases/2026/06/p-26-119)
 - [aktiencheck.de – BASF startet Aktienrückkäufe früher](https://www.aktiencheck.de/news/Artikel-BASF_startet_Aktienrueckkaeufe_frueher_Volumen_1_5_Milliarden_Euro_bis_Juni_2026-19151057)
 - [boerse-express.com – 1,5-Mrd.-Rückkauf endet Juni 2026](https://www.boerse-express.com/news/articles/basf-aktie-15-milliarden-rueckkauf-endet-juni-2026-916522)
 - [boerse-express.com – 12 Mrd. Euro an Aktionäre bis 2028](https://www.boerse-express.com/news/articles/basf-aktie-12-milliarden-an-aktionaere-bis-2028-919250)
