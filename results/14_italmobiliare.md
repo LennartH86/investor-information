@@ -1,128 +1,138 @@
 # Italmobiliare (ITM.MI)
-_KW25 / 2026 | Zeitraum: 13.06.2026 – 20.06.2026_
+_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
 
 ## Aktuelle Meldungen
 
-**Keine neuen Pressemitteilungen spezifisch für KW25 (13.–20.06.2026) nachweisbar.**
+**Kein neuer Hauptkatalysator spezifisch für KW26 (20.–27.06.2026) nachweisbar.**
 
-Weder die offizielle Website (italmobiliare.it) noch öffentlich zugängliche Nachrichtenquellen haben im Recherchezeitraum KW25 neue Einzelmeldungen gezeigt. Die zuletzt verifizierten Ereignisse stammen aus dem Zeitraum März–Mai 2026:
+Im Recherchezeitraum KW26 wurden keine wesentlichen neuen Pressemitteilungen oder Ad-hoc-Meldungen von Italmobiliare veröffentlicht. Das Unternehmen befindet sich in der stillen Phase vor der Halbjahreszahlen-Veröffentlichung (29. Juli 2026). Die einzige laufende Kommunikation betrifft die wöchentlichen Aktualisierungen zum Aktienrückkaufprogramm.
 
-**Aktienrückkaufprogramm – laufende Updates (März–Juni 2026):**
-Im Rahmen des am 16. März 2026 gestarteten Rückkaufprogramms (max. 300.000 Aktien, max. Volumen 10 Mio. EUR) wurden kontinuierlich eigene Aktien am Euronext STAR Milan erworben. Beispieltransaktion: 23. März 2026 – 18.600 Aktien zu einem Durchschnittspreis von 25,2261 EUR/Aktie. Das Programm läuft voraussichtlich bis zur Erreichung der Obergrenzen oder bis Ende 2026 weiter; wöchentliche Aktualisierungen werden auf der Unternehmenswebsite veröffentlicht.
+**Aktienrückkaufprogramm – laufende Aktualisierungen (März–Juni 2026):**
+Das am 16. März 2026 gestartete Rückkaufprogramm (max. 300.000 Aktien, max. Volumen 10 Mio. EUR) wird fortgeführt. Wöchentliche Transaktionsmeldungen werden auf der Unternehmenswebsite publiziert. Zuletzt nachweisbar: Im April 2026 wurden 9.000 Aktien (07.–10. April 2026) zu einem Durchschnittspreis von 28,4970 EUR/Aktie erworben (Gesamtvolumen: 256.473 EUR); nach dieser Transaktion hielt Italmobiliare 472.321 eigene Aktien (1,111 % des Grundkapitals). Das Programm dient dem Aufbau einer Eigenaktienreserve für außerordentliche Transaktionen (Beteiligungstausch, Akquisitionsfinanzierung).
 
-_Nel periodo KW25 (13–20 giugno 2026) non sono stati rilevati nuovi comunicati stampa specifici. Il programma di acquisto di azioni proprie avviato il 16 marzo 2026 (max. 300.000 azioni, max. 10 mln EUR) continua con aggiornamenti settimanali pubblicati sul sito ufficiale._
+_Nel periodo KW26 (20–27 giugno 2026) non sono stati rilevati nuovi comunicati stampa significativi. Il programma di acquisto di azioni proprie avviato il 16 marzo 2026 (max. 300.000 azioni, max. 10 mln EUR) prosegue con aggiornamenti settimanali. Ad aprile 2026 sono state acquistate 9.000 azioni al prezzo medio di 28,4970 EUR/azione, portando il totale delle azioni proprie a 472.321 (1,111% del capitale)._
 
-_(Quelle / Fonte: italmobiliare.it – Comunicati Stampa; Finanzkalender 2026)_
+**Strategisch relevante Meldung (Mai/Juni 2026):**
+BeBeez berichtete, dass Italmobiliare **Tecnica Group, Iseo und Capitelli** als nächste Exit-Kandidaten identifiziert hat. Diese Beteiligungen gelten als reif für eine Desinvestition, während das Unternehmen seinen Wachstumsfokus auf **Caffè Borbone**, **CDS–Casa della Salute** und **Officina Profumo-Farmaceutica di Santa Maria Novella** konzentriert. Kepler-Cheuvreux-Analysten wiesen darauf hin, dass ein Exit bei Tecnica angesichts anhaltender Profitabilitätssanierung möglicherweise weiterhin verzögert sein könnte.
+
+_Secondo BeBeez, Tecnica Group, Iseo e Capitelli sono i prossimi candidati all'exit per Italmobiliare. La società si concentrerà sulla crescita di Caffè Borbone, CDS–Casa della Salute e Santa Maria Novella. Analisti di Kepler Cheuvreux segnalano che l'exit di Tecnica potrebbe essere posticipata a causa della razionalizzazione operativa in corso._
 
 **Ausblick – Nächste geplante Veröffentlichung:**
 Die Halbjahreszahlen zum 30. Juni 2026 sind für den **29. Juli 2026** angekündigt. Dies ist der nächste maßgebliche Datenpunkt für Investoren.
 
+_(Quelle / Fonte: italmobiliare.it – Comunicati Stampa; BeBeez.it; Yahoo Finance)_
+
 ---
-
-**Hintergrundinformation – Relevante Ereignisse der vorangegangenen Wochen:**
-
-**Governance-Wechsel (28. April 2026):** Der Verwaltungsrat ernannte **Carlo Pesenti** zum **Chairman and Chief Executive Officer** – eine Konsolidierung beider Führungsfunktionen in einer Person. Pesenti ist seit 1999 Verwaltungsratsmitglied, seit 2014 CEO.
-
-**Hauptversammlung (22. April 2026):** Die ordentliche HV billigte den Jahresabschluss 2025 und beschloss die Dividendenausschüttung. Zugleich wurde ein Phantom-Stock-Vergütungsplan 2026–2028 für das Management verabschiedet.
-
-**Q1 2026 – Periodische Finanzberichterstattung (veröffentlicht 13. Mai 2026):** Aggregierter Portfolioumsatz +5,4 %, aggregiertes EBITDA/MOL +16,5 %; NAV stabil bei ca. 54,7 EUR/Aktie.
 
 ## Management
 
 **Carlo Pesenti – Chairman & CEO:**
-Carlo Pesenti ist seit dem 28. April 2026 Chairman and Chief Executive Officer von Italmobiliare. Er ist seit 1999 im Verwaltungsrat des Unternehmens, wurde 2001 zum COO und 2014 zum CEO bestellt. Zuvor leitete er über ein Jahrzehnt Italcementi als CEO und war Verwaltungsratsmitglied bei UniCredit, RCS MediaGroup und Mediobanca. Die Konsolidierung der Positionen Chairman und CEO stärkt die operative Führung und beschleunigt die strategische Entscheidungsfindung.
+Carlo Pesenti bekleidet seit dem 28. April 2026 die Doppelfunktion als **Chairman and Chief Executive Officer** von Italmobiliare. Die Konsolidierung beider Führungsfunktionen in einer Person folgte auf die ordentliche Hauptversammlung vom 22. April 2026, welche das neue monistische Governance-Modell (modello monistico) mit einem 12-köpfigen Verwaltungsrat und Mandat 2026–2028 verabschiedete. Pesenti ist seit 1999 im Verwaltungsrat, seit 2001 COO und seit 2014 CEO. Zuvor leitete er über ein Jahrzehnt Italcementi als CEO und war Verwaltungsratsmitglied bei UniCredit, RCS MediaGroup und Mediobanca.
 
-_Carlo Pesenti è stato nominato Chairman and Chief Executive Officer il 28 aprile 2026, consolidando le funzioni di Presidente e Amministratore Delegato in un'unica persona. Pesenti è consigliere di amministrazione dal 1999, COO dal 2001 e CEO dal 2014. In precedenza ha guidato Italcementi come CEO per oltre un decennio e ha ricoperto ruoli di consigliere presso UniCredit, RCS MediaGroup e Mediobanca._
+_Carlo Pesenti ricopre dal 28 aprile 2026 la doppia funzione di Presidente e Amministratore Delegato di Italmobiliare, consolidando le due cariche in un'unica persona. Pesenti è consigliere di amministrazione dal 1999, COO dal 2001 e CEO dal 2014. In precedenza ha guidato Italcementi come CEO per oltre un decennio e ha ricoperto ruoli di consigliere presso UniCredit, RCS MediaGroup e Mediobanca._
+
+**Kein spezifisches Pesenti-Interview in KW26 nachweisbar.**
+Im Recherchezeitraum 20.–27.06.2026 waren keine neuen öffentlichen Interviews oder Statements von Carlo Pesenti auffindbar. Der nächste erwartete öffentliche Auftritt dürfte im Rahmen der Halbjahreszahlen-Präsentation am 29. Juli 2026 stattfinden.
 
 **Phantom-Stock-Plan 2026–2028:**
-Die HV vom 22. April 2026 billigte einen Phantom-Stock-Vergütungsplan für das Management, der die Vergütung direkt an das NAV-Wachstum von Italmobiliare koppelt. Damit werden die Interessen von Management und Aktionären eng aneinander ausgerichtet – ein positives Signal für langfristig orientierte Investoren.
+Die HV vom 22. April 2026 billigte einen Phantom-Stock-Vergütungsplan für das Management, der die Vergütung direkt an das NAV-Wachstum von Italmobiliare koppelt. Diese Ausrichtung stärkt die Interessenkongruenz zwischen Management und Aktionären.
 
-**Governance-Reform – Monistisches Modell:**
-Das neue monistische Board-Modell (modello monistico) mit 12 Mitgliedern und Mandat 2026–2028 ist seit der HV vom 22. April 2026 aktiv. Ein spezifisches öffentliches Interview von Pesenti aus dem Zeitraum KW25/2026 (13.–20.06.2026) war nicht nachweisbar.
+_(Quelle / Fonte: italmobiliare.it/en/governance/board-directors; italmobiliare.it – press releases 28.04.2026)_
 
-_(Quelle / Fonte: italmobiliare.it/en/governance/board-directors; zazoom.it, 28.04.2026)_
+---
 
 ## Finanzielles
 
-**Q1 2026 – Ergebnisse (veröffentlicht 13. Mai 2026):**
+**Q1 2026 – Ergebnisse (veröffentlicht 13. Mai 2026) – aktuellste verfügbare Zahlen:**
 
 Der Verwaltungsrat billigte am 13. Mai 2026 den periodischen Zwischenbericht (Additional Periodic Financial Report) zum 31. März 2026.
 
 | Kennzahl | Q1 2026 | Vorperiode | Veränderung |
 |---|---|---|---|
 | Aggregierter Umsatz (Portfolio Companies) | 395,7 Mio. EUR | 375,4 Mio. EUR (Q1 2025) | +5,4 % |
-| Aggregiertes EBITDA / MOL (Portfolio Companies) | 28,1 Mio. EUR | – | +16,5 % |
+| Aggregiertes EBITDA / MOL (Portfolio Companies) | 28,1 Mio. EUR | 24,1 Mio. EUR (Q1 2025) | +16,5 % |
 | NAV je Aktie | 54,7 EUR | 54,80 EUR (31.12.2025) | nahezu stabil |
 | Gesamt-NAV | ca. 2,299 Mrd. EUR | – | nahezu unverändert |
+| Holding-Umsatz | 45,7 Mio. EUR | 43,6 Mio. EUR (Q1 2025) | +4,8 % |
 | Netto-Finanzposition (Holding) | +225,2 Mio. EUR | +231,0 Mio. EUR (31.12.2025) | leicht rückläufig |
 
-_I risultati del primo trimestre 2026, approvati dal Consiglio di Amministrazione il 13 maggio 2026, evidenziano ricavi aggregati delle società in portafoglio pari a 395,7 mln EUR (+5,4% rispetto al Q1 2025) e un MOL aggregato di 28,1 mln EUR (+16,5%). Il NAV per azione è rimasto pressoché invariato a 54,7 EUR, con una posizione finanziaria netta della holding di +225,2 mln EUR._
+_I risultati del primo trimestre 2026, approvati il 13 maggio 2026, evidenziano ricavi aggregati delle portfolio companies pari a 395,7 mln EUR (+5,4%) e un MOL aggregato di 28,1 mln EUR (+16,5%). Il NAV per azione è rimasto pressoché invariato a 54,7 EUR. La posizione finanziaria netta della holding è positiva a +225,2 mln EUR._
 
-**Treiber der Portfolio-Performance Q1 2026:**
-- **CDS – Casa della Salute:** +34 % Umsatz, EBITDA +51 % (organisches Wachstum + M&A)
-- **Caffè Borbone:** +5,6 % Umsatz, EBITDA +18,1 %; Auslandsmärkte ~+40 %
-- **Iseo (Serrature):** +8,8 % Umsatz
-- **Bene Assicurazioni:** +8,6 % Prämienvolumen
-- **Officina Profumo-Farmaceutica di Santa Maria Novella:** +3,7 %; E-Commerce +10,8 %
+**Portfolio-Performance Q1 2026 im Detail:**
 
-**Bewertung / Aktienkurs:**
-Equita SIM bestätigte nach den Q1-Zahlen (14. Mai 2026) eine **Buy-Empfehlung**. Die Aktie reagierte am Veröffentlichungstag mit einem Kursanstieg von ca. +1,6 %. Der implizierte NAV-Abschlag lag bei ca. **50 %** (Kurs ~27,55 EUR vs. NAV 54,7 EUR/Aktie) – eine für diversifizierte Investmentholdings typische, aber historisch hohe Diskontierung.
+| Portfolio-Unternehmen | Umsatz Q1 2026 | Veränderung | EBITDA Q1 2026 | Veränderung |
+|---|---|---|---|---|
+| Caffè Borbone | 93,9 Mio. EUR | +5,6 % | 15,0 Mio. EUR | +18,1 % |
+| CDS – Casa della Salute | 25,2 Mio. EUR | +34,0 % | 3,0 Mio. EUR | +51,0 % |
+| Iseo (Serrature) | 40,7 Mio. EUR | +8,8 % | 3,2 Mio. EUR | signif. ↑ (vs. 0,9 Mio.) |
+| Bene Assicurazioni | Prämien +8,6 % | – | – | – |
+| OPFSM (Santa Maria Novella) | 14,8 Mio. EUR | +3,7 % | – | E-Commerce +10,8 % |
 
-_La raccomandazione di acquisto confermata da Equita SIM il 14 maggio 2026 evidenzia uno sconto NAV implicito di circa il 50% (prezzo ~27,55 EUR vs. NAV 54,7 EUR per azione), riflettendo il tipico holding discount applicato alle società di investimento diversificate._
+**Aktienkurs & Bewertung (KW26, Stand 27.06.2026):**
+- Kurs ITM.MI: ca. **27,75–29,25 EUR** (Schwankungsbereich KW26; Schluss 27.06.: ~27,90 EUR, -2,45 % ggü. Vortag)
+- Marktkapitalisierung: ca. **1,17–1,23 Mrd. EUR**
+- NAV je Aktie: **54,7 EUR** (Stand 31.03.2026; H1-NAV folgt 29.07.2026)
+- Impliziter NAV-Abschlag: ca. **49–50 %** (Kurs ~27,90 EUR vs. NAV 54,7 EUR)
+- Dividendenrendite (Forward): **3,85 %** (1,10 EUR/Aktie; Ex-Datum: 4. Mai 2026)
+- Analyst-Rating: **Buy** (Equita SIM, bestätigt 14. Mai 2026)
 
-**FY 2025 – Jahresabschluss:**
-Der konsolidierte Jahresabschluss zum 31. Dezember 2025 wurde am 5. März 2026 vom Verwaltungsrat gebilligt. Der Abschlussprüfer erteilte ein uneingeschränktes Testat.
+_Il titolo ITM.MI quota intorno a 27,90 EUR al 27 giugno 2026, con uno sconto NAV implicito di circa il 49–50% rispetto al NAV per azione di 54,7 EUR (al 31/03/2026). La raccomandazione di acquisto di Equita SIM rimane confermata. I risultati del primo semestre 2026 saranno pubblicati il 29 luglio 2026._
 
-**Nächster Termin:** Halbjahreszahlen zum 30. Juni 2026 → geplante Veröffentlichung **29. Juli 2026**.
+**Nächster Termin:** Halbjahreszahlen (H1 2026) → **29. Juli 2026**.
 
-_(Quelle / Fonte: italmobiliare.it – 1Q2026 Financial Results PDF; BeBeez.it; Equita SIM Research, 14.05.2026)_
+_(Quelle / Fonte: italmobiliare.it – 1Q2026 Financial Results PDF; BeBeez.it; Equita SIM Research, 14.05.2026; Yahoo Finance; Google Finance)_
+
+---
 
 ## Strategie & Ausblick
 
-**Portfolio-Strategie – "Private Equity für Langzeitinvestoren":**
-Italmobiliare positioniert sich als langfristige Beteiligungsholding (evergreen private equity) mit Fokus auf mittelständische italienische Unternehmen mit starker Marke, solider Wettbewerbsposition und Wachstumspotenzial. Die typische Haltedauer beträgt 8–10 Jahre. Das Unternehmen investiert als Kontrollaktionär mit aktivem Managementansatz.
+**Portfolio-Strategie – "Evergreen Private Equity":**
+Italmobiliare positioniert sich als langfristige Beteiligungsholding (evergreen private equity) mit Fokus auf mittelständische italienische Unternehmen mit starker Marke, solider Wettbewerbsposition und Wachstumspotenzial. Die typische Haltedauer beträgt 8–10 Jahre. Das Unternehmen agiert als Kontrollaktionär mit aktivem Managementansatz.
 
 _Italmobiliare si posiziona come holding di partecipazioni di lungo periodo (private equity evergreen) con focus su aziende italiane di medie dimensioni con brand forte, posizione competitiva solida e potenziale di crescita. Il tipico orizzonte di investimento è di 8–10 anni con un approccio di azionista di controllo attivo._
 
-**CDS – Casa della Salute (M&A-Expansion):**
-Das Portfoliounternehmen im ambulanten Gesundheitsbereich setzt eine aggressive Wachstumsstrategie fort. Im Q1 2026 wurden drei M&A-Transaktionen abgeschlossen:
-- Strategische Akquisition in der **Valle d'Aosta** (neue Region)
-- Akquisition in **Ligurien**
-- Akquisition in **Sardinien**
-- Eröffnung der ersten Klinik in **Turin**
-- Insgesamt nun **43 Kliniken** in **4 italienischen Regionen**
+**Geplante Exits – Tecnica, Iseo, Capitelli (strategisches Signal):**
+Laut BeBeez sind Tecnica Group, Iseo Serrature und Capitelli die nächsten Desinvestitionskandidaten im Italmobiliare-Portfolio. Diese Beteiligungen werden als reif eingestuft und sollen mittel- bis langfristig veräußert werden, um Kapital für neue Investitionen freizusetzen. Kepler Cheuvreux weist darauf hin, dass der Tecnica-Exit durch anhaltende operative Sanierungsmaßnahmen verzögert werden könnte. Ein erfolgreicher Exit würde die Netto-Cash-Position der Holding signifikant stärken und Spielraum für neue Plattforminvestitionen oder Dividendenerhöhungen schaffen.
 
-**Caffè Borbone – Internationalisierung:**
-Die starke Dynamik auf Auslandsmärkten (~+40 % in Q1 2026) unterstreicht die fortlaufende Internationalisierungsstrategie der Kaffeemarke, insbesondere im Einzelportionssegment (Kaffeekapseln). Caffè Borbone ist Marktführer im Hartkapselsegment in Italien.
+_Secondo BeBeez, Tecnica Group, Iseo e Capitelli sono i prossimi candidati all'uscita dal portafoglio. Questi investimenti sono considerati maturi per la disinvestizione, con l'obiettivo di liberare capitale per nuovi investimenti. Kepler Cheuvreux segnala che l'exit di Tecnica potrebbe subire ritardi a causa della razionalizzazione operativa in corso._
 
-**Bene Assicurazioni – Beteiligungsaufstockung:**
-Italmobiliare hatte im Juni 2025 seinen Anteil an Bene Assicurazioni auf **25 %** erhöht (+5 Prozentpunkte). Das InsurTech-Unternehmen verzeichnet weiterhin starkes Prämienwachstum (+8,6 % in Q1 2026) und expandiert im digitalen Versicherungsmarkt.
+**Wachstumsfokus – Caffè Borbone, CDS, Santa Maria Novella:**
+Die strategischen Wachstumsträger für H2 2026 und darüber hinaus sind:
+- **Caffè Borbone:** Internationalisierung (Auslandsgeschäft +~40 % in Q1 2026), Marktführer im Hartkapselsegment Italien; E-Commerce-Expansion
+- **CDS – Casa della Salute:** M&A-getriebene geografische Expansion (43 Kliniken in 4 Regionen per Q1 2026); Pipeline weiterer Akquisitionen erwartet
+- **OPFSM – Santa Maria Novella:** E-Commerce-Wachstum (+10,8 % in Q1 2026); Premiumpositionierung im internationalen Luxussegment
 
-**MiCROTEC – Co-Investment (April 2025):**
-Im April 2025 co-investierte Italmobiliare gemeinsam mit dem Clessidra CCPIV-Fonds in **MiCROTEC** (Technologiesysteme für die holzverarbeitende Industrie / wood scanning technology). Dieses Investment unterstreicht den Fokus auf technologiegetriebene industrielle Nischenchampions.
+**Bene Assicurazioni – InsurTech-Wachstum:**
+Italmobiliare hält 25 % an Bene Assicurazioni (Beteiligungserhöhung um +5 Pp. im Juni 2025). Das InsurTech-Unternehmen zeigt mit +8,6 % Prämienwachstum in Q1 2026 anhaltende Dynamik im digitalen Versicherungsmarkt.
 
 **Aktienrückkauf als strategisches Instrument:**
-Das Rückkaufprogramm (max. 300.000 Aktien, bis 10 Mio. EUR) zielt auf den Aufbau einer Rücklage eigener Aktien für außerordentliche Transaktionen (Aktientausch, Akquisitionsfinanzierung). Es signalisiert Managementvertrauen in die NAV-Unterbewertung und stellt eine kapitaleffiziente Methode der Wertschöpfung bei einem 50%-igen NAV-Abschlag dar.
+Das Rückkaufprogramm (max. 300.000 Aktien, bis 10 Mio. EUR) zielt auf den Aufbau einer Eigenaktienreserve für außerordentliche Transaktionen. Bei einem NAV-Abschlag von ~50 % stellt der Erwerb eigener Aktien unter Buchwert eine kapitaleffiziente Form der Wertschöpfung dar.
 
 **Ausblick H2 2026:**
-Kein formaler Guidance ausgegeben. Weiteres M&A-Wachstum bei CDS und potenziell neue Plattforminvestitionen werden für H2 2026 erwartet, gestützt durch eine komfortable Netto-Cash-Position der Holding von über 225 Mio. EUR. Das robuste Q1-Momentum bei Caffè Borbone (insbesondere Auslandsgeschäft) und Bene Assicurazioni sollte sich im H1 2026 fortsetzen.
+Kein formaler Unternehmens-Guidance ausgegeben. Erwartet werden:
+- Fortführung der M&A-Expansion bei CDS–Casa della Salute
+- Potenzielle neue Plattforminvestitionen (Netto-Cash-Position Holding: >225 Mio. EUR)
+- Ggf. erste Exit-Schritte bei einem der drei reifen Portfoliounternehmen (Tecnica, Iseo, Capitelli)
+- Weitere Internationalisierung bei Caffè Borbone
+- **Nächster Haupttermin: H1 2026 Ergebnisse am 29. Juli 2026**
 
-Nächster maßgeblicher Datenpunkt: **H1 2026 Ergebnisse am 29. Juli 2026**.
+_(Quelle / Fonte: BeBeez.it; italmobiliare.it – Q1 2026 Press Release; filosofaresuimercati.eu, 04.05.2026; Italmobiliare Company Presentation März 2026)_
 
-_(Quelle / Fonte: italmobiliare.it – Q1 2026 Press Release; BeBeez.it; filosofaresuimercati.eu, 04.05.2026; Italmobiliare Company Presentation März 2026)_
+---
 
 ## Quellen
 
 - [Press Releases – Italmobiliare (offizielle Website)](https://www.italmobiliare.it/en/investor/press-releases)
 - [Italmobiliare – 1Q2026 Financial Results (PDF)](https://www.italmobiliare.it/sites/default/files/pressrelease/2026-05/Italmobiliare%201Q2026%20financial%20results.pdf)
-- [Comunicato Stampa – Ergebnisse 31.12.2025 (PDF)](https://www.italmobiliare.it/sites/default/files/pressrelease/2026-03/ITALMOBILIARE%20risultati%20al%2031.12.2025.pdf)
 - [Additional Periodic Financial Report at March 31, 2026 – Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/additional-periodic-financial-report-march-31-2026-examined-board-directors)
-- [Aggiornamento programma acquisto azioni proprie – Italmobiliare](https://www.italmobiliare.it/it/archivio/comunicati-stampa/aggiornamento-sul-programma-di-acquisto-di-azioni-proprie-11)
-- [Carlo Pesenti – Svolta al vertice di Italmobiliare (zazoom.it, 28.04.2026)](https://www.zazoom.it/2026-04-28/carlo-pesenti-per-la-svolta-al-vertice-di-italmobiliare/19087403/)
+- [Board of Directors – Carlo Pesenti Chairman & CEO (28.04.2026) – Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/board-directors-meeting-its-first-meeting-board-directors-appoints-carlo)
+- [Aggiornamento programma acquisto azioni proprie (Nr. 14) – Italmobiliare](https://www.italmobiliare.it/it/archivio/comunicati-stampa/aggiornamento-sul-programma-di-acquisto-di-azioni-proprie-14)
+- [Avvio del programma di acquisto azioni proprie (16.03.2026) – Italmobiliare (PDF)](https://www.italmobiliare.it/sites/default/files/pressrelease/2026-03/Italmobiliare%20-%20%20Avvio%20programma%20di%20acquisto%20di%20azioni%20proprie.pdf)
 - [BeBeez – NAV Q1 2026, ricavi +5,4%, MOL +16,5%](https://bebeez.it/private-equity/italmobiliare-a-fine-trimestre-2026-il-nav-e-di-229-mld-di-euro-ricavi-delle-portfolio-companies-a-3957-mln-54-e-il-mol-a-a-281-mln-165/)
-- [Company Presentation März 2026 (PDF)](https://www.italmobiliare.it/sites/default/files/documenti/032026_Company%20Presentation%20IR_NAV31122025%20ENG.pdf)
+- [BeBeez – Tecnica, Iseo e Capitelli: le prossime exit per Italmobiliare](https://bebeez.it/private-equity/tecnica-iseo-e-capitelli-le-prossime-exit-per-italmobiliare-che-punta-sulla-crescita-di-caffe-borbone-casa-della-salute-e-santa-maria-novella/)
 - [Holding a Sconto: Italmobiliare – filosofaresuimercati.eu (04.05.2026)](https://www.filosofaresuimercati.eu/2026/05/04/holding-a-sconto-italmobiliare/)
+- [Company Presentation März 2026 (PDF)](https://www.italmobiliare.it/sites/default/files/documenti/032026_Company%20Presentation%20IR_NAV31122025%20ENG.pdf)
 - [Board of Directors – Italmobiliare](https://www.italmobiliare.it/en/governance/board-directors)
-- [Italmobiliare – Google Finance (ITM:BIT)](https://www.google.com/finance/quote/ITM:BIT)
-- [Italmobiliare – Yahoo Finance](https://finance.yahoo.com/quote/ITMM.XC/)
-- [Borsa Italiana – ITM.MI](https://www.borsaitaliana.it/borsa/azioni/scheda/comunicati.html?isin=IT0005319725)
+- [Italmobiliare – Yahoo Finance (ITM.MI)](https://finance.yahoo.com/quote/ITM.MI/)
+- [Italmobiliare – Google Finance (ITM:BIT)](https://www.google.com/finance/beta/quote/ITM:BIT)
+- [Borsa Italiana – ITM.MI Profilo Societario](https://www.borsaitaliana.it/borsa/azioni/profilo-societa-dettaglio.html?isin=IT0005253205&mic=MTAA&lang=en)
