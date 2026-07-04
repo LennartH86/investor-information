@@ -1,67 +1,54 @@
 # Allianz (ALV.DE)
-_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
+_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 
 ## Aktuelle Meldungen
 
-- **Allianz führt Evident AI Index 2026 an (KW26):** Allianz belegt den ersten Platz im Evident AI Index 2026 mit dem größten KI-Talentpool der Versicherungsbranche und über 900 KI-Anwendungsfällen weltweit. Dies unterstreicht den strategischen Technologiefokus des Konzerns. ([allianz.com](https://www.allianz.com/de/mediencenter/news.html))
-- **Hagelrisiko und Klimaschäden (19.06.2026):** Allianz-Experten thematisierten am 19. Juni 2026 das wachsende Risiko durch Hagelstürme und deren Auswirkungen auf Schadensmeldungen und Betriebskontinuität. Die Zunahme extremer Wetterereignisse erhöht den Schadensaufwand und ist ein zentrales Thema für die Schaden-Kosten-Quote. ([allianz.com](https://www.allianz.com/de/mediencenter/news.html))
-- **Berenberg-Analyse „Buy" (15.06.2026):** Berenberg Bank bekräftigt die Kaufempfehlung für die Allianz-Aktie mit einem Kursziel von 420 Euro. ([finanzen.net](https://www.finanzen.net/analyse/allianz_buy-joh_berenberg_gossler__co_kg_berenberg_bank__1086211))
-- **Aktienkurs:** Die Allianz-Aktie notiert Anfang KW26 bei rund 380–401 Euro, knapp unterhalb ihres 52-Wochen-Hochs; die positive Kursdynamik wird durch die starke operative Entwicklung gestützt. ([aktiencheck.de](https://www.aktiencheck.de/news/Artikel-Allianz_Aktie_Ausblick_auf_Rest_Jahres-19834953))
-- **Pressemitteilungen Allianz Deutschland (laufend):** Allianz Deutschland AG veröffentlichte im Juni 2026 über 119 Pressemeldungen zu Produkten, Schadenstrends und Initiativen. ([presseportal.de](https://www.presseportal.de/nr/65275))
+- **Allianz Risk Transfer AG verlegt Sitz in die Schweiz (01.07.2026):** Die Allianz Risk Transfer AG (ART AG) hat ihren Sitz von Liechtenstein in die Schweiz verlegt. Die zuständigen Behörden – die Finanzmarktaufsicht Liechtenstein (FMA) und die Eidgenössische Finanzmarktaufsicht (FINMA) – haben die Sitzverlegung genehmigt. Die Niederlassung in Zürich/Wallisellen wird neuer Hauptsitz, eine Niederlassung in Liechtenstein entfällt künftig; die Niederlassung auf Bermuda bleibt bestehen. Die ART AG wird künftig durch die FINMA beaufsichtigt. ([commercial.allianz.com](https://commercial.allianz.com/news-and-insights/news/art-move-to-switzerland-2026/de.html))
+- **Allianz Global Insurance Report 2026 (30.06.2026):** Allianz Research veröffentlichte den „Global Insurance Report 2026: The Future of Insurance in a Fragmenting World". Demnach wuchs die globale Versicherungsbranche 2025 schätzungsweise um 7,1 % auf 6,9 Billionen Euro Prämienvolumen (plus 456 Mrd. Euro), was eine Abschwächung gegenüber dem außergewöhnlichen Wachstum von 9,4 % im Jahr 2024 darstellt. ([prnewswire.com](https://www.prnewswire.com/apac/news-releases/allianz-global-insurance-report-2026-the-future-of-insurance-in-a-fragmenting-world-302814161.html))
+- **Aktienkurs auf neuem 52-Wochen-Hoch (03.07.2026):** Die Allianz-Aktie erreichte Anfang Juli 2026 ein neues 52-Wochen-Hoch; Chartanalysten sehen dies als Bestätigung einer fortgesetzten Long-Strategie. Der Kurs bewegte sich zuletzt um rund 411–414 Euro. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/allianz-aktie-chartanalyse-03-07-2026-8023325))
+- **Kursziel-Update:** Analysten bestätigen ein durchschnittliches 12-Monats-Kursziel von rund 413,90 Euro; die Dividendenrendite liegt bei aktuellem Kurs bei ca. 4,16 % (17,10 Euro Dividende je Aktie über die letzten 12 Monate). ([finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-kursziel-bei-41390-euro/))
+- **Laufende Pressearbeit Allianz Deutschland:** Allianz Deutschland AG veröffentlichte über das Presseportal weiterhin zahlreiche Meldungen zu Produkten, Schadenstrends und regionalen Initiativen (119 Meldungen im bisherigen Jahresverlauf 2026). ([presseportal.de](https://www.presseportal.de/nr/65275))
 
 ## Management
 
-- **CEO Oliver Bäte – Hauptversammlung 2026 (Mai 2026):** In seiner Rede auf der Hauptversammlung 2026 hob Bäte hervor, dass im April 2026 erstmals über eine Million Einzelaktionäre direkt Anteile an der Allianz hielten – ein Vertrauensbeweis der breiten Öffentlichkeit. ([allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html))
-- **Bäte zu Q1-Ergebnissen (13. Mai 2026):** „These results are a testament to the strength of our fundamentals and the effectiveness of our customer-centered strategy" – Bätes Statement zum operativen Rekordergebnis von 4,52 Mrd. Euro im ersten Quartal 2026. ([allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html))
-- **CNBC Davos-Interview (Januar 2026):** Bäte erläuterte beim Weltwirtschaftsforum in Davos, wie Allianz angesichts geopolitischer und wirtschaftlicher Risiken die Diversifikation optimiert und betonte die Notwendigkeit, „durch den Lärm das Signal zu finden". Er widersprach der Einschätzung, Net Zero könnte in Europa aufgegeben werden. ([cnbc.com](https://www.cnbc.com/video/2026/01/20/trying-to-look-through-the-noise-for-the-signal-allianz-ceo.html))
-- **Monocle-Interview (Februar 2026, Mailand):** Im Rahmen der Olympischen Winterspiele 2026 sprach Bäte mit Monocle-Chairman Tyler Brûlé über globale Sportpartnerschaften, unternehmerische Verantwortung, Innovation und Europas Zukunft. Kernaussage: „Europa hat 5 % der Weltbevölkerung, aber rund 50 % der Sozialausgaben – das können wir uns nicht leisten." ([monocle.com](https://monocle.com/business/oliver-bate-allianz-ceo-interview/))
+- **CEO Oliver Bäte – keine neuen öffentlichen Auftritte in KW27 identifiziert.** Die jüngsten dokumentierten Aussagen stammen aus der Hauptversammlung 2026 (Mai) sowie den Interviews bei Davos (Januar) und mit Monocle (Februar); für den Berichtszeitraum 27.06.–04.07.2026 wurden keine neuen Interviews oder Statements des Managements gefunden.
+- **Rückblick HV 2026:** Bäte hatte hervorgehoben, dass im April 2026 erstmals über eine Million Einzelaktionäre direkt Anteile an der Allianz hielten. ([allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html))
 
 ## Finanzielles
 
-**Q1 2026 – Operatives Rekordergebnis (Bericht: 13. Mai 2026):**
-
-Allianz erzielte im ersten Quartal 2026 ein operatives Ergebnis von **4,5 Milliarden Euro** – das höchste Quartalsergebnis der Unternehmensgeschichte, rund 6,6 % über dem Vorjahreszeitraum und ca. 4 % über dem Analysten-Konsens.
+Für den Berichtszeitraum (27.06.–04.07.2026) liegen keine neuen Quartalszahlen vor; die nächste turnusmäßige Veröffentlichung sind die Q2/Halbjahreszahlen 2026, die für August 2026 erwartet werden. Die zuletzt berichteten Kennzahlen (Q1 2026, veröffentlicht 13.05.2026) bleiben maßgeblich:
 
 | Kennzahl | Q1 2026 | Veränderung ggü. Vorjahr |
 |---|---|---|
-| Operatives Ergebnis | 4,5 Mrd. EUR | +6,6 % |
+| Operatives Ergebnis | 4,5 Mrd. EUR (Rekord) | +6,6 % |
 | Bereinigter Überschuss (Anteilseigner) | 3,8 Mrd. EUR | +48,4 % |
-| Geschäftsvolumen | 28,3 Mrd. EUR | Intern +6,8 % |
-| Schaden-Kosten-Quote | 91,0 % | Verbessert |
+| Geschäftsvolumen | 53,0 Mrd. EUR | Intern +3,5 % |
 | Solvency-II-Quote | 221 % | +2 Prozentpunkte ggü. Ende 2025 |
 
-- **Aktienrückkäufe:** Milliarden-Rückkaufprogramm läuft weiter; begeistert Anleger laut Analysten. ([aktiencheck.de](https://www.aktiencheck.de/analysen/Artikel-Allianz_Q1_2026_Zahlen_Rekordquartal_und_Milliarden_Rueckkaeufe_begeistern_Anleger-19759245))
-- **Dividende:** 17,10 Euro je Aktie (letzte 12 Monate); Dividendenrendite ca. 4,27 % bei einem Kurs von rund 400,90 Euro. ([aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende))
 - **Jahresausblick 2026 bestätigt:** Operatives Ziel von **17,4 Mrd. Euro (± 1 Mrd. Euro)**. ([trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant))
+- **Aktienrückkaufprogramm:** Allianz SE hatte im Februar 2026 ein neues Rückkaufprogramm von bis zu 2,5 Mrd. Euro beschlossen; das Programm läuft im Berichtszeitraum weiter und stützt laut Analysten die Kursentwicklung. ([allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260225-mitteilung.html))
+- **Dividende:** 17,10 Euro je Aktie (letzte 12 Monate); Dividendenrendite ca. 4,16 % bei einem Kurs von rund 411 Euro. ([aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende))
 
 ## Strategie & Ausblick
 
-- **KI-Führerschaft:** Allianz führt den Evident AI Index 2026 mit über 900 KI-Anwendungsfällen und dem größten KI-Talentpool der Branche an – ein zentraler strategischer Differenzierungsfaktor. ([allianz.com](https://www.allianz.com/de/mediencenter/news.html))
-- **Mögliche Übernahme – HSBC Life Singapur:** Allianz soll Berichten zufolge an der Übernahme des Versicherungsgeschäfts von HSBC in Singapur interessiert sein – potenzieller Milliarden-Deal zur weiteren Expansion in Asien. Allianz gilt als wahrscheinlichster Käufer. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/wahrscheinlichster-kaeufer-allianz-aktie-im-plus-offenbar-uebernahme-von-hsbc-versicherungsgeschaeft-in-singapur-in-milliarden-deal-15744248))
-- **Akquisitionsstrategie:** Allianz hat insgesamt 20 Übernahmen mit einem durchschnittlichen Volumen von 1,09 Mrd. USD abgeschlossen; geografischer Schwerpunkt in Großbritannien und Deutschland, inhaltlich auf Versicherungsträger und -vertrieb. ([tracxn.com](https://tracxn.com/d/acquisitions/acquisitions-by-allianz/__C6DRwKJs6hEWvw1GjVTQnaz_HKpjusF_cvNVPtrRxBY))
-- **Klimarisiken als Wachstumsfeld:** Das wachsende Hagelrisiko und Extremwetterereignisse treiben sowohl den Schadensaufwand als auch die Nachfrage nach Versicherungslösungen – eine Chance für Allianz als Marktführer. ([allianz.com](https://www.allianz.com/de/mediencenter/news.html))
-- **Kursziel Analysten:** Berenberg Bank setzt Kursziel auf 420 Euro (Buy-Rating, 15.06.2026); der Konzern ist nach starkem Q1 auf Kurs zum Jahresergebnis-Ziel. ([finanzen.net](https://www.finanzen.net/analyse/allianz_buy-joh_berenberg_gossler__co_kg_berenberg_bank__1086211))
+- **Regulatorische Neuausrichtung ART AG:** Mit der Sitzverlegung der Allianz Risk Transfer AG in die Schweiz und der künftigen FINMA-Aufsicht stärkt Allianz die regulatorische Positionierung ihres alternativen Risikotransfer-Geschäfts in einem etablierten Finanzstandort. ([commercial.allianz.com](https://commercial.allianz.com/news-and-insights/news/art-move-to-switzerland-2026/de.html))
+- **Globale Markttrends laut Insurance Report 2026:** Allianz Research sieht eine Fragmentierung der globalen Versicherungsmärkte und ein moderateres, aber weiterhin robustes Branchenwachstum – eine strategische Grundlage für Allianz' Positionierung in Wachstumsmärkten. ([prnewswire.com](https://www.prnewswire.com/apac/news-releases/allianz-global-insurance-report-2026-the-future-of-insurance-in-a-fragmenting-world-302814161.html))
+- **Mögliche Übernahme – HSBC Life Singapur:** Allianz gilt weiterhin als wahrscheinlichster Käufer für das Versicherungsgeschäft von HSBC in Singapur (Milliarden-Deal); zudem soll die Vermögensverwaltungssparte der United Overseas Bank auf der Wunschliste stehen – Teil der Expansionsstrategie in den asiatisch-pazifischen Raum mit Fokus auf Vorsorgeprodukte. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/dax-40-wert-allianz-aktie-so-viel-gewinn-haette-ein-investment-in-allianz-von-vor-einem-jahr-abgeworfen-15779312))
+- **Kapitalrückführung:** Das laufende Aktienrückkaufprogramm (bis zu 2,5 Mrd. Euro) unterstreicht die Strategie der Kapitalrückführung an Aktionäre bei gleichzeitig fortgesetztem Rekordgewinnpfad.
+- **Charttechnik:** Neues 52-Wochen-Hoch Anfang Juli 2026 signalisiert laut Marktbeobachtern eine intakte langfristige Aufwärtsbewegung der Aktie. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/allianz-aktie-chartanalyse-03-07-2026-8023325))
 - **Nächster Termin:** Halbjahresbericht / Q2-Ergebnisse voraussichtlich August 2026.
 
 ## Quellen
 
 - [Allianz Mediencenter – allianz.com](https://www.allianz.com/de/mediencenter/news.html)
-- [Allianz Medienmitteilungen – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen.html)
-- [Allianz Q1 2026 Quartalsmitteilung (PDF) – allianz.com](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/press/document/results/2026-1q/1q-2026-quartalsmitteilung-allianz.pdf)
-- [Allianz Q1 2026 Quartalsmitteilung (Pressemitteilung) – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
-- [Allianz Q1 2026: Rekordquartal und Milliarden-Rückkäufe – aktiencheck.de](https://www.aktiencheck.de/analysen/Artikel-Allianz_Q1_2026_Zahlen_Rekordquartal_und_Milliarden_Rueckkaeufe_begeistern_Anleger-19759245)
-- [Allianz Aktie: Ausblick auf den Rest des Jahres – aktiencheck.de](https://www.aktiencheck.de/news/Artikel-Allianz_Aktie_Ausblick_auf_Rest_Jahres-19834953)
-- [Allianz Rekordgewinn Q1 – wiwo.de](https://www.wiwo.de/unternehmen/dienstleister/allianz-rekordgewinn-im-1.-quartal-ziele-fuer-2026-im-blick/100224751.html)
-- [Allianz knackt Rekordmarke – 4investors.de](https://www.4investors.de/nachrichten/amp/boerse.php?sektion=stock&ID=189921)
-- [Allianz Betriebsergebnis 17,4 Mrd. 2026 – trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant)
-- [Allianz Presseportal – presseportal.de](https://www.presseportal.de/nr/65275)
-- [Allianz Pressemitteilungen – allianz.de](https://www.allianz.de/presse/mitteilungen/)
-- [Oliver Bäte – CEO-Rede HV 2026 – allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html)
-- [Oliver Bäte – CNBC Davos 2026 – cnbc.com](https://www.cnbc.com/video/2026/01/20/trying-to-look-through-the-noise-for-the-signal-allianz-ceo.html)
-- [Oliver Bäte – Monocle Interview 2026 – monocle.com](https://monocle.com/business/oliver-bate-allianz-ceo-interview/)
-- [Berenberg Buy-Analyse 15.06.2026 – finanzen.net](https://www.finanzen.net/analyse/allianz_buy-joh_berenberg_gossler__co_kg_berenberg_bank__1086211)
+- [ART AG Sitzverlegung Schweiz – commercial.allianz.com](https://commercial.allianz.com/news-and-insights/news/art-move-to-switzerland-2026/de.html)
+- [Allianz Global Insurance Report 2026 – prnewswire.com](https://www.prnewswire.com/apac/news-releases/allianz-global-insurance-report-2026-the-future-of-insurance-in-a-fragmenting-world-302814161.html)
+- [Allianz-Aktie Chartanalyse 03.07.2026 – finanzen.net](https://www.finanzen.net/nachricht/aktien/allianz-aktie-chartanalyse-03-07-2026-8023325)
+- [Allianz Kursziel 413,90 Euro – finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-kursziel-bei-41390-euro/)
 - [Allianz Dividende – aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende)
-- [Allianz Übernahme HSBC Singapur – finanzen.net](https://www.finanzen.net/nachricht/aktien/wahrscheinlichster-kaeufer-allianz-aktie-im-plus-offenbar-uebernahme-von-hsbc-versicherungsgeschaeft-in-singapur-in-milliarden-deal-15744248)
-- [Allianz Akquisitionen – tracxn.com](https://tracxn.com/d/acquisitions/acquisitions-by-allianz/__C6DRwKJs6hEWvw1GjVTQnaz_HKpjusF_cvNVPtrRxBY)
-- [Allianz Stakes & Investments – allianz.com](https://www.allianz.com/en/mediacenter/news/financials/stakes_investments.html)
-- [Allianz Aktie Investment-Analyse – avronline.de](https://www.avronline.de/nachrichten/news-views-markets/allianz-aktie-2026-investment-vor-zehn-jahren-220-prozent-gewinn/23384/)
+- [Allianz Presseportal – presseportal.de](https://www.presseportal.de/nr/65275)
+- [Allianz Q1 2026 Quartalsmitteilung – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
+- [Allianz Betriebsergebnis 17,4 Mrd. 2026 – trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant)
+- [Allianz Rückkaufprogramm 2,5 Mrd. Euro – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260225-mitteilung.html)
+- [Oliver Bäte – CEO-Rede HV 2026 – allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html)
+- [Allianz Übernahme HSBC Singapur – finanzen.net](https://www.finanzen.net/nachricht/aktien/dax-40-wert-allianz-aktie-so-viel-gewinn-haette-ein-investment-in-allianz-von-vor-einem-jahr-abgeworfen-15779312)
