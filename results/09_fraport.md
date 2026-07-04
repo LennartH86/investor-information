@@ -1,79 +1,62 @@
 # Fraport (FRA.DE)
-_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
+_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 
 ## Aktuelle Meldungen
 
-- **Sommerferienprognose (veröffentlicht ca. 20. Juni 2026):** Fraport erwartet zwischen dem 26. Juni und dem 9. August 2026 rund **9 Millionen Passagiere** und ca. **60.000 Flugbewegungen** am Frankfurter Flughafen. Reisende müssen aufgrund der EU-weiten Einführung des Entry/Exit System (EES) mit spürbaren Wartezeiten an den Grenzkontrollen rechnen. CEO Dr. Stefan Schulte warnte öffentlich vor anhaltenden Auswirkungen des EES auf den Betriebsablauf.
-- **Vermessungsflüge auf der Centerbahn (22.–27. Juni 2026):** Im Rahmen der ICAO-Vorschriften werden die Instrumentenlandesysteme der Centerbahn regelmäßig vermessen. Die Messung gewährleistet den sicheren Landebetrieb und wurde Anwohnern im Nachbarschaftsdialog vorab kommuniziert.
-- **Abgang CTO Dr. Pierre Dominique Prümm (30. Juni 2026):** Das Vorstandsmitglied und Chief Technical Officer verlässt Fraport AG zum Ende des Monats. Eine Nachfolgeregelung wurde bislang nicht kommuniziert.
-- **Kommunikationswechsel ab 1. Juli 2026:** Jürgen Harrer gibt nach mehr als 16 Jahren die Leitung der Unternehmenskommunikation ab. Iris Becker übernimmt ab dem 1. Juli 2026 die Verantwortung für die Flughafenkommunikation.
-- **Sky Line People Mover wieder in Betrieb (seit 15. Juni 2026):** Der neue Sky Line People Mover verbindet die Terminals 1, 2 und 3 am Flughafen Frankfurt wieder zuverlässig, nachdem technische Anpassungen und Testfahrten erfolgreich abgeschlossen wurden.
-- **Terminal 2 dauerhaft außer Betrieb (seit 9. Juni 2026):** Terminal 2 wurde aus dem Passagierbetrieb genommen. Das Investitionsvolumen für die umfassende technische Sanierung und Modernisierung des 1994 eröffneten Gebäudes beträgt rund **1,5 Mrd. Euro**. Erneuert werden die gesamte technische Infrastruktur, Passagierbereiche sowie Sicherheits- und Serviceeinrichtungen. Auf der Fraport-Website wird das Mobiliar aus Terminal 2 zur Weiternutzung angeboten.
-- **Passagierzahlen Mai 2026 (veröffentlicht 12. Juni 2026):** Frankfurt verzeichnete im Mai deutliches Wachstum, mit besonders hoher Nachfrage auf Verbindungen nach Südeuropa, Fernost, Afrika und Lateinamerika. Analysten reagierten mit positiven Einschätzungen auf die starken Verkehrszahlen; Bernstein bestätigte ein neutrales Votum zur Aktie.
+- **Kommunikationswechsel zum 1. Juli 2026:** Iris Becker, seit 2018 im Unternehmen, übernimmt zum 1. Juli 2026 die Leitung der Unternehmenskommunikation von Fraport. Sie tritt die Nachfolge von Jürgen Harrer an, der die Position nach mehr als 16 Jahren abgibt.
+- **100 % Grünstrom für Frankfurt (ab Juli 2026):** Fraport bezieht ab Juli regenerativ erzeugten Strom aus einem Offshore-Windpark in der Nordsee. Damit erreicht der Konzern erstmals einen 100-prozentigen Grünstromanteil für die Stromverbräuche am Standort Frankfurt – ein Meilenstein der Nachhaltigkeitsstrategie.
+- **Sky Line People Mover wieder im Regelbetrieb:** Die Bahn, die die Terminals 1, 2 und 3 verbindet, läuft nach technischen Anpassungen und erfolgreichen Testfahrten wieder zuverlässig.
+- **Ticketsteuer sinkt zum 1. Juli 2026:** Zum Start der Sommerferien reduziert der Bund die Luftverkehrsteuer; die Belastung für Kurz-, Mittel- und Langstreckenflüge sinkt. Für Fraport bedeutet dies tendenziell einen Nachfrageimpuls im Passagiergeschäft, während der Fluglärm-Ausgleich 2027 für den Standort Frankfurt neu geregelt werden soll.
+- **Terminal 2 – Mobiliar-Verwertung (Abholung 14.–16. Juli 2026):** Fraport versteigert bzw. gibt Mobiliar aus dem stillgelegten Terminal 2 ab (u. a. Gate-Sitzbänke, Counter-Stühle, Arbeitsplätze, ein Spielplatzgerüst) im Rahmen der laufenden Grundsanierung.
+- **Aktie über 200-Tage-Linie (2. Juli 2026):** Die Fraport-Aktie durchbrach am 2. Juli 2026 bei 74,15 € die 200-Tage-Linie nach oben – ein technisch positives Signal für Anleger.
+- **Betriebsratswahl-Streit:** Laut Berichterstattung (u. a. junge Welt, 02.07.2026) bleibt die Fraport-Betriebsratswahl umstritten; die Auseinandersetzung um die Wahlanfechtung geht in eine weitere Runde.
 
 ## Management
 
-- **CEO Dr. Stefan Schulte** warnte öffentlich vor anhaltenden operativen Auswirkungen des EU Entry/Exit Systems (EES), das zu verlängerten Grenzabfertigungszeiten am Frankfurter Flughafen führt. Schulte fordert koordinierte Maßnahmen auf europäischer Ebene.
-- Schulte hatte auf der Hauptversammlung (12. Mai 2026) erklärt, Fraport stehe am Ende des umfassendsten Investitionsprogramms seiner Geschichte; mittel- bis langfristig sollen daraus erhebliche wirtschaftliche Vorteile entstehen. Zum Q1-Ergebnis: „Der Fraport-Konzern liegt im ersten Quartal auf Kurs."
-- Zur Eröffnung von Terminal 3 bezeichnete Schulte das nach rund 10 Jahren Bauzeit und ca. 4 Mrd. Euro Investition fertiggestellte Terminal als „architektonisches Meisterwerk" und betonte die Bedeutung des Projekts für die langfristige Wettbewerbsposition des Standorts Frankfurt.
-- **ACI Europe-Präsidentschaft:** Schulte ist seit Juni 2025 Präsident von Airports Council International (ACI) Europe und vertritt die Interessen europäischer Flughäfen auf politischer Ebene.
-- **Neues Vorstandsmitglied:** Dietmar Focke ist seit 1. Mai 2026 COO Aviation & Ground Services im Vorstand.
-- **Abgang CTO:** Dr. Pierre Dominique Prümm verlässt den Vorstand zum 30. Juni 2026.
+- **CEO Dr. Stefan Schulte** bekräftigte trotz der Eskalation des Iran-Kriegs das Passagierwachstumsziel für 2026 und betonte, der Fraport-Konzern liege im ersten Quartal weiterhin auf Kurs; die Auswirkungen des Konflikts seien bislang begrenzt, ein länger andauernder Konflikt sei jedoch schwer kalkulierbar.
+- **Wechsel in der Unternehmenskommunikation:** Iris Becker (im Konzern seit 2018) folgt zum 1. Juli 2026 auf Jürgen Harrer, der die Kommunikationsleitung nach über 16 Jahren abgibt.
+- **Vorstandsveränderungen (Kontext aus Vorquartalen, weiterhin relevant):** Dietmar Focke ist seit 1. Mai 2026 als COO Aviation & Ground Services im Vorstand; Dr. Pierre Dominique Prümm (CTO) hat den Vorstand zum 30. Juni 2026 verlassen. Eine Nachfolge für die CTO-Position wurde bislang nicht kommuniziert.
+- **Governance:** Berichten zufolge übernimmt der hessische Finanzminister eine verstärkte Aufsichtsrolle gegenüber Fraport – eine für die Unternehmensführung relevante Entwicklung.
 
 ## Finanzielles
 
-**Q1 2026 (Januar–März 2026, veröffentlicht 5. Mai 2026):**
-
-- Umsatz (bereinigt um IFRIC-12-Bauleistungen): **+5,2 % auf 853,4 Mio. €**; berichteter Gesamtumsatz: +1,6 % auf 882,1 Mio. €
-- EBITDA: **196,0 Mio. €** (+18,5 Mio. € / ca. +10 % gegenüber Vorjahr)
-- Konzernergebnis: **−33,1 Mio. €** (Vorjahr: −26,4 Mio. €), belastet durch gestiegene Abschreibungen auf fertiggestellte Großprojekte (insbesondere Terminal 3)
-- Passagiere Frankfurt Q1: **12,7 Mio. (+2,3 %)**; Konzernweit: **28,6 Mio. (+5,2 %)**
-- Wachstumstreiber Frankfurt: höhere Flughafenentgelte (+12,4 Mio. €), Ground-Handling-Erlöse (+9,3 Mio. €), Infrastrukturentgelte (+6,2 Mio. €)
-- Net-Debt/EBITDA-Ratio auf **5,7** gesunken; erstmals seit 2018 positiver Free Cash Flow
-- Belastungen Q1: Eskalation des Nahost-Konflikts, wetterbedingte Stornierungen, Streiks im Februar/März; Rückgang im Nahost-Verkehr durch gestiegenes Fernost-Aufkommen kompensiert
-- **Jahresprognose 2026 bestätigt:** Konzern-EBITDA ca. **1,5 Mrd. €**; Konzernaufkommen **188–195 Mio. Passagiere**; Frankfurt-Ziel: **65–66 Mio. Passagiere**
-- **Dividende:** Hauptversammlung (12. Mai 2026) beschloss **1,00 € je Aktie** für das Geschäftsjahr 2025 – erste Dividendenzahlung seit Ausbruch der COVID-19-Pandemie
-- **Aktienrückkauf:** Fraport führt vom 1. bis 30. Juni 2026 ein Rückkaufprogramm mit einem Gesamtvolumen von bis zu **5,2 Mio. €** durch
+- **Q1 2026 (zuletzt berichtet, weiterhin gültige Basis):** Konzernumsatz 882,1 Mio. € (+1,6 %), bereinigt um Bauleistungen +5,2 % auf 853,4 Mio. €; EBITDA 196,0 Mio. € (+18,5 Mio. €); Konzernergebnis −33,1 Mio. € (Vorjahr −26,4 Mio. €), belastet durch Abschreibungen auf abgeschlossene Großprojekte (insb. Terminal 3).
+- **Passagierentwicklung:** Frankfurt Q1 2026: 12,7 Mio. Passagiere (+2,3 %); Konzernweit kumuliert 28,6 Mio. (+5,2 %).
+- **Bilanzqualität:** Net-Debt/EBITDA-Ratio auf 5,7 gesunken; erstmals seit 2018 positiver Free Cash Flow für das Geschäftsjahr 2025 – Fraport-Management wertet dies als Wendepunkt nach dem größten Investitionszyklus der Firmengeschichte.
+- **Dividende:** Hauptversammlung vom 12. Mai 2026 beschloss 1,00 € je Aktie für 2025 (erste Ausschüttung seit Beginn der COVID-19-Pandemie). Bei einem Absinken der Net-Debt/EBITDA-Quote unter 5,0 plant der Vorstand eine Erhöhung der Ausschüttungsquote auf 60–80 % des Gewinns.
+- **Analystensicht:** Kursziel-Durchschnitt der Analysten lag im April 2026 bei 84,88 € (gegenüber einem Xetra-Kurs von 69,75 €); sechs Analysten empfahlen "Kaufen", einer "Halten", einer "Verkaufen".
+- **Kursentwicklung aktuell:** Am 2. Juli 2026 überstieg die Aktie mit 74,15 € die 200-Tage-Linie – ein Hinweis auf eine sich stabilisierende bis positive charttechnische Verfassung im Berichtszeitraum.
+- **Jahresprognose 2026 (unverändert):** Konzern-EBITDA soll auf bis zu rund 1,5 Mrd. € steigen; Konzernaufkommen 188–195 Mio. Passagiere; Frankfurt-Zielkorridor 65–66 Mio. Passagiere.
 
 ## Strategie & Ausblick
 
-- **Terminal 3 Frankfurt (eröffnet 22./23. April 2026):** Das ca. **4 Mrd. Euro** teure Projekt wurde nach rund 10 Jahren Bauzeit in Betrieb genommen. In der Anfangskonfiguration mit Piers G, H und J bietet das Terminal Kapazität für bis zu **19 Mio. Passagiere/Jahr**, erweiterbar auf **25 Mio.** durch einen optionalen Pier K. 57 Airlines wechselten in vier Phasen zwischen Mitte April und Anfang Juni von Terminal 2 in Terminal 3. Das Terminal verfügt über automatisiertes Check-in, CT-Sicherheitsscreening und passiergierorientiertes Design.
-- **Terminal-2-Modernisierung:** Das **1,5-Mrd.-Euro**-Programm zur Grundsanierung von Terminal 2 ist strategisch mit der T3-Eröffnung koordiniert; die mehrjährige Schließung soll die Leistungsfähigkeit des Standorts nachhaltig sichern.
-- **Abschluss des Investitionszyklus:** Mit Terminal 3 sowie Erweiterungen in Lima und Antalya nähert sich Fraport dem Ende seines historisch größten Investitionsprogramms. Der Fokus verlagert sich auf Ertragsoptimierung, Free-Cashflow-Generierung und Schuldenabbau.
-- **Internationales Geschäft – USA:** Fraport USA übernahm das Center Management der Flughäfen Washington Dulles und Ronald Reagan und leistete einen wesentlichen Beitrag zum Umsatzwachstum im internationalen Segment.
-- **Divestment Fraport Greece:** Blackstone übernahm im Februar 2026 die 14 griechischen Regionalflughäfen für **235,9 Mio. USD**. Die Transaktion stärkt die Bilanz und ermöglicht eine Fokussierung auf Kernbeteiligungen.
-- **E-Commerce & Cargo als Wachstumsfeld:** Strategischer Ausbau der Frachtkapazitäten am Standort Frankfurt mit Fokus auf grenzüberschreitende E-Commerce-Flows.
-- **Dividendenstrategie:** Bei Unterschreiten eines Net-Debt/EBITDA von 5,0 ist eine Anhebung der Ausschüttungsquote auf **60–80 % des Gewinns** geplant.
-- **EES als operatives Risiko:** CEO Schulte mahnt, das EU Entry/Exit System könnte die Kapazitätsauslastung der Grenzkontrollinfrastruktur dauerhaft belasten; Fraport investiert in zusätzliche Abfertigungskapazitäten.
-- **Branchentrend:** Analysten (u.a. Bernstein) sehen den Flughafenbetreiber-Sektor vor einem Modernisierungsschub; Fraport gilt als gut positioniert, verharrt aber vorerst auf einem neutralen Analystenvotum.
+- **Abschluss des Investitionszyklus:** Mit der Fertigstellung von Terminal 3 sowie Kapazitätserweiterungen in Lima und Antalya nähert sich Fraport dem Ende seines historisch größten Investitionsprogramms. Der strategische Fokus verschiebt sich zunehmend auf Ertragsoptimierung, Free-Cashflow-Generierung und Schuldenabbau – sichtbar am erstmals seit 2018 positiven Free Cash Flow.
+- **Nachhaltigkeit als Differenzierungsmerkmal:** Mit dem vollständigen Umstieg auf Grünstrom (Offshore-Windpark Nordsee) ab Juli 2026 unterstreicht Fraport seine ESG-Positionierung gegenüber institutionellen Investoren.
+- **Terminal-2-Sanierung:** Die mehrjährige, rund 1,5 Mrd. € teure Grundsanierung von Terminal 2 läuft koordiniert mit dem Vollbetrieb von Terminal 3; erste Verwertungsschritte (Mobiliar-Abholung Mitte Juli) markieren den praktischen Baustart der Rückbau-/Sanierungsphase.
+- **Geopolitisches Risiko:** CEO Schulte hält trotz des Iran-Konflikts am Passagierwachstumsziel für 2026 fest, warnt aber vor unklaren Folgen bei einer Eskalation des Konflikts – ein Risikofaktor für die Nahost-Verkehrsströme.
+- **Regulatorisches Umfeld:** Die Senkung der Luftverkehrsteuer zum 1. Juli 2026 dürfte die Nachfrage tendenziell stützen; gleichzeitig steht die Neuregelung des Fluglärm-Ausgleichs 2027 für den Standort Frankfurt an, was langfristig Kosten- bzw. Investitionsfolgen haben könnte.
+- **Governance-Beobachtung:** Die berichtete verstärkte Aufsicht durch den hessischen Finanzminister sowie die anhaltenden Unstimmigkeiten um die Betriebsratswahl sind für Investoren als potenzielle Unsicherheitsfaktoren im Blick zu behalten.
 
 ## Quellen
 
-- [Fraport Newsroom – Pressemitteilungen](https://www.fraport.com/de/newsroom/pressemitteilung.html)
-- [Terminal 2 am Flughafen Frankfurt ab heute vorübergehend operativ außer Betrieb – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/terminal-2-operativ-ausser-betrieb.html)
-- [Terminal 2 – Mobiliar sucht neue Heimat – fraport.com](https://www.fraport.com/de/newsroom/service-news/2026/terminal-2---mobiliar-vom-flughafen-frankfurt-sucht-neue-heimat.html)
-- [Start der Sommerferien in Hessen: Anstieg der Passagierzahlen erwartet – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/sommerferien-in-hessen--spuerbarer-anstieg-der-passagierzahlen.html)
-- [Vermessungsflüge 22.–27. Juni 2026 – Centerbahn – fraport.com](https://www.fraport.com/de/nachhaltigkeit/nachbarschaftsdialog/aktuelles/news/2026/vermessungsfluege-vom-22--bis-27--juni-2025---centerbahn.html)
+- [Pressemitteilungen – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilung.html)
+- [Newsroom – fraport.com](https://www.fraport.com/de/newsroom.html)
+- [Terminal 2 – Mobiliar vom Flughafen Frankfurt sucht neue Heimat – fraport.com](https://www.fraport.com/de/newsroom/service-news/2026/terminal-2---mobiliar-vom-flughafen-frankfurt-sucht-neue-heimat.html)
+- [Fraport im Fokus: Ticketsteuer sinkt ab 1. Juli – Fluglärm-Ausgleich 2027 wird für Frankfurt neu geregelt – goldesel.de](https://goldesel.de/aktien/news/fraport-im-fokus-ticketsteuer-sinkt-ab-1-juli-fluglarm-ausgleich-2027-wird-fur-frankfurt-neu-geregelt)
+- [Fraport-Betriebsratswahlen: Chaos, nächster Akt – jungewelt.de](https://www.jungewelt.de/artikel/525325.fraport-betriebsratswahlen-chaos-n%C3%A4chster-akt.html)
+- [Fraport-Aktie über 200-Tage-Linie – boerse.de](https://www.boerse.de/nachrichten/Fraport-Aktie-ueber-200-Tage-Linie/38427382)
+- [68 News von Fraport AG – Pressemeldungen 2026 – presseportal.de](https://www.presseportal.de/nr/31522)
 - [Fraport-Konzern im ersten Quartal 2026 mit Wachstum im operativen Geschäft – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/verkehrszahlen/fraport-konzern-im-ersten-quartal-2026-mit-wachstum-im-operative.html)
-- [Fraport-Konzern Q1 2026 – presseportal.de](https://www.presseportal.de/pm/31522/6268552)
 - [Fraport-Quartalsmitteilung Q1/3M 2026 (PDF) – fraport.com](https://www.fraport.com/content/dam/fraport-company/documents/investoren/termine-und-publikationen/zwischenberichte/2026/Quartalsmitteilung%20Q1%203M%202026.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/Quartalsmitteilung%20Q1%203M%202026.pdf)
-- [Fraport Hauptversammlung 2026 – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/fraport-hauptversammlung.html)
+- [Geschäftsjahr 2025: Auslaufende Investitionsprojekte führen zu positivem Free Cash Flow – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/bpk/geschaeftsjahr-2025--positiver-free-cash-flow.html)
+- [Dr. Pierre Dominique Prümm scheidet bei Fraport aus – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/dr--pierre-dominique-pruemm-scheidet-bei-fraport-aus.html)
+- [Fraport-Hauptversammlung: Vorstand und Aufsichtsrat berichten heute Aktionärinnen und Aktionären – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q2/fraport-hauptversammlung.html)
 - [Fraport AGM 2026: Executive and Supervisory Boards Report to the Shareholders – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q2/fraport-agm-2026.html)
-- [Fraport reports investment milestones at 2026 AGM – traveldailynews.com](https://www.traveldailynews.com/aviation/fraport-reports-investment-milestones-at-2026-agm/)
-- [Fraport CEO warns of continued impacts of EES – centreforaviation.com](https://centreforaviation.com/news/fraport-ceo-warns-of-continues-impacts-of-ees-1363691)
-- [Fraport eröffnet Terminal 3: 4 Mrd. Euro Investition – goldesel.de](https://goldesel.de/aktien/news/fraport-eroffnet-terminal-3-in-frankfurt-4-mrd-euro-investition-und-6566-mio-passagiere-2026)
-- [Frankfurt Airport inaugurates Terminal 3 – aviationa2z.com](https://aviationa2z.com/index.php/2026/04/24/frankfurt-airport-just-inaugurated-its-terminal-3/)
-- [Fraport elevates passenger experience with Terminal 3 inauguration – futuretravelexperience.com](https://www.futuretravelexperience.com/2026/04/fraport-elevates-passenger-experience-with-inauguration-of-new-terminal-3-at-frankfurt-airport/)
-- [Fraport forecasts moderate growth for 2026 – aviation.direct](https://aviation.direct/en/fraport-prognostiziert-moderates-wachstum-und-vorsichtige-erholung-fuer-2026)
-- [Fraport erwartet 9 Mio. Passagiere in den Sommerferien – airliners.de](https://www.airliners.de/fraport-erwartet-sommerferien-millionen-passagiere/88510)
-- [Fraport warnt vor Wartezeiten – goldesel.de](https://goldesel.de/aktien/news/fraport-warnt-vor-wartezeiten-am-frankfurter-flughafen-9-mio-passagiere-bis-9-august-so-sollten-reisende-planen)
-- [Fraport mit frischem Analystenurteil, Bernstein bestätigt neutrales Votum – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/fraport-mit-frischem-analystenurteil-bernstein-bestaetigt-neutrales-votum/69611822)
-- [Fraport AG-Aktie: Branchenfokus Flughafenbetreiber vor Modernisierungsschub – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/fraport-ag-aktie-de0005773303-branchenfokus-flughafenbetreiber-vor/69522730)
-- [Fraport AG-Aktie: Analystenrückenwind nach starken Verkehrszahlen – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/fraport-ag-aktie-de0005773303-analystenrueckenwind-nach-starken/69538833)
-- [Quartalsergebnis: Fraport steigert Umsatz trotz Streiks – fvw.de](https://www.fvw.de/touristik/verkehr/quartalsergebnis-fraport-steigert-umsatz-trotz-iran-krieges-und-streiks-260962)
-- [Stefan Schulte – aktuelle News – handelsblatt.com](https://www.handelsblatt.com/themen/stefan-schulte)
-- [Interview Stefan Schulte zu Terminal 3 – hessenschau.de](https://www.hessenschau.de/wirtschaft/fraport-chef-stefan-schulte-im-interview-das-neue-terminal-3-ist-ein-architektonisches-meisterwerk-v1,interview-fraport-chef-100.html)
-- [Fraport AG: Operatives Ergebnis Q1 2026 – airportzentrale.de](https://www.airportzentrale.de/fraport-ag-operatives-ergebnis-legte-im-1-quartal-2026-zu/92543/)
-- [Fraport AG zeigt positive Entwicklung in Q1 – luftfahrtmagazin.de](https://www.luftfahrtmagazin.de/wirtschaft/fraport-ag-zeigt-positive-entwicklung-und-passagierzahlen-in-q1-289403.html)
-- [Fraport wächst 2026: Mehr Passagiere in Frankfurt – parken-flughafen-frankfurt.de](https://www.parken-flughafen-frankfurt.de/magazin/allgemein/fraport-q1-2026-wachstum-passagiere-frankfurt/)
+- [Dietmar Focke to Join Fraport AG's Executive Board on May 1, 2026 – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q1/dietmar-focke-fraport-ag-s-executive-board.html)
+- [CEO reflects on 'transformational' year for Fraport AG – airport-world.com](https://airport-world.com/ceo-reflects-on-transformational-year-for-fraport-ag/)
+- [Fraport CEO Affirms 2026 Passenger Growth Target Despite Iran War – tradingview.com](https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4140A5:0-fraport-ceo-affirms-2026-passenger-growth-target-despite-iran-war/)
+- [Quartalsergebnis: Fraport steigert Umsatz trotz Iran-Krieges und Streiks – fvw.de](https://www.fvw.de/touristik/verkehr/quartalsergebnis-fraport-steigert-umsatz-trotz-iran-krieges-und-streiks-260962)
+- [Fraport AG: Operatives Ergebnis legte im 1. Quartal 2026 zu – airportzentrale.de](https://www.airportzentrale.de/fraport-ag-operatives-ergebnis-legte-im-1-quartal-2026-zu/92543/)
+- [April 2026: Das sind die Expertenmeinungen zur Fraport-Aktie – finanzen.net](https://www.finanzen.net/nachricht/aktien/april-2026-das-sind-die-expertenmeinungen-zur-fraport-aktie-15649504)
+- [Fraport-Aktie (DE0005773303): Finanzminister übernimmt Aufsicht – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/fraport-aktie-de0005773303-finanzminister-uebernimmt-aufsicht/69324050)
 - [Veröffentlichungskalender Fraport 2026 (PDF) – fraport.com](https://www.fraport.com/content/dam/fraport-company/documents/investoren/termine-und-publikationen/veroeffentlichungskalender/Ver%C3%B6ffentlichungskalender%20Fraport%202026.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/Ver%C3%B6ffentlichungskalender%20Fraport%202026.pdf)
