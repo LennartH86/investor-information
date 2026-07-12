@@ -1,48 +1,38 @@
 # Jumbo (BELA.AT)
-_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
+_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 
 ## Aktuelle Meldungen
 
-- **Share price:** As of mid-June 2026, BELA.AT was trading at approximately €22.80 (recorded 16 June 2026). Morningstar carries a fair value estimate of €13.64, implying the stock is trading at a significant premium to intrinsic value estimates.
-- **Dividend calendar (upcoming):** The ex-dividend date is set for 20 July 2026, with payment on 24 July 2026 (record date: 21 July 2026), amounting to €0.77245 per share; the trailing dividend yield stands at approximately 5.44%. This remains the primary near-term shareholder event.
-- **Annual General Meeting:** The AGM is scheduled for 8 July 2026 and may provide updated guidance or dividend resolutions — a potential short-term catalyst.
-- **No new ad-hoc announcements or press releases** from Jumbo SA (BELA.AT) were identified specifically for the period 20.06.–27.06.2026. The most recent material press release on the corporate IR page dates to 06 March 2026.
+- No new ad-hoc announcement or company-specific press release from Jumbo S.A. (BELA.AT) could be confirmed as falling exactly within 27.06.–04.07.2026. The corporate investor relations page (corporate.e-jumbo.gr) was not directly accessible during this research pass, so the most recent verifiable public commentary is a market overview piece ("Jumbo S.A. outlines its retail strategy as investors track the stock") summarizing the company's ongoing strategy of cost control, store network expansion and e-commerce integration.
+- The two upcoming near-term events flagged for shareholders remain the Annual General Meeting (7–8 July 2026, i.e. immediately after this reporting window) and the ex-dividend date of 20 July 2026, with a dividend of approximately €0.77245 per share.
+- Generic "Jumbo" news volume in this period was dominated by unrelated entities (Jumbo Bag Ltd India, Jumbo Interactive Australia, Jumbo Group Singapore/UAE, Jumbo Supermarkten Netherlands, and US "jumbo" mortgage-rate reporting); none of these relate to Jumbo S.A. (BELA.AT).
 
 ## Management
 
-No current information found.
-
-_Note: No CEO interviews, management statements, or public appearances by Jumbo SA (BELA.AT) leadership were identified for the period 20–27 June 2026. Search queries for "Jumbo SA CEO Interview 2026" returned results relating only to unrelated entities (Jumbo Group UAE / Jumbo Interactive Australia). The next expected management communication event is the Annual General Meeting on 8 July 2026._
+Keine aktuellen Informationen gefunden. No CEO or board statements specific to Jumbo S.A. (BELA.AT) were identified for this window. (Note: a leadership change reported in 2026 for "Jumbo" — Jesper Hojer becoming CEO — concerns the unrelated Dutch supermarket chain Jumbo Supermarkten, not Jumbo S.A. Athens; a CEO interview involving Vikas Chadha concerns the unrelated UAE-based Jumbo Group. Both were excluded as out of scope.)
 
 ## Finanzielles
 
-- **FY2025 results (reference):** Record revenue of €1.23 billion; net profit approximately €320.3 million; EPS of €2.38 (up from €2.36 in FY2024), announced 29 April 2026.
-- **Most recent quarterly data:** Revenue in the latest reported quarter reached €735.6 million (up from €497.3 million in the prior quarter); net income for the same period was €203.1 million (up from €117.2 million). These figures reflect the seasonally strong second half of the fiscal year.
-- **FY2026 guidance (confirmed):** Management targets revenue growth of approximately 5% and net profit of €310–320 million for the full year 2026.
-- **Dividend:** Ex-dividend date 20 July 2026; payment date 24 July 2026; €0.77245 per share; trailing dividend yield approximately 5.44%.
-- **Market cap:** Approximately €3.42 billion as of mid-May 2026, based on approximately 134 million shares outstanding.
-- **Interim results:** No Q1 or H1 2026 interim results were published during the reporting period. The next expected financial publication is the H1 2026 half-year report.
-- **Store network:** 89 stores across four markets as of end-2025 (53 GR, 6 CY, 10 BG, 20 RO).
+- Most recently reported quarterly figures (Q1 2026) show group sales up 7% year-over-year, with Greece and Bulgaria growing 11%, Cyprus growing 4%, while Romania declined 4%.
+- Net cash position stood at approximately €473 million, underlining continued balance-sheet strength and investment flexibility.
+- Full-year 2026 guidance remains: sales growth of approximately 5%, net income of €310–320 million, and CapEx of approximately €60 million.
+- Upcoming dividend: ex-dividend date 20 July 2026, dividend of approximately €0.77245 per share (falls after this reporting window but is the key near-term financial event being tracked by investors).
+- No H1/interim 2026 results were published during this specific window; the next scheduled financial disclosure is the half-year 2026 report.
 
 ## Strategie & Ausblick
 
-- **Romania logistics hub:** The acquisition of a 60,000 m² giga-distribution centre in Romania (completed 29 April 2026) remains the most significant recent investment, strengthening logistics infrastructure for the 20 Romanian stores and supporting further south-east European expansion.
-- **Multi-year capex programme:** Jumbo has announced ongoing investments exceeding €60 million over 3–5 years, spanning ERP modernisation, cybersecurity, AI tools, and two new distribution centres.
-- **Organic growth:** The FY2026 growth target of approximately +5% is based on organic expansion in existing markets (GR, CY, BG, RO), supported by a favourable macroeconomic environment in Greece.
-- **Geographic focus:** Jumbo SA continues to concentrate strategically on its four established markets. No announcements regarding expansion into new countries were identified during the reporting period.
-- **M&A:** No new acquisitions or M&A activity were announced during the reporting period. The Romanian distribution centre acquisition (April 2026) remains the most recent transaction.
-- **Near-term catalyst:** The Annual General Meeting scheduled for 8 July 2026 may provide updated guidance or dividend resolutions and could serve as a short-term share price catalyst.
+- Jumbo S.A. continues to position its strategy around three pillars: cost control, store network expansion, and e-commerce integration, consistent with prior periods.
+- The Romania logistics investment (60,000 m² "giga" distribution center, completed around 29 April 2026) continues to underpin the company's south-east European expansion, even as Romanian like-for-like sales softened (-4% in Q1 2026).
+- Multi-year CapEx plans (ERP modernization, cybersecurity, AI tooling, additional distribution centers) remain in place alongside organic store network growth across Greece, Cyprus, Bulgaria and Romania.
+- The Annual General Meeting (7–8 July 2026), occurring just after this window closes, is the next likely source of updated management guidance, dividend confirmation, or strategic commentary, and should be a focus for the following reporting period.
 
 ## Quellen
 
-- [Jumbo SA (BELA) – Morningstar](https://www.morningstar.com/stocks/xath/bela/quote)
-- [Jumbo S.A. (BELA.AT) Stock Price, News, Quote & History – Yahoo Finance](https://finance.yahoo.com/quote/BELA.AT/)
-- [Jumbo SA Share Price, Forecast & Financials (ATH:BELA) – Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/)
+- [Jumbo S.A. outlines its retail strategy as investors track the stock – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/jumbo-s-a-outlines-its-retail-strategy-as-investors-track-the-stock/69698193)
+- [JUMBO SA To Go Ex-Dividend On July 20th, 2026 With 0.77245 USD Dividend Per Share – Futunn](https://news.futunn.com/en/post/72236365/jumbo-sa-to-go-ex-dividend-on-july-20th-2026)
+- [Jumbo S.A.: Financial Results Press Release / Presentations – MarketScreener](https://www.marketscreener.com/news/jumbo-s-a-financial-results-press-release-presentations-ce7f5dd2df80f02c)
 - [Jumbo (BELA) Investor Relations, Earnings Summary & Outlook – Quartr](https://quartr.com/companies/jumbo-s-a_15933)
-- [Jumbo S.A.: Company Events & Financial Calendar – MarketScreener](https://www.marketscreener.com/quote/stock/JUMBO-S-A-6259019/calendar/)
-- [Latest News about Jumbo S.A. – MarketScreener](https://www.marketscreener.com/quote/stock/JUMBO-S-A-6259019/news/)
+- [Jumbo S.A. (BELA) | Complete Financial Reports 2026 – financialfilings.com](https://financialfilings.com/companies/jumbo-sa/)
 - [All Years – Announcements / Press Releases | Jumbo Corporate](https://corporate.e-jumbo.gr/en/investor-relations/announcements-press-releases/all-years/)
-- [Jumbo S.A. Financial Reports – financialreports.eu](https://financialreports.eu/companies/jumbo-sa/)
-- [Jumbo SA (ATH:BELA) – GuruFocus](https://www.gurufocus.com/stock/ATH:BELA/summary)
-- [AT:BABr Financials | Jumbo SA – Investing.com](https://www.investing.com/equities/jumbo-financial-summary)
-- [Jumbo | BELA – TradingEconomics](https://tradingeconomics.com/bela:ga)
+- [Jumbo – 2026 Company Profile, Team, Funding & Competitors – Tracxn](https://tracxn.com/d/companies/jumbo/__rjIzlr4NS-uRGXYvM4wPcvQX9meMR9amEA61UwVLWy0)
+- [Jumbo 2026 Company Profile: Stock Performance & Earnings – PitchBook](https://pitchbook.com/profiles/company/59301-91)

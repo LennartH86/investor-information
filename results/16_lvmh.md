@@ -1,144 +1,117 @@
 # LVMH (MC.PA)
-_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
+_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 
 ## Aktuelle Meldungen
 
-- **VivaTech 2026 – DreamGallery & LVMH Innovation Award (17.–20.06.2026):** LVMH kehrte als Gründungspartner zur VivaTech zurück und feierte das 10-jährige Jubiläum der Partnerschaft. Die neue immersive „DreamGallery" bildet erstmals die gesamte Wertschöpfungskette der Maisons in einem integrierten Erlebnis ab. 11 Maisons präsentierten 12 Innovationsprojekte zusammen mit 10 Technologiepartnern im Wettbewerb um den LVMH Innovation Award 2026. Bernard Arnault und Olympiaschwimmer Léon Marchand (Botschafter für Louis Vuitton) sprachen am 17. Juni. Guerlain betrieb seit dem 14. Juni eine KI-Erlebniswelt auf den Champs-Élysées.
-  _LVMH returned to VivaTech as a founding partner, celebrating 10 years of partnership. The new immersive "DreamGallery" mapped the full value chain of its Maisons in one integrated experience for the first time. 11 Maisons showcased 12 innovation projects alongside 10 technology partners competing for the LVMH Innovation Award 2026. Bernard Arnault and Léon Marchand (Louis Vuitton ambassador) spoke on June 17._
-  Quelle: [LVMH x VivaTech 2026](https://www.lvmh.com/en/lvmh-x-vivatech-2026)
+- **Louis Vuitton gewinnt Markenrechtsstreit in China, verliert aber PR-Schlacht (bekannt ca. 06.07.2026):** Louis Vuitton hat vor einem Gericht in Suzhou (Ostchina) einen Markenrechtsstreit gegen eine Bubble-Tea-Kette gewonnen, die ein dem LV-Logo ähnliches Zeichen verwendet hatte. Der Sieg entpuppte sich jedoch als „Pyrrhussieg": In chinesischen sozialen Netzwerken entstand ein Backlash gegen den Luxuskonzern, der als übermächtig und humorlos gegenüber einem kleinen lokalen Anbieter wahrgenommen wurde – ein Imagerisiko statt eines Erfolgs.
+  _Louis Vuitton won a trademark case in a Suzhou court against a Chinese bubble-tea chain using a logo resembling its own. The victory proved to be pyrrhic: the ruling sparked a social-media backlash in China against LVMH being seen as heavy-handed toward a small local business, turning a legal win into a reputational risk._
+  Quelle: [Bloomberg Opinion – LVMH Needs to Beware China's Luxury Minefield (07.07.2026)](https://www.bloomberg.com/opinion/articles/2026-07-07/lvmh-needs-to-beware-china-s-luxury-minefield)
 
-- **Louis Vuitton – Grand Prix de Monaco 2026 (Rennen 22.–25. Mai 2026):** Louis Vuitton hat als neuer Titelsponsor das Formel-1-Rennen in Monaco übernommen und ersetzt damit den Konzernpartner TAG Heuer. Die mehrjährige Partnerschaft mit der FOM und dem Automobile Club de Monaco stärkt Louis Vuittons Positionierung im Luxussport.
-  _Louis Vuitton became the new title sponsor of the Formula 1 Monaco Grand Prix, replacing fellow LVMH brand TAG Heuer. The multi-year partnership with F1 and the Automobile Club de Monaco reinforces Louis Vuitton's positioning in luxury sports._
-  Quelle: [LVMH News](https://www.lvmh.com/en/news-lvmh)
-
-- **Führungswechsel bei Givenchy:** LVMH hat das Management bei Givenchy im Rahmen einer breiteren Überprüfung der kreativen und operativen Führung im Segment Fashion & Leather Goods neu besetzt.
-  _LVMH reshuffled management at Givenchy as part of a broader review of creative and operational leadership within the Fashion & Leather Goods segment._
+- **Führungswechsel bei Givenchy:** LVMH hat im Berichtszeitraum die Managementspitze bei Givenchy neu besetzt, im Zuge einer breiteren Überprüfung der operativen und kreativen Führungsstrukturen innerhalb der Sparte Fashion & Leather Goods. Details zu Nachfolgern wurden nicht vollständig öffentlich bestätigt.
+  _LVMH reshuffled Givenchy's leadership as part of a broader review of creative and operational management within the Fashion & Leather Goods division. Full successor details were not publicly confirmed._
   Quelle: [World Footwear – LVMH reshuffles leadership at Givenchy](https://www.worldfootwear.com/news/lvmh-reshuffles-leadership-at-givenchy/11162.html)
 
-- **Verkauf von Marc Jacobs (Mai 2026):** LVMH veräußerte die Marke Marc Jacobs an WHP Global. Die Transaktion zeigt die strategische Neuausrichtung des Konzerns auf Kernmarken der höchsten Preissegmente und unterstreicht die selektive Portfoliobereinigung.
-  _LVMH divested the Marc Jacobs brand to WHP Global in May 2026, reflecting the group's strategic refocus on its core ultra-premium brands and deliberate portfolio pruning._
-  Quelle: [Tracxn – Acquisitions by LVMH](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
+- **Kleinere Akquisition: Les Éditions Croque Futur:** LVMH (bzw. eine seiner Einheiten) hat den Verlag/Herausgeber „Les Editions Croque Futur" übernommen – eine kleinere, ergänzende Transaktion im Portfolio des Konzerns.
+  _LVMH acquired publisher "Les Editions Croque Futur" — a smaller, complementary transaction within the group's broader portfolio activity._
+  Quelle: [World Footwear – LVMH acquires Les Editions Croque Futur](https://www.worldfootwear.com/news/lvmh-acquires-les-editions-croque-futur/11153.html)
 
-- **Kursdruck durch neue Zollrisiken & Morgan-Stanley-Herabstufung:** LVMH-Aktien standen in KW26 unter Druck, nachdem Morgan Stanley die Aktie herabgestuft hatte und neue US-Zollrisiken im Fokus standen.
-  _LVMH shares came under pressure in KW26 following a Morgan Stanley downgrade and renewed concerns over US tariff risks for luxury goods._
-  Quelle: [MarketScreener – LVMH Falls on New Tariff Risks and Morgan Stanley Downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26)
+- **Bernard Arnault im Legend-Podcast (Juli 2026):** Arnault gab dem YouTube-/Podcast-Format „Legend" von Guillaume Pley ein seltenes, über 1h40 langes Interview. Themen: Kindheit, Erziehungsphilosophie, seine Freundschaft mit US-Präsident Donald Trump sowie die Luxusbranche. Bemerkenswert: Arnault sagte, er möge den Begriff „Luxus" selbst nicht besonders, da er oft mit Aspekten assoziiert werde, die nichts mit dem Geschäft von LVMH zu tun hätten.
+  _Arnault gave a rare, over-100-minute interview to Guillaume Pley's "Legend" podcast/YouTube channel, covering his childhood, parenting philosophy, his friendship with US President Donald Trump, and the luxury industry. Notably, he said he is not particularly fond of the term "luxury" itself, as it is often associated with aspects unrelated to LVMH's actual business._
+  Quelle: [Yahoo Lifestyle – LVMH's Bernard Arnault Is Big on Family](https://www.yahoo.com/lifestyle/articles/lvmh-bernard-arnault-big-family-203536749.html)
+
+- **Fortgesetzter Kursdruck (Kontext seit KW26):** Die LVMH-Aktie stand weiterhin unter Druck durch neue US-Zollrisiken sowie eine vorangegangene Herabstufung durch Morgan Stanley; dies bleibt ein prägendes Thema auch im Berichtszeitraum KW27.
+  _LVMH shares remained under pressure from renewed US tariff risk and the earlier Morgan Stanley downgrade — a theme still shaping sentiment into KW27._
+  Quelle: [MarketScreener – LVMH Falls on New Tariff Risks and Morgan Stanley's Downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26)
 
 ---
 
 ## Management
 
-- **Bernard Arnault – Vorsichtiger Optimismus, mittelfristig positiv:** Arnault äußerte sich zuletzt im Kontext der Q1-Ergebnisse und der VivaTech vorsichtig: _„I always say that in our business, I'm optimistic in the medium term. But in the short term, it's very difficult to make a serious forecast."_ Er betont weiterhin die Stärke der flagship Marken (Louis Vuitton, Dior, Tiffany) als Fundament des Konzerns.
-  _Arnault continues to express medium-term optimism while acknowledging short-term unpredictability. At the Q1 2026 results presentation, he put the spotlight on the group's flagship brands and sidestepped the succession question._
-  Quelle: [Bloomberg – Bernard Arnault Turns Gloomy (30.01.2026)](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment) | [FashionNetwork – Results presentation](https://ww.fashionnetwork.com/news/At-lvmh-s-results-presentation-bernard-arnault-puts-the-spotlight-on-the-group-s-flagship-brands-sidesteps-succession-issue,1802775.html)
+- **Bernard Arnault – öffentlichkeitswirksamer Auftritt abseits des Geschäfts:** Im „Legend"-Podcast präsentierte sich Arnault von einer persönlichen Seite (Familie, Erziehung, Freundschaft zu Trump) statt strikt geschäftsbezogen zu kommunizieren – ein PR-Ansatz, der auf Imagepflege in einem herausfordernden Marktumfeld hindeutet.
+  _In the "Legend" podcast, Arnault presented a personal side (family, parenting, friendship with Trump) rather than strictly business messaging — a PR approach suggesting image cultivation amid a challenging market environment._
+  Quelle: [Yahoo Lifestyle](https://www.yahoo.com/lifestyle/articles/lvmh-bernard-arnault-big-family-203536749.html)
 
-- **Hauptversammlung (23. April 2026, Carrousel du Louvre) – Nachfolge & Nahostkonflikt:** Arnault wurde mit 99 % der Stimmen wiedergewählt. Er bezeichnete die Lage im Nahen Osten als „fairly serious crisis" und nannte das Thema Nachfolge in „sieben bis acht Jahren" erneut relevant.
-  _Arnault was re-elected with 99% of votes. He described the Middle East situation as a "fairly serious crisis" and said the succession topic should be revisited in "seven or eight years."_
+- **Givenchy-Führungswechsel:** Personalveränderungen an der Spitze von Givenchy fügen sich in Arnaults fortlaufende Strategie ein, Managementstrukturen innerhalb der Fashion & Leather Goods-Sparte zu straffen und Marken neu zu positionieren, nachdem 2025/26 bereits mehrere kreative Leitungswechsel (u.a. bei anderen Modehäusern der Gruppe) stattfanden.
+  _The Givenchy leadership change fits Arnault's ongoing strategy of tightening management structures within Fashion & Leather Goods and repositioning brands, following several other creative-leadership changes across the group's fashion houses in 2025/26._
+  Quelle: [World Footwear – LVMH reshuffles leadership at Givenchy](https://www.worldfootwear.com/news/lvmh-reshuffles-leadership-at-givenchy/11162.html)
 
-- **Arnault-Familie konsolidiert Kontrolle (Februar 2026):** Die Familie Arnault erhöhte ihren Anteil auf 50,01 % des Kapitals (65,94 % der Stimmrechte) durch einen Aktienkauf von ca. $440 Mio. im Februar 2026.
-  _The Arnault family raised its stake to 50.01% of capital (65.94% of voting rights) through a ~$440m share purchase in February 2026, signaling long-term confidence._
-
-- **Tiffany-Ziel als weltweiter Nr.-1-Juwelier:** Arnault bekräftigte, Tiffany & Co. innerhalb von fünf bis zehn Jahren zur weltweiten Nr. 1 im Luxusschmucksegment machen zu wollen.
-  _Arnault reaffirmed the ambition to position Tiffany & Co. as the world's number one luxury jeweler within five to ten years._
+- **Kein neuer Kommentar zur Nachfolgefrage im Berichtszeitraum.** Der letzte bekannte Stand bleibt die Aussage von der Hauptversammlung am 23. April 2026, wonach die Nachfolge in „sieben bis acht Jahren" wieder relevant werde.
+  _No new comment on the succession question during the reporting period. The latest known position remains from the April 23, 2026 AGM, where Arnault said succession would become relevant again in "seven to eight years."_
 
 ---
 
 ## Finanzielles
 
-### Q1 2026 Ergebnisse (veröffentlicht 13. April 2026)
+Im Berichtszeitraum (27.06.–04.07.2026) wurden keine neuen offiziellen Finanzzahlen veröffentlicht. Die nächsten planmäßigen Zahlen sind die **H1 2026-Ergebnisse am 28. Juli 2026**. Referenz bleiben die Q1 2026-Zahlen sowie das Marktumfeld rund um Zölle/Analysteneinschätzungen:
 
 | Kennzahl | Q1 2026 | Q1 2025 | Veränderung |
 |---|---|---|---|
 | Gesamtumsatz | €19,1 Mrd. | €20,3 Mrd. | −6 % (reported) |
-| Organisches Wachstum | +1 % | – | kons. Wechselkurs & Perimeter |
+| Organisches Wachstum | +1 % | – | konsolidiert, Wechselkurs- & Perimeteranpassung |
 | Währungseffekt | −7 % | – | starker Euro |
 | Fashion & Leather Goods | €9,247 Mrd. | €10,108 Mrd. | −9 % reported / −2 % organisch |
-| Uhren & Schmuck | – | – | +7 % organisch |
+| Uhren & Schmuck | – | – | +7 % organisch (Tiffany & Bvlgari) |
 | Wines & Spirits | – | – | +5 % organisch |
 | Parfums & Kosmetik | – | – | 0 % organisch (stabil) |
 
-**Regionale Entwicklung:**
-- Asien exkl. Japan: starkes organisches Wachstum, Trendwende seit H2 2025
-- USA: solide organische Entwicklung
-- Europa & Japan: teilweise Rückgänge durch schwächeren Touristenstrom
-- Naher Osten: erhebliche Einbußen durch den regionalen Konflikt; belastete Gesamtwachstum um ca. −1 %
+**Marktreaktion / Analysten:** Die Aktie stand weiterhin unter Druck durch die Kombination aus neuen US-Zollrisiken und der Herabstufung durch Morgan Stanley. Belastungsfaktoren, die im Kontext auch in KW27 relevant blieben, umfassen den China-bezogenen Reputationsvorfall (Louis-Vuitton-Markenstreit) sowie generelle Vorsicht gegenüber dem chinesischen Konsumklima.
 
-_Q1 2026: LVMH posted €19.1bn in revenue, down 6% reported but +1% organically. A 7-point currency headwind masked underlying resilience. Watches & Jewelry (+7% organic) and Wines & Spirits (+5%) outperformed; Fashion & Leather Goods (−2% organic) was the biggest drag. The Middle East conflict reduced overall organic growth by approximately 1 percentage point._
+_No new official financial figures were released during the reporting period; the next scheduled release is the H1 2026 results on July 28, 2026. Reference remains the Q1 2026 print (revenue €19.1bn, −6% reported / +1% organic) and the continued share-price pressure from US tariff risk, the Morgan Stanley downgrade, and renewed reputational concerns in China._
 
-Quellen: [Investing.com – LVMH Q1 2026 slides](https://www.investing.com/news/company-news/lvmh-q1-2026-slides-organic-growth-holds-amid-currency-headwinds-93CH-4610985) | [CNBC – Q1 2026](https://www.cnbc.com/2026/04/13/lvmh-earnings-q1-2026-sales-luxury-iran-war-middle-east.html) | [Investing.com – Earnings call transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-shows-resilience-amid-q1-2026-challenges-93CH-4610968)
-
----
-
-### Aktie & Analystenkonsens (Stand: KW26, 27.06.2026)
-
-| Kennzahl | Wert |
-|---|---|
-| Nächstes Ereignis | H1 2026 Ergebnisse am **28. Juli 2026** |
-| Ø FY 2026E Umsatz (Konsens) | ~€81,8 Mrd. |
-| Ø FY 2026E EPS (Konsens) | ~€22,98 |
-| Analystenvoten (zuletzt) | mehrheitlich Kauf / mehrheitlich positiv |
-| Kursdruck KW26 | Morgan-Stanley-Herabstufung + neue Zollrisiken |
-
-_Analysts broadly expect 2–3% organic revenue growth for full-year 2026, with a stronger second half. Key risks: Chinese luxury consumption, US tariffs on European goods, strong euro, and ongoing Middle East headwinds. A Morgan Stanley downgrade and fresh tariff concerns weighed on the share price in KW26._
-
-Quellen: [LVMH Financial Calendar](https://www.lvmh.com/en/financial-calendar) | [MarketScreener – LVMH downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26)
+Quellen: [MarketScreener – LVMH Falls on New Tariff Risks and Morgan Stanley's Downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26) | [LVMH Financial Calendar](https://www.lvmh.com/en/financial-calendar) | [Journal du Luxe – LVMH: une croissance organique timide au premier trimestre 2026](https://www.journalduluxe.fr/fr/business/lvmh-chiffre-affaires-resultats-financiers-premier-trimestre-2026) | [Carnets du Luxe – LVMH résultats financiers Q1 2026](https://www.carnetsduluxe.com/a-la-une/lvmh-resultats-financiers-q1-2026/)
 
 ---
 
 ## Strategie & Ausblick
 
-- **Innovation als Kernthema – VivaTech 2026:** LVMH setzt auf das Motto „Innovation only has meaning when it serves excellence" und präsentierte bei der VivaTech 12 konkrete Projekte aus 11 Maisons. KI und Technologiepartnerschaften stehen im Zentrum, mit Guerlain als Vorzeigebeispiel für KI-gestützte Erlebnisse.
-  _LVMH positions innovation as central to its excellence strategy, showcasing 12 projects at VivaTech under the motto "innovation only has meaning when it serves excellence." AI and tech partnerships are central, with Guerlain as a flagship example._
-  Quelle: [LVMH x VivaTech 2026](https://www.lvmh.com/en/lvmh-x-vivatech-2026)
+- **China-Risiko im Fokus:** Der Markenrechtsstreit um das Louis-Vuitton-Logo verdeutlicht laut Bloomberg-Kommentar ein grundsätzliches strategisches Risiko: LVMH muss in China zwischen konsequentem Markenschutz und dem Vermeiden eines Images als übermächtiger, unsensibler Konzern balancieren – gerade in einem Markt, der für die künftige Wachstumsdynamik der Gruppe entscheidend bleibt.
+  _According to Bloomberg's opinion piece, the Louis Vuitton trademark dispute highlights a structural strategic risk: LVMH must balance rigorous brand protection against the risk of being perceived as an overbearing, tone-deaf conglomerate in China — a market still critical to the group's future growth trajectory._
+  Quelle: [Bloomberg Opinion – LVMH Needs to Beware China's Luxury Minefield](https://www.bloomberg.com/opinion/articles/2026-07-07/lvmh-needs-to-beware-china-s-luxury-minefield)
 
-- **Akquisition: Penha Longa Resort, Portugal:** LVMH erwarb über seinen Investmentarm L Catterton in Partnerschaft mit Cedar Capital Partners das prestigeträchtige Penha Longa Resort in Portugal. Die Transaktion (geschätzter Wert: ~€140 Mio.) unterstreicht die Expansion im Segment Experiential Luxury (Hotels & Hospitality) neben Cheval Blanc und Belmond.
-  _LVMH acquired the prestigious Penha Longa Resort in Portugal through its investment arm L Catterton in partnership with Cedar Capital Partners (estimated value: ~€140m). The deal underscores expansion in experiential luxury alongside Cheval Blanc and Belmond._
-  Quelle: [Tourism and Society – LVMH Portugal acquisition](https://eng.tourismandsocietytt.com/news-and-newsletter/2026/2026-april/ultimas-noticias/lvmh-strengthens-hotel-expansion-with-strategic-portugal-acquisition)
+- **Fortgesetzte, aber kleinteilige M&A-Aktivität:** Nach größeren Transaktionen in H1 2026 (Erhöhung Loro-Piana-Anteil auf 94 %, Verkauf Marc Jacobs, Penha-Longa-Resort in Portugal) setzt LVMH die Portfolio-Feinjustierung mit kleineren Zukäufen wie „Les Editions Croque Futur" fort – ein Muster opportunistischer, diversifizierter Zukäufe abseits der Kernmarken.
+  _Following larger H1 2026 transactions (raising the Loro Piana stake to 94%, the Marc Jacobs divestment, the Penha Longa resort acquisition in Portugal), LVMH continues fine-tuning its portfolio with smaller add-on acquisitions such as "Les Editions Croque Futur" — a pattern of opportunistic, diversified bolt-on deals beyond its core brands._
+  Quelle: [World Footwear – LVMH acquires Les Editions Croque Futur](https://www.worldfootwear.com/news/lvmh-acquires-les-editions-croque-futur/11153.html) | [Tracxn – Acquisitions by LVMH](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
 
-- **Medienexpansion in Frankreich:** Jüngste Akquisitionen umfassen die Medientitel Challenges, AGEFI und l'Opinion – ein strategischer Ausbau der kulturellen und wirtschaftspolitischen Positionierung in Frankreich.
-  _Recent acquisitions include the media titles Challenges, AGEFI and l'Opinion, reinforcing LVMH's strategic cultural and economic-policy positioning in France._
-  Quelle: [ReportLinker – LVMH Bold Expansion](https://www.reportlinker.com/article/7031)
+- **Management-Kontinuität durch operative Anpassungen:** Der Führungswechsel bei Givenchy signalisiert, dass LVMH auch unterjährig operative Anpassungen an der Kreativ- und Managementspitze einzelner Maisons vornimmt, um die Markenperformance im schwächelnden Fashion & Leather Goods-Segment zu verbessern (Q1 2026: −2 % organisch).
+  _The Givenchy leadership change signals LVMH's willingness to make mid-year operational adjustments to individual Maisons' creative and management leadership in order to improve brand performance within the softer Fashion & Leather Goods segment (Q1 2026: −2% organic)._
+  Quelle: [World Footwear – LVMH reshuffles leadership at Givenchy](https://www.worldfootwear.com/news/lvmh-reshuffles-leadership-at-givenchy/11162.html)
 
-- **Uhren & Schmuck als mittelfristiger Wachstumstreiber:** Das Segment erzielte im Q1 2026 +7 % organisches Wachstum. Tiffany & Co. und Bvlgari stehen im Zentrum der Investitionsstrategie; LVMH strebt nach der Position der weltweit führenden Luxusjuweliergruppe.
-  _Watches & Jewelry posted +7% organic growth in Q1 2026. Tiffany & Co. and Bvlgari anchor the investment strategy as LVMH pursues world leadership in luxury jewelry._
-
-- **Geopolitischer Ausblick – Vorsicht dominiert:** Makrorisiken (US-Zölle, Währungsgegenwind, Nahostkonflikt, chinesische Konsumzurückhaltung) bleiben das bestimmende Thema für H2 2026. Arnault: _„In the short term, it's very difficult to make a serious forecast."_ Die H1 2026 Ergebnisse werden am 28. Juli 2026 erwartet.
-  _Macro risks (US tariffs, currency headwinds, Middle East conflict, sluggish Chinese consumer) dominate the H2 2026 outlook. Arnault: "In the short term, it's very difficult to make a serious forecast." H1 2026 results are expected July 28, 2026._
-
-- **DFS-Desinvestition:** Das Management bestätigte die Absicht, das DFS-Geschäft (Duty-Free) zu veräußern, nachdem der Großteil der Beteiligung im Januar 2026 verkauft wurde.
-  _Management confirmed the intention to fully divest the DFS (duty-free) business, having sold the majority stake in January 2026._
+- **Ausblick H1 2026-Ergebnisse (28. Juli 2026):** Der Markt richtet sich zunehmend auf die kommenden Halbjahreszahlen aus. Zentrale Beobachtungspunkte bleiben: Erholung in China, Auswirkungen von US-Zöllen, Wechselkursentwicklung sowie die Entwicklung der Fashion & Leather Goods-Sparte.
+  _Market attention is increasingly turning to the upcoming H1 2026 results. Key watch points remain: the China recovery trajectory, US tariff impact, currency effects, and the trajectory of the Fashion & Leather Goods division._
+  Quelle: [LVMH Financial Calendar](https://www.lvmh.com/en/financial-calendar)
 
 ---
 
 ## Quellen
 
-**Aktuelle Meldungen / Actualités récentes**
-- [LVMH x VivaTech 2026 (lvmh.com)](https://www.lvmh.com/en/lvmh-x-vivatech-2026)
-- [LVMH News (lvmh.com)](https://www.lvmh.com/en/news-lvmh)
+**Aktuelle Meldungen**
+- [Bloomberg Opinion – LVMH Needs to Beware China's Luxury Minefield (07.07.2026)](https://www.bloomberg.com/opinion/articles/2026-07-07/lvmh-needs-to-beware-china-s-luxury-minefield)
 - [World Footwear – LVMH reshuffles leadership at Givenchy](https://www.worldfootwear.com/news/lvmh-reshuffles-leadership-at-givenchy/11162.html)
-- [MarketScreener – LVMH Falls on New Tariff Risks and Morgan Stanley Downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26)
-- [Tracxn – List of LVMH Acquisitions (incl. Marc Jacobs divestment)](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
+- [World Footwear – LVMH acquires Les Editions Croque Futur](https://www.worldfootwear.com/news/lvmh-acquires-les-editions-croque-futur/11153.html)
+- [Yahoo Lifestyle – LVMH's Bernard Arnault Is Big on Family, Not Fond of 'Luxury'](https://www.yahoo.com/lifestyle/articles/lvmh-bernard-arnault-big-family-203536749.html)
+- [MarketScreener – LVMH Falls on New Tariff Risks and Morgan Stanley's Downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26)
+- [LVMH – News](https://www.lvmh.com/en/news-lvmh)
+- [LVMH – Press](https://www.lvmh.com/en/press)
 
 **Management**
-- [Bloomberg – Bernard Arnault Turns Gloomy About the Global Environment (30.01.2026)](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment)
-- [FashionNetwork – Bernard Arnault puts spotlight on flagship brands, sidesteps succession (Q1 results)](https://ww.fashionnetwork.com/news/At-lvmh-s-results-presentation-bernard-arnault-puts-the-spotlight-on-the-group-s-flagship-brands-sidesteps-succession-issue,1802775.html)
-- [FashionNetwork USA – Same report](https://us.fashionnetwork.com/news/At-lvmh-s-results-presentation-bernard-arnault-puts-the-spotlight-on-the-group-s-flagship-brands-sidesteps-succession-issue,1802809.html)
-- [YouTube – Bernard Arnault at LVMH AGM 23.04.2026](https://www.youtube.com/shorts/tgB1X4BP2Zk)
-- [LVMH – Bernard Arnault, Chairman and CEO](https://www.lvmh.com/en/our-group/governance/bernard-arnault)
+- [Yahoo Lifestyle – Bernard Arnault "Legend" podcast interview](https://www.yahoo.com/lifestyle/articles/lvmh-bernard-arnault-big-family-203536749.html)
+- [World Footwear – LVMH reshuffles leadership at Givenchy](https://www.worldfootwear.com/news/lvmh-reshuffles-leadership-at-givenchy/11162.html)
+- [Bloomberg – LVMH CEO Bernard Arnault Turns Gloomy About the Global Environment (30.01.2026)](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment)
+- [CNBC – LVMH CEO Arnault warns of 'world catastrophe' if Middle East conflict is not resolved (23.04.2026)](https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html)
 
-**Finanzielles / Finances**
-- [Investing.com – LVMH Q1 2026 slides: organic growth holds amid currency headwinds](https://www.investing.com/news/company-news/lvmh-q1-2026-slides-organic-growth-holds-amid-currency-headwinds-93CH-4610985)
-- [Investing.com – Earnings call transcript: LVMH shows resilience amid Q1 2026 challenges](https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-shows-resilience-amid-q1-2026-challenges-93CH-4610968)
-- [CNBC – LVMH Q1 sales miss expectations as luxury recovery put on pause](https://www.cnbc.com/2026/04/13/lvmh-earnings-q1-2026-sales-luxury-iran-war-middle-east.html)
-- [Modaes Global – LVMH opens 2026 with sales down 6% in Q1](https://www.modaes.com/global/companies/lvmh-opens-2026-with-sales-down-6-in-the-first-quarter-dragged-down-by-fashion)
-- [LVMH Financial Calendar](https://www.lvmh.com/en/financial-calendar)
+**Finanzielles**
+- [Journal du Luxe – LVMH: une croissance organique timide au premier trimestre 2026](https://www.journalduluxe.fr/fr/business/lvmh-chiffre-affaires-resultats-financiers-premier-trimestre-2026)
+- [Carnets du Luxe – LVMH résultats financiers Q1 2026 : un début d'année sous tension](https://www.carnetsduluxe.com/a-la-une/lvmh-resultats-financiers-q1-2026/)
+- [ABC Bourse – LVMH clôture l'année 2025 avec un résultat net de 10,9 milliards d'euros](https://www.abcbourse.com/marches/lvmh-cloture-l-annee-2025-avec-un-resultat-net-de-10-9-milliards-d-euros_686941)
+- [LVMH – Financial Calendar](https://www.lvmh.com/en/financial-calendar)
 - [LVMH – Investors and analysts](https://www.lvmh.com/en/investors/investors-and-analysts)
-- [MarketScreener – LVMH Company Events & Financial Calendar](https://www.marketscreener.com/quote/stock/LVMH-4669/calendar/)
+- [MarketScreener – LVMH Falls on New Tariff Risks and Morgan Stanley's Downgrade](https://www.marketscreener.com/news/lvmh-falls-on-new-tariff-risks-and-morgan-stanley-s-downgrade-ce7e58dfd188fe26)
 
-**Strategie & Investitionen / Stratégie & Investissements**
+**Strategie & Investitionen**
+- [Bloomberg Opinion – LVMH Needs to Beware China's Luxury Minefield](https://www.bloomberg.com/opinion/articles/2026-07-07/lvmh-needs-to-beware-china-s-luxury-minefield)
+- [World Footwear – LVMH acquires Les Editions Croque Futur](https://www.worldfootwear.com/news/lvmh-acquires-les-editions-croque-futur/11153.html)
+- [Tracxn – List of 46 Acquisitions by LVMH](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
 - [Tourism and Society – LVMH strengthens hotel expansion with Portugal acquisition](https://eng.tourismandsocietytt.com/news-and-newsletter/2026/2026-april/ultimas-noticias/lvmh-strengthens-hotel-expansion-with-strategic-portugal-acquisition)
 - [ReportLinker – LVMH's Bold Expansion: Conquering New Frontiers in Luxury Cosmetics and Beyond](https://www.reportlinker.com/article/7031)
-- [Tracxn – LVMH Acquisitions](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
+- [Weshmind Journal – LVMH Stock Forecast 2026: Buy, Hold or Sell?](https://weshmindjournal.com/journal/lvmh-stock-forecast-2026-buy-sell-analysis)
 - [Compound and Fire – LVMH Under the Lens: A New Journey in Quality Luxury Investing](https://compoundandfire.substack.com/p/lvmh-under-the-lens-a-new-journey)
-- [Weshmind Journal – LVMH Stock 2026: Buy, Hold or Sell?](https://weshmindjournal.com/journal/lvmh-stock-forecast-2026-buy-sell-analysis)
-- [LVMH – Press](https://www.lvmh.com/en/press)
-- [PR Newswire – LVMH News and Press Releases](https://www.prnewswire.com/news/LVMH/)

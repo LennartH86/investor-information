@@ -1,67 +1,43 @@
 # Sto SE & Co. KGaA (STO3.DE)
-_KW26 / 2026 | Zeitraum: 20.06.2026 – 27.06.2026_
+_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 
 ## Aktuelle Meldungen
 
-- **Dividendenzahlung am 23. Juni 2026:** Die auf der Hauptversammlung (18.06.2026) beschlossene Dividende wurde planmäßig ausgezahlt. Inhaber von Vorzugsaktien erhielten EUR 3,31 je Aktie (Basisdividende EUR 0,31 + Sonderdividende EUR 3,00); Stammaktionäre erhielten EUR 3,25 je Aktie (EUR 0,25 + EUR 3,00). Der Ex-Dividende-Tag war der 19. Juni 2026, der Record-Day der 22. Juni 2026. Die Gesamtausschüttung belief sich auf EUR 21.036.780,00 – unverändert gegenüber dem Vorjahr.
-- **Keine neuen Ad-hoc-Meldungen in KW26 (20.–27.06.2026):** Im Berichtszeitraum wurden keine kursrelevanten Pflicht- oder Ad-hoc-Mitteilungen veröffentlicht. Die letzte wesentliche Unternehmensmitteilung war die HV-Bekanntmachung vom 18.06.2026.
-- **Jahresbericht 2025 verfügbar:** Der interaktive Geschäftsbericht 2025 der Sto SE & Co. KGaA (englischsprachige Version) steht auf der Unternehmenswebsite zum Download bereit.
+- **Keine unternehmensspezifische Ad-hoc- oder Pressemitteilung von Sto SE im engeren Berichtszeitraum (27.06.–04.07.2026):** Auf der offiziellen Sto-Presseseite und in den einschlägigen Finanzportalen (finanznachrichten.de, onvista, EQS News) wurde im Zeitraum keine neue eigene Unternehmensmeldung von Sto SE & Co. KGaA identifiziert. Die letzte originäre Unternehmensmitteilung bleibt der Q1-2026-Bericht vom 08.05.2026.
+- **Branchenrelevante Marktnachricht kurz nach dem Berichtszeitraum (06.07.2026):** Der Immobilienverband GdW meldete, dass die Neubau-Investitionen in Deutschland 2026 um rund 26 % auf nur noch ca. 6 Mrd. Euro einbrechen werden; die Zahl fertiggestellter Wohnungen soll von rund 24.000 (2025) auf etwa 16.000 (2026) sinken. Da Sto einen wesentlichen Teil seines Umsatzes mit Fassadenbeschichtungen und Wärmedämmverbundsystemen (WDVS) erzielt, wird dies in der Finanzpresse (u. a. boerse-express.com) explizit als Belastungsfaktor für die Sto-Aktie eingeordnet.
+- **Kontextfaktoren:** Baupreise sind seit 2019 um rund 51 % gestiegen, Finanzierungskosten haben sich in etwa vervierfacht; hohe Baukosten und unsichere Förderbedingungen bremsen laut Berichten weiterhin viele Bauprojekte.
 
 ## Management
 
-Keine CEO-Interviews oder öffentlichen Management-Statements im Berichtszeitraum (20.–27.06.2026) auffindbar. Der Vorstand der STO Management SE setzt sich aktuell wie folgt zusammen:
+Keine neuen CEO- oder Vorstands-Interviews bzw. -Statements der Sto SE & Co. KGaA im Berichtszeitraum auffindbar. Hinweis: Ein im Rahmen der Recherche gefundenes Interview mit einem "CEO" von "STO Building Group" (ENR-Podcast "Groundbreakers", Mai 2026) betrifft eine gleichnamige, aber unabhängige US-amerikanische Baufirma und steht in keinem Zusammenhang mit der deutschen Sto SE & Co. KGaA aus Stühlingen.
 
-- **Rainer Hüttenberger** – Vorstandssprecher; verantwortlich für Marketing und Markenvertrieb Sto International sowie internationale Tochtergesellschaften. Der Aufsichtsrat verlängerte seine Bestellung bis zum 30. Juni 2029.
-- **Michael Keller** – Markenvertrieb Sto Deutschland, Distribution und Zentraldienste
-- **Jan Nissen** – Chief Technology Officer; Prozesse, Engineering, Innovation, Materialwirtschaft und Logistik
-- **Rolf Wöhrle** – Chief Financial Officer; Finanzen, Controlling, IT, Interne Revision, Investor Relations, Recht und technischer Service
-- **Désirée Konrad** – seit 01.05.2026 erneut als Vorstandsmitglied der STO Management SE bestellt
-
-Keine aktuellen Informationen zu Interview-Aussagen des Managements im Berichtszeitraum gefunden.
+Der Vorstand der STO Management SE (Stand letzter bekannter Auskunft) besteht unverändert aus Rainer Hüttenberger (Vorstandssprecher), Michael Keller, Jan Nissen (CTO), Rolf Wöhrle (CFO) und Désirée Konrad. Keine personellen Veränderungen im Berichtszeitraum gemeldet.
 
 ## Finanzielles
 
-**Q1 2026 (veröffentlicht 08.05.2026):**
-- Konzernumsatz: EUR 318,5 Mio. (–1,9 % gegenüber Vorjahr EUR 324,8 Mio.)
-- Inlandsumsatz: EUR 122,1 Mio. (–1,1 %); Auslandsumsatz: EUR 196,4 Mio. (–2,5 %)
-- Ursachen: Ungünstige Witterung (Schnee, Nässe Jan./Feb.) und anhaltende Bauflaute; Fassadensegment als größter Umsatzträger besonders belastet
-- Saisonaler Fehlbetrag höher als im Vorjahr aufgrund gestiegener Personalkosten durch Tariferhöhungen zum Jahreswechsel
-- Mitarbeiter per 31.03.2026: 5.510 weltweit (–77 gegenüber Vorjahr)
-- April 2026: Umsatz über Vorjahresniveau und über den Erwartungen – erste Erholungszeichen
+Keine neuen Finanzkennzahlen oder Quartalsberichte im Zeitraum 27.06.–04.07.2026 veröffentlicht. Der nächste turnusmäßige Berichtstermin (Halbjahresbericht 2026) wird erst für später im Jahr erwartet. Zur Einordnung die zuletzt bekannten Eckdaten:
 
-**Jahresergebnis 2025 (veröffentlicht 30.04.2026):**
-- Konzernumsatz: EUR 1,591 Mrd. (–1,3 % gegenüber Vorjahr EUR 1,612 Mrd.), Prognose EUR 1,57 Mrd. übertroffen
-- EBIT: EUR 64,4 Mio. (+9,5 % gegenüber Vorjahr)
-- Nettogewinn: EUR 39,2 Mio. (+4,3 %)
-- Alle Prognosewerte trotz schwierigem Marktumfeld erreicht
-
-**Jahresprognose 2026 (bestätigt nach Q1):**
-- Konzernumsatz: ca. EUR 1,62 Mrd. (leichtes Wachstum)
-- EBIT: EUR 56–76 Mio.
-- EBT: EUR 55–75 Mio.
-- Umsatzrendite: 3,3–4,7 %
-- ROCE: 7,4–10,2 %
+- **Q1 2026 (veröffentlicht 08.05.2026):** Konzernumsatz EUR 318,5 Mio. (–1,9 % ggü. Vorjahr), belastet durch schlechtes Wetter (Jan./Feb.) und Bauflaute; April 2026 bereits über Vorjahresniveau.
+- **Jahresprognose 2026 (bestätigt):** Konzernumsatz ca. EUR 1,62 Mrd., EBIT EUR 56–76 Mio.
+- Analysteneinschätzung Montega AG (12.05.2026): Kaufen-Empfehlung, fundamental attraktive Bilanz trotz risikobehaftetem Ausblick.
 
 ## Strategie & Ausblick
 
-- **Prognose 2026 bestätigt:** Sto SE hält trotz schwachem Q1-Start unverändert an der Jahresprognose 2026 fest (Umsatz EUR 1,62 Mrd., EBIT EUR 56–76 Mio.); der positive April-Verlauf stützt die Zuversicht des Managements.
-- **Neue Konzernstrategie in Entwicklung:** Da der Planungshorizont der bisherigen Konzernstrategie mit 2025 endete, arbeitet das Unternehmen an einer neuen Strategie mit dem Fokus auf profitables und kapitaleffizientes Wachstum.
-- **Digitalisierungsoffensive:** Sto investiert in eine digitale Transformation des Konzerns. Die Implementierungsphase mit ersten Go-Lives in einzelnen Gesellschaften läuft ab 2026 an; die Designphase war im zweiten Halbjahr 2025 gestartet.
-- **Keine neuen M&A-Aktivitäten in KW26:** Im Berichtszeitraum 20.–27.06.2026 wurden keine neuen Übernahmen, Beteiligungen oder Großinvestitionen gemeldet. In den letzten zehn Jahren tätigte Sto Akquisitionen im Gesamtvolumen von knapp EUR 70 Mio.; das Management zeigt sich grundsätzlich offen für strategisch passende Zukäufe.
-- **Wachstumstreiber:** Energetische Gebäudesanierung und staatliche Nachhaltigkeitsanreize (EU-Gebäuderichtlinie EPBD) gelten als mittelfristige Impulsgeber für das Fassadensegment (WDVS).
-- **Risiken:** Anhaltende Bauflaute in Europa, geopolitische Unsicherheiten, Währungsgegenwind, steigende Personalkosten.
+- **Prognose 2026 weiterhin unverändert bestätigt** (Umsatz ca. EUR 1,62 Mrd., EBIT EUR 56–76 Mio.); im Berichtszeitraum keine Anpassung durch das Unternehmen bekannt gegeben.
+- **Verschärftes Branchenumfeld als Risikofaktor:** Die am 06.07.2026 gemeldete GdW-Prognose eines Einbruchs der Neubau-Investitionen um 26 % im Jahr 2026 verstärkt die bereits bekannten Risiken aus der anhaltenden Bauflaute in Europa und dürfte insbesondere das margenstarke Fassadensegment (WDVS) mittelfristig belasten.
+- **Keine neuen M&A-Aktivitäten oder Übernahmen von bzw. durch Sto SE im Berichtszeitraum gefunden.** Die Recherche zu "Sto SE Übernahme/Akquisition 2026" ergab keine Treffer zu Sto SE selbst; gefundene Übernahmemeldungen (z. B. SAP/Dremio, Ottobock) betreffen andere Unternehmen.
+- **Weiterhin unverändert:** Energetische Gebäudesanierung und die EU-Gebäuderichtlinie (EPBD) gelten mittelfristig als Wachstumstreiber; die neue Konzernstrategie und die Digitalisierungsoffensive befinden sich laut letztem Kenntnisstand weiterhin in der Umsetzung.
 
 ## Quellen
 
-- [MarketScreener DE – Sto SE Dividende, zahlbar 23. Juni 2026](https://de.marketscreener.com/boerse-nachrichten/sto-se-co-kgaa-kuendigt-jaehrliche-dividende-an-zahlbar-am-23-juni-2026-ce7f58d9da8bf52c)
-- [EQS News – HV-Bekanntmachung Sto SE 18.06.2026](https://www.eqs-news.com/news/agm-announcements/sto-se-co-kgaa-bekanntmachung-der-einberufung-zur-hauptversammlung-am-18-06-2026-in-donaueschingen-mit-dem-ziel-der-europaweiten-verbreitung-gemas-c2a7121-aktg/470e7c7a-117f-46e9-9e70-292e6a0fc7fb_de)
-- [EQS News – Sto Konzern Jahresergebnis 2025](https://www.eqs-news.com/news/corporate/sto-konzern-erreicht-im-geschaftsjahr-2025-trotz-anhaltend-schwieriger-rahmenbedingungen-alle-prognosewerte/bde6b25b-7b32-41b1-a42a-f88b1f34e357_de)
-- [Onvista – Sto Q1 2026 Quartalsbericht (EQS, 08.05.2026)](https://www.onvista.de/news/2026/05-08-eqs-news-sto-se-co-kgaa-unguenstige-witterungsverhaeltnisse-und-bauflaute-zum-jahresstart-belasten-geschaeftsverlauf-im-ersten-quartal-2026-0-37-26509588)
-- [Sto Pressemitteilung Jahreszahlen 2025 (PDF, 30.04.2026)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Pressemitteilungen/Sto-PI-2026_04_30-JA-2025.pdf)
-- [de.investing.com – Sto Jahreszahlen 2025: EBIT +9,5 %](https://de.investing.com/news/global-filings/sto-se--co-kgaa-legt-jahreszahlen-vor-ebit-steigt-um-95--auf-644-mio-eur-93CH-3452844)
-- [finanznachrichten.de – HV-Einberufung Sto SE 18.06.2026](https://www.finanznachrichten.de/nachrichten-2026-05/68398412-eqs-hv-sto-se-co-kgaa-bekanntmachung-der-einberufung-zur-hauptversammlung-am-18-06-2026-in-donaueschingen-mit-dem-ziel-der-europaweiten-verbreitu-022.htm)
-- [goldesel.de – Sto Q1 2026: Wetter und Bauflaute drücken Umsatz, EBIT-Spanne bestätigt](https://goldesel.de/aktien/news/sto-aktie-bei-99-euro-wetter-und-bauflaute-drucken-q1-umsatz-sto-bestatigt-ebit-spanne-2026)
-- [aktien.guide – STO Dividende 2026 & Prognose](https://aktien.guide/dividende/STO-DE0007274136)
+- [Sto Presse-Übersicht](https://www.sto.de/s/presse)
 - [Sto Investor Relations](https://www.sto.de/s/investor-relations)
-- [Sto Geschäftsbericht 2025 (PDF, englisch)](https://www.sto.com/media/documents/company_documents/Geschaeftsbericht_Sto_-2025_interaktiv_en.pdf)
-- [GlobalData – Sto SE Executives](https://www.globaldata.com/company-profile/sto-se-co-kgaa/executives/)
+- [boerse-express.com – STO Aktie: Neubau-Investitionen brechen 26 Prozent ein](https://www.boerse-express.com/news/articles/sto-aktie-neubau-investitionen-brechen-26-prozent-ein-925516)
+- [Deutsche Handwerks Zeitung – GdW: Neubau-Investitionen brechen 2026 um 26 Prozent ein](https://www.deutsche-handwerks-zeitung.de/gdw-neubau-investitionen-brechen-2026-um-26-prozent-ein-380862/)
+- [onvista – Immobilienverband: Investitionen in Neubau brechen wegen hoher Kosten ein (06.07.2026)](https://www.onvista.de/news/2026/07-06-immobilienverband-investitionen-in-neubau-brechen-wegen-hoher-kosten-ein-0-20-26529094)
+- [boerse-express.com – Wohnungsbau-Krise: Fertigstellungen fallen 2026 auf 200.000 Einheiten](https://www.boerse-express.com/news/articles/wohnungsbau-krise-fertigstellungen-fallen-2026-auf-200000-einheiten-925529)
+- [onvista – Sto Q1 2026 Quartalsbericht (EQS, 08.05.2026)](https://www.onvista.de/news/2026/05-08-eqs-news-sto-se-co-kgaa-unguenstige-witterungsverhaeltnisse-und-bauflaute-zum-jahresstart-belasten-geschaeftsverlauf-im-ersten-quartal-2026-0-37-26509588)
+- [goldesel.de – Sto Q1 2026: Wetter und Bauflaute drücken Umsatz, EBIT-Spanne bestätigt](https://goldesel.de/aktien/news/sto-aktie-bei-99-euro-wetter-und-bauflaute-drucken-q1-umsatz-sto-bestatigt-ebit-spanne-2026)
+- [onvista – Original-Research: Sto SE & Co. KGaA (Montega AG): Kaufen (12.05.2026)](https://www.onvista.de/news/2026/05-12-original-research-sto-se-co-kgaa-von-montega-ag-kaufen-0-10-26511098)
+- [ENR – STO Building Group CEO Reveals Innovation Behind Three New Business Lines (nicht identisch mit Sto SE & Co. KGaA)](https://www.enr.com/articles/62935-sto-building-group-ceo-reveals-innovation-behind-three-new-business-lines)
+- [finanznachrichten.de – STO AKTIEN News](https://www.finanznachrichten.de/nachrichten-aktien/sto-se-co-kgaa.htm)
