@@ -1,54 +1,54 @@
 # Allianz (ALV.DE)
-_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
+_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
 
 ## Aktuelle Meldungen
 
-- **Allianz Risk Transfer AG verlegt Sitz in die Schweiz (01.07.2026):** Die Allianz Risk Transfer AG (ART AG) hat ihren Sitz von Liechtenstein in die Schweiz verlegt. Die zuständigen Behörden – die Finanzmarktaufsicht Liechtenstein (FMA) und die Eidgenössische Finanzmarktaufsicht (FINMA) – haben die Sitzverlegung genehmigt. Die Niederlassung in Zürich/Wallisellen wird neuer Hauptsitz, eine Niederlassung in Liechtenstein entfällt künftig; die Niederlassung auf Bermuda bleibt bestehen. Die ART AG wird künftig durch die FINMA beaufsichtigt. ([commercial.allianz.com](https://commercial.allianz.com/news-and-insights/news/art-move-to-switzerland-2026/de.html))
-- **Allianz Global Insurance Report 2026 (30.06.2026):** Allianz Research veröffentlichte den „Global Insurance Report 2026: The Future of Insurance in a Fragmenting World". Demnach wuchs die globale Versicherungsbranche 2025 schätzungsweise um 7,1 % auf 6,9 Billionen Euro Prämienvolumen (plus 456 Mrd. Euro), was eine Abschwächung gegenüber dem außergewöhnlichen Wachstum von 9,4 % im Jahr 2024 darstellt. ([prnewswire.com](https://www.prnewswire.com/apac/news-releases/allianz-global-insurance-report-2026-the-future-of-insurance-in-a-fragmenting-world-302814161.html))
-- **Aktienkurs auf neuem 52-Wochen-Hoch (03.07.2026):** Die Allianz-Aktie erreichte Anfang Juli 2026 ein neues 52-Wochen-Hoch; Chartanalysten sehen dies als Bestätigung einer fortgesetzten Long-Strategie. Der Kurs bewegte sich zuletzt um rund 411–414 Euro. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/allianz-aktie-chartanalyse-03-07-2026-8023325))
-- **Kursziel-Update:** Analysten bestätigen ein durchschnittliches 12-Monats-Kursziel von rund 413,90 Euro; die Dividendenrendite liegt bei aktuellem Kurs bei ca. 4,16 % (17,10 Euro Dividende je Aktie über die letzten 12 Monate). ([finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-kursziel-bei-41390-euro/))
-- **Laufende Pressearbeit Allianz Deutschland:** Allianz Deutschland AG veröffentlichte über das Presseportal weiterhin zahlreiche Meldungen zu Produkten, Schadenstrends und regionalen Initiativen (119 Meldungen im bisherigen Jahresverlauf 2026). ([presseportal.de](https://www.presseportal.de/nr/65275))
+- **Allianz Partners plant Stellenabbau von bis zu 1.800 Jobs (08.07.2026):** Im Zuge der Einführung von KI-Lösungen will die Assistance- und Reiseversicherungstochter Allianz Partners europaweit zwischen 1.500 und 1.800 Stellen streichen. ([bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-08/allianz-unit-to-cut-as-many-as-1-800-jobs-in-push-to-adopt-ai))
+- **Neues 52-Wochen-Hoch der Aktie (10.07.2026):** Die Allianz-Aktie markierte am 10. Juli 2026 im Handelsverlauf ein neues 52-Wochen-Hoch bei 425,50 Euro; zu Monatsbeginn notierte der Kurs bei rund 418 Euro. ([avronline.de](https://www.avronline.de/nachrichten/news-views-markets/allianz-aktie-einstieg-juli-2026/23777/))
+- **Analystenreaktionen (10./13.07.2026):** Bankhaus Metzler erhöhte am 10.07.2026 das Kursziel von 420 auf 454 Euro und bestätigte die Kaufempfehlung mit Verweis auf starke operative Dynamik. Jefferies-Analyst Philip Kett bestätigte hingegen am 13.07.2026 seine "Hold"-Einstufung mit einem deutlich niedrigeren Kursziel von 325 Euro. ([ms-aktuell.de](https://ms-aktuell.de/welt/06072026-allianz-aktie-kurs-ausblick-dividende/))
+- **Termin Q2-Zahlen bestätigt:** Die Quartalszahlen für das zweite Quartal 2026 werden am 7. August 2026 veröffentlicht. ([boerse-express.com](https://www.boerse-express.com/news/articles/allianz-aktie-q2-zahlen-am-7-august-928950))
+- **Aktienrückkaufprogramm läuft weiter:** Im Rahmen des im Februar 2026 gestarteten Rückkaufprogramms über bis zu 2,5 Mrd. Euro hat Allianz bis Ende Juni rund 3,95 Mio. Aktien für etwa 1,5 Mrd. Euro zurückgekauft; nach einem Tief im Juni erholte sich das Programm im Juli. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/rueckkaufprogramm-allianz-aktie-rueckkauf-startet-nach-kurseinbruch-durch-00-15782266))
+- **AI-Risikoeinschätzung:** Allianz veröffentlichte Anfang Juli Einschätzungen zu KI-Risiken, wonach Unternehmen diese proaktiv verstehen und managen müssen, um nachhaltige Chancen zu nutzen. ([allianz.com](https://www.allianz.com/de/mediencenter/news.html))
 
 ## Management
 
-- **CEO Oliver Bäte – keine neuen öffentlichen Auftritte in KW27 identifiziert.** Die jüngsten dokumentierten Aussagen stammen aus der Hauptversammlung 2026 (Mai) sowie den Interviews bei Davos (Januar) und mit Monocle (Februar); für den Berichtszeitraum 27.06.–04.07.2026 wurden keine neuen Interviews oder Statements des Managements gefunden.
-- **Rückblick HV 2026:** Bäte hatte hervorgehoben, dass im April 2026 erstmals über eine Million Einzelaktionäre direkt Anteile an der Allianz hielten. ([allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html))
+- **CEO Oliver Bäte – Semafor-Interview (03.07.2026):** In einem 80-minütigen Interview spricht Bäte darüber, dass für Versicherer einst seltene Extremereignisse ("nur alle 20.000 Jahre") inzwischen gehäuft auftreten, darunter Kriege, Pandemien und Krisen. Er kritisiert scharf "dumme" politische Entscheidungen, warnt vor massiv unterbewerteten Risiken in Private-Equity-Portfolios und äußert sich zu den steigenden Gesundheitskosten in Deutschland. ([semafor.com](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc))
+- **Mohamed El-Erian (Allianz Chief Economic Advisor) – CNBC-Interview (01.06.2026, weiterhin relevant):** El-Erian äußerte sich zu makroökonomischen Themen und Marktausblick; das Interview wird weiterhin als Referenzquelle für Allianz' ökonomische Einschätzungen zitiert. ([cnbc.com](https://www.cnbc.com/video/2026/06/01/watch-cnbcs-full-interview-with-allianz-chief-economic-advisor-mohamed-el-erian.html))
+- Keine weiteren neuen Management-Statements oder Personalveränderungen im Berichtszeitraum identifiziert.
 
 ## Finanzielles
 
-Für den Berichtszeitraum (27.06.–04.07.2026) liegen keine neuen Quartalszahlen vor; die nächste turnusmäßige Veröffentlichung sind die Q2/Halbjahreszahlen 2026, die für August 2026 erwartet werden. Die zuletzt berichteten Kennzahlen (Q1 2026, veröffentlicht 13.05.2026) bleiben maßgeblich:
+Für den Berichtszeitraum (11.07.–18.07.2026) liegen keine neuen Quartalszahlen vor; die Q2/Halbjahreszahlen 2026 werden am 7. August 2026 veröffentlicht. Die zuletzt berichteten Kennzahlen (Q1 2026, veröffentlicht 13.05.2026) bleiben maßgeblich:
 
 | Kennzahl | Q1 2026 | Veränderung ggü. Vorjahr |
 |---|---|---|
-| Operatives Ergebnis | 4,5 Mrd. EUR (Rekord) | +6,6 % |
-| Bereinigter Überschuss (Anteilseigner) | 3,8 Mrd. EUR | +48,4 % |
-| Geschäftsvolumen | 53,0 Mrd. EUR | Intern +3,5 % |
-| Solvency-II-Quote | 221 % | +2 Prozentpunkte ggü. Ende 2025 |
+| Operatives Ergebnis (Konzern) | 4,5 Mrd. EUR (Rekord) | +6,6 % |
+| Geschäftsvolumen | 28,3 Mrd. EUR | Intern +6,8 % |
+| Schaden-Kosten-Quote | 91,0 % | besser als Jahresziel (92–93 %) |
 
-- **Jahresausblick 2026 bestätigt:** Operatives Ziel von **17,4 Mrd. Euro (± 1 Mrd. Euro)**. ([trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant))
-- **Aktienrückkaufprogramm:** Allianz SE hatte im Februar 2026 ein neues Rückkaufprogramm von bis zu 2,5 Mrd. Euro beschlossen; das Programm läuft im Berichtszeitraum weiter und stützt laut Analysten die Kursentwicklung. ([allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260225-mitteilung.html))
-- **Dividende:** 17,10 Euro je Aktie (letzte 12 Monate); Dividendenrendite ca. 4,16 % bei einem Kurs von rund 411 Euro. ([aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende))
+- **Jahresausblick 2026 bestätigt:** Operatives Ziel von **17,4 Mrd. Euro (± 1 Mrd. Euro)**; nach Q1 wurden bereits rund 26–27 % der Zielspanne erreicht. ([businesswire/allianz.com über avronline.de](https://www.avronline.de/nachrichten/news-views-markets/allianz-aktie-einstieg-juli-2026/23777/))
+- **Aktienrückkaufprogramm:** Bis Ende Juni 2026 wurden rund 3,95 Mio. Aktien für ca. 1,5 Mrd. Euro im Rahmen des 2,5-Mrd.-Euro-Programms zurückgekauft; Fortsetzung im Juli nach kurzzeitigem Rückgang im Juni. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/rueckkaufprogramm-allianz-aktie-rueckkauf-startet-nach-kurseinbruch-durch-00-15782266))
+- **Kursentwicklung:** Neues 52-Wochen-Hoch bei 425,50 Euro am 10.07.2026; Analystenkursziele reichen von 325 Euro (Jefferies, Hold) bis 454 Euro (Bankhaus Metzler, Buy) – deutliche Spanne in der Markteinschätzung. ([ms-aktuell.de](https://ms-aktuell.de/welt/06072026-allianz-aktie-kurs-ausblick-dividende/))
 
 ## Strategie & Ausblick
 
-- **Regulatorische Neuausrichtung ART AG:** Mit der Sitzverlegung der Allianz Risk Transfer AG in die Schweiz und der künftigen FINMA-Aufsicht stärkt Allianz die regulatorische Positionierung ihres alternativen Risikotransfer-Geschäfts in einem etablierten Finanzstandort. ([commercial.allianz.com](https://commercial.allianz.com/news-and-insights/news/art-move-to-switzerland-2026/de.html))
-- **Globale Markttrends laut Insurance Report 2026:** Allianz Research sieht eine Fragmentierung der globalen Versicherungsmärkte und ein moderateres, aber weiterhin robustes Branchenwachstum – eine strategische Grundlage für Allianz' Positionierung in Wachstumsmärkten. ([prnewswire.com](https://www.prnewswire.com/apac/news-releases/allianz-global-insurance-report-2026-the-future-of-insurance-in-a-fragmenting-world-302814161.html))
-- **Mögliche Übernahme – HSBC Life Singapur:** Allianz gilt weiterhin als wahrscheinlichster Käufer für das Versicherungsgeschäft von HSBC in Singapur (Milliarden-Deal); zudem soll die Vermögensverwaltungssparte der United Overseas Bank auf der Wunschliste stehen – Teil der Expansionsstrategie in den asiatisch-pazifischen Raum mit Fokus auf Vorsorgeprodukte. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/dax-40-wert-allianz-aktie-so-viel-gewinn-haette-ein-investment-in-allianz-von-vor-einem-jahr-abgeworfen-15779312))
-- **Kapitalrückführung:** Das laufende Aktienrückkaufprogramm (bis zu 2,5 Mrd. Euro) unterstreicht die Strategie der Kapitalrückführung an Aktionäre bei gleichzeitig fortgesetztem Rekordgewinnpfad.
-- **Charttechnik:** Neues 52-Wochen-Hoch Anfang Juli 2026 signalisiert laut Marktbeobachtern eine intakte langfristige Aufwärtsbewegung der Aktie. ([finanzen.net](https://www.finanzen.net/nachricht/aktien/allianz-aktie-chartanalyse-03-07-2026-8023325))
-- **Nächster Termin:** Halbjahresbericht / Q2-Ergebnisse voraussichtlich August 2026.
+- **KI-getriebener Stellenabbau bei Allianz Partners:** Der geplante Abbau von bis zu 1.800 Stellen unterstreicht die strategische Priorität, Prozesse durch Automatisierung und KI effizienter zu gestalten – mit entsprechenden Auswirkungen auf die Belegschaft im Assistance-Geschäft. ([bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-08/allianz-unit-to-cut-as-many-as-1-800-jobs-in-push-to-adopt-ai))
+- **Expansion in Asien (laufend):** Allianz gilt weiterhin als wahrscheinlichster Käufer für das Versicherungsgeschäft von HSBC in Singapur (Milliarden-Deal, HSBC strebt eine Bewertung von rund 2 Mrd. US-Dollar an); zusätzlich verhandelt Allianz Global Investors exklusiv über den Kauf der UOB Asset Management (Singapur) für ca. 400 Mio. Euro, um die Präsenz in Asien auszubauen (verwaltetes Vermögen von über 27,5 Mrd. Euro). ([finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-06/68702688-allianz-frische-uebernahmegeruechte-bei-der-fondstochter-124.htm))
+- **Risikoperspektive des CEO:** Bätes Aussagen im Semafor-Interview signalisieren eine strategische Neubewertung von Extremrisiken (Kriege, Pandemien, unterbewertete Private-Equity-Risiken) als zunehmend "normale" statt seltene Ereignisse – mit Implikationen für Risikomodellierung und Kapitalallokation. ([semafor.com](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc))
+- **Volkswagen-Bosch-Allianz endet:** Zum 1. Juli 2026 endete eine (nicht mit Allianz SE verbundene, aber namensgleiche) Kooperations-"Allianz" zwischen Volkswagen und Bosch – redaktioneller Hinweis zur Vermeidung von Verwechslungen bei der Namenssuche. ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/volkswagen-aktie-bosch-allianz-endet-1-juli-2026/69682447))
+- **Nächster Termin:** Q2-/Halbjahreszahlen 2026 am 7. August 2026 erwartet. ([boerse-express.com](https://www.boerse-express.com/news/articles/allianz-aktie-q2-zahlen-am-7-august-928950))
 
 ## Quellen
 
+- [Allianz Aktie vor dem nächsten Rekord? – avronline.de](https://www.avronline.de/nachrichten/news-views-markets/allianz-aktie-einstieg-juli-2026/23777/)
+- [Allianz-Aktie aktuell: Kurs, Dividende und Ausblick 2026 – ms-aktuell.de](https://ms-aktuell.de/welt/06072026-allianz-aktie-kurs-ausblick-dividende/)
+- [Allianz Aktie: Q2-Zahlen am 7. August – boerse-express.com](https://www.boerse-express.com/news/articles/allianz-aktie-q2-zahlen-am-7-august-928950)
+- [Allianz Unit to Cut as Many as 1,800 Jobs in Push to Adopt AI – bloomberg.com](https://www.bloomberg.com/news/articles/2026-07-08/allianz-unit-to-cut-as-many-as-1-800-jobs-in-push-to-adopt-ai)
+- [Allianz-Aktie: Rückkaufprogramm 2026 erholt sich nach Juni-Tief – finanzen.net](https://www.finanzen.net/nachricht/aktien/rueckkaufprogramm-allianz-aktie-rueckkauf-startet-nach-kurseinbruch-durch-00-15782266)
+- [Volkswagen Aktie: Bosch-Allianz endet 1. Juli 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/volkswagen-aktie-bosch-allianz-endet-1-juli-2026/69682447)
 - [Allianz Mediencenter – allianz.com](https://www.allianz.com/de/mediencenter/news.html)
-- [ART AG Sitzverlegung Schweiz – commercial.allianz.com](https://commercial.allianz.com/news-and-insights/news/art-move-to-switzerland-2026/de.html)
-- [Allianz Global Insurance Report 2026 – prnewswire.com](https://www.prnewswire.com/apac/news-releases/allianz-global-insurance-report-2026-the-future-of-insurance-in-a-fragmenting-world-302814161.html)
-- [Allianz-Aktie Chartanalyse 03.07.2026 – finanzen.net](https://www.finanzen.net/nachricht/aktien/allianz-aktie-chartanalyse-03-07-2026-8023325)
-- [Allianz Kursziel 413,90 Euro – finanztrends.de](https://www.finanztrends.de/news/allianz-aktie-kursziel-bei-41390-euro/)
-- [Allianz Dividende – aktienfinder.net](https://aktienfinder.net/dividenden-profil/Allianz-Dividende)
-- [Allianz Presseportal – presseportal.de](https://www.presseportal.de/nr/65275)
-- [Allianz Q1 2026 Quartalsmitteilung – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
-- [Allianz Betriebsergebnis 17,4 Mrd. 2026 – trading-treff.de](https://trading-treff.de/trading/allianz-aktie-174-milliarden-euro-betriebsergebnis-2026-geplant)
-- [Allianz Rückkaufprogramm 2,5 Mrd. Euro – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260225-mitteilung.html)
-- [Oliver Bäte – CEO-Rede HV 2026 – allianz.com](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html)
-- [Allianz Übernahme HSBC Singapur – finanzen.net](https://www.finanzen.net/nachricht/aktien/dax-40-wert-allianz-aktie-so-viel-gewinn-haette-ein-investment-in-allianz-von-vor-einem-jahr-abgeworfen-15779312)
+- [How Allianz's CEO prepares for the risk of 'huge havoc' – semafor.com](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc)
+- [Watch CNBC's full interview with Allianz chief economic advisor Mohamed El-Erian – cnbc.com](https://www.cnbc.com/video/2026/06/01/watch-cnbcs-full-interview-with-allianz-chief-economic-advisor-mohamed-el-erian.html)
+- [Allianz Quartalszahlen 1Q 2026 | Operatives Rekordergebnis – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
+- [Allianz: Frische Übernahmegerüchte bei der Fondstochter – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-06/68702688-allianz-frische-uebernahmegeruechte-bei-der-fondstochter-124.htm)
+- [Allianz-Aktie fester: Übernahme des Versicherungsgeschäfts von HSBC in Singapur offenbar geplant – finanzen.net](https://www.finanzen.net/nachricht/aktien/wahrscheinlichster-kaeufer-allianz-aktie-im-plus-offenbar-uebernahme-von-hsbc-versicherungsgeschaeft-in-singapur-in-milliarden-deal-15744248)
