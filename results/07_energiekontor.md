@@ -1,50 +1,48 @@
 # Energiekontor (EKT.DE)
-_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
+_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
 
 ## Aktuelle Meldungen
-- Die Energiekontor-Aktie steht Anfang Juli 2026 stark unter Druck: Sie hat in den vergangenen 30 Tagen rund 20 Prozent verloren. Ob im Juli 2026 ein Turnaround gelingt, gilt als offen; Timing-Fragen (Projektverkäufe, Financial Closes) werden als entscheidend für die weitere Kursentwicklung genannt.
-- Energiekontor hat den Windpark Holtumer Moor (Niedersachsen) in Betrieb genommen und ins eigene Bestandsportfolio übernommen; dieses wächst dadurch um weitere 7 MW auf rund 455 MW.
-- Zwei Solarparks mit zusammen 113 MW in Mecklenburg-Vorpommern sollen im Laufe des Jahres 2026 ans Netz gehen; der erzeugte Strom ist bereits über einen 15-Jahres-Liefervertrag (PPA) an die Salzgitter Flachstahl GmbH gebunden.
-- Bis Jahresende 2026 rechnet das Management mit einem Eigenbestandsportfolio von über 560 MW.
-- Operativ zeigt sich Energiekontor robust: Projekte mit einer Gesamtleistung von über 650 MW befinden sich (Stand März 2026) im Bau oder in der Vorbaureife. Dennoch fehlen aus Marktsicht bislang die entscheidenden Kurstreiber, da Investoren auf konkrete Projektverkäufe und Finanzierungsabschlüsse im weiteren Jahresverlauf warten.
-- Im britischen Markt verzögern anhaltende Reformen bei Netzanschlüssen sowie ein unklarer Zeitplan für die nächste CfD-Auktionsrunde den Fortschritt bei Transaktionen.
+- Energiekontor hat den Windpark Drensteinfurt-Rieth in Betrieb genommen. Er besteht aus zwei Enercon-Anlagen mit einer Gesamtleistung von elf Megawatt und soll jährlich rund 24 Gigawattstunden Strom erzeugen – genug für mehr als 7.000 Haushalte.
+- Für zwei weitere Windprojekte im Kreis Höxter erhielt Energiekontor Baugenehmigungen mit einer kombinierten Leistung von 46 Megawatt.
+- Zunehmend positionieren sich institutionelle Leerverkäufer (Shortseller) gegen die Energiekontor-Aktie; das Unternehmen hat die Aktivitäten in neuen Investoreninformationen thematisiert. Die Shortselling-Quote liegt aktuell bei rund 1,79 Prozent.
+- Ende Mai/Anfang Juni 2026 wurden 47.314 eigene (zuvor zurückgekaufte) Aktien eingezogen; die Zahl der ausstehenden Stimmrechte sank dadurch auf knapp 13,9 Millionen.
+- Das Management bestätigte weiterhin, dass das operative Geschäft 2026 planmäßig verläuft; an der im Mai bekräftigten Jahresprognose wird festgehalten.
+- Keine Hinweise auf eine Übernahme oder ein Übernahmeangebot für Energiekontor im laufenden Jahr 2026.
 
 ## Management
 - Vorstandsvorsitzender ist weiterhin Peter Szabo; weitere Vorstandsmitglieder sind Günter Eschen, Günter Lammers (stellvertretender Vorsitz) sowie Darius Oliver Kianzad.
-- Auf der ordentlichen Hauptversammlung (27. Mai 2026) stimmten die Aktionäre allen Tagesordnungspunkten mit breiter Mehrheit zu.
-- In seiner Rede vor den Aktionären verwies CEO Peter Szabo auf die weiterhin herausfordernden regulatorischen und wirtschaftlichen Rahmenbedingungen in den Kernmärkten, betonte zugleich aber die robuste operative Entwicklung des Unternehmens.
-- Szabo äußerte sich zuversichtlich, dass Energiekontor gut positioniert sei, die Ziele für das Geschäftsjahr 2026 planmäßig zu erreichen – wesentliche Hebel seien der weitere Ausbau der Projektpipeline, zusätzliche Financial Closes sowie der Ausbau des eigenen Parkportfolios.
+- In einem Interview (anleihen-finder.de) bekräftigte Szabo die robuste operative Basis des ersten Quartals 2026: trotz weiterhin herausfordernder regulatorischer und wirtschaftlicher Rahmenbedingungen in den Kernmärkten sei die Entwicklung insgesamt planmäßig verlaufen.
+- Als zentrale Wachstumshebel nannte Szabo den weiteren Ausbau der Projektpipeline, zusätzliche Financial Closes sowie den Ausbau des eigenen Parkportfolios; zudem seien langfristig wirtschaftlich tragfähige Vergütungs- und Vermarktungsstrukturen für Projekte von Bedeutung.
+- Das Unternehmen sieht sich weiterhin gut positioniert, die Ziele für das Geschäftsjahr 2026 planmäßig zu erreichen.
 
 ## Finanzielles
-- Prognose für das Geschäftsjahr 2026: Ergebnis vor Steuern (EBT) zwischen 40 und 60 Mio. Euro; die bewusst breite Spanne von 20 Mio. Euro spiegelt anhaltende regulatorische Unsicherheiten in Deutschland und Großbritannien wider. Diese Prognose wurde vom Vorstand bestätigt.
-- Mittelfristiges Ziel: ein Vorsteuerergebnis von 120 Mio. Euro bis 2028.
-- Das erste Quartal 2026 bestätigte laut Unternehmen die robuste operative Ausgangsbasis: weitere Financial Closes für deutsche Windprojekte, planmäßiger Fortgang laufender Bauaktivitäten sowie die Inbetriebnahme des repowerten Windparks Oederquart, wodurch das Eigenbestandsportfolio im ersten Quartal wieder auf rund 450 MW anstieg.
-- Ende Mai 2026 wurden rund 47.000 zuvor zurückgekaufte eigene Aktien eingezogen. Zugleich startete ein neues Aktienrückkaufprogramm (28.05.2026 bis 27.05.2027) mit einem Volumen von bis zu 80.000 Aktien bzw. maximal 9 Mio. Euro.
-- Für 2026 wurde zudem eine Dividendenzahlung von 1,00 Euro je Aktie angekündigt, ausgezahlt am 1. Juni 2026; laut Berichterstattung wurde die Dividende gegenüber dem Vorjahr verdoppelt, die Prognose für 2026 selbst gilt als bewusst vorsichtig gewählt.
-- Die Projektpipeline umfasst rund 12,2 GW.
+- Die Jahresprognose 2026 (EBT zwischen 40 und 60 Mio. Euro) wurde vom Vorstand bestätigt und gilt unverändert; die breite Spanne spiegelt weiterhin regulatorische Unsicherheiten in Deutschland und Großbritannien wider.
+- Mittelfristiges Ziel bleibt ein Vorsteuerergebnis von 120 Mio. Euro bis 2028.
+- Im ersten Quartal 2026 wurden zusätzliche Financial Closes für deutsche Windprojekte erzielt; zudem wurde der repowerte Windpark Oederquart in Betrieb genommen, wodurch das Eigenbestandsportfolio wieder auf rund 450 MW anstieg.
+- Nach Einziehung von 47.314 eigenen Aktien liegt die Zahl der ausstehenden Stimmrechte bei knapp 13,9 Millionen; das Ende Mai gestartete neue Rückkaufprogramm (28.05.2026–27.05.2027) sieht den Erwerb von bis zu 80.000 Aktien bzw. maximal 9 Mio. Euro vor.
+- Die Projektpipeline umfasst weiterhin rund 12,2 GW.
+- Zur Erinnerung: Für das Geschäftsjahr 2025 stieg das Konzernergebnis vor Steuern auf 40,5 Mio. Euro (Vorjahr: 36,2 Mio. Euro), das EBIT von 49,8 auf 65,4 Mio. Euro.
 
 ## Strategie & Ausblick
-- Strategischer Fokus bleibt der Ausbau des Eigenbestandsportfolios (Ziel: über 560 MW bis Jahresende 2026) sowie die Umsetzung langfristiger Stromlieferverträge (PPA), wie im Fall Salzgitter Flachstahl gezeigt.
-- Wachstumsprojekte wie die beiden Solarparks in Mecklenburg-Vorpommern (113 MW) sollen im Laufe von 2026 ans Netz gehen und tragen zur Diversifizierung zwischen Wind- und Solarenergie bei.
-- Als Risikofaktoren werden regulatorische Unsicherheiten in Deutschland und insbesondere in Großbritannien genannt: Dort verzögern Netzanschlussreformen und ein unklarer Zeitplan für die nächste CfD-Auktionsrunde Transaktionen und Projektfortschritte.
-- Kapitalmarktseitig verfolgt das Unternehmen weiterhin eine Optimierungsstrategie über Aktienrückkäufe und Einziehungen, um den Aktienkurs zu stützen, der trotz operativer Fortschritte deutlich unter den Kurszielen der Analysten notiert.
-- Das mittelfristige Ziel von 120 Mio. Euro Vorsteuerergebnis bis 2028 unterstreicht den Anspruch auf weiteres Wachstum, wobei der Markt aktuell auf konkrete Projektverkäufe und Finanzierungsabschlüsse als nächste Kurskatalysatoren wartet.
+- Operativ setzt Energiekontor den Ausbau des Eigenbestandsportfolios konsequent fort: Mit Drensteinfurt-Rieth (11 MW) sowie den neu genehmigten Projekten im Kreis Höxter (46 MW) wächst die Pipeline weiter in Richtung des Jahresendziels von über 560 MW.
+- Die zunehmenden Shortseller-Aktivitäten gegen die Aktie werden vom Unternehmen aktiv kommentiert und könnten kurzfristig auf die Kursentwicklung drücken, auch wenn die operativen Fortschritte laut Management robust bleiben.
+- Kapitalmarktseitig setzt Energiekontor die Optimierungsstrategie über Aktienrückkäufe und Einziehungen fort, um Aktionärswert zu stützen.
+- Risikofaktoren bleiben regulatorische Unsicherheiten in Deutschland und insbesondere in Großbritannien (Netzanschlussreformen, unklarer Zeitplan für die nächste CfD-Auktionsrunde).
+- Der Markt wartet weiterhin auf konkrete Projektverkäufe und Finanzierungsabschlüsse als nächste Kurskatalysatoren; Hinweise auf ein Übernahmeangebot oder eine strategische Übernahme von bzw. durch Energiekontor liegen für 2026 nicht vor.
 
 ## Quellen
+- [Energiekontor Aktie: Zwei Genehmigungen für 46 Megawatt (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-zwei-genehmigungen-fuer-46-megawatt/69727113)
+- [Energiekontor Aktie: 46 Megawatt genehmigt (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-46-megawatt-genehmigt/69752855)
+- [Energiekontor Aktie: Holtumer Moor mit 7 Megawatt am Netz (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-holtumer-moor-mit-7-megawatt-am-netz/69710989)
+- [Energiekontor Aktie: 12,2 Gigawatt Pipeline (boerse-express)](https://www.boerse-express.com/news/articles/energiekontor-aktie-122-gigawatt-pipeline-928824)
 - [Aktie im Check: Energiekontor deutlich im Minus – Turnaround im Juli 2026 möglich? (wallstreet-online, 01.07.2026)](https://www.wallstreet-online.de/nachricht/21060627-aktie-check-energiekontor-deutlich-minus-turnaround-juli-2026-moeglich)
-- [Energiekontor Aktie: 1,00 Euro Dividende (Finanztrends)](https://www.finanztrends.de/news/energiekontor-aktie-100-euro-dividende/)
-- [Energiekontor Aktie: 15-Jahres-Vertrag mit Salzgitter (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-15-jahres-vertrag-mit-salzgitter/69674095)
-- [Energiekontor Aktie: 113 Megawatt Solarparks 2026 geplant (Finanztrends)](https://www.finanztrends.de/rohstoff/energiekontor/news/energiekontor-aktie-113-megawatt-solarparks-2026-geplant/)
-- [Energiekontor stock stays centered on its project pipeline (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-stock-stays-centered-on-its-project-pipeline-investors/69669031)
-- [Energiekontor beschließt Aktieneinzug (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-05/68621000-energiekontor-beschliesst-aktieneinzug-496.htm)
-- [Energiekontor's Operational Engine Fires, but Markets Want Proof (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-s-operational-engine-fires-but-markets-want-proof/69662692)
+- [Interview mit Peter Szabo, Vorstand der Energiekontor AG (anleihen-finder.de)](https://www.anleihen-finder.de/interview-mit-peter-szabo-vorstand-der-energiekontor-ag-00069315.html)
+- [Energiekontor Aktie mit Perspektiven – Interview mit CEO (nebenwerte-magazin.com)](https://www.nebenwerte-magazin.com/energiekontor-aktie-vorstand-interview/)
+- [Energiekontor AG: Energiekontor starts the 2026 financial year on track (tradingview.com)](https://www.tradingview.com/news/eqs:258da30ed094b:0-energiekontor-ag-energiekontor-starts-the-2026-financial-year-on-track-operational-progress-confirms-robust-foundation-for-the-remainder-of-the-year/)
 - [Energiekontor bestätigt Ergebnisprognose für 2026 (anleihen-finder.de)](https://www.anleihen-finder.de/energiekontor-bestaetigt-ergebnisprognose-fuer-2026-00072191.html)
-- [Energiekontor konkretisiert Rückkauf und Ziele (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-konkretisiert-rueckkauf-und-ziele-die-energiekontor-aktie/69655480)
-- [Ordentliche Hauptversammlung stimmt allen Tagesordnungspunkten mit breiter Mehrheit zu (Energiekontor AG)](https://www.energiekontor.de/aktuelles/ordentliche-hauptversammlung-stimmt-allen-tagesordnungspunkten-mit-breiter-mehrheit-zu-1.html)
-- [Energiekontor startet planmäßig ins Geschäftsjahr 2026 (rohstoff-welt.de)](https://www.rohstoff-welt.de/news/733762--Energiekontor-startet-planmaessig-ins-Geschaeftsjahr-2026--operative-Fortschritte-bestaetigen-robuste-Basis-fuer-weiteren-Jahresverlauf.html)
-- [Management Board and Supervisory Board (Energiekontor AG)](https://www.energiekontor.de/en/company/management-board-and-supervisory-board.html)
-- [Planmäßiger Jahresstart: Energiekontor bestätigt Ergebnisprognose für 2026 (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-05/68479380-planmaessiger-jahresstart-energiekontor-bestaetigt-ergebnisprognose-fuer-2026-496.htm)
-- [Energiekontor verdoppelt Dividende – Prognose für 2026 bewusst vorsichtig (4investors.de)](https://www.4investors.de/nachrichten/boerse.php?sektion=stock&ID=189162)
+- [Energiekontor AG-Aktie: Quartalszahlen und neuer Windpark rücken Projektpipeline in Fokus (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-ag-aktie-de0005313506-quartalszahlen-und-neuer-windpark/69550494)
 - [Energiekontor zieht Aktien ein – neues Rückkaufprogramm bis 9 Mio. Euro (wallstreet-online, 31.05.2026)](https://www.wallstreet-online.de/nachricht/20945403-energiekontor-aktien-rueckkaufprogramm-9-mio)
-- [Energiekontor Secures 15-Year PPA with Salzgitter as Share Buyback and Capacity Expansion Propel Growth (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-secures-15-year-ppa-with-salzgitter-as-share-buyback-and/69653926)
-- [Energiekontor AG Factsheet Februar 2026 (PDF, Energiekontor AG)](https://www.energiekontor.de/fileadmin/user_upload/IR/Praesentationen_Factsheet/2026-02_Energiekontor_Factsheet_de.pdf)
+- [Energiekontor startet neues Aktienrückkaufprogramm - Aktie gewinnt (finanzen.net)](https://www.finanzen.net/nachricht/aktien/bis-2026-energiekontor-plant-aktienrueckkauf-aktie-hoeher-14604225)
+- [Investments overview (Energiekontor AG)](https://www.energiekontor.de/en/investment/overview.html)
+- [Financial calendar (Energiekontor AG)](https://www.energiekontor.de/en/investor-relations/financial-calendar.html)
+- [News (Energiekontor AG)](https://www.energiekontor.de/en/news.html)
