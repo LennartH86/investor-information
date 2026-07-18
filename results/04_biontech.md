@@ -1,33 +1,29 @@
 # BioNTech (BNTX)
-_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
+_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
 
 ## Aktuelle Meldungen
 
-- **Frist für mRNA-Ausgründung (30. Juni 2026) erreicht:** Wie im Januar 2026 angekündigt, sollten bis zum 30. Juni 2026 die verbindlichen Verträge zur Übertragung bestimmter mRNA-Rechte und -Technologien auf die neue, von den Co-Gründern Ugur Sahin und Özlem Türeci kontrollierte Gesellschaft unterzeichnet sein. BioNTech behält dabei eine Minderheitsbeteiligung sowie künftige Meilenstein- und Lizenzzahlungen an dem neuen Unternehmen.
-  - Quelle: [BioNTech – Co-Founders Announcement (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-and-co-founders-announce-plan-pursue-next-generation)
+- **Morgan Stanley senkt Kursziel auf $119 (von $126):** Am 8. Juli 2026 – kurz vor Beginn des Berichtszeitraums – reduzierte Morgan Stanley sein Kursziel für BioNTech-ADS. Die Anpassung wird als Ausdruck einer vorsichtigeren Einschätzung der kurzfristigen Wachstumsaussichten gewertet, insbesondere vor dem Hintergrund des rückläufigen COVID-19-Geschäfts.
+  - Quelle: [BNTX Stock Quote Price and Forecast (CNN Markets)](https://www.cnn.com/markets/stocks/BNTX)
 
-- **Fortsetzung des $1-Mrd.-Aktienrückkaufprogramms:** Das im Juni 2026 gestartete ADS-Rückkaufprogramm über bis zu $1 Milliarde (Laufzeit 12 Monate) läuft im Berichtszeitraum weiter und unterstreicht die von BioNTech im Rahmen der Q1-2026-Zahlen kommunizierte finanzielle Stärke.
-  - Quelle: [BioNTech – Q1 2026 Financial Results (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
+- **Cathie Wood (ARK Invest) trennt sich von BioNTech-Position:** Am 9. Juli 2026 verkaufte Cathie Woods ARK-Fonds BioNTech-Aktien im Zuge einer breiteren Umschichtung aus Growth-Werten – ein Signal, das in der Anlegergemeinde als vorsichtiges Stimmungssignal für den Titel gewertet wurde.
+  - Quelle: [BNTX Stock Quote Price and Forecast (CNN Markets)](https://www.cnn.com/markets/stocks/BNTX)
 
-- **Weiterhin im Fokus: Onkologie-Pipeline nach ASCO 2026:** Die auf der ASCO-Jahrestagung (Ende Mai/Anfang Juni 2026) präsentierten Daten zu Pumitamig (BNT327) und Gotistobart (BNT316) prägen weiterhin die Berichterstattung; insbesondere die Zwischenanalyse der Phase-2-Dosisoptimierung von ROSETTA Lung-02 (Erstlinien-NSCLC) gilt als drittes konsistentes positives Signal nach SCLC und TNBC.
-  - Quelle: [BioNTech – ASCO 2026 Pressemitteilung (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-showcase-progress-across-late-stage-oncology-pipeline/)
+- **Politisches Risiko: Nominierung für US-Gesundheitsposten mit impfkritischem Hintergrund:** Berichten von Stat News zufolge sorgte am 10. Juli 2026 die Nominierung einer Person mit impfkritischer Haltung für eine föderale Gesundheitsposition in den USA für Diskussionen; dies wird von Beobachtern als potenzielles regulatorisches Risiko für Impfstoffhersteller wie BioNTech eingeordnet.
+  - Quelle: [BNTX Stock Quote Price and Forecast (CNN Markets)](https://www.cnn.com/markets/stocks/BNTX)
 
-- **Fünf neue pivotale Pumitamig-Studien gestartet:** BioNTech hat fünf neue zulassungsrelevante Studien für Pumitamig in TNBC, MSS-Kolorektalkarzinom, Magenkarzinom sowie zwei NSCLC-Indikationen initiiert; weitere Phase-3-Zwischenauswertungen werden im weiteren Jahresverlauf 2026 erwartet.
-  - Quelle: [European Biotechnology Magazine – 2026: A year of reckoning for BioNTech](https://european-biotechnology.com/latest-news/2026-a-year-of-reckoning-for-biontech/)
-
-- **Keine neuen eigenständigen Pressemitteilungen für KW27 auffindbar:** Für den engeren Zeitraum 27.06.–04.07.2026 wurden in der Recherche keine gesonderten neuen Pressemitteilungen identifiziert; die verfügbaren Quellen beziehen sich überwiegend auf die Q1-2026-Ergebnisse (Mai 2026) sowie auf die im Juni 2026 laufenden strukturellen Maßnahmen (Aktienrückkauf, mRNA-Spin-off).
+- **Keine eigenständige neue Pressemitteilung von BioNTech direkt im Zeitraum 11.–18.07.2026 identifiziert:** Die jüngste offizielle Unternehmensmeldung bleiben die Q1-2026-Zahlen (5. Mai 2026) sowie die im Zuge dessen kommunizierten Restrukturierungspläne im Produktionsnetzwerk (siehe „Finanzielles"). Für den engeren Berichtszeitraum selbst liegen keine gesonderten Pressemitteilungen von investors.biontech.de vor.
 
 ## Management
 
-- **Ugur Sahin und Özlem Türeci bestätigen Abgang bis Ende 2026:** Die Co-Gründer werden ihre Führungspositionen bei BioNTech mit Auslaufen ihrer aktuellen Dienstverträge Ende 2026 niederlegen, um ein drittes Biotech-Unternehmen zu gründen – nach Ganymed Pharmaceuticals (2001) und BioNTech (2008) – das sich auf Next-Generation-mRNA-Innovationen konzentrieren soll.
-  - Sahin: *"For us, this is the right time to prepare to hand over the baton. At the same time, Özlem and I are ready to become pioneers once again. Our vision has always been to translate our science into meaningful advances for patients, and we see extraordinary opportunities to unlock the next generation of transformative innovations."*
+- **Ugur Sahin und Özlem Türeci bestätigen Rückzug bis Ende 2026:** Die Co-Gründer werden ihre operativen Führungsrollen bei BioNTech mit Ablauf ihrer laufenden Verträge Ende 2026 abgeben, um ein drittes Biotech-Unternehmen mit Fokus auf Next-Generation-mRNA-Innovationen zu gründen.
   - Quelle: [BioNTech – Co-Founders Announcement (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-and-co-founders-announce-plan-pursue-next-generation)
 
-- **CEO-Nachfolge weiterhin offen:** Bis zum Berichtszeitpunkt wurden keine konkreten Namen für die Nachfolge von Sahin als CEO oder Türeci als CMO kommuniziert. Der geplante Führungswechsel gilt in der Fachpresse als wesentlicher Unsicherheitsfaktor für die strategische Kontinuität von BioNTech.
-  - Quelle: [FierceBiotech – BioNTech's CEO, CMO prep departure to set up next-gen mRNA company](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+- **Sahin äußert sich in Interview zu Zukunftsplänen und Aktienkursentwicklung:** In einem Interview mit der WirtschaftsWoche (März 2026, weiterhin die aktuellste öffentlich zugängliche Stellungnahme dieser Art) sprach Ugur Sahin über seine Pläne für die Zeit nach BioNTech, die Gründe für den Kursrückgang der Aktie sowie darüber, wie Anleger seiner Einschätzung nach künftig von der Onkologie-Strategie profitieren könnten. Für den engeren Berichtszeitraum (11.–18.07.2026) wurde kein neueres Interview gefunden.
+  - Quelle: [WirtschaftsWoche – Biontech: Uğur Şahin spricht über seine Pläne für die Zukunft](https://www.wiwo.de/unternehmen/industrie/biontech-ugur-sahin-spricht-ueber-seine-plaene-fuer-die-zukunft/100207303.html)
 
-- **Strategische Ausrichtung seit JPM Healthcare Conference (Januar 2026) bestätigt:** Sahin hatte 2026 bereits im Januar als "landmark year" für die Onkologie-Pipeline bezeichnet, mit dem Ziel, BioNTech bis 2030 zu einem Multi-Produkt-Onkologieunternehmen zu entwickeln – ein Kurs, der auch nach dem angekündigten Führungswechsel fortgeführt werden soll.
-  - Quelle: [BioNTech – J.P. Morgan 2026 Strategic Update (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-provides-strategic-business-update-and-outlines-2026/)
+- **CEO-Nachfolge weiterhin nicht kommuniziert:** Bis zum Berichtszeitpunkt wurden keine konkreten Namen für die Nachfolge von Sahin (CEO) oder Türeci (CMO) genannt. Der bevorstehende Führungswechsel bleibt ein zentraler Unsicherheitsfaktor für die strategische Kontinuität des Unternehmens.
+  - Quelle: [FierceBiotech – BioNTech's CEO, CMO prep departure to set up next-gen mRNA company](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
 
 ## Finanzielles
 
@@ -42,47 +38,45 @@ _KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 | Liquidität (Cash & Wertpapiere) | €16.763,3 Mio. | – |
 | F&E-Aufwand | $651,6 Mio. | $614,9 Mio. |
 
-- **Umsatzrückgang** primär durch sinkende COVID-19-Impfstofferlöse bedingt.
-- **Jahresprognose 2026 unverändert bestätigt:** Volles Geschäftsjahr Umsatzguidance von $2,3–2,6 Mrd. (bzw. €2,0–2,3 Mrd., je nach Quelle/Währung).
-- **Erhöhter F&E-Aufwand:** Getrieben durch verstärkte Investitionen in Onkologie- und ADC-Programme, insbesondere Pumitamig und Gotistobart.
-- **Starke Bilanz:** Liquidität von ca. €16,8 Mrd. sichert strategischen Spielraum für Pipeline-Investitionen und Kapitalrückgaben.
-- **Aktienrückkaufprogramm:** $1,0 Mrd. über 12 Monate (Start Juni 2026), läuft im Berichtszeitraum fort.
-- Für den engeren Zeitraum KW27 (27.06.–04.07.2026) liegen keine neuen eigenständigen Finanzkennzahlen oder Guidance-Updates vor; das nächste reguläre Zahlenwerk (Q2 2026) wird erst im späteren Jahresverlauf erwartet.
+- **Jahresprognose 2026 bestätigt:** Umsatzguidance von $2,3–2,6 Mrd. für das Gesamtjahr unverändert.
+- **Restrukturierung im Produktionsnetzwerk (im Rahmen der Q1-Zahlen kommuniziert, weiterhin laufend):** BioNTech plant den Ausstieg aus Fertigungsstandorten in Idar-Oberstein, Marburg, Singapur sowie an einem CureVac-Standort. Betroffen sind rund 1.860 Stellen; Ziel sind jährliche Einsparungen von ca. $584,9 Mio. bis 2029. Dies unterstreicht die Fokussierung des Konzerns auf die Onkologie bei gleichzeitigem Rückbau von COVID-19-bezogenen Produktionskapazitäten.
+- **Analystensicht eingetrübt:** Morgan Stanley senkte am 8. Juli 2026 das Kursziel auf $119 (zuvor $126).
+- **Investorenstimmung:** ARK Invest (Cathie Wood) reduzierte am 9. Juli 2026 ihre BioNTech-Position im Rahmen einer breiteren Umschichtung aus Wachstumswerten.
+- **Aktienrückkaufprogramm:** Das im Juni 2026 gestartete $1,0-Mrd.-Rückkaufprogramm (Laufzeit 12 Monate) läuft im Berichtszeitraum fort.
+- Für den engeren Zeitraum KW29 (11.–18.07.2026) liegen keine neuen eigenständigen Finanzkennzahlen oder Guidance-Updates von BioNTech selbst vor; das nächste reguläre Zahlenwerk (Q2 2026) wird für den späteren Jahresverlauf erwartet.
 
 Quellen:
   - [BioNTech – Q1 2026 Financial Results (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/en/biontech-announces-first-quarter-2026-financial-results-and-corporate-update.html)
   - [BioNTech – Q1 2026 Financial Results (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
   - [BioNTech – Q1 2026 (Nasdaq)](https://www.nasdaq.com/press-release/biontech-announces-first-quarter-2026-financial-results-and-corporate-update-2026-05)
   - [BioNTech – Q1 2026 Results (PharmExec)](https://www.pharmexec.com/view/biontech-releases-first-quarter-results-2026)
+  - [BNTX Stock Quote Price and Forecast (CNN Markets)](https://www.cnn.com/markets/stocks/BNTX)
 
 ## Strategie & Ausblick
 
-- **Onkologie-Fokus verstärkt sich – "Jahr des Umbruchs" 2026:** BioNTech erwartet für 2026 mehrere spätstufige Datenauslesungen und arbeitet auf bis zu 15 laufende Phase-3-Studien in der Onkologie bis Jahresende hin. Die European Biotechnology Magazine bezeichnet 2026 als "Jahr der Weichenstellung" für BioNTech, angesichts von Führungswechsel und struktureller Neuausrichtung.
+- **Onkologie bleibt strategischer Kernfokus:** BioNTech treibt die Weiterentwicklung von Pumitamig (BNT327, Partner Bristol Myers Squibb) und Gotistobart (BNT316) mit fünf neu gestarteten pivotalen Studien (TNBC, MSS-Kolorektalkarzinom, Magenkarzinom, zwei NSCLC-Indikationen) voran; weitere Phase-3-Zwischenauswertungen werden im weiteren Jahresverlauf 2026 erwartet.
   - Quelle: [European Biotechnology Magazine – 2026: A year of reckoning for BioNTech](https://european-biotechnology.com/latest-news/2026-a-year-of-reckoning-for-biontech/)
 
-- **Schlüssel-Pipeline-Assets:**
-  - **Pumitamig (BNT327/BMS986545):** Bispezifischer PD-L1/VEGF-A-Immunmodulator (Partner: Bristol Myers Squibb); fünf neue pivotale Studien in TNBC, MSS-Kolorektalkarzinom, Magenkarzinom und zwei NSCLC-Settings gestartet.
-  - **Gotistobart (BNT316/ONC-392):** Anti-CTLA-4-Antikörper; Kombinationsprogramme in Entwicklung.
-  - **Trastuzumab Pamirtecan (BNT323):** ADC (Partner: DualityBio); erste US-Onkologiezulassung bei Endometriumkarzinom weiterhin für 2026 angestrebt.
+- **Produktionsnetzwerk wird auf Onkologie-Fokus zugeschnitten:** Der angekündigte Ausstieg aus mehreren Fertigungsstandorten (Idar-Oberstein, Marburg, Singapur, CureVac-Standort) mit rund 1.860 betroffenen Stellen und angestrebten Einsparungen von $584,9 Mio. p.a. bis 2029 signalisiert eine strukturelle Abkehr vom COVID-19-Massengeschäft hin zu einer schlankeren, onkologiezentrierten Kostenbasis.
 
-- **mRNA-Ausgründung als zentrale strukturelle Maßnahme:** Mit der Frist zum 30. Juni 2026 für die verbindlichen Verträge zur Übertragung der mRNA-Plattform an die neue, von den Gründern geführte Gesellschaft vollzieht BioNTech einen klaren strategischen Schnitt: Fokussierung auf onkologische Produkte bei gleichzeitigem Erhalt von Minderheitsanteilen, Meilenstein- und Lizenzzahlungen aus dem mRNA-Legacy-Geschäft.
+- **mRNA-Ausgründung an Gründer als zentrale strukturelle Maßnahme:** Die Übertragung bestimmter mRNA-Rechte und -Technologien an die neue, von Sahin und Türeci geführte Gesellschaft (Fristsetzung 30. Juni 2026) bleibt ein prägender strategischer Schritt; BioNTech behält Minderheitsbeteiligung sowie künftige Meilenstein- und Lizenzzahlungen.
   - Quelle: [BioNTech – Co-Founders Announcement (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-and-co-founders-announce-plan-pursue-next-generation)
 
-- **Keine neuen Akquisitionen im Berichtszeitraum:** Für KW27 wurden keine neuen Übernahmeankündigungen gefunden. Die wesentliche M&A-Aktivität bleibt der Abschluss der CureVac-Übernahme (~$1,25 Mrd., Compulsory Acquisition der Restanteile Anfang 2026 abgeschlossen), die BioNTechs Position im mRNA-Feld stärkt. Wachstum erfolgt ansonsten primär organisch sowie über bestehende Partnerschaften (BMS für Pumitamig, DualityBio für ADCs).
+- **Keine neuen Akquisitionen im Berichtszeitraum:** Für KW29 wurden keine neuen Übernahmeankündigungen identifiziert. Die CureVac-Übernahme (~$1,25 Mrd., vollständiger Abschluss der Pflichtübernahme der Restanteile Anfang 2026) bleibt die jüngste größere M&A-Aktivität; Wachstum erfolgt ansonsten primär organisch bzw. über bestehende Partnerschaften (BMS für Pumitamig, DualityBio für ADCs).
   - Quelle: [BioNTech Closes Acquisition of CureVac N.V. (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
 
-- **Führungswechsel als zentrale strategische Herausforderung:** Der für Ende 2026 angekündigte Abgang von Sahin und Türeci markiert einen Wendepunkt für BioNTech; Beobachter sehen den Aufbau einer neuen Führungsstruktur sowie die Umsetzung der Onkologie-Strategie als entscheidende Faktoren für die weitere Unternehmensentwicklung.
-  - Quelle: [FierceBiotech – BioNTech's CEO, CMO prep departure to set up next-gen mRNA company](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+- **Führungswechsel und politisches Umfeld als zentrale Risikofaktoren:** Der für Ende 2026 angekündigte Abgang von Sahin und Türeci sowie die zunehmende regulatorische Unsicherheit in den USA (mögliche impfkritische Personalie in einer föderalen Gesundheitsbehörde) werden von Marktbeobachtern als wesentliche Belastungsfaktoren für Kursziel-Anpassungen und Investorenstimmung im Berichtszeitraum genannt.
+  - Quelle: [BNTX Stock Quote Price and Forecast (CNN Markets)](https://www.cnn.com/markets/stocks/BNTX)
 
 ## Quellen
 
-- [BioNTech – ASCO 2026 Pressemitteilung (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-showcase-progress-across-late-stage-oncology-pipeline/)
+- [BNTX Stock Quote Price and Forecast (CNN Markets)](https://www.cnn.com/markets/stocks/BNTX)
+- [WirtschaftsWoche – Biontech: Uğur Şahin spricht über seine Pläne für die Zukunft](https://www.wiwo.de/unternehmen/industrie/biontech-ugur-sahin-spricht-ueber-seine-plaene-fuer-die-zukunft/100207303.html)
 - [BioNTech – Q1 2026 Financial Results (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/en/biontech-announces-first-quarter-2026-financial-results-and-corporate-update.html)
 - [BioNTech – Q1 2026 Financial Results (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
 - [BioNTech – Q1 2026 Financial Results (Nasdaq)](https://www.nasdaq.com/press-release/biontech-announces-first-quarter-2026-financial-results-and-corporate-update-2026-05)
 - [BioNTech – Q1 2026 Results (PharmExec)](https://www.pharmexec.com/view/biontech-releases-first-quarter-results-2026)
 - [BioNTech – Co-Founders / mRNA Spin-off Announcement (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-and-co-founders-announce-plan-pursue-next-generation)
-- [BioNTech – J.P. Morgan 2026 Strategic Update (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-provides-strategic-business-update-and-outlines-2026/)
 - [BioNTech Closes Acquisition of CureVac N.V. (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
 - [FierceBiotech – BioNTech's CEO, CMO prep departure to set up next-gen mRNA company](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
 - [European Biotechnology Magazine – 2026: A year of reckoning for BioNTech](https://european-biotechnology.com/latest-news/2026-a-year-of-reckoning-for-biontech/)
