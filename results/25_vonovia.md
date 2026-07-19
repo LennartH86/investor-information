@@ -1,45 +1,46 @@
 # Vonovia (VNA.DE)
-_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
+_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
 
 ## Aktuelle Meldungen
-Die Vonovia-Aktie steht im Berichtszeitraum unter Druck: Um den 9. Juli 2026 notierte das Papier bei rund 21 Euro, belastet durch die erneute Eskalation des Nahost-Konflikts, steigende Ölpreise und damit verbundene Zinssorgen für zinssensitive Immobilienwerte. Die Aktie liegt damit seit Jahresbeginn rund 25 Prozent im Minus.
+Die Vonovia-Aktie bewegte sich in der Berichtswoche in einer Erholungs- und Konsolidierungsphase nach dem Kursrutsch der Vorwoche. Am 11. Juli 2026 notierte das Papier exakt auf seinem 50-Tage-Durchschnitt – ein charttechnischer Wendepunkt, der als richtungsweisend dafür galt, ob sich die leichte Erholung der vorangegangenen 30 Tage fortsetzt. Auf Wochensicht (7 Tage) verlor die Aktie dabei rund 2,9 Prozent. Am 15. Juli 2026 lag der Kurs bei rund 21,07 Euro; seit Jahresbeginn steht damit ein Minus von rund 12,7 Prozent zu Buche.
 
-Eine für Vonovia politisch positive Entwicklung: Am 2. Juli 2026 hat die Bundesregierung beschlossen, dass eine Vergesellschaftung bzw. Enteignung von privatem Wohnraum künftig gesetzlich ausgeschlossen ist. Dies entlastet Vonovia erheblich, da der Konzern allein in Berlin Bestände im Wert von rund 23 Milliarden Euro hält (Hintergrund: Debatte um "Deutsche Wohnen & Co. enteignen").
+Hintergrund der anhaltenden Volatilität ist weiterhin die Eskalation im Nahost-Konflikt (Ende der US-Iran-Waffenruhe Anfang Juli), die die Ölpreise nach oben trieb und damit erneut Zinssorgen bei zinssensitiven Immobilienwerten wie Vonovia schürte – diese Belastung reichte bis in die Berichtswoche hinein nach.
 
-Der Immowelt-Preiskompass für das zweite Quartal 2026 zeigt zudem eine leichte Erholung am deutschen Wohnimmobilienmarkt: bundesweit ein Plus von rund 1,0 Prozent bei Ein- und Zweifamilienhäusern sowie Eigentumswohnungen, mit Preissteigerungen in 14 von 15 untersuchten Großstädten. Gegenläufig bleibt die Finanzierungsseite angespannt: Zehnjährige Baudarlehen kosteten zum 5. Juli 2026 rund 4,10 Prozent effektiven Jahreszins, was das Neubau- und Transaktionsumfeld weiter belastet.
+Positiv wirkt weiterhin die politische Entscheidung vom 2. Juli 2026 nach: Die Bundesregierung hat die Vergesellschaftung/Enteignung von privatem Wohnraum künftig per Bundesgesetz ausgeschlossen. Das entlastet Vonovia strukturell, da der Konzern allein in Berlin rund 138.245 Wohneinheiten im Wert von etwa 23 Milliarden Euro (rund 29 % des Gesamtportfolios) hält.
 
 ## Management
-Luka Mucic ist seit dem 1. Januar 2026 Vorstandsvorsitzender (CEO) der Vonovia SE und damit Nachfolger von Rolf Buch, der den Konzern seit 2013 geführt hatte. Mucic war zuvor Finanzvorstand (CFO) bei Vodafone Group sowie von 2014 bis 2023 CFO der SAP SE. Für den engeren Berichtszeitraum (27.06.–04.07.2026) liegen keine neuen Personalmeldungen oder öffentlichen Auftritte von Mucic vor; die letzten bekannten öffentlichen Statements stammen aus dem Q1-2026-Earnings-Call im Mai 2026.
+Luka Mucic ist seit dem 1. Januar 2026 Vorstandsvorsitzender (CEO) der Vonovia SE als Nachfolger von Rolf Buch, der den Konzern seit 2013 geführt hatte. Mucic war zuvor CFO der Vodafone Group sowie von 2014 bis 2023 CFO/COO der SAP SE. Für die konkrete Berichtswoche (11.–18.07.2026) liegen keine neuen öffentlichen Auftritte, Interviews oder Personalmeldungen von Mucic vor; die letzten bekannten Statements des CEO stammen aus dem Q1-2026-Earnings-Call im Mai 2026.
 
 ## Finanzielles
-Neue Zahlen wurden im Berichtszeitraum nicht veröffentlicht; die zuletzt bekannten Quartalsergebnisse (Q1 2026, veröffentlicht Mai 2026) bleiben maßgeblich: Der Umsatz stieg um rund 8 Prozent auf 1,32 Milliarden Euro, das bereinigte EBITDA im Segment Vermietung legte um 6,3 Prozent zu, im Segment Value-add um rund 30 Prozent. Die FFO I erhöhte sich auf 310 Millionen Euro. Das bereinigte EBITDA Total lag mit 711,6 Millionen Euro im Rahmen der Erwartungen, während das bereinigte EBT aufgrund gestiegener Finanzierungskosten auf 462,2 Millionen Euro zurückging.
+Neue Quartalszahlen wurden in der Berichtswoche nicht veröffentlicht. Die zuletzt bekannten Ergebnisse (Q1 2026, Mai 2026) bleiben maßgeblich: bereinigtes EBITDA Total 711,6 Mio. Euro (Vermietung +6,3 %, Value-add +über 30 % auf 50,1 Mio. Euro), FFO I gestiegen auf 310 Mio. Euro, bereinigtes EBT rückläufig auf 462,2 Mio. Euro (höhere Finanzierungskosten). Die Jahresprognose 2026 (bereinigtes EBITDA Total 2,95–3,05 Mrd. Euro, bereinigtes EBT 1,9–2,0 Mrd. Euro) wurde bestätigt.
 
-Trotz des Gewinnrückgangs im ersten Quartal bestätigte Vonovia die Prognose für das Gesamtjahr 2026: bereinigtes EBITDA Total von 2,95 bis 3,05 Milliarden Euro, bereinigtes EBT von 1,9 bis 2,0 Milliarden Euro sowie FFO I von 1,25 bis 1,28 Milliarden Euro.
+Zur Refinanzierung hatte Vonovia im Juni 2026 eine Wandelanleihe über 750 Mio. Euro ohne laufende Verzinsung platziert (Laufzeit bis Ende Juni 2031, Wandlungsprämie 35–40 % über Referenzkurs). Für 2026 stehen insgesamt rund 1,6 Mrd. Euro an Refinanzierungen an, für 2027 und 2028 jeweils rund 5 Mrd. Euro.
 
-Zur Refinanzierung hatte Vonovia zuvor die Emission einer Wandelanleihe über 750 Millionen Euro angekündigt. Für 2026 muss der Konzern insgesamt rund 1,6 Milliarden Euro refinanzieren, in den beiden Folgejahren jeweils rund 5 Milliarden Euro. Der nächste wichtige Termin ist der Halbjahresbericht am 5. August 2026, in dessen Rahmen turnusgemäß auch die Neubewertung des Immobilienportfolios zum Stichtag 30. Juni 2026 im Fokus steht.
+Analystenseitig blieb das Bild in der Berichtswoche konstruktiv: Berenberg bestätigte am 11. Juli 2026 seine Kaufempfehlung mit einem Kursziel von 34,50 Euro, deutlich über dem aktuellen Kursniveau. Der Analystenkonsens sieht ein Kursziel von rund 34,35 Euro (JPMorgan: „Overweight“, Kursziel 34,50 Euro, Stand 2. Juli 2026). Nächster wichtiger Termin bleibt der Halbjahresbericht am 5. August 2026, in dessen Rahmen turnusgemäß die Neubewertung des Immobilienportfolios zum Stichtag 30. Juni 2026 im Fokus steht.
 
 ## Strategie & Ausblick
-Vonovia setzt 2026 verstärkt auf Portfoliobereinigung statt auf große Zukäufe: Nicht-strategische Bestände werden verkauft, während gleichzeitig gezielt modernisiert und punktuell nachgekauft wird. Konkrete neue Übernahmen oder Akquisitionen wurden im Berichtszeitraum nicht bekannt gegeben – die Zeit großer M&A-Transaktionen (wie der Übernahme der Deutsche Wohnen 2021) scheint vorerst vorbei; der strategische Fokus liegt auf organischem Wachstum, Bilanzstabilisierung und gezielter Entschuldung.
+Vonovia setzt 2026 weiterhin auf Portfoliobereinigung und Bilanzstabilisierung statt auf große Zukäufe – konkrete neue Übernahmen oder Akquisitionen wurden auch in der Berichtswoche nicht bekannt. Die Neubauinvestitionen wurden 2026 von zuvor 8,1 Mrd. auf rund 6 Mrd. Euro zurückgefahren; beim Verkaufsgeschäft (Recurring Sales) strebt der Konzern weiterhin 3.000 bis 3.500 Einheiten für das Gesamtjahr an. Langfristiges Ziel bleibt eine Loan-to-Value-Quote (LTV) von rund 40 Prozent bis 2028 zur Sicherung des Investment-Grade-Ratings.
 
-Die Neubauinvestitionen des Konzerns werden 2026 spürbar zurückgefahren, von zuvor 8,1 Milliarden auf rund 6 Milliarden Euro, was das schwierige Finanzierungsumfeld (hohe Bauzinsen) widerspiegelt. Für das Verkaufsgeschäft (Recurring Sales) strebt Vonovia weiterhin ein Volumen von 3.000 bis 3.500 Einheiten für das Gesamtjahr 2026 an. Das politische Signal gegen Enteignungen sowie die leichte Erholung der Immobilienpreise stützen den mittelfristigen Ausblick, während geopolitische Risiken (Nahost-Konflikt, Ölpreis, Zinsniveau) kurzfristig für Kursvolatilität sorgen. Die anstehende Portfoliobewertung zum 30. Juni 2026 (Veröffentlichung im Halbjahresbericht am 5. August 2026) gilt als nächster wichtiger Katalysator für Bilanz und LTV-Entwicklung.
+Kurzfristig bleibt die Aktie stark von geopolitischen und makroökonomischen Faktoren (Nahost-Konflikt, Ölpreis, Zinsniveau) statt von operativen Nachrichten getrieben – ein Umstand, den auch Marktbeobachter in der Berichtswoche explizit hervorhoben. Das operative Geschäft selbst gilt weiterhin als stabil (Vermietungsquote 97,7 %, organisches Mietwachstum 4,0 % im Q1 2026), während das politische Signal gegen Enteignungen den mittelfristigen Ausblick stützt. Der Halbjahresbericht am 5. August 2026 gilt als nächster wichtiger Katalysator für Bilanz- und LTV-Entwicklung.
 
 ## Quellen
-- [Vonovia Aktie: Diesen Termin sollten sich Anleger merken – Investor Verlag](https://www.investor-verlag.de/aktien-und-aktienhandel/deutschland/deutsche-annington-aktie/vonovia-aktie-diesen-termin-sollten-sich-anleger-merken/)
-- [Vonovia Aktie: immowelt sieht 1,0 Prozent Plus – Börse Express](https://www.boerse-express.com/news/articles/vonovia-aktie-immowelt-sieht-10-prozent-plus-925061)
-- [Vonovia Aktie: Neubau-Investitionen auf 6 Milliarden – Finanztrends](https://www.finanztrends.de/news/vonovia-aktie-neubau-investitionen-auf-6-milliarden/)
-- [Vonovia Aktie: Wandelanleihe und Bewertungsstichtag – Börse Express](https://www.boerse-express.com/news/articles/vonovia-aktie-wandelanleihe-und-bewertungsstichtag-921662)
-- [Vonovia Aktie: 25,13 Prozent Minus seit Jahresbeginn – Börse Express](https://www.boerse-express.com/news/articles/vonovia-aktie-2513-prozent-minus-seit-jahresbeginn-926855)
+- [Vonovia Aktie: Zinslast gegen Mietwachstum – Börse Express](https://www.boerse-express.com/news/articles/vonovia-aktie-zinslast-gegen-mietwachstum-928216)
+- [Vonovia-Aktie: Lohnt sich der Einstieg jetzt? – boerse.de](https://www.boerse.de/nachrichten/Vonovia-Aktie-Lohnt-sich-der-Einstieg-jetzt/38454574)
 - [Vonovia Aktie: Enteignungsverbot ab 2. Juli – Börse Express](https://www.boerse-express.com/news/articles/vonovia-aktie-enteignungsverbot-ab-2-juli-925755)
-- [Vonovia bestätigt Prognose für 2026 trotz Gewinnrückgang im ersten Quartal – Investing.com](https://de.investing.com/news/stock-market-news/vonovia-bestatigt-prognose-fur-2026-trotz-gewinnruckgang-im-ersten-quartal-93CH-3467021)
-- [Vonovia Presseportal](https://www.vonovia.com/en/press)
+- [Vonovia SE: Enteignungsrisiko vom Tisch! – wallstreetONLINE, 02.07.2026](https://www.wallstreet-online.de/nachricht/21070500-vonovia-se-enteignungsrisiko-tisch)
+- [Vonovia: Das Ende der Enteignungsangst? – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-07/68925451-vonovia-das-ende-der-enteignungsangst-124.htm)
+- [Vonovia-Aktie verliert nach neuer Nahost-Eskalation deutlich – finanzen.at, 08.07.2026](https://www.finanzen.at/nachrichten/aktien/vonovia-aktie-verliert-nach-neuer-nahost-eskalation-deutlich-1036306208)
+- [Vonovia Aktie: 4,50 Prozent Minus – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-aktie-4-50-prozent-minus/69727210)
+- [Vonovia Aktie: Ölpreis bremst Immobilienwerte – Finanztrends](https://www.finanztrends.de/rohstoff/vonovia/news/vonovia-aktie-oelpreis-bremst-immobilienwerte/)
+- [Vonovia Aktie: Zinsen drücken den Kurs trotz hoher Kursziele – ms-aktuell.de, 08.07.2026](https://ms-aktuell.de/welt/08072026-vonovia-aktie-kursrutsch-analysten-kursziele/)
+- [JPMORGAN stuft Vonovia auf 'Overweight' – wallstreetONLINE, 02.07.2026](https://www.wallstreet-online.de/nachricht/21067710-jpmorgan-stuft-vonovia-overweight)
+- [VONOVIA AKTIE Kursziele/Analystenschätzungen – finanzen.net](https://www.finanzen.net/kursziele/vonovia)
+- [Vonovia Aktie: Bilanz-Showdown im August – stock-world.de](https://www.stock-world.de/vonovia-aktie-bilanz-showdown-im-august/)
+- [Vonovia Aktie: LTV-Ziel 40 Prozent bis 2028 – stock-world.de](https://www.stock-world.de/vonovia-aktie-ltv-ziel-40-prozent-bis-2028/)
 - [Vonovia announces EUR 750 million convertible bond offering – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ad-hoc-mitteilungen/vonovia-se-de000a1ml7j1/69607979)
-- [Vonovia Zwischenmitteilung Q1 2026 – report.vonovia.com](https://report.vonovia.com/2026/q1/de/bestandsinformationen)
+- [Vonovia Aktie: 750-Millionen-Wandelanleihe ohne Bezugsrecht – kapitalmarktexperten.de](https://www.kapitalmarktexperten.de/vonovia-aktie-750-millionen-wandelanleihe-ohne-bezugsrecht/)
 - [Vonovia Interim Statement Q1 2026 – report.vonovia.com](https://report.vonovia.com/2026/q1/en/)
-- [Vonovia Management Board](https://www.vonovia.com/en/about-us/corporate-management/management-board)
-- [Vonovia SE (VONOY) Q1 2026 Earnings Call Transcript – Seeking Alpha](https://seekingalpha.com/article/4900680-vonovia-se-vonoy-q1-2026-earnings-call-transcript)
-- [Vonovia: New CEO, new directions – MarketScreener](https://www.marketscreener.com/news/vonovia-new-ceo-new-directions-ce7e5eded88cf120)
-- [Q1 2026 – Vonovia Presse](https://www.vonovia.com/en/press/q1-2026)
 - [Vonovia bestätigt Prognose nach dem ersten Quartal 2026 – immobilienmanager.de](https://www.immobilienmanager.de/vonovia-bestaetigt-prognose-nach-q1-07052026)
-- [Vonovia Aktie: Quartalszahlen Q1 2026 übertreffen Erwartungen – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/vonovia-aktie-de000a1ml7j1-quartalszahlen-q1-2026-uebertreffen/69283944)
-- [Akquisition – Vonovia](https://www.vonovia.com/en/about-us/company/acquisition)
-- [Vonovia Aktie: 1,6 Milliarden Euro Refinanzierung 2026 – Kapitalmarktexperten](https://www.kapitalmarktexperten.de/vonovia-aktie-16-milliarden-euro-refinanzierung-2026/)
+- [Vonovia Management Board](https://www.vonovia.com/en/about-us/corporate-management/management-board)
+- [Luka Mucic wird CEO von Vonovia – IT-Onlinemagazin](https://it-onlinemagazin.de/luka-mucic-wird-ceo-von-vonovia/)
+- [Vonovia Presseportal](https://www.vonovia.com/en/press)

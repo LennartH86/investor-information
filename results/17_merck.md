@@ -1,5 +1,5 @@
 # Merck KGaA (MRK.DE)
-_KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
+_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
 
 > **Hinweis:** Alle Informationen beziehen sich auf **Merck KGaA, Darmstadt, Deutschland** (EMD Group, MRK.DE / MKGAF) – **NICHT** auf Merck & Co., Inc. (USA, MRK NYSE).
 
@@ -7,52 +7,37 @@ _KW27 / 2026 | Zeitraum: 27.06.2026 – 04.07.2026_
 
 ## Aktuelle Meldungen
 
-Nach der Mega-Übernahme von Bio-Techne (angekündigt 25.06.2026, siehe unten) war die Woche KW27 vor allem von der Nachwirkung dieser Ankündigung sowie von einem regulatorischen Fortschritt im Pharma-Pipeline geprägt.
+### EU-Zulassungserweiterung für Erbitux bei BRAF-V600E-mutiertem Darmkrebs (14.07.2026)
 
-### FDA Breakthrough-Therapy-Status für Enpatoran
+Merck KGaA gab am 14. Juli 2026 bekannt, dass die Europäische Kommission (EC) eine Erweiterung der EU-Zulassung von **Erbitux® (Cetuximab)** genehmigt hat: Erbitux in Kombination mit **Encorafenib und FOLFOX** ist damit das erste und einzige zugelassene zielgerichtete Regime für die **Erstlinienbehandlung** erwachsener Patienten mit **BRAF-V600E-mutiertem metastasiertem kolorektalem Karzinom (mCRC)** ("BREAKWATER-Regime"). Grundlage ist die Phase-3-BREAKWATER-Studie: medianes progressionsfreies Überleben 12,8 vs. 7,1 Monate, medianes Gesamtüberleben 30,3 vs. 15,1 Monate und eine bestätigte Ansprechrate von 65,7 % vs. 37,4 % gegenüber der Standard-Chemotherapie (mit/ohne Bevacizumab). Dieselbe EC-Entscheidung bestätigte zudem formal den Einsatz von Erbitux mit Encorafenib ("BEACON-Regime") bei vorbehandelten Patienten, sodass das Label nun sowohl frühe als auch spätere Therapielinien abdeckt.
 
-Anfang Juli 2026 gab Merck KGaA bekannt, dass die US-Arzneimittelbehörde FDA dem Wirkstoffkandidaten **Enpatoran** den **Breakthrough-Therapy-Status** verliehen hat – und zwar für die Behandlung von Lupus mit aktiven Hautmanifestationen (kutaner Lupus erythematodes). Enpatoran ist ein oraler, selektiver Toll-like-Rezeptor-(TLR)-7/8-Inhibitor, der zentrale Entzündungswege bei Lupus modulieren soll. Der Wirkstoff befindet sich weiterhin in der klinischen Prüfung und ist bislang in keinem Land zugelassen.
+_On July 14, 2026, Merck KGaA announced EC approval of an EU label update making the Erbitux + encorafenib + FOLFOX regimen the first and only approved targeted first-line treatment for BRAF V600E-mutant metastatic colorectal cancer, based on Phase 3 BREAKWATER trial data._
 
-_The FDA granted Breakthrough Therapy designation to enpatoran, Merck KGaA's oral TLR7/8 inhibitor, for lupus with active cutaneous manifestations — a meaningful pipeline milestone that could accelerate the regulatory pathway._
+### Eröffnung einer neuen BioReliance-Testeinrichtung in Darmstadt (16.07.2026)
 
-### Bio-Techne-Übernahme weiterhin im Fokus (Deal vom 25.06.2026)
+Am 16. Juli 2026 eröffnete Merck (über MilliporeSigma) am Hauptsitz in Darmstadt eine neue **BioReliance®-Testeinrichtung** mit einem Investitionsvolumen von rund **25 Mio. EUR**. Die rund 2.000 m² große Anlage erweitert das globale Testnetzwerk um kommerzielle Freigabetests für Wirkstoffe (Drug Substance) und Arzneimittel (Drug Product) sowie GMP-konforme Stabilitätsstudien für monoklonale Antikörper und Zelltherapien – ein Angebot, das die wachsende Nachfrage nach Biologika-Testkapazitäten in Europa adressieren soll. Die Investition reiht sich ein in weitere jüngere Ausbauten der Contract-Testing-Sparte (u. a. 290 Mio. USD Biosafety-Testanlage in Rockville, USA, 2024; 22 Mio. EUR Kapazitätsausbau in Glasgow/Stirling, UK).
 
-Die am 25. Juni 2026 angekündigte Übernahme von **Bio-Techne Corporation** (NASDAQ: TECH) für rund 11,3 Mrd. USD (73 USD je Aktie in bar) bleibt das dominierende Thema für Merck-KGaA-Investoren, auch in KW27. Analysten diskutierten in dieser Woche insbesondere die Bewertung des Deals: Einige Stimmen (u.a. Seeking Alpha) sehen zwar eine qualitative Verbesserung des Portfolios, stufen die Aktie aber wegen der bereits „fair bewerteten" Kursreaktion vorsichtiger ein („Bio-Techne Acquisition Improves Quality, But Stock Seems Fully Valued").
+_On July 16, 2026, Merck (via MilliporeSigma) opened a €25 million, ~2,000 sqm BioReliance testing facility at its Darmstadt headquarters, adding commercial drug substance/product release testing and GMP-compliant stability studies for antibodies and cell therapies — part of a broader expansion of its global contract-testing network._
 
-- **Kaufpreis:** 73 USD je Aktie in bar; Enterprise Value ca. 11,3 Mrd. USD (ca. 9,9 Mrd. EUR)
-- **Zeitplan:** Abschluss erwartet Ende 2026 oder Anfang 2027
-- **Einordnung:** Größte Merck-Akquisition seit Sigma-Aldrich (2014); erste große Transaktion unter CEO Kai Beckmann
+### Aktienkurs und Analysteneinschätzungen
 
-_Analyst commentary in the days following the deal has been mixed: strategic rationale (life science tools, cell & gene therapy) is well received, but some see the stock as fully valued post-announcement._
+Die Merck-KGaA-Aktie notierte am 17. Juli 2026 bei rund 136–140 EUR und damit weiterhin nahe ihres 12-Monats-Hochs von 147,45 EUR (erreicht am 25.06.2026, dem Tag der Bio-Techne-Ankündigung); in den USA (ADR/OTC: MKGAF bzw. MKKGY) legte der Titel am selben Tag zeitweise rund 2,4 % zu. Kurz vor dem Berichtszeitraum, am 6. Juli 2026, hatte **HSBC** seine Einstufung von "Buy" auf "Hold" gesenkt, das Kursziel jedoch von 160 auf 170 EUR angehoben – als Teil einer umfassenderen Neubewertung des europäischen Pharmasektors. Begründet wurde die Herabstufung u. a. mit der Sorge, dass die Erholung im Process-Solutions-Geschäft teils durch vorgezogene Lagerabbau-Effekte (Destocking) getrieben sei und nach dem dritten Quartal 2026 schwierigere Vergleichswerte drohten; zudem bezeichnete HSBC die Bewertung des Bio-Techne-Deals als "reichlich" ("seems rich"), der nur in sehr optimistischen Szenarien wertsteigernd sei. Von den derzeit rund 17 abdeckenden Analysten votieren laut Marktdaten weiterhin mehrheitlich für "Buy". Parallel wurde für Mitte Juli ein deutlicher Rückgang der Leerverkaufspositionen (Short Interest) bei der US-Notierung gemeldet (-66,7 % zum 30.06. gegenüber dem 15.06.2026).
 
-### Termin: Q2 2026 Zahlen am 6. August 2026 angekündigt
-
-Merck KGaA bestätigte den Veröffentlichungstermin für die **Q2/H1 2026-Ergebnisse**: **6. August 2026, 7:00 Uhr MESZ**. Die Analysten-Telefonkonferenz ist für 14:00 Uhr MESZ angesetzt, die Medienkonferenz für 9:30 Uhr MESZ. Investoren erwarten dort insbesondere Details zur Finanzierungsstruktur der Bio-Techne-Übernahme sowie ein aktualisiertes Trading-Update.
+_Shares traded around €136–140 in mid-July, near the June 25 12-month high. HSBC cut Merck KGaA to "Hold" from "Buy" on July 6 (while raising its price target to €170) citing Process Solutions destocking risk and a "rich" valuation for the Bio-Techne deal; short interest in the US listing fell sharply through late June._
 
 ---
 
 ## Management
 
-### CEO Kai Beckmann (seit 01.05.2026)
-
-Kai Beckmann führt seit dem 1. Mai 2026 als Chairman of the Executive Board und Group CEO die Geschicke von Merck KGaA. Mit der Bio-Techne-Übernahme hat er in seinen ersten zwei Amtsmonaten bereits die größte Akquisition der Firmengeschichte seit 2014 eingefädelt und damit sein zuvor angekündigtes Ziel „We will broaden our M&A scope" konkret umgesetzt.
-
-**Strategische Ausrichtung:**
-> „By combining our core strengths in biology, chemistry and physics with data and AI, we will become a more agile company that delivers at greater speed and scale."
-
-Beckmann betonte in Interviews im Frühjahr/Sommer 2026 wiederholt, dass M&A ein „kritischer" Wachstumshebel sei, um die vergleichsweise dünne Pharma-Pipeline von Merck durch externe Innovation zu stärken.
-
-_New CEO Kai Beckmann continues to signal an aggressive, M&A-driven growth agenda, with Bio-Techne as the clearest proof point so far. Coverage from FiercePharma characterizes Merck's pipeline as "rather slim," reinforcing why external deals remain central to his strategy._
-
-Keine neuen Personalwechsel im Top-Management wurden im Berichtszeitraum (27.06.–04.07.2026) bekannt.
+Im Berichtszeitraum (11.07.–18.07.2026) wurden keine neuen Personalwechsel im Top-Management bekannt. CEO **Kai Beckmann** (seit 01.05.2026) und sein Team setzten die zuvor kommunizierte Strategie fort – sichtbar an der fortlaufenden operativen Umsetzung von Wachstumsinitiativen wie der BioReliance-Investition in Darmstadt sowie an Pipeline-Fortschritten wie der Erbitux-Zulassungserweiterung, während die im Juni angekündigte Bio-Techne-Übernahme weiter das regulatorische Genehmigungsverfahren (Aktionärsabstimmung bei Bio-Techne, Kartellprüfungen in den USA und der EU) durchläuft.
 
 ---
 
 ## Finanzielles
 
-Keine neuen Quartalszahlen im Berichtszeitraum – die nächste Veröffentlichung (Q2/H1 2026) ist für **6. August 2026** angekündigt (siehe „Aktuelle Meldungen").
+Keine neuen Quartalszahlen im Berichtszeitraum. Die **Q2/H1-2026-Ergebnisse** werden weiterhin für **6. August 2026, 7:00 Uhr MESZ** erwartet (Analysten-Call 14:00 Uhr MESZ, Medienkonferenz 9:30 Uhr MESZ).
 
-Zur Erinnerung – Stand nach Q1 2026 (13.05.2026, angehobene Guidance):
+Zur Erinnerung – aktuelle Guidance 2026 (nach Q1, angehoben am 13.05.2026):
 
 | Kennzahl | Guidance 2026 (aktuell) |
 |---|---|
@@ -61,41 +46,39 @@ Zur Erinnerung – Stand nach Q1 2026 (13.05.2026, angehobene Guidance):
 | Bereinigtes EBITDA | 5,7–6,1 Mrd. EUR |
 | EPS pre | 7,50–8,20 EUR |
 
-**Hinweis:** Die Finanzierungsstruktur der Bio-Techne-Transaktion (Barmittel + neue Schulden, Erhalt eines starken Investment-Grade-Ratings) sowie deren Auswirkung auf die Guidance werden voraussichtlich erst im Q2-Bericht am 6. August 2026 konkretisiert.
+Aktienkurs Mitte Juli: ca. 136–140 EUR (Xetra), nahe dem 12-Monats-Hoch von 147,45 EUR (25.06.2026). HSBC senkte am 06.07.2026 die Einstufung auf "Hold" (Kursziel angehoben auf 170 EUR), u. a. wegen Bewertungsbedenken zum Bio-Techne-Deal. Konsensus-Kursziele anderer Häuser lagen im Juli in einer Bandbreite von rund 138–147 EUR. Details zur Finanzierungsstruktur der Bio-Techne-Transaktion (Bar- und Fremdkapital, Erhalt des Investment-Grade-Ratings) werden weiterhin für den Q2-Bericht am 6. August 2026 erwartet.
 
-_No new quarterly figures were released in this window; the next update (Q2/H1 2026) is scheduled for August 6, 2026, where financing details for the Bio-Techne deal are expected._
+_No new quarterly figures this week; Q2/H1 2026 results remain scheduled for August 6, 2026. Shares traded near €136–140 in mid-July, close to the June 25 all-time high of €147.45, following HSBC's July 6 downgrade to Hold (with a raised €170 target) on Bio-Techne valuation and Process Solutions destocking concerns._
 
 ---
 
 ## Strategie & Ausblick
 
-### M&A als zentrale Wachstumsachse unter Beckmann
+Die Ereignisse der Woche bestätigen die zweigleisige Strategie von Merck KGaA unter CEO Kai Beckmann: **organische Stärkung** der bestehenden Geschäfte (Healthcare-Pipeline-Fortschritt durch die Erbitux-Zulassungserweiterung; Ausbau der Life-Science-Testinfrastruktur durch die neue BioReliance-Anlage in Darmstadt) kombiniert mit der **externen, M&A-getriebenen Expansion** durch die im Juni angekündigte Bio-Techne-Übernahme (Enterprise Value ca. 11,3 Mrd. USD), deren regulatorische Prüfung und Aktionärsabstimmung weiterläuft. Die Investition in Darmstadt unterstreicht zudem, dass der Konzern trotz der großen US-Akquisition weiterhin gezielt in den deutschen Stammsitz investiert.
 
-Die Kombination aus der Bio-Techne-Übernahme (Life Science Tools, Cell & Gene Therapy) und dem FDA-Breakthrough-Status für Enpatoran (Pharma-Pipeline, Immunologie) zeigt eine zweigleisige Strategie:
+Für die kommenden Wochen richtet sich der Investorenfokus auf: (1) den Fortgang des Bio-Techne-Genehmigungsprozesses (Kartellbehörden in den USA/EU, Aktionärsvotum bei Bio-Techne), (2) mögliche weitere Analystenkommentare zur Bewertung des Deals nach der HSBC-Herabstufung, sowie (3) die Q2/H1-2026-Zahlen am 6. August 2026, die erstmals Details zur Finanzierung der Übernahme liefern dürften. Die Erbitux-Zulassungserweiterung liefert zusätzliches Aufwärtspotenzial für die Onkologie-Sparte im Healthcare-Geschäft.
 
-1. **Externe Stärkung über M&A:** Bio-Techne soll die Marktführerschaft im Life-Science-Werkzeugsegment ausbauen und Synergien von ca. 140 Mio. EUR p.a. ab Jahr 3 heben
-2. **Organische Pipeline-Fortschritte:** Der Breakthrough-Status für Enpatoran unterstreicht, dass trotz der als „schlank" beschriebenen Pipeline weiterhin eigene klinische Fortschritte erzielt werden, insbesondere im Immunologie-/Autoimmun-Bereich
-
-### Ausblick
-
-Für die kommenden Wochen richtet sich der Fokus der Investoren auf zwei Termine: die Fortentwicklung des regulatorischen Prozesses rund um Bio-Techne (kartellrechtliche Prüfung, Aktionärszustimmung) sowie die Q2/H1-2026-Zahlen am 6. August 2026, die erstmals Klarheit über die Finanzierungsdetails des Milliardendeals liefern dürften. Der Enpatoran-Fortschritt liefert zusätzliches Aufwärtspotenzial für die Healthcare-Pipeline, sollte sich der Breakthrough-Status in eine beschleunigte Zulassung übersetzen.
-
-_Looking ahead, investor attention centers on regulatory progress for the Bio-Techne deal and the August 6 Q2 results, which should clarify financing details. The enpatoran breakthrough designation adds a positive data point to an otherwise thin near-term pharma pipeline._
+_This week's news confirms Merck KGaA's dual-track strategy under CEO Kai Beckmann: organic strengthening (Erbitux label expansion, new Darmstadt testing capacity) alongside the pending, M&A-driven Bio-Techne acquisition. Investor focus ahead centers on Bio-Techne's regulatory/shareholder approval process and the August 6 Q2 results, which should clarify deal financing._
 
 ---
 
 ## Quellen
 
-- [Merck KGaA wins FDA Breakthrough status for enpatoran – The Pharmaletter](https://www.thepharmaletter.com/pharma-news/merck-kgaa-wins-fda-breakthrough-status-for-enpatoran)
-- [Merck KGaA: Bio-Techne Acquisition Improves Quality, But Stock Seems Fully Valued – Seeking Alpha](https://seekingalpha.com/article/4917901-merck-kgaa-bio-techne-acquisition-improves-quality-but-stock-seems-fully-valued-downgrade)
-- [Merck KGaA, Darmstadt, Germany, Agrees to Acquire Bio-Techne – PR Newswire (25.06.2026)](https://www.prnewswire.com/news-releases/merck-kgaa-darmstadt-germany-agrees-to-acquire-bio-techne-strengthening-leadership-position-in-fast-growing-life-sciences-markets-302810602.html)
-- [Germany's Merck KGaA to buy Bio-Techne – CNBC (25.06.2026)](https://www.cnbc.com/2026/06/25/germanys-merck-kgaa-to-buy-bio-techne.html)
-- [Merck KGaA to buy Bio-Techne for around $11 billion – C&EN](https://cen.acs.org/business/mergers-&-acquisitions/merck-kgaa-buy-bio-techne/104/web/2026/06)
-- [S&C Advises Merck KGaA on $11.3 Billion Acquisition of Bio-Techne – Sullivan & Cromwell LLP](https://www.sullcrom.com/About/News-and-Events/Highlights/2026/June/SC-Advises-Merck-KGaA-11-3-Billion-Acquisition-Bio-Techne)
-- [Merck to acquire Bio-Techne in one of Minnesota's largest-ever deals – Star Tribune](https://www.startribune.com/merck-buying-twin-cities-medtech-firm-bio-techne-for-113b/601861472)
-- [Bio-Techne Acquisition press release – Bio-Techne Investor Relations](https://investors.bio-techne.com/press-releases/detail/535/merck-kgaa-darmstadt-germany-agrees-to-acquire)
-- [Merck KGaA's new CEO Beckmann emphasizes reliance on M&A – FiercePharma](https://www.fiercepharma.com/pharma/merck-kgaa-looks-ma-bolster-its-rather-slim-pipeline)
-- [Kai Beckmann to Succeed Belén Garijo as CEO as of May 2026 – EMD Group](https://www.emdgroup.com/en/news/garijo-beckmann-25-09-25.html)
-- [Merck KGaA AGM: CEO Garijo's final address, stable €2.20 dividend, Beckmann to take over May 1 – Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/merck-kgaa-agm-ceo-garijo-152859966.html)
-- [News & Stories – EMD Group (Investor Relations, Q2 2026 date)](https://www.emdgroup.com/en/news-stories.html)
+- [EU Label Update Erbitux – EMD Group (14.07.2026)](https://www.emdgroup.com/en/news/ec-approval-erbitux-crc-14-07-2026.html)
+- [European Commission Approves Erbitux® (cetuximab) in Combination with Encorafenib and FOLFOX for First-Line Treatment of Metastatic Colorectal Cancer with BRAF V600E Mutation – Business Wire (14.07.2026)](https://www.businesswire.com/news/home/20260714604485/en/European-Commission-Approves-Erbitux-cetuximab-in-Combination-with-Encorafenib-and-FOLFOX-for-First-Line-Treatment-of-Metastatic-Colorectal-Cancer-with-BRAF-V600E-Mutation)
+- [EC approves Erbitux combination for first-line treatment of BRAF V600E-mutant mCRC – PharmaTimes](https://pharmatimes.com/news/ec-approves-erbitux-combination-for-first-line-treatment-of-braf-v600e-mutant-mcrc/)
+- [Merck's Erbitux BRAF V600E mCRC Regimen Gets EU Approval for First-Line Treatment – BiotechReality](https://www.biotechreality.com/2026/07/erbitux-braf-v600e-mcrc-merck.html)
+- [MilliporeSigma Announces Opening of BioReliance® Testing Facility in Darmstadt, Germany – EMD Group (16.07.2026)](https://www.emdgroup.com/en/news/cts-darmstadt-opening-16-07-2026.html)
+- [Merck Opens BioReliance® Testing Facility in Darmstadt, Germany to Support Drug Product Release in Europe – GlobeNewswire (16.07.2026)](https://www.globenewswire.com/news-release/2026/07/16/3328423/0/en/merck-opens-bioreliance-testing-facility-in-darmstadt-germany-to-support-drug-product-release-in-europe.html)
+- [Merck Opens €25 million BioReliance Testing Facility in Darmstadt, Germany – Contract Pharma](https://www.contractpharma.com/breaking-news/merck-opens-e25-million-bioreliance-testing-facility-in-darmstadt-germany/)
+- [Merck Invests €25M to Expand BioReliance Testing Capabilities in Europe – BioPharmaAPAC](https://biopharmaapac.com/news/98/8193/merck-invests-25m-to-expand-bioreliance-testing-capabilities-in-europe.html)
+- [HSBC Downgrades Merck KGaA to Hold, Lifts PT – MarketScreener (06.07.2026)](https://hk.marketscreener.com/news/hsbc-downgrades-merck-kgaa-to-hold-lifts-pt-ce7f5edbd98af527)
+- [HSBC overhauls European pharma ratings and flags AI rotation risk – Investing.com](https://ng.investing.com/news/stock-market-news/hsbc-overhauls-european-pharma-ratings-and-flags-ai-rotation-risk-2585965)
+- [Merck KGaA (ETR:MRK) Trading 0.4% Higher – Here's What Happened – Markets Daily (17.07.2026)](https://www.themarketsdaily.com/2026/07/17/merck-kgaa-etrmrk-trading-0-4-higher-heres-what-happened.html)
+- [Merck KGaA (OTCMKTS:MKGAF) Shares Gap Up – What's Next? – Markets Daily (17.07.2026)](https://www.themarketsdaily.com/2026/07/17/merck-kgaa-otcmktsmkgaf-shares-gap-up-whats-next.html)
+- [Merck KGaA (OTCMKTS:MKKGY) Sees Significant Drop in Short Interest – Daily Political (14.07.2026)](https://www.dailypolitical.com/2026/07/14/merck-kgaa-otcmktsmkkgy-sees-significant-drop-in-short-interest.html)
+- [Merck KGaA (OTCMKTS:MKKGY) Sees Significant Decline in Short Interest – MarketBeat (13.07.2026)](https://www.marketbeat.com/instant-alerts/merck-kgaa-otcmktsmkkgy-sees-significant-decline-in-short-interest-2026-07-13/)
+- [Merck KGaA (OTCMKTS:MKKGY) Given Consensus Rating of "Hold" by Analysts – Daily Political (09.07.2026)](https://www.dailypolitical.com/2026/07/09/merck-kgaa-otcmktsmkkgy-given-consensus-rating-of-hold-by-analysts.html)
+- [Merck Prognose 2026 & Kursziel von Analysten – aktien.guide](https://aktien.guide/kursziel/Merck-DE0006599905)
+- [News & Stories – EMD Group (Investor Relations)](https://www.emdgroup.com/en/news-stories.html)
 - [Investor relations – Merck KGaA / EMD Group](https://www.merckgroup.com/content/corporate/communications/mkgaa-global/de/news-stories.html)
