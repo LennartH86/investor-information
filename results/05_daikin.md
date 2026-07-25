@@ -1,39 +1,40 @@
 # Daikin (6367.T)
-_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
+_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
 
 ## Aktuelle Meldungen
+Im engeren Berichtszeitraum (18.–25.07.2026) wurden keine neuen Pressemitteilungen auf daikin.com veröffentlicht; die Aktie notierte am 21.07.2026 bei rund 24.520 JPY (Vortagesschluss 24.500 JPY). Relevanter Kontext aus den umliegenden Wochen:
 
-- **KI-gestützte Rechenzentrumskühlung mit NTT DATA:** Daikin Industries und NTT DATA Japan [gaben bekannt](https://www.daikin.com/press/2026/20260706), gemeinsam einen Proof of Concept für eine KI-basierte Kühlungsoptimierung in Rechenzentren zu starten. Die Lösung soll thermische Serverzustände mittels KI vorhersagen und die Kühlungssteuerung entsprechend anpassen. Der Test läuft von Juli 2026 bis März 2027 in einem NTT-DATA-Rechenzentrum in Japan und zielt auf höhere Energieeffizienz, geringere Stromkosten und mehr Betriebsautomatisierung ab.
-- **Recycling-Kooperation mit Itochu:** Daikin schloss am 11. Juli 2026 eine Vereinbarung mit der Itochu Corporation, um das Recycling gewerblicher Klimaanlagen zu verbessern und den Einsatz recycelter Materialien auszuweiten.
-- **Fortsetzung der Datacenter-Kühlungsoffensive:** Die bereits Ende Juni/Anfang Juli angekündigten Aktivitäten rund um Hyperscale-Rechenzentrumskühlung (u. a. Integration der Chilldyne- und DDC-Solutions-Technologien bei Daikin Applied) wurden im Berichtszeitraum durch die NTT-DATA-Kooperation weiter ausgebaut.
+- Daikin Industries und NTT DATA Japan starteten im Juli 2026 ein gemeinsames Proof-of-Concept-Projekt für eine KI-gestützte Kühlungsoptimierung in Rechenzentren. Die Lösung soll von Juli 2026 bis März 2027 in einem NTT-DATA-Rechenzentrum in Japan getestet werden, um Energieeffizienz, Stromkosten und Automatisierungsgrad zu verbessern (Pressemitteilung vom 06.07.2026).
+- Daikin richtete Ende Juni 2026 eine F&E-Tochtergesellschaft in Indien ein (Pressemitteilung vom 26.06.2026), passend zur strategischen Fokussierung auf Wachstumsmärkte wie Indien und die südliche Hemisphäre.
+- Neue Kühltechnologien für Hyperscale-Rechenzentren und KI-Workloads sowie die Vorstellung der "Multijet"-Klimaanlage für Großraumanwendungen wurden im Juli-Umfeld berichtet.
+- Jefferies stufte Daikin Industries am 01.06.2026 von "Buy" auf "Hold" herunter und senkte das Kursziel von 35.500 JPY auf 25.300 JPY, mit Verweis auf ausbleibende große Aktienrückkäufe und Unsicherheit bei der operativen Margenzielsetzung in China (ca. 23 % für Geschäftsjahr bis März 2027).
 
 ## Management
-
-- Die zum 1. Juli 2026 wirksam gewordene neue Führungsspitze von Daikin Applied (Yu Nishiwaki als President & CEO, James Moe als COO, Hirokazu Hirao als COO of Manufacturing) ist weiterhin im Amt; im Berichtszeitraum (11.–18.07.2026) gab es dazu keine neuen Wortmeldungen.
-- **Masanori Togawa** bleibt unverändert Representative Director, Chairman of the Board und CEO der Muttergesellschaft Daikin Industries, Ltd.
-- Keine neuen CEO-Interviews oder Personalmeldungen der Konzernspitze im Berichtszeitraum gefunden.
+- Daikin Applied ernannte zum 01.07.2026 Yu Nishiwaki zum neuen President & CEO, James Moe zum Chief Operating Officer sowie Hirokazu Hirao zum Chief Operating Officer of Manufacturing – die Neuaufstellung soll das operative Modell stärken und strategische Prioritäten vorantreiben. Für den Berichtszeitraum selbst liegen dazu keine neuen Wortmeldungen vor.
+- Masanori Togawa bleibt unverändert Representative Director, Chairman of the Board und CEO der Muttergesellschaft Daikin Industries, Ltd.
+- Chairman Emeritus Noriyuki Inoue betonte in einem Nikkei-Interview (März 2026) das große Wachstumspotenzial in Indien und der südlichen Hemisphäre für die Ausbreitung von Klimaanlagen – als übergeordneter strategischer Kontext weiterhin relevant.
 
 ## Finanzielles
-
-- Im Berichtszeitraum (11.–18.07.2026) wurden keine neuen Quartalszahlen veröffentlicht. Die letzten verfügbaren Zahlen bleiben die **FY2025-Jahresergebnisse** (veröffentlicht am 12. Mai 2026): Nettoumsatz stieg um 5,5 % auf JPY 5.015,0 Mrd., operatives Ergebnis um 3,3 % auf JPY 414,99 Mrd., den Aktionären zurechenbarer Gewinn um 4,0 % auf JPY 275,23 Mrd. – jeweils Rekordwerte für das am 31. März 2026 endende Geschäftsjahr.
-- Die Ergebnisse für das erste Quartal des laufenden Geschäftsjahres 2026 (April–Juni 2026) lagen zum Ende des Berichtszeitraums noch nicht vor; eine Veröffentlichung wird laut bisherigem Berichtsrhythmus für Anfang August 2026 erwartet.
+- Die Ganzjahreszahlen für das Geschäftsjahr 2025 (veröffentlicht am 12.05.2026) zeigten Rekordwerte: Nettoumsatz stieg um 5,5 % YoY auf 5.015.036 Mio. JPY, operativer Gewinn um 3,3 % auf 414.991 Mio. JPY, den Aktionären zurechenbarer Gewinn um 4,0 % auf 275.229 Mio. JPY.
+- Die Ergebnisse zum ersten Quartal des Geschäftsjahres 2026 (Fiskaljahr bis März 2027) waren für den 04.08.2026 angesetzt und lagen damit außerhalb des Berichtszeitraums.
+- Jefferies senkte im Zuge der Rating-Herabstufung das Kursziel deutlich (siehe oben), was auf verhaltenere Erwartungen an Aktienrückkäufe und Kapitalallokation hindeutet.
 
 ## Strategie & Ausblick
-
-- **Datacenter-Kühlung als strategischer Schwerpunkt:** Die neue KI-Kooperation mit NTT DATA reiht sich in die Wachstumsstrategie rund um Kühlungslösungen für Hyperscale- und KI-Rechenzentren ein, die Daikin zuletzt auch über die Akquisitionen von Chilldyne und DDC Solutions vorangetrieben hat.
-- **Kreislaufwirtschaft/Nachhaltigkeit:** Die Recycling-Partnerschaft mit Itochu unterstreicht Daikins strategischen Fokus auf Ressourceneffizienz und die Wiederverwertung von Materialien aus gewerblichen Klimaanlagen.
-- **FUSION30-Strategieplan** (seit 12. Mai 2026 in Kraft) bildet weiterhin den übergeordneten Rahmen für die Geschäftsjahre 2026 bis 2030 und die genannten Einzelinitiativen (Rechenzentrumskühlung, Recycling) lassen sich als konkrete Umsetzungsschritte dieses Plans einordnen.
+- Am 12.05.2026 stellte Daikin den neuen strategischen Managementplan "FUSION30" vor, der die mittelfristige Wachstumsstrategie des Konzerns für die Geschäftsjahre 2026 bis 2030 definiert.
+- Der Ausbau der Rechenzentrums-Kühlungssparte bleibt ein zentraler strategischer Schwerpunkt: Nach den Übernahmen von DDC Solutions (August 2025) und Chilldyne (angekündigt 04.11.2025, Spezialist für Direct-to-Chip- bzw. Negativdruck-Flüssigkühlung für KI-Rechenzentren) treibt Daikin mit dem NTT-DATA-Pilotprojekt die KI-gestützte Kühlungsoptimierung weiter voran.
+- Die neue F&E-Tochter in Indien sowie die Aussagen des Chairman Emeritus unterstreichen die strategische Priorisierung von Indien und der südlichen Hemisphäre als künftige Wachstumsmärkte.
+- Analysten (Jefferies) sehen kurzfristig Risiken bei der Margenentwicklung im China-Geschäft sowie eine geringere Wahrscheinlichkeit für weitere großvolumige Aktienrückkäufe.
 
 ## Quellen
-
-- [Daikin and NTT DATA Launch Joint Proof of Concept for AI-Driven Data Center Cooling Optimization — Daikin Global](https://www.daikin.com/press/2026/20260706)
-- [NTT Data and Daikin Test AI-Based Data Center Cooling Control — Refindustry](https://refindustry.com/news/market-news/ntt-data-and-daikin-test-ai-based-data-center-cooling-control/)
-- [Daikin collaborates on AC recycling — Cooling Post](https://www.coolingpost.com/world-news/daikin-collaborates-on-ac-recycling/)
-- [Daikin Applied Powers Next-Gen Hyperscale Data Centers with End-to-End Cooling Solutions — Daikin Applied](https://www.daikinapplied.com/news/news/daikin-applied-is-powering-the-next-generation-of-hyperscale-data-centers--with-comprehensive--end-to-end-cooling-solutions)
-- [Daikin Applied Announces New Top Leadership — ACHR News](https://www.achrnews.com/articles/166385-daikin-applied-announces-new-top-leadership)
-- [Management | Corporate Information — Daikin Global](https://www.daikin.com/corporate/overview/summary/directors)
-- [Daikin Formulates Strategic Management Plan "FUSION30" — Daikin Global](https://www.daikin.com/press/2026/20260512_6)
-- [Presentation of Financial Results for FY2025 (May 12, 2026) — Daikin Global](https://www.daikin.com/-/media/Project/Daikin/daikin_com/investor/data/kessan/2026/4Q_financial_results_en-pdf.pdf?rev=-1&hash=EB75568ED89D32BC0C1661AFE988FA9C)
-- [Daikin Industries (6367) Q2 2026 Summary — Quartr](https://quartr.com/events/daikin-industries-6367-q2-2026_ojd10xzR)
-- [Daikin Global | Press Releases](https://www.daikin.com/press/2026)
-- [Daikin Global | News](https://www.daikin.com/news)
+- [Daikin Global | Press Releases | Daikin and NTT DATA Launch Joint Proof of Concept for AI-Driven Data Center Cooling Optimization](https://www.daikin.com/press/2026/20260706)
+- [Daikin Global | Press Releases | Daikin Establishes India-Based R&D Subsidiary](https://www.daikin.com/press/2026/20260626)
+- [Daikin Global | Press Releases | Daikin Formulates Strategic Management Plan "FUSION30"](https://www.daikin.com/press/2026/20260512_6)
+- [Daikin Applied Announces New Top Leadership | ACHR News](https://www.achrnews.com/articles/166385-daikin-applied-announces-new-top-leadership)
+- [Daikin Applied Names Yu Nishiwaki as President and CEO, James Moe as Chief Operating Officer, Hirokazu Hirao as Chief Operating Officer of Manufacturing](https://www.prnewswire.com/news-releases/daikin-applied-names-yu-nishiwaki-as-president-and-ceo-james-moe-as-chief-operating-officer-hirokazu-hirao-as-chief-operating-officer-of-manufacturing-302815299.html)
+- [Daikin sees chance in India, Southern Hemisphere: chairman emeritus - Nikkei Asia](https://asia.nikkei.com/editor-s-picks/interview/daikin-sees-chance-in-india-southern-hemisphere-chairman-emeritus)
+- [Daikin Industries (6367) Q4 2026 Summary | Quartr](https://quartr.com/events/daikin-industries-ltd-6367-q4-2026_ojd1zpWS)
+- [Investor Relations | Daikin Global](https://www.daikin.com/investor)
+- [Jefferies Downgrades Daikin Industries to Hold From Buy, Adjusts Price Target to 25,300 Yen From 35,500 Yen | MarketScreener](https://www.marketscreener.com/quote/stock/DAIKIN-INDUSTRIES-LTD-6491221/news/Jefferies-Downgrades-Daikin-Industries-to-Hold-From-Buy-Adjusts-Price-Target-to-25-300-Yen-From-35-44687906/)
+- [Jefferies cuts Daikin Industries stock rating on buyback outlook - Investing.com](https://www.investing.com/news/analyst-ratings/jefferies-cuts-daikin-industries-stock-rating-on-buyback-outlook-93CH-4718999)
+- [Daikin Global | Press Releases | Daikin Applied Expands Data Center Offering with Acquisition of Chilldyne](https://www.daikin.com/press/2025/20251105_1)
+- [Daikin Applied Expands Data Center Offering with Acquisition of Chilldyne - PRNewswire](https://www.prnewswire.com/news-releases/daikin-applied-expands-data-center-offering-with-acquisition-of-chilldyne-302603220.html)
