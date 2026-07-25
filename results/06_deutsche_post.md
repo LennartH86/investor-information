@@ -1,34 +1,48 @@
 # Deutsche Post / DHL Group (DHL.DE)
-_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
+_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
 
 ## Aktuelle Meldungen
-- **Vorläufige Q2-Zahlen / Anhebung der Jahresprognose 2026** (veröffentlicht 07.07.2026): DHL Group hat vorläufige Ergebnisse für Juni und das zweite Quartal 2026 bekanntgegeben und dabei die Ergebnisse deutlich übertroffen. Der Konzernumsatz stieg im Q2 2026 im Jahresvergleich um mehr als 10 %, das Konzern-EBIT erreichte rund 1,85 Mrd. Euro (Vorjahr: 1,429 Mrd. Euro) – ein Anstieg von rund 29 % gegenüber dem Vorjahr. Als Treiber wurde insbesondere die positive Ergebnisdynamik im Bereich DHL Express genannt, unterstützt durch die reduzierte Kostenbasis aus dem "Fit for Growth"-Programm.
-- In der Folge wurde in mehreren deutschsprachigen Wirtschaftsmedien (u.a. Börse Express, ad-hoc-news, ntg24) über die angehobene EBIT-Prognose berichtet ("DHL entdeckt den operativen Hebel wieder").
-- Der vollständige Q2-Bericht wird planmäßig am 05.08.2026 veröffentlicht und fällt damit außerhalb des Berichtszeitraums.
+Im Berichtszeitraum (18.–25.07.2026) griffen mehrere Branchenmedien die Ende der Vorwoche veröffentlichten vorläufigen Q2-Zahlen von DHL Group auf und ordneten sie ein. Am 19.07.2026 analysierte CargoForwarder Global unter dem Titel "DHL Group weathers the storm" die operative Entwicklung des Konzerns vor dem Hintergrund anhaltender geopolitischer Unsicherheiten und Handelskonflikte.
+
+Als wichtigster Kontext aus der unmittelbar vorangegangenen Woche: Am 07.07.2026 meldete DHL Group vorläufige Ergebnisse für Juni/Q2 2026 und hob die Ergebnisprognose für das Gesamtjahr an (siehe Abschnitt "Finanzielles"). Zudem trat am 13.07.2026 eine breit angelegte Gesundheitsinitiative ("Ergo²") für Zustell-Teams in Kraft, die physiotherapeutische Betreuung und Präventionstrainings an rund 150 Standorten in Deutschland umfasst.
+
+Ebenfalls relevant für Kunden und damit indirekt für das operative Geschäft: Seit Juli 2026 gilt für Bestellungen aus Nicht-EU-Ländern bis 150 Euro Warenwert eine neue pauschale Zollgebühr – eine regulatorische Änderung, die die Paket- und Logistikbranche, einschließlich DHL, direkt betrifft.
+
+Der vollständige Q2-Bericht wird planmäßig am 05.08.2026 veröffentlicht und fällt damit außerhalb des Berichtszeitraums.
 
 ## Management
-- Keine neuen personellen Meldungen im Berichtszeitraum. Zur Einordnung: Am 23.06.2026 (außerhalb des Berichtszeitraums) hatte DHL Group die Berufung von Joe Joseph zum neuen Chief Financial Officer (wirksam ab 01.06.2027) bekanntgegeben; CEO Tobias Meyer ist seit 2023 im Amt, sein Vertrag wurde bis März 2031 verlängert.
+Keine neuen Personalmeldungen im engeren Berichtszeitraum (18.–25.07.2026). Als Kontext aus den Vorwochen: Am 04.03.2026 verlängerte der Aufsichtsrat der Deutsche Post AG den Vertrag von CEO Dr. Tobias Meyer bis März 2031. Am 23.06.2026 wurde bekannt, dass Joe Joseph mit Wirkung zum 01.06.2027 neuer Finanzvorstand (CFO) von DHL Group wird.
 
 ## Finanzielles
-- **Vorläufige Q2 2026-Ergebnisse (07.07.2026)**: Konzernumsatz +>10 % im Jahresvergleich; Konzern-EBIT ca. 1,85 Mrd. Euro (Vorjahr 1,429 Mrd. Euro), entspricht +~29 % gegenüber Vorjahr.
-- **Angehobene Jahresprognose FY2026**: Das Management erwartet nun ein berichtetes Konzern-EBIT von über 6,5 Mrd. Euro (zuvor: über 6,2 Mrd. Euro). Das erwartete EBIT der DHL-Divisionen wurde auf über 5,9 Mrd. Euro angehoben (zuvor: über 5,6 Mrd. Euro). Voraussetzung der Prognose ist, dass sich die geopolitische Lage nicht weiter verschlechtert.
-- Zur Einordnung (Vorquartal): Im Q1 2026 (veröffentlicht 30.04.2026, außerhalb des Berichtszeitraums) lag der Umsatz bei 20,42 Mrd. Euro, das Konzern-EBIT bei 1,483 Mrd. Euro.
+Am 07.07.2026 veröffentlichte DHL Group vorläufige Ergebnisse für Juni bzw. das zweite Quartal 2026, die die Markterwartungen übertrafen und in der Berichtswoche weiter in der Presse diskutiert wurden:
+- Konzernumsatz stieg im Q2 2026 um mehr als 10 % gegenüber dem Vorjahr.
+- Konzern-EBIT erreichte rund 1.850 Mio. EUR (Vorjahr: 1.429 Mio. EUR), ein Anstieg von rund 29 %.
+- Besonders die Division DHL Express trug zur positiven Entwicklung bei, mit einem EBIT von rund 1.195 Mio. EUR (Vorjahr: 730 Mio. EUR).
+- Als Konsequenz hob das Management die Prognose für das Gesamtjahr 2026 an: Das berichtete Konzern-EBIT wird nun mit über 6,5 Mrd. EUR erwartet (zuvor: über 6,2 Mrd. EUR), vorausgesetzt es kommt zu keiner weiteren Verschärfung der geopolitischen Lage.
+
+Zum Vergleich Q1 2026 (Kontext): organisches Umsatzwachstum von 2,0 %, berichteter Umsatz mit 20,4 Mrd. EUR leicht rückläufig (-1,9 %), EBIT-Anstieg um 8,3 % auf 1,5 Mrd. EUR.
+
+Die Aktie reagierte laut Finanzpresse (finanzen.net) freundlich auf die angehobene Prognose.
 
 ## Strategie & Ausblick
-- Die deutliche Anhebung der Jahresprognose wird als Zeichen für eine wiedergewonnene operative Hebelwirkung ("operativer Hebel") gewertet, getragen vor allem durch die Division DHL Express sowie die nachhaltigen Effekte des Kostensenkungsprogramms "Fit for Growth".
-- Der volle Q2-Bericht am 05.08.2026 dürfte weitere Details zur Entwicklung der einzelnen Divisionen (DHL Express, DHL Supply Chain, Post & Parcel Germany) liefern und wird für den nächsten Berichtszeitraum relevant sein.
-- Keine neuen Übernahme- oder Investitionsmeldungen speziell im Berichtszeitraum (11.07.–18.07.2026) gefunden. Zur Einordnung: DHL Group verfolgt im Rahmen der "Strategie 2030" weiterhin gezielte Akquisitionen u.a. in den Bereichen Life Sciences/Pharma-Logistik (z.B. CRYOPDP, SDS Rx) und E-Commerce (z.B. AJEX, IDS, Inmar) sowie den Ausbau der Data-Center-Logistik in Nordamerika.
+Im Rahmen der Strategie 2030 baut DHL Group seine Kapazitäten im wachsenden Rechenzentrumsmarkt aus und errichtet bis Ende 2026 mehr als zehn zusätzliche Lagerstandorte in Nordamerika mit einer Gesamtkapazität von über 650.000 Quadratmetern.
+
+Nahezu 25 Jahre nach der Übernahme von DHL Express hat die Deutsche Post AG im Mai 2026 den finalen Schritt ihres Rebranding-Prozesses eingeleitet und die Umfirmierung in DHL AG beschlossen.
+
+Bei Übernahmen bleibt der Konzern selektiv aktiv: In Südafrika erwarb DHL Supply Chain die Vital-Group-Gesellschaften (Vital Distribution Solutions, Staffing Logistics, Vital Fleet), die Transaktion wurde im April 2026 von der südafrikanischen Wettbewerbsbehörde ohne Auflagen genehmigt. Keine neuen Übernahme- oder Investitionsmeldungen speziell im Berichtszeitraum (18.–25.07.2026) gefunden.
+
+Für das Gesamtjahr 2026 erwartet DHL Group ein operatives Ergebnis (EBIT) von über 6,5 Mrd. EUR sowie einen freien Cashflow (ohne M&A) von rund 3 Mrd. EUR, vorbehaltlich keiner weiteren geopolitischen Eskalation. Der volle Q2-Bericht am 05.08.2026 dürfte weitere Details zur Entwicklung der einzelnen Divisionen liefern und wird für den nächsten Berichtszeitraum relevant sein.
 
 ## Quellen
+- [DHL Group weathers the storm – CargoForwarder Global (19.07.2026)](https://cargoforwarder.eu/2026/07/19/dhl-group-weathers-the-storm/)
 - [Preliminary results: DHL Group exceeds Q2 expectations and raises full-year 2026 earnings guidance – DHL Group (07.07.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance.html)
-- [DHL Aktie: EBIT-Prognose auf 6,5 Milliarden angehoben – Börse Express](https://www.boerse-express.com/news/articles/dhl-aktie-ebit-prognose-auf-65-milliarden-angehoben-928436)
-- [DHL entdeckt den operativen Hebel wieder – ntg24 (17.07.2026)](https://www.ntg24.de/DHL-Group-hebt-die-Prognose-an-17072026-CT-Aktien)
-- [DHL Aktie: Prognose auf 6,5 Milliarden erhöht – ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/ueberblick/dhl-aktie-prognose-auf-6-5-milliarden-erhoeht/69730978)
 - [DHL Group exceeds Q2 expectations and raises full-year 2026 earnings guidance – The Loadstar](https://theloadstar.com/dhl-group-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance/)
+- [DHL Group raises 2026 earnings outlook after strong second quarter – Container News](https://container-news.com/dhl-group-raises-2026-earnings-outlook-after-strong-second-quarter/)
 - [DHL Group Revises 2026 Operating Profit Outlook Upward to €6.5 Billion – IndexBox](https://www.indexbox.io/blog/dhl-group-raises-full-year-profit-forecast-after-strong-q2-2026/)
-- [DHL Group lifts 2026 profit outlook after strong Q2 results – Investing.com](https://www.investing.com/news/stock-market-news/dhl-group-lifts-2026-profit-outlook-after-strong-q2-results-93CH-4779494)
-- [DHL Group Appoints Joe Joseph as New CFO – U.S. News (23.06.2026)](https://money.usnews.com/investing/news/articles/2026-06-23/dhl-group-appoints-joe-joseph-as-new-cfo)
+- [DHL-Aktie freundlich: Deutsche Post erhöht Ergebnisprognose für 2026 – finanzen.net](https://www.finanzen.net/nachricht/aktien/optimismus-dhl-aktie-freundlich-deutsche-post-erhoeht-ergebnisprognose-fuer-2026-15784953)
+- [Deutsche Post startet umfangreiche Gesundheitsinitiative für Zustell-Teams – DHL Group (13.07.2026)](https://group.dhl.com/de/presse/pressemitteilungen/2026/deutsche-post-startet-umfangreiche-gesundheitsinitiative-fuer-zustell-teams.html)
 - [DHL Group appoints Joe Joseph as Chief Financial Officer effective June 1, 2027 – DHL Group (23.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-appoints-joe-joseph-as-chief-financial-officer.html)
-- [Quarterly Statement as of March 31, 2026 – DHL Group Reporting Hub](https://reporting-hub.group.dhl.com/ecomaXL/files/DHL-Group-Quarterly-Statement-Q1-2026.pdf)
+- [DHL Group extends contract of CEO Tobias Meyer – DHL Group (04.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-extends-contract-of-ceo-tobias-meyer.html)
 - [Successful start: DHL Group achieves earnings growth in the first quarter of 2026 – DHL Group (30.04.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html)
-- [List of 19 Acquisitions by DHL – Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-dhl/__rNywbpUyoJIoo1r4mDHWcVjDyHrUUyuRRSVR2-PNPl4)
+- [Deutsche Post AG will finally become DHL AG – CEP-Research](https://www.cep-research.com/2026/05/06/deutsche-post-ag-will-finally-become-dhl-ag/)
+- [DHL Supply Chain Acquires Vital Group Companies to Expand Transport-Led Logistics in South Africa – DHL](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
