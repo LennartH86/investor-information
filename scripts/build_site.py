@@ -23,6 +23,35 @@ def to_sources(text):
             out.append(f'<div>{item}</div>')
     return ''.join(out) or '<div>Keine Quellen</div>'
 
+def to_portfolio(text):
+    if not text:
+        return ''
+    metrics = []
+    for line in text.strip().split('\n'):
+        line = line.strip()
+        if not line.startswith('- '):
+            continue
+        m = re.match(r'-\s*\*\*(.+?):?\*\*:?\s*(.+)', line)
+        if m:
+            label, value = m.group(1).rstrip(':'), m.group(2)
+            css = ''
+            if any(k in label.lower() for k in ['g/v', 'gewinn', 'verlust', 'rendite']):
+                val_stripped = value.strip().lstrip('*')
+                if val_stripped.startswith('+'):
+                    css = ' class="gain"'
+                elif val_stripped.startswith('-') or val_stripped.startswith('−'):
+                    css = ' class="loss"'
+            metrics.append(
+                f'<div class="pf-row">'
+                f'<span class="pf-label">{label}</span>'
+                f'<span class="pf-value"{css}>{value}</span>'
+                f'</div>'
+            )
+        else:
+            content = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', line[2:])
+            metrics.append(f'<div class="pf-row pf-note">{content}</div>')
+    return '<div class="pf-box">' + ''.join(metrics) + '</div>' if metrics else ''
+
 def parse(path):
     txt = open(path, encoding='utf-8').read()
     d = {}
@@ -31,7 +60,8 @@ def parse(path):
     tm = re.search(r'\(([^)]+)\)', d['title'])
     d['ticker'] = tm.group(1) if tm else ''
     d['company'] = re.sub(r'\s*\([^)]+\)$', '', d['title']).strip()
-    for sec in ['Aktuelle Meldungen', 'Management', 'Finanzielles', 'Strategie & Ausblick', 'Quellen']:
+    for sec in ['Portfolio-Analyse', 'Aktuelle Meldungen', 'Management',
+                'Finanzielles', 'Strategie & Ausblick', 'Quellen']:
         m = re.search(rf'## {re.escape(sec)}\n(.*?)(?=\n## |\Z)', txt, re.DOTALL)
         d[sec] = m.group(1).strip() if m else ''
     return d
@@ -42,8 +72,10 @@ for line in open(f"{RESULTS}/_meta.md"):
         k, v = line.split(':', 1)
         meta[k.strip()] = v.strip()
 
-kw, jahr = meta.get('KW','??'), meta.get('JAHR','????')
-von, bis = meta.get('ZEITRAUM_VON',''), meta.get('ZEITRAUM_BIS','')
+kw, jahr = meta.get('KW', '??'), meta.get('JAHR', '????')
+von, bis = meta.get('ZEITRAUM_VON', ''), meta.get('ZEITRAUM_BIS', '')
+portfolio_wert = meta.get('PORTFOLIO_WERT', '')
+positionen = meta.get('POSITIONEN', '')
 now = datetime.now().strftime('%d.%m.%Y %H:%M')
 
 companies = []
@@ -56,16 +88,25 @@ nav = ''.join(f'<a href="#{c["slug"]}">{c["company"]}</a>' for c in companies)
 
 cards = ''
 for c in companies:
+    pf_html = to_portfolio(c['Portfolio-Analyse'])
+    pf_section = f'<h3>Portfolio-Analyse</h3>{pf_html}' if pf_html else ''
     cards += f'''
   <div class="card" id="{c['slug']}">
     <h2>{c['company']} <span class="ticker">{c['ticker']}</span></h2>
-    <div class="meta">KW{kw} / {jahr} &nbsp;·&nbsp; {von} – {bis}</div>
+    <div class="meta">KW{kw} / {jahr} &nbsp;&middot;&nbsp; {von} &ndash; {bis}</div>
+    {pf_section}
     <h3>Aktuelle Meldungen</h3>{to_ul(c['Aktuelle Meldungen'])}
     <h3>Management</h3>{to_ul(c['Management'])}
     <h3>Finanzielles</h3>{to_ul(c['Finanzielles'])}
-    <h3>Strategie & Ausblick</h3>{to_ul(c['Strategie & Ausblick'])}
+    <h3>Strategie &amp; Ausblick</h3>{to_ul(c['Strategie & Ausblick'])}
     <h3>Quellen</h3><div class="sources">{to_sources(c['Quellen'])}</div>
   </div>'''
+
+pf_line = ''
+if portfolio_wert:
+    pf_line = f' &nbsp;&middot;&nbsp; Portfolio: {portfolio_wert} EUR'
+if positionen:
+    pf_line += f' &nbsp;&middot;&nbsp; {positionen} Positionen'
 
 html = f'''<!DOCTYPE html>
 <html lang="de">
@@ -92,13 +133,21 @@ html = f'''<!DOCTYPE html>
     .card .sources{{margin-top:1rem;font-size:.8rem}}
     .card .sources a{{color:#4a5568;text-decoration:none;display:block;margin-bottom:.2rem}}
     .card .sources a:hover{{color:#90cdf4}}
+    .pf-box{{background:#151a27;border:1px solid #2d3748;border-radius:6px;padding:.75rem 1rem;margin-top:.4rem;display:grid;grid-template-columns:1fr 1fr;gap:.3rem .8rem;font-size:.85rem}}
+    .pf-row{{display:flex;justify-content:space-between;align-items:baseline;gap:.5rem}}
+    .pf-label{{color:#718096;white-space:nowrap}}
+    .pf-value{{color:#e2e8f0;font-weight:500;text-align:right}}
+    .pf-value.gain{{color:#48bb78}}
+    .pf-value.loss{{color:#fc8181}}
+    .pf-note{{grid-column:1/-1;color:#a0aec0;font-size:.82rem;line-height:1.4;padding-top:.3rem;border-top:1px solid #2d3748}}
+    @media(max-width:600px){{.pf-box{{grid-template-columns:1fr}}}}
     footer{{text-align:center;padding:2rem;font-size:.78rem;color:#4a5568;border-top:1px solid #2d3748;margin-top:2rem}}
   </style>
 </head>
 <body>
 <header>
   <h1>&#128202; Investor Radar</h1>
-  <p>KW{kw} / {jahr} &nbsp;&middot;&nbsp; {von} &ndash; {bis} &nbsp;&middot;&nbsp; {len(companies)} Unternehmen</p>
+  <p>KW{kw} / {jahr} &nbsp;&middot;&nbsp; {von} &ndash; {bis} &nbsp;&middot;&nbsp; {len(companies)} Unternehmen{pf_line}</p>
 </header>
 <nav>{nav}</nav>
 <main>{cards}</main>
