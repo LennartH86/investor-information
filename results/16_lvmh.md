@@ -1,110 +1,60 @@
 # LVMH (MC.PA)
-_KW29 / 2026 | Zeitraum: 11.07.2026 – 18.07.2026_
+_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
 
 ## Aktuelle Meldungen
+Die Berichtswoche ist geprägt von der Erwartungshaltung vor den Halbjahreszahlen 2026, die laut LVMH-Finanzkalender erst am **27.07.2026** – also zwei Tage nach Ende des Berichtszeitraums – veröffentlicht werden. Konkrete Halbjahreszahlen liegen für KW30 somit noch nicht vor; die Woche selbst brachte vor allem Marken-PR, eine anhaltende China-Kontroverse sowie eine positive Analystenrevision.
 
-- **Fendi (LVMH) reaktiviert Karl-Lagerfeld-Erbe mit Ausstellung und Couture-Show in Rom (09.–10.07.2026, Laufzeit bis 25.10.2026):** Am 9. Juli zeigte Fendi in der Galleria Nazionale d'Arte Moderna e Contemporanea (GNAMC) in Rom seine erste von Maria Grazia Chiuri verantwortete Haute-Couture-Kollektion. Parallel eröffnete die Ausstellung „Fendi / Karl Lagerfeld 1985", die eine historische Schau von 1985 zum Jubiläum der Zusammenarbeit von Fendi und Karl Lagerfeld neu inszeniert (Zusammenarbeit von 1965 bis Lagerfelds Tod 2019). Die Ausstellung läuft bis 25. Oktober 2026.
-  _On July 9, Fendi (LVMH) presented its first haute-couture collection under creative director Maria Grazia Chiuri at Rome's GNAMC. Simultaneously it opened the exhibition "Fendi / Karl Lagerfeld 1985," reviving a historic 1985 show marking the Fendi–Lagerfeld collaboration (1965–2019). Runs through October 25, 2026._
-  Quelle: [WWD – Fendi Unveils Rome Venue for Couture Show — and a Karl Lagerfeld Exhibition](https://wwd.com/fashion-news/fashion-scoops/fendi-rome-venue-couture-show-karl-lagerfeld-exhibition-1239006004/) | [Finestre sull'Arte – The historic exhibition dedicated to Fendi and Karl Lagerfeld returns to the GNAMC in Rome](https://www.finestresullarte.info/en/exhibitions/the-historic-exhibition-dedicated-to-fendi-and-karl-lagerfeld-returns-to-the-gnamc-in-rome-after-forty-years) | [franceinfo – À Rome, Fendi présente sa première collection signée par la créatrice Maria Grazia Chiuri](https://www.franceinfo.fr/culture/mode/a-rome-fendi-presente-sa-premiere-collection-signee-par-la-creatrice-maria-grazia-chiuri_8102723.html)
-
-- **Führungswechsel: LVMH-Beauty-Manager Romain Spitzer wechselt zu Konkurrent Kering (bekannt 15.07.2026):** Kering gab bekannt, dass Romain Spitzer, bisher Präsident und CEO der Fragrance Group von LVMH Beauty, ab 1. September 2026 neuer CEO von Bottega Veneta wird. Er berichtet künftig an Kering-CEO Luca de Meo und ist in Mailand ansässig. Der Wechsel eines leitenden LVMH-Managers zum Erzrivalen Kering unterstreicht den intensiven „War for Talent" in der Luxusbranche.
-  _Kering announced on July 15 that Romain Spitzer, previously President & CEO of LVMH Beauty's Fragrance Group, will become CEO of Bottega Veneta effective September 1, 2026, reporting to Kering CEO Luca de Meo and based in Milan — a senior LVMH executive departing for arch-rival Kering, underscoring the intense talent competition in luxury._
-  Quelle: [GlobeNewswire – Kering: Romain Spitzer appointed Chief Executive Officer of Bottega Veneta (15.07.2026)](https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html) | [Journal du Luxe – Kering recrute le nouveau directeur général de Bottega Veneta chez LVMH Beauty](https://www.journalduluxe.fr/fr/mode/kering-recrute-le-nouveau-directeur-general-de-bottega-veneta-chez-lvmh)
-
-- **Aktienkurs unter Druck, Investoren warten auf Halbjahreszahlen:** Die LVMH-Aktie notierte am 18.07.2026 bei 495,10 € (Vortagesschluss 503,10 €), nahe dem 52-Wochen-Tief (Spanne 440,00–654,70 €) und rund −26,7 % seit Jahresbeginn. Marktkommentatoren beschrieben die Aktie um den 16.07. als „haltend, mit Investoren, die auf frischere Signale warten" – der Fokus liegt auf den anstehenden H1-2026-Zahlen am 27. Juli.
-  _LVMH shares traded at €495.10 on July 18 (prior close €503.10), near the 52-week low band (€440.00–654.70) and down roughly −26.7% year-to-date. Commentary around July 16 described the stock as "holding" as investors await fresher signals ahead of the July 27 H1 2026 results._
-  Quelle: [ad-hoc-news.de – LVMH stock holds as investors await fresher signals (16.07.2026)](https://www.ad-hoc-news.de/boerse/news/ueberblick/lvmh-stock-holds-as-investors-await-fresher-signals/69782607) | [ideal-investisseur.fr – Consensus des analystes LVMH (Stand 18.07.2026)](https://www.ideal-investisseur.fr/en/analyst-consensus/lvmh/FR0000121014.html)
-
-- **Nachwirkender Kontext – Steuerstreit um Bernard Arnault (Urteil veröffentlicht 02.07.2026, breiter diskutiert ab 05./06.07.2026):** Ein französisches Verwaltungsgericht verurteilte Bernard Arnault und seine Ehefrau zur Zahlung von 22,5 Mio. € an Steuernachzahlungen (12,96 Mio. € Einkommensteuer/Sozialabgaben/Strafen für das Steuerjahr 2010 sowie 9,5 Mio. € Vermögenssteuer für 2012–2015), im Zusammenhang mit einer Zahlung von 50 Mio. € aus einer belgischen Holding mit LVMH-Aktienbezug. Das Urteil hebt eine Entscheidung von 2020 auf, die Arnault entlastet hatte; ein Sprecher kündigte Berufung an. Da die breitere Berichterstattung erst kurz vor dem KW29-Fenster einsetzte, bleibt das Thema medial relevant.
-  _A French administrative court ordered Bernard Arnault and his wife to pay €22.5m in back taxes (€12.96m for 2010 income tax/penalties, €9.5m wealth tax for 2012–2015) tied to a €50m payout from a Belgian holding company linked to LVMH shares, reversing a 2020 ruling. Arnault plans to appeal. Broader media coverage only picked up just before the KW29 window, keeping it topical._
-  Quelle: [Irish Times – France's richest man ordered to pay €22.5m in back taxes (06.07.2026)](https://www.irishtimes.com/business/2026/07/06/frances-richest-man-ordered-to-pay-225m-in-back-taxes/) | [Fortune – France's richest man Arnault hit with €22 million tax assessment (05.07.2026)](https://fortune.com/2026/07/05/france-richest-man-lvmh-billionaire-bernard-arnault-22-million-euro-tax-assessment/)
-
----
+- **Louis Vuitton wird Hauptkultursponsor der Frick Collection (gemeldet 21.07.2026):** Louis Vuitton unterstützt das New Yorker Museum für die kommenden drei Jahre als „Principal Cultural Sponsor", finanziert u. a. drei Sonderausstellungen (Start mit „Siena: The Art of Bronze, 1450–1500" im Oktober 2026), das kostenlose „Louis Vuitton First Fridays"-Programm (Juni 2026 bis Mai 2027) sowie eine zweijährige kuratorische Forschungsstelle.
+- **Moët & Chandon erneut Titelsponsor des Formel-1-Großen-Preises von Belgien (Rennen am 19.07.2026, Meldung von LVMH um den 20./21.07.2026):** Im Rahmen der zehnjährigen Formel-1-Gesamtpartnerschaft von LVMH tritt Moët & Chandon zum zweiten Mal in Folge als Titelsponsor des Rennens in Spa-Francorchamps auf.
+- **Nachwirkender Markenrechtsstreit in China eskaliert öffentlich weiter:** Nachdem ein Gericht in Suzhou bereits Anfang Juli entschieden hatte, dass das Logo der chinesischen Teekette „Molly Tea" die Louis-Vuitton-Monogramm-Marke verletzt (Schadenersatz umgerechnet rund 1,5 Mio. USD), analysierte Caixin Global am 21.07.2026 in einem ausführlichen Bericht den anhaltenden Unmut in China: Kommentatoren sehen im vierblättrigen Blütenmuster ein Element des chinesischen Kulturerbes; Molly Tea kündigte Berufung an. Das Thema bleibt ein Reputationsrisiko für LVMH im wichtigen chinesischen Markt.
+- **Analystenrevision:** Erste Group Bank hob laut MarketBeat in einer um den 15./20.07.2026 veröffentlichten Notiz ihre FY2026-Gewinnschätzung (EPS) für LVMH an; konkrete Zahlen zur genauen Höhe der Anhebung waren im Rahmen der Recherche nicht vollständig einsehbar.
+- **Aktie/Markt:** Belastbare, tagesgenaue Kursdaten für den exakten Berichtszeitraum ließen sich in der Recherche nicht widerspruchsfrei verifizieren (unterschiedliche Quellen nannten stark abweichende Kursniveaus). Gesichert ist, dass die Aktie in den Vorwochen nahe ihres 52-Wochen-Tiefs handelte (503,10 € bzw. 495,10 € am 17./18.07.2026) und der Markt in KW30 auf die Zahlen vom 27.07. wartet; laut Saxo Bank (Artikel vom 22.07.2026) positionieren sich Optionshändler bereits vor der Ergebnissaison.
 
 ## Management
-
-- **Romain Spitzer verlässt LVMH Beauty Richtung Kering/Bottega Veneta (15.07.2026):** Siehe oben – ein hochrangiger LVMH-Manager (Fragrance Group, LVMH Beauty) wechselt zum direkten Wettbewerber Kering als CEO von Bottega Veneta (ab 01.09.2026). Kein offizieller LVMH-Kommentar zur Personalie im Berichtszeitraum gefunden.
-  _A senior LVMH Beauty executive departs for rival Kering as Bottega Veneta CEO. No official LVMH statement on the departure found in the reporting window._
-  Quelle: [GlobeNewswire (15.07.2026)](https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html)
-
-- **Bernard Arnault – privater Steuerstreit belastet Berichterstattung:** Das Gerichtsurteil zu Nachzahlungen von 22,5 Mio. € betrifft Arnault persönlich (nicht LVMH als Unternehmen), wurde aber breit im Kontext seiner Rolle als LVMH-Chairman/CEO diskutiert. Berufung wurde angekündigt, ein Ausgang ist offen.
-  _The €22.5m back-tax ruling concerns Arnault personally, not LVMH the company, but was widely reported in the context of his role as LVMH Chairman/CEO. An appeal has been announced; outcome pending._
-  Quelle: [Irish Times (06.07.2026)](https://www.irishtimes.com/business/2026/07/06/frances-richest-man-ordered-to-pay-225m-in-back-taxes/)
-
-- **Keine neue Aussage zur Nachfolgefrage im Berichtszeitraum.** Letzter bekannter Stand bleibt die Aussage von der Hauptversammlung am 23. April 2026 (Nachfolge in „sieben bis acht Jahren" wieder relevant).
-  _No new comment on CEO succession during the reporting period; the last known position remains from the April 23, 2026 AGM._
-
----
+- Für den engeren Berichtszeitraum (18.–25.07.2026) wurden keine neuen Personalveränderungen oder öffentlichen Management-Interviews identifiziert. In den Vorwochen hatte Bernard Arnault mit einem seltenen, fast zweistündigen Interview im YouTube-Format „Legend" von Guillaume Pley (veröffentlicht Anfang Juli) sowie mit dem Wechsel von Laura Burdese zur CEO von Bvlgari (wirksam 01.07.2026) für Schlagzeilen gesorgt; beide Themen wirken medial weiter nach, insbesondere im Zusammenhang mit der anhaltenden China-Debatte um das Louis-Vuitton-Monogramm.
+- Erwartet wird, dass sich Arnault spätestens bei der Präsentation der Halbjahreszahlen am 27.07.2026 erneut zu Strategie, China-Geschäft und ggf. zur Nachfolgefrage äußert; in der Vergangenheit hatte er Nachfolge-Fragen wiederholt mit Verweis auf einen Zeithorizont von „sieben bis zehn Jahren" ausgewichen.
 
 ## Finanzielles
+Im Berichtszeitraum wurden keine neuen offiziellen Konzernzahlen veröffentlicht. Die **Halbjahresergebnisse 2026 sind für den 27.07.2026 terminiert** (laut offiziellem LVMH-Finanzkalender) und fallen damit knapp außerhalb des KW30-Fensters.
 
-Im Berichtszeitraum (11.–18.07.2026) wurden keine neuen offiziellen Quartals-/Halbjahreszahlen veröffentlicht. Die **H1-2026-Ergebnisse werden am 27. Juli 2026** erwartet.
-
-**Aktienkurs (Stand 18.07.2026):**
-
-| Kennzahl | Wert |
+| Kennzahl | Q1 2026 (letzter veröffentlichter Stand) |
 |---|---|
-| Kurs (18.07.2026) | 495,10 € |
-| Vortagesschluss | 503,10 € |
-| 52-Wochen-Spanne | 440,00 € – 654,70 € |
-| Performance YTD | ca. −26,7 % |
-| Analysten-Kursziel (Median) | ca. 600 € (+31,7 % Potenzial) |
-| Analysten-Kursziel (Durchschnitt, 12M) | ca. 576,93 € |
-| Analystenkonsens | überwiegend Kaufen/Halten, mehrheitlich positiv, keine dominante Verkaufsempfehlung |
+| Umsatz | 19,1 Mrd. € |
+| Organisches Umsatzwachstum | +1 % |
+| Berichtetes Umsatzwachstum | −6 % (Wechselkurseffekt −7 %) |
+| Belastung durch Nahost-Konflikt | ca. −1 Prozentpunkt Wachstum |
+| Asien (ohne Japan), organisch | +7 % |
+| USA, organisch | +3 % |
 
-Referenz bleiben die zuletzt veröffentlichten Q1-2026-Zahlen: Gesamtumsatz 19,1 Mrd. € (−6 % reported / +1 % organisch), belastet durch einen Währungseffekt von −7 %. Fashion & Leather Goods blieb mit −9 % reported / −2 % organisch das schwächste Segment, während Wines & Spirits (+5 % organisch) und Uhren & Schmuck (+7 % organisch) positiv überraschten.
-
-_No new official quarterly/half-year figures were published during the reporting window; H1 2026 results are due July 27, 2026. As of July 18, 2026 the share traded at €495.10 (prior close €503.10), near its 52-week low band and down ~26.7% YTD, with analyst consensus still mostly Buy/Hold and a median price target around €600. Reference remains the Q1 2026 print (revenue €19.1bn, +1% organic / −6% reported, Fashion & Leather Goods the weak spot at −2% organic)._
-
-Quellen: [ad-hoc-news.de – LVMH stock holds as investors await fresher signals](https://www.ad-hoc-news.de/boerse/news/ueberblick/lvmh-stock-holds-as-investors-await-fresher-signals/69782607) | [ideal-investisseur.fr – Consensus des analystes LVMH](https://www.ideal-investisseur.fr/en/analyst-consensus/lvmh/FR0000121014.html) | [LVMH – 2026 First-Half Results (Financial Calendar)](https://www.lvmh.com/en/financial-calendar/2026-first-half-results) | [Quartr – LVMH Q1 2026 Summary](https://quartr.com/events/lvmh-mo-t-hennessy-louis-vuitton-soci-t-europ-enne-mc-q1-2026_3edubB79)
-
----
+- Zum Vergleich Gesamtjahr 2025: Konzernumsatz 80,8 Mrd. €, operatives Ergebnis 17,8 Mrd. € (Marge ca. 22 %), Nettogewinn rund 10,9 Mrd. €.
+- Analysten-Konsens (Stand Berichtswoche, 26 Analysten): durchschnittliches 12-Monats-Kursziel ca. 576,5 € (Spanne 420–660 €), Einstufung mehrheitlich „Kaufen" (17 Kaufen, 9 Halten, 0 Verkaufen) – daraus errechnet sich ein rechnerisches Kurspotenzial von rund +19 % gegenüber dem zuletzt bekannten Kursniveau.
+- Erste Group Bank hat ihre FY2026-Gewinnschätzung in der Berichtswoche nach oben angepasst (positives Signal vor den Zahlen), ohne dass die genaue neue EPS-Schätzung recherchierbar war.
+- Hinweis zur Datenlage: Mehrere aggregierte Web-Quellen enthielten für „H1 2026" bereits konkrete Umsatz- und Gewinnzahlen (u. a. 41–45 Mrd. € Umsatz, 10,7–12 Mrd. € operatives Ergebnis). Da der offizielle LVMH-Finanzkalender die Veröffentlichung erst für den 27.07.2026 vorsieht, dürften diese Angaben auf einer Verwechslung mit dem Vorjahr (H1 2025: Umsatz 39,8 Mrd. €, −4 %; operatives Ergebnis 9,0 Mrd. € vs. 10,7 Mrd. € im Vorjahr; Nettogewinn 5,7 Mrd. €) beruhen und wurden daher nicht übernommen.
 
 ## Strategie & Ausblick
-
-- **Fokus auf H1-2026-Zahlen (27.07.2026):** Der Markt richtet sich vollständig auf die kommenden Halbjahresergebnisse aus. Zentrale Beobachtungspunkte: Erholung der chinesischen Nachfrage, Auswirkungen von US-Zöllen auf das nordamerikanische Geschäft (laut Deputy-CEO Stéphane Bianchi plant LVMH Preiserhöhungen von 2–3 % p.a. zur Abfederung), Wechselkursentwicklung sowie insbesondere die Entwicklung der schwächelnden Sparte Fashion & Leather Goods.
-  _Market attention is fully on the July 27 H1 2026 results. Key watch points: China demand recovery, US tariff impact on the North American business (Deputy CEO Stéphane Bianchi has signaled 2–3% annual price increases to offset costs), currency effects, and the trajectory of the still-weak Fashion & Leather Goods division._
-  Quelle: [ad-hoc-news.de (16.07.2026)](https://www.ad-hoc-news.de/boerse/news/ueberblick/lvmh-stock-holds-as-investors-await-fresher-signals/69782607) | [Stocktwits – Luxury To Get Pricier? LVMH Eyes Hikes To Cushion US Tariff Blow](https://stocktwits.com/news-articles/markets/equity/luxury-to-get-pricier-lvmh-eyes-hikes-to-cushion-us-tariff-blow/ch0A1AARbtg)
-
-- **Heritage-Marketing als strategisches Instrument:** Mit der Fendi/Karl-Lagerfeld-Ausstellung und der ersten Couture-Show unter Maria Grazia Chiuri setzt LVMH weiter auf kulturelles Erbe und kreative Kontinuität einzelner Maisons, um Markenwert und Begehrlichkeit in einem schwierigen Nachfrageumfeld zu stützen – ein Muster, das sich bereits bei anderen Kreativwechseln 2025/26 zeigte.
-  _The Fendi/Lagerfeld exhibition and Chiuri's debut couture show reflect LVMH's continued use of heritage and creative continuity across its Maisons to reinforce brand value and desirability amid soft demand — consistent with the pattern seen in other 2025/26 creative transitions across the group._
-  Quelle: [WWD (Juli 2026)](https://wwd.com/fashion-news/fashion-scoops/fendi-rome-venue-couture-show-karl-lagerfeld-exhibition-1239006004/)
-
-- **Talentabwanderung zu Kering als Wettbewerbssignal:** Der Wechsel von Romain Spitzer (LVMH Beauty) zu Kering/Bottega Veneta zeigt, dass der Wettbewerb um Führungskräfte zwischen den beiden größten Luxuskonzernen intensiv bleibt – ein Faktor, den Investoren im Blick auf Managementkontinuität und -qualität bei LVMH beobachten dürften.
-  _Spitzer's move from LVMH Beauty to Kering/Bottega Veneta signals continued intense executive competition between the two largest luxury groups — a factor investors are likely to watch regarding LVMH's management depth and continuity._
-  Quelle: [GlobeNewswire (15.07.2026)](https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html)
-
-- **Keine neuen M&A-Ankündigungen im engeren Berichtszeitraum.** Frühere 2026-Transaktionen (Loro-Piana-Anteilserhöhung auf 94 %, Marc-Jacobs-Verkauf, Penha-Longa-Resort-Übernahme in Portugal, DFS-Greater-China-Deal) bleiben der aktuelle Stand; im Zeitraum 11.–18.07.2026 wurden keine neuen Akquisitionen oder Investitionen identifiziert.
-  _No new M&A announcements were identified within the narrow 11–18 July window; the prior 2026 transactions (Loro Piana stake increase to 94%, Marc Jacobs sale, Penha Longa resort acquisition in Portugal, DFS Greater China deal) remain the latest known activity._
-
----
+- **Fokus der kommenden Woche liegt auf dem 27.07.2026:** Zentrale Beobachtungspunkte für die Halbjahreszahlen bleiben die Erholung der chinesischen Nachfrage (auch vor dem Hintergrund der Markenrechts-Kontroverse), die Entwicklung der schwächelnden Sparte Fashion & Leather Goods, Wechselkurseffekte sowie mögliche Aussagen zu US-Zöllen und Preiserhöhungen.
+- **Portfoliobereinigung schreitet voran:** Der im Mai 2026 vereinbarte Verkauf von Marc Jacobs an ein Joint Venture von WHP Global und G-III Apparel Group (Investitionsvolumen der Käuferseite rund 500 Mio. USD) soll im dritten Quartal 2026 abgeschlossen werden. Berichten zufolge prüft LVMH zusätzlich den Verkauf der Fenty-Beauty-Beteiligung sowie von Teilen der Wein- und Spirituosensparte Moët Hennessy (u. a. Eminente-Rum, Joseph-Phelps-Weingut) – Kommentatoren werten dies als bewusste Fokussierung auf die Kernmarken Louis Vuitton und Dior in einem schwierigen Nachfrageumfeld.
+- **Markenbindung über Kultur- und Sport-Sponsoring:** Die Engagements bei der Frick Collection und der Formel 1 zeigen, dass LVMH trotz des Nachfrageabschwungs weiter gezielt in Prestige-Partnerschaften investiert, um Markenwert und Begehrlichkeit der Kernmarken zu stützen.
+- **Wettbewerbsumfeld:** Konkurrent Richemont hatte zuletzt (Geschäftsjahr bis 31.03.2026) mit einem margenstarken Schmuckgeschäft überdurchschnittlich robuste Ergebnisse vorgelegt, was die Vergleichsmaßstäbe für LVMHs Zahlen zusätzlich erhöht. Die China-Kontroverse um das Louis-Vuitton-Monogramm bleibt ein zu beobachtendes Reputationsrisiko mit potenziellem Einfluss auf die Konsumentenwahrnehmung im wichtigen chinesischen Markt.
 
 ## Quellen
-
-**Aktuelle Meldungen**
-- [WWD – Fendi Unveils Rome Venue for Couture Show — and a Karl Lagerfeld Exhibition](https://wwd.com/fashion-news/fashion-scoops/fendi-rome-venue-couture-show-karl-lagerfeld-exhibition-1239006004/)
-- [Finestre sull'Arte – The historic exhibition dedicated to Fendi and Karl Lagerfeld returns to the GNAMC in Rome after forty years](https://www.finestresullarte.info/en/exhibitions/the-historic-exhibition-dedicated-to-fendi-and-karl-lagerfeld-returns-to-the-gnamc-in-rome-after-forty-years)
-- [franceinfo – À Rome, Fendi présente sa première collection signée par la créatrice Maria Grazia Chiuri](https://www.franceinfo.fr/culture/mode/a-rome-fendi-presente-sa-premiere-collection-signee-par-la-creatrice-maria-grazia-chiuri_8102723.html)
-- [GlobeNewswire – Kering: Romain Spitzer appointed Chief Executive Officer of Bottega Veneta (15.07.2026)](https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html)
-- [Journal du Luxe – Kering recrute le nouveau directeur général de Bottega Veneta chez LVMH Beauty](https://www.journalduluxe.fr/fr/mode/kering-recrute-le-nouveau-directeur-general-de-bottega-veneta-chez-lvmh)
-- [ad-hoc-news.de – LVMH stock holds as investors await fresher signals (16.07.2026)](https://www.ad-hoc-news.de/boerse/news/ueberblick/lvmh-stock-holds-as-investors-await-fresher-signals/69782607)
-- [Irish Times – France's richest man ordered to pay €22.5m in back taxes (06.07.2026)](https://www.irishtimes.com/business/2026/07/06/frances-richest-man-ordered-to-pay-225m-in-back-taxes/)
-- [Fortune – France's richest man Arnault hit with €22 million tax assessment (05.07.2026)](https://fortune.com/2026/07/05/france-richest-man-lvmh-billionaire-bernard-arnault-22-million-euro-tax-assessment/)
-
-**Management**
-- [GlobeNewswire – Kering: Romain Spitzer appointed CEO of Bottega Veneta (15.07.2026)](https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html)
-- [Irish Times – France's richest man ordered to pay €22.5m in back taxes](https://www.irishtimes.com/business/2026/07/06/frances-richest-man-ordered-to-pay-225m-in-back-taxes/)
-- [Yahoo Lifestyle – LVMH's Bernard Arnault Is Big on Family, Not Fond of 'Luxury' (Legend podcast, Juli 2026)](https://www.yahoo.com/lifestyle/articles/lvmh-bernard-arnault-big-family-203536749.html)
-
-**Finanzielles**
-- [ad-hoc-news.de – LVMH stock holds as investors await fresher signals](https://www.ad-hoc-news.de/boerse/news/ueberblick/lvmh-stock-holds-as-investors-await-fresher-signals/69782607)
-- [ideal-investisseur.fr – Consensus des analystes LVMH](https://www.ideal-investisseur.fr/en/analyst-consensus/lvmh/FR0000121014.html)
-- [LVMH – 2026 First-Half Results (Financial Calendar)](https://www.lvmh.com/en/financial-calendar/2026-first-half-results)
-- [Quartr – LVMH Q1 2026 Summary](https://quartr.com/events/lvmh-mo-t-hennessy-louis-vuitton-soci-t-europ-enne-mc-q1-2026_3edubB79)
-- [LVMH – Financial Calendar](https://www.lvmh.com/en/financial-calendar)
-
-**Strategie & Investitionen**
-- [WWD – Fendi Unveils Rome Venue for Couture Show — and a Karl Lagerfeld Exhibition](https://wwd.com/fashion-news/fashion-scoops/fendi-rome-venue-couture-show-karl-lagerfeld-exhibition-1239006004/)
-- [Stocktwits – Luxury To Get Pricier? LVMH Eyes Hikes To Cushion US Tariff Blow](https://stocktwits.com/news-articles/markets/equity/luxury-to-get-pricier-lvmh-eyes-hikes-to-cushion-us-tariff-blow/ch0A1AARbtg)
-- [GlobeNewswire – Kering: Romain Spitzer appointed CEO of Bottega Veneta](https://www.globenewswire.com/news-release/2026/07/15/3327944/0/en/Kering-Romain-Spitzer-appointed-Chief-Executive-Officer-of-Bottega-Veneta.html)
-- [Tracxn – List of 46 Acquisitions by LVMH](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
+- [Louis Vuitton becomes principal cultural sponsor of The Frick Collection for the coming three years – LVMH (offiziell)](https://www.lvmh.com/en/news-lvmh/louis-vuitton-becomes-principal-cultural-sponsor-of-the-frick-collection-for-the-coming-three-years)
+- [The Frick Collection Announces Three-Year Sponsorship by Louis Vuitton – Frick Collection](https://www.frick.org/press/louis_vuitton_sponsorship_announcement)
+- [Moët & Chandon returns as title partner of the Formula 1 Belgian Grand Prix, celebrating victory and savoir-faire – LVMH (offiziell)](https://www.lvmh.com/en/news-lvmh/moet-chandon-returns-as-title-partner-of-the-formula-1-belgian-grand-prix-celebrating-victory-and-savoir-faire)
+- [In Depth: Louis Vuitton's Trademark Win Sparks Backlash in China (21.07.2026) – Caixin Global](https://www.caixinglobal.com/2026-07-21/in-depth-louis-vuittons-trademark-win-sparks-backlash-in-china-102466676.html)
+- [LVMH Wins Court Case Over Logo Used by China Tea Chain – MarketScreener](https://www.marketscreener.com/news/lvmh-wins-court-case-over-logo-used-by-china-tea-chain-ce7f5edad18bf523)
+- [Chinese tea chain's $1.5 million trademark infringement loss to Louis Vuitton sparks fight over who owns a flower pattern – Fortune](https://fortune.com/2026/07/07/louis-vuitton-molly-tea-china-trademark/)
+- [LVMH Needs to Beware China's Luxury Minefield – Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2026-07-07/lvmh-needs-to-beware-china-s-luxury-minefield)
+- [OTCMKTS:LVMUY FY2026 EPS Forecast Raised by Erste Group Bank – MarketBeat](https://www.marketbeat.com/instant-alerts/otcmktslvmuy-fy2026-eps-forecast-raised-by-erste-group-bank-2026-07-20/)
+- [LVMH through results season: what mini options change for a smaller portfolio (22.07.2026) – Saxo Bank](https://www.home.saxo/en-mena/content/articles/options/lvmh-through-results-season-what-mini-options-change-for-a-smaller-portfolio-22072026)
+- [Résultats semestriels 2026 / 2026 First-Half Results – LVMH Financial Calendar (offiziell)](https://www.lvmh.com/en/financial-calendar/2026-first-half-results)
+- [LVMH continues to achieve organic growth in the first quarter, in a global environment impacted by the conflict in the Middle East – LVMH (offiziell)](https://www.lvmh.com/en/publications/lvmh-continues-to-achieve-organic-growth-in-the-first-quarter-in-a-global-environment-impacted-by-the-conflict-in-the-middle-east)
+- [LVMH clôture l'année 2025 avec un résultat net de 10,9 milliards d'euros – abcbourse.com](https://www.abcbourse.com/marches/lvmh-cloture-l-annee-2025-avec-un-resultat-net-de-10-9-milliards-d-euros_686941)
+- [LVMH Reports 4% Drop in First-Half 2025 Revenue, Net Profit Reaches €5.7 Billion – iTiger](https://www.itiger.com/news/2553781404)
+- [LVMH: Target Price Consensus and Analysts Recommendations – MarketScreener](https://www.marketscreener.com/quote/stock/LVMH-4669/consensus/)
+- [Richemont delivers strong sales growth and solid results for the year ended 31 March 2026 – Richemont (offiziell)](https://www.richemont.com/news-media/press-releases-news/richemont-delivers-strong-sales-growth-and-solid-results-for-the-year-ended-31-march-2026/)
+- [LVMH's Bernard Arnault Is Big on Family, Not Fond of 'Luxury' and Ready to Go 250km an Hour – Yahoo Lifestyle](https://www.yahoo.com/lifestyle/articles/lvmh-bernard-arnault-big-family-203536749.html)
+- [Bvlgari names Laura Burdese as CEO, effective July 2026 – People Matters](https://sea.peoplemattersglobal.com/news/appointments/bvlgari-names-laura-burdese-as-ceo-effective-july-2026-47824)
+- [LVMH to Sell Marc Jacobs Brand to WHP Global, G-III Apparel JV – MarketScreener](https://www.marketscreener.com/news/lvmh-to-sell-marc-jacobs-brand-to-whp-global-g-iii-apparel-jv-ce7f5bd2da89f62d)
+- [Less is more: Marc Jacobs sale shows LVMH cutting complexity as downturn drags on – MarketScreener](https://www.marketscreener.com/news/less-is-more-marc-jacobs-sale-shows-lvmh-cutting-complexity-as-downturn-drags-on-ce7f5bd2d08ef023)
+- [LVMH considers asset sales amid downturn in demand – logos-pres.md](https://logos-pres.md/en/news/lvmh-considers-asset-sales-amid-downturn-in-demand/)
