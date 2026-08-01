@@ -1,43 +1,45 @@
 # Energiekontor (EKT.DE)
-_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
+_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
 
 ## Aktuelle Meldungen
-- **22.07.2026 (EQS-Ad-hoc/News):** Energiekontor, die EHA Energie-Handels-Gesellschaft und die Drogeriemarktkette dm haben eine langfristige Grünstromlieferung besiegelt. Der geplante Solarpark Kolitzheim-Herlheim soll dm-Filialen über einen Power-Purchase-Agreement (PPA) mit zehnjähriger Laufzeit mit Ökostrom versorgen.
-- Zur Einordnung (Kontext aus der Vorwoche, weiterhin relevant): Energiekontor hatte den Windpark Drensteinfurt-Rieth (zwei Enercon-Anlagen, 11 MW) in Betrieb genommen und zwei weitere Baugenehmigungen für Windprojekte im Kreis Höxter (zusammen 46 MW) erhalten. Das Unternehmen verweist zudem weiterhin auf eine Projektpipeline von rund 12,2 Gigawatt.
-- Institutionelle Leerverkäufer setzen die Aktie weiter unter Druck; das Management hatte hierzu bereits in der Vorwoche in neuen Anlegerinformationen Stellung bezogen (Shortselling-Quote zuletzt rund 1,79 Prozent). In Marktkommentaren wurde für Juli 2026 ein möglicher Turnaround der Aktie diskutiert.
-- Konkrete neue Übernahme- oder M&A-Meldungen zu Energiekontor (weder als Käufer noch als Übernahmeziel) wurden im Berichtszeitraum nicht gefunden.
+
+Am 28.07.2026 meldete Energiekontor den Financial Close für das Solarprojekt Kolitzheim-Herlheim (Bayern) mit einer installierten Leistung von rund 11 Megawatt-Peak (MWp). Damit ist die Finanzierung gesichert und der Bau kann beginnen; die Inbetriebnahme ist für das erste Halbjahr 2027 geplant. Das Projekt soll jährlich mehr als 13 GWh Ökostrom erzeugen und rund 9.000 Tonnen CO₂ pro Jahr einsparen [1][2][3].
+
+Für den erzeugten Strom aus Kolitzheim-Herlheim haben Energiekontor, die EHA Energie-Handels-Gesellschaft sowie der Drogeriehändler dm einen langfristigen Stromabnahmevertrag (PPA) mit zehnjähriger Laufzeit geschlossen; dm bezieht den Grünstrom für seine Filialen [3][4].
+
+Mit dem Financial Close für Kolitzheim-Herlheim befinden sich aktuell 20 Projekte mit einer Gesamtleistung von rund 609 Megawatt im Bau, davon acht Projekte mit rund 227 Megawatt für den eigenen Bestand [1][3]. Nach der im Juni 2026 erfolgten Inbetriebnahme und Übergabe des Windparks Drensteinfurt-Rieth sollen als Nächstes die Windparks Elsdorf-Frankeshoven und Elsdorf-Tollhausen mit zusammen rund 40 Megawatt folgen [1].
+
+Im Berichtszeitraum wurde zudem gemeldet, dass drei Windparks von Energiekontor in Nordrhein-Westfalen eine Genehmigung mit einer Gesamtleistung von rund 46 Megawatt erhalten haben; weitere Projekte nähern sich dem Financial Close [5][6].
+
+Der konzerneigene Kraftwerkspark ist um rund 17 Megawatt auf insgesamt rund 450 Megawatt gewachsen; mehr als 200 Megawatt befinden sich derzeit im Bau, wodurch der Eigenbestand nach Fertigstellung auf rund 650 Megawatt anwachsen soll [6].
 
 ## Management
-- Vorstandsvorsitzender ist weiterhin Peter Szabo, zuständig für Auslandsmärkte, Finance & Controlling, Investor & Public Relations sowie Vertrieb; weitere Vorstandsmitglieder sind Günter Eschen, Günter Lammers (stellvertretender Vorsitz) sowie Darius Oliver Kianzad.
-- Ein neues CEO-Interview aus dem Berichtszeitraum 18.–25.07.2026 wurde nicht gefunden. Aus der Hauptversammlung im Mai 2026 sowie einem früheren Interview (anleihen-finder.de) ist bekannt, dass Szabo trotz weiterhin herausfordernder regulatorischer und wirtschaftlicher Rahmenbedingungen in den Kernmärkten von einer insgesamt planmäßigen Entwicklung und verbesserter Planungssicherheit für Projekte spricht.
+
+Vorstandsvorsitzender ist weiterhin Peter Szabo. Er äußerte sich zuletzt (Mai 2026) zum planmäßigen Start ins Geschäftsjahr 2026 und sieht Energiekontor gut positioniert, um die Ziele für das Geschäftsjahr 2026 wie geplant zu erreichen [7][8][9]. Trotz eines weiterhin anspruchsvollen Markt- und Wettbewerbsumfelds entwickle sich das operative Geschäft im Rahmen der Erwartungen; der Vorstand bestätigte die Ergebnisprognose für 2026 [7][9][10]. Für die konkrete Berichtswoche (25.07.–01.08.2026) liegen keine neuen Interviews oder Vorstandsäußerungen vor.
 
 ## Finanzielles
-- Der Vorstand hält an der im Mai bekräftigten Ergebnisprognose für 2026 fest: EBT zwischen 40 und 60 Mio. Euro, mittelfristiges Ziel von rund 120 Mio. Euro bis 2028.
-- Das operative Geschäft entwickelt sich laut Unternehmensangaben trotz eines weiterhin herausfordernden Markt- und Wettbewerbsumfelds erwartungsgemäß.
-- Laufendes Aktienrückkaufprogramm (28.05.2026–27.05.2027) über bis zu 80.000 Aktien bzw. maximal 9 Mio. Euro; zuvor waren im Mai/Juni 2026 bereits 47.314 eigene Aktien eingezogen worden, wodurch die Zahl der ausstehenden Stimmrechte auf knapp 13,9 Mio. sank.
-- Kursniveau: Mitte Juni 2026 notierte die Aktie bei rund 46,40 Euro (Xetra) und damit deutlich über dem Vorjahresschlusskurs von 34,40 Euro; im Juli 2026 stand der Kurs zeitweise unter Druck durch verstärkte Leerverkaufsaktivität.
+
+Im ersten Quartal 2026 setzte Energiekontor die operative Entwicklung des Projektgeschäfts und des konzerneigenen Stromerzeugungsportfolios konsequent fort und erzielte weitere Financial Closes sowie Baufortschritte. Der repowerte Windpark Oederquart wurde in Betrieb genommen, wodurch der konzerneigene Bestand im ersten Quartal 2026 wieder auf rund 450 Megawatt anstieg [10]. Für das Geschäftsjahr 2026 peilt das Unternehmen ein Vorsteuerergebnis (EBT) in einer Spanne von 40 bis 60 Millionen Euro an [10].
+
+Zudem läuft ein neues Aktienrückkaufprogramm mit einem Volumen von bis zu 9 Millionen Euro (bis Mai 2027, bis zu 80.000 eigene Aktien), nachdem Ende Mai 2026 rund 47.300 eigene Aktien eingezogen wurden [11][12][13].
 
 ## Strategie & Ausblick
-- Mit dem neuen PPA für den Solarpark Kolitzheim-Herlheim (dm/EHA) baut Energiekontor sein Portfolio an langfristig gesicherten Stromabnahmeverträgen weiter aus – ein zentraler Baustein der Wachstumsstrategie neben Eigenbestandsausbau und Projektverkäufen.
-- Weitere strategische Bausteine bleiben der 15-jährige PPA mit der Salzgitter Flachstahl GmbH für zwei Solarparks (113 MW) in Mecklenburg-Vorpommern sowie kürzlich abgeschlossene PPAs für 17 deutsche Post-EEG-Windparks (>100 MW) für 2026/2027.
-- Operativ setzt Energiekontor den Ausbau des Eigenbestandsportfolios fort (u. a. Repowering Oederquart, Windpark Drensteinfurt-Rieth, Genehmigungen im Kreis Höxter) mit Zielrichtung auf über 560 MW Eigenbestand zum Jahresende.
-- Risikofaktoren bleiben regulatorische Unsicherheiten in Deutschland und Großbritannien (Netzanschlussreformen, unklarer Zeitplan der nächsten CfD-Auktionsrunde) sowie die anhaltende Shortseller-Aktivität, die kurzfristig auf die Kursentwicklung drücken kann, auch wenn die operativen Fortschritte laut Management robust bleiben.
+
+Energiekontor verfolgt eine Wachstumsstrategie zur Ausweitung des eigenen Kraftwerksparks von rund 448/450 Megawatt auf rund 650 bis 680 Megawatt [6][11]. Flankiert wird dies durch einen 15-jährigen Stromabnahmevertrag (PPA) mit der Salzgitter Flachstahl GmbH über die Abnahme von Strom aus zwei neuen Solarparks in Mecklenburg-Vorpommern (rund 113 Megawatt), deren kommerzielle Inbetriebnahme für Mitte 2026 erwartet wird; im Zuge dessen wird als mittelfristiges Ziel ein Vorsteuerergebnis von 120 Millionen Euro bis 2028 genannt [11]. Ergänzend wird in der Berichterstattung auf eine Projektpipeline von rund 12,2 Gigawatt verwiesen [14]. Hinweise auf eine Übernahme von Energiekontor durch Dritte oder größere Beteiligungstransaktionen im Jahr 2026 wurden in der Recherche nicht gefunden.
 
 ## Quellen
-- [EQS-News: Energiekontor, EHA und dm setzen auf langfristige Grünstromlieferung aus Solarpark Kolitzheim-Herlheim (finanztreff.de, 22.07.2026)](https://www.finanztreff.de/nachrichten/2026-07-22-eqs-news-energiekontor-ag-energiekontor-eha-und-dm-setzen-auf-langfristige-gruenstromlieferung-aus-solarpark-kolitzheim-herlhei-471259)
-- [Energiekontor, EHA und dm setzen auf langfristige Grünstromlieferung aus Solarpark Kolitzheim-Herlheim (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-07/69091232-energiekontor-eha-und-dm-setzen-auf-langfristige-gruenstromlieferung-aus-solarpark-kolitzheim-herlheim-349.htm)
-- [Energiekontor Aktie: PPA mit dm besiegelt (finanztrends.de)](https://www.finanztrends.de/news/energiekontor-aktie-ppa-mit-dm-besiegelt/)
-- [Aktie im Check: Energiekontor deutlich im Minus – Turnaround im Juli 2026 möglich? (wallstreet-online, 01.07.2026)](https://www.wallstreet-online.de/nachricht/21060627-aktie-check-energiekontor-deutlich-minus-turnaround-juli-2026-moeglich)
-- [Energiekontor Aktie: Zwei Genehmigungen für 46 Megawatt (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-zwei-genehmigungen-fuer-46-megawatt/69727113)
-- [Energiekontor Aktie: 46 Megawatt genehmigt (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-46-megawatt-genehmigt/69752855)
-- [Energiekontor Aktie: 12,2 Gigawatt Pipeline (boerse-express)](https://www.boerse-express.com/news/articles/energiekontor-aktie-122-gigawatt-pipeline-928824)
-- [Energiekontor Aktie: Holtumer Moor mit 7 Megawatt am Netz (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-holtumer-moor-mit-7-megawatt-am-netz/69710989)
-- [Energiekontor Aktie: 113 Megawatt Solarparks 2026 geplant (finanztrends.de)](https://www.finanztrends.de/rohstoff/energiekontor/news/energiekontor-aktie-113-megawatt-solarparks-2026-geplant/)
-- [Energiekontor Secures 15-Year PPA with Salzgitter as Share Buyback and Capacity Expansion Propel Growth (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-secures-15-year-ppa-with-salzgitter-as-share-buyback-and/69653926)
-- [Energiekontor AG: Energiekontor starts the 2026 financial year on track (tradingview.com)](https://www.tradingview.com/news/eqs:258da30ed094b:0-energiekontor-ag-energiekontor-starts-the-2026-financial-year-on-track-operational-progress-confirms-robust-foundation-for-the-remainder-of-the-year/)
-- [Peter Szabo | Energiekontor AG](https://www.energiekontor.de/en/company/management-board-and-supervisory-board/peter-szabo.html)
-- [Interview mit Peter Szabo, Vorstand der Energiekontor AG (anleihen-finder.de)](https://www.anleihen-finder.de/interview-mit-peter-szabo-vorstand-der-energiekontor-ag-00069315.html)
-- [Energiekontor bestätigt Ergebnisprognose für 2026 (anleihen-finder.de)](https://www.anleihen-finder.de/energiekontor-bestaetigt-ergebnisprognose-fuer-2026-00072191.html)
-- [Energiekontor AG Shareholders Approve Doubled Dividend and Reaffirm Growth Targets (citybuzz.co)](https://www.citybuzz.co/2026/05/27/energiekontor-ag-shareholders-approve-doubled-dividend-and-reaffirm-growth-targets/)
-- [Energiekontor zieht Aktien ein – neues Rückkaufprogramm bis 9 Mio. Euro (wallstreet-online, 31.05.2026)](https://www.wallstreet-online.de/nachricht/20945403-energiekontor-aktien-rueckkaufprogramm-9-mio)
-- [News (Energiekontor AG)](https://www.energiekontor.de/en/news.html)
+
+1. [EQS-News: Energiekontor AG: Energiekontor erreicht Financial Close für Solarprojekt Kolitzheim-Herlheim und treibt Realisierung des Projektportfolios weiter voran (onvista, 28.07.2026)](https://www.onvista.de/news/2026/07-28-eqs-news-energiekontor-ag-energiekontor-erreicht-financial-close-fuer-solarprojekt-kolitzheim-herlheim-und-treibt-realisierung-des-projektportfolios-weiter-voran-0-37-26536685)
+2. [EQS-News: Energiekontor AG: Energiekontor erreicht Financial Close f.., 28.07.2026 (comdirect Informer)](https://www.comdirect.de/inf/news/detail.html?CIF_Check=true&ID_NEWS=1165153088)
+3. [Energiekontor, EHA und dm setzen auf langfristige Grünstromlieferung aus Solarpark Kolitzheim-Herlheim (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-07/69091232-energiekontor-eha-und-dm-setzen-auf-langfristige-gruenstromlieferung-aus-solarpark-kolitzheim-herlheim-349.htm)
+4. [Energiekontor Signs 10-Year Purchase Agreement for Kolitzheim-Herlheim Solar Park (TradingView News)](https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43N189:0-energiekontor-signs-10-year-purchase-agreement-for-kolitzheim-herlheim-solar-park/)
+5. [Energiekontor Aktie: 46 Megawatt genehmigt (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-aktie-46-megawatt-genehmigt/69752855)
+6. [Energiekontor Receives Permits For 46 MW Wind Parks In Germany's NRW (TradingView News)](https://www.tradingview.com/news/reuters.com,2026:newsml_TUC8JPPXL:0-energiekontor-receives-permits-for-46-mw-wind-parks-in-germany-s-nrw/)
+7. [Planmäßiger Jahresstart: Energiekontor bestätigt Ergebnisprognose für 2026 (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-05/68479380-planmaessiger-jahresstart-energiekontor-bestaetigt-ergebnisprognose-fuer-2026-496.htm)
+8. [Energiekontor bestätigt Ergebnisprognose für 2026 (anleihen-finder.de)](https://www.anleihen-finder.de/energiekontor-bestaetigt-ergebnisprognose-fuer-2026-00072191.html)
+9. [Energiekontor startet planmäßig ins Geschäftsjahr 2026 – operative Fortschritte bestätigen robuste Basis für weiteren Jahresverlauf (rohstoff-welt.de)](https://www.rohstoff-welt.de/news/733762--Energiekontor-startet-planmaessig-ins-Geschaeftsjahr-2026--operative-Fortschritte-bestaetigen-robuste-Basis-fuer-weiteren-Jahresverlauf.html)
+10. [Energiekontor AG: Aktie nach Rally im Fokus der Quartalszahlen (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-ag-aktie-nach-rally-im-fokus-der-quartalszahlen/69508247)
+11. [Energiekontor Secures 15-Year PPA with Salzgitter as Share Buyback and Capacity Expansion Propel Growth (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ueberblick/energiekontor-secures-15-year-ppa-with-salzgitter-as-share-buyback-and/69653926)
+12. [Energiekontor zieht Aktien ein – neues Rückkaufprogramm bis 9 Mio. € (wallstreet-online.de, 31.05.2026)](https://www.wallstreet-online.de/nachricht/20945403-energiekontor-aktien-rueckkaufprogramm-9-mio)
+13. [Energiekontor: 80.000 Aktien bis Mai 2027 (kapitalmarktexperten.de)](https://www.kapitalmarktexperten.de/energiekontor-80-000-aktien-bis-mai-2027/)
+14. [Energiekontor Aktie: 12,2 Gigawatt Pipeline (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-122-gigawatt-pipeline-928824)

@@ -1,85 +1,35 @@
 # BioNTech (BNTX)
-_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
+_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
 
 ## Aktuelle Meldungen
-
-- **Termin für Q2-2026-Zahlen bekanntgegeben:** Am 21. Juli 2026 kündigte BioNTech an, die Finanzergebnisse für das zweite Quartal 2026 sowie ein Corporate Update am Dienstag, den 4. August 2026, zu veröffentlichen. Das Unternehmen wird dazu um 8:00 Uhr ET (14:00 Uhr MESZ) eine Telefonkonferenz und einen Webcast für Investoren, Finanzanalysten und die Öffentlichkeit abhalten.
-  - Quelle: [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/21/3330280/0/en/BioNTech-to-Report-Second-Quarter-2026-Financial-Results-and-Corporate-Update-on-August-4-2026.html)
-  - Quelle: [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-report-second-quarter-2026-financial-results-and)
-
-- **Ausweitung internationaler Patentklagen zu mRNA-Impfstoff-Technologie:** Im Juli 2026 weiteten Arbutus Biopharma und Genevant Sciences ihre Patentklagen wegen der bei den COVID-19-mRNA-Impfstoffen eingesetzten Lipid-Nanopartikel-Technologie (LNP) gegen Pfizer, BioNTech und verbundene Unternehmen aus. Neu hinzugekommen sind Klagen in Kanada und mehreren europäischen Ländern, ergänzend zu bereits laufenden US-Verfahren; gefordert werden Schadensersatz sowie dauerhafte Unterlassungsverfügungen. Dies erhöht die rechtliche Unsicherheit rund um die mRNA-Plattform und das COVID-19-Impfstoffgeschäft, während BioNTech parallel den strategischen Umbau in Richtung Onkologie vorantreibt.
-  - Quelle: [How Investors Are Reacting To BioNTech (BNTX) Expanded Global Patent Suits Targeting Its mRNA COVID-19 Vaccines (Simply Wall St)](https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-bntx/biontech/news/how-investors-are-reacting-to-biontech-bntx-expanded-global)
-
-- **Keine weiteren eigenständigen Pressemitteilungen von BioNTech im engeren Berichtszeitraum identifiziert:** Über die Terminankündigung zu den Q2-Zahlen hinaus wurden für den Zeitraum 18.–25.07.2026 keine zusätzlichen offiziellen Unternehmensmeldungen von investors.biontech.de gefunden.
+- Am 29.07.2026 erteilte die Europäische Kommission die Zulassung für den an die Variante XFG (JN.1-Linie) angepassten COVID-19-Impfstoff von Pfizer/BioNTech für die Saison 2026/2027. Laut Daten löst die Formel eine starke Immunantwort gegen aktuell zirkulierende und neu auftretende Virus-Linien aus; weltweit wurden bislang mehr als fünf Milliarden Dosen des Pfizer-BioNTech-COVID-19-Impfstoffs ausgeliefert. [Quelle 1, 2]
+- Arbutus Biopharma und Genevant haben am 16.07.2026 drei internationale Patentklagen (Unified Patent Court für mehrere EU-Länder sowie Kanada) gegen Pfizer/BioNTech eingereicht. Es geht um mutmaßliche Verletzungen von Patenten auf die Lipid-Nanopartikel-Technologie (LNP), die in den mRNA-COVID-19-Impfstoffen zum Einsatz kommt; gefordert werden Schadenersatz sowie Unterlassungsverfügungen. Diese Klagen erweitern bereits laufende Verfahren vor einem US-Bundesgericht in New Jersey. [Quelle 3]
+- Am 21.07.2026 kündigte BioNTech an, die Finanzergebnisse für das zweite Quartal 2026 sowie ein operatives Corporate Update am 04.08.2026 (also kurz nach dem hier betrachteten Berichtszeitraum) zu veröffentlichen; eine Telefon-/Webkonferenz für Investoren ist für 14:00 Uhr MESZ (8:00 Uhr ET) angesetzt. [Quelle 4, 5]
 
 ## Management
-
-- **Führungswechsel bei Sahin und Türeci bleibt bestehen:** CEO Ugur Sahin und CMO Özlem Türeci halten an ihrem für Ende 2026 angekündigten Rückzug aus den operativen Führungsrollen fest, um ein neues, auf Next-Generation-mRNA-Innovationen fokussiertes Unternehmen zu gründen. Für den engeren Berichtszeitraum (18.–25.07.2026) wurden keine neuen Aussagen oder Updates zu diesem Thema gefunden; die im März 2026 kommunizierte Ankündigung bleibt der aktuellste Stand.
-  - Quelle: [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company (FierceBiotech)](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
-  - Quelle: [BioNTech Founders To Leave Famed mRNA Biotech for New Venture (BioSpace)](https://www.biospace.com/business/biontech-founders-to-leave-famed-mrna-biotech-for-new-venture)
-
-- **CEO-Nachfolge weiterhin nicht kommuniziert:** Auch im Berichtszeitraum wurden keine konkreten Namen für die Nachfolge von Sahin (CEO) oder Türeci (CMO) genannt. Der bevorstehende Führungswechsel bleibt ein zentraler Unsicherheitsfaktor für die strategische Kontinuität des Unternehmens.
-
-- **Keine neue CEO-Interviewäußerung im Berichtszeitraum gefunden:** Für den Zeitraum 18.–25.07.2026 konnte kein neues Interview mit Ugur Sahin identifiziert werden. Die letzte umfassendere öffentliche Positionierung erfolgte im Rahmen der 44. J.P. Morgan Healthcare Conference im Januar 2026, bei der Sahin den Pipeline-Status erläuterte und 2026 als "katalysatorreiches Jahr" mit erwarteten Phase-3-Auswertungen (u. a. Pumitamig, Gotistobart, BNT113) bezeichnete.
-  - Quelle: [BioNTech Provides Strategic Business Update and Outlines 2026 Areas of Focus at 44th Annual J.P. Morgan Healthcare Conference (biontech.com)](https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/01/biontech-provides-strategic-business-update-and-outlines-2026.html)
-  - Quelle: [2026: A year of reckoning for BioNTech (European Biotechnology Magazine)](https://european-biotechnology.com/latest-news/2026-a-year-of-reckoning-for-biontech/)
+- BioNTech hatte bereits am 10.03.2026 bekanntgegeben, dass die Mitgründer Prof. Ugur Sahin (CEO) und Prof. Özlem Türeci (CMO) ein neues, eigenständiges Biotech-Unternehmen mit Fokus auf mRNA-Innovationen der nächsten Generation gründen werden – ihr drittes Unternehmen nach Ganymed Pharmaceuticals (2001) und BioNTech (2008). BioNTech will dem neuen Unternehmen entsprechende Rechte und mRNA-Technologien zu marktüblichen Konditionen im Austausch gegen eine Minderheitsbeteiligung sowie Meilenstein- und Lizenzzahlungen überlassen. [Quelle 6]
+- Sahin und Türeci sollen nach Ablauf ihrer aktuellen Vorstandsverträge Ende 2026 in die Führung des neuen Unternehmens wechseln; bindende Vereinbarungen mit BioNTech sollten laut ursprünglicher Ankündigung bis Mitte 2026 unterzeichnet werden. Der Aufsichtsrat von BioNTech hat eine Nachfolgesuche für die betroffenen Positionen eingeleitet, um einen reibungslosen Übergang sicherzustellen. [Quelle 6, 7]
+- Für den engeren Berichtszeitraum (25.07.–01.08.2026) wurden keine neuen, öffentlich dokumentierten Interviews oder Wortmeldungen von Sahin gefunden; die verfügbaren Management-Informationen beziehen sich weiterhin auf die im März 2026 kommunizierte Nachfolgeplanung, zu der auch keine neuen Updates in diesem Zeitraum vorliegen.
 
 ## Finanzielles
-
-**Ausblick auf Q2 2026 (Veröffentlichung angekündigt für 4. August 2026)**
-
-- BioNTech wird die Zahlen für das zweite Quartal 2026 sowie ein Corporate Update am 4. August 2026 veröffentlichen – also außerhalb des aktuellen Berichtszeitraums, aber als wichtigster bevorstehender Termin für Investoren markiert.
-  - Quelle: [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (BioSpace)](https://www.biospace.com/press-releases/biontech-to-report-second-quarter-2026-financial-results-and-corporate-update-on-august-4-2026)
-
-**Q1 2026 Kennzahlen (veröffentlicht 5. Mai 2026, weiterhin aktuellster vorliegender Berichtsstand)**
-
-| Kennzahl | Q1 2026 | Q1 2025 |
-|---|---|---|
-| Umsatz | €118,1 Mio. | €182,8 Mio. |
-| Nettoverlust (gesamt) | €531,9 Mio. | – |
-| Bereinigter Nettoverlust | €494,6 Mio. | – |
-| Verwässerter Verlust je Aktie | €2,10 ($2,463) | – |
-| Liquidität (Cash & Wertpapiere) | €16.763,3 Mio. | – |
-
-- **Jahresprognose 2026 bestätigt:** Umsatzguidance für das Gesamtjahr wurde im Rahmen der Q1-Zahlen bekräftigt.
-- **Aktienrückkaufprogramm:** Das Rückkaufprogramm über bis zu $1,0 Mrd. mit einer Laufzeit von zwölf Monaten läuft weiter.
-- **Restrukturierung im Produktionsnetzwerk (weiterhin laufend):** Der im Zuge der Q1-Zahlen angekündigte Ausstieg aus Fertigungsstandorten in Idar-Oberstein, Marburg, Singapur sowie einem CureVac-Standort betrifft rund 1.860 Stellen; Ziel sind jährliche Einsparungen von ca. $584,9 Mio. bis 2029.
-- Für den engeren Zeitraum KW30 (18.–25.07.2026) liegen keine neuen eigenständigen Finanzkennzahlen von BioNTech vor; die nächste reguläre Berichterstattung (Q2 2026) erfolgt am 4. August 2026, außerhalb des Berichtszeitraums.
-
-Quellen:
-  - [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/21/3330280/0/en/BioNTech-to-Report-Second-Quarter-2026-Financial-Results-and-Corporate-Update-on-August-4-2026.html)
-  - [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-report-second-quarter-2026-financial-results-and)
-  - [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/en/biontech-announces-first-quarter-2026-financial-results-and-corporate-update.html)
-  - [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
-  - [BioNTech Releases First Quarter Results for 2026 (PharmExec)](https://www.pharmexec.com/view/biontech-releases-first-quarter-results-2026)
+- BioNTech berichtete für das erste Quartal 2026 Umsatzerlöse von 118,1 Mio. Euro (Vorjahresquartal: 182,8 Mio. Euro); der Rückgang wurde vor allem auf niedrigere Umsätze mit den COVID-19-Impfstoffen zurückgeführt. Die Jahresumsatzprognose 2026 liegt weiterhin bei 2,0 bis 2,3 Mrd. Euro. [Quelle 8]
+- Zum 31.12.2025 verfügte BioNTech über liquide Mittel und Wertpapiere von rund 17,2 Mrd. Euro. [Quelle 9]
+- Die Zahlen für das zweite Quartal 2026 werden erst am 04.08.2026 veröffentlicht und liegen damit außerhalb des hier betrachteten Zeitraums (25.07.–01.08.2026); Analysten blicken laut Marktberichten mit gemischten Einschätzungen auf den Bericht, u.a. vor dem Hintergrund der laufenden Patentklagen. [Quelle 4, 10]
 
 ## Strategie & Ausblick
-
-- **Onkologie bleibt strategischer Kernfokus:** BioNTech treibt die Weiterentwicklung seines onkologischen Portfolios voran, insbesondere Pumitamig (BNT327, Partner Bristol Myers Squibb) und Gotistobart (BNT316, Partner OncoC4), mit mehreren pivotalen Studien in TNBC, MSS-Kolorektalkarzinom, Magenkarzinom und NSCLC. Weitere Phase-3-Zwischenauswertungen werden im weiteren Jahresverlauf 2026 erwartet – 2026 wird von Beobachtern als "katalysatorreiches Jahr" für die Pipeline bezeichnet.
-  - Quelle: [2026: A year of reckoning for BioNTech (European Biotechnology Magazine)](https://european-biotechnology.com/latest-news/2026-a-year-of-reckoning-for-biontech/)
-
-- **Rechtliches Risiko durch ausgeweitete Patentklagen:** Die im Juli 2026 auf Kanada und Europa ausgeweiteten LNP-Patentklagen von Arbutus Biopharma und Genevant Sciences gegen Pfizer und BioNTech stellen ein zusätzliches strategisches Risiko für die mRNA-Plattform und das verbleibende COVID-19-Geschäft dar, während der Konzern gleichzeitig in die Onkologie-Transformation investiert.
-  - Quelle: [How Investors Are Reacting To BioNTech (BNTX) Expanded Global Patent Suits Targeting Its mRNA COVID-19 Vaccines (Simply Wall St)](https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-bntx/biontech/news/how-investors-are-reacting-to-biontech-bntx-expanded-global)
-
-- **Produktionsnetzwerk wird auf Onkologie-Fokus zugeschnitten:** Der angekündigte Ausstieg aus mehreren Fertigungsstandorten (Idar-Oberstein, Marburg, Singapur, CureVac-Standort) mit rund 1.860 betroffenen Stellen und angestrebten Einsparungen von $584,9 Mio. p.a. bis 2029 signalisiert eine strukturelle Abkehr vom COVID-19-Massengeschäft hin zu einer schlankeren, onkologiezentrierten Kostenbasis.
-
-- **Keine neuen Akquisitionen oder Investitionen im Berichtszeitraum identifiziert:** Für KW30 wurden keine neuen Übernahme- oder Investitionsankündigungen von BioNTech gefunden. Die CureVac-Übernahme (~$1,25 Mrd., vollständiger Abschluss der Pflichtübernahme der Restanteile Anfang 2026) bleibt die jüngste größere M&A-Aktivität; Wachstum erfolgt ansonsten primär organisch bzw. über bestehende Partnerschaften (BMS für Pumitamig, OncoC4 für Gotistobart).
-  - Quelle: [BioNTech Closes Acquisition of CureVac N.V. (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
-
-- **Bevorstehendes Corporate Update als nächster wichtiger Meilenstein:** Das für den 4. August 2026 angekündigte Q2-Corporate-Update dürfte weitere Details zu Pipeline-Fortschritten, Guidance und der laufenden Restrukturierung liefern und wird von Investoren als nächster zentraler Termin nach dem Berichtszeitraum erwartet.
+- BioNTech treibt seine Transformation zu einem Onkologie-fokussierten, "Multi-Produkt"-Unternehmen bis 2030 voran; die Ausgründung der Mitgründer in ein neues mRNA-Unternehmen ist Teil dieser strategischen Neuausrichtung, mit der BioNTech laut eigener Darstellung Kapazitäten für die Weiterentwicklung der Kernpipeline (u.a. Antikörper-Wirkstoff-Konjugate, bispezifische Antikörper, mRNA-Krebsimmuntherapien) freisetzen will. [Quelle 6]
+- Zentraler strategischer Baustein bleibt die im Juni 2025 geschlossene globale Kollaboration mit Bristol Myers Squibb (BMS) zur gemeinsamen Entwicklung und Vermarktung des bispezifischen Antikörpers Pumitamig (BNT327/BMS986545) gegen PD-L1/VEGF-A, u.a. bei kolorektalem Karzinom, kleinzelligem und nicht-kleinzelligem Lungenkrebs sowie triple-negativem Brustkrebs. BMS zahlte eine Vorabsumme von 1,5 Mrd. USD; weitere rund 2,0 Mrd. USD an Jahrestagszahlungen sind ab dem dritten Quartal 2026 bis 2028 vorgesehen, zusätzlich bis zu 7,6 Mrd. USD an potenziellen Meilensteinzahlungen. Die Erlöse aus der BMS-Kollaboration sollen 2026 in etwa auf dem Niveau von 2025 liegen. [Quelle 9]
+- Die im Juni 2025 abgeschlossene Übernahme von CureVac (mRNA-Wirkstoffe gegen Krebs und Infektionskrankheiten) für 1,25 Mrd. USD bleibt Teil der Wachstumsstrategie im mRNA-Bereich; im Berichtszeitraum wurden keine neuen Übernahmen oder Investitionen bekanntgegeben. [Quelle 9]
+- Die neuen internationalen Patentklagen von Arbutus/Genevant zur LNP-Technologie (eingereicht 16.07.2026) stellen ein zusätzliches rechtliches Risiko für das COVID-19-Impfstoffgeschäft von BioNTech/Pfizer dar und könnten laut Marktbeobachtern die Wahrnehmung des bevorstehenden Q2-Berichts am 04.08.2026 beeinflussen. [Quelle 3, 10]
 
 ## Quellen
-
-- [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/21/3330280/0/en/BioNTech-to-Report-Second-Quarter-2026-Financial-Results-and-Corporate-Update-on-August-4-2026.html)
-- [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-report-second-quarter-2026-financial-results-and)
-- [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 (BioSpace)](https://www.biospace.com/press-releases/biontech-to-report-second-quarter-2026-financial-results-and-corporate-update-on-august-4-2026)
-- [How Investors Are Reacting To BioNTech (BNTX) Expanded Global Patent Suits Targeting Its mRNA COVID-19 Vaccines (Simply Wall St)](https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-bntx/biontech/news/how-investors-are-reacting-to-biontech-bntx-expanded-global)
-- [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company (FierceBiotech)](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
-- [BioNTech Founders To Leave Famed mRNA Biotech for New Venture (BioSpace)](https://www.biospace.com/business/biontech-founders-to-leave-famed-mrna-biotech-for-new-venture)
-- [BioNTech Provides Strategic Business Update and Outlines 2026 Areas of Focus at 44th Annual J.P. Morgan Healthcare Conference (biontech.com)](https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/01/biontech-provides-strategic-business-update-and-outlines-2026.html)
-- [2026: A year of reckoning for BioNTech (European Biotechnology Magazine)](https://european-biotechnology.com/latest-news/2026-a-year-of-reckoning-for-biontech/)
-- [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/05/05/3287464/0/en/biontech-announces-first-quarter-2026-financial-results-and-corporate-update.html)
-- [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
-- [BioNTech Releases First Quarter Results for 2026 (PharmExec)](https://www.pharmexec.com/view/biontech-releases-first-quarter-results-2026)
-- [BioNTech Closes Acquisition of CureVac N.V. (investors.biontech.de)](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
-- [BioNTech – Investor Relations (investors.biontech.de)](https://investors.biontech.de/)
+1. [European Commission Authorizes Pfizer and BioNTech XFG-adapted COVID-19 Vaccine in the European Union – BioNTech Investor Relations](https://investors.biontech.de/news-releases/news-release-details/european-commission-authorizes-pfizer-and-biontech-xfg-adapted)
+2. [European Commission Authorizes Pfizer and BioNTech XFG-adapted COVID-19 Vaccine in the European Union – BioNTech.com](https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/07/European-Commission-Authorizes-Pfizer-and-BioNTech-XFG-adapted-COVID-19-Vaccine-in-the-European-Union.html)
+3. [Arbutus Initiates International Patent Infringement Enforcement Actions Against Pfizer and BioNTech – GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/16/3328366/14025/en/Arbutus-Initiates-International-Patent-Infringement-Enforcement-Actions-Against-Pfizer-and-BioNTech-Receives-First-Payment-From-Moderna-Settlement-Agreement-and-Announces-Intent-to.html)
+4. [BioNTech to Report Second Quarter 2026 Financial Results and Corporate Update on August 4, 2026 – GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/21/3330280/0/en/BioNTech-to-Report-Second-Quarter-2026-Financial-Results-and-Corporate-Update-on-August-4-2026.html)
+5. [BioNTech veröffentlicht am 4. August 2026 Ergebnisse für das zweite Quartal 2026 – GlobeNewswire (DE)](https://www.globenewswire.com/news-release/2026/07/21/3330280/0/de/BioNTech-ver%C3%B6ffentlicht-am-4-August-2026-Ergebnisse-f%C3%BCr-das-zweite-Quartal-2026-und-informiert-%C3%BCber-operativen-Fortschritt.html)
+6. [BioNTech and Co-Founders Announce Plan to Pursue Next-Generation mRNA Innovations in Co-Founders-Led New Company – BioNTech Investor Relations](https://investors.biontech.de/news-releases/news-release-details/biontech-and-co-founders-announce-plan-pursue-next-generation)
+7. [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company – Fierce Biotech](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+8. [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update – BioNTech Investor Relations](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
+9. [BioNTech Provides Strategic Business Update and Outlines 2026 Areas of Focus at 44th Annual J.P. Morgan Healthcare Conference – BioNTech Investor Relations](https://investors.biontech.de/news-releases/news-release-details/biontech-provides-strategic-business-update-and-outlines-2026/)
+10. [BioNTech's Oncology Pivot Faces a Legal Crosswind as Q2 Numbers Near – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/biontech-s-oncology-pivot-faces-a-legal-crosswind-as-q2-numbers-near/69835799)
