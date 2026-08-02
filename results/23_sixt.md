@@ -1,60 +1,53 @@
 # Sixt (SIX2.DE)
-_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
+_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
 
 ## Aktuelle Meldungen
-Im Berichtszeitraum wurden keine neuen eigenständigen Ad-hoc-Meldungen oder Pressemitteilungen von Sixt SE veröffentlicht. Die Nachrichtenlage der Woche wird von den Nachwirkungen der in der Vorwoche abgeschlossenen Wachstumsfinanzierung sowie vom laufenden Sommergeschäft geprägt:
-
-- **Starkes Sommergeschäft im Fokus:** Laut Marktkommentar vom 19.07.2026 bleibt die Sixt-Aktie vom starken Sommerreisegeschäft gestützt. Im Kerngeschäft der kurzfristigen Autovermietung (Marke „Sixt rent") ist die Flottenauslastung entscheidend für Umsatz, Flotteneinsatz und Preisniveau. Die Aktie notierte zuletzt bei 86,35 € (Xetra), die Marktkapitalisierung lag bei rund 3,9 Mrd. €.
-- **Nachwirkende Wachstumsfinanzierung:** Am 14.07.2026 (kurz vor dem Berichtszeitraum) hatte Sixt SE eine Benchmark-Anleihe über 500 Mio. € platziert (Fälligkeit Januar 2031, Rating BBB/S&P, Kupon 3,75 %, Orderbuch mehr als 3-fach überzeichnet bei über 1,6 Mrd. €, Spread von 90 Basispunkten – niedrigster Wert der Unternehmensgeschichte). Die Erlöse dienen dem Ausbau der Premium-Flotte, des internationalen Filialnetzes sowie Technologieinvestitionen; dieses Thema prägte weiterhin die Anlegerdiskussion in der Berichtswoche.
-- **Analysteneinschätzungen bleiben positiv:** Am Rand des Berichtszeitraums bzw. kurz zuvor bestätigten mehrere Analysten ihre Kaufempfehlungen: Deutsche Bank (Michael Kuhn) mit Kursziel 89 € (17.07.2026), Jefferies (Constantin Hesse) mit Kursziel 110 € (09.07.2026) sowie DZ Bank mit einem Upgrade von „Halten" auf „Kaufen" (13.07.2026). Der durchschnittliche Analysten-Konsens liegt aktuell bei rund 98 € (Basis: 6 Einschätzungen).
-- Konkrete neue Übernahmen oder Akquisitionen der Sixt SE wurden im Berichtszeitraum nicht bekannt.
+- Im engeren Berichtszeitraum (25.07.–01.08.2026) hat Sixt SE keine eigene Ad-hoc-Meldung oder Pressemitteilung veröffentlicht. Die Nachrichtenlage wird stattdessen von der Vorschau auf die anstehenden Halbjahres-/Q2-Zahlen geprägt.
+- Laut einem Marktbericht vom 29.07.2026 (finanzen.ch/finanzen.net) bereitet sich der Markt auf die Vorlage des Quartalsergebnisses zum zum 30.06.2026 abgelaufenen Quartal vor; Sixt SE wird die Zahlen voraussichtlich am 13.08.2026 veröffentlichen (also kurz nach dem aktuellen Berichtszeitraum).
+- Erste Analystenschätzungen für Q2 2026 (Stand 29.07.2026): durchschnittliches EPS von 2,04 € je Aktie erwartet (Vorjahresquartal: 1,67 €); Umsatz im Schnitt bei rund 1,16 Mrd. € erwartet (+7,25 % ggü. 1,08 Mrd. € im Vorjahresquartal).
+- Für das Gesamtjahr 2026 erwarten 8 Analysten im Schnitt ein EPS von 6,89 € (Vorjahr: 6,08 €) sowie einen Konzernumsatz von rund 4,54 Mrd. € (Vorjahr: 4,28 Mrd. €) – die Erwartungen liegen damit innerhalb bzw. am oberen Rand der von Sixt selbst bestätigten Jahresprognose (Umsatz 4,45–4,60 Mrd. €, EBT-Marge ca. 10 %).
+- Weiterhin im Hintergrund wirkende, etwas außerhalb des engeren Zeitraums liegende strategische Meldung: Im Juni 2026 hatte Sixt Konzessionen für 10 ehemalige Advantage-Rent-a-Car-Standorte an großen US-Flughäfen (u. a. Boston, New York JFK/LaGuardia, Houston, Orlando, Denver, Maui, Honolulu, Las Vegas) übernommen; Co-CEO Alexander Sixt bezeichnete dies als „einen sehr entschlossenen strategischen Schritt hin zum Aufbau eines landesweiten Netzwerks im weltweit größten Automietmarkt".
+- Neue eigenständige Übernahmen, M&A-Transaktionen oder größere Investitionsmeldungen innerhalb des Berichtszeitraums 25.07.–01.08.2026 wurden nicht gefunden.
 
 ## Management
-- Die operative Führung liegt weiterhin bei den Co-CEOs **Alexander Sixt** (verantwortlich für Konzernstrategie, globales Personalwesen, IT sowie PR/Kommunikation und Global Business Services) und **Konstantin Sixt** (verantwortlich für Marketing, internationale Franchise-Entwicklung und SIXT+). Für den Berichtszeitraum 18.–25.07.2026 wurden keine neuen Interviews, Statements oder Personalveränderungen im Management gefunden; das jüngste auffindbare CEO-Interview (Alexander Sixt, fvw.de) datiert auf März 2026.
-- Als jüngste, wenn auch knapp außerhalb des engeren Berichtszeitraums liegende Personalie: Die Katag Aktiengesellschaft – ein Unternehmen mit Nähe zu Aufsichtsratsmitglied Dr. Daniel Terberger – meldete am 09.07.2026 den Kauf von Schuldtiteln der neu emittierten Sixt-Anleihe (ISIN DE000A46Z700) im Volumen von 2 Mio. € (Director's Dealing).
+- Die operative Führung liegt weiterhin unverändert bei den Co-CEOs **Alexander Sixt** (Konzernstrategie, globales Personalwesen, IT, PR/Kommunikation, Global Business Services) und **Konstantin Sixt** (Marketing, internationale Franchise-Entwicklung, SIXT+).
+- Für den konkreten Berichtszeitraum (25.07.–01.08.2026) wurden keine neuen Interviews, öffentlichen Statements oder Personalveränderungen im Management gefunden.
+- Als jüngste auffindbare öffentliche Äußerung von Alexander Sixt bleibt sein Kommentar zur Übernahme der Advantage-Standorte in den USA (Juni 2026) sowie sein Interview zur Geschäftsentwicklung/E-Mobilität mit dem Handelsblatt sowie das Bilanz-Interview mit fvw.de (März 2026) relevant; neuere Wortmeldungen im Berichtszeitraum sind nicht dokumentiert.
 
 ## Finanzielles
-Der nächste reguläre Quartalsbericht (H1/Q2 2026) fällt nicht in den Berichtszeitraum und wird voraussichtlich im August 2026 veröffentlicht; als Referenz weiterhin die zuletzt veröffentlichten Zahlen zu Q1 2026:
+Der reguläre Halbjahres-/Q2-Bericht 2026 fällt nicht in den Berichtszeitraum und wird voraussichtlich erst am 13.08.2026 veröffentlicht. Als Referenz weiterhin die zuletzt veröffentlichten Zahlen zu Q1 2026 sowie erste Analystenschätzungen für Q2/H1 2026:
 
-| Kennzahl | Q1 2026 | Q1 2025 | Veränderung |
-|---|---|---|---|
-| Konzernumsatz | 928,9 Mio. € | – | +12,6 % (währungsbereinigt) |
-| Corporate EBITDA | 67,7 Mio. € | – | +40,2 % |
-| Ergebnis vor Steuern (EBT) | +2,1 Mio. € | −17,6 Mio. € | +19,7 Mio. € |
-| Konzernergebnis | 1,5 Mio. € | −12,6 Mio. € | Rückkehr in die Gewinnzone |
-| Ø Flottengröße (ohne Franchise) | 182.900 Fahrzeuge | – | +8,4 % |
-| Premium-Anteil Flotte | ca. 58 % | ca. 58 % | konstant |
+| Kennzahl | Q1 2026 (zuletzt berichtet) | Veränderung ggü. Vorjahr |
+|---|---|---|
+| Konzernumsatz | 928,9 Mio. € | +12,6 % (währungsbereinigt) |
+| Corporate EBITDA | 67,7 Mio. € | +40,2 % |
+| Ergebnis vor Steuern (EBT) | +2,1 Mio. € | +19,7 Mio. € ggü. −17,6 Mio. € |
+| Konzernergebnis | 1,5 Mio. € | Rückkehr in die Gewinnzone |
+| Ø Flottengröße (ohne Franchise) | 182.900 Fahrzeuge | +8,4 % |
 
-- Jahresprognose 2026 bestätigt: Umsatzrekord zwischen 4,45 und 4,60 Mrd. € sowie eine EBT-Marge im Bereich von 10 %.
-- Dividende von 3,20 € je Stammaktie (Anstieg um 18,5 % gegenüber Vorjahr) wurde am 22.06.2026 ausgezahlt (Ex-Tag 18.06.2026).
-- Wachstumsfinanzierung: Am 14.07.2026 platzierte Anleihe über 500 Mio. € (Kupon 3,75 %, Laufzeit bis Januar 2031, Rating BBB/S&P) zur Finanzierung von Flottenausbau, internationalem Filialnetz und Technologieinvestitionen; Orderbuch mehr als 3-fach überzeichnet.
-- Analystenkonsens (Kursziele): Deutsche Bank 89 €, Jefferies 110 €, DZ Bank „Kaufen"; Durchschnitt ca. 98 € (Basis: 6 Analysteneinschätzungen).
-- Aktienkurs im Berichtszeitraum: rund 86,35 € (Xetra, Stammaktie), Marktkapitalisierung ca. 3,9 Mrd. €.
+**Analystenschätzungen für Q2 2026** (Stand 29.07.2026, Konsens aus 2–3 Analysten): Umsatz ca. 1,16 Mrd. € (+7,25 %), EPS ca. 2,04 € je Aktie (Vorjahr: 1,67 €).
+
+**Analystenschätzungen Gesamtjahr 2026** (Konsens aus 8 Analysten): Umsatz ca. 4,54 Mrd. €, EPS ca. 6,89 € je Aktie (Vorjahr: 6,08 €) – damit im Rahmen der von Sixt bestätigten Jahresprognose (Umsatzrekord 4,45–4,60 Mrd. €, EBT-Marge ca. 10 %).
+
+Zu konkreten Kursbewegungen der Sixt-Aktie innerhalb des engeren Berichtszeitraums (25.07.–01.08.2026) wurden keine spezifischen, tagesaktuellen Meldungen gefunden; als letzter dokumentierter Referenzwert notierte die Aktie Mitte/Ende Juli 2026 im Bereich von rund 86–88 € (Xetra) bei einer Marktkapitalisierung von knapp 3,9 Mrd. €.
 
 ## Strategie & Ausblick
-- Sixt verfolgt 2026 konsequent seine Premiumstrategie mit Investitionen in Technologie und Automatisierung sowie Wachstum in allen regionalen Segmenten – bei bewusst disziplinierter, knapp gehaltener Flottensteuerung, um hohe Auslastung und stabile Profitabilität zu sichern.
-- Wachstumsschwerpunkte bleiben die USA und Europa (ohne Deutschland); für 2026 sind rund 10.000 zusätzliche Elektrofahrzeuge in der Flotte geplant. Das Management äußert sich zugleich kritisch zu verpflichtenden EV-Quoten und verweist auf regional weiterhin unzureichende Ladeinfrastruktur.
-- Herausforderungen bestehen in den Golfstaaten, wo Sixt nur über Franchise-Partner vertreten ist: Dort wird eine spürbar gesunkene Nachfrage beobachtet, weshalb das Management mit rückläufigen Lizenzeinnahmen aus dieser Region rechnet.
-- Branchenweit bleibt die Autovermietung durch hohe Fahrzeugpreise, gestiegene Finanzierungskosten, längere Lieferzeiten für Neuwagen sowie steigende Reparatur- und Instandhaltungskosten unter Margendruck – ein Umfeld, in dem Sixt seine Größe und Bilanzstärke (u. a. durch die neue Anleihe) als Wettbewerbsvorteil positioniert.
-- Die Ende der Vorwoche platzierte 500-Mio.-€-Anleihe schafft zusätzlichen finanziellen Spielraum für den weiteren Ausbau der Premium-Flotte und des internationalen Filialnetzes und unterstreicht auch im Berichtszeitraum den Fokus auf profitables, finanziell abgesichertes Wachstum. Die günstigen Finanzierungskonditionen (niedrigster Risikoaufschlag der Unternehmensgeschichte) sowie die anhaltend positiven Analysten-Kommentare spiegeln ein hohes Investorenvertrauen in Bonität und Geschäftsmodell wider.
+- Sixt bereitet sich auf die Veröffentlichung der Halbjahres-/Q2-Zahlen am 13.08.2026 vor; der Analystenkonsens signalisiert weiteres Umsatz- und Ergebniswachstum gegenüber dem Vorjahr und untermauert damit die Erwartung, dass Sixt seine Jahresprognose (Umsatzrekord 4,45–4,60 Mrd. €, EBT-Marge ca. 10 %) bestätigen bzw. erreichen kann.
+- Strategisch bleibt der Ausbau des US-Marktes ein zentraler Wachstumstreiber: Die im Juni 2026 übernommenen Advantage-Rent-a-Car-Konzessionen an zehn großen US-Flughäfen sollen laut Alexander Sixt den Aufbau eines landesweiten Netzwerks im weltweit größten Automietmarkt vorantreiben.
+- Die Premiumstrategie mit Investitionen in Technologie, Automatisierung und eine disziplinierte, auslastungsorientierte Flottensteuerung bleibt unverändert Kern der Unternehmensausrichtung; die im Juli platzierte 500-Mio.-€-Anleihe (Vorwoche) schafft weiterhin finanziellen Spielraum für Flotten- und Filialnetzausbau.
+- Herausforderungen bestehen laut bisherigen Aussagen weiterhin in einzelnen Franchise-Regionen (u. a. Golfstaaten) sowie branchenweit durch hohe Fahrzeugpreise, gestiegene Finanzierungskosten und Margendruck im Automietmarkt.
+- Für den konkreten Berichtszeitraum liegen keine neuen, über diese fortlaufenden Themen hinausgehenden strategischen Ankündigungen vor.
 
 ## Quellen
-- [Die Sixt-Aktie bleibt vom starken Sommergeschäft gestützt – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/die-sixt-aktie-bleibt-vom-starken-sommergeschaeft-gestuetzt/69802997)
-- [Growth financing: SIXT places EUR 500 million bond – order book more than three times oversubscribed – SIXT SE](https://about.sixt.com/en/ir/growth-financing-sixt-places-eur-500-million-bond-order-book-more-than-three-times-oversubscribed/)
-- [Sixt schließt überzeichnete Platzierung einer 500-Mio.-EUR-Anleihe ab – MarketScreener](https://de.marketscreener.com/boerse-nachrichten/sixt-schliesst-ueberzeichnete-platzierung-einer-500-mio-eur-anleihe-ab-ce7f5edcde8df325)
-- [EQS-News: Sixt SE: Wachstumsfinanzierung: SIXT platziert 500-Mio.-Euro-Anleihe – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-07/69019283-eqs-news-sixt-se-wachstumsfinanzierung-sixt-platziert-500-mio-euro-anleihe-orderbuch-mehr-als-3-fach-ueberzeichnet-022.htm)
-- [Dentons advises banking consortium on €500 million placement of a benchmark corporate bond for SIXT SE](https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2026/july/dentons-advises-banking-consortium-on-500-million-placement-of-a-benchmark-corporate-bond)
-- [Sixt SE: Katag Aktiengesellschaft, buy (Directors' Dealings) – EQS News](https://www.eqs-news.com/news/directors-dealings/sixt-se-katag-aktiengesellschaft-buy/a8e86cc8-96aa-4531-82b5-06eaa40ff1cd_en)
-- [Sixt SE: Katag AG kauft Schuldtitel (ISIN DE000A46Z700) im Volumen von 2 Mio. EUR – Directors' Dealings – MasterTrader Newsticker](https://mastertraders.de/nachrichten/sixt-se-directors-dealings-kauf-schuldtitel-de000a46z700-2m-eur-2026-07-08/)
-- [SIXT mit starkem Jahresauftakt: Umsatz steigt auf 929 Mio. Euro – Ergebnis übertrifft Vorjahr deutlich – IT-Times](https://www.it-times.de/news/sixt-mit-starkem-jahresauftakt-umsatz-steigt-auf-929-mio-euro-ergebnis-uebertrifft-vorjahr-deutlich-181630/)
-- [Sixt zurück in den schwarzen Zahlen – Prognose bestätigt – onvista](https://www.onvista.de/news/2026/05-13-sixt-zurueck-in-den-schwarzen-zahlen-prognose-bestaetigt-0-20-26511441)
-- [Sixt VZ Aktie: Q1-Gewinn bei 2,1 Millionen Euro – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/sixt-vz-aktie-q1-gewinn-bei-2-1-millionen-euro/69792608)
-- [Sixt SE St Kaufen (DZ BANK) 13.07.2026 – finanzen.net](https://www.finanzen.net/analyse/sixt_se_st_kaufen-dz_bank_1090985)
-- [Sixt VZ Aktie: Jefferies sieht 110-Euro-Ziel – kapitalmarktexperten.de](https://www.kapitalmarktexperten.de/sixt-vz-aktie-jefferies-sieht-110-euro-ziel/)
-- [Sixt Prognose 2026 & Kursziel von Analysten – aktien.guide](https://aktien.guide/kursziel/Sixt-DE0007231326)
-- [Sixt Aktie HV-Bericht 2026: Einblicke in die Wachstumsstrategie – abilitato.de](https://abilitato.de/sixt-aktie-hv-bericht-2026-spannende-einblicke-in-die-wachstumsstrategie/)
-- [Sixt VZ: Dividende fällig am 22. Juni 2026 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/sixt-vz-dividende-faellig-am-22-juni-2026/69287680)
-- [Sixt: Growth in Europe and the US is setting a record - against the EV quota in fleets – VISION mobility](https://vision-mobility.de/en/news/sixt-growth-in-europe-and-the-us-is-setting-a-record-against-the-ev-quota-in-fleets-390177.html)
+- [Erste Schätzungen: Sixt SE St stellt Quartalsergebnis zum abgelaufenen Jahresviertel vor (29.07.2026) – finanzen.ch](https://www.finanzen.ch/nachrichten/aktien/erste-schatzungen-sixt-se-st-stellt-quartalsergebnis-zum-abgelaufenen-jahresviertel-vor-1036375171)
+- [Erste Schätzungen: Sixt SE St stellt Quartalsergebnis zum abgelaufenen Jahresviertel vor – finanzen.net](https://www.finanzen.net/nachricht/aktien/erste-schaetzungen-sixt-se-st-stellt-quartalsergebnis-zum-abgelaufenen-jahresviertel-vor-15828841)
+- [SIXT AKTIE Termine | Quartalszahlen | Zwischenbericht – finanzen.net](https://www.finanzen.net/termine/sixt)
+- [Sixt Acquires 10 Former Advantage Locations – Auto Rental News](https://www.autorentalnews.com/news/sixt-acquires-10-former-advantage-locations)
+- [EQS-News: SIXT mit starkem Jahresauftakt: Umsatz steigt auf 929 Mio. Euro – Ergebnis übertrifft Vorjahr deutlich – onvista](https://www.onvista.de/news/2026/05-13-eqs-news-sixt-mit-starkem-jahresauftakt-umsatz-steigt-auf-929-mio-euro-ergebnis-uebertrifft-vorjahr-deutlich-0-37-26511420)
+- [EQS-News: Sixt SE: SIXT mit starkem Jahresauftakt – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-05/68477789-eqs-news-sixt-se-sixt-mit-starkem-jahresauftakt-umsatz-steigt-auf-929-mio-euro-ergebnis-uebertrifft-vorjahr-deutlich-022.htm)
+- [SIXT with a strong start to the year – Pressemitteilung Q1 2026 (PDF) – about.sixt.com](https://about.sixt.com/wp-content/uploads/2026/05/SIXT_Press-Release-Q1-2026.pdf)
 - [Interview zur Bilanz mit CEO Alexander Sixt: „Ohne den Blick auf Chancen funktioniert es nicht" – fvw.de](https://www.fvw.de/touristik/verkehr/interview-mit-alexander-sixt-ohne-den-blick-auf-chancen-funktioniert-es-nicht-259419)
+- [Sixt: Alexander Sixt über E-Mobilität & Herausforderungen für Autovermieter – Handelsblatt](https://www.handelsblatt.com/unternehmen/das-unternehmergespraech-alexander-sixt-im-interview-wir-haetten-gerne-deutlich-mehr-elektroautos/28018534.html)
 - [Newsroom – SIXT SE](https://about.sixt.com/en/newsroom/)
 - [Investor Relations – SIXT SE](https://about.sixt.com/en/investor-relations/)
+- [Sixt SE (SIX2.DE) Stock Price, News, Quote & History – Yahoo Finance](https://finance.yahoo.com/quote/SIX2.DE/)

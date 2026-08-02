@@ -1,56 +1,59 @@
 # Novo Nordisk (NOVO-B.CO)
-_KW30 / 2026 | Zeitraum: 18.07.2026 – 25.07.2026_
+_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
 
 ## Aktuelle Meldungen
-Die Berichtswoche wurde vom eskalierenden Rechtsstreit mit Wettbewerber Eli Lilly sowie vom fortlaufenden Aktienrückkaufprogramm geprägt:
+Die Berichtswoche wurde dominiert von einem gescheiterten Phase-3-Studienergebnis, das den Aktienkurs deutlich belastete, sowie vom fortlaufenden Aktienrückkaufprogramm:
 
-- **Klage gegen Eli Lilly wegen irreführender Werbung:** Am 21. Juli 2026 reichte Novo Nordisk beim US-Bundesgericht für den Distrikt New Jersey Klage gegen Eli Lilly ein. Der Vorwurf: Lilly bewerbe seine GLP-1-Präparate Mounjaro und Zepbound mit vergleichenden Werbeaussagen, die höhere Dosen der eigenen Mittel gezielt mit niedrigeren Dosen von Ozempic und Wegovy vergleichen, ohne auf die neuere, höher dosierte Version von Wegovy hinzuweisen, die eine stärkere Gewichtsreduktion ermöglicht. Novo Nordisk wirft Lilly damit Verstöße gegen US-Bundes- und Landesgesetze zu irreführender Werbung und unlauterem Wettbewerb vor.
-- **Antrag auf einstweilige Verfügung:** Am 24. Juli 2026 legte Novo Nordisk zusätzlich einen Antrag auf eine einstweilige Verfügung nach, um Eli Lilly kurzfristig zu untersagen, die betreffenden Werbekampagnen für seine Adipositas- und Diabetes-Präparate in den USA weiter auszustrahlen. Langfristig fordert Novo Nordisk eine dauerhafte gerichtliche Anordnung, wonach Lilly die vergleichende Werbung plattformübergreifend zurückziehen und eine korrigierende Werbekampagne durchführen muss. Eli Lilly wies die Vorwürfe öffentlich zurück und kündigte an, sich gegen die Klage zu verteidigen; das Unternehmen sieht seine Werbung durch wissenschaftliche Evidenz gedeckt.
-- **Aktienrückkaufprogramm – Update vom 20. Juli 2026:** Novo Nordisk meldete den Stand des laufenden Rückkaufprogramms (Gesamtvolumen bis zu DKK 15 Mrd., Laufzeit 12 Monate ab 4. Februar 2026, ergänzt um ein Teilprogramm mit bis zu DKK 11.200.000.010,45 im Zeitraum 6. Mai 2026 – 1. Februar 2027). Zum Stichtag 17. Juli 2026 wurden seit dem 4. Februar 2026 insgesamt 24.959.179 B-Aktien zu einem Durchschnittskurs von DKK 274,58 zurückgekauft (Transaktionsvolumen: rund DKK 6,85 Mrd.). Damit hält Novo Nordisk insgesamt 42.144.480 eigene B-Aktien als Treasury Shares, entsprechend 0,9 % des Aktienkapitals.
-- **Medicare-Zugang für Wegovy weiterhin im Fokus:** Das zum 1. Juli 2026 gestartete „Medicare GLP-1 Bridge"-Programm, über das Wegovy (Injektion und Tablette) berechtigten Medicare-Versicherten in den USA für 50 USD pro Monat zur Verfügung steht, wirkt in der Berichtswoche fort und bleibt ein wichtiger Absatztreiber für das US-Geschäft.
+- **ZEUS-Studie verfehlt Ziel (31.07.2026):** Novo Nordisk gab bekannt, dass das entzündungshemmende Herz-Kreislauf-Präparat Ziltivekimab in der Phase-3-Studie ZEUS bei Patienten mit atherosklerotischer kardiovaskulärer Erkrankung (ASCVD), chronischer Nierenerkrankung (CKD) und Entzündung keine statistisch signifikante Reduktion schwerer kardiovaskulärer Ereignisse (MACE) gegenüber Placebo zeigte. Damit erleidet Novo Nordisk einen deutlichen Rückschlag bei dem Versuch, die Pipeline über das Kerngeschäft Adipositas/Diabetes hinaus zu diversifizieren.
+- **Kursreaktion:** Die Aktie brach am 31. Juli um rund 9 % ein und beendete damit eine dreimonatige Gewinnserie; auf Monatssicht schloss die Aktie im Juli mit einem Minus von knapp 2 % – der erste Verlustmonat seit März 2026. Neben dem Studienmisserfolg belastete weiterhin der laufende Rechtsstreit mit Eli Lilly die Stimmung.
+- **Positive Pipeline-Nachricht als Gegengewicht:** Denecimig (Mim8) zeigte in der Langzeit-Sicherheits- und Wirksamkeitsauswertung der Phase-3-Studie FRONTIER (Hämophilie A) positive Ergebnisse, vorgestellt auf dem ISTH-Kongress 2026 – ein seltener Lichtblick in einer ansonsten schwierigen Berichtswoche.
+- **Aktienrückkaufprogramm – Update vom 27.07.2026:** Novo Nordisk meldete den weiteren Fortschritt des laufenden Rückkaufprogramms (Gesamtvolumen bis zu DKK 15 Mrd., Laufzeit 12 Monate ab 4. Februar 2026). Das Teilprogramm, gestartet am 6. Mai 2026, hat inzwischen ein Volumen von über DKK 7,1 Mrd. erreicht.
+- **Andauernder Rechtsstreit mit Eli Lilly:** Die Ende Juli eingereichte Klage sowie der Antrag auf einstweilige Verfügung wegen angeblich irreführender Vergleichswerbung von Lilly für Mounjaro/Zepbound gegenüber Ozempic/Wegovy bleiben ein Belastungsfaktor und Gesprächsthema in der Berichtswoche.
+- **Ausblick auf Halbjahreszahlen:** Novo Nordisk wird die Finanzergebnisse für das erste Halbjahr 2026 (H1/Q2) am 5. August 2026 veröffentlichen – unmittelbar nach dem Berichtszeitraum. Analysten erwarten einen Quartalsumsatz von rund DKK 71,5 Mrd. (Vorjahr: DKK 76,9 Mrd.) sowie einen Gewinn je Aktie von rund DKK 5,04 (Vorjahr: DKK 5,96).
 
 ## Management
-CEO Mike Doustdar äußerte sich im Berichtszeitraum (18.–25.07.2026) nicht in neuen Interviews öffentlich; die jüngsten bekannten Aussagen stammen aus dem Juni 2026 (ADA-Konferenz, Bloomberg/Fortune), in denen er Novo Nordisk stärker in Richtung Langlebigkeitsforschung („Longevity") und Ästhetik-Medizin positionierte und die Gewichtsreduktion durch GLP-1-Wirkstoffe langfristig nur als „einen Anwendungsfall unter mehreren" bezeichnete. Zuvor hatte er im Mai 2026 betont, das Unternehmen sei „aktiver denn je" bei der Suche nach Zukäufen und Partnerschaften. Für die Berichtswoche selbst liegen keine neuen Management-Statements, Interviews oder Personalveränderungen vor.
+Für die Berichtswoche (25.07.–01.08.2026) liegen keine neuen öffentlichen Interviews oder Personalveränderungen von CEO Mike Doustdar vor. Die jüngsten bekannten strategischen Aussagen stammen weiterhin aus dem Frühjahr/Frühsommer 2026: Im Mai betonte Doustdar, das Unternehmen sei „aktiver denn je" bei der Suche nach Zukäufen und Geschäftsentwicklungs-Deals; im Juni positionierte er Novo Nordisk auf der ADA-Konferenz zunehmend in Richtung Langlebigkeitsforschung und Ästhetik-Medizin und bezeichnete Gewichtsreduktion langfristig als „nur einen Anwendungsfall unter mehreren". Zum Studienrückschlag bei Ziltivekimab (ZEUS) äußerte sich das Unternehmen offiziell über die Pressemitteilung vom 31.07.2026, ohne dass ein gesondertes CEO-Interview zu diesem Thema vorliegt.
 
 ## Finanzielles
-Für den Berichtszeitraum 18.–25.07.2026 wurden keine neuen Quartalszahlen veröffentlicht; der nächste reguläre Bericht (Q2 2026) wird erst Anfang August 2026 erwartet. Referenz sind weiterhin die zuletzt gemeldeten Q1-2026-Zahlen (Veröffentlichung 6. Mai 2026):
+Für den Berichtszeitraum selbst wurden keine neuen Quartalszahlen veröffentlicht; Referenz bleiben die zuletzt gemeldeten Q1-2026-Zahlen (6. Mai 2026), während die H1/Q2-2026-Zahlen erst am 5. August 2026 – also kurz nach Ende der Berichtswoche – erwartet werden:
 
 | Kennzahl | Q1 2026 | Verlauf |
 |---|---|---|
 | Umsatz (berichtet, konstante Wechselkurse) | DKK 96,8 Mrd. (≈ USD 15,2 Mrd.) | +32 % ggü. Vorjahr |
 | Umsatz (bereinigt, konstante Wechselkurse) | – | −4 % ggü. Vorjahr |
-| Betriebsergebnis (berichtet) | DKK 59,6 Mrd. | +65 % ggü. Vorjahr |
-| Betriebsergebnis (bereinigt) | – | −6 % ggü. Vorjahr |
+| Betriebsergebnis (bereinigt) | DKK 32.858 Mio. | −6 % ggü. Vorjahr |
 | Wegovy-Umsatz | DKK 18,2 Mrd. | +12 % ggü. Vorjahr |
 | Ozempic-Umsatz | – | −8 % ggü. Vorjahr |
 | Adipositas-Segment (bereinigt, konstante Wechselkurse) | – | +22 % ggü. Vorjahr |
+| Operative Marge (bereinigt) | 46,9 % | – |
 
-- Der berichtete Umsatzanstieg wurde maßgeblich durch eine nicht zahlungswirksame Rückstellungsauflösung in Höhe von DKK 26,8 Mrd. (rund USD 4,2 Mrd.) im Zusammenhang mit einer 340B-Regelung begünstigt.
-- Die Jahresprognose 2026 wurde im Zuge der Q1-Zahlen leicht angehoben: Novo Nordisk erwartet nun einen währungsbereinigten Rückgang von bereinigtem Umsatz und Gewinn um 4–12 % (zuvor: 5–13 %).
-- Für 2026 wird ein freier Cashflow von rund USD 6,4 Mrd. erwartet, der sowohl den steigenden Investitionsbedarf (Capex) als auch die Aktionärsrendite (Rückkaufprogramm, Dividende) absichern soll.
-- Die Aktie notierte Anfang Juli 2026 bei rund USD 49 – nach einem Kursrückgang von rund 29 % innerhalb von zwölf Monaten gilt Novo Nordisk mit einem KGV von rund 12 (aktuell) bzw. 14 (Forward) als eine der günstigsten Large-Cap-Aktien im Gesundheitssektor.
+- **Erwartete Q2/H1-2026-Zahlen (Veröffentlichung 05.08.2026):** Analysten rechnen mit einem Quartalsumsatz von rund DKK 71,5 Mrd. (Vorjahr: DKK 76,9 Mrd.) und einem Gewinn je Aktie von rund DKK 5,04 (Vorjahr: DKK 5,96) – ein rückläufiger Trend gegenüber dem Vorjahresquartal.
+- **Kursentwicklung:** Die Aktie fiel am 31.07.2026 um rund 9 % im Zuge der gescheiterten ZEUS-Studie und schloss den Monat Juli mit einem Minus von knapp 2 % – nach drei aufeinanderfolgenden Gewinnmonaten der erste Verlustmonat seit März 2026.
+- **Aktienrückkauf:** Das laufende Teilprogramm (gestartet 6. Mai 2026) hat mit Stand 27.07.2026 ein Volumen von über DKK 7,1 Mrd. erreicht, eingebettet in das übergeordnete Rückkaufprogramm von bis zu DKK 15 Mrd. über 12 Monate ab 4. Februar 2026.
+- Für 2026 wird weiterhin ein freier Cashflow von rund USD 6,4 Mrd. erwartet, der sowohl steigende Investitionen (Capex, u. a. Fertigungskapazitäten) als auch die Aktionärsrendite absichern soll.
 
 ## Strategie & Ausblick
-- Die Klage gegen Eli Lilly markiert eine deutliche Verschärfung des Wettbewerbs im GLP-1-Markt und zeigt, dass Novo Nordisk aktiv gegen die aus seiner Sicht irreführende Positionierung von Mounjaro/Zepbound gegenüber Ozempic/Wegovy vorgeht – ein Versuch, Marktanteile und Preishoheit im umkämpften Adipositas-Segment zu verteidigen.
-- Der fortgesetzte Aktienrückkauf (kumuliert bereits über 42 Mio. eigene B-Aktien) unterstreicht das Vertrauen des Managements in die eigene Bewertung, insbesondere vor dem Hintergrund der zuletzt schwachen Kursentwicklung.
-- Strategisch bleibt CEO Mike Doustdar auf drei Prioritäten fokussiert: Beschleunigung der kommerziellen Execution (u. a. Direct-to-Patient-Vertrieb), Weiterentwicklung der Pipeline über das Kerngeschäft hinaus (Langlebigkeit, Ästhetik, Hämophilie) sowie eine disziplinierte, aber investitionsbereite Kapitalallokation – auch mit Blick auf weitere Zukäufe und Partnerschaften.
-- Die Ausweitung des Medicare-Zugangs für Wegovy seit 1. Juli 2026 sowie der anhaltende globale Rollout der Wegovy-Tablette (u. a. jüngste EU-Zulassung) bleiben zentrale Wachstumstreiber für die zweite Jahreshälfte 2026, während die Q2-Zahlen Anfang August als nächster wichtiger Katalysator gelten.
+- Der Fehlschlag der ZEUS-Studie mit Ziltivekimab ist ein herber Rückschlag für Novo Nordisks Strategie, die Pipeline über das Kerngeschäft Adipositas/Diabetes hinaus in Richtung Herz-Kreislauf-/Entzündungserkrankungen zu erweitern, und dürfte kurzfristig das Vertrauen der Investoren in die Diversifizierungsstrategie dämpfen.
+- Gleichzeitig zeigen positive Zwischenergebnisse bei Denecimig (Hämophilie A) und die anhaltende Fokussierung auf Kernprodukte (Wegovy/Ozempic), dass die Pipeline insgesamt breit aufgestellt bleibt, auch wenn einzelne Wetten – wie zuletzt Ziltivekimab – nicht aufgehen.
+- Der fortgesetzte Aktienrückkauf unterstreicht das Vertrauen des Managements in die eigene Bewertung, insbesondere vor dem Hintergrund des Kursrückgangs nach dem Studienmisserfolg.
+- Der Rechtsstreit mit Eli Lilly bleibt ein Nebenschauplatz, der Ressourcen bindet, aber strategisch den Versuch zeigt, Marktanteile und Preishoheit im umkämpften GLP-1-Markt aktiv zu verteidigen.
+- Nächster wichtiger Katalysator sind die H1/Q2-2026-Zahlen am 5. August 2026, die zusätzlich zu den operativen Kennzahlen auch zeigen dürften, wie das Management auf den jüngsten Pipeline-Rückschlag reagiert und ob die Jahresprognose angepasst wird.
 
 ## Quellen
-- [Novo Nordisk takes action to stop multiple misleading national GLP-1 advertising campaigns by Eli Lilly (GlobeNewswire, 21.07.2026)](https://www.globenewswire.com/news-release/2026/07/21/3330345/0/en/novo-nordisk-takes-action-to-stop-multiple-misleading-national-glp-1-advertising-campaigns-by-eli-lilly.html)
-- [Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising (CNBC, 21.07.2026)](https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html)
-- [Ozempic Maker Novo Nordisk Sues Eli Lilly For Deceptive Advertising (Forbes, 21.07.2026)](https://www.forbes.com/sites/conormurray/2026/07/21/novo-nordisk-sues-glp-1-rival-eli-lilly-for-misleading-advertising/)
-- [Novo Nordisk says it's suing Eli Lilly, accusing it of false advertising (NBC News, 21.07.2026)](https://www.nbcnews.com/business/business-news/novo-nordisk-says-suing-eli-lilly-accusing-false-advertising-rcna588513)
-- [Novo Nordisk sues Eli Lilly over 'misleading' GLP-1 advertising (The Pharmaceutical Journal, 22.07.2026)](https://pharmaceutical-journal.com/article/news/novo-nordisk-sues-eli-lilly-over-misleading-glp-1-advertising)
-- [Novo Nordisk seeks injunction to block Eli Lilly weight loss drug ads (Quartz, 24.07.2026)](https://qz.com/novo-nordisk-eli-lilly-injunction-weight-loss-drug-ads-072426)
-- [Novo Nordisk sues Eli Lilly over alleged false advertising of weight loss drugs (The Hill)](https://thehill.com/policy/healthcare/5981384-novo-nordisk-sues-eli-lilly-advertising/)
-- [Novo Nordisk A/S - share repurchase programme (GlobeNewswire, 20.07.2026)](https://www.globenewswire.com/news-release/2026/07/20/3329723/0/en/novo-nordisk-a-s-share-repurchase-programme.html)
-- [Novo Nordisk A/S - share repurchase programme, July 20, 2026 (StockTitan / SEC 6-K)](https://www.stocktitan.net/sec-filings/NVO/6-k-novo-nordisk-a-s-current-report-foreign-issuer-33cbbf0781fe.html)
+- [Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation (GlobeNewswire, 31.07.2026)](https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/novo-nordisk-provides-update-on-the-zeus-phase-3-trial-in-people-with-ascvd-ckd-and-inflammation.html)
+- [Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its pipeline (CNBC, 31.07.2026)](https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html)
+- [Novo Nordisk inflammation-targeting drug misses mark in heart disease study (STAT News, 31.07.2026)](https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/)
+- [NVO Stock Ends Three-Month Winning Streak As Novo Nordisk's Key Heart Drug Flops, Competition Goes To Court (Yahoo Finance/Investor's Business Daily)](https://finance.yahoo.com/healthcare/articles/nvo-stock-ends-three-month-005225168.html)
+- [Novo Nordisk shares dive after heart medicine fails trial (Whatfinger Business & Money, 31.07.2026)](https://money.whatfinger.com/2026/07/31/novo-nordisk-shares-dive-after-heart-medicine-fails-trial/)
+- [Novo Nordisk A/S - share repurchase programme (GlobeNewswire, 27.07.2026)](https://www.globenewswire.com/news-release/2026/07/27/3333356/0/en/novo-nordisk-a-s-share-repurchase-programme.html)
+- [Novo Nordisk Boosts Treasury Stock as 2026 Share Buyback Passes DKK 7.1 Billion (The Globe and Mail)](https://www.theglobeandmail.com/investing/markets/stocks/NVO/pressreleases/3499722/novo-nordisk-boosts-treasury-stock-as-2026-share-buyback-passes-dkk-71-billion/)
+- [Nordic Earnings Week Kicks Off With Novo Nordisk In Focus (Finimize)](https://finimize.com/content/nordic-earnings-week-kicks-off-with-novo-nordisk-in-focus)
+- [Financial results and events overview (Novo Nordisk Investor Relations)](https://www.novonordisk.com/investors/financial-results.html)
+- [Financial calendar - financial results and investor events (Novo Nordisk)](https://www.novonordisk.com/investors/financial-calendar.html)
 - [Novo Nordisk (NVO) Q1 2026 earnings: Wegovy sales jump (CNBC, 06.05.2026)](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html)
-- [Novo Nordisk's adjusted operating profit reached DKK 32,858 million in Q1 2026 (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
-- [2 Dirt Cheap Healthcare Stocks to Buy in July (24/7 Wall St., 07.07.2026)](https://247wallst.com/investing/2026/07/07/2-dirt-cheap-healthcare-stocks-to-buy-in-july/)
-- [Novo Nordisk CEO Looks Beyond Weight Loss to Longevity, Aesthetics (Bloomberg, 07.06.2026)](https://www.bloomberg.com/news/articles/2026-06-07/novo-nordisk-ceo-looks-beyond-weight-loss-to-longevity-aesthetics)
-- [Novo Nordisk CEO looks beyond weight loss to longevity and aesthetics (Fortune, 07.06.2026)](https://fortune.com/2026/06/07/novo-nordisk-ceo-ozempic-wegovy-glp-weight-loss-longevity-aesthetics/)
+- [Novo Nordisk's adjusted operating profit reached DKK 32,858 million in Q1 2026 (GlobeNewswire, 06.05.2026)](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
 - [Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals (CNBC, 06.05.2026)](https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html)
-- [Big Medicare change slashes weight-loss drug costs for eligible seniors (AOL)](https://www.aol.com/articles/big-medicare-change-slashes-weight-171902319.html)
+- [Novo Nordisk CEO Looks Beyond Weight Loss to Longevity, Aesthetics (Bloomberg, 07.06.2026)](https://www.bloomberg.com/news/articles/2026-06-07/novo-nordisk-ceo-looks-beyond-weight-loss-to-longevity-aesthetics)
+- [Novo Nordisk to Acquire Manufacturing Sites Upon Catalent Acquisition and Acquires Novavax's Czech Republic Site (BioPharm International)](https://www.biopharminternational.com/view/novo-nordisk-to-acquire-manufacturing-sites-upon-catalent-acquisition-and-acquires-novavax-s-czech-republic-site)
+- [List of 13 Acquisitions by Novo Nordisk (Tracxn)](https://tracxn.com/d/acquisitions/acquisitions-by-novo-nordisk/__bnn3hmkfWd53iUiKoUr4kgPzETC7EWpU7U5I0E1VXoc)
 - [Newsroom | Novo Nordisk](https://www.novonordisk.com/news-and-media/latest-news.html)
