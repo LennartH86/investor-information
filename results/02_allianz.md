@@ -1,37 +1,37 @@
 # Allianz (ALV.DE)
-_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
+_KW32 / 2026 | Zeitraum: 01.08.2026 – 08.08.2026_
 
 ## Aktuelle Meldungen
-- Allianz übernimmt das Singapur-Geschäft von HSBC Life für rund 2 Milliarden Euro. Teil der Vereinbarung ist eine 15-jährige exklusive Vertriebspartnerschaft in Singapur; der Deal-Abschluss wird für das erste Halbjahr 2027 erwartet. Im Bieterverfahren setzte sich Allianz gegen die japanischen Wettbewerber Daiichi Life und Sumitomo durch. Bemerkenswert: Ende 2024 war eine geplante Übernahme von Income Insurance in Singapur am politischen Widerstand gescheitert – nun kehrt Allianz mit einer strategisch schlankeren Struktur zurück. [4]
-- Allianz kauft die noch ausstehenden PIMCO-M-Units von Mitarbeitenden zurück; das Gesamtvolumen beläuft sich auf mindestens 1,6 Milliarden US-Dollar. Damit wird das Mitarbeiterbeteiligungsprogramm bei PIMCO beendet. [4]
-- Allianz übernimmt 100 Prozent des portugiesischen Versicherers Caravela; der geschätzte Transaktionswert liegt bei rund 150 Millionen Euro. [4]
-- Ein Bericht vom 30.07.2026 verweist auf die anstehenden Quartalszahlen: Nach dem Asien-Deal (HSBC Life Singapur) sind die Erwartungen der Anleger an die kommenden Zahlen hoch. [6]
-- Am 08.07.2026 veröffentlichte Allianz einen Beitrag zu wachsenden KI-Risiken, mit einem Interview des Schadenexperten Michael Daum, in dem betont wird, dass Unternehmen diese Herausforderungen proaktiv verstehen und managen müssen. [2]
-- Im „3am Report 2026" befragte Allianz 10.000 Menschen in 10 Ländern zu ihren größten persönlichen Sorgen; finanzielle und gesundheitliche Themen stehen 2026 an der Spitze. [2]
+- Am 07.08.2026 veröffentlichte Allianz ihre Quartalsmitteilung zum 2. Quartal / Halbjahr 2026 unter dem Titel „Rekordergebnis und auf Kurs, Ziele zu erreichen". Das operative Ergebnis im zweiten Quartal stieg um 10,6 Prozent auf 4,874 Milliarden Euro – der höchste je erzielte Wert für ein zweites Quartal in der Unternehmensgeschichte und deutlich über den Analystenschätzungen (rund 4,6 Mrd. Euro). [1] [2]
+- Am 05.08.2026 gab Allianz Global Investors (AllianzGI) die Übernahme der Vermögensverwaltungssparte von United Overseas Bank (UOB Asset Management) aus Singapur bekannt. Kaufpreis: 555 Millionen Singapur-Dollar (rund 376 Millionen Euro). Der Abschluss wird für 2027 vorbehaltlich regulatorischer Genehmigungen erwartet – der zweite große Asien-Deal von CEO Oliver Bäte innerhalb weniger Tage. [4] [6]
+- Im Zuge der Quartalszahlen meldete Allianz Restrukturierungsaufwendungen von 643 Millionen Euro (Vorjahr: 152 Mio. Euro), die im Zusammenhang mit der Vorbereitung auf verstärkten KI-Einsatz und die Anpassung von IT-Systemen stehen. [1] [3]
+- Pimco verzeichnete im zweiten Quartal 2026 Netto-Zuflüsse von externen Kunden in Höhe von 31,7 Milliarden Euro, die Schwestergesellschaft Allianz Global Investors verbuchte 7,6 Milliarden Euro an Drittmittelzuflüssen – beide Fondstöchter trugen wesentlich zum Rekordergebnis bei. [1]
 
 ## Management
-- CEO Oliver Bäte sprach in einem Semafor-Interview (03.07.2026) darüber, wie sich Allianz auf das Risiko „großen Chaos'" vorbereitet. Er merkte an, dass Ereignisse, die statistisch „nur alle 20.000 Jahre" auftreten sollten, mittlerweile deutlich häufiger vorkämen. In diesem Zusammenhang verwies er auch auf das bislang stärkste erste Quartal der Unternehmensgeschichte (operatives Ergebnis +6,6 % auf 4,5 Mrd. Euro). [3]
-- Auf der Hauptversammlung am 05.05.2026 hielt Bäte als Vorstandsvorsitzender seinen CEO-Bericht. [3]
-- Beim Weltwirtschaftsforum in Davos (Januar 2026) äußerte sich Bäte im Gespräch mit CNBC zu Netto-Null-Politik sowie zum Umgang von Allianz mit geopolitischen und wirtschaftlichen Risiken durch Diversifizierung. [3]
+- CEO Oliver Bäte kommentierte die Halbjahreszahlen: Die starken Ergebnisse unterstrichen den Erfolg der kundenorientierten Strategie; Investitionen in künstliche Intelligenz, Risikoprävention und intelligentere Lösungen sollten mehr Menschen ermöglichen, sich zu erschwinglichen Preisen zu schützen. [3]
+- Zum Kontext (Ankündigung Ende Juli 2026, weiterhin für den Berichtszeitraum relevant): Aufsichtsrat und Vorstandsmitglied Günther Thallinger haben sich einvernehmlich darauf verständigt, dass sein Mandat zum 31.12.2026 endet; der Vorstand wird dadurch von neun auf acht Mitglieder verkleinert. Andreas Wimmer übernimmt zusätzlich die Verantwortung für die Eigenanlagen der Gruppe (Allianz Investment Management SE). Tomas Kunzmann wird mit seinem Eintritt in den Vorstand zum 01.01.2027 zusätzlich zu Asien-Pazifik (inkl. Indien) auch für Global Health und Nachhaltigkeit (ESG) zuständig sein. [5]
 
 ## Finanzielles
-- Im ersten Quartal 2026 erzielte Allianz ein operatives Rekordergebnis von 4,5 Milliarden Euro, ein Plus von 6,6 Prozent gegenüber dem Vorjahreszeitraum. [5]
-- Der bereinigte Quartalsüberschuss der Anteilseigner stieg um 48,4 Prozent auf 3,8 Milliarden Euro. [5]
-- Das gesamte Geschäftsvolumen betrug 53,0 Milliarden Euro, mit internem Wachstum von 3,5 Prozent. [5]
-- Die annualisierte bereinigte Eigenkapitalrendite (RoE) lag bei 24,2 Prozent. [5]
-- Die Solvency-II-Quote lag bei 221 Prozent, ein Anstieg um 2 Prozentpunkte gegenüber dem Gesamtjahr 2025. [5]
-- Für das Geschäftsjahr 2025 erzielte Allianz ein operatives Ergebnis von 17,4 Milliarden Euro – das höchste in der Unternehmensgeschichte – und bietet eine Dividende von 17,10 Euro je Aktie. [1]
-- Die Allianz-Aktie notierte Mitte Juli 2026 bei rund 423 Euro, deutlich über dem Jahresauftaktkurs. [1]
+- Operatives Ergebnis Q2 2026: 4,874 Milliarden Euro (+10,6 % ggü. Vorjahr) – Rekord für ein zweites Quartal. [1] [2]
+- Operatives Ergebnis 1. Halbjahr 2026: 9,39 Milliarden Euro (+8,6 %) – ebenfalls ein Rekordwert. [3]
+- Konzern-/Nettogewinn Q2 2026: 2,595 Milliarden Euro, ein Rückgang von 8,7 Prozent gegenüber dem Vorjahr und unter der Konsensschätzung von 2,787 Milliarden Euro (u. a. wegen ausgelaufener Sondereffekte). [1]
+- Bereinigter Nettogewinn (Anteilseigner) 1. Halbjahr 2026: 6,4 Milliarden Euro (+15,5 %). [2]
+- Gesamtes Geschäftsvolumen 1. Halbjahr 2026: 98,6 Milliarden Euro, internes Wachstum von 4,3 Prozent; im 2. Quartal allein 21,3 Milliarden Euro (+4,7 % intern). [1] [7]
+- Solvency-II-Quote: 225 Prozent, ein Anstieg um 7 Prozentpunkte gegenüber dem Gesamtjahr 2025 (218 Prozent). [7]
+- Laufendes Aktienrückkaufprogramm über 2,5 Milliarden Euro; die gesamte Kapitalrückführung 2026 (Dividende plus Rückkauf) beläuft sich auf mindestens 5,6 Prozent. [8]
+- Allianz bestätigt das Gesamtjahresziel eines operativen Ergebnisses von 17,4 Milliarden Euro (plus/minus 1 Milliarde Euro) und sieht sich nach dem starken ersten Halbjahr auf Kurs. [1] [3]
 
 ## Strategie & Ausblick
-- Für das Gesamtjahr 2026 strebt Allianz ein operatives Ergebnis von 17,4 Milliarden Euro (plus/minus 1 Milliarde Euro) an; das Unternehmen sieht sich nach dem starken ersten Quartal auf Kurs, dieses Ziel zu erreichen. [1] [5]
-- Die jüngsten Übernahmen (HSBC Life Singapur, Caravela Portugal) und der PIMCO-Rückkauf zeigen eine „Einkaufstour mit System": gezielte Expansion in Asien und Europa sowie Konsolidierung der Eigentümerstruktur bei der Fondstochter PIMCO. [4]
-- Vor der Veröffentlichung der Quartalszahlen (Stand 30.07.2026) sind die Erwartungen der Anleger nach dem Asien-Deal hoch. [6]
+- Mit der UOB-Asset-Management-Übernahme setzt AllianzGI die im Juli begonnene Expansionsstrategie in Südostasien fort (nach dem Erwerb von HSBC Life Singapore); CEO Bäte treibt gezielt das Wachstum in Asien voran. [4] [6]
+- Die hohen Restrukturierungsaufwendungen signalisieren eine strategische Investitionsoffensive in KI und IT-Modernisierung, die kurzfristig auf die Marge drückt, aber langfristig Effizienzgewinne bringen soll. [1] [3]
+- Der Konzern bestätigt trotz des schwächeren Nettogewinns im Quartalsvergleich sein Gesamtjahresziel und sieht sich durch das starke operative Ergebnis und die Rekord-Solvenzquote gut abgesichert. [1] [7]
 
 ## Quellen
-1. [Allianz Aktie 2026: Kurs nahe Rekordhoch – was Anleger jetzt über Kurs, Dividende und Perspektiven wissen müssen](https://www.avronline.de/nachrichten/news-views-markets/allianz-aktie-kurs-2026-entwicklung-prognose-dividende/24916/)
-2. [News | Allianz](https://www.allianz.com/de/mediencenter/news.html)
-3. [How Allianz's CEO prepares for the risk of 'huge havoc' | Semafor](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc)
-4. [Allianz: Nächster Übernahme-Deal fix – kleiner Deal, klare Botschaft (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-07/69179434-allianz-naechster-uebernahme-deal-fix-kleiner-deal-klare-botschaft-124.htm)
-5. [Allianz Quartalszahlen 1Q 2026 | Operatives Rekordergebnis | Allianz](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
-6. [Allianz vor den Zahlen: Asien-Deal trifft auf hohe Erwartungen | ntg24](https://www.ntg24.de/Allianz-vor-den-Zahlen-Asien-Deal-trifft-auf-hohe-Erwartungen-30072026-CT-Aktien)
+1. [Allianz Reports 8.7% Q2 Profit Drop, Maintains 2026 Profit Target (globalbankingandfinance.com)](https://www.globalbankingandfinance.com/allianz-posts-worse-expected-8-7-drop-profit-sticks-2026/)
+2. [Allianz Profit Hits Record as Pimco Sees €32 Billion in Inflows | Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/allianz-profit-hits-record-as-pimco-sees-32-billion-in-inflows)
+3. [Allianz Quartalszahlen 2Q 2026 | Rekordergebnis und auf Kurs Ziele zu erreichen | Allianz](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
+4. [Allianz to Buy UOB Asset Management Unit as CEO Targets Asia | Bloomberg](https://www.bloomberg.com/news/articles/2026-08-05/allianzgi-to-buy-uob-asset-management-to-grow-in-southeast-asia)
+5. [Allianz Aktie: Thallinger verlässt Vorstand zum 31. Dezember 2026 (boerse-express.com)](https://www.boerse-express.com/news/articles/allianz-aktie-thallinger-verlaesst-vorstand-zum-31-dezember-2026-933586)
+6. [Allianz Aktie: AllianzGI kauft in Asien zu (boerse-express.com)](https://www.boerse-express.com/news/articles/allianz-aktie-allianzgi-kauft-in-asien-zu-935750)
+7. [Allianz 6M 2026 Zahlen: Rekordgewinn und 225% Solvenzquote (aktiencheck.de)](https://www.aktiencheck.de/analysen/Artikel-Allianz_6M_2026_Zahlen_Rekordgewinn_und_225_Solvenzquote-20001869)
+8. [Allianz Aktie: 2,5 Milliarden Rückkauf bis Ende 2026 (trading-treff.de)](https://trading-treff.de/trading/allianz-aktie-25-milliarden-rueckkauf-bis-ende-2026)

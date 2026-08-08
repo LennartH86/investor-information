@@ -1,43 +1,36 @@
 # Equinor (EQNR)
-_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
+_KW32 / 2026 | Zeitraum: 01.08.2026 – 08.08.2026_
 
 ## Aktuelle Meldungen
-- Equinor hat am 23.07.2026 die dritte Tranche des Aktienrückkaufprogramms 2026 gestartet, mit einem Volumen von bis zu 1.125 Mio. USD. Die Tranche soll spätestens am 26.10.2026 abgeschlossen sein. Die zweite Tranche wurde bereits am 16.07.2026 mit einem Gesamtvolumen von 375 Mio. USD abgeschlossen.
-- Am 22.07.2026 veröffentlichte Equinor die Ergebnisse für das zweite Quartal 2026 und hielt dazu eine Pressekonferenz ab; der CFO bezeichnete im Rahmen dieser Berichterstattung den europäischen Gasmarkt als "sehr fragil" mit Blick auf Herbst und Winter.
-- Innerhalb des Berichtszeitraums (25.07.–01.08.2026) laufen die Folgeeffekte der Q2-Berichterstattung fort: fortlaufende Marktkommentare zu Produktion, Preisrealisierung und der laufenden Rückkauf-Tranche; eigenständige neue Konzernmeldungen für diesen engeren Zeitraum wurden nicht gefunden – "Keine aktuellen Informationen gefunden" trifft insofern nicht zu, da die Q2-Nachwirkungen (Rückkaufstart, Presseecho) direkt in die Woche hineinreichen.
+- Equinor meldete am 04.08.2026 (SEC Form 6-K / Pressemitteilung) den Fortschritt der dritten Tranche des Aktienrückkaufprogramms 2026: Zwischen dem 27. und 31.07.2026 wurden 660.000 eigene Aktien zu einem gewichteten Durchschnittspreis von 382,2365 NOK je Aktie zurückgekauft, was einer Gesamtsumme von rund 252,28 Mio. NOK entspricht. Die täglichen gewichteten Durchschnittspreise lagen zwischen 373,79 NOK und 388,34 NOK.
+- Der Bestand an eigenen Aktien (Treasury Stock) ist durch die fortlaufenden Rückkäufe weiter gestiegen (zuletzt rund 2,57 % des Grundkapitals, Stand kurz vor dem Berichtszeitraum).
+- Die Dividende für Q2 2026 in Höhe von 0,39 USD je Aktie hat ein Ex-Datum von 14.08.2026 – die Auszahlung fällt damit in die unmittelbare Folgewoche des Berichtszeitraums.
+- Für den 26.08.2026 (14:00–17:00 CEST) ist laut Equinor-Investorenkalender eine weitere Investor-Veranstaltung angekündigt (Details zum genauen Thema lagen zum Zeitpunkt der Recherche noch nicht vor).
+- Eigenständige neue strategische Konzernmeldungen (z. B. zu Explorations- oder Akquisitionsentscheidungen) wurden für den engeren Zeitraum 01.–08.08.2026 nicht gefunden; die Nachrichtenlage der Woche wird von den laufenden Rückkauf-Tranchen dominiert.
 
 ## Management
-- CEO Anders Opedal präsentierte die Q2-Ergebnisse am 22.07.2026 im Rahmen der Pressekonferenz und des Earnings Calls.
-- Opedal äußerte sich am 16.06.2026 im CNBC-Interview ("The Exchange") zu den Auswirkungen des US-Iran-Abkommens auf die Ölindustrie sowie zum steigenden Strombedarf durch künstliche Intelligenz.
-- Gegenüber E&E News (POLITICO) erklärte Opedal, Energieinvestitionen würden zunehmend "politisiert und polarisiert".
-- In einem Interview mit Dagens Næringsliv (Juni 2026) räumte Opedal ein, dass er die konzerneigenen Ziele im Bereich erneuerbare Energien "seit Jahren" nicht mehr für erreichbar hält – ein Hinweis auf die fortgesetzte Priorisierung des Kerngeschäfts Öl und Gas.
+- Keine neuen Management-Interviews oder -Auftritte von CEO Anders Opedal im Berichtszeitraum 01.–08.08.2026 gefunden.
+- Zum Kontext: Opedal präsentierte zuletzt am 22.07.2026 die Q2-Ergebnisse und äußerte sich im Juni 2026 in Interviews mit CNBC und E&E News/POLITICO zu geopolitischen Einflüssen auf Energieinvestitionen sowie zum steigenden Strombedarf durch KI.
 
 ## Finanzielles
-- Q2 2026: Bereinigtes operatives Ergebnis von 11,48 Mrd. USD; operatives Nettoergebnis von 12,99 Mrd. USD; Nettoergebnis von 4,84 Mrd. USD (+267 % ggü. Vorjahresquartal).
-- Bereinigtes Nettoergebnis: 3,22 Mrd. USD, bereinigtes Ergebnis je Aktie (EPS) von 1,33 USD.
-- Gesamtumsatz und sonstige Erträge: 35,18 Mrd. USD (+40 % ggü. Vorjahr, 25,15 Mrd. USD).
-- Operativer Cashflow nach Steuern: 7,68 Mrd. USD, gestützt durch 3 % Produktionswachstum, höhere realisierte Flüssigkeitspreise und starkes Asset-Backed-Trading.
-- Produktion: Äquivalente Gesamtproduktion von 2,165 Mio. Barrel Öläquivalent/Tag (mboe/d), gegenüber 2,096 mboe/d im Vorjahresquartal (+3 %).
-- Der Vorstand beschloss eine Bardividende von 0,39 USD je Aktie für Q2 2026.
-- Dritte Aktienrückkauf-Tranche 2026 gestartet (23.07.2026), Gesamtvolumen bis zu 1.125 Mio. USD.
+- Keine neuen Quartalszahlen im Berichtszeitraum; die nächsten reguläre Zahlen (Q3 2026) werden erst später im Jahr erwartet.
+- Rückkauf-Update vom 04.08.2026: 660.000 Aktien für ca. 252,28 Mio. NOK im Rahmen der dritten Tranche 2026 (Gesamtvolumen der Tranche bis zu 1.125 Mio. USD, gestartet am 23.07.2026, geplantes Enddatum spätestens 26.10.2026).
+- Zur Erinnerung (Kontext aus Q2 2026, veröffentlicht 22.07.2026): bereinigtes operatives Ergebnis 11,48 Mrd. USD, Nettoergebnis 4,84 Mrd. USD (+267 % ggü. Vorjahr), Dividende von 0,39 USD je Aktie (Ex-Datum 14.08.2026).
 
 ## Strategie & Ausblick
-- Auf dem Capital Markets Day 2026 (16.06.2026) bekräftigte Equinor das Ziel, die Produktion bis 2030 auf 2,3 Mio. boe/d zu steigern.
-- Das Unternehmen plant, rund 10 % des Capex in den Ausbau eines integrierten Stromgeschäfts ("integrated power business") zu investieren.
-- Für den Zeitraum 2026–2030 wird ein freier Cashflow (nach Capex und Leasingzahlungen) von rund 20 Mrd. USD erwartet.
-- Equinor strebt ein jährliches Dividendenwachstum je Aktie von über 5 % an.
-- Das für 2026 verdoppelte Aktienrückkaufvolumen (3 Mrd. USD) sowie ein planbarerer Rückkaufrahmen ab 2027 unterstreichen den Fokus auf Kapitalrückführung an Aktionäre.
+- Keine neuen strategischen Ankündigungen im engeren Berichtszeitraum. Die auf dem Capital Markets Day 2026 (16.06.2026) kommunizierten Ziele bleiben unverändert gültig: Produktionssteigerung auf 2,3 Mio. boe/d bis 2030, rund 10 % Capex-Anteil für den Ausbau des integrierten Stromgeschäfts, freier Cashflow von rund 20 Mrd. USD (nach Capex/Leasing) für 2026–2030 sowie ein angestrebtes jährliches Dividendenwachstum je Aktie von über 5 %.
+- Laufende Großprojekte bleiben im Fokus: Rosebank-Feld (UK Nordsee) mit geplantem ersten Öl im vierten Quartal 2026, sowie die weitere Entwicklung von Johan Sverdrup (Phase 4) zur Sicherung von Produktion und Wertschöpfung aus Norwegens größtem Ölfeld.
+- Das verdoppelte Aktienrückkaufvolumen für 2026 (3 Mrd. USD) sowie der planbarere Rückkaufrahmen ab 2027 unterstreichen weiterhin den strategischen Fokus auf Kapitalrückführung an Aktionäre.
 
 ## Quellen
-- [Equinor second quarter 2026 results (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/22/3331065/0/en/Equinor-second-quarter-2026-results.html)
+- [Equinor ASA: Share buy-back – third tranche for 2026 (GlobeNewswire, 28.07./04.08.2026)](https://www.globenewswire.com/news-release/2026/07/28/3333988/0/en/Equinor-ASA-Share-buy-back-third-tranche-for-2026.html)
+- [Equinor repurchases 660,000 shares in 2026 buyback (SEC Form 6-K, StockTitan)](https://www.stocktitan.net/sec-filings/EQNR/6-k-equinor-asa-current-report-foreign-issuer-be740b94ed88.html)
+- [Equinor lifts 2026 buy-back tranche to NOK 1.1bn in latest share repurchases (TipRanks)](https://www.tipranks.com/news/company-announcements/equinor-lifts-2026-buy-back-tranche-to-nok-1-1bn-in-latest-share-repurchases)
+- [Equinor - events (Equinor.com Investor Calendar)](https://www.equinor.com/news-and-media/events)
 - [Equinor second quarter 2026 results (Equinor.com)](https://www.equinor.com/news/equinor-second-quarter-2026-results)
-- [Equinor to commence third tranche of the 2026 share buy-back programme (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/22/3331067/0/en/Equinor-to-commence-third-tranche-of-the-2026-share-buy-back-programme.html)
-- [Equinor Q2 2026 press conference (Equinor.com)](https://www.equinor.com/news-and-media/q2-2026-press-conference)
-- [Equinor net income soars 267% to $4.84bn in Q2 2026 (Offshore Technology)](https://www.offshore-technology.com/news/equinor-net-income-4-84bn-q2-2026/)
-- [Equinor Delivers Strong Q2 2026 Results and Steps Up Capital Returns (The Globe and Mail)](https://www.theglobeandmail.com/investing/markets/stocks/EQNR/pressreleases/3422249/equinor-delivers-strong-q2-2026-results-and-steps-up-capital-returns/)
-- [Equinor Q2 2026 profit rises on strong prices (SEC Form 6-K, StockTitan)](https://www.stocktitan.net/sec-filings/EQNR/6-k-equinor-asa-current-report-foreign-issuer-46f4205e088a.html)
-- [Equinor (EQNR) Q2 2026 Earnings Call Transcript (The Motley Fool)](https://www.fool.com/earnings/call-transcripts/2026/07/22/equinor-eqnr-q2-2026-earnings-call-transcript/)
+- [Equinor second quarter 2026 results (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/07/22/3331065/0/en/equinor-second-quarter-2026-results.html)
+- [Equinor net income soars 267% to $4.84bn in Q2 2026 (Yahoo Finance)](https://finance.yahoo.com/energy/articles/equinor-net-income-soars-267-094337756.html)
+- [Equinor prepares to drill Rosebank field in UK North Sea (World Oil)](https://www.worldoil.com/news/2026/3/12/equinor-prepares-to-drill-rosebank-field-in-uk-north-sea/)
+- [Further development of Johan Sverdrup (Equinor.com, 15.06.2026)](https://www.equinor.com/news/20260615-further-development-johan-sverdrup)
 - [Equinor's Capital Markets Day 2026 (Equinor.com)](https://www.equinor.com/news/20260616-equinor-capital-markets-day-2026)
-- [Equinor Expands 2026 Buyback as Treasury Stake Rises to 2.57% (TipRanks)](https://www.tipranks.com/news/company-announcements/equinor-expands-2026-buyback-as-treasury-stake-rises-to-2-57)
-- [Watch CNBC's full interview with Equinor CEO Anders Opedal (CNBC, 16.06.2026)](https://www.cnbc.com/video/2026/06/16/watch-cnbcs-full-interview-with-equinor-ceo-anders-opedal.html)
-- [Equinor CEO: Energy investments becoming 'politicalized and polarized' (E&E News/POLITICO)](https://www.eenews.net/articles/equinor-ceo-energy-investments-becoming-politicalized-and-polarized/)
+- [Equinor Doubles 2026 Buyback and Bets on Higher Oil and Gas Demand (Yahoo Finance)](https://finance.yahoo.com/energy/articles/equinor-doubles-2026-buyback-bets-035500029.html)

@@ -1,46 +1,38 @@
 # Iberdrola (IBE.MC)
-_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
+_KW32 / 2026 | Zeitraum: 01.08.2026 – 08.08.2026_
 
 ## Aktuelle Meldungen
-- Iberdrola wurde bei den GlobalCapital Bond Awards 2026 als weltweit führender Unternehmensemittent grüner, sozialer und nachhaltiger Anleihen ausgezeichnet und erhielt bei den World Finance Sustainability Awards 2026 den Titel "Europe's Most Sustainable Electricity Company" (Meldung vom 20.07.2026, in der Berichtswoche noch präsent auf der Unternehmens-Newsseite) [Iberdrola News 2026, EuropaWire].
-- Iberdrola meldete für das erste Halbjahr 2026 einen Anstieg der verteilten Strommenge um 6,3 % gegenüber dem Vorjahreszeitraum [Iberdrola Press Room].
-- Die im Rahmen des optionalen Dividendenprogramms "Iberdrola Retribución Flexible" 2026 neu ausgegebenen 98.141.516 Aktien wurden am 28.07.2026 zum Handel zugelassen; der reguläre Handel begann am 29.07.2026, innerhalb der Berichtswoche [Investing.com ES, Iberdrola].
-- Über die bereits in KW30 gemeldete Übernahme des finnischen Netzbetreibers Caruna sowie die Halbjahreszahlen (vorgelegt am 22.07.2026, außerhalb des aktuellen Berichtszeitraums) hinaus wurden in der Woche vom 25.07. bis 01.08.2026 keine neuen wesentlichen Unternehmensmeldungen identifiziert.
+- Iberdrola kündigte über ihre brasilianische Tochtergesellschaft Neoenergia am 07.08.2026 einen Rekord-Investitionsplan von 526 Mio. Euro (3,1 Mrd. Reais) zur Modernisierung und Erweiterung der Stromverteilnetze im Distrito Federal (Brasília) bis 2030 an – der größte Investitionszyklus, den Neoenergia Brasília je durchgeführt hat, mit 118 % mehr Volumen als im vorherigen Zyklus. Der Plan umfasst Bau und Ausbau von fünf Umspannwerken sowie 132 km neue Hochspannungsleitungen und soll die Versorgungsqualität für über 1,3 Mio. Kunden verbessern [Merca2, Forbes España, El Periódico de la Energía, Estrategias de Inversión].
+- Neoenergia wurde im Rahmen des globalen "BrandSustainability 2026"-Index von Kantar als Brasiliens zweitplatziertes Unternehmen insgesamt und als einziges Energieunternehmen des Landes mit "Leader"-Status für Markennachhaltigkeit ausgezeichnet; Meldung im Presseraum weiterhin präsent, ursprünglich vom 21.06.2026, also außerhalb des engeren Berichtszeitraums, aber im Kontext relevant [Iberdrola Presseraum, Atalayar].
+- Über die neue Brasilien-Investition hinaus wurden für den engeren Zeitraum 01.08.–08.08.2026 keine weiteren neuen wesentlichen Unternehmensmeldungen (Kurs- oder CNMV-Meldungen) identifiziert; die CNMV-Recherche ergab keine neuen "hechos relevantes" innerhalb der Berichtswoche.
 
 ## Management
-- Executive Chairman Ignacio Sánchez Galán äußerte sich im Jahresverlauf 2026 mehrfach zur Elektrifizierungsstrategie und Energiesicherheit: im Januar 2026 gegenüber CNBC beim Weltwirtschaftsforum in Davos zur europäischen Energiesicherheit und den Dekarbonisierungszielen 2030, im März 2026 im Interview mit ElEconomista zu den begrenzten Auswirkungen von geopolitischer Krise und Energiekrise auf Iberdrola [CNBC, SolarQuarter].
-- CEO Pedro Azagra kommentierte die Halbjahreszahlen und die Caruna-Übernahme beim Earnings Call am 22.07.2026 und betonte das Netzgeschäft als zentralen Wachstumstreiber sowie die strategische Bedeutung des Markteintritts in Finnland (Ereignis vor dem aktuellen Berichtszeitraum, aber weiterhin relevant für den Kontext der laufenden Woche) [Yahoo Finance H1 2026 Earnings Call Highlights].
-- Für den engeren Zeitraum 25.07.–01.08.2026 wurden keine neuen öffentlichen Wortmeldungen von Galán oder Azagra gefunden.
+- Für den Zeitraum 01.08.–08.08.2026 wurden keine neuen öffentlichen Interviews oder Wortmeldungen von Executive Chairman Ignacio Sánchez Galán oder CEO Pedro Azagra gefunden.
+- Als Kontext: Azagra gab im Mai 2026 der CEO Magazine ein Interview zu strukturellem Nachfragewachstum und Elektrifizierung und äußerte sich Ende Juni 2026 gegenüber Energy Intelligence zur Stabilität und Wettbewerbsfähigkeit erneuerbarer Energien; im Juni 2026 eröffnete er zudem den "Digital Summit 2026" in Madrid zum Thema KI in der Energiewirtschaft, bei dem Iberdrola Investitionen von 1,6 Mrd. Euro in F&E&I bis 2028 bekräftigte [The CEO Magazine, Energy Intelligence, Iberdrola España].
 
 ## Finanzielles
-- Die Halbjahreszahlen 2026 wurden am 22.07.2026 veröffentlicht (kurz vor Beginn des Berichtszeitraums): ausgewiesener Nettogewinn von 4,34 Mrd. Euro (+22 % ggü. H1 2025), bereinigtes EBITDA über 8 Mrd. Euro (+7 %), Investitionen über 7 Mrd. Euro (+24 %) [PV-Tech, Renewables Now, Rigzone].
-- Iberdrola bestätigte im Rahmen dieser Zahlen die Jahresprognose 2026 [Euronext Live, Morningstar].
-- Iberdrola schloss die erste Tranche des Dividendenprogramms "Iberdrola Retribución Flexible" 2026 mit einer Gesamtauszahlung von 722,02 Mio. Euro ab; Zahlung des Ergänzungs- und Ausgleichsdividende erfolgte am 27.07.2026, unmittelbar zu Beginn der Berichtswoche [Investing.com ES].
-- Die Zahlen für die ersten neun Monate 2026 (Q3) werden erst am 21.10.2026 vorgelegt; für die Berichtswoche selbst liegen keine neuen Finanzkennzahlen vor [Iberdrola Financial Calendar].
+- Keine neuen Finanzkennzahlen für die Berichtswoche; die Halbjahreszahlen 2026 (Nettogewinn 4,34 Mrd. Euro, +22 %; bereinigtes EBITDA 8,05 Mrd. Euro, +7 %) wurden bereits am 22.07.2026 veröffentlicht und bleiben aktuellster Stand.
+- Die Zahlen für die ersten neun Monate 2026 (Q3) werden erst am 21.10.2026 vorgelegt.
 
 ## Strategie & Ausblick
-- Die bereits Ende Juli angekündigte Übernahme von 80 % an der finnischen Caruna Group (Eigenkapitalwert rund 2 Mrd. Euro, Gesamtunternehmenswert rund 5 Mrd. Euro) markiert den Markteintritt Iberdrolas in Finnland und bleibt für die Berichtswoche strategisch prägend, auch wenn der Transaktionsabschluss erst für das erste Quartal 2027 erwartet wird [Bloomberg, Enerdata, Carbon Credits].
-- Iberdrola verfolgt weiterhin die strategische Ausrichtung auf regulierte, margenstarke Netzgeschäfte in stabilen Märkten (Großbritannien, USA, Brasilien, künftig Finnland) bei gleichzeitigem Rückzug aus thermischer Erzeugung, finanziert u. a. durch den Verkauf mexikanischer Kraftwerksanlagen [Investing.com/Bloomberg].
-- Laut aktuellem Investorenausblick (Factbook 2026) plant Iberdrola Investitionen von rund 42,2 Mrd. US-Dollar in die Netzinfrastruktur, wovon über 70 % auf Großbritannien und die USA entfallen sollen, um die Asset-Basis bis 2028 um 40 % zu steigern [Factbook 2026].
-- Iberdrola wurde zudem als weltweit erstes Stromunternehmen für sein Management von psychischem und emotionalem Wohlbefinden zertifiziert und hat KI sowie Fachpersonal in mehr als 450 Projekte zur Elektrifizierung integriert [Iberdrola Press Room].
+- Die neue Investition in Brasília unterstreicht Iberdrolas fortgesetzte strategische Priorität auf regulierte Netzinfrastruktur in Kernmärkten (Brasilien, Großbritannien, USA, künftig Finnland via Caruna-Übernahme) als margenstabile Wachstumsquelle.
+- Neoenergia versorgt insgesamt über 40 Mio. Menschen in Brasilien; zwischen 2021 und 2025 sanken Ausfalldauer (-36 %) und Störungshäufigkeit (-43 %) bereits unter die vom Regulierer Aneel gesetzten Grenzwerte, was die operative Basis für den neuen Investitionszyklus bildet.
+- Die bereits Ende Juli angekündigte Übernahme von 80 % an der finnischen Caruna Group (Eigenkapitalwert rund 2 Mrd. Euro) bleibt strategisch prägend; Abschluss wird für Q1 2027 erwartet.
 
 ## Quellen
-- [Iberdrola – Company News 2026](https://www.iberdrola.com/press-room/news/2026)
+- [Merca2 – Iberdrola anuncia una inversión récord en Brasil vía Neoenergia hasta 2030](https://www.merca2.es/2026/08/07/iberdrola-inversion-brasil-neoenergia-2432594/)
+- [Estrategias de Inversión – Iberdrola apuesta por Brasil con una inversión récord de 526 millones de euros en infraestructuras eléctricas](https://www.estrategiasdeinversion.com/actualidad/noticias/empresas/iberdrola-apuesta-por-brasil-con-una-inversion-n-941597)
+- [Forbes España – Iberdrola invertirá 526 millones para modernizar las redes eléctricas del Distrito Federal de Brasil](https://forbes.es/ultima-hora/996310/iberdrola-invertira-526-millones-para-modernizar-las-redes-electricas-del-distrito-federal-de-brasil/)
+- [El Periódico de la Energía – Iberdrola invertirá 526 millones para modernizar las redes eléctricas del Distrito Federal de Brasil](https://elperiodicodelaenergia.com/iberdrola-invertira-526-millones-para-modernizar-las-redes-electricas-del-distrito-federal-de-brasil)
+- [Crónica Vasca (El Español) – Iberdrola invertirá 526 millones para modernizar las redes eléctricas del Distrito Federal de Brasil](https://cronicavasca.elespanol.com/empresas/20260807/iberdrola-invertira-modernizar-electricas-distrito-federal-brasil/1003742785406_0.html)
+- [Revista Ejecutivos – Iberdrola invertirá 526 millones en la red eléctrica de Brasilia](https://ejecutivos.es/noticias/iberdrola-invertira-526-millones-en-la-red-electrica-de-brasilia/)
+- [Iberdrola – Neoenergia é única empresa de energia brasileira reconhecida como líder em sustentabilidade de marca, segundo a Kantar](https://www.iberdrola.com/sala-comunicacao/noticia/detalhe/neoenergia-unica-empresa-energia-brasileira-reconhecida-como-lider-sustentabilidade-marca-kantar)
+- [Atalayar – Neoenergia makes history in Brazil: it is crowned the sole sustainable leader in its sector according to Kantar](https://www.atalayar.com/en/articulo/economy-and-business/neoenergia-makes-history-in-brazil-it-is-crowned-the-sole-sustainable-leader-in-its-sector-according-to-kantar/20260621130000226871.html)
+- [The CEO Magazine – Pedro Azagra, CEO of Iberdrola](https://amp.theceomagazine.com/business/executive-interview-feature/energy-surge-pedro-azagra/)
+- [Energy Intelligence – Iberdrola Touts Security, Stability of Renewables](https://www.energyintel.com/0000019f-2223-dacc-a7bf-aaa3cb570000?view=secondary-register)
+- [Iberdrola España – Digital Summit 2026: Iberdrola Group reaffirms €1.6 billion R&D&I investment through 2028](https://www.iberdrolaespana.com/press-room/news/digital-summit-2026-invest-innovation-electrification-2025-2028)
+- [Iberdrola – Company news 2026](https://www.iberdrola.com/press-room/news/2026)
 - [Iberdrola – 2026 First Half Results Presentation](https://www.iberdrola.com/shareholders-investors/operational-financial-information/results)
-- [PV-Tech – Iberdrola Reports US$4.9 Billion H1 2026 Net Profit as Solar Capacity Increases, but Renewable Generation Falls](https://www.pv-tech.org/iberdrola-reports-h1-2026-net-profit-solar-capacity-increases-renewable-generation-falls/)
-- [Yahoo Finance – Iberdrola SA (IBDRY) H1 2026 Earnings Call Highlights: Strong Profit Growth and Strategic Moves](https://finance.yahoo.com/energy/articles/iberdrola-sa-ibdry-h1-2026-150155441.html)
-- [Euronext Live – Iberdrola Reaffirms 2026 Outlook After First-Half Profit Soars](https://live.euronext.com/en/financial-news/iberdrola-reaffirms-2026-outlook-after-first-half-profit-soars)
-- [Renewables Now – Iberdrola's Reported Net Profit Jumps 22% in H1 2026](https://renewablesnow.com/news/iberdrolas-reported-net-profit-jumps-22-percent-in-h1-2026-1298459/)
-- [EuropaWire – Iberdrola Named Leading Corporate Issuer of Sustainable Bonds and Europe's Most Sustainable Electricity Company](https://news.europawire.eu/iberdrola-named-leading-corporate-issuer-of-sustainable-bonds-and-europes-most-sustainable-electricity-company/eu-press-release/2026/07/20/16/32/11/178224/)
-- [Investing.com ES – Iberdrola cierra su dividendo opcional 2026: pago de 722 millones de euros](https://es.investing.com/news/global-filings/iberdrola-cierra-su-dividendo-opcional-2026-pago-de-722-millones-de-euros-93CH-3757610)
-- [Iberdrola – Iberdrola repartirá, al menos, 0,404 euros por acción de dividendo en julio](https://www.iberdrola.com/sala-comunicacion/noticias/detalle/iberdrola-repartira-0-404-euros-por-accion-dividendo-julio)
-- [Self Bank – Resultados Iberdrola 2T 2026](https://www.selfbank.es/blog/resultados-iberdrola-2t-2026/)
-- [CNBC – Iberdrola CEO: Energy Security and National Security Absolutely Linked (Davos, Januar 2026)](https://www.cnbc.com/video/2026/01/21/iberdrola-ceo-energy-security-and-national-security-absolutely-linked.html)
-- [SolarQuarter – In An Interview With ElEconomista, Ignacio S. Galán Says Geopolitical And Energy Crisis Has Limited Impact On Iberdrola](https://solarquarter.com/2026/03/26/in-an-interview-with-eleconomista-ignacio-s-galan-says-geopolitical-and-energy-crisis-has-limited-impact-on-iberdrola/)
-- [Bloomberg – Iberdrola Agrees to Buy 80% Stake in Caruna Group for €2 Billion](https://www.bloomberg.com/news/articles/2026-07-21/iberdrola-agrees-to-buy-80-stake-in-caruna-group-for-2-billion)
-- [Enerdata – Iberdrola Will Acquire Finnish Power Distributor Caruna for EUR 5bn](https://www.enerdata.net/publications/daily-energy-news/iberdrola-will-acquire-finnish-power-distributor-caruna-eur5bn.html)
-- [Carbon Credits – Iberdrola Expands European Grid Business with €5 Billion Caruna Acquisition](https://carboncredits.com/iberdrola-expands-european-grid-business-with-e5-billion-caruna-acquisition/)
-- [Rigzone – Iberdrola to Buy Caruna for $5.7B](https://www.rigzone.com/news/iberdrola_to_buy_caruna_for_57b-22-jul-2026-184183-article/)
-- [Morningstar – Iberdrola Earnings: 2026 Guidance Confirmed, Acquisition of Caruna for EUR 2 Billion](https://www.morningstar.com/company-reports/1489105-iberdrola-earnings-2026-guidance-confirmed-acquisition-of-caruna-for-eur-2-billion)
 - [Iberdrola – Financial calendar](https://www.iberdrola.com/shareholders-investors/shareholders/shareholders-investors-calendar)
-- [Iberdrola Factbook 2026 (PDF)](https://www.iberdrola.com/documents/20125/41740/Iberdrola_factbook_2026.pdf)
+- [CNMV – Otra información relevante, IBERDROLA, S.A.](https://www.cnmv.es/portal/otra-informacion-relevante/resultado-oir?nif=A-48010615&lang=en)
+- [Bloomberg – Iberdrola Agrees to Buy 80% Stake in Caruna Group for €2 Billion](https://www.bloomberg.com/news/articles/2026-07-21/iberdrola-agrees-to-buy-80-stake-in-caruna-group-for-2-billion)
