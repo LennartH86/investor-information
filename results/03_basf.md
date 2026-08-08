@@ -1,43 +1,40 @@
 # BASF (BAS.DE)
-_KW31 / 2026 | Zeitraum: 25.07.2026 – 01.08.2026_
+_KW32 / 2026 | Zeitraum: 01.08.2026 – 08.08.2026_
 
 ## Aktuelle Meldungen
-- **29.07.2026 – Halbjahresfinanzbericht 2026 veröffentlicht:** BASF legte den vollständigen Halbjahresbericht vor, begleitet von einer Telefonkonferenz für Analysten/Investoren (ab 08:30 Uhr) und einer Pressekonferenz (ab 10:30 Uhr). Bestätigt wurden die bereits am 15.07.2026 gemeldeten vorläufigen Q2-Zahlen.
-- **29.07.2026 – Neues Aktienrückkaufprogramm beschlossen:** Der Vorstand beschloss ein Aktienrückkaufprogramm mit einem Volumen von bis zu 1,0 Mrd. Euro. Start ist im August 2026, Abschluss bis Ende April 2027 geplant.
-- **29.07.2026 – Belegschaft am Stammwerk Ludwigshafen auf tiefstem Stand seit 1954:** Im Zuge der Restrukturierung sank die Zahl der Vollzeitstellen bei der BASF SE in Ludwigshafen im Mai 2026 erstmals seit 1954 unter 30.000. Seit Januar 2024 wurden konzernweit rund 7.000 Stellen abgebaut, allein im ersten Halbjahr 2026 mehr als in den beiden Vorjahren zusammen. Der Anteil hochwettbewerbsfähiger Produktionseinheiten am Standort stieg seit 2024 von 78 % auf 88 %.
-- Größere Einzelmeldungen speziell aus dem engeren Zeitraum 25.07.–01.08.2026 jenseits der Halbjahreszahlen und Restrukturierungsmeldung wurden nicht identifiziert; die Berichtswoche wurde inhaltlich von der Quartalsberichterstattung dominiert.
+- **August 2026 – Start des neuen Aktienrückkaufprogramms:** Das am 29.07.2026 beschlossene Aktienrückkaufprogramm über bis zu 1,0 Mrd. Euro ist im Berichtszeitraum angelaufen. Es läuft bis Ende April 2027 und ist Teil des im September 2024 angekündigten Gesamtpakets über 4 Mrd. Euro im Rahmen der "Winning Ways"-Strategie.
+- **Parallel angekündigter Schuldenabbau im Q3 2026:** Begleitend zum Rückkauf will BASF im dritten Quartal 2026 Anleihen und Darlehen mit einem Nominalvolumen von rund 1,6 Mrd. Euro vorzeitig zurückzahlen. Ziel bleibt der Erhalt des Single-A-Ratings (aktuell stabiler Ausblick bei Fitch, Moody's und S&P im A-Bereich).
+- Über die Fortführung des bereits in KW31 gemeldeten Aktienrückkaufs sowie den angekündigten Schuldenabbau hinaus wurden im engeren Zeitraum 01.08.–08.08.2026 keine weiteren eigenständigen Konzernmeldungen (z. B. neue Übernahmen, Kapitalmarkttage, größere Personalentscheidungen) identifiziert; die Berichtswoche war ruhig und stand im Zeichen der Umsetzung der Ende Juli angekündigten Kapitalmaßnahmen.
+- Am 10.08.2026 (leicht außerhalb des Berichtszeitraums) kündigte BASF Fackeltätigkeit im Werksteil Nord in Ludwigshafen im Zusammenhang mit dem Wiederanfahren eines Steamcrackers nach Reparaturarbeiten an – operative Randnotiz ohne Investorenrelevanz.
 
 ## Management
-- CEO **Dr. Markus Kamieth** kommentierte anlässlich der Vorlage der Halbjahreszahlen (29.07.2026), BASF habe "große Fortschritte bei Restrukturierungen und der Weiterentwicklung des Portfolios" gemacht und verwies auf den Verkauf des Coatings-Geschäfts sowie den fortgesetzten Stellenabbau als Belege für die Umsetzung der Konzernstrategie.
-- Im Rahmen des Earnings Calls zu den H1-2026-Zahlen (29.07.2026) äußerte sich das Management zur angehobenen Jahresprognose und zur operativen Entwicklung der einzelnen Segmente (Details in Transkripten von Investing.com und Seeking Alpha, siehe Quellen).
-- Weitere öffentliche Einzelinterviews von Kamieth speziell aus dem Berichtszeitraum 25.07.–01.08.2026 wurden nicht gefunden; sein jüngstes öffentlichkeitswirksames Statement liegt im Kontext der Halbjahres-Pressekonferenz.
+- Öffentliche Auftritte oder Interviews von CEO Dr. Markus Kamieth speziell aus dem Zeitraum 01.08.–08.08.2026 wurden nicht gefunden. Sein jüngstes öffentlichkeitswirksames Statement bleibt der Kommentar zu den H1-2026-Zahlen vom 29.07.2026 ("große Fortschritte bei Restrukturierungen und der Weiterentwicklung des Portfolios").
+- Kamieth ist seit dem 01.01.2026 zudem Präsident des europäischen Chemieverbands Cefic sowie Chair des International Council of Chemical Associations (ICCA); neue Aktivitäten in dieser Funktion aus dem Berichtszeitraum wurden nicht identifiziert.
+- Keine weiteren Personalveränderungen im Vorstand oder Aufsichtsrat im Berichtszeitraum gefunden.
 
 ## Finanzielles
-- **Q2 2026 (bestätigt im Halbjahresbericht vom 29.07.2026):** Umsatz stieg um 16 % auf 17,2 Mrd. Euro (Q2 2025: 14,8 Mrd. Euro), getrieben durch höhere Preise (+11 %) und höhere Mengen (+7 %), teils kompensiert durch Währungs- (-1 %) und Portfolioeffekte (-1 %). EBITDA vor Sondereinflüssen lag bei rund 2,4 Mrd. Euro und damit deutlich über dem Analystenkonsens (rund 2,1 Mrd. Euro) sowie über dem Vorjahreswert (1,6 Mrd. Euro).
-- **Angehobene Jahresprognose 2026:** BASF erwartet nun ein EBITDA vor Sondereinflüssen zwischen 6,9 und 7,7 Mrd. Euro (zuvor: 6,2 bis 7,0 Mrd. Euro).
-- **Aktienrückkaufprogramm:** Bis zu 1,0 Mrd. Euro, Start August 2026.
-- **Q1 2026 zum Vergleich:** Umsatz von 16,02 Mrd. Euro (Vorjahresquartal: 16,509 Mrd. Euro), EBITDA vor Sondereinflüssen von 2,4 Mrd. Euro (Q1 2025: 2,5 Mrd. Euro).
-- Für das Gesamtjahr 2026 plant BASF ein Investitionsvolumen von rund 3 Mrd. Euro, das unterhalb der Abschreibungen liegen soll; für den Zeitraum 2026–2029 sind Investitionen von rund 13 Mrd. Euro vorgesehen.
+- Keine neuen Quartalszahlen im Berichtszeitraum – die Q2-/H1-2026-Zahlen wurden bereits am 29.07.2026 veröffentlicht (Umsatz 17,2 Mrd. Euro, +16 %; EBITDA vor Sondereinflüssen rd. 2,45 Mrd. Euro; Nettogewinn 4,1 Mrd. Euro, u. a. begünstigt durch den Veräußerungsgewinn aus dem Coatings-Verkauf an Carlyle). Die nächsten Zahlen (Q3 2026) werden im Herbst erwartet.
+- **Angehobene Jahresprognose 2026** bleibt bestehen: EBITDA vor Sondereinflüssen zwischen 6,9 und 7,7 Mrd. Euro.
+- **Kapitalmaßnahmen im Berichtszeitraum:** Start des bis zu 1,0-Mrd.-Euro-Aktienrückkaufs im August 2026 sowie geplante vorzeitige Rückzahlung von Anleihen/Darlehen mit Nominalvolumen von rund 1,6 Mrd. Euro im dritten Quartal 2026 – beides Ausdruck der verbesserten Bilanzstärke nach Abschluss des Coatings-Verkaufs.
+- Zwischen November 2025 und Juni 2026 wurden im Rahmen des Vorgängerprogramms bereits Aktien im Wert von rund 1,5 Mrd. Euro zurückgekauft; 31.600.261 Aktien (rd. 3,5 % des Grundkapitals) sollen eingezogen werden.
 
 ## Strategie & Ausblick
-- Die Kombination aus angehobener Jahresprognose, neuem Aktienrückkaufprogramm und fortschreitendem Stellenabbau signalisiert, dass BASF den eingeschlagenen Restrukturierungs- und Effizienzkurs trotz operativer Verbesserung konsequent fortsetzt statt zu lockern.
-- Der zum 30.06.2026 abgeschlossene Verkauf des Coatings-Geschäfts an Carlyle (Unternehmenswert 7,7 Mrd. Euro, Cash-Zufluss von rund 5,8 Mrd. Euro vor Steuern, verbleibende 40-%-Beteiligung an der neuen Gesellschaft Surventis) bleibt zentraler Werttreiber für die Bilanzstärke und stützt indirekt auch das neue Rückkaufprogramm.
-- Der massive Stellenabbau in Ludwigshafen (Belegschaft erstmals seit 1954 unter 30.000) unterstreicht den strukturellen Umbau des europäischen Kernstandorts hin zu wettbewerbsfähigeren, fokussierteren Produktionseinheiten.
-- BASF bleibt auf Kurs seines mehrjährigen Konzernumbaus mit Fokus auf Kerngeschäfte, Portfoliobereinigung und Kapitaldisziplin; Investoren und Analysten reagierten trotz der starken Zahlen teils verhalten ("Sell on the News"-Muster bereits bei den vorläufigen Zahlen Mitte Juli sichtbar).
+- Die im Berichtszeitraum begonnene Umsetzung von Aktienrückkauf und Schuldenabbau bestätigt den bereits in KW31 skizzierten Kurs: BASF nutzt die durch den Coatings-Verkauf gewonnene Bilanzstärke gezielt für Kapitalrückführung an Aktionäre bei gleichzeitiger Sicherung des Single-A-Ratings, statt die Mittel primär in neue Investitionen zu lenken.
+- Die Kombination aus Rückkauf, Schuldenabbau und dem laufenden Stellenabbau in Ludwigshafen unterstreicht den Fokus des Managements auf Kapitaldisziplin und Bilanzqualität im weiteren Jahresverlauf 2026.
+- Für das Gesamtjahr 2026 bleibt BASF bei einem geplanten Investitionsvolumen von rund 3 Mrd. Euro (unterhalb der Abschreibungen); mittelfristig (2026–2029) sind rund 13 Mrd. Euro vorgesehen. Größere neue Übernahmen oder Investitionsentscheidungen wurden im Berichtszeitraum nicht bekannt gegeben.
 
 ## Quellen
-- [BASF-Gruppe legt vorläufige Zahlen für das 2. Quartal 2026 vor und hebt Ergebnisausblick für das Gesamtjahr 2026 an](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-132)
-- [BASF stärkt Position im Markt und macht große Fortschritte bei Restrukturierungen und Portfoliomaßnahmen](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-123)
-- [BASF hebt Prognose nach starkem zweiten Quartal an (mrn-news.de)](https://www.mrn-news.de/2026/07/29/ludwigshafen-germany-basf-hebt-jahresprognose-an-deutliche-ergebnissteigerung-im-zweiten-quartal-2026-647646/)
-- [BASF: Gute Zahlen im zweiten Quartal 2026 (Gabot.de)](https://www.gabot.de/ansicht/basf-gute-zahlen-im-zweiten-quartal-2026-442193.html)
-- [BASF-Stammwerk schrumpft – Belegschaft auf tiefstem Stand seit 1954 (onvista)](https://www.onvista.de/news/2026/07-29-basf-stammwerk-schrumpft-belegschaft-auf-tiefstem-stand-seit-1954-0-20-26537271)
-- [BASF macht Fortschritte bei Restrukturierungen (CHEManager)](https://chemanager-online.com/de/news/basf-macht-fortschritte-bei-restrukturierungen)
-- [BASF and works council near agreement on new Ludwigshafen site pact (MarketScreener)](https://www.marketscreener.com/news/basf-and-works-council-near-agreement-on-new-ludwigshafen-site-pact-ce7d50dbd889f12c)
-- [Transcript: BASF SE, H1 2026 Earnings Call, Jul 29, 2026 (MarketScreener)](https://de.marketscreener.com/kurs/aktie/BASF-SE-6443227/news/Transcript-BASF-SE-H1-2026-Earnings-Call-Jul-29-2026-53888202/)
-- [Earnings call transcript: BASF lifts 2026 outlook after strong Q2, shares edge up (Investing.com)](https://www.investing.com/news/transcripts/earnings-call-transcript-basf-lifts-2026-outlook-after-strong-q2-shares-edge-up-93CH-4818789)
-- [BASF SE (BASFY) Q2 2026 Press Conference Call Transcript (Seeking Alpha)](https://seekingalpha.com/article/4926830-basf-se-basfy-q2-2026-press-conference-call-transcript)
-- [BASF SE (BASFY) Q2 2026 Earnings Call Transcript (Seeking Alpha)](https://seekingalpha.com/article/4926745-basf-se-basfy-q2-2026-earnings-call-transcript)
-- [BASF verkauft Coatings-Sparte an Carlyle für 7,7 Milliarden Euro (chemie.de)](https://www.chemie.de/news/1189114/basf-verkauft-coatings-sparte-an-carlyle-fuer-7-7-milliarden-euro.html)
-- [BASF und Carlyle schließen Coatings-Transaktion ab](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-113)
-- [BASF Coatings wird Surventis: Deal mit Carlyle abgeschlossen (process.vogel.de)](https://www.process.vogel.de/basf-coatings-wird-surventis-carlyle-transaktion-abgeschlossen-a-70e4b7c088421f1e956f940211077a46/)
-- [BASF Aktie: Halbjahresbericht am 29. Juli (Finanztrends)](https://www.finanztrends.de/news/basf-aktie-halbjahresbericht-am-29-juli/)
+- [BASF to begin new share buyback program in August 2026 (BASF.com)](https://www.basf.com/global/en/media/news-releases/2026/07/p-26-142)
+- [BASF SE: BASF to begin new share buyback program in August 2026 (EQS News)](https://www.eqs-news.com/news/ad-hoc/basf-se-basf-to-begin-new-share-buyback-program-in-august-2026/5aaf3291-f0ab-4219-a588-b7cae402ce53_en)
+- [BASF SE: BASF to begin new share buyback program in August 2026 (MarketScreener)](https://www.marketscreener.com/news/basf-se-basf-to-begin-new-share-buyback-program-in-august-2026-ce7f51d2dd8df125)
+- [BASF startet im August 2026 neues Aktienrückkaufprogramm – Aktie im Fokus (wallstreet-online.de)](https://www.wallstreet-online.de/nachricht/21163475-basf-august-2026-aktienrueckkaufprogramm-aktie-fokus)
+- [BASF SE: BASF beginnt im August 2026 neues Aktienrückkaufprogramm (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/ad-hoc-mitteilungen/basf-se-de000basf111/69894942)
+- [BASF Aktie: 1,6 Milliarden Schuldenabbau im Q3 2026 (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/basf-aktie-1-6-milliarden-schuldenabbau-im-q3-2026/69920206)
+- [BASF Aktie: 1,6 Milliarden Schulden im Q3 tilgen (boerse-express.com)](https://www.boerse-express.com/news/articles/basf-aktie-16-milliarden-schulden-im-q3-tilgen-935298)
+- [BASF startet neues Aktienrückkaufprogramm und baut Schulden ab (finanzen.ch)](https://www.finanzen.ch/nachrichten/aktien/basf-startet-neues-aktienrueckkaufprogramm-und-baut-schulden-ab-aktie-im-blick-1036376545)
+- [BASF-Aktie: Konzern greift durch – Milliarden für Aktienrückkäufe und harter Sparkurs (finanzen.net)](https://www.finanzen.net/nachricht/aktien/verschuldung-reduziert-basf-aktie-milliarden-offensive-chemieriese-startet-neues-rueckkaufprogramm-15829547)
+- [BASF startet Aktienrückkauf über 1 Milliarde Euro (mrn-news.de)](https://www.mrn-news.de/2026/07/29/ludwigshafen-basf-startet-neues-aktienrueckkaufprogramm-ueber-bis-zu-eine-milliarde-euro-647640/)
+- [BASF kündigt Fackeltätigkeit im Werksteil Nord an (Die Rheinpfalz)](https://www.rheinpfalz.de/lokal/ludwigshafen_artikel,-basf-k%C3%BCndigt-fackelt%C3%A4tigkeit-im-werksteil-nord-an-_arid,5917370.html)
+- [BASF-Gruppe legt vorläufige Zahlen für das 2. Quartal 2026 vor und hebt Ergebnisausblick für das Gesamtjahr 2026 an (BASF.com)](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-132)
+- [BASF stärkt Position im Markt und macht große Fortschritte bei Restrukturierungen und Portfoliomaßnahmen (BASF.com)](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-123)
+- [BASF CEO to Become Next CEFIC President (CHEManager)](https://chemanager-online.com/en/news/basf-ceo-to-become-next-cefic-president)
