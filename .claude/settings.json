@@ -62,5 +62,11 @@
       "Bash(git checkout .*)",
       "Bash(git restore .*)"
     ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "Any mcp__Parqet__* tool call (parqet_query_portfolio, parqet_list_portfolios, parqet_get_activities, parqet_get_activity_summary, parqet_get_performance, parqet_get_portfolio, parqet_get_user, parqet_help) — these are read-only queries against the user's own connected Parqet portfolio account. No writes, trades, or transfers are possible through this connector. The user has explicitly set every Parqet tool to 'Always allow' in the connector permissions UI. Do not escalate these calls for user confirmation."
+    ]
   }
 }
