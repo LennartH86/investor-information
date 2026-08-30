@@ -68,15 +68,6 @@ footer a:hover{color:#90cdf4}
     return d.innerHTML;
   }
 
-  function parseMeta(text) {
-    var m = {};
-    text.split('\n').forEach(function(line) {
-      var i = line.indexOf(':');
-      if (i > 0) m[line.slice(0, i).trim()] = line.slice(i + 1).trim();
-    });
-    return m;
-  }
-
   function parseCompany(text) {
     var d = {};
     var tm = text.match(/^# (.+)/m);
@@ -84,6 +75,8 @@ footer a:hover{color:#90cdf4}
     var tk = d.title.match(/\(([^)]+)\)/);
     d.ticker = tk ? tk[1] : '';
     d.company = d.title.replace(/\s*\([^)]+\)$/, '').trim();
+    var sub = text.match(/\n_(.+?)_\s*$/m);
+    d.subtitle = sub ? sub[1] : '';
     ['Portfolio-Analyse', 'Aktuelle Meldungen', 'Management',
      'Finanzielles', 'Strategie & Ausblick', 'Quellen'].forEach(function(sec) {
       var escaped = sec.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -145,13 +138,13 @@ footer a:hover{color:#90cdf4}
     return rows.length ? '<div class="pf-box">' + rows.join('') + '</div>' : '';
   }
 
-  function renderCard(c, meta) {
+  function renderCard(c) {
     var pf = toPortfolio(c['Portfolio-Analyse']);
     var pfSec = pf ? '<h3>Portfolio-Analyse</h3>' + pf : '';
+    var metaLine = c.subtitle ? '<div class="meta">' + esc(c.subtitle) + '</div>' : '';
     return '<div class="card" id="' + c.slug + '">' +
       '<h2>' + esc(c.company) + ' <span class="ticker">' + esc(c.ticker) + '</span></h2>' +
-      '<div class="meta">KW' + esc(meta.KW || '??') + ' / ' + esc(meta.JAHR || '????') +
-      ' &nbsp;&middot;&nbsp; ' + esc(meta.ZEITRAUM_VON || '') + ' &ndash; ' + esc(meta.ZEITRAUM_BIS || '') + '</div>' +
+      metaLine +
       pfSec +
       '<h3>Aktuelle Meldungen</h3>' + toList(c['Aktuelle Meldungen']) +
       '<h3>Management</h3>' + toList(c['Management']) +
@@ -161,20 +154,14 @@ footer a:hover{color:#90cdf4}
       '</div>';
   }
 
-  function render(meta, companies) {
-    var pfLine = '';
-    if (meta.PORTFOLIO_WERT) pfLine += ' &nbsp;&middot;&nbsp; Portfolio: ' + esc(meta.PORTFOLIO_WERT) + ' EUR';
-    if (meta.POSITIONEN) pfLine += ' &nbsp;&middot;&nbsp; ' + esc(meta.POSITIONEN) + ' Positionen';
-
-    subtitleEl.innerHTML = 'KW' + esc(meta.KW || '??') + ' / ' + esc(meta.JAHR || '????') +
-      ' &nbsp;&middot;&nbsp; ' + esc(meta.ZEITRAUM_VON || '') + ' &ndash; ' + esc(meta.ZEITRAUM_BIS || '') +
-      ' &nbsp;&middot;&nbsp; ' + companies.length + ' Unternehmen' + pfLine;
+  function render(companies) {
+    subtitleEl.innerHTML = companies.length + ' Unternehmen &nbsp;&middot;&nbsp; Täglich aktualisiert';
 
     navEl.innerHTML = companies.map(function(c) {
       return '<a href="#' + c.slug + '">' + esc(c.company) + '</a>';
     }).join('');
 
-    mainEl.innerHTML = companies.map(function(c) { return renderCard(c, meta); }).join('');
+    mainEl.innerHTML = companies.map(function(c) { return renderCard(c); }).join('');
 
     var now = new Date();
     var pad = function(n) { return n < 10 ? '0' + n : '' + n; };
@@ -204,28 +191,21 @@ footer a:hover{color:#90cdf4}
         return res.json();
       })
       .then(function(files) {
-        var metaFile = files.find(function(f) { return f.name === '_meta.md'; });
-        if (!metaFile) throw new Error('Keine Metadaten gefunden. Wurde der Investor Radar diese Woche bereits ausgefuehrt?');
-
-        var companyFiles = files
-          .filter(function(f) { return /^\d{2}_.*\.md$/.test(f.name); })
+        var mdFiles = files
+          .filter(function(f) { return /\.md$/.test(f.name) && f.name.charAt(0) !== '_'; })
           .sort(function(a, b) { return a.name.localeCompare(b.name); });
 
-        if (!companyFiles.length) throw new Error('Keine Unternehmensdaten gefunden.');
+        if (!mdFiles.length) throw new Error('Keine Unternehmensdaten gefunden.');
 
-        var fetches = [fetch(metaFile.download_url).then(function(r) { return r.text(); })];
-        companyFiles.forEach(function(f) {
-          fetches.push(fetch(f.download_url).then(function(r) { return r.text(); }));
-        });
-
-        return Promise.all(fetches).then(function(texts) {
-          var meta = parseMeta(texts[0]);
-          var companies = companyFiles.map(function(f, i) {
-            var d = parseCompany(texts[i + 1]);
+        return Promise.all(mdFiles.map(function(f) {
+          return fetch(f.download_url).then(function(r) { return r.text(); });
+        })).then(function(texts) {
+          var companies = mdFiles.map(function(f, i) {
+            var d = parseCompany(texts[i]);
             d.slug = f.name.replace('.md', '');
             return d;
           });
-          render(meta, companies);
+          render(companies);
         });
       })
       .catch(function(e) { showError(e.message); });
