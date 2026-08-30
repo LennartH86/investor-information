@@ -1,49 +1,48 @@
 # Allianz (ALV.DE)
-_KW32 / 2026 | Zeitraum: 01.08.2026 – 08.08.2026_
+_KW35 / 2026 | Zeitraum: 23.08.2026 – 30.08.2026_
 
 ## Portfolio-Analyse
 - **Position:** 6 Aktien
 - **Kaufkurs (Ø):** 367,45 EUR
-- **Aktueller Kurs:** 435,30 EUR
-- **Marktwert:** 2.611,80 EUR
-- **Unrealisierter G/V:** +391,79 EUR (+17,65%)
-- **Portfolioanteil:** 1,60%
+- **Aktueller Kurs:** 452,45 EUR
+- **Marktwert:** 2714,70 EUR
+- **Unrealisierter G/V:** +494,69 EUR (+22,28%)
+- **Portfolioanteil:** 1,68%
 - **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Die Allianz-Aktie notiert nahe Rekordniveau und hat den Kaufkurs seit Erstkauf im Dezember 2025 deutlich um +17,65% übertroffen, gestützt durch ein Rekord-Halbjahresergebnis (operativer Gewinn +8,6% auf 9,4 Mrd. EUR) und starke Mittelzuflüsse bei PIMCO. Angesichts der bestätigten Jahresprognose (17,4 Mrd. EUR operativer Gewinn ±1 Mrd.), laufender werthaltiger Zukäufe (PIMCO-Komplettübernahme, HSBC Life Singapore, UOB Asset Management) und weiterhin soliden Fundamentaldaten erscheint ein Halten bzw. selektives Aufstocken auf Kursrücksetzer sinnvoll; angesichts des bereits hohen Kursniveaus spricht nichts für kurzfristiges Nachkaufen zu aktuellen Höchstkursen.
+- **Bewertung:** Die Allianz-Aktie notiert nahe ihrem 52-Wochen-Hoch und wird durch ein operatives Rekordergebnis im 2. Quartal 2026 (4,874 Mrd. EUR, +10,6% ggü. Vorjahr) sowie ein laufendes Aktienrückkaufprogramm gestützt; das Unternehmen bestätigt die Jahresprognose von 17,4 Mrd. EUR operativem Ergebnis (±1 Mrd. EUR). Bei einem Buchgewinn von +22,28% seit Erstkauf und intakter operativer Dynamik erscheint ein Halten der Position sinnvoll, eine Aufstockung könnte bei Rücksetzern geprüft werden, sofern keine akuten Bewertungsbedenken (KGV/KBV lagen in den Suchergebnissen nicht konkret vor) bestehen.
 
 ## Aktuelle Meldungen
-- Q2-2026-Ergebnisse am 07.08.2026 veröffentlicht: operativer Rekordgewinn von 4,874 Mrd. EUR (+10,6% ggü. Vorjahresquartal), höchster je erzielter Wert für ein zweites Quartal in der Unternehmensgeschichte.
-- Konzern-Nettogewinn im Q2 dagegen rückläufig: -8,7% auf 2,595 Mrd. EUR (verfehlt Analystenkonsens von 2,787 Mrd. EUR), u. a. wegen ausgelaufener Sondereffekte.
-- Gesamtes Geschäftsvolumen im H1 2026 bei 98,6 Mrd. EUR (+4,3% internes Wachstum); im Q2 allein 21,3–45,6 Mrd. EUR je nach Abgrenzung, mit +4,7–5,7% Wachstum.
-- Pimco verzeichnete im Quartal 31,7 Mrd. EUR an Netto-Zuflüssen von externen Kunden, die Schwestereinheit Allianz Global Investors 7,6 Mrd. EUR.
-- Restrukturierungsaufwendungen von 643 Mio. EUR im Quartal im Zusammenhang mit IT-Assets im Zuge verstärkter KI-Nutzung.
+- Q2 2026: Operatives Rekordergebnis von 4,874 Mrd. EUR (+10,6% YoY), deutlich über Analystenerwartungen (~4,6 Mrd. EUR erwartet); Nettogewinn lag jedoch unter Vorjahr.
+- Gesamtgeschäftsvolumen im ersten Halbjahr 2026: 98,6 Mrd. EUR, organisches Wachstum von 4,3%.
+- Solvency-II-Kapitalquote zur Jahresmitte 2026 bei 225% (7 Prozentpunkte höher als Ende 2025).
+- Aktie notierte Mitte/Ende August 2026 nahe dem 52-Wochen-Hoch (ca. 438–445 EUR), gestützt durch starke Q2-Zahlen und laufenden Rückkauf.
+- Im Rahmen des laufenden Aktienrückkaufprogramms wurden vom 10.–14.08.2026 215.946 Aktien zurückgekauft.
 
 ## Management
-- Der Aufsichtsrat und Günther Thallinger haben sich einvernehmlich darauf geeinigt, dass sein Mandat im Vorstand zum 31.12.2026 endet.
-- Andreas Wimmer übernimmt zusätzlich die Verantwortung für die Allianz Investment Management SE.
-- Tomas Kunzmann wird zum 01.01.2027 in den Vorstand berufen und übernimmt zusätzlich die Bereiche Global Health und Sustainability; der Vorstand wird von neun auf acht Mitglieder verkleinert.
-- CEO Oliver Bäte äußerte sich in mehreren Interviews (u. a. Monocle, Semafor) zu geopolitischen Risiken, unterpreistem Risiko in Private-Equity-Portfolios sowie hohen deutschen Gesundheitskosten; der Börsenwert der Allianz sei in den vergangenen vier Jahren um rund 150% auf ca. 180 Mrd. USD gestiegen.
+- Der Aufsichtsrat und Günther Thallinger (Vorstandsmitglied) haben sich einvernehmlich darauf verständigt, dass sein Mandat zum 31.12.2026 endet.
+- CEO Oliver Bäte äußerte sich 2026 in mehreren Interviews (u.a. Semafor, CNBC, Monocle) zu geopolitischen Risiken, Diversifikationsstrategie und der Belastbarkeit der sozialen Sicherungssysteme; auf der Hauptversammlung im Mai 2026 hielt er die CEO-Rede zum Geschäftsjahr 2025.
+- Bäte nahm zudem am Q2-2026-Earnings-Call teil und kommentierte die Halbjahreszahlen.
 
 ## Finanzielles
-- Bereinigter Quartalsüberschuss der Anteilseigner im Q2 2026: +15,5% auf 6,4 Mrd. EUR (laut einer Quelle) bzw. -12,7% auf 2,6 Mrd. EUR (laut anderer Quelle je nach Kennzahlenabgrenzung – Quellenlage uneinheitlich, siehe Quellen).
-- Operatives Ergebnis erreichte im H1 2026 bereits 54% der Jahresziel-Mitte.
-- Q1 2026 markierte mit 4,5 Mrd. EUR operativem Gewinn (+6,6% ggü. Vorjahr) das bislang stärkste erste Quartal der Unternehmensgeschichte.
-- Jahresprognose 2026 bestätigt: operativer Gewinn von 17,4 Mrd. EUR, Bandbreite ±1,0 Mrd. EUR.
+- Operatives Ergebnis Q1 2026: 2,4 Mrd. EUR (Vorjahr 2,2 Mrd. EUR) – Rekordauftakt, entspricht 27% des Mittelwerts der Jahresprognose.
+- Operatives Ergebnis Q2 2026: 4,874 Mrd. EUR – höchster je erzielter Wert für ein zweites Quartal in der Unternehmensgeschichte, getragen von allen drei Sparten (Schaden/Unfall, Leben/Kranken, Asset Management mit PIMCO/AllianzGI).
+- Jahresausblick 2026 bestätigt: operatives Ergebnis von 17,4 Mrd. EUR (±1 Mrd. EUR).
+- Verwaltetes Vermögen für Versicherungskunden per 30.06.2026: rund 791 Mrd. EUR; ca. 97 Mio. Privat- und Firmenkunden weltweit.
 
 ## Strategie & Ausblick
-- Fortgesetzte Konsolidierung im Asset Management: Komplettübernahme von PIMCO (verbleibende 4,4% für ca. 1,4 Mrd. EUR; Gesamtbewertung PIMCO 31,8 Mrd. EUR).
-- Expansion in Asien: Übernahme von HSBC Life Singapore für rund 2 Mrd. EUR inkl. langfristiger Vertriebspartnerschaft mit HSBC (Abschluss voraussichtlich H1 2027) sowie Übernahme von UOB Asset Management für ca. 376 Mio. EUR (Abschluss voraussichtlich 2027).
-- Kleinere Zukäufe im Versicherungsgeschäft: vollständige Übernahme des portugiesischen Versicherers Caravela (Transaktionswert ca. 150 Mio. EUR).
-- Unternehmen bereitet sich strategisch auf verstärkten KI-Einsatz vor (IT-Restrukturierung), was kurzfristig Kosten verursacht, aber langfristig Effizienzgewinne verspricht.
+- Allianz Global Investors vereinbarte am 05.08.2026 die Übernahme von UOB Asset Management (Singapur) für rund 555 Mio. SGD (ca. 376 Mio. EUR); dadurch steigt das in Asien verwaltete Vermögen von AllianzGI auf über 170 Mrd. EUR. Der Abschluss wird für 2027 erwartet, vorbehaltlich regulatorischer Genehmigungen.
+- Zusätzlich wurde im Juli 2026 die Übernahme von HSBC Life Singapore inkl. eines 15-jährigen exklusiven Vertriebsabkommens mit HSBC Singapur angekündigt.
+- Beide Transaktionen unterstreichen die strategische Fokussierung auf Wachstum im asiatisch-pazifischen Raum, insbesondere im Asset-Management- und Lebensversicherungsgeschäft.
+- Das Unternehmen setzt sein Aktienrückkaufprogramm fort, was als Signal für das Vertrauen des Managements in die mittelfristigen Aussichten gewertet wird.
 
 ## Quellen
 - [Allianz Results 2Q 2026 | Record result and well on track to achieve targets | Allianz](https://www.allianz.com/en/mediacenter/news/media-releases/financials/260807-2q-2026-earnings-release.html)
 - [Allianz Quartalszahlen 2Q 2026 | Rekordergebnis und auf Kurs Ziele zu erreichen | Allianz](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
-- [Allianz Profit Hits Record as Pimco Sees €32 Billion in Inflows - Bloomberg](https://www.bloomberg.com/news/articles/2026-08-07/allianz-profit-hits-record-as-pimco-sees-32-billion-in-inflows)
-- [Allianz Reports 8.7% Q2 Profit Drop, Maintains 2026 Profit Target](https://www.globalbankingandfinance.com/allianz-posts-worse-expected-8-7-drop-profit-sticks-2026/)
-- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich | Cash.](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
 - [Allianz Quartalszahlen 1Q 2026 | Operatives Rekordergebnis | Allianz](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
+- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich | Cash.](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
+- [Allianz Global Investors accelerates growth path in Asia Pacific with agreement to acquire UOB Asset Management | Allianz](https://www.allianz.com/en/investor_relations/announcements/ir_announcements/260805.html)
+- [Allianz Global Investors buys Singapore's UOB Asset Management for S$555 million](https://www.asiaasset.com/corporates/allianz-global-investors-buys-singapores-uob-asset-management-for-s555-million/)
+- [Allianz's €1.4 Billion PIMCO Buyout and Asia Push Set the Stage for Friday's Earnings Reveal](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/allianz-s-1-4-billion-pimco-buyout-and-asia-push-set-the-stage-for/69920633)
+- [Allianz stock holds close to 52-week high as Q2 2026 operating result hits record](https://www.ad-hoc-news.de/boerse/news/corporate-news/allianz-stock-holds-close-to-52-week-high-as-q2-2026-operating-result-hits/69976642)
 - [How Allianz's CEO prepares for the risk of 'huge havoc' | Semafor](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc)
-- [Allianz Aktie: Übernahme von HSBC Life Singapore - Börse Global](https://www.boerse-global.de/allianz-aktie-uebernahme-von-hsbc-life-singapore/815356)
-- [Allianz Aktie: 1,4 Milliarden für 95 Prozent Pimco - Börse Express](https://www.boerse-express.com/news/articles/allianz-aktie-14-milliarden-fuer-pimco-anteile-936337)
-- [Allianz Aktie: 376 Millionen für UOB Asset Management - Finanztrends](https://www.finanztrends.de/news/allianz-aktie-376-millionen-fuer-uob-asset-management/)
+- [CEO Report at the Annual General Meeting 2026 of Allianz SE | Allianz](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html)

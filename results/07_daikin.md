@@ -1,53 +1,57 @@
 # Daikin Industries (6367.T)
-_KW32 / 2026 | Zeitraum: 01.08.2026 – 08.08.2026_
+_KW35 / 2026 | Zeitraum: 23.08.2026 – 30.08.2026_
 
 ## Portfolio-Analyse
 - **Position:** 16 Aktien
 - **Kaufkurs (Ø):** 141,52 EUR
-- **Aktueller Kurs:** 123,18 EUR
-- **Marktwert:** 1.970,88 EUR
-- **Unrealisierter G/V:** -308,88 EUR (-13,55%)
-- **Portfolioanteil:** 1,20%
+- **Aktueller Kurs:** 112,40 EUR
+- **Marktwert:** 1798,40 EUR
+- **Unrealisierter G/V:** -481,36 EUR (-21,11%)
+- **Portfolioanteil:** 1,11%
 - **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Daikin meldete für das per 31.03.2026 abgeschlossene Geschäftsjahr Rekordwerte bei Umsatz (+5,5% YoY auf ¥5.015 Mrd.) und operativem Gewinn (+3,3% auf ¥415 Mrd.), im laufenden Q3-FY2026 (bis 31.12.2025) wuchs der Umsatz nur noch um 2,0% bei rückläufigem operativem Gewinn (-3,4%), was auf Margendruck (u.a. Rohstoffe/Wechselkurse) hindeutet. Der Kursrückgang seit Kauf (-13,55%) bei bislang keinen erhaltenen Dividenden macht die Position aktuell klar defizitär; angesichts der soliden operativen Substanz, des neuen 5-Jahres-Strategieplans "FUSION30" und laufender Aktienrückkäufe erscheint ein Halten mit Beobachtung der Margenentwicklung sinnvoller als ein Verkauf zum aktuellen Kurstief – eine Aufstockung sollte erst bei erkennbarer Margenstabilisierung erwogen werden.
+- **Bewertung:** Daikin hat im Geschäftsjahr 2025/26 (bis 31.03.2026) Rekordwerte bei Umsatz (+5,5% auf ¥5.015 Mrd.) und operativem Gewinn (+3,3% auf ¥415 Mrd.) erzielt, dennoch notiert die Aktie deutlich unter dem eigenen Einstandskurs – der Kursrückgang scheint stärker durch Marktbewertung/Yen-Effekte und die neue Mittelfriststrategie "FUSION30" getrieben zu sein als durch operative Schwäche. Angesichts solider Fundamentaldaten, eines strategischen Wachstumsfokus (Rechenzentrumskühlung, Klimatisierung) und fehlender bisheriger Dividendenerträge erscheint ein Halten der Position sinnvoll, eine Aufstockung könnte für risikobereite Anleger bei weiterer Stabilisierung des operativen Geschäfts interessant sein; eine Reduzierung ist aus fundamentaler Sicht aktuell nicht zwingend geboten.
 
 ## Aktuelle Meldungen
-- Daikin wurde beim "2026 National Commendation for Invention" mit dem "Prize of the Chairman of the Japan Institute of Invention and Innovation (JIII)" ausgezeichnet.
-- Gründung eines Joint Ventures mit NEXTY Electronics zur Softwareentwicklung für Klimaanlagensysteme in Thailand.
-- Daikin ist als Climate Group Gold Partner der Climate Week NYC 2026 beigetreten, um Themen wie Energiesicherheit und Resilienz voranzutreiben.
-- Für August 2026 selbst liegen laut Recherche keine gesonderten Pressemitteilungen vor; die jüngsten offiziellen Meldungen stammen aus Juni 2026 (R&D-Tochtergesellschaft in Indien, AHR Expo 2026) bzw. Mai 2026 (Strategieplan FUSION30, Aktienrückkaufprogramm).
+- Daikin Applied hat im Juli 2026 (bekanntgegeben im August) eine neue Führungsspitze berufen: Yu Nishiwaki als President & CEO, James Moe als Chief Operating Officer und Hirokazu Hirao als Chief Operating Officer of Manufacturing.
+- Am 07.08.2026 veröffentlichte Daikin die zweite Ausgabe der "Daikin World Air Survey": Von 1.200 befragten Klimaanlagenbesitzern in 12 Städten weltweit gaben 86,5% an, ihre Region sei im Vergleich zu vor fünf Jahren heißer geworden; 59,1% vermieden wegen der Hitze zeitweise Aktivitäten im Freien.
+- Daikin ist als Gold Partner der Climate Week NYC 2026 beigetreten, um Themen wie Energiesicherheit und Resilienz voranzutreiben.
+- Daikin Applied hat den Spatenstich für ein neues, mit 30 Mio. USD dotiertes "Solutions & Technical Institute" zur Ausbildung von HVAC-Fachkräften vorgenommen.
+- Daikin wurde beim "National Commendation for Invention 2026" mit dem Preis des Vorsitzenden des Japan Institute of Invention and Innovation (JIII) ausgezeichnet.
+- Daikin und NEXTY Electronics haben ein Joint Venture zur Softwareentwicklung für Klimaanlagensysteme in Thailand gegründet.
 
 ## Management
-- Masanori Togawa ist Chairman of the Board und CEO von Daikin Industries, Naofumi Takenaka ist President und COO.
-- Bei der Präsentation der Finanzergebnisse für das Geschäftsjahr FY2025 sowie des Strategieplans FUSION30 am 12.05.2026 führte Togawa in die Ergebnisse ein, Takenaka stellte Details zu Finanzzahlen, FUSION30, Kapitalpolitik und Organisationsstruktur vor.
-- Bei der Tochtergesellschaft Daikin Applied gab es einen Führungswechsel: Yu Nishiwaki wurde zum 01.07.2026 neuer President und CEO, James Moe zum Chief Operating Officer und Hirokazu Hirao zum Chief Operating Officer of Manufacturing ernannt.
+- CEO und Chairman of the Board ist weiterhin Masanori Togawa (seit Juni 2024).
+- Togawa präsentierte am 12.05.2026 die Finanzergebnisse für das Geschäftsjahr bis 31.03.2026 sowie den neuen strategischen Mittelfristplan "FUSION30".
+- Katsuyuki Sawai, Senior Executive Officer und zuständig für Sustainability Promotion, gab im Rahmen der Climate Week NYC ein Interview zu Daikins Nachhaltigkeitsstrategie.
+- Bei der Tochtergesellschaft Daikin Applied gab es im Sommer 2026 einen Führungswechsel an der Spitze (siehe "Aktuelle Meldungen").
 
 ## Finanzielles
-- **FY2025 (Geschäftsjahr bis 31.03.2026):** Nettoumsatz ¥5.015.036 Mio. (+5,5% YoY), operativer Gewinn ¥414.991 Mio. (+3,3% YoY), Gewinn den Anteilseignern zurechenbar ¥275.229 Mio. (+4,0% YoY), ordentlicher Gewinn ¥408.171 Mio. (+11,4% YoY) – jeweils Rekordwerte.
-- **Q3 FY2026 (9 Monate bis 31.12.2025):** Umsatz ¥3,666 Bio. (+2,0% YoY, ca. USD 23,4 Mrd.), operativer Gewinn ¥307,9 Mrd. (-3,4% YoY, ca. USD 2,0 Mrd.), Nettogewinn ¥195,4 Mrd. (+4,6% YoY).
-- Daikin hob die Umsatzprognose für das Gesamtjahr auf ¥4,920 Bio. an (+1,7% ggü. vorheriger Prognose), senkte jedoch die Prognose für den operativen Gewinn auf ¥413,0 Mrd. (-5,1%).
-- Laufendes Aktienrückkaufprogramm gemäß Mitteilung "Notice Regarding the Acquisition of Own Shares".
+- Geschäftsjahr 2025/26 (bis 31.03.2026): Nettoumsatz stieg um 5,5% auf ¥5.015.036 Mio. (Rekordwert), operativer Gewinn stieg um 3,3% auf ¥414.991 Mio. (Rekordwert), Gewinn den Anteilseignern zurechenbar wuchs um 4,0% auf ¥275.229 Mio.
+- 9-Monats-Zeitraum (April–Dezember 2025, Q3 GJ2026): Umsatz stieg um 2,0% auf ¥3,666 Bio., operativer Gewinn sank jedoch um 3,4% auf ¥307,9 Mrd. – Belastungen durch Zölle und schwächere Nachfrage in einzelnen Regionen.
+- Nettogewinn im 9-Monats-Zeitraum stieg dennoch um 4,6% auf ¥195,4 Mrd.
+- Daikin hat die Umsatzprognose für das Gesamtjahr auf ¥4,920 Bio. angehoben (+1,7%), die Prognose für den operativen Gewinn hingegen auf ¥413,0 Mrd. gesenkt (-5,1%) – strategische Preismaßnahmen und Kostensenkungen sollen Tarif- und Nachfrageeffekte abfedern.
+- Konkrete aktuelle Kennzahlen zu KGV/KBV oder Dividendenrendite wurden in der Recherche nicht gefunden.
 
 ## Strategie & Ausblick
-- Neuer 5-Jahres-Strategieplan "FUSION30" für die Geschäftsjahre 2026–2030, vorgestellt am 12.05.2026, mit Fokus auf Finanzkennzahlen, Kapitalpolitik und Organisationsstruktur.
-- Deutlicher Investitionsschwerpunkt auf Data-Center-Kühllösungen: u.a. Übernahmen von DDC Solutions (Hochdichte-Kühlschränke für Rechenzentren), Chilldyne (Negativdruck-Flüssigkühlung für KI-Rechenzentren) und Alliance Air sowie ein $163-Mio.-Investment in ein R&D-Testlabor für HVAC-Innovationen im Data-Center-Bereich (Daikin Applied).
-- Weitere M&A-Aktivität 2026: u.a. Investition in Asuene ($42-Mio.-Series-D-Runde, 22.07.2026) sowie diverse kleinere Übernahmen (insgesamt 17 Akquisitionen laut Tracxn-Übersicht, u.a. Anh Nguyen Trading Technical Service).
-- Expansion der R&D-Kapazitäten durch neue Tochtergesellschaft in Indien (Haryana) sowie Präsenz auf der AHR Expo 2026 mit neuen Hochleistungsinnovationen.
-- Engagement in Nachhaltigkeitsthemen (Climate Week NYC 2026) unterstreicht strategischen Fokus auf Energieeffizienz und Klimatechnologie als Wachstumsfeld.
+- Mit "FUSION30" hat Daikin im Mai 2026 einen neuen strategischen Mittelfristplan formuliert, der die langfristige Ausrichtung des Konzerns bis in die 2030er Jahre absteckt.
+- Starker Fokus auf das Wachstumsfeld Rechenzentrumskühlung: Übernahmen von Chilldyne (negative-pressure Flüssigkeitskühlung für KI-Rechenzentren, November 2025) und DDC Solutions (Hochdichte-Kühlschränke für Rechenzentren) sowie eine Investition von 163 Mio. USD in ein neues R&D-Testlabor für HVAC-Innovationen im Datacenter-Bereich.
+- Weitere Zukäufe von Daikin Applied (u. a. Alliance Air) untermauern die Wachstumsstrategie im nordamerikanischen Markt.
+- Daikin investierte zudem am 22.07.2026 in die Series-D-Finanzierungsrunde (42 Mio. USD) des Start-ups Asuene, was auf ein wachsendes Engagement im Bereich Klima-/Nachhaltigkeitstechnologie hindeutet.
+- Insgesamt zeigt Daikin eine klare Ausrichtung auf Energieeffizienz, Dekarbonisierung und die Erschließung neuer Wachstumsmärkte (Data Center Cooling), was die langfristige Investmentthese stützt.
 
 ## Quellen
 - [Daikin Global | News](https://www.daikin.com/news)
 - [Daikin Global | Press Releases](https://www.daikin.com/press/2026)
 - [Daikin Global | Press Releases | Daikin Formulates Strategic Management Plan "FUSION30"](https://www.daikin.com/press/2026/20260512_6)
-- [Daikin Global | Press Releases | Daikin Establishes India-Based R&D Subsidiary](https://www.daikin.com/press/2026/20260626)
-- [Daikin Global | Press Releases | Financial Results for the Third Quarter Ended December 31, 2025](https://www.daikin.com/press/2026/20260204)
-- [Daikin Global | Press Releases | Notice Regarding the Acquisition of Own Shares](https://www.daikin.com/press/2026/20250512_4)
+- [Daikin Applied Powers Next-Gen Hyperscale Data Centers with End-to-End Cooling Solutions](https://www.daikinapplied.com/news/news/daikin-applied-is-powering-the-next-generation-of-hyperscale-data-centers--with-comprehensive--end-to-end-cooling-solutions)
+- [Daikin Industries,Ltd. (DKILF) Q1 2026 Earnings Call Transcript](https://seekingalpha.com/article/4810242-daikin-industries-ltd-dkilf-q1-2026-earnings-call-transcript)
+- [Daikin World Air Survey 2026: How people are adapting to heat](https://www.daikin-ce.com/en_us/press-releases/2026/daikin-world-air-survey-2026.html)
 - [Daikin Applied Names Yu Nishiwaki as President and CEO](https://www.prnewswire.com/news-releases/daikin-applied-names-yu-nishiwaki-as-president-and-ceo-james-moe-as-chief-operating-officer-hirokazu-hirao-as-chief-operating-officer-of-manufacturing-302815299.html)
-- [Daikin Industries : Transcript (Presentation/Q&A session) | MarketScreener](https://www.marketscreener.com/news/daikin-industries-transcript-presentation-q-a-session-i-9-ce7f5bd2df8ef021)
-- [Daikin Industries (6367) Q4 2026 Summary | Quartr](https://quartr.com/events/daikin-industries-ltd-6367-q4-2026_ojd1zpWS)
-- [Daikin Industries,Ltd. 2026 Q4 - Results - Earnings Call Presentation | Seeking Alpha](https://seekingalpha.com/article/4906745-daikin-industries-ltd-2026-q4-results-earnings-call-presentation)
-- [Daikin Industries (6367.T) Reports Q3 FY2026 Results | BigGo Finance](https://finance.biggo.com/news/jpx_tdnet_140120260204546821)
-- [Presentation of Financial Results for FY2025, May 12, 2026 (PDF)](https://www.daikin.com/-/media/Project/Daikin/daikin_com/investor/data/kessan/2026/4Q_financial_results_en-pdf.pdf)
-- [List of 17 Acquisitions by Daikin (Jul 2026) - Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-daikin/__4C3XXzDMkzNn6ty9BJevlYSYcp0u-7sJFaeX5N1XDZ8)
+- [Biography of Masanori Togawa | Corporate Information | Daikin Global](https://www.daikin.com/corporate/overview/summary/directors/modals/togawa)
+- [Climate Week Special Interview: Daikin's Vision for a Sustainable Future](https://www.northamerica-daikin.com/news/climate-week-special-interview-delivering-comfort-and-supporting-decarbonization-goals-together-daikins-vision-for-a-sustainable-future)
+- [Daikin Global | Press Releases | Financial Results for the Fiscal Year Ended March 31, 2026](https://www.daikin.com/press/2026/20260512_5)
+- [Daikin Industries (6367.T) Reports Q3 FY2026 Results — BigGo Finance](https://finance.biggo.com/news/jpx_tdnet_140120260204546821)
 - [Daikin Applied Invests in Long-Term Customer Care and Innovation with Two Acquisitions](https://www.daikinapplied.com/news/news/daikin-applied-invests-in-long-term-customer-care-and-innovation-with-two-acquisitions)
+- [Daikin Global | Press Releases | Daikin Applied Expands Data Center Offering with Acquisition of Chilldyne](https://www.daikin.com/press/2025/20251105_1)
 - [Daikin Global | Press Releases | Daikin Applied Invests $163M in Advanced R&D Test Lab](https://www.daikin.com/press/2025/20251209)
+- [List of 17 Acquisitions by Daikin (Jul 2026) - Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-daikin/__4C3XXzDMkzNn6ty9BJevlYSYcp0u-7sJFaeX5N1XDZ8)
