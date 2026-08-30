@@ -2,14 +2,21 @@
 
 ## Rahmenbedingungen
 - Repo: `/home/user/investor-information`
-- Branch: wird automatisch von Claude Code vergeben (`claude/...`)
+- Direkt auf Default Branch arbeiten (kein Feature Branch)
 - Max. **6 parallele Agents** (Rate-Limit-Schutz)
 - Token-Budget: sparsam planen – Gesamtablauf vorausdenken
-- Branch muss im Abschluss auf Default Branch gemerged werden
+- Website aktualisiert sich automatisch (client-side, kein Build nötig)
 
 ---
 
-## Schritt 0 – Parqet-Portfolio abfragen
+## Schritt 0 – Default Branch auschecken + Parqet-Portfolio abfragen
+
+```bash
+REPO=/home/user/investor-information
+DEFAULT=$(git -C $REPO remote show origin | grep 'HEAD branch' | awk '{print $NF}')
+git -C $REPO checkout "$DEFAULT"
+git -C $REPO pull origin "$DEFAULT"
+```
 
 Portfolio-Daten abrufen mit `mcp__Parqet__parqet_query_portfolio`:
 ```
@@ -62,9 +69,10 @@ POSITIONEN: [Anzahl aktiver Einzelaktien nach Filterung]
 ```
 
 ```bash
-git add results/_meta.md
-git commit -m "Meta: Recherchezeitraum KW[XX]-[JAHR] + Portfolio"
-git push
+REPO=/home/user/investor-information
+git -C $REPO add results/_meta.md
+git -C $REPO commit -m "Meta: Recherchezeitraum KW[XX]-[JAHR] + Portfolio"
+git -C $REPO push origin HEAD
 ```
 
 ---
@@ -74,10 +82,11 @@ git push
 Alle `results/[0-9][0-9]_*.md` Dateien löschen (NICHT `_meta.md`), damit keine veralteten Dateien von der Vorwoche übrig bleiben, falls sich das Portfolio geändert hat.
 
 ```bash
-find results/ -name '[0-9][0-9]_*.md' -delete
-git add -u results/
-git commit -m "Clean: Alte Ergebnisse entfernt"
-git push
+REPO=/home/user/investor-information
+find $REPO/results/ -name '[0-9][0-9]_*.md' -delete
+git -C $REPO add -u results/
+git -C $REPO commit -m "Clean: Alte Ergebnisse entfernt"
+git -C $REPO push origin HEAD
 ```
 
 ---
@@ -95,22 +104,6 @@ Dateinamen: `results/[NN]_[slug].md` – Nummern (NN) werden global vergeben (01
 3. Warten bis ein Batch fertig ist, dann den nächsten starten
 
 Jedem Agent die Parqet-Daten für sein Unternehmen mitgeben.
-
----
-
-## Schritt 4 – Merge in Default Branch
-
-```bash
-REPO=/home/user/investor-information
-BRANCH=$(git -C $REPO rev-parse --abbrev-ref HEAD)
-DEFAULT=$(git -C $REPO symbolic-ref refs/remotes/origin/HEAD \
-          | sed 's@^refs/remotes/origin/@@')
-
-git -C $REPO checkout "$DEFAULT"
-git -C $REPO pull origin "$DEFAULT"
-git -C $REPO merge --no-ff "$BRANCH" -m "Run 1: Meta + Erste Hälfte (KW$(date +%V))"
-git -C $REPO push origin "$DEFAULT"
-```
 
 ---
 

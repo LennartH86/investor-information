@@ -2,14 +2,21 @@
 
 ## Rahmenbedingungen
 - Repo: `/home/user/investor-information`
-- Branch: wird automatisch von Claude Code vergeben (`claude/...`)
+- Direkt auf Default Branch arbeiten (kein Feature Branch)
 - Max. **6 parallele Agents** (Rate-Limit-Schutz)
-- Voraussetzung: Run 1 abgeschlossen und in Default Branch gemerged
-- Branch muss im Abschluss auf Default Branch gemerged werden
+- Voraussetzung: Run 1 abgeschlossen
+- Website aktualisiert sich automatisch (client-side, kein Build nötig)
 
 ---
 
-## Schritt 0 – Parqet-Portfolio abfragen
+## Schritt 0 – Default Branch auschecken + Parqet-Portfolio abfragen
+
+```bash
+REPO=/home/user/investor-information
+DEFAULT=$(git -C $REPO remote show origin | grep 'HEAD branch' | awk '{print $NF}')
+git -C $REPO checkout "$DEFAULT"
+git -C $REPO pull origin "$DEFAULT"
+```
 
 Portfolio-Daten abrufen mit `mcp__Parqet__parqet_query_portfolio`:
 ```
@@ -39,10 +46,7 @@ Portfolioanteil pro Aktie berechnen: `currentValue / Gesamtportfoliowert * 100`
 
 ```bash
 REPO=/home/user/investor-information
-DEFAULT=$(git -C $REPO symbolic-ref refs/remotes/origin/HEAD \
-          | sed 's@^refs/remotes/origin/@@')
-git -C $REPO checkout $DEFAULT && git -C $REPO pull origin $DEFAULT
-ls results/[0-9][0-9]_*.md
+ls $REPO/results/[0-9][0-9]_*.md
 ```
 
 Die alphabetisch sortierte Gesamtliste aus Schritt 0 mit den vorhandenen Dateien abgleichen.
@@ -61,22 +65,6 @@ Alle Unternehmen ohne Ergebnisdatei müssen in diesem Run recherchiert werden.
 Dateinamen: `results/[NN]_[slug].md` – die Nummern (NN) entsprechen der Position in der alphabetisch sortierten Gesamtliste (gleiche Nummerierung wie Run 1).
 
 Jedem Agent die Parqet-Daten für sein Unternehmen mitgeben.
-
----
-
-## Schritt 3 – Merge in Default Branch
-
-```bash
-REPO=/home/user/investor-information
-BRANCH=$(git -C $REPO rev-parse --abbrev-ref HEAD)
-DEFAULT=$(git -C $REPO symbolic-ref refs/remotes/origin/HEAD \
-          | sed 's@^refs/remotes/origin/@@')
-
-git -C $REPO checkout "$DEFAULT"
-git -C $REPO pull origin "$DEFAULT"
-git -C $REPO merge --no-ff "$BRANCH" -m "Run 2: Zweite Hälfte (KW$(date +%V))"
-git -C $REPO push origin "$DEFAULT"
-```
 
 ---
 
