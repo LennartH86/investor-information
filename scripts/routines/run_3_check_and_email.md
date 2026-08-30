@@ -1,14 +1,22 @@
-# Investor Radar – Run 3/3 | Prüfung + HTML-Build + E-Mail
+# Investor Radar – Run 3/3 | Prüfung + E-Mail
 
 ## Rahmenbedingungen
 - Repo: `/home/user/investor-information`
 - Default Branch: automatisch ermitteln
-- Voraussetzung: Run 1 und Run 2 abgeschlossen und gemerged
-- Dieser Run prüft Vollständigkeit, holt Fehlendes nach, baut die Website und verschickt die E-Mail
+- Voraussetzung: Run 1 und Run 2 abgeschlossen
+- Dieser Run prüft Vollständigkeit, holt Fehlendes nach und verschickt die E-Mail
+- Website aktualisiert sich automatisch (client-side, kein Build nötig)
 
 ---
 
-## Schritt 0 – Parqet-Portfolio abfragen
+## Schritt 0 – Default Branch auschecken + Parqet-Portfolio abfragen
+
+```bash
+REPO=/home/user/investor-information
+DEFAULT=$(git -C $REPO remote show origin | grep 'HEAD branch' | awk '{print $NF}')
+git -C $REPO checkout "$DEFAULT"
+git -C $REPO pull origin "$DEFAULT"
+```
 
 Portfolio-Daten abrufen mit `mcp__Parqet__parqet_query_portfolio`:
 ```
@@ -31,13 +39,6 @@ Zusätzlich für Nachholungen: Dividenden-Daten und Gesamtportfolio-Wert abrufen
 
 ## Schritt 1 – Vollständigkeitsprüfung
 
-```bash
-REPO=/home/user/investor-information
-DEFAULT=$(git -C $REPO symbolic-ref refs/remotes/origin/HEAD \
-          | sed 's@^refs/remotes/origin/@@')
-git -C $REPO checkout $DEFAULT && git -C $REPO pull origin $DEFAULT
-```
-
 Die Parqet-Unternehmensliste mit den vorhandenen `results/[0-9][0-9]_*.md` Dateien abgleichen.
 Jede fehlende Datei melden.
 
@@ -48,42 +49,11 @@ Jede fehlende Datei melden.
 Für jede fehlende Datei einen Agent mit dem Agent-Template starten (max. 6 parallel).
 Die Parqet-Daten für das jeweilige Unternehmen an den Agent übergeben.
 
-Nach Fertigstellung aller Agents:
-
-```bash
-REPO=/home/user/investor-information
-DEFAULT=$(git -C $REPO symbolic-ref refs/remotes/origin/HEAD \
-          | sed 's@^refs/remotes/origin/@@')
-BRANCH=$(git -C $REPO rev-parse --abbrev-ref HEAD)
-
-git -C $REPO checkout $DEFAULT
-git -C $REPO pull origin $DEFAULT
-git -C $REPO merge --no-ff $BRANCH -m "Run 3: Nachholung fehlender Dateien"
-git -C $REPO push origin $DEFAULT
-```
-
 Wenn nichts fehlt: direkt zu Schritt 3.
 
 ---
 
-## Schritt 3 – Website bauen
-
-```bash
-REPO=/home/user/investor-information
-DEFAULT=$(git -C $REPO symbolic-ref refs/remotes/origin/HEAD \
-          | sed 's@^refs/remotes/origin/@@')
-git -C $REPO checkout $DEFAULT && git -C $REPO pull origin $DEFAULT
-
-python $REPO/scripts/build_site.py
-
-git -C $REPO add index.html
-git -C $REPO commit -m "Build: Investor Radar KW$(grep '^KW:' $REPO/results/_meta.md | awk '{print $2}')"
-git -C $REPO push origin $DEFAULT
-```
-
----
-
-## Schritt 4 – Gmail-Entwurf erstellen
+## Schritt 3 – Gmail-Entwurf erstellen
 
 Metadaten einlesen:
 ```bash
@@ -94,6 +64,11 @@ VON=$(grep  '^ZEITRAUM_VON:'  $REPO/results/_meta.md | awk '{print $2}')
 BIS=$(grep  '^ZEITRAUM_BIS:'  $REPO/results/_meta.md | awk '{print $2}')
 WERT=$(grep '^PORTFOLIO_WERT:' $REPO/results/_meta.md | awk '{print $2}')
 POS=$(grep  '^POSITIONEN:'    $REPO/results/_meta.md | awk '{print $2}')
+```
+
+Default Branch für Repository-Link ermitteln:
+```bash
+DEFAULT=$(git -C $REPO remote show origin | grep 'HEAD branch' | awk '{print $NF}')
 ```
 
 Tool: `mcp__Gmail__create_draft`
@@ -114,10 +89,6 @@ https://github.com/LennartH86/investor-information/tree/[DEFAULT_BRANCH]/results
 Recherchezeitraum: [VON] – [BIS]
 Unternehmen: [POS] (dynamisch aus Parqet-Portfolio)
 Portfoliowert: [WERT] EUR
-
-Neu in dieser Version:
-- Unternehmensauswahl automatisch aus deinem Parqet-Portfolio
-- Portfolio-Analyse pro Unternehmen (Position, G/V, Bewertung)
 
 Viele Grüße,
 Dein Claude Code Agent
