@@ -1,46 +1,51 @@
-# BioNTech (BNTX)
-_KW35 / 2026 | Zeitraum: 23.08.2026 – 30.08.2026_
+# BioNTech (ADR) (BNTX)
+_Aktualisiert: 01.09.2026 | Zeitraum: 25.08.2026 – 01.09.2026_
 
 ## Portfolio-Analyse
-- **Position:** 56,27053 Aktien (ADR)
+- **Position:** 56,27053 Aktien
 - **Kaufkurs (Ø):** 145,33 EUR
-- **Aktueller Kurs:** 88,72 EUR
-- **Marktwert:** 4992,32 EUR
-- **Unrealisierter G/V:** -3245,06 EUR (-39,39%)
-- **Portfolioanteil:** 3,08%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** BioNTech zahlt keine Dividende, sodass die Position ausschließlich über Kursgewinne funktioniert – aktuell mit -39,39% deutlich im Minus gegenüber dem Einstiegskurs von 2021. Das Unternehmen bleibt profitabel bewertbar nur über den zukünftigen Onkologie-Pipeline-Erfolg, da das operative Geschäft aktuell hohe Nettoverluste ausweist (Q2/2026: -820,8 Mio. EUR) und die COVID-Impfstoffumsätze strukturell rückläufig sind; angesichts des angekündigten CEO-Wechsels, der laufenden Pivotal-Studien und der komfortablen Kassenlage (~17,2 Mrd. EUR Ende 2025) erscheint ein Halten mit engmaschiger Beobachtung der Studienergebnisse sinnvoller als eine Reduzierung zum aktuell stark gedrückten Kurs; eine Aufstockung sollte von konkreten positiven Pipeline-Daten abhängig gemacht werden.
+- **Aktueller Kurs:** 87,25 EUR
+- **Marktwert:** 4909,60 EUR
+- **Unrealisierter G/V:** -3327,78 EUR (-40,40%)
+- **Portfolioanteil:** 3,06%
+- **Dividenden erhalten:** 60,28 EUR
+- **Bewertung:** BioNTech ist operativ defizitär (Q2 2026: Umsatz 105,6 Mio. EUR bei F&E-Aufwand von 551,0 Mio. EUR), weshalb ein klassisches KGV nicht aussagekräftig ist; die Bewertung stützt sich im Wesentlichen auf die Nettoliquidität von rund 16,8 Mrd. EUR (Q1 2026) und die späte Onkologie-Pipeline. Bei -40,40% gegenüber dem Kaufkurs und ohne laufende Dividendenrendite erscheint angesichts der Pipeline-Katalysatoren (14 laufende Zulassungsstudien, drei späte Datenauslesungen 2026) und des CEO-Wechsels ein Halten vertretbar – ein Aufstocken sollte erst nach den WCLC-Daten und mehr Klarheit zur Führungsübergabe geprüft werden.
 
 ## Aktuelle Meldungen
-- BioNTech veröffentlichte am 4. August 2026 die Ergebnisse für das zweite Quartal 2026 nebst Corporate Update.
-- Am 19. August 2026 legte die BNTX-Aktie deutlich zu (+23,44% an einem Handelstag), nachdem die EU-Kommission den an die XFG-Variante angepassten Pfizer-BioNTech-COVID-Impfstoff für die Saison 2026/2027 EU-weit zugelassen hat; die Produktion läuft bereits vor der Erkältungssaison an.
-- Auf der WCLC 2026 (World Conference on Lung Cancer) präsentierte BioNTech am 20. August 2026 Fortschritte seiner spätklinischen Lungenkrebs-Pipeline sowie erste globale Daten zur Kombination aus Pumitamig und Elfetabart Drozuntecan.
-- Mehrere Pipeline-Meilensteine 2026: Start von sechs zulassungsrelevanten Studien (fünf zu Pumitamig, eine zum B7-H3-ADC-Kandidaten Elfetabart Drozuntecan); drei weitere späte Studienergebnisse (Immunmodulatoren, ADC, mRNA) werden im weiteren Jahresverlauf erwartet.
+- 20.08.2026: BioNTech kündigte an, auf der IASLC World Conference on Lung Cancer (WCLC) 2026 in Seoul (12.–15.09.2026) neue klinische Daten zur spätklinischen Lungenkrebs-Pipeline zu präsentieren – darunter erstmals globale Daten zur Kombination aus Pumitamig (BNT327/BMS-986545) und Elfetabart Drozuntecan.
+- Ebenfalls auf der WCLC vertreten: Gotistobart (BNT316/ONC-392) sowie mRNA-basierte Immuntherapie-Ansätze.
+- 04.08.2026: Die Europäische Kommission erteilte die Zulassung für den XFG-adaptierten COVID-19-Impfstoff; weitere Markteinführungen zur Saison 2026/27 wurden vorbereitet.
+- Die Aktie legte im Berichtsumfeld deutlich zu – Marktkommentare führen dies auf neue Zuversicht bezüglich des COVID-Impfstoff-Rollouts 2026/27 und die spätklinische Onkologie-Pipeline zurück; Leerink warnte allerdings, die Rally könnte wieder abebben.
 
 ## Management
-- Am 3. August 2026 gab BioNTech bekannt, dass der Aufsichtsrat Dr. Guido Oelkers (bisher CEO von Sobi/Swedish Orphan Biovitrum) zum neuen Vorstandsvorsitzenden (CEO) berufen hat; er tritt sein Amt spätestens zum 1. Februar 2027 an.
-- Gründer-CEO Prof. Uğur Şahin übergibt damit die Führung; laut früheren Meldungen (März 2026) planen Şahin und Mitgründerin Prof. Özlem Türeci, bis Ende 2026 ein neues, auf mRNA-Innovationen der nächsten Generation fokussiertes Unternehmen zu gründen.
-- Kein aktuelles 2026er-Einzelinterview mit Şahin in der Recherche gefunden; öffentliche Aussagen erfolgten bislang primär über Pressemitteilungen und die J.P. Morgan Healthcare Conference im Januar 2026.
+- 03.08.2026: Der Aufsichtsrat berief Dr. Guido Oelkers in den Vorstand und zum Chief Executive Officer. Er soll das Amt bis spätestens 01.02.2027 antreten.
+- Oelkers ersetzt Mitgründer Prof. Dr. Ugur Sahin als CEO. Berichten zufolge verlässt Sahin das Unternehmen, um ein neues mRNA-Unternehmen zu gründen.
+- Ein aktuelles Interview mit Ugur Sahin aus dem Berichtszeitraum 25.08.–01.09.2026 wurde in den Suchergebnissen nicht gefunden.
 
 ## Finanzielles
-- Q1 2026: Umsatz 118,1 Mio. EUR (Vorjahr: 182,8 Mio. EUR), Rückgang vor allem durch geringere COVID-19-Impfstoffumsätze; Nettoverlust 531,9 Mio. EUR (bereinigt: 494,6 Mio. EUR).
-- Q2 2026: Nettoverlust 820,8 Mio. EUR (Vorjahr: 386,6 Mio. EUR); höhere Ausgaben durch Pre-Launch-Aktivitäten, kommerziellen Aufbau, Einbeziehung von CureVac sowie Investitionen in Skalierung und ERP-Infrastruktur.
-- Liquiditätsposition: rund 17,2 Mrd. EUR an Zahlungsmitteln, Zahlungsmitteläquivalenten und Wertpapieren zum 31.12.2025 – solide Finanzbasis zur Finanzierung der Onkologie-Pipeline.
-- Keine Dividendenzahlung; KGV/KBV aktuell nicht aussagekräftig, da das Unternehmen operativ Verluste schreibt.
+- Q2 2026 Umsatz: 105,6 Mio. EUR (Vorjahresquartal: 260,8 Mio. EUR) – Rückgang v. a. durch geringere Nachfrage nach den COVID-19-Impfstoffen.
+- Halbjahresumsatz 2026: 223,7 Mio. EUR (Vorjahr: 443,6 Mio. EUR).
+- F&E-Aufwendungen Q2 2026: 551,0 Mio. EUR (Vorjahr: 509,1 Mio. EUR); Halbjahr: 1.108,0 Mio. EUR (Vorjahr: 1.034,7 Mio. EUR).
+- Sonstiges betriebliches Ergebnis Q2 2026: -207,9 Mio. EUR (Vorjahr: -39,0 Mio. EUR); Halbjahr: -224,3 Mio. EUR (Vorjahr: -25,9 Mio. EUR).
+- Liquidität: rund 16,8 Mrd. EUR an Zahlungsmitteln, Zahlungsmitteläquivalenten und Wertpapieranlagen zum Ende Q1 2026 (31.12.2025: rund 17,2 Mrd. EUR).
+- Aktienrückkaufprogramm von bis zu 1,0 Mrd. USD über zwölf Monate geplant.
 
 ## Strategie & Ausblick
-- BioNTech treibt die Transformation zum diversifizierten Onkologie-Unternehmen voran, mit spätklinischen Kandidaten in den Bereichen Immunmodulatoren (u.a. Pumitamig, Gotistobart), Antikörper-Wirkstoff-Konjugate (u.a. Elfetabart Drozuntecan) und mRNA-Krebsimmuntherapien (u.a. BNT113/BNT116).
-- Die CureVac-Übernahme (Closing Dezember 2025, Zwangserwerb restlicher Anteile ab Januar 2026) soll die mRNA-Technologieposition weiter stärken.
-- 2026 wird von BioNTech intern als "katalysatorreiches Jahr" bezeichnet, mit mehreren Phase-3-Ausleseterminen in der Onkologie im weiteren Jahresverlauf erwartet.
-- Der bevorstehende CEO-Wechsel (Oelkers ab spätestens Februar 2027) markiert einen Strategiewechsel hin zu stärkerer kommerzieller Exekution, während die Gründer sich auf ein neues mRNA-Forschungsunternehmen fokussieren wollen – dies bringt kurzfristig Führungsunsicherheit, langfristig aber potenziell mehr operative Disziplin.
-- COVID-19-Geschäft bleibt relevant: EU-Zulassung des angepassten XFG-Impfstoffs für die Saison 2026/2027 sichert kurzfristig Umsätze, das strukturelle Umsatzniveau bleibt aber deutlich unter Pandemie-Hochphase.
+- Angepasste Jahresprognose 2026: Umsatz 1,6–1,9 Mrd. EUR, bereinigte F&E-Aufwendungen 2,0–2,3 Mrd. EUR, bereinigte SG&A-Aufwendungen unverändert 700–800 Mio. EUR.
+- Pipeline-Status laut Management: 14 laufende Zulassungsstudien, sechs Studienstarts im Jahr 2026 und drei weitere spätklinische Datenauslesungen im laufenden Jahr erwartet.
+- Strategisches Ziel bleibt die Transformation zu einem Multi-Produkt-Onkologieunternehmen mit einer diversifizierten Pipeline aus Immunmodulatoren, Antikörper-Wirkstoff-Konjugaten (ADCs) und mRNA-Krebsimmuntherapien.
+- Die Übernahme von CureVac N.V. (rund 1,25 Mrd. USD, ca. 86,75% angediente Aktien) wurde abgeschlossen; der Squeeze-out der verbleibenden Anteile war für Januar 2026 vorgesehen und stärkt die Position im mRNA-Feld.
+- Pumitamig (BNT327) wird gemeinsam mit Bristol Myers Squibb entwickelt und bleibt der zentrale Wertreiber der späten Pipeline.
 
 ## Quellen
+- [BioNTech Highlights Late-Stage Lung Cancer Pipeline Momentum at WCLC 2026](https://investors.biontech.de/news-releases/news-release-details/biontech-highlights-late-stage-lung-cancer-pipeline-momentum-and)
+- [BioNTech präsentiert auf der WCLC 2026 Fortschritte ihrer spätklinischen Pipeline bei Lungenkrebs (GlobeNewswire, 20.08.2026)](https://www.globenewswire.com/news-release/2026/08/20/3348151/0/de/biontech-pr%C3%A4sentiert-auf-der-wclc-2026-fortschritte-ihrer-sp%C3%A4tklinischen-pipeline-bei-lungenkrebs-und-erste-globale-daten-zur-innovativen-behandlungskombination-aus-pumitamig-und-e.html)
 - [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/08/BioNTech-Announces-Second-Quarter-2026-Financial-Results-and-Corporate-Update.html)
+- [BioNTech veröffentlicht Ergebnisse für das zweite Quartal 2026 (GlobeNewswire, 04.08.2026)](https://www.globenewswire.com/news-release/2026/08/04/3338119/0/de/BioNTech-ver%C3%B6ffentlicht-Ergebnisse-f%C3%BCr-das-zweite-Quartal-2026-sowie-Informationen-zur-Gesch%C3%A4ftsentwicklung.html)
 - [BioNTech Announces Appointment of Guido Oelkers to Management Board as Chief Executive Officer](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/08/BioNTech-Announces-Appointment-of-Guido-Oelkers-to-Management-Board-as-Chief-Executive-Officer.html)
-- [BioNTech ernennt Dr. Guido Oelkers zum neuen Vorstandsvorsitzenden](https://www.globenewswire.com/news-release/2026/08/03/3337277/0/de/biontech-ernennt-dr-guido-oelkers-zum-neuen-vorstandsvorsitzenden.html)
-- [BioNTech Highlights Late-Stage Lung Cancer Pipeline Momentum at WCLC 2026](https://www.globenewswire.com/news-release/2026/08/20/3348151/0/en/biontech-highlights-late-stage-lung-cancer-pipeline-momentum-and-first-global-data-for-pumitamig-elfetabart-drozuntecan-novel-novel-combination-at-wclc-2026.html)
+- [BioNTech names Guido Oelkers its new CEO, replacing Ugur Sahin (STAT News, 03.08.2026)](https://www.statnews.com/2026/08/03/biontech-ceo-guido-oelkers-ugur-sahin-replacement/)
+- [BioNTech Closes Acquisition of CureVac N.V.](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
+- [BioNTech Provides Strategic Business Update and Outlines 2026 Areas of Focus (J.P. Morgan Healthcare Conference)](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/01/biontech-provides-strategic-business-update-and-outlines-2026.html)
 - [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
-- [BioNTech Closes Acquisition of CureVac N.V. Including Subsequent Offering Period](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
-- [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company – Fierce Biotech](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
-- [BioNTech SE Stock Pops As Traders Refocus On Oncology](https://www.timothysykes.com/news/biontech-se-bntx-news-2026_08_19-3/)
+- [BioNTech Shares Jump as Investors Reassess Vaccine Launch and Late-Stage Oncology Pipeline (QuiverQuant)](https://www.quiverquant.com/news/BioNTech+Shares+Jump+as+Investors+Reassess+Vaccine+Launch+and+Late-Stage+Oncology+Pipeline)
+- [BioNTech stock rally likely to fade, Leerink says (Seeking Alpha)](https://seekingalpha.com/news/4635032-biontech-stock-rally-likely-fade-leerink-says)
