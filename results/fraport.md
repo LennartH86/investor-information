@@ -1,46 +1,48 @@
 # Fraport (FRA.DE)
-_KW35 / 2026 | Zeitraum: 23.08.2026 – 30.08.2026_
+_Aktualisiert: 02.09.2026 | Zeitraum: 26.08.2026 – 02.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 70,23 EUR
-- **Aktueller Kurs:** 64,00 EUR
-- **Marktwert:** 3200,00 EUR
-- **Unrealisierter G/V:** -334,73 EUR (-9,47%)
-- **Portfolioanteil:** 1,98%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Die Aktie notiert rund 9% unter dem Einstandskurs und hat sich seit den Q2-Zahlen (6. August) kaum erholt; Analysten wie Citigroup sehen mit einem gesenkten Kursziel von 83 EUR dennoch deutliches Aufwärtspotenzial vom aktuellen Niveau (~63–64 EUR), während andere Häuser eher „Neutral/Hold“ einstufen. Die laufende Dividende von 1,00 EUR/Aktie liefert bei aktuellem Kurs eine Rendite von ca. 1,5%, eine Erhöhung ist erst bei einem Net-Debt/EBITDA unter 5 (aktuell 5,7) vorgesehen. Angesichts des operativ soliden, aber margenseitig schwächeren Geschäfts (EBIT-Rückgang trotz Umsatzwachstum) und der hohen Verschuldung erscheint Halten sinnvoll; eine Aufstockung könnte sich erst bei klaren Signalen einer Bewertungserholung oder eines beschleunigten Schuldenabbaus lohnen.
+- **Aktueller Kurs:** 62,00 EUR
+- **Marktwert:** 3100,00 EUR
+- **Unrealisierter G/V:** -434,73 EUR (-12,30%)
+- **Portfolioanteil:** 1,95%
+- **Dividenden erhalten:** 36,83 EUR
+- **Bewertung:** Die Fraport-Aktie notiert bei 62,00 EUR rund 12% unter dem Kaufkurs von 70,23 EUR und bleibt unter Druck – belastet durch schwächer als erwartete Passagierzahlen in Frankfurt, ein damit gefährdetes EBITDA-Ziel von 1,5 Mrd. EUR sowie die aktuelle Debatte um neue Schengen-Einreiseregeln. Bei einer Dividende von 1,00 EUR je Aktie ergibt sich eine Rendite von rund 1,6%; eine Erhöhung bleibt an einen Rückgang des Net-Debt/EBITDA unter 5,0 (aktuell 5,7) geknüpft. Angesichts der operativen Eintrübung und weiterhin hoher Verschuldung erscheint Halten die angemessene Strategie – eine Aufstockung sollte erst bei einer Stabilisierung der Verkehrszahlen oder einem klar erkennbaren Schuldenabbau erwogen werden.
 
 ## Aktuelle Meldungen
-- Fraport wurde am 18. August 2026 als offizieller Airport-Partner der Routes World 2026 bestätigt.
-- Die Verkehrszahlen für Juli 2026 (veröffentlicht Mitte August) zeigen in Frankfurt rund 6,2 Mio. Passagiere (+1,4% ggü. Vorjahr) bei gleichzeitig rückläufigen Flugbewegungen (41.286 Starts/Landungen, -3,2%) – höhere Auslastung und größere Flugzeuge gleichen den Rückgang aus.
-- Die Aktie pendelte im Beobachtungszeitraum um 63–64 EUR; Citigroup senkte das Kursziel auf 83 EUR, hält aber an einer positiven Einschätzung fest, während andere Analysten vorsichtiger bleiben.
+- Die Fraport-Aktie handelte am 1. September 2026 schwächer, belastet durch die Debatte um neue Schengen-Einreiseregeln sowie jüngste gesundheitliche Vorfälle am Frankfurter Flughafen – trotz weiterhin unterstützender Analystenkursziele.
+- Ab Herbst 2026 übernimmt Fraport Brasil den Betrieb des Flughafens Jericoacoara in Brasilien (auf Basis eines im Juni 2026 unterzeichneten Konzessionsvertrags, vorbehaltlich ausstehender Genehmigungen).
+- Laut Fraport-Veröffentlichungskalender ist für den 11. September 2026 die nächste Pressemitteilung (voraussichtlich Verkehrszahlen) angekündigt.
+- Jefferies bestätigte am 13. August 2026 die Einstufung „Buy“ für die Fraport-Aktie; zuvor hatte Citigroup ihr Kursziel bereits auf 83 EUR gesenkt.
 
 ## Management
-- CEO Dr. Stefan Schulte bezeichnete 2025 rückblickend (Hauptversammlung Mai 2026) als „transformationales Jahr“ für Fraport, u. a. durch Fertigstellung von Terminal 3 in Frankfurt sowie Kapazitätserweiterungen in Lima und Antalya.
-- Schulte kommentierte geopolitische Risiken (u. a. Iran-Konflikt) als bislang „begrenzten Einfluss“ auf das Geschäft.
-- Kein dediziertes Einzelinterview mit Schulte aus dem Berichtszeitraum August 2026 auffindbar; jüngste öffentliche Aussagen stammen im Wesentlichen von der HV im Mai 2026.
+- CEO Dr. Stefan Schulte bezeichnete 2025 auf der Hauptversammlung im Mai 2026 rückblickend als „transformationales Jahr“ für Fraport – u. a. durch die Fertigstellung von Terminal 3 in Frankfurt sowie Kapazitätserweiterungen in Lima und Antalya.
+- Dietmar Focke ist seit dem 1. Mai 2026 neues Mitglied des Fraport-Vorstands.
+- Der hessische Finanzminister hat den Aufsichtsratsvorsitz bei Fraport übernommen – eine bemerkenswerte Veränderung in der Unternehmensführung.
+- Kein aktuelles Einzelinterview mit CEO Schulte aus dem Berichtszeitraum Ende August/Anfang September 2026 auffindbar; jüngste öffentliche Aussagen stammen im Wesentlichen aus dem Q2-Earnings-Call (6. August) und der HV im Mai 2026.
 
 ## Finanzielles
-- Q2 2026 (Halbjahresbericht, 6. August): Konzernumsatz 1.128 Mio. EUR (+4%), EBITDA 386 Mio. EUR (+1%), EBIT jedoch -19% auf 207 Mio. EUR.
-- 6M/H1 2026: Umsatz 2.069,1 Mio. EUR (+4,0%), Passagierzahlen in Frankfurt mit 28,9 Mio. leicht rückläufig ggü. Vorjahreszeitraum.
-- Q1 2026: Umsatz 882,1 Mio. EUR (+1,6%), EBITDA 196,0 Mio. EUR (+18,5 Mio. EUR ggü. Vorjahr), Konzernergebnis jedoch bei -33,1 Mio. EUR (Verschlechterung um 6,7 Mio. EUR) infolge abgeschlossener Ausbauprojekte.
-- Net-Debt/EBITDA lag Ende 2025 bei 5,7 – ein Rückgang unter 5,0 gilt als Voraussetzung für eine Dividendenerhöhung über die aktuellen 1,00 EUR/Aktie hinaus.
-- Aktienrückkaufprogramm vom 1.–30. Juni 2026 mit einem Gesamtvolumen von bis zu 5,2 Mio. EUR abgeschlossen.
-- Positiver Free Cashflow 2025 erstmals seit 2018.
+- Im Earnings Call zu Q2 2026 zeigte sich anhaltende Verkehrsschwäche; das Management rechnet damit, dass das Konzern-EBITDA 2026 wegen schwächer als erwartetem Verkehr am Standort Frankfurt voraussichtlich unter dem Zielwert von 1,5 Mrd. EUR liegen wird.
+- Frankfurt dürfte 2026 auf rund 63 Mio. Passagiere kommen – unterhalb der 65–66 Mio., die dem bisherigen EBITDA-Ausblick zugrunde lagen.
+- Q1 2026: Konzernumsatz 882,1 Mio. EUR (+1,6%), EBITDA 196,0 Mio. EUR (+18,5 Mio. EUR ggü. Vorjahr), Konzernergebnis jedoch bei -33,1 Mio. EUR (Verschlechterung um 6,7 Mio. EUR) infolge abgeschlossener Ausbauprojekte.
+- Net-Debt/EBITDA lag Ende 2025 bei 5,7; eine Dividendenerhöhung über die aktuellen 1,00 EUR/Aktie hinaus bleibt an einen Rückgang unter 5,0 geknüpft.
+- Jefferies bestätigte am 13.08.2026 ein „Buy“-Rating; Citigroup hatte zuvor sein Kursziel auf 83 EUR reduziert, andere Häuser bleiben vorsichtiger („Neutral/Hold“).
 
 ## Strategie & Ausblick
-- Fraport verkaufte im Februar 2026 seine Griechenland-Sparte (14 Regionalflughäfen) an Blackstone für rund 235,9 Mio. USD – Teil der Portfoliobereinigung nach Abschluss des großen Investitionsprogramms.
-- Diversifiziertes internationales Portfolio (u. a. Brasilien, Peru, Slowenien, Bulgarien, Türkei) wird als Ausgleich zur schwächeren Entwicklung am Heimatstandort Frankfurt hervorgehoben.
-- Unternehmen bestätigt die Jahresprognose 2026, gestützt u. a. auf staatliche Zusicherungen zur Kerosinversorgung; Fokus liegt nun stärker auf Entschuldung und Cashflow-Generierung nach Abschluss der Großprojekte (Terminal 3, Lima, Antalya).
+- Für Herbst 2026 ist die Übernahme des Flughafenbetriebs Jericoacoara in Brasilien durch Fraport Brasil geplant – ein weiterer Baustein der internationalen Diversifizierungsstrategie.
+- Der Jahresausblick 2026 (Konzern-Passagieraufkommen 188–195 Mio., EBITDA-Ziel ca. 1,5 Mrd. EUR) steht laut Management-Kommentaren aus dem Q2-Call unter Abwärtsdruck, da die Passagierentwicklung in Frankfurt hinter den Erwartungen zurückbleibt.
+- Die Diskussion um neue Schengen-Einreiseregeln sowie gesundheitliche Vorfälle am Frankfurter Flughafen belasten kurzfristig die Investorenstimmung, ohne dass bislang gravierende operative Auswirkungen erkennbar sind.
+- Fokus bleibt auf Entschuldung und Cashflow-Generierung nach Abschluss der Großprojekte (Terminal 3, Lima, Antalya) sowie auf der Integration neuer internationaler Standorte wie Jericoacoara.
 
 ## Quellen
-- [Fraport Q2 2026 slides: international growth offsets Frankfurt woes – Investing.com](https://www.investing.com/news/company-news/fraport-q2-2026-slides-international-growth-offsets-frankfurt-woes-93CH-4840043)
-- [Fraport stock stays under pressure as Citigroup cuts target to EUR83 – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-stays-under-pressure-as-citigroup-cuts-target-to-eur83/69982743)
-- [Fraport announced as official airport partner for Routes World 2026 – ajot.com](https://www.ajot.com/news/fraport-announced-as-official-airport-partner-for-routes-world-2026)
-- [Fraport-Verkehrszahlen im Juli 2026 – Presseportal](https://www.presseportal.de/pm/31522/6332344)
-- [Fraport-Halbjahresbericht Q2/6M 2026 (PDF) – fraport.com](https://www.fraport.com/content/dam/fraport-company/documents/investoren/termine-und-publikationen/zwischenberichte/2026/Fraport%20Konzern-Zwischenbericht%20Q2%206M%202026.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/Fraport%20Konzern-Zwischenbericht%20Q2%206M%202026.pdf)
-- [Fraport AGM 2026: Executive and Supervisory Boards Report to the Shareholders – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q2/fraport-agm-2026.html)
+- [Fraport stock edges lower as Schengen entry concerns weigh on sentiment – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-edges-lower-as-schengen-entry-concerns-weigh-on-sentiment/70036173)
+- [Earnings call transcript: Fraport Q2 2026 sees traffic weakness and stock slips – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-fraport-q2-2026-sees-traffic-weakness-and-stock-slips-93CH-4842215)
 - [Fraport-Konzern im ersten Quartal 2026 mit Wachstum im operativen Geschäft – fraport.com](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/verkehrszahlen/fraport-konzern-im-ersten-quartal-2026-mit-wachstum-im-operative.html)
-- [Fraport Greece Acquired by Blackstone – Signalbase](https://www.trysignalbase.com/news/acquisitions/fraport-greece-acquired-by-blackstone-acquisition)
-- [Fraport reports investment milestones at 2026 AGM – traveldailynews.com](https://www.traveldailynews.com/aviation/fraport-reports-investment-milestones-at-2026-agm/)
+- [Fraport-Quartalsmitteilung Q1/3M 2026 (PDF) – fraport.com](https://www.fraport.com/content/dam/fraport-company/documents/investoren/termine-und-publikationen/zwischenberichte/2026/Quartalsmitteilung%20Q1%203M%202026.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/Quartalsmitteilung%20Q1%203M%202026.pdf)
+- [Veröffentlichungskalender / Finanzkalender 2026 (PDF) – fraport.com](https://www.fraport.com/content/dam/fraport-company/documents/investoren/termine-und-publikationen/veroeffentlichungskalender/Ver%C3%B6ffentlichungskalender%20Fraport%202026.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/Ver%C3%B6ffentlichungskalender%20Fraport%202026.pdf)
+- [Fraport AGM 2026: Executive and Supervisory Boards Report to the Shareholders – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q2/fraport-agm-2026.html)
+- [Dietmar Focke to Join Fraport AG's Executive Board on May 1, 2026 – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q1/dietmar-focke-fraport-ag-s-executive-board.html)
+- [Fraport-Aktie (DE0005773303): Finanzminister übernimmt Aufsicht – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/fraport-aktie-de0005773303-finanzminister-uebernimmt-aufsicht/69324050)
+- [Fraport Buy (Jefferies & Company Inc.) 13.08.2026 – finanzen.net](https://www.finanzen.net/analyse/fraport_buy-jefferies__company_inc__1100624)
