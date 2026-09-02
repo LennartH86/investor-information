@@ -1,58 +1,58 @@
 # GE Vernova (GEV)
-_KW35 / 2026 | Zeitraum: 23.08.2026 – 30.08.2026_
+_Aktualisiert: 02.09.2026 | Zeitraum: 26.08.2026 – 02.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 2 Aktien
 - **Kaufkurs (Ø):** 835,09 EUR
-- **Aktueller Kurs:** 788,60 EUR
-- **Marktwert:** 1577,20 EUR
-- **Unrealisierter G/V:** -95,06 EUR (-5,68%)
+- **Aktueller Kurs:** 774,00 EUR
+- **Marktwert:** 1548,00 EUR
+- **Unrealisierter G/V:** -124,26 EUR (-7,43%)
 - **Portfolioanteil:** 0,97%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Trotz des kurzfristigen Buchverlusts von -5,68% zeigt GE Vernova operativ eine der stärksten Dynamiken im Energiesektor: Umsatzwachstum von 22% im Q2 2026, ein Rekord-Auftragsbestand von 176 Mrd. USD und eine mehrfach angehobene Jahresprognose. Die Aktie notiert laut Marktberichten Ende August um rund 950-955 USD und hat sich seit dem Spin-off 2024 mehr als versechsfacht – der Kursrückgang seit Kaufdatum (29.05.2026) spiegelt eher kurzfristige Volatilität als fundamentale Schwäche wider. Angesichts der angehobenen Guidance, der verdoppelten Dividende und des starken Cashflows erscheint Halten (bei geringem Portfolioanteil von unter 1% ggf. auch Aufstocken auf Basis der operativen Stärke) sinnvoller als Reduzieren.
+- **Dividenden erhalten:** 0,37 EUR
+- **Bewertung:** The stock has drifted lower again this week (from roughly 788.60 EUR to 774.00 EUR), widening the unrealized loss to -7.43% since the May 2026 purchase, even as the underlying business keeps beating expectations — Q2 2026 revenue grew 22% YoY, orders surged 88% organically, and the backlog hit a record $176bn, prompting management to raise full-year revenue and free-cash-flow guidance twice this year. Commentators have flagged that "Wall Street is selling" despite the strong fundamentals, suggesting the pullback reflects valuation caution after a ~600% run since the 2024 spin-off rather than a deterioration in the business itself. Given the tiny 0.97% portfolio weight and the still-intact growth/backlog story (AI-driven electricity demand, doubled dividend, raised buyback), holding — or opportunistically adding on weakness — looks more reasonable than reducing.
 
 ## Aktuelle Meldungen
-- GE Vernova präsentierte sich vom 23.-28.08.2026 auf der CIGRE-Konferenz in Paris, einem der weltweit wichtigsten Treffen für Übertragungs- und Stromnetz-Experten, mit Fokus auf integrierte Elektrifizierungslösungen für Rechenzentren und energieintensive Industrien.
-- Zur CIGRE-Konferenz launchte das Unternehmen eine neue SF₆-freie 170-kV-Gasisolierschaltanlage (GIS) – zehn Jahre nach Einführung der ersten g³-Technologie als Alternative zu klimaschädlichem Schwefelhexafluorid (SF₆).
-- Am 27.08.2026 gab GE Vernova einen CFO-Wechsel bekannt: Claire McDonough (bisherige CFO von Rivian, u.a. verantwortlich für den Rivian-Börsengang und das Joint Venture mit Volkswagen) übernimmt den Posten ab November 2026 und vollständig ab 01.01.2027.
-- Am 13.08.2026 wurde eine Partnerschaft mit Blue Energy für ein 2,5-GW-Gas-plus-Nuklear-Kraftwerk in Victoria, Texas bekanntgegeben (Engineering, Lizenzierung, Sicherheitsanalyse durch GE Vernova Hitachi Nuclear Energy).
-- Die Aktie setzte ihre 2026er-Rally fort, gestützt durch den KI-getriebenen Auftragsbestand und einen neuen UK-Netz-Substation-Deal; Kurs Ende August rund 950-955 USD.
+- GE Vernova's HA gas turbine fleet surpassed four million commercial operating hours, with 130 units commissioned across 21 countries and another 195 units under contract; the company targets at least 125 GW of gas equipment under contract by year-end 2026.
+- Data center-driven orders in the Electrification segment have reached over $5 billion year-to-date, underscoring continued AI/data-center demand momentum.
+- The company is on track to deliver 20 GW of annual gas turbine output in Q3 2026, scaling to 24 GW by 2028 and targeting 30 GW by 2030.
+- GE Vernova's investor relations calendar shows a scheduled event/filing on September 16, 2026 (press release, presentation, highlights document and 10-Q materials referenced), though details were not yet available in search results at the time of this update.
+- No material new press releases were identified in the 26.08–02.09.2026 window beyond continued follow-through coverage of the Q2 2026 results, the CIGRE 2026 conference appearance, and the previously announced CFO transition.
 
 ## Management
-- CEO Scott Strazik trat 2026 auf mehreren Investorenkonferenzen auf, u.a. bei der Bank of America Global Industrials Conference (März) und der Bernstein Strategic Decisions Conference (Mai), und betonte die Positionierung von GE Vernova im langzyklischen Strommarkt.
-- In Medieninterviews (u.a. CNBC im März, Semafor im April) beschreibt Strazik GE Vernova als "75.000-Personen-Startup" und hebt Partnerschaften mit Kunden wie NVIDIA sowie dem Nuklear-Startup Blue Energy als F&E-Kooperationen hervor.
-- Ein Fortune-Porträt (12.08.2026) beschreibt Strazik als treibende Kraft hinter der "Reinvention" von GE Vernova, mit einem Kursanstieg von rund 600% seit der Abspaltung von General Electric im April 2024.
-- Angekündigter CFO-Wechsel: Carolina Dybeck Happe wird durch Claire McDonough (bisher Rivian) abgelöst, was auf weiteres institutionelles Vertrauen in die finanzielle Steuerung des Wachstumskurses hindeutet.
+- CEO Scott Strazik continues to describe GE Vernova as a "75,000-person startup," reiterating targets to grow revenue nearly 50% by 2028 versus 2025's ~$38bn base while more than doubling profit margins.
+- At the Milken Global Conference (May 2026), Strazik emphasized the company's multi-pronged sales model to data-center customers — gas turbines, electrical/substation equipment, and load-management software sold as an integrated package.
+- At Bernstein's Strategic Decisions Conference, Strazik highlighted backlog growth from $116bn at spin-off to $163bn (since further increased to $176bn in Q2 2026 results).
+- CFO transition remains on track: Claire McDonough (former Rivian CFO, who led Rivian's IPO and its Volkswagen joint venture) succeeds Carolina Dybeck Happe starting November 2026, with full transition by January 1, 2027.
 
 ## Finanzielles
-- Q2 2026: Umsatz 11,1 Mrd. USD (+22% YoY), Auftragseingang 24,2 Mrd. USD (+88% organisch).
-- Adjusted EBITDA stieg auf 1,2 Mrd. USD, Marge 11,3% (+340 Basispunkte organisch).
-- Auftragsbestand (Backlog) wuchs von 129 Mrd. USD (Q2 2025) auf 176 Mrd. USD (Q2 2026); Management strebt 200 Mrd. USD bis 2027 an.
-- Freier Cashflow Q2 2026: 5,1 Mrd. USD (vs. 194 Mio. USD im Vorjahresquartal); Barmittelbestand von 13,1 Mrd. USD zum Quartalsende.
-- Jahresprognose 2026 mehrfach angehoben: Umsatz nun 45,5-46,5 Mrd. USD (zuvor 44,5-45,5 Mrd. USD), freier Cashflow auf 11,5-12,5 Mrd. USD angehoben.
-- GE Vernova hat die Dividende verdoppelt und die Rückkaufautorisierung erhöht (im Rahmen der Anhebung des mehrjährigen Finanzausblicks).
-- Vollständige Übernahme des Joint Ventures Prolec GE (Transformatorenhersteller, ca. 10.000 Mitarbeiter) für 5,275 Mrd. USD am 02.02.2026, finanziert je zur Hälfte aus Cash und Fremdkapital.
-- Capex im ersten Halbjahr 2026: 0,4 Mrd. USD, im Rahmen der Investitionszusage von 6 Mrd. USD (2025-2028); F&E-Ausgaben H1 2026: 0,3 Mrd. USD (Zusage: 5 Mrd. USD bis 2028).
+- Q2 2026: Revenue $11.1bn (+22% YoY); orders $24.2bn (+88% organic growth); backlog reached a record $176bn (up from $129bn a year earlier), with management targeting $200bn by 2027.
+- Q1 2026: Orders $18.3bn (+71% organic); revenue $9.3bn (+16%, +7% organic); net income $4.7bn (50.9% margin); free cash flow $4.8bn.
+- Cash balance of $13.1bn at end of Q2 2026, up $4.3bn year-to-date; adjusted EBITDA margin expanded roughly 340 basis points organically.
+- Full-year 2026 guidance raised twice: revenue now $45.5–46.5bn (from $44.5–45.5bn), free cash flow raised to $11.5–12.5bn (from $6.5–7.5bn originally, then $6.5–7.5bn again before the latest raise).
+- Prolec GE joint venture (transformers, ~10,000 employees, 7 manufacturing sites) fully acquired for $5.275bn, completed February 2, 2026, funded evenly by cash and debt.
+- Capex commitment of $6bn (2025–2028, including $1bn tied to Prolec GE) and R&D commitment of $5bn (2025–2028); H1 2026 capex was $0.4bn and R&D spend $0.3bn.
+- Dividend doubled and buyback authorization increased alongside the raised multi-year financial outlook.
 
 ## Strategie & Ausblick
-- GE Vernova positioniert sich strategisch als Profiteur des durch KI-Rechenzentren und Elektrifizierung getriebenen globalen Strombedarfs.
-- Die Prolec-GE-Übernahme stärkt das Electrification-Segment (Transformatoren) und soll dessen Wachstumstrajektorie beschleunigen.
-- Mit dem Blue-Energy-Deal (Gas-plus-Nuklear) und fortlaufenden Nuklear-Partnerschaften (u.a. mit NVIDIA als F&E-Partner) baut das Unternehmen sein Portfolio für grundlastfähige, CO2-arme Energieerzeugung aus.
-- Der Rekord-Backlog von 176 Mrd. USD mit Zielmarke 200 Mrd. USD bis 2027 signalisiert mehrjährige Umsatzsichtbarkeit.
-- Trotz starker fundamentaler Entwicklung wird laut Motley Fool (07.08.2026) Skepsis an der Wall Street ("Wall Street is selling") beobachtet – ein Hinweis auf mögliche Bewertungssorgen nach der starken Kursrally seit 2024.
-- Das Windkraft-Segment bleibt laut Renewables Now weiterhin schwach, während die übrige Prognose angehoben wurde – ein Punkt, den Anleger im Blick behalten sollten.
+- GE Vernova remains positioned as a primary beneficiary of AI/data-center-driven electricity demand and broader grid electrification, with data center orders alone exceeding $5bn year-to-date.
+- Gas turbine manufacturing capacity is being scaled aggressively (20 GW in 2026 rising to 30 GW by 2030) to meet a multi-year order backlog that already stretches order books toward 2028.
+- The Prolec GE acquisition strengthens the Electrification segment's transformer capacity, a bottleneck area for grid buildout tied to data centers and renewables integration.
+- Nuclear and gas-plus-nuclear partnerships (e.g., the Blue Energy project in Texas, plus R&D collaboration with NVIDIA) extend the company's footprint into baseload, low-carbon generation.
+- Analysts and financial media continue to flag valuation caution ("Wall Street is selling") after the stock's roughly six-fold rise since the 2024 spin-off, even as the wind segment remains a comparative soft spot within an otherwise upgraded outlook.
+- An investor relations event/filing appears scheduled for September 16, 2026; further detail should be reviewed once available, as it may include updated Q3 commentary or strategic disclosures.
 
 ## Quellen
 - [GE Vernova reports second quarter 2026 financial results and raises 2026 financial guidance](https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial)
+- [GE Vernova reports first quarter 2026 financial results and raises 2026 guidance](https://www.gevernova.com/news/press-releases/ge-vernova-reports-first-quarter-2026-financial)
 - [GE Vernova raises multi-year financial outlook, doubles dividend and increases buyback authorization](https://www.gevernova.com/news/press-releases/ge-vernova-raises-multi-year-financial-outlook-doubles-dividend-increases-buyback-authorization)
 - [GE Vernova Announces Chief Financial Officer Transition](https://www.gevernova.com/news/press-releases/ge-vernova-announces-chief-financial-officer-transition)
-- [GE Vernova brings integrated electrification solutions to CIGRE 2026](https://www.gevernova.com/news/press-releases/ge-vernova-brings-integrated-electrification-solutions-cigre-2026-electricity-demand)
-- [GE Vernova marks 10 years of SF₆-free innovation with launch of new 170 kV gas-insulated switchgear](https://www.gevernova.com/news/press-releases/ge-vernova-marks-10-years-sf6-free-innovation-launch-new-170-kv-gas-insulated)
+- [GE Vernova completes Prolec GE acquisition, accelerating Electrification segment growth trajectory](https://www.gevernova.com/news/press-releases/ge-vernova-completes-prolec-ge-acquisition)
 - [GE Vernova to fully acquire Prolec GE joint venture](https://www.gevernova.com/news/press-releases/ge-vernova-fully-acquire-prolec-ge-joint-venture)
-- [GE Vernova completes Prolec GE acquisition](https://www.gevernova.com/news/press-releases/ge-vernova-completes-prolec-ge-acquisition)
-- [GE Vernova Q2 2026 slides: backlog hits $176B, guidance raised - Investing.com](https://www.investing.com/news/company-news/ge-vernova-q2-2026-slides-backlog-hits-176b-guidance-raised-93CH-4805961)
+- [Investor Relations | GE Vernova](https://www.gevernova.com/investors)
+- [Investor Updates - Investor Relations | GE Vernova](https://www.gevernova.com/investors/updates)
 - [GE Vernova Holds an $176 Billion Backlog, Yet Wall Street Is Selling: What Investors Should Know - The Motley Fool](https://www.fool.com/investing/2026/08/07/ge-vernova-holds-an-176-billion-backlog/)
 - [GE Vernova raises 2026 outlook, wind segment remains weak - Renewables Now](https://renewablesnow.com/news/ge-vernova-raises-2026-outlook-wind-segment-remains-weak-1298493/)
-- [GE Vernova stock extends 2026 rally as AI-driven backlog and UK grid deal support outlook](https://www.ad-hoc-news.de/boerse/news/corporate-news/ge-vernova-stock-extends-2026-rally-as-ai-driven-backlog-and-uk-grid-deal/70010571)
+- [GE Vernova's Orders Sold Out Until 2028—Can Its Stock Price Reach $1,000?](https://www.itiger.com/hans/news/1177771359)
 - [In today's CEO Daily: Scott Strazik's stunning turnaround at GE Vernova - Fortune](https://fortune.com/2026/08/12/from-edison-to-the-ai-age-inside-ge-vernovas-reinvention-and-600-stock-spike/)
+- [Watch CNBC's Full Interview with GE Vernova CEO Scott Strazik](https://www.cnbc.com/video/2026/03/25/watch-cnbcs-full-interview-with-ge-vernova-ceo-scott-strazik.html)
 - [The CEO behind GE Vernova's power surge - Semafor](https://www.semafor.com/article/02/05/2026/the-ceo-behind-ge-vernovas-power-surge)
