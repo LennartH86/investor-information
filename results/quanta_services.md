@@ -1,59 +1,48 @@
 # Quanta Services (PWR)
-_Aktualisiert: 31.08.2026 | Zeitraum: 24.08.2026 – 31.08.2026_
+_Aktualisiert: 03.09.2026 | Zeitraum: 27.08.2026 – 03.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 2 Aktien
-- **Kaufkurs (Ø):** 540,47 EUR
-- **Aktueller Kurs:** 520,50 EUR
-- **Marktwert:** 1.041,00 EUR
-- **Unrealisierter G/V:** -39,94 EUR (-3,69%)
-- **Portfolioanteil:** 0,64%
-- **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** Operationally the position is intact — Q2 2026 delivered a large beat (revenue $9.56bn, adjusted EPS $4.24) with record backlog of $53.4bn and raised full-year guidance — but the stock still fell roughly 15% over five sessions in August as investors digested the $2.0bn bond issue, higher leverage and an acquisition-heavy year; the -3.69% paper loss reflects that de-rating rather than a deterioration in the business. Against a 2026 adjusted EPS outlook of roughly $13.55–14.25 the shares trade at a demanding forward multiple (mid-40s P/E) with a negligible dividend yield (PWR is a growth, not an income, holding), so **holding** is the reasonable stance; the 0.64% weight leaves room to add on further weakness, but the valuation argues against chasing the position at current levels.
+- **Kaufkurs (Ø):** 540.47 EUR
+- **Aktueller Kurs:** 526.80 EUR
+- **Marktwert:** 1053.60 EUR
+- **Unrealisierter G/V:** -27.34 EUR (-2.53%)
+- **Portfolioanteil:** 0.66%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** The unrealized loss narrowed slightly from last week (-3.69% to -2.53%) as the stock recovered part of its post-Q2 leverage-driven pullback; the underlying business remains strong, with Q2 2026 revenue up 41% year-over-year, net income nearly doubling, and record backlog. Against 2026 adjusted EPS guidance of roughly $13.55–14.25, PWR still trades at a rich forward multiple (mid-40s P/E) with a minimal dividend yield (a new $0.11 quarterly dividend, ~0.07% annualized at current price), making this a growth rather than income holding; given the small portfolio weight (0.66%) and intact operating momentum, **holding** remains sensible, with any addition best timed to further weakness rather than chasing strength.
 
 ## Aktuelle Meldungen
-- On 3 August 2026 Quanta priced a $2.0 billion senior notes offering in three tranches: $500 million of 4.850% notes due 2029, $750 million of 5.300% notes due 2033 and $750 million of 5.550% notes due 2036. The offering closed on 6 August 2026; proceeds are earmarked for general corporate purposes including repayment of outstanding borrowings.
-- The stock extended a five-day slide of roughly 15% in early/mid-August despite the Q2 beat, as the market weighed the higher leverage from the debt issue and the pace of acquisition spending against the record backlog.
-- Zacks featured Quanta Services as "Bull of the Day" on 7 August 2026, pointing to its positioning in large-scale electrification, transmission upgrades and data-center power projects.
-- Q2 2026 results (reported end of July 2026) set records on revenue, adjusted EBITDA and backlog, and were accompanied by an increase to full-year guidance.
-- No new company press release was issued in the 24–31 August 2026 window itself; trading in that period was consolidation after the Q2 backlog surge rather than news-driven.
+- On 2 September 2026, Quanta's Board declared a quarterly cash dividend of $0.11 per share ($0.44 annualized), payable 9 October 2026 to holders of record as of 1 October 2026.
+- No major standalone press release beyond the dividend declaration was issued in the 27 August – 3 September 2026 window; the period was largely a continuation of post-Q2 trading dynamics.
+- The stock has traded around $669.94 (USD) as of 2 September 2026, up roughly 44.9% year-to-date, reflecting a partial recovery from the August leverage-driven slide following the $2.0 billion notes offering.
+- Coverage continues to frame Quanta as a key beneficiary of grid modernization and data-center power demand, with commentary questioning whether the premium valuation is justified after the strong one-year gain.
 
 ## Management
-- Earl C. "Duke" Austin, Jr. remains President and CEO, leading North America's largest specialty contractor for electric power, pipeline, industrial and communications customers.
-- On the Q1 2026 call (30 April 2026) Austin put the strategic emphasis on expanding Quanta's own power transformer manufacturing capacity — expected to roughly double in the coming years — to break supply-chain bottlenecks and protect project delivery timelines.
-- Management framed the record backlog as evidence of sustained, broad-based demand across all segments rather than a single large award.
-- The Q2 2026 call (July 2026) reinforced the same message: a big beat plus a raised outlook, with capital deployment (M&A and vertical integration) presented as the deliberate use of the balance sheet, which is also what triggered the market's leverage concerns.
-- Quanta hosted an Investor Day on 31 March 2026 setting out the multi-year capital deployment and growth framework.
+- Earl C. "Duke" Austin, Jr. remains President, CEO and COO, continuing to lead Quanta as North America's largest specialty contractor for electric power, pipeline, industrial and communications infrastructure.
+- Austin appeared on the Powerline Podcast (episode 119) discussing leadership, communication and safety, with topics including data centers, gas/power generation, and aging grid infrastructure — reinforcing the same growth themes (electrification, transmission investment) emphasized on recent earnings calls.
+- Management's Q2 2026 messaging (record backlog, raised full-year guidance, continued vertical integration into transformer manufacturing) remains the operative strategic narrative; no new management commentary specific to this week was identified beyond the dividend announcement.
 
 ## Finanzielles
-- **Q2 2026:** revenue $9.56 billion (vs. $6.77 billion in Q2 2025); net income attributable to common stock $451.4 million, or $2.96 per diluted share (vs. $229.3 million / $1.52); adjusted diluted EPS $4.24 (vs. $2.48).
-- **Q1 2026:** revenue $7.87 billion (vs. $6.23 billion); net income $220.6 million, or $1.45 per diluted share (vs. $144.3 million / $0.96); adjusted diluted EPS $2.68 (vs. $1.78).
-- **Backlog:** total backlog reached a record $53.4 billion at the end of Q2 2026, up from $48.5 billion at the end of Q1 2026 — an aggressive year-over-year expansion.
-- **Guidance:** after Q1 the company guided to full-year 2026 revenue of $34.7–35.2 billion and adjusted EPS of $13.55–14.25; guidance was raised again with the Q2 report.
-- **Cash flow:** free cash flow guidance of roughly $1.8 billion at the midpoint for 2026, including $250–350 million of capex tied to the vertical supply-chain build-out in high-voltage transformers and breakers.
-- **Leverage:** the $2.0 billion August notes issue increased gross debt and was a key driver of the negative share-price reaction, despite the operating beat.
+- **Q2 2026:** revenue $9.56 billion (vs. $6.77 billion in Q2 2025, +41.1% YoY); net income attributable to common stock $451.4 million / $2.96 per diluted share (vs. $229.3 million / $1.52, +97% net income growth); adjusted diluted EPS $4.24 (vs. $2.48).
+- **Q1 2026:** revenue $7.87–7.9 billion (vs. $6.23 billion); net income $220.6 million / $1.45 per diluted share (vs. $144.3 million / $0.96); adjusted diluted EPS $2.68 (vs. $1.78); record backlog of $48.5 billion at quarter-end.
+- **Dividend:** new quarterly cash dividend of $0.11 per share declared 2 September 2026 ($0.44 annualized), payable 9 October 2026.
+- **Guidance:** full-year 2026 adjusted diluted EPS guidance of roughly $13.55–14.25, raised further following the Q2 beat; total backlog reached a record level at the end of Q2 2026.
+- **Leverage:** the $2.0 billion senior notes offering priced in August 2026 remains the key balance-sheet development weighing on sentiment despite the strong operating results.
 
 ## Strategie & Ausblick
-- Quanta is positioning itself as the execution partner for the North American grid build-out: large-scale electrification, high-voltage transmission upgrades and power supply for data centers are the stated demand drivers.
-- **Vertical integration:** the push into in-house manufacturing of high-voltage transformers and breakers is the central strategic initiative, aimed at removing the equipment bottleneck that constrains transmission projects industry-wide.
-- **M&A:** three acquisitions were completed in the first six months of 2026 (eight in full-year 2025); Phalcon, Ltd., Enerfab Holdings, Inc., Percheron and PSD were completed during Q2 and July 2026.
-- The 2026 acquisitions are expected to contribute approximately $1.2–1.4 billion of revenue and roughly $120–140 million of adjusted EBITDA for the full year.
-- Capital deployment has been sustained and substantial: about $6.0 billion deployed in aggregate from 2022 through 2025 via acquisitions and investments.
-- **Outlook risk:** the combination of record backlog and rising leverage means the investment case now hinges on execution — converting the $53.4 billion backlog into margin at the guided pace while integrating four recent acquisitions.
+- Quanta continues to position itself as the primary execution partner for the North American grid build-out — large-scale electrification, high-voltage transmission upgrades, and power infrastructure for data centers remain the core demand drivers.
+- Acquisition activity remains active in 2026: recent additions include Phalcon, Enerfab, Percheron and PSD (completed in Q2 and July 2026), expected to contribute approximately $1.2–1.4 billion of revenue and $120–140 million of adjusted EBITDA for the full year.
+- The company's long-term capital deployment strategy (~$6.0 billion deployed 2022–2025 via M&A and organic investment) continues, alongside the vertical-integration push into in-house transformer and breaker manufacturing to relieve equipment supply-chain bottlenecks.
+- Outlook risk remains centered on execution: converting the record backlog into margin at the guided pace while integrating recent acquisitions and managing the higher leverage taken on in August.
 
 ## Quellen
-- [Quanta Services Announces Pricing of Senior Notes Offering – Investor Relations](https://investors.quantaservices.com/news-events/press-releases/detail/403/quanta-services-announces-pricing-of-senior-notes-offering)
-- [Quanta Services Announces Pricing of Senior Notes Offering – PR Newswire](https://www.prnewswire.com/news-releases/quanta-services-announces-pricing-of-senior-notes-offering-302841685.html)
-- [Latham & Watkins Advises Quanta Services on US$2 Billion Senior Notes Offering](https://www.lw.com/en/news/2026/08/latham-watkins-advises-quanta-services-on-senior-notes-offering)
+- [Quanta Services Announces Quarterly Cash Dividend – PR Newswire](https://www.prnewswire.com/news-releases/quanta-services-announces-quarterly-cash-dividend-302868057.html)
+- [Quanta Services Announces Quarterly Cash Dividend – Investor Relations](https://investors.quantaservices.com/news-events/press-releases/detail/387/quanta-services-announces-quarterly-cash-dividend)
 - [Quanta Services Reports Second Quarter 2026 Results – Investor Relations](https://investors.quantaservices.com/news-events/press-releases/detail/402/quanta-services-reports-second-quarter-2026-results)
-- [Quanta Services Reports Second Quarter 2026 Results – PR Newswire](https://www.prnewswire.com/news-releases/quanta-services-reports-second-quarter-2026-results-302838646.html)
 - [Quanta Services Reports First Quarter 2026 Results – Investor Relations](https://investors.quantaservices.com/news-events/press-releases/detail/396/quanta-services-reports-first-quarter-2026-results)
-- [Earnings call transcript: Quanta Services posts big Q2 2026 beat, lifts outlook – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-quanta-services-posts-big-q2-2026-beat-lifts-outlook-93CH-4825090)
-- [Earnings call transcript: Quanta Services Q1 2026 beats estimates, stock surges – Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-quanta-services-q1-2026-beats-estimates-stock-surges-93CH-4650110)
-- [Quanta Services stock extends five-day slide as investors digest Q2 2026 beat and higher leverage – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/quanta-services-stock-extends-five-day-slide-as-investors-digest-q2-2026/70000023)
-- [Quanta Services stock consolidates after Q2 2026 backlog surge – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/quanta-services-stock-consolidates-after-q2-2026-backlog-surge/69974588)
-- [Bull of the Day: Quanta Services (PWR), 7 August 2026 – Zacks](https://www.zacks.com/commentary/2970630/bull-of-the-day-quanta-services-pwr)
+- [Can Quanta Justify Its Premium Multiple After a 79% Gain in a Year? – TradingView News](https://www.tradingview.com/news/zacks:d74ab757f094b:0-can-quanta-justify-its-premium-multiple-after-a-79-gain-in-a-year/)
+- [Quanta Services stock gains on strong Q2 2026 profit surge – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/quanta-services-stock-gains-on-strong-q2-2026-profit-surge/70046224)
+- [119 | Duke Austin Quanta Services CEO – Powerline Podcast](https://creators.spotify.com/pod/profile/powerline-podcast/episodes/119--Duke-Austin-Quanta-Services-CEO--Powering-the-Future-Leadership--Communication--and-Safety-e2t9csh)
+- [Management Team – Quanta Services Investor Relations](https://investors.quantaservices.com/company-information/management-team)
 - [Quanta Services Stock: What a $1.7 Billion Acquisition Quarter Means for 2026 – TIKR](https://www.tikr.com/blog/quanta-services-stock-what-a-1-7-billion-acquisition-quarter-means-for-2026)
 - [Quanta Services 2026 Investor Day Presentation (31 March 2026) – PDF](https://investors.quantaservices.com/_assets/_70bbed3a12adae6500dbda264b4b40b0/quantaservices/db/894/10451/pdf/Quanta+Services+2026+Investor+Day+Presentation+vF+for+Website.pdf)
-- [Quanta Services Form 10-Q FY2026 (Q1) – SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001050915/000105091526000016/pwr-20260331.htm)
-- [Management Team – Quanta Services Investor Relations](https://investors.quantaservices.com/company-information/management-team)
