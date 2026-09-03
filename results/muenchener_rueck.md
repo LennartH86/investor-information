@@ -1,53 +1,50 @@
 # Münchener Rück (MUV2.DE)
-_Aktualisiert: 30.08.2026 | Zeitraum: 23.08.2026 – 30.08.2026_
+_Aktualisiert: 03.09.2026 | Zeitraum: 27.08.2026 – 03.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 215,00 EUR
-- **Aktueller Kurs:** 517,60 EUR
-- **Marktwert:** 5.176,00 EUR
-- **Unrealisierter G/V:** +3.010,82 EUR (+139,06%)
-- **Portfolioanteil:** 3,19%
+- **Aktueller Kurs:** 522,20 EUR
+- **Marktwert:** 5.222,00 EUR
+- **Unrealisierter G/V:** +3.056,82 EUR (+141,18%)
+- **Portfolioanteil:** 3,26%
 - **Dividenden erhalten:** 719,94 EUR
-- **Bewertung:** Die Position hat sich seit dem Erstkauf 2020 mehr als verdoppelt (+139,06%), zusätzlich sind 719,94 EUR Dividenden geflossen. Fundamental stützen ein Rekord-Halbjahresergebnis von 3,925 Mrd. EUR (+23,5% ggü. Vorjahr), eine annualisierte Eigenkapitalrendite von 25,5% im Q2 2026 sowie eine Ausschüttungspolitik von über 80% des Gewinns (Dividendenangaben in den Quellen schwanken zwischen 22,00 und 24,00 EUR je Aktie, was bezogen auf 517,60 EUR einer Rendite von rund 4,3% bis 4,6% entspricht, plus ein laufendes Aktienrückkaufprogramm über bis zu 2,25 Mrd. EUR) die Bewertung. Belastend wirkt der Preisverfall in der Rückversicherung (–5,5% inflations- und risikobereinigt bei den jüngsten Erneuerungen) und die daraus folgende Senkung des Umsatzziels 2026; ein Halten der Position erscheint auf Basis der Recherche plausibel, ein Aufstocken angesichts des weichen Marktzyklus und des Kurses nahe des Jahreshochs weniger dringlich. Konkrete KGV-/KBV-Werte lagen in den Suchergebnissen nicht vor.
+- **Bewertung:** Die Position notiert seit dem Erstkauf 2020 mit +141,18% deutlich im Plus, ergänzt um 719,94 EUR erhaltene Dividenden. Fundamental untermauert wird das durch ein Rekord-Halbjahresergebnis von 3,925 Mrd. EUR (+23,5% ggü. Vorjahr) und eine bestätigte Jahresprognose von 6,3 Mrd. EUR Nettogewinn bei einer Zielrendite auf das Eigenkapital von über 18%; konkrete KGV-/KBV-Werte lagen in den Recherchequellen nicht vor. Belastend bleibt der Preisverfall in der Rückversicherung (–5,5% bei den jüngsten Erneuerungen), der bereits zu einer Kappung des Umsatzziels 2026 (von 64 auf 62 Mrd. EUR) geführt hat; das Gewinnziel wurde dabei unverändert bestätigt. Angesichts des Kurses nahe dem Jahreshoch, laufender Aktienrückkäufe und der strategischen Cyber-Expansion (At-Bay) erscheint ein Halten der Position weiterhin sinnvoll, ein Aufstocken angesichts des weichen Marktzyklus weniger dringlich.
 
 ## Aktuelle Meldungen
-- **19.08.2026:** Munich Re hat die Übernahme des Cyber-Insurtechs **At-Bay** vereinbart – Unternehmenswert 575 Mio. USD. At-Bay wird künftig von Hartford Steam Boiler (HSB) im Bereich Global Specialty Insurance geführt; der Abschluss der Transaktion wird für das erste Quartal 2027 erwartet.
-- Die Aktie notierte zuletzt bei rund 519,20 EUR und damit weiter unter der Marke von 600 EUR; seit Jahresbeginn ergibt sich ein Plus von 0,58%.
-- **August 2026:** Munich Re hat wegen des anhaltenden Preisverfalls in der Rückversicherung das **Umsatzziel für 2026 gekappt**; das Ergebnisziel wurde dabei bestätigt.
-- Im Zeitraum **14.05. bis 14.08.2026** wurden im Rahmen des laufenden Rückkaufprogramms **1.539.124 eigene Aktien** zurückgekauft.
-- **07.08.2026:** Veröffentlichung des Halbjahresfinanzberichts zum 30.06.2026 mit einem Rekordgewinn von knapp 4 Mrd. EUR.
+- Die Aktie bewegt sich weiterhin unter der Marke von 600 EUR; Analysten sprechen von einer Konsolidierungsphase nach dem starken Kursanstieg des laufenden Jahres.
+- **19.08.2026:** Munich Re hat die Übernahme des Cyber-Insurtechs **At-Bay** vereinbart – Unternehmenswert 575 Mio. USD, Abschluss für Q1 2027 geplant. At-Bay wird künftig von Hartford Steam Boiler (HSB) im Bereich Global Specialty Insurance geführt.
+- **August 2026:** Munich Re hat wegen des anhaltenden Preisverfalls in der Rückversicherung das **Umsatzziel für 2026 von 64 auf 62 Mrd. EUR gekappt**; das Gewinnziel von 6,3 Mrd. EUR wurde dabei bestätigt.
+- **01.09.2026:** Munich Re hat **Michael Correa** zum President und CEO des kanadischen Lebensversicherungsgeschäfts ernannt.
+- Munich Re setzt sein laufendes Aktienrückkaufprogramm über bis zu 2,25 Mrd. EUR fort.
 
 ## Management
-- **Christoph Jurecka** ist seit 2026 Vorstandsvorsitzender (CEO) von Munich Re. Er verantwortet die im August 2026 kommunizierte Senkung der Umsatzprognose bei gleichzeitigem Festhalten am Gewinnziel von 6,3 Mrd. EUR.
-- **Joachim Wenning** hat den CEO-Posten Ende 2025 nach knapp neun Jahren abgegeben; unter seiner Führung stieg das Jahresergebnis auf über 6 Mrd. EUR.
-- **Nikolaus von Bomhard**, Aufsichtsratsvorsitzender, hat sich im April 2026 öffentlich für Wenning als seinen Nachfolger ausgesprochen ("Ich halte Joachim Wenning für einen hervorragenden Kandidaten").
+- **Christoph Jurecka** ist seit Anfang 2026 Vorstandsvorsitzender (CEO) von Munich Re und damit Nachfolger von Joachim Wenning. Als früherer Finanzvorstand hat er Investoren bislang überzeugt, muss sich in dem schwierigeren Marktumfeld mit sinkenden Preisen nun aber als Konzernlenker beweisen.
+- **Joachim Wenning** hat den CEO-Posten Ende 2025 nach knapp neun Jahren abgegeben; ein spezifisches Interview mit ihm aus 2026 lag in den Suchergebnissen nicht vor.
+- **Michael Correa** wurde zum 01.09.2026 als President und CEO für das kanadische Lebensversicherungsgeschäft von Munich Re berufen.
 
 ## Finanzielles
-- **Q2 2026 Konzernergebnis:** 2.211 Mio. EUR (Q2 2025: 2.085 Mio. EUR).
-- **Halbjahresergebnis 2026:** 3.925 Mio. EUR, +23,5% gegenüber dem Vorjahreszeitraum – ein Rekordwert.
-- **Versicherungsumsatz H1 2026:** 30.853 Mio. EUR (+0,9%); im Q2 2026 lag der Versicherungsumsatz bei 14.939 Mio. EUR und damit nur leicht über Vorjahr.
-- **Combined Ratio Q2 2026:** 68,9% des Netto-Versicherungsumsatzes (Q2 2025: 61,0%).
-- **Annualisierte Eigenkapitalrendite Q2 2026:** 25,5%.
-- Treiber der Ergebnisse waren sehr niedrige Großschadenaufwendungen in der Schaden-/Unfall-Rückversicherung sowie ein sehr starkes Kapitalanlageergebnis.
+- **Q2 2026 Konzernergebnis:** 2,2 Mrd. EUR (deutlich über der Analystenerwartung von rund 1,786 Mrd. EUR).
+- **Halbjahresergebnis 2026:** 3,925 Mrd. EUR, +23,5% gegenüber dem Vorjahreszeitraum – ein Rekordwert; Munich Re liegt damit auf Kurs zum Jahresziel von 6,3 Mrd. EUR.
+- **Q1 2026 Konzernergebnis:** 1,714 Mrd. EUR – ebenfalls auf Kurs zum Jahresziel.
+- Getragen wurde das Ergebnis von einer insgesamt erfreulichen operativen Entwicklung und sehr niedrigen Großschadenaufwendungen in der Schaden-/Unfall-Rückversicherung.
+- **Umsatzprognose 2026 gesenkt:** von 64 auf 62 Mrd. EUR, u.a. wegen bewusst reduzierten Neugeschäfts während der Erneuerungsrunden im Juli.
 
 ## Strategie & Ausblick
-- **Jahresziel 2026:** IFRS-Nettoergebnis von 6,3 Mrd. EUR (rund 7,33 Mrd. USD) – nach dem Halbjahresergebnis von 3,9 Mrd. EUR wurde das Ziel bestätigt. Die Eigenkapitalrendite soll über 18% liegen.
-- **Umsatzziel 2026 gesenkt:** Bei den jüngsten Vertragserneuerungen ergab sich inflations- und risikobereinigt ein Preisrückgang von 5,5%.
-- **Aktienrückkauf:** Programm über bis zu 2,25 Mrd. EUR, beschlossen am 29.04.2026, Start der Rückkäufe am 14.05.2026. Insgesamt fließen laut Berichten rund 5,3 Mrd. EUR an die Aktionäre zurück (Dividende plus Rückkauf; die Dividendenangaben der Quellen liegen bei 22,00 bzw. 24,00 EUR je Aktie); die Ausschüttungsquote liegt bei über 80% des Gewinns.
-- **Strategie "Ambition 2030":** jährliches Gewinnwachstum je Aktie von mehr als 8%.
-- **Wachstumsfeld Cyber:** Mit der At-Bay-Übernahme kombiniert Munich Re die eigene Bilanz- und Risikokompetenz mit technologiegetriebenem Underwriting, um im Cybergeschäft stärker zu wachsen.
+- **Jahresziel 2026:** IFRS-Nettoergebnis von 6,3 Mrd. EUR (rund 7,2 Mrd. USD) – trotz gesenkter Umsatzprognose bestätigt.
+- **Preisdruck im Rückversicherungsgeschäft:** Bei den Vertragserneuerungen im Juli ergab sich inflations- und risikobereinigt ein Preisrückgang von 5,5%; die Strategie setzt auf ertragsorientiertes Underwriting statt Volumenwachstum um jeden Preis.
+- **Wachstumsfeld Cyber:** Mit der At-Bay-Übernahme sichert sich Munich Re Zugang zu einem der am schnellsten wachsenden Versicherungssegmente; das Unternehmen ist bereits seit 2022 über HSB Leitrückversicherer und größter Kapitalgeber von At-Bay, wodurch ein bekanntes Portfolio direkt in die eigene Bilanz übergeht.
+- **Kapitalrückführung:** Aktienrückkaufprogramm über bis zu 2,25 Mrd. EUR läuft weiter, ergänzt durch die laufende Dividendenpolitik.
 
 ## Quellen
-- [Munich Re posts quarterly result of €2.2bn (24.07.2026)](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-07-24.html)
-- [Munich Re generates record half-year profit of almost €4bn](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/half-year-financial-report.html)
-- [Munich Re Group Half-year financial report as at 30 June 2026 (PDF, 07.08.2026)](https://www.munichre.com/content/dam/munichre/mrwebsiteslaunches/2026-half-year-financial-report/MunichRe-Press-Handout-Q2-2026_en.pdf/_jcr_content/renditions/original./MunichRe-Press-Handout-Q2-2026_en.pdf)
-- [Munich Re Group to Acquire Cyber Insurtech At-Bay (19.08.2026)](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-08-19.html)
-- [ROUNDUP/Wegen Preisverfall: Munich Re kappt Umsatzziel für 2026](https://www.finanznachrichten.de/nachrichten-2026-08/69249746-roundup-wegen-preisverfall-munich-re-kappt-umsatzziel-fuer-2026-016.htm)
-- [Munich Re stock holds below €600 as cyber deal and strong H1 2026 shape outlook](https://www.ad-hoc-news.de/boerse/news/corporate-news/munich-re-stock-holds-below-600-as-cyber-deal-and-strong-h1-2026-shape/69990490)
-- [Die Munich-Re-Aktie startet Aktienrückkauf und bleibt unter dem Jahreshoch](https://www.ad-hoc-news.de/boerse/news/corporate-news/die-munich-re-aktie-startet-aktienrueckkauf-und-bleibt-unter-dem/70012750)
-- [Strong investment returns and low losses propel Munich Re to record H1'26 – Reinsurance News](https://www.reinsurancene.ws/strong-investment-returns-and-low-losses-propel-munich-re-to-record-h126/)
-- [Munich Re targets $7.33bn IFRS net profit for 2026](https://finance.yahoo.com/news/munich-targets-7-33bn-ifrs-100350091.html)
-- [„Ich halte Joachim Wenning für einen hervorragenden Kandidaten" – Versicherungswirtschaft-heute](https://versicherungswirtschaft-heute.de/koepfe-und-positionen/2026-04-22/ich-halte-joachim-wenning-fur-einen-hervorragenden-kandidaten-munich-re-aufsichtsratschef-von-bomhard-wunscht-sich-ex-ceo-als-nachfolger/)
-- [Münchener Rück Prognose 2026: Gewinnziel 6,3 Mrd. € & Dividenden-Power – aktie.net](https://www.aktie.net/ratgeber/munchener-ruck-dividendenstarke-mehr-der-re-versicherungs-gigant)
-- [Munich Re Dividende 2026: 22 € – Höchste DAX-Dividende (Analyse)](https://dividenden.guru/munich-re-dividende/)
+- [Münchener Rück Aktie: Umsatz auf 62 Mrd. gesenkt, Gewinn hält – boerse-express.com](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-umsatz-auf-62-mrd-gesenkt-gewinn-haelt-937248)
+- [Münchener Rück Aktie: At-Bay-Deal trifft auf schwächere Preise – Finanztrends](https://www.finanztrends.de/news/muenchener-rueck-aktie-at-bay-deal-trifft-auf-schwaechere-preise-wie-geht-weiter/)
+- [Munich Re: 2026 Half-Year Results – Atlas Mag](https://www.atlas-mag.net/en/articles/munich-re-2026-half-year-results)
+- [Munich Re's Balancing Act: Buybacks Roll On While Pricing Pressure Reshapes the Agenda – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/munich-re-s-balancing-act-buybacks-roll-on-while-pricing-pressure/70036309)
+- [Munich Re übertrifft mit Quartalsergebnis Analysten-Prognosen deutlich – Versicherungsmonitor](https://versicherungsmonitor.de/2026/07/24/munich-re-uebertrifft-mit-quartalsergebnis-analysten-prognosen-deutlich/)
+- [Munich Re posts quarterly result of €2.2bn (24.07.2026) – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-07-24.html)
+- [Quarterly statement: Munich Re generates net result of €1.7bn in Q1 2026 – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/quarterly-statement-1-2026.html)
+- [Munich Re Group to Acquire Cyber Insurtech At-Bay (19.08.2026) – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-08-19.html)
+- [Exclusive: Munich Re to buy long-time capacity partner At-Bay in cyber MGA takeover – theinsurer.com](https://www.theinsurer.com/cyber-risk/news/exclusive-munich-re-to-buy-long-time-capacity-partner-at-bay-in-cyber-mga-2026-08-18/)
+- [Munich Re stock holds firm as At-Bay acquisition underscores growth push – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/munich-re-stock-holds-firm-as-at-bay-acquisition-underscores-growth-push/69994780)
+- [Munich Re: Joachim Wenning hört als CEO auf – Nachfolger wird der CFO – Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/munich-re-joachim-wenning-hoert-als-ceo-auf-nachfolger-wird-der-cfo/100143633.html)
