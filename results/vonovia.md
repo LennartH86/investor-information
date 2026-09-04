@@ -1,56 +1,46 @@
-# Vonovia (VNA.DE)
-_Aktualisiert: 31.08.2026 | Zeitraum: 24.08.2026 – 31.08.2026_
+# Vonovia (VNA)
+_Aktualisiert: 04.09.2026 | Zeitraum: 28.08.2026 – 04.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 47 Aktien
 - **Kaufkurs (Ø):** 28,05 EUR
-- **Aktueller Kurs:** 19,82 EUR
-- **Marktwert:** 931,54 EUR
-- **Unrealisierter G/V:** -386,81 EUR (-29,34%)
-- **Portfolioanteil:** 0,57%
+- **Aktueller Kurs:** 19,28 EUR
+- **Marktwert:** 906,16 EUR
+- **Unrealisierter G/V:** -412,19 EUR (-31,27%)
+- **Portfolioanteil:** 0,56%
 - **Dividenden erhalten:** 58,75 EUR
-- **Bewertung:** Der EPRA NTA lag zum Halbjahr 2026 stabil bei rund 39,2 Mrd. EUR, was bei gut 800 Mio. Aktien einem NTA je Aktie im Bereich von etwa 47 EUR entspricht – der Kurs von 19,82 EUR impliziert damit einen Abschlag auf den Substanzwert in der Größenordnung von rund 55–60%, während die Dividendenrendite bei rund 6% liegt und die erhaltenen Ausschüttungen (58,75 EUR) den Buchverlust bereits um etwa 15% abfedern. Angesichts bestätigter Jahresprognose, wieder positiver Portfoliobewertung und laufendem Schuldenabbau, aber weiterhin schwachem operativem Free Cashflow (-45,4%) und Kurszielsenkungen mehrerer Häuser erscheint Halten die sachgerechte Wahl; ein Aufstocken wäre allenfalls bei nachhaltiger Cashflow-Erholung und stabilem Zinsumfeld zu erwägen, ein Verkauf auf dem gedrückten Niveau vernichtet dagegen den Substanzabschlag.
+- **Bewertung:** Der Kurs ist im Berichtszeitraum weiter gefallen und pendelte zwischen rund 18,7 und 19,3 EUR, nur knapp über dem 52-Wochen-Tief bzw. sogar auf Dreijahrestief – der Buchverlust der Position hat sich damit auf -31,27% ausgeweitet. Fundamental bleibt das Bild gespalten: Die Jahresprognose (Adjusted EBITDA 2,95–3,05 Mrd. EUR) wurde trotz eines um 45,4% eingebrochenen operativen Free Cashflows bestätigt, während der EPRA NTA je Aktie weiterhin einen erheblichen Substanzabschlag von deutlich über 55% impliziert; die erhaltenen Dividenden (58,75 EUR) mildern den Verlust nur geringfügig. Bei bestätigter Prognose, aber anhaltendem Kursdruck und gespaltenen Analystenmeinungen erscheint Halten weiterhin die naheliegende Position – ein Nachkauf käme allenfalls bei einer erkennbaren Stabilisierung des Cashflows infrage, ein Verkauf auf dem aktuell gedrückten Niveau würde den Substanzabschlag realisieren.
 
 ## Aktuelle Meldungen
-- Die Aktie bewegte sich in der Berichtswoche um die Marke von 20 EUR und notierte zuletzt knapp darunter; Treiber waren die Nachwirkungen der Halbjahreszahlen, die bestätigte Jahresprognose sowie eine anstehende Anleiherückzahlung über 500 Mio. EUR.
-- Am 24.08.2026 senkte Barclays das Kursziel auf 20 EUR, während Goldman Sachs an einer positiven Einschätzung festhielt – die Analystenmeinungen zur Bewertung gehen damit weiter auseinander.
-- Am 30.08.2026 reduzierte eine US-Investmentbank ihr Kursziel von 34,20 EUR auf 29,50 EUR bei beibehaltener positiver Empfehlung und verwies ausdrücklich auf Anpassungen der Schätzungen nach dem Halbjahresbericht.
-- Vonovia meldete den Ausbildungsstart von rund 310 Auszubildenden und dual Studierenden im August/September 2026; die konzerneigene Handwerksakademie in Berlin zieht nach dem ersten Jahr eine positive Bilanz.
-- Im August wurde eine strategische Kooperation mit dem Berliner KI-Start-up Immoly zur digitalen Plattform für die automatisierte Verwaltung privater Vermieterbestände bekannt.
-- Meldungen über weitere Portfolioverkäufe: rund 1.000 Wohneinheiten wurden an den Investor Tristan veräußert (Transaktionsvolumen im Bereich von rund 55 Mio. EUR).
+- Die Vonovia-Aktie fiel im Berichtszeitraum auf ein Dreijahrestief und notierte am 02./03.09.2026 bei rund 18,7–18,9 EUR, nur wenig über dem 52-Wochen-Tief von 18,66 EUR; über den letzten Monat hat die Aktie rund 13% verloren, seit Jahresbeginn rund 24%.
+- Analysten bleiben gespalten: Während einzelne Häuser die Kursziele weiter senken, verweisen andere auf das solide Halbjahres-EBITDA und einen im historischen Vergleich stark gedrückten Kurs – Zinsdruck und die Diskrepanz zwischen Mietentwicklung und Aktienkurs werden als Belastungsfaktoren genannt.
+- Rund 310 neue Auszubildende und dual Studierende haben im August/September 2026 ihre Ausbildung bei Vonovia begonnen – ein Signal für die Investitionen des Konzerns in den eigenen Fachkräftenachwuchs.
+- Vonovia hat die Prognose für organisches Mietwachstum 2026 um 20 Basispunkte gesenkt; Ursache ist der Effekt des Berliner Mietspiegels, ein regulatorischer und kein operativer Faktor.
 
 ## Management
-- Der Führungswechsel an der Konzernspitze ist vollzogen: Rolf Buch hat den CEO-Posten zum Jahresende 2025 abgegeben, Nachfolger ist Luka Mucic (zuvor CFO bei Vodafone). Buch ist seit Dezember 2025 als Executive Advisor bei KKR tätig.
-- Ein aktuelles Interview des ehemaligen CEO Rolf Buch aus dem Berichtszeitraum liegt nicht vor; die verfügbaren Aussagen stammen aus seiner Abschiedsbilanz Ende 2025 mit optimistischem Ausblick auf 2026.
-- Das Management bekräftigte im Zuge der Halbjahreszahlen sämtliche Ergebnisprognosen für 2026 sowie den Ausblick bis 2028 – ein Signal für Kontinuität der Strategie über den CEO-Wechsel hinaus.
+- Der CEO-Wechsel an der Konzernspitze ist weiterhin vollzogen: Rolf Buch hat den Posten Ende 2025 an Luka Mucic (zuvor CFO bei Vodafone) übergeben und ist seither als Executive Advisor bei KKR tätig.
+- Ein aktuelles Interview des amtierenden Managements aus dem Berichtszeitraum liegt nicht vor; das Management bekräftigt aber im Zuge der Halbjahreszahlen unverändert Kontinuität in der Strategie über den Führungswechsel hinaus.
 
 ## Finanzielles
-- Adjusted EBITDA H1 2026: 1.456,5 Mio. EUR, +2,4% gegenüber Vorjahr und damit über den durchschnittlichen Analystenerwartungen.
-- Adjusted EBITDA im Vermietungsgeschäft: 1.268,6 Mio. EUR, +3,5% – und das trotz eines um rund 5.000 Wohnungen kleineren Portfolios.
-- Segment Value-add mit dem stärksten Wachstum: Adjusted EBITDA +27,6% auf 128,5 Mio. EUR, getragen von der Handwerkerorganisation und dem Energiegeschäft; die Investitionen stiegen um 10,7% auf 553,6 Mio. EUR.
-- Organisches Mietwachstum von 3,6% (2,1% Marktmiete, 1,2% Modernisierung, 0,3% Neubau); Leerstandsquote niedrig bei 2,3%, Zahlungsquote sehr hoch bei 99,6%.
-- Schwachpunkt: Der operative Free Cashflow brach um 45,4% ein – der wesentliche Kritikpunkt an einem ansonsten soliden Zahlenwerk.
-- EPRA NTA nahezu stabil bei 39,2 Mrd. EUR; der Immobilienbestand wertete inklusive Investitionen um 1,8% auf und erreicht einen Marktwert von 81,8 Mrd. EUR – die Bewertungswende ist damit bestätigt.
-- Refinanzierungen im Volumen von rund 4,4 Mrd. EUR wurden gemeldet; eine Anleihe über 500 Mio. EUR steht zur Rückzahlung an.
+- Die zuletzt gemeldeten Halbjahreszahlen (H1 2026) bleiben Referenzpunkt: Adjusted EBITDA 1.456,5 Mio. EUR (+2,4% ggü. Vorjahr), Segment Vermietung +3,5% auf 1.268,6 Mio. EUR, Segment Value-add +27,6% auf 128,5 Mio. EUR.
+- Belastungsfaktor bleibt der operative Free Cashflow, der im ersten Halbjahr um 45,4% einbrach – der zentrale Kritikpunkt der Analysten an einem ansonsten soliden Zahlenwerk.
+- Vonovia hat im laufenden Jahr Refinanzierungsmaßnahmen über rund 4,4 Mrd. EUR (Laufzeit 8 Jahre, Kupon 3,2%) abgeschlossen; für 2026 insgesamt müssen Verbindlichkeiten von rund 5,54 Mrd. EUR refinanziert werden.
+- Jahresprognose 2026 unverändert bestätigt: Adjusted EBITDA 2,95–3,05 Mrd. EUR, Adjusted EBT 1,9–2,0 Mrd. EUR, Adjusted Shareholder Earnings 1,4–1,5 Mrd. EUR.
 
 ## Strategie & Ausblick
-- Prognose 2026 bestätigt: Adjusted EBITDA von 2,95 bis 3,05 Mrd. EUR und Adjusted EBT von 1,9 bis 2,0 Mrd. EUR; die Adjusted Shareholder Earnings werden mit 1,4 bis 1,5 Mrd. EUR angegeben.
-- Das Mietwachstumsziel 2026 wurde leicht um 20 Basispunkte auf 4% gesenkt – Ursache sind die Effekte des Berliner Mietspiegels, also ein regulatorischer, kein operativer Faktor.
-- Fortsetzung des Verkaufsprogramms: 3.000 bis 3.500 Wohneinheiten sollen 2026 veräußert werden; im ersten Halbjahr wurden bereits rund 700 Mio. EUR an Verkäufen realisiert. Übergeordnet steht ein Verkaufsprogramm im Volumen von rund 2,5 Mrd. EUR zur Entschuldung.
-- Photovoltaik-Ausbau als Wachstumsfeld: rund 300 Megawatt Peak auf etwa 30.000 Dächern bis Ende 2026 bei einem Investitionsvolumen von über 400 Mio. EUR.
-- Neubau und Quartiersentwicklung gewinnen wieder an Bedeutung, u.a. das Projekt "Merlin Quartier" in Falkensee gemeinsam mit HIH Invest Real Estate mit 472 Wohnungen; erste Bauabschnitte sollen bis Ende 2026 fertiggestellt werden.
-- Der Ausblick bis 2028 wurde unverändert bestätigt – die Doppelstrategie aus Investieren (Value-add, Energie, Neubau) und Entschulden (Verkäufe, Refinanzierung) bleibt der Kern des Geschäftsmodells.
+- Investitionsoffensive: 2026 sollen rund 1,2 Mrd. EUR in energetische Sanierung, Neubau sowie den Ausbau von Photovoltaik und Wärmepumpen fließen; 2027 soll der Betrag auf 1,4 Mrd. EUR steigen, bis 2028 auf rund 2 Mrd. EUR pro Jahr – mehr als eine Verdopplung gegenüber 2024.
+- Vonovia will künftig verstärkt unsanierte Bestandsimmobilien zukaufen und sanieren; zudem läuft ein Neubauprogramm mit rund 3.000 Wohnungen.
+- Die Doppelstrategie aus Investieren (Value-add, Energie, Neubau) und Entschulden (Portfolioverkäufe, Refinanzierung) bleibt unverändert der strategische Kern; der Ausblick bis 2028 wurde bestätigt.
+- Trotz bestätigter operativer Ziele bleibt die Bewertungslücke zwischen Immobilienwerten (NTA) und Aktienkurs das beherrschende Thema am Markt – eine Neubewertung der Aktie hängt aus Analystensicht maßgeblich an einer Stabilisierung des Cashflows und des Zinsumfelds.
 
 ## Quellen
-- [Vonovia: Attraktives Wachstum im Kerngeschäft und positive Wertentwicklung im Portfolio (EQS-News, 05.08.2026)](https://www.eqs-news.com/de/news/corporate/vonovia-attraktives-wachstum-im-kerngeschaeft-und-positive-wertentwicklung-im-portfolio/e9594c59-01b4-4f1b-8792-d629cf493aed_de)
-- [Vonovia SE Zwischenmitteilung Q2 2026 / Halbjahresbericht H1 2026](https://report.vonovia.com/2026/q2/de/downloads)
+- [Vonovia stock falls to a three-year low as rents and shares diverge (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/vonovia-stock-falls-to-a-three-year-low-as-rents-and-shares-diverge/70041801)
+- [Die Vonovia-Aktie fällt auf Dreijahrestief, Zinsdruck und Analystenstreit belasten den Kurs (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/die-vonovia-aktie-faellt-auf-dreijahrestief-zinsdruck-und-analystenstreit/70041860)
+- [Vonovia stock hovers near yearly low as cash flow drops and guidance holds (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/vonovia-stock-hovers-near-yearly-low-as-cash-flow-drops-and-guidance-holds/70049870)
+- [Vonovia stock slides near a yearly low as guidance holds (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/vonovia-stock-slides-near-a-yearly-low-as-guidance-holds/70047809)
+- [Vonovia confirms 2026 guidance despite first quarter earnings decline (Investing.com)](https://www.investing.com/news/stock-market-news/vonovia-confirms-2026-guidance-despite-first-quarter-earnings-decline-93CH-4666314)
+- [New talents begin their apprenticeship (Vonovia Pressemitteilung)](https://www.vonovia.com/en/press/press-releases/2026/vonovia-invests-in-tomorrow-s-skilled-workers-over-300-talents-begin-their-apprenticeship)
 - [Vonovia H1 2026: EBITDA steigt, Cashflow bricht um 45% ein (boerse-express)](https://www.boerse-express.com/news/articles/vonovia-h1-2026-ebitda-steigt-cashflow-bricht-um-45-ein-935745)
-- [Aktie im Blick: Vonovia bestätigt Ziele für 2026 (finanzen.ch, 05.08.2026)](https://www.finanzen.ch/nachrichten/aktien/aktie-im-blick-vonovia-bestatigt-ziele-fuer-2026-1036411506)
-- [Vonovia stock holds below €20 as analyst views diverge on valuation (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/vonovia-stock-holds-below-20-as-analyst-views-diverge-on-valuation/70025211)
-- [Vonovia stock holds lower after fresh broker cuts (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/vonovia-stock-holds-lower-after-fresh-broker-cuts/69991914)
-- [Vonovia investiert in die Fachkräfte von morgen – über 300 Talente starten ihre Ausbildung](https://www.vonovia.com/en/press/press-releases/2026/vonovia-invests-in-tomorrow-s-skilled-workers-over-300-talents-begin-their-apprenticeship)
+- [Vonovia Interim Statement Q2 2026 / Halbjahresbericht H1 2026](https://report.vonovia.com/2026/q2/en/)
 - [Vonovia-CEO Rolf Buch verabschiedet sich mit optimistischem Ausblick (Börsen-Zeitung)](https://www.boersen-zeitung.de/unternehmen-branchen/vonovia-ceo-rolf-buch-verabschiedet-sich-mit-optimistischem-ausblick)
-- [Vonovia Aktie: 1.000 Wohneinheiten an Tristan verkauft (kapitalmarktexperten.de)](https://www.kapitalmarktexperten.de/vonovia-aktie-1-000-wohneinheiten-an-tristan-verkauft/)
-- [Vonovia: 2,5 Milliarden Euro Verkaufsprogramm (stock-world.de)](https://www.stock-world.de/vonovia-25-milliarden-euro-verkaufsprogramm/)
-- [Vonovia Aktie: Refinanzierung über 4,4 Milliarden Euro (Börse Global)](https://www.boerse-global.de/vonovia-aktie-refinanzierung-ueber-44-milliarden-euro/817419)
-- [Vonovia Aktie: Investieren und Entschulden (Trading-Treff)](https://trading-treff.de/trading/vonovia-aktie-investieren-und-entschulden)
+- [Vonovia Aktie: 5,54 Milliarden Euro Refinanzierung 2026 (Finanztrends)](https://www.finanztrends.de/news/vonovia-aktie-554-milliarden-euro-refinanzierung-2026/)
