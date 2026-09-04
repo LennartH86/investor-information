@@ -1,55 +1,47 @@
-# BASF (BAS.DE)
-_Aktualisiert: 01.09.2026 | Zeitraum: 25.08.2026 – 01.09.2026_
+# BASF (BAS)
+_Aktualisiert: 04.09.2026 | Zeitraum: 28.08.2026 – 04.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 44,25 EUR
-- **Aktueller Kurs:** 52,61 EUR
-- **Marktwert:** 2630,50 EUR
-- **Unrealisierter G/V:** +402,66 EUR (+18,07%)
-- **Portfolioanteil:** 1,64%
+- **Aktueller Kurs:** 53,38 EUR
+- **Marktwert:** 2.669,00 EUR
+- **Unrealisierter G/V:** +441,16 EUR (+19,80%)
+- **Portfolioanteil:** 1,66%
 - **Dividenden erhalten:** 165,66 EUR
-- **Bewertung:** Konkrete Bewertungskennzahlen (KGV/KBV, aktuelle Dividendenrendite) liefern die Recherchequellen nicht; fundamental stützen jedoch die angehobene Jahresprognose (EBITDA vor Sondereinflüssen 2026 nun 6,9–7,7 Mrd. EUR statt 6,2–7,0 Mrd. EUR), das starke Q2 2026 und das laufende Aktienrückkaufprogramm den Kurs, der mit +18,07% klar über dem Einstand liegt (zzgl. 165,66 EUR vereinnahmter Dividenden). Angesichts der weit fortgeschrittenen Portfoliobereinigung (Coatings-Closing, AgBiTech-Zukauf) bei gleichzeitig noch negativem Free Cashflow im Q2 erscheint Halten sinnvoll – ein Aufstocken nach dem Kursanstieg drängt sich nicht auf.
+- **Bewertung:** Die Position notiert rund 20% über dem Einstandskurs und BASF hat die Ergebnisprognose für 2026 nach starkem Q2 angehoben, was die positive Kursentwicklung stützt; zusätzlich läuft seit August 2026 ein neues Aktienrückkaufprogramm über bis zu 1,0 Mrd. EUR, was tendenziell kursstützend wirkt. Angesichts der laufenden operativen Verbesserung, des Rückkaufs und der soliden Dividendenhistorie erscheint ein Halten der Position sinnvoll; eine Aufstockung könnte nach einem Rücksetzer erwogen werden, ein KGV/KBV-Wert lag aus der Recherche nicht konkret vor.
 
 ## Aktuelle Meldungen
-- Im Rahmen des neuen Rückkaufprogramms hat BASF zwischen dem 17. und 21.08.2026 insgesamt 557.966 eigene Aktien für rund 28,64 Mio. EUR zurückgekauft.
-- BASF hat am 18.08.2026 in Mumbai ein neues Performance Lab für Windeln und Superabsorber (SAP) eröffnet, das Kunden weltweit technische und Anwendungsservices bietet.
-- Launch von xarvio® CONNECT 2.0 am 13.08.2026 – ein portables Hardware-Gerät der nächsten Generation für Nordamerika, das den Datenaustausch zwischen xarvio FIELD MANAGER und kompatiblen Maschinenterminals ermöglicht.
-- Die BASF-Aktie notierte Ende August 2026 nahe ihren jüngsten Hochs; seit Jahresbeginn liegt sie rund 18% im Plus, gestützt durch die Q2-Erholung, die angehobene Guidance und die Rückkäufe.
-- Spezifische Unternehmensmeldungen aus der ersten Septemberwoche 2026 sind in den Rechercheergebnissen nicht enthalten.
+- BASF eröffnete am 18.08.2026 ein neues Performance-Labor für Windeln und Superabsorber (SAP) in Mumbai zur globalen technischen Kundenbetreuung.
+- Ab 10.08.2026 kam es im Nordbereich der BASF SE in Ludwigshafen durch den Neustart eines Steamcrackers nach Reparaturarbeiten zu sichtbaren Flammen, möglicher Rußbildung und Lärmbelästigung.
+- BASF hat den im Februar 2026 angekündigten Verkaufsprozess für einen Teil des Wohnungsbestands der Tochter BASF Wohnen + Bauen GmbH ausgesetzt.
+- Für September 2026 selbst liegen laut Recherche noch keine spezifischen neuen Pressemitteilungen vor; die jüngsten verfügbaren Meldungen stammen aus August 2026.
 
 ## Management
-- Dr. Markus Kamieth ist seit April 2024 Vorstandsvorsitzender der BASF SE und seit dem 01.01.2026 zusätzlich Präsident des europäischen Chemieverbands Cefic sowie Chair der International Council of Chemical Associations (ICCA).
-- Auf der Hauptversammlung 2026 äußerte sich Kamieth zu Fragen einer möglichen Produktionsverlagerung nach China und zu den Risiken von China-Investitionen.
-- Im April 2026 gab Kamieth im Pioneer Morning Briefing (Gabor Steingart) ein rund 40-minütiges Interview zum Druck auf die deutsche Chemieindustrie durch hohe Energiekosten.
-- Der Vorstand beschloss am 29.07.2026 das neue Aktienrückkaufprogramm über bis zu 1,0 Mrd. EUR.
+- CEO Dr. Markus Kamieth ist seit dem 1. Januar 2026 zusätzlich Vorstandsmitglied und Präsident des europäischen Chemieverbands Cefic sowie Vorsitzender des internationalen Verbands ICCA.
+- Im April 2026 gab Kamieth der Pioneer Morning Briefing (Gabor Steingart) ein rund 40-minütiges Interview zum Druck auf die deutsche Chemieindustrie.
+- Auf der Hauptversammlung 2026 trat Kamieth öffentlich auf (u.a. Kurzvideo-Statement verfügbar).
 
 ## Finanzielles
-- Q2 2026: Umsatz +16% auf 17,2 Mrd. EUR (Q2 2025: 14,8 Mrd. EUR) – getrieben von höheren Preisen (+11%) und Mengen (+7%), Währungs- und Portfolioeffekte je -1%. Analysten hatten nur 16,5 Mrd. EUR erwartet.
-- EBITDA vor Sondereinflüssen im Q2 2026: 2,4 Mrd. EUR nach 1,6 Mrd. EUR im Vorjahr und deutlich über dem Analystenkonsens von 2,1 Mrd. EUR.
-- Ergebnis nach Steuern und nicht beherrschenden Anteilen: 4,1 Mrd. EUR (Q2 2025: 79 Mio. EUR) – wesentlich getrieben durch einen Veräußerungsgewinn von 3,9 Mrd. EUR aus dem Coatings-Verkauf an Carlyle.
-- Free Cashflow im Q2 2026: -0,2 Mrd. EUR (Q2 2025: +0,5 Mrd. EUR) wegen höherer Kapitalbindung durch gestiegene Rohstoffpreise.
-- Prognose 2026 angehoben: EBITDA vor Sondereinflüssen 6,9–7,7 Mrd. EUR (zuvor 6,2–7,0 Mrd. EUR); Free-Cashflow-Prognose unverändert bei 1,5–2,3 Mrd. EUR.
-- Aktienrückkauf: bis zu 1,0 Mrd. EUR von August 2026 bis Ende April 2027, Teil des im September 2024 angekündigten Gesamtprogramms von 4 Mrd. EUR bis Ende 2028.
+- **Q2 2026:** Umsatz 17,2 Mrd. EUR (+2,4 Mrd. EUR ggü. Vorjahr), getrieben von Preisplus (+11,5%) und Mengenwachstum (+7,3%). EBITDA stieg auf 2,0 Mrd. EUR (Vorjahr: 1,3 Mrd. EUR).
+- **Q1 2026:** Umsatz 16,02 Mrd. EUR (leicht unter Vorjahr: 16,51 Mrd. EUR); EBITDA vor Sondereinflüssen 2,4 Mrd. EUR (Q1 2025: 2,5 Mrd. EUR).
+- BASF hat nach dem starken zweiten Quartal die Ergebnisprognose für das Gesamtjahr 2026 angehoben: EBITDA vor Sondereinflüssen nun bei 6,9 bis 7,7 Mrd. EUR (zuvor: 6,2 bis 7,0 Mrd. EUR).
+- Neues Aktienrückkaufprogramm mit einem Volumen von bis zu 1,0 Mrd. EUR, Start im August 2026, geplantes Ende bis April 2027 (Beschluss vom 29.07.2026).
+- Für 2026–2029 plant BASF Kapitalausgaben von rund 13 Mrd. EUR; für 2026 selbst wird mit einem Rückgang auf rund 3 Mrd. EUR gerechnet, unterhalb des Abschreibungsniveaus.
 
 ## Strategie & Ausblick
-- Die im Oktober 2025 angekündigte Coatings-Transaktion mit Carlyle (Unternehmenswert 7,7 Mrd. EUR) wurde nach allen regulatorischen Freigaben am 30.06.2026 vollzogen – ein zentraler Schritt der Portfoliobereinigung.
-- BASF Agricultural Solutions hat die Übernahme von AgBiTech (biologische Insektenkontrolle) am 31.03.2026 abgeschlossen und stärkt damit das Wachstumsfeld Biologicals.
-- Der Ausbau der Isocyanat-Wertschöpfungskette in Geismar, Louisiana – BASFs größte eigenständige Investition in Nordamerika – liegt im Plan und soll 2026 in Betrieb gehen.
-- Der Verkauf des Silikate-Geschäfts (inkl. Standort Düsseldorf) an PQ ist ein weiterer Baustein der Fokussierung auf das Kerngeschäft.
-- Insgesamt Kurs auf operative Verbesserung, Bilanzentlastung durch Devestitionen, gezielte Zukäufe in Wachstumsfeldern und parallele Kapitalrückführung an die Aktionäre über Dividende und Rückkäufe.
+- Der im Oktober 2025 vereinbarte Verkauf der Geschäftsbereiche Fahrzeugserienlacke, Autoreparaturlacke und Oberflächentechnik an Carlyle (Unternehmenswert 7,7 Mrd. EUR) wurde im zweiten Quartal 2026 abgeschlossen; rund 5,8 Mrd. EUR Cash flossen nach Ludwigshafen, BASF hält weiterhin 40% Beteiligung am Coatings-Geschäft.
+- Die Kapazitätserweiterung in der Isocyanat-Wertschöpfungskette in Geismar, Louisiana, liegt im Zeitplan und soll 2026 in Betrieb gehen.
+- Die Kombination aus Portfoliobereinigung (Coatings-Deal), diszipliniertem Capex-Management und Aktienrückkauf deutet auf eine Fokussierung auf Kapitaldisziplin und Aktionärsrendite hin.
 
 ## Quellen
 - [BASF to begin new share buyback program in August 2026](https://www.basf.com/global/en/media/news-releases/2026/07/p-26-142)
-- [BASF SE: BASF to begin new share buyback program in August 2026 – EQS News](https://www.eqs-news.com/news/ad-hoc/basf-se-basf-to-begin-new-share-buyback-program-in-august-2026/5aaf3291-f0ab-4219-a588-b7cae402ce53_en)
-- [BASF stock builds momentum as share buyback and price gains support 2026 outlook](https://www.ad-hoc-news.de/boerse/news/corporate-news/basf-stock-builds-momentum-as-share-buyback-and-price-gains-support-2026/69997004)
-- [Resilient BASF stock trades close to recent highs as Q2 2026 rebound supports guidance](https://www.ad-hoc-news.de/boerse/news/corporate-news/resilient-basf-stock-trades-close-to-recent-highs-as-q2-2026-rebound/69982131)
-- [BASF-Gruppe legt vorläufige Zahlen für das 2. Quartal 2026 vor und hebt Ergebnisausblick für das Gesamtjahr 2026 an](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-132)
-- [BASF übertrifft Erwartungen im 2. Quartal 2026 und hebt Jahresausblick an – FARBE UND LACK](https://www.farbeundlack.de/nachrichten/markt-branche/basf-uebertrifft-erwartungen-im-2-quartal-2026-und-hebt-jahresausblick-an/)
-- [BASF Q2 2026 Zahlen: Höhere Preise und Mengen sorgen für starke Zahlen – aktiencheck.de](https://www.aktiencheck.de/analysen/Artikel-BASF_Q2_2026_Zahlen_Hoehere_Preise_und_Mengen_sorgen_fuer_starke_Zahlen_Aktienrueckkauf_beschlossen-19970173)
-- [BASF: 7,7-Milliarden-Deal im Q2 2026 abgeschlossen – Börse Express](https://www.boerse-express.com/news/articles/basf-77-milliarden-deal-im-q2-2026-abgeschlossen-901129)
-- [BASF Investments – Strategie](https://www.basf.com/global/en/investors/basf-at-a-glance/strategy/investments)
-- [Presse-Informationen BASF](https://www.basf.com/global/de/media/news-releases)
-- [Markus Kamieth appointed Cefic President – European Coatings](https://www.european-coatings.com/news/people-careers/markus-kamieth-appointed-cefic-president/)
+- [BASF-Gruppe im zweiten Quartal 2026](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-123)
+- [BASF-Gruppe: Geschäftszahlen für das 1. Quartal 2026](https://www.basf.com/global/de/media/news-releases/2026/04/p-26-076)
+- [ROUNDUP: BASF hebt Ergebnisprognose 2026 an](https://live.deutsche-boerse.com/nachrichten/ROUNDUP-BASF-hebt-Ergebnisprognose-2026-an---Quartal-besser-als-erwartet-fee63082-87c0-4616-8a76-a79c0a154017)
+- [Die BASF-Aktie profitiert von Buyback und Gewinnsprung im zweiten Quartal](https://www.ad-hoc-news.de/boerse/news/corporate-news/die-basf-aktie-profitiert-von-buyback-und-gewinnsprung-im-zweiten-quartal/70041331)
+- [BASF: 7,7-Milliarden-Deal im Q2 2026 abgeschlossen](https://www.boerse-express.com/news/articles/basf-77-milliarden-deal-im-q2-2026-abgeschlossen-901129)
+- [Wesentliche Investitionen - BASF-Bericht 2025](https://report.basf.com/2025/en/combined-managements-report/fundamentals-of-the-group/strategy/material-investments-and-portfolio-measures/material-investments.html)
+- [Dr. Markus Kamieth - Board of Executive Directors](https://www.basf.com/us/en/who-we-are/organization/management/board-of-executive-directors/dr-markus-kamieth)
 - [BASF-CEO Markus Kamieth im Gespräch mit Gabor Steingart: Pioneer Morning Briefing](https://www.youtube.com/watch?v=pVhwgEQr8i8)
-- [Hauptversammlung 2026 – BASF](https://www.basf.com/global/de/investors/calendar-and-publications/annual-shareholders-meeting/annual-shareholders-meeting-2026)
+- [2026 News Releases (Ludwigshafen)](https://www.basf.com/global/de/who-we-are/organization/locations/europe/german-sites/ludwigshafen/news-and-media/news-releases/2026)
