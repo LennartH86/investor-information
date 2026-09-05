@@ -1,62 +1,60 @@
 # Constellation Energy (CEG)
-_Aktualisiert: 01.09.2026 | Zeitraum: 25.08.2026 – 01.09.2026_
+_Aktualisiert: 05.09.2026 | Zeitraum: 29.08.2026 – 05.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 220,81 EUR
-- **Aktueller Kurs:** 236,40 EUR
-- **Marktwert:** 2364,00 EUR
-- **Unrealisierter G/V:** +150,37 EUR (+6,79%)
-- **Portfolioanteil:** 1,47%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** The +6.79% paper gain versus the average entry of EUR 220.81 is backed by fundamentals rather than sentiment: Q2 2026 adjusted operating earnings of USD 2.55 per share beat consensus (USD 2.33) by about 9.5%, full-year guidance was raised to USD 11.50–12.50 per share, and management now targets 20%+ base EPS growth through 2029 (2029 base EPS target USD 11.40–11.90) after the Calpine close. Explicit P/E and P/B multiples were not published in the sources reviewed, and the dividend is immaterial for this position (quarterly USD 0.4265, i.e. roughly USD 1.71 annualised, a yield well below 1%; the 4 September 2026 payment falls after this reporting period, hence EUR 0 received so far) – with raised guidance, 920 MW of new long-term PPAs and the Crane restart progressing, holding looks appropriate, while adding is better timed on weakness given the AI/data-center premium already priced in and the leverage taken on with Calpine's ~USD 12.7bn net debt.
+- **Aktueller Kurs:** 257,45 EUR
+- **Marktwert:** 2574,50 EUR
+- **Unrealisierter G/V:** +360,87 EUR (+16,30%)
+- **Portfolioanteil:** 1,59%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** Mit einem KGV von rund 28 (Marktkapitalisierung ca. 101 Mrd. USD) und einer Dividendenrendite von nur etwa 0,6% ist CEG klar als Wachstums- und AI-Stromstory statt als Ertragswert bepreist; explizite KBV-Werte liegen den gesichteten Quellen nicht vor. Der Kurs ist seit dem Kauf im Mai 2026 um 16,3% gestiegen und notiert damit spürbar über dem Einstiegsniveau von 220,81 EUR, während der Analystenkonsens (Kursziel im Schnitt rund 348 USD, "Buy") noch weiteres Aufwärtspotenzial signalisiert; angesichts der angehobenen Jahresprognose, des erfolgreichen PJM-Kapazitätsauktionsergebnisses und der fortschreitenden Crane-Restart-Story erscheint ein Halten der Position weiterhin gerechtfertigt, ein Nachkauf ist nach dem starken Lauf eher auf Kursschwäche zu terminieren.
 
 ## Aktuelle Meldungen
-- Constellation reported Q2 2026 results on 6 August 2026 (Form 8-K filed the same day): GAAP net income of USD 1.42 per share and adjusted (non-GAAP) operating earnings of USD 2.55 per share, with full-year adjusted operating earnings guidance raised to USD 11.50–12.50 per share.
-- The company signed an additional 920 megawatts of long-term power purchase agreements for clean, reliable generation in the quarter.
-- FERC granted a waiver allowing the transfer of existing Capacity Interconnection Rights (CIR) to the Crane Clean Energy Center, and the NRC approved Crane's fuel license – two key regulatory milestones for the restart of the former Three Mile Island Unit 1.
-- In August 2026 Constellation agreed to divest the Brazos Valley Energy Center (formerly Jack A. Fusco Energy Center), a 606 MW gas-fired plant in ERCOT, to LS Power for USD 860 million before closing adjustments.
-- The Board declared a quarterly dividend of USD 0.4265 per common share on 4 August 2026, payable 4 September 2026 to holders of record as of 18 August 2026.
-- Constellation filed license renewal applications for two New York nuclear units, extending the lives of two critical assets in that market.
-- The Form 10-Q for the quarter ended 30 June 2026 was filed with the SEC on 6 August 2026.
+- Die CEG-Aktie handelte am 4. September 2026 in einer Tagesspanne von rund 282,25 bis 296,62 USD und damit deutlich über dem Kaufkursniveau; der Titel gehört seit Wochen zu den positiven Nachrichtentreibern im Versorgersektor.
+- CEO Joe Dominguez eröffnete Anfang September die Climate Week (NYC-Auftakttermine 20.–27.09.2026) mit Auftritten, in denen er die "Landmark"-Vereinbarung mit Microsoft sowie die zentrale Rolle der Kernenergie für die US-Stromversorgung hervorhob.
+- Am 14. Juli 2026 räumte Constellation die PJM-Kapazitätsauktion für das Planungsjahr 2028/2029 vollständig ab: Alle PJM-Kraftwerke des Unternehmens sicherten sich Zuschläge über insgesamt 18.875 MW (davon rund 15.700 MW Kernenergie) zum Auktionsdeckel von 325 USD/MW-Tag, was ab 2028 zusätzliche Bruttokapazitätserlöse von rund 2,24 Mrd. USD pro Jahr bringen soll.
+- Getrieben von der Blue-Energy-Beteiligung und dem PJM-Auktionserfolg war Constellation im Juli 2026 mit einem Kursplus von 13,35% einer der stärksten Versorgertitel des Monats.
+- Aus dem laufenden Berichtszeitraum (29.08.–05.09.2026) selbst wurden keine neuen Unternehmensmeldungen (Pressemitteilungen, 8-K-Filings) gefunden; die jüngsten Kurstreiber stammen aus den Wochen zuvor.
 
 ## Management
-- Chairman, President and CEO Joe Dominguez continues to lead the company and is the public face of its nuclear and AI-power narrative.
-- In a CNBC interview on 23 March 2026 with Brian Sullivan, Dominguez discussed why US energy prices have risen over the past 15 years and what would be needed to bring them down.
-- At the Semafor World Economy Summit on 14 April 2026, Dominguez said the US is "very behind" China in building the power capacity needed for AI data centers, noting China has added the equivalent of the entire US electric system plus 50% more since 2010, and that if out-building China is the strategy, "we're in some trouble."
-- Dominguez also gave a CBS Sunday Morning interview focused on the Crane Clean Energy Center restart, and has publicly framed the Microsoft agreement as evidence of nuclear's central role in powering the US economy.
-- No management or board changes were reported in the sources reviewed for the 25 August – 1 September 2026 period.
+- Chairman, President und CEO Joe Dominguez bleibt das öffentliche Gesicht der Nuklear- und AI-Stromstrategie des Unternehmens.
+- Bei der Climate Week NYC positionierte Dominguez Constellation erneut als Partner großer Technologiekonzerne (Microsoft) für emissionsfreie, grundlastfähige Energie zur Versorgung von KI-Rechenzentren.
+- Frühere 2026er-Auftritte (Barron's-Interview im Januar, Axios-DC-AI-Summit und CERAWeek im März, CNBC-Interview im März) unterstreichen den Fokus des Managements auf AI-Stromnachfrage, Energiepreise und die Calpine-Integration.
+- Keine neuen Management- oder Aufsichtsratswechsel wurden für den Zeitraum 29.08.–05.09.2026 gefunden.
 
 ## Finanzielles
-- Q2 2026: GAAP net income USD 1.42 per share; adjusted (non-GAAP) operating earnings USD 2.55 per share, ahead of the USD 2.33 consensus (+9.5%).
-- Q2 2026 revenue of about USD 7.5 billion, up roughly 23% year over year on the enlarged footprint after the January 2026 Calpine close, but below the ~USD 7.94 billion Wall Street estimate.
-- Full-year 2026 adjusted operating earnings guidance raised to USD 11.50–12.50 per share.
-- Medium-term outlook: base EPS growth of 20%+ from 2026 through 2029, with an enhanced 2029 base EPS target of USD 11.40–11.90.
-- Quarterly dividend of USD 0.4265 per share (payable 4 September 2026), equivalent to roughly USD 1.71 annualised.
-- Announced divestiture of the 606 MW Brazos Valley Energy Center to LS Power for USD 860 million before closing adjustments.
-- Operational efficiency: nuclear refueling outage duration averaged 23 days in Q2 2026, about 40% better than the industry average of 38 days.
-- No explicit P/E or P/B multiples were disclosed in the sources reviewed for this period.
+- Q2 2026 (gemeldet 6.8.2026): GAAP-Nettogewinn 1,42 USD je Aktie; bereinigtes operatives Ergebnis 2,55 USD je Aktie, über dem Konsens von 2,33 USD.
+- Q1 2026 (gemeldet 11.5.2026): bereinigtes Ergebnis 2,74 USD je Aktie (Prognose 2,59 USD) bei einem Umsatz von 11,12 Mrd. USD; GAAP-Ergebnis 4,49 USD je Aktie (Vorjahr 0,38 USD).
+- Volljahresprognose 2026 für das bereinigte operative Ergebnis wurde auf 11,50–12,50 USD je Aktie angehoben; mittelfristiges Ziel: über 20% Basis-EPS-Wachstum bis 2029 (Zielkorridor 2029: 11,40–11,90 USD).
+- Aktuelles KGV rund 28, Marktkapitalisierung ca. 101 Mrd. USD, Dividendenrendite ca. 0,6% (Quartalsdividende 0,4265 USD je Aktie).
+- Langfristiger Verschuldungsanstieg durch die Calpine-Finanzierung: Long-Term Debt stieg 2026 auf rund 20,91 Mrd. USD (von 7,68 Mrd. USD 2025).
+- Analystenkonsens (20 Analysten): Kursziel im Schnitt 348,30 USD (Spanne 290–441 USD), Rating "Buy" (19 Kaufen-, 3 Halten-, 0 Verkaufen-Empfehlungen), impliziert rund 22% Kurspotenzial gegenüber dem zuletzt genannten Referenzkurs.
+- Ab 2028 zusätzliche jährliche Bruttokapazitätserlöse von rund 2,24 Mrd. USD aus dem PJM-Auktionsergebnis vom Juli 2026.
 
 ## Strategie & Ausblick
-- The USD 26.6 billion Calpine transaction (including debt) closed on 7 January 2026: equity consideration of roughly USD 16.4 billion (50 million newly issued Constellation shares plus USD 4.5 billion cash) and assumption of about USD 12.7 billion of Calpine net debt; Calpine is now a wholly owned subsidiary.
-- The combined company operates roughly 55 GW of generating capacity across nuclear, natural gas and geothermal, positioning it as the largest US electricity producer.
-- Calpine was expected to deliver more than 20% adjusted operating EPS accretion in 2026, at least USD 2 per share of accretion in later years, and more than USD 2 billion of additional annual free cash flow (non-GAAP).
-- Long-term contracting is the core strategy: the 920 MW signed in Q2 brings roughly 30% of expected baseload clean generation megawatt-hours under long-term agreement by 2032, reducing exposure to merchant power prices.
-- The Crane Clean Energy Center restart is the flagship growth project, with the FERC CIR waiver and NRC fuel license now secured; the site underpins the long-term Microsoft power agreement.
-- Portfolio rotation continues: selling the ERCOT gas plant to LS Power while extending nuclear asset lives in New York via license renewal filings shifts the mix further toward long-lived clean baseload.
-- Key risks flagged by management and the sources: the pace of US power buildout versus China for AI demand, regulatory timelines for nuclear restarts and license renewals, and integration/leverage from the Calpine acquisition.
+- Die im Januar 2026 abgeschlossene Calpine-Übernahme (ca. 16,4 Mrd. USD Eigenkapitalkomponente) bleibt der zentrale strukturelle Werttreiber; das kombinierte Unternehmen verfügt über rund 55 GW Erzeugungskapazität und soll jährlich mehr als 2 Mrd. USD zusätzlichen Free Cashflow liefern.
+- Mit der strategischen Beteiligung an Blue Energy (Juli 2026, über Constellation Technology Ventures) steigt Constellation erstmals bei einem US-Entwickler kleiner modularer Reaktoren (SMR) ein, die per Werftfertigung kostengünstiger gebaut werden sollen – ein Signal für die langfristige Wachstumsstrategie über den bestehenden Kraftwerkspark hinaus.
+- Der vollständige Zuschlag in der PJM-Kapazitätsauktion 2028/2029 über 18.875 MW untermauert die langfristige Cashflow-Sichtbarkeit des Nuklearportfolios.
+- Der Restart des Crane Clean Energy Center (ehem. Three Mile Island Unit 1) bleibt Vorzeigeprojekt, gestützt durch die 20-Jahres-Stromabnahmevereinbarung mit Microsoft; regulatorische Meilensteine (FERC-CIR-Waiver, NRC-Brennstofflizenz) wurden bereits in den Vorquartalen erreicht.
+- Portfoliobereinigung im Zuge der Kartellauflagen zur Calpine-Übernahme schreitet voran (u. a. Verkauf des Brazos-Valley-Kraftwerks an LS Power für 860 Mio. USD).
+- Kernrisiken bleiben: Tempo des US-Netzausbaus im Vergleich zu China für die KI-Stromnachfrage, regulatorische Zeitpläne für Nuklear-Restarts/Lizenzverlängerungen sowie die Integrations- und Verschuldungslast aus der Calpine-Akquisition.
 
 ## Quellen
+- [Constellation Energy (CEG) Locks In Nuclear Deals As Restart Advances (Kalkine Media)](https://kalkinemedia.com/us/stocks/energy/constellation-energy-nasdaqceg-locks-in-nuclear-deals-as-restart-advances)
+- [Constellation Energy clears PJM capacity auction, boosting outlook (TipRanks)](https://www.tipranks.com/news/company-announcements/constellation-energy-clears-pjm-capacity-auction-boosting-outlook)
+- [Constellation Energy Clears PJM Capacity Auction (The Globe and Mail)](https://www.theglobeandmail.com/investing/markets/stocks/CEG/pressreleases/33599345/constellation-energy-clears-pjm-capacity-auction/)
+- [Constellation Was a Big Utility Winner in July, Climbing Over 13% After Blue Energy Investment, PJM Capacity Auction Win (citybiz)](https://www.citybiz.co/article/883490/constellation-was-a-big-utility-winner-in-july-climbing-over-13-after-blue-energy-investment-pjm-capacity-auction-win/)
+- [Constellation invests in Blue Energy (World Nuclear News)](https://www.world-nuclear-news.org/articles/constellation-invests-in-blue-energy)
+- [Blue Energy Receives Strategic Investment from Constellation (PR Newswire)](https://www.prnewswire.com/news-releases/blue-energy-receives-strategic-investment-from-constellation-to-accelerate-commercialization-of-novel-shipyard-manufacturing-and-project-financing-model-for-new-nuclear-302827725.html)
+- [Constellation Energy Just Raised Guidance. Here's What's Driving It. (The Motley Fool)](https://www.fool.com/investing/2026/08/26/constellation-energy-just-raised-guidance-heres-wh/)
 - [Constellation Reports Second Quarter 2026 Results (Constellation Energy)](https://www.constellationenergy.com/news/2026/08/constellation-reports-second-quarter-2026-results.html)
 - [Constellation Reports Second Quarter 2026 Results (Business Wire, 05.08.2026)](https://www.businesswire.com/news/home/20260805185047/en/Constellation-Reports-Second-Quarter-2026-Results)
-- [Constellation Reports Second Quarter 2026 Results (Investor Relations)](https://investors.constellationenergy.com/news-releases/news-release-details/constellation-reports-second-quarter-2026-results)
-- [Constellation Energy Corp – Form 8-K, 06.08.2026 (SEC)](https://www.sec.gov/Archives/edgar/data/0001868275/000186827526000097/ceg-20260806991.htm)
-- [Constellation Energy Corp – Form 10-Q, Q2 FY2026 (SEC)](https://www.sec.gov/Archives/edgar/data/0001868275/000186827526000104/ceg-20260630.htm)
-- [Constellation Energy Corporation Declares Dividend (08/2026)](https://www.constellationenergy.com/news/2026/08/constellation-energy-corporation-declares-dividend-q2-2026.html)
-- [Constellation Q2 2026 slides: nuclear contracts drive 20% growth outlook (Investing.com)](https://www.investing.com/news/company-news/constellation-q2-2026-slides-nuclear-contracts-drive-20-growth-outlook-93CH-4843690)
-- [Constellation Energy (CEG) Earnings Report Q2 2026 (24/7 Wall St.)](https://247wallst.com/companies/ceg/earnings/2026/Q2)
-- [Constellation Energy CEO Joe Dominguez says US not 'going to win' race with China AI energy buildout (Semafor, 14.04.2026)](https://www.semafor.com/article/04/14/2026/constellation-energy-ceo-joe-dominguez-says-us-not-going-to-win-the-race-with-china-ai-energy-buildout)
-- [Watch CNBC's full interview with Constellation Energy CEO Joe Dominguez (23.03.2026)](https://www.cnbc.com/video/2026/03/23/watch-cnbcs-full-interview-with-constellation-energy-ceo-joe-dominguez.html)
+- [Constellation Reports First Quarter 2026 Results (Business Wire, 09.05.2026)](https://www.businesswire.com/news/home/20260509233293/en/Constellation-Reports-First-Quarter-2026-Results)
+- [Constellation Energy Q1 2026 slides: earnings beat, 20% growth target (Investing.com)](https://www.investing.com/news/company-news/constellation-energy-q1-2026-slides-earnings-beat-20-growth-target-93CH-4677255)
+- [Constellation Energy Corp – Form 8-K, PJM auction, 14.07.2026 (SEC)](https://www.sec.gov/Archives/edgar/data/0001868275/000186827526000080/ceg-20260714.htm)
+- [Constellation Energy (CEG) Stock Price & Overview (StockAnalysis.com)](https://stockanalysis.com/stocks/ceg/)
+- [Constellation Energy (CEG) Stock Forecast & Price Targets (StockAnalysis.com)](https://stockanalysis.com/stocks/ceg/forecast/)
+- [Climate Week NYC 2026 – Constellation (Sponsor/Partner page)](https://www.climateweeknyc.org/sponsors-partners/constellation)
 - [Constellation Completes Calpine Transaction, Powering America's Clean Energy Future (01/2026)](https://www.constellationenergy.com/news/2026/01/constellation-completes-calpine-transaction-powering-americas-clean-energy-future.html)
-- [Constellation To Acquire Calpine (Investor Relations)](https://investors.constellationenergy.com/news-releases/news-release-details/constellation-acquire-calpine-creates-americas-leading-producer)
-- [Constellation Completes Acquisition of Calpine; Groups Have 55 GW of Generation Capacity (POWER Magazine)](https://www.powermag.com/constellation-completes-acquisition-of-calpine-groups-have-55-gw-of-generation-capacity-2/)
