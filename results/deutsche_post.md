@@ -1,61 +1,53 @@
 # Deutsche Post (DHL Group) (DHL.DE)
-_Aktualisiert: 01.09.2026 | Zeitraum: 25.08.2026 – 01.09.2026_
+_Aktualisiert: 05.09.2026 | Zeitraum: 29.08.2026 – 05.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 30 Aktien
 - **Kaufkurs (Ø):** 35,35 EUR
-- **Aktueller Kurs:** 55,92 EUR
-- **Marktwert:** 1677,60 EUR
-- **Unrealisierter G/V:** +609,55 EUR (+57,07%)
-- **Portfolioanteil:** 1,05%
+- **Aktueller Kurs:** 54,86 EUR
+- **Marktwert:** 1645,80 EUR
+- **Unrealisierter G/V:** +577,75 EUR (+54,09%)
+- **Portfolioanteil:** 1,02%
 - **Dividenden erhalten:** 193,83 EUR
-- **Bewertung:** Operativ überzeugt der Konzern: Q2 2026 brachte +13% Umsatz auf 22,4 Mrd. EUR, +30% EBIT auf 1,9 Mrd. EUR und eine Anhebung der Jahresprognose auf über 6,5 Mrd. EUR EBIT – zusammen mit der zum Geschäftsjahr 2025 erhöhten Dividende und bereits 193,83 EUR vereinnahmten Ausschüttungen (rund 18% des Einstands von 1.060,50 EUR) trägt das die Position gut. Konkrete KGV-/KBV-Werte gehen aus den Suchergebnissen nicht hervor; da mehrere Häuser (Citi, Goldman Sachs, UBS, Jefferies) die Aktie im August 2026 nach der starken Kursentwicklung auf Neutral/Hold zurückgestuft haben, erscheint **Halten** angemessen – Aufstocken wirkt nach +57% und angesichts des kleinen Portfolioanteils allenfalls opportunistisch bei Rücksetzern sinnvoll.
+- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche leicht auf 54,86 EUR zurückgesetzt (zuvor 55,92 EUR), die Position bleibt mit +54,09% aber weiterhin deutlich im Plus. DZ Bank bestätigte Anfang September ihr Kaufvotum mit einem fairen Wert von 63 EUR (rund 15% Aufwärtspotenzial), während mehrere andere Häuser die Aktie im August nach der starken Rally auf Neutral/Hold zurückgestuft hatten. Konkrete KGV-/KBV-Werte gehen aus den Suchergebnissen nicht hervor. Angesichts der soliden operativen Entwicklung (angehobene Jahresprognose) und der gemischten Analystenmeinung erscheint **Halten** weiterhin angemessen; Aufstocken allenfalls opportunistisch bei Rücksetzern.
 
 ## Aktuelle Meldungen
-- **Namenswechsel zum 01.09.2026:** Die börsennotierte Konzernmutter in Bonn firmiert ab dem 1. September 2026 als DHL AG; der bisherige Name Deutsche Post AG entfällt auf Konzernebene.
-- Das deutsche Brief- und Paketgeschäft wird gleichzeitig in eine eigenständige Tochtergesellschaft überführt, die künftig den Namen Deutsche Post AG trägt – die Marke „Post" bleibt damit im Inland erhalten.
-- Begründet wird der Schritt mit der zunehmenden Internationalisierung: Über 90 Prozent des Konzernumsatzes werden bereits unter der Marke DHL erzielt. Es ist der formale Abschluss eines Prozesses, der im Juli 2023 mit dem Auftritt als „DHL Group" begann.
-- **Analysten-Herabstufungen im August 2026:** Citi stufte am 17.08.2026 von Buy auf Neutral zurück; Hold-Einstufungen kamen von Goldman Sachs (07.08.), UBS (11.08.) und Jefferies (18.08.).
-- **Investition in China (11.08.2026):** DHL Express erweitert das Shenzhen „Super Gateway" für 177 Mio. EUR – die bislang größte Einzelinvestition des Unternehmens auf dem chinesischen Festland.
+- **Konzernumbau formal abgeschlossen (01.09.2026):** DHL Group hat die auf der Hauptversammlung beschlossene Umfirmierung vollzogen. Die börsennotierte Konzernmutter firmiert nun als DHL AG und verantwortet Strategie, Governance und divisionsübergreifende Funktionen; Deutsche Post AG bleibt als eigenständige Gesellschaft für das deutsche Brief- und Paketgeschäft bestehen. Für Kunden ändert sich im Alltag nichts (Zustellung, Filialen, Packstationen, Briefkästen, Produkte bleiben gleich).
+- **Zukauf in Lateinamerika (01.09.2026):** DHL Global Forwarding übernimmt Aero Cargas S.A., ein Logistik- und Speditionsunternehmen in Uruguay – der erste eigene Standort des Konzerns in dem Land und ein weiterer Baustein zum Ausbau der Präsenz in Lateinamerika.
+- **Ausbau Life-Sciences-Sparte in Singapur:** DHL Group stärkt seine Pharma- und Healthcare-Kapazitäten in Singapur u. a. mit einem neuen „Pharma Hub 2" (DHL Supply Chain), einem Singapore Coldchain Hub (DHL Global Forwarding) sowie einer GDP-konformen Healthcare-Fläche am South Asia Hub von DHL Express.
+- **Analystenstimme DZ Bank (Anfang September 2026):** DZ Bank bekräftigt die Kaufempfehlung für die Aktie mit einem fairen Wert von 63 EUR je Aktie; der Kurs notierte am 03.09.2026 bei rund 54,92 EUR.
 
 ## Management
 - CEO Tobias Meyer wurde im März 2026 vorzeitig für weitere fünf Jahre bis März 2031 verlängert.
-- Meyer äußerte sich am 05.08.2026 im CNBC-Interview zu den Quartalszahlen und bezeichnete das Zollumfeld als weiterhin „very eventful"; zuvor kommentierte er am 30.04.2026 die Auswirkungen des Nahost-Konflikts und einer Kraftstoff-Angebotsverknappung auf die Logistikmärkte.
-- Meyer hielt die Rede zur Hauptversammlung am 05.05.2026 und betonte im Interview zum Jahresergebnis 2025, dass 2025 trotz geopolitischer Spannungen und Handelskonflikten über den eigenen Finanzzielen abgeschlossen wurde.
-- Nachhaltigkeit ist als „Green Logistics of Choice" fest in der Konzernstrategie verankert; Meyer verweist auf steigende Nachfrage nach emissionsarmen Logistiklösungen als langfristigen Wettbewerbsvorteil.
+- Meyer betont im Zusammenhang mit den Q2-Zahlen, dass „aktives Kapazitätsmanagement und strukturelle Kostenverbesserungen" es ermöglicht hätten, die Finanzziele zu übertreffen, und verweist auf fortlaufende Investitionen in globale Wachstumsmärkte und -sektoren im Rahmen der „Strategie 2030".
+- In einem Interview zur Rolle Singapurs als Logistik-Drehkreuz hebt Meyer hervor, dass der Stadtstaat im DHL Global Connectedness Report regelmäßig auf Platz eins liegt.
+- Nachhaltigkeit bleibt als vierte Dimension „Green Logistics of Choice" fest in der Konzernstrategie verankert; Ende 2025 bestand die Zustellflotte bereits zu 46% aus Elektrofahrzeugen, in der eigenen Flugzeugflotte wurden bereits 10% Sustainable Aviation Fuel eingesetzt.
 
 ## Finanzielles
-- **Q2 2026:** Konzernumsatz 22,4 Mrd. EUR (+13% ggü. 19,8 Mrd. EUR in Q2 2025); EBIT 1,9 Mrd. EUR (+30% ggü. 1,4 Mrd. EUR).
-- EBIT-Marge verbessert auf 8,3% (Q2 2025: 7,2%).
-- Konzernergebnis nach Anteilen Dritter im Q2 bei 1,0 Mrd. EUR (+23,9% ggü. Vorjahresquartal).
-- **DHL Express** als Treiber: EBIT von rund 1,20 Mrd. EUR nach 730 Mio. EUR im Vorjahresquartal.
-- **Free Cashflow (ohne M&A):** 1,8 Mrd. EUR nach dem ersten Halbjahr (H1 2025: 1,1 Mrd. EUR).
+- **Q2 2026:** Konzernumsatz 22,4 Mrd. EUR (+13,1% berichtet, +12,8% organisch); Konzern-EBIT 1.858 Mio. EUR (+30% ggü. Vorjahr), EBIT-Marge auf 8,3% verbessert (+110 Basispunkte).
+- **Segmentergebnisse Q2 2026:** DHL Express EBIT rund 1.195 Mio. EUR (Vorjahr 730 Mio. EUR); DHL Global Forwarding rund 240 Mio. EUR; DHL Supply Chain rund 305 Mio. EUR; DHL eCommerce rund 50 Mio. EUR; Post & Parcel Germany rund 135 Mio. EUR.
+- **Capex Q1 2026:** Investitionen in Sachanlagen von 518 Mio. EUR (+12,4% ggü. Vorjahr).
 - **Geschäftsjahr 2025:** operatives Ergebnis von 6,1 Mrd. EUR, Free Cashflow (ohne M&A) 3,2 Mrd. EUR – Ziele trotz Währungseffekten übertroffen, die Dividende wurde erhöht.
-- Vorläufige Q2-Zahlen wurden bereits am 07.07.2026 vorgelegt, weil die Erwartungen deutlich übertroffen wurden; die vollständigen H1-Zahlen folgten am 05.08.2026.
 
 ## Strategie & Ausblick
-- **Prognoseanhebung 2026:** Der Konzern erwartet nun ein berichtetes EBIT von über 6,5 Mrd. EUR (zuvor: über 6,2 Mrd. EUR).
-- Der Free-Cashflow-Zielwert (ohne M&A) von rund 3,0 Mrd. EUR für das Gesamtjahr wurde bestätigt.
-- **Frankreich:** rund 160 Mio. EUR Investitionen 2026–2027 in Logistikkapazität, Infrastruktur-Modernisierung und Dekarbonisierung über alle Divisionen hinweg.
-- **Subsahara-Afrika:** rund 300 Mio. EUR geplantes Investitionsvolumen über fünf Jahre; DHL Supply Chain übernimmt die Vital-Group-Gesellschaften in Südafrika, um transportgeführte Logistik auszubauen (bessere Fahrzeugauslastung, weniger Leerfahrten).
-- **Zukäufe:** Ausbau der Pharma- und Klinikstudien-Logistik über CRYOPDP und SDS Rx sowie des E-Commerce-Netzwerks über AJEX, IDS und Inmar.
-- **USA:** Im Mai 2026 wurde ein Abkommen mit USPS über Last-Mile-Zustellleistungen im Volumen von 10 Mrd. USD geschlossen.
-- Kernrisiken bleiben laut Management Zölle/Handelskonflikte und geopolitische Belastungen (u. a. Nahost/Hormus), die aber im Q2 durch Volatilitätsgewinne im Express- und Forwarding-Geschäft überkompensiert wurden.
+- **Prognose 2026 (angehoben im August):** Konzern erwartet nun ein berichtetes EBIT von über 6,5 Mrd. EUR (zuvor: über 6,2 Mrd. EUR) sowie einen Free Cashflow (ohne M&A) von rund 3,0 Mrd. EUR.
+- **Lateinamerika:** Übernahme von Aero Cargas S.A. in Uruguay als erster eigener Standort im Land – Teil der Wachstumsstrategie in der Region.
+- **Asien-Pazifik:** Ausbau der Life-Sciences- und Healthcare-Kapazitäten in Singapur (Pharma Hub 2, Coldchain Hub, GDP-konforme Healthcare-Flächen) unterstreicht den Fokus auf Wachstumssektoren.
+- **Konzernstruktur:** Mit Abschluss der Umfirmierung zu DHL AG / Deutsche Post AG (01.09.2026) ist die rechtliche Struktur nun an den internationalen Geschäftsfußabdruck angepasst; die Marke „Post" bleibt in Deutschland erhalten.
+- Kernrisiken bleiben laut Management Zölle/Handelskonflikte und geopolitische Belastungen, die im bisherigen Jahresverlauf jedoch durch Volatilitätsgewinne im Express- und Forwarding-Geschäft überkompensiert wurden.
 
 ## Quellen
-- [Aus Deutsche Post wird DHL AG, doch der Postname bleibt – ms-aktuell.de](https://ms-aktuell.de/welt/deutsche-post-dhl-25-08-2026/)
-- [Deutsche Post Rebrands to DHL: New Structure and Name Changes – IndexBox](https://www.indexbox.io/blog/deutsche-post-officially-renamed-to-dhl-group/)
-- [DHL Group seizes growth opportunities and significantly increases revenue and earnings in the second quarter (05.08.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-h1-2026.html)
-- [Preliminary results: DHL Group exceeds Q2 expectations and raises full-year 2026 earnings guidance (07.07.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance.html)
-- [DHL expands international express logistics capacity in China (11.08.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-expands-international-express-logistics-capacity-in-china.html)
-- [DHL Group lifts 2026 profit outlook after strong Q2 results – Investing.com](https://www.investing.com/news/stock-market-news/dhl-group-lifts-2026-profit-outlook-after-strong-q2-results-93CH-4779494)
-- [DHL Q2 2026 Results: Express & Forwarding Rebound – TI Insight](https://ti-insight.com/briefs/dhl-sees-results-recover-and-exploit-volatility/)
-- [DHL Q2: Group revenue increased 13% to EUR 22.4 billion – Post & Parcel](https://postandparcel.info/162519/news/e-commerce/dhl-q2-group-revenue-increased-13-to-eur-22-4-billion/)
-- [DHL Group increases results in Q2 2026 – International Transport Journal](https://transportjournal.com/2026/08/05/dhl-group-increases-results-in-q2-2026/)
+- [DHL Group completes corporate reorganization: Deutsche Post remains a strong brand for Germany (01.09.2026) – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-completes-corporate-reorganization.html)
+- [DHL Group completes corporate reorganization – Parcel and Postal Technology International](https://www.parcelandpostaltechnologyinternational.com/news/operations/dhl-group-completes-corporate-reorganization.html)
+- [DHL Group completes corporate reorg – The Loadstar](https://theloadstar.com/dhl-group-completes-corporate-reorg/)
+- [DHL invests in Latin American growth with acquisition of Aero Cargas S.A. in Uruguay (01.09.2026) – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-invests-in-latin-american-growth-with-acquisition-of-aero-cargas-sa-in-uruguay.html)
+- [DHL Group strengthens its Life Sciences and Healthcare capabilities in Singapore – Pan African Visions](https://panafricanvisions.com/2026/09/dhl-group-strengthens-its-life-sciences-and-healthcare-capabilities-in-singapore-reinforcing-the-nations-position-as-asia-pacifics-premier-life-sciences-hub/)
+- [DHL stock edges higher as DZ Bank sticks to buy rating – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/dhl-stock-edges-higher-as-dz-bank-sticks-to-buy-rating/70051195)
+- [DHL Group seizes growth opportunities and significantly increases revenue and earnings in the second quarter (05.08.2026) – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-h1-2026.html)
+- [DHL Q2 2026 slides: EBIT surges 30%, guidance raised to €6.5bn – Investing.com](https://www.investing.com/news/company-news/dhl-q2-2026-slides-ebit-surges-30-guidance-raised-to-65bn-93CH-4836821)
+- [Successful start: DHL Group achieves earnings growth in the first quarter of 2026 (30.04.2026) – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q1-2026.html)
+- ['Nobody knows Asia like we do': DHL Group CEO on Singapore as a regional hub – Singapore EDB](https://www.edb.gov.sg/en/business-insights/insights/nobody-knows-asia-like-we-do-dhl-group-ceo-on-singapore-as-a-regional-hub-for-connectivity-and-innovation.html)
 - [DHL signs up CEO Meyer for another five years – Air Cargo News](https://www.aircargonews.net/people/2026/03/dhl-signs-up-ceo-meyer-for-another-five-years/)
-- [DHL CEO: Tariffs 'remain very eventful' – CNBC (05.08.2026)](https://www.cnbc.com/video/2026/08/05/dhl-tariffs-earnings-hormuz.html)
-- [Interview with CEO Tobias Meyer on the Annual Earnings 2025 – DHL Group](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
-- [DHL Group to invest around EUR 160 million in 2026-2027 in France (04.06.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-to-invest-around-eur160-million-in-2026-2027-to-strengthen-logistics-infrastructure-and-support-clean-energy-transition-in-france.html)
-- [DHL Group exceeds earnings guidance and increases dividend (05.03.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-annual-earnings-2025.html)
-- [DHL Supply Chain Acquires Vital Group Companies in South Africa](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
+- [DHL Group exceeds earnings guidance and increases dividend (05.03.2026) – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-annual-earnings-2025.html)
+- [DHL Group to invest around EUR 160 million in 2026-2027 in France (04.06.2026) – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-to-invest-around-eur160-million-in-2026-2027-to-strengthen-logistics-infrastructure-and-support-clean-energy-transition-in-france.html)
 - [Deutsche Post AG (DHL.DE) Stock Price, News, Quote & History – Yahoo Finance](https://finance.yahoo.com/quote/DHL.DE/)
