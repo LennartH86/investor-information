@@ -1,50 +1,51 @@
-# Equinor (EQNR.OL)
-_Aktualisiert: 02.09.2026 | Zeitraum: 26.08.2026 – 02.09.2026_
+# Equinor (EQNR)
+_Aktualisiert: 05.09.2026 | Zeitraum: 29.08.2026 – 05.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 90 Aktien
 - **Kaufkurs (Ø):** 25,07 EUR
-- **Aktueller Kurs:** 38,09 EUR
-- **Marktwert:** 3428,10 EUR
-- **Unrealisierter G/V:** +1156,26 EUR (+50,90%)
-- **Portfolioanteil:** 2,15%
+- **Aktueller Kurs:** 36,20 EUR
+- **Marktwert:** 3258,00 EUR
+- **Unrealisierter G/V:** +986,16 EUR (+43,41%)
+- **Portfolioanteil:** 2,02%
 - **Dividenden erhalten:** 501,88 EUR
-- **Bewertung:** Equinor shares (and the NY-listed ADR) touched fresh all-time highs in early September 2026, extending the strong run since the Q2 results and the doubled 2026 buyback programme; the position is now up more than 50% versus the average purchase price, on top of the dividends already received. Given the still-solid production growth, the widened capital-return framework and rising oil/gas demand outlook, holding the position looks reasonable, while a partial trim into strength could be considered given the position has grown large relative to cost and remains cyclical.
+- **Bewertung:** Trotz eines Kursrückgangs gegenüber der Vorwoche (Kurs zuvor bei 38,09 EUR) notiert die Position weiterhin deutlich über dem Kaufkurs mit einem Buchgewinn von über 43%; zusammen mit den bereits vereinnahmten Dividenden von 501,88 EUR ist die Gesamtrendite sehr solide. Belastbare KGV-/KBV-Kennzahlen liegen aus den Quellen dieser Woche nicht vor, die operative Entwicklung (starke Q2-Zahlen, ausgeweitetes Rückkaufprogramm, wachsendes LNG- und Stromgeschäft) bleibt aber intakt. Angesichts der zyklischen Natur des Geschäfts und des bereits hohen Gewinns spricht vieles für ein Halten der Position, ein selektives Trimmen nach der zuletzt starken Rally bleibt eine Option.
 
 ## Aktuelle Meldungen
-- Equinor kicked off the third tranche of its 2026 share buy-back programme; from 24–28 August 2026 it purchased 720,516 shares at an average price of NOK 388.0749.
-- Equinor's New York-listed ADR reached an all-time high of USD 43.48 on 1 September 2026, with Oslo-listed shares also trading near record levels.
-- Equinor secured a second binding offtake agreement for its SW Arkansas lithium project.
-- A change in the Board of Directors was announced on 27 August 2026: Finn Bjørn Ruyter is stepping down to focus on his role as CEO of Hafslund and other board duties, effective 1 September 2026.
-- A three-year crude supply agreement with Polish refiner Orlen started in September 2026, covering 5–9+ million tonnes per year from the Johan Sverdrup field to refineries in Poland, the Czech Republic and Lithuania.
-- Equinor agreed to acquire an interest in the Lackawanna gas-fired power plant (PJM market) from Global Infrastructure Partners/BlackRock-managed funds, expanding its US power footprint; DNV separately agreed to acquire the WellSpot digital platform from Equinor (24 August 2026).
+- Equinor hat am 2. September 2026 seine erste LNG-Ladung im Rahmen der langfristigen Lieferverträge mit Cheniere erhalten (Tanker "Isabella", Beladung in Sabine Pass, Louisiana) – ein Schritt zur geplanten Verdopplung des globalen LNG-Portfolios bis 2030.
+- East Point Energy, eine hundertprozentige Equinor-Tochter, hat am 3. September 2026 den Bau der Batteriespeicheranlage Citrus Flatts (100 MW/200 MWh) in Harlingen, Texas, abgeschlossen und den Betrieb aufgenommen.
+- Finn Bjørn Ruyter ist zum 1. September 2026 aus dem Board of Directors ausgeschieden, um sich auf seine Rolle als CEO von Hafslund zu konzentrieren.
+- Ein dreijähriger Rohöl-Liefervertrag mit dem polnischen Raffineriebetreiber Orlen ist im September 2026 gestartet und deckt 5–9+ Mio. Tonnen pro Jahr aus dem Johan-Sverdrup-Feld für Raffinerien in Polen, Tschechien und Litauen ab.
+- Equinors New Yorker ADR erreichte am 1. September 2026 mit 43,48 USD ein Allzeithoch; die Aktie liegt seit Jahresbeginn (Stand 2. September 2026) rund 71% im Plus.
+- Weiterhin laufendes Aktienrückkaufprogramm 2026 sowie eine zweite bindende Abnahmevereinbarung für das Lithiumprojekt SW Arkansas.
 
 ## Management
-- CEO Anders Opedal presented Equinor's medium-term strategy and capital allocation at the Capital Markets Day on 16 June 2026.
-- Opedal discussed the impact of the US-Iran deal on the oil industry and rising AI-driven power demand in a CNBC interview in June 2026.
-- No new CEO statements were reported in the past week beyond routine buy-back and board-change announcements.
+- CEO Anders Opedal leitete im Berichtszeitraum keine neuen öffentlichen Auftritte über die laufenden operativen Meldungen (Rückkauf, Board-Wechsel) hinaus.
+- Zuletzt öffentlich in Erscheinung getreten war Opedal beim Capital Markets Day am 16. Juni 2026 sowie in einem CNBC-Interview im Juni 2026 zu den Auswirkungen des US-Iran-Abkommens auf die Ölindustrie und zur steigenden Stromnachfrage durch KI.
+- Der Rückzug von Board-Mitglied Finn Bjørn Ruyter zum 1. September 2026 ist die einzige Personalveränderung im Berichtszeitraum.
 
 ## Finanzielles
-- Q2 2026: net income USD 4.84bn (+267% year-on-year), adjusted operating income USD 11.48bn, net operating income USD 12.99bn.
-- Total equity production reached 2.165 million boe/day in Q2 2026, up 3%, driven by new fields such as Eirin and Symra coming on stream.
-- 2026 buy-back programme doubled to USD 3bn, with a more predictable buy-back framework planned from 2027.
-- Capital spending plans call for roughly USD 12bn of capex in 2027 (excluding tax credits), about USD 1bn higher than previously guided, with ~60% directed to the Norwegian Continental Shelf.
-- No explicit KGV/KBV figures were found in this week's sources.
+- Q2 2026: Nettoergebnis 4,84 Mrd. USD (+267% gegenüber Vorjahr), bereinigtes operatives Ergebnis 11,48 Mrd. USD, operatives Nettoergebnis 12,99 Mrd. USD, bereinigtes Ergebnis je Aktie 1,33 USD.
+- Q1 2026 (zur Einordnung): bereinigtes operatives Ergebnis 9,77 Mrd. USD, Nettoergebnis 3,10 Mrd. USD, bereinigtes Ergebnis je Aktie 1,48 USD, Rekordproduktion.
+- Gesamte Öl- und Gasäquivalent-Produktion in Q2 2026 bei 2,165 Mio. boe/Tag (+3%), getrieben von neuen Feldern wie Eirin und Symra.
+- Aktienrückkaufprogramm 2026 auf 3 Mrd. USD verdoppelt, mit planbarerem Rückkaufrahmen ab 2027; erwarteter freier Cashflow von rund 20 Mrd. USD zwischen 2026 und 2030 (nach Capex und Leasingzahlungen).
+- Keine belastbaren KGV-/KBV-Kennzahlen in den Quellen dieser Woche gefunden.
 
 ## Strategie & Ausblick
-- Equinor is increasing investment in high-return oil and gas projects while continuing to build out its integrated power business in the US.
-- The Lackawanna power plant acquisition strengthens Equinor's position in the largest US power market (PJM), close to its Appalachian gas assets.
-- New long-term supply deals (Orlen crude offtake, lithium offtake agreements) underscore a focus on diversifying revenue streams beyond core North Sea oil and gas.
-- Continued share buy-backs and a more predictable capital-return framework from 2027 signal management's confidence in free cash flow generation even as it steps up capex.
+- Ausbau des globalen LNG-Portfolios (Cheniere-Lieferverträge) mit Ziel einer Verdopplung bis 2030, ergänzt durch das wachsende US-Stromgeschäft (u.a. Batteriespeicher Citrus Flatts).
+- Diversifizierung der Erlösquellen über langfristige Abnahme- und Lieferverträge (Orlen-Rohöl, Lithium-Offtake SW Arkansas) neben dem Kerngeschäft auf dem norwegischen Kontinentalschelf.
+- Fortgesetzte Investitionen in ertragsstarke Öl- und Gasprojekte bei gleichzeitigem Ausbau des integrierten Stromgeschäfts in den USA.
+- Fortlaufende Aktienrückkäufe und ein planbarerer Kapitalrückführungsrahmen ab 2027 signalisieren Vertrauen des Managements in die künftige Cashflow-Generierung.
 
 ## Quellen
-- [Equinor ASA: Share buy-back – third tranche for 2026](https://www.globenewswire.com/news-release/2026/09/01/3353811/0/en/equinor-asa-share-buy-back-third-tranche-for-2026.html)
-- [Equinor Doubles 2026 Buyback and Bets on Higher Oil and Gas Demand](https://finance.yahoo.com/energy/articles/equinor-doubles-2026-buyback-bets-035500029.html)
+- [Equinor expands global LNG portfolio with first US Gulf cargo](https://www.equinor.com/news/us/20260902-expands-global-lng-portfolio)
 - [Equinor stock holds firm as board change and exploration push shape outlook](https://www.ad-hoc-news.de/boerse/news/corporate-news/equinor-stock-holds-firm-as-board-change-and-exploration-push-shape/70009598)
 - [Equinor stock holds firm after a three-year Orlen deal](https://www.ad-hoc-news.de/boerse/news/corporate-news/equinor-stock-holds-firm-after-a-three-year-orlen-deal/69980291)
+- [Equinor stock gains on SEB downgrade and strong Q2 figures](https://www.ad-hoc-news.de/boerse/news/corporate-news/equinor-stock-gains-on-seb-downgrade-and-strong-q2-figures/70048975)
 - [Equinor stock gains on fresh buy-back and lithium offtake deal](https://www.ad-hoc-news.de/boerse/news/corporate-news/equinor-stock-gains-on-fresh-buy-back-and-lithium-offtake-deal/70039143)
-- [Equinor strengthens position in US power market](https://www.equinor.com/news/20260817-strengthens-position-us-power-market)
 - [Equinor second quarter 2026 results](https://www.globenewswire.com/news-release/2026/07/22/3331065/0/en/equinor-second-quarter-2026-results.html)
 - [Equinor net income soars 267% to $4.84bn in Q2 2026](https://finance.yahoo.com/energy/articles/equinor-net-income-soars-267-094337756.html)
+- [Equinor first quarter 2026 results](https://www.globenewswire.com/news-release/2026/05/06/3288464/0/en/Equinor-first-quarter-2026-results.html)
+- [Equinor Expands 2026 Buyback as Treasury Stake Rises to 2.57%](https://www.tipranks.com/news/company-announcements/equinor-expands-2026-buyback-as-treasury-stake-rises-to-2-57)
 - [Equinor's Capital Markets Day 2026](https://www.equinor.com/news/20260616-equinor-capital-markets-day-2026)
 - [Watch CNBC's full interview with Equinor CEO Anders Opedal](https://www.cnbc.com/video/2026/06/16/watch-cnbcs-full-interview-with-equinor-ceo-anders-opedal.html)
