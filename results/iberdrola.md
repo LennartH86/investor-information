@@ -1,51 +1,46 @@
 # Iberdrola (IBE.MC)
-_Aktualisiert: 02.09.2026 | Zeitraum: 26.08.2026 – 02.09.2026_
+_Aktualisiert: 06.09.2026 | Zeitraum: 30.08.2026 – 06.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 106,05 Aktien
 - **Kaufkurs (Ø):** 14,07 EUR
-- **Aktueller Kurs:** 19,85 EUR
-- **Marktwert:** 2105,06 EUR
-- **Unrealisierter G/V:** +601,82 EUR (+40,03%)
-- **Portfolioanteil:** 1,32%
-- **Dividenden erhalten:** 0,77 EUR
-- **Bewertung:** The share price has pulled back modestly from its 2026 highs (~20.34 EUR a week ago) to 19.85 EUR, yet the position still shows a strong +40% unrealized gain versus the average entry price, reflecting Iberdrola's solid H1 2026 earnings (net profit +22%) and raised full-year guidance (>8% profit growth). With Q3/9-month results due on 21 October 2026 and the Caruna (Finland) grid acquisition still pending regulatory approval, near-term newsflow is quiet but the underlying regulated-networks growth story remains intact; given the modest dividend received so far and the rich valuation after a strong run, "hold" looks reasonable, with only opportunistic top-ups on further pullbacks rather than a fresh buy at current levels.
+- **Aktueller Kurs:** 19,91 EUR
+- **Marktwert:** 2.111,43 EUR
+- **Unrealisierter G/V:** +608,18 EUR (40,46%)
+- **Portfolioanteil:** 1,31%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** Die Position notiert nahe ihrer Rekordwerte und hat sich seit Kauf mehr als +40% verbessert, gestützt durch starke H1-2026-Zahlen (Nettogewinn +22% auf 4,34 Mrd. EUR) und eine angehobene Jahresprognose; angesichts der bereits hohen Bewertung und der bevorstehenden Neunmonatszahlen (21.10.2026) erscheint ein Halten der Position sinnvoll, eine Aufstockung sollte eher auf Kursrücksetzer warten.
 
 ## Aktuelle Meldungen
-- Iberdrola shares traded around 19.85–20.20 EUR in the week of 26 August–2 September 2026, easing slightly from the year's highs but still up materially year-to-date.
-- No major company-specific press releases were issued during the week; Iberdrola's newsflow was dominated by sustainability and brand events rather than corporate actions.
-- The company is participating in European Mobility Week 2026 (16–22 September) and will attend Climate Week NYC 2026 (20–27 September), reaffirming its focus on sustainable mobility and decarbonisation.
-- Iberdrola is marking its 125th anniversary with an interactive exhibition at CentroCentro in Madrid running through September and October 2026, showcasing the history of electrification in Spain.
-- The next major catalyst is the first-nine-months 2026 results presentation, scheduled for 21 October 2026.
+- Iberdrola shares opened at around 19,59 EUR on the IBEX 35 on 4 September 2026, trading near recent highs following strong H1 2026 earnings.
+- The stock has held firm in recent sessions as investors digest the strong H1 2026 results and rising eurozone energy prices.
+- Iberdrola will present its results for the first nine months of 2026 on 21 October 2026.
+- The company is participating in a sustainable mobility event (16–22 September 2026) and will attend Climate Week NYC 2026 (20–27 September 2026).
 
 ## Management
-- Pedro Azagra, who became CEO in 2025 after previously heading US subsidiary Avangrid, continues to lead day-to-day operations; in a May 2026 interview with The CEO Magazine he described rising global energy demand as the force "reshaping industries, economies and geopolitics" and central to the energy transition.
-- In a late-June 2026 interview with Energy Intelligence, Azagra discussed how Iberdrola has navigated recent shifts in energy markets and policy, emphasizing resilience through its regulated-networks focus.
-- Azagra also gave a keynote at Iberdrola's Digital Summit 2026 on how AI is reshaping the company's business and workplace culture.
-- Executive Chairman Ignacio Sánchez Galán remains the public face on strategy and policy, having argued earlier in 2026 (CERAWeek, ElEconomista) that long-term fixed-price contracts limit Iberdrola's exposure to geopolitical and energy-price volatility, and pressing for lighter regulatory and tax burdens in Europe to accelerate grid investment.
+- CEO Pedro Azagra (seit 2025 im Amt, zuvor Leiter der US-Tochter Avangrid) betonte in einem Interview mit Energy Intelligence (30.06.2026) die Widerstandsfähigkeit des Geschäftsmodells gegenüber Marktverschiebungen und politischen Änderungen sowie das Engagement für den Ausbau des Erneuerbaren-Portfolios und die Optimierung des Netzgeschäfts.
+- Executive Chairman Ignacio Galán äußerte sich 2026 mehrfach zu geopolitischen Themen und Energiesicherheit (u.a. CNBC-Interview beim WEF in Davos, Interview mit ElEconomista), wobei er auf den begrenzten Einfluss der aktuellen geopolitischen und Energiekrise auf Iberdrola verwies.
 
 ## Finanzielles
-- H1 2026 (reported 22 July 2026): net profit of 4.34 billion EUR (+22% year-on-year), driven by network investments in the UK, US and Brazil.
-- Q1 2026 (reported 29 April 2026): adjusted net profit up 11% to 1,865 million EUR, adjusted EBITDA up 2.4% to 4.1 billion EUR; Networks segment EBITDA grew 9%, led by the US and UK; full-year guidance raised to >8% profit growth.
-- Gross investment of 14.46 billion EUR (including the buyout of Neoenergia minorities, ~980 million EUR) underpinned profit growth; renewable capacity expanded by 3,300 MW over the trailing twelve months.
-- Iberdrola completed the sale of its thermal generation assets in Mexico during Q2 2026, freeing up proceeds partly earmarked for the Caruna acquisition.
-- Results for the first nine months of 2026 will be published on 21 October 2026.
+- H1 2026: Nettogewinn stieg um 22% auf 4,34 Mrd. EUR, getrieben durch Investitionen in die Netzgeschäfte in UK, USA und Brasilien.
+- Q1 2026: Bereinigter Nettogewinn +11% auf 1.865 Mio. EUR; bereinigtes EBITDA +2,4% auf 4,1 Mrd. EUR, vor allem dank starker Netzperformance in UK und USA; Jahresprognose wurde daraufhin angehoben.
+- Das Netzsegment wuchs im Q1 2026 um 9% (EBITDA), mit deutlichen Beiträgen aus den USA und UK.
+- Gesamtinvestitionsvolumen (inkl. Minderheitenübernahme bei Neoenergia) erreichte rund 14,46 Mrd. EUR in 2025 als Basis für die laufende Investitionsstrategie 2025–2028.
 
 ## Strategie & Ausblick
-- The dominant strategic move of 2026 remains the agreed acquisition of an 80% stake in Caruna Networks, Finland's largest electricity distributor, for ~2 billion EUR equity value (~5 billion EUR enterprise value); completion is expected in Q1 2027 pending regulatory clearance.
-- The Caruna deal adds 2.5 billion EUR to Iberdrola's regulated asset base and a 21% share of the Finnish distribution market, benefiting from Finland's AA+ sovereign rating and stable regulatory regime; management expects a positive earnings contribution from year one, with ~7% annual net profit growth from the asset.
-- Iberdrola completed full ownership of Brazilian subsidiary Neoenergia in mid-2026, consolidating its Latin American networks footprint.
-- Strategic focus continues to center on regulated grid businesses (US, UK, Brazil, Spain, and soon Finland) to support electrification, minimizing commodity-price exposure and supporting predictable cash flows; no new major acquisitions or divestments were announced during the current review period.
+- Abschluss der vollständigen Übernahme von Neoenergia (Brasilien): Erwerb der übrigen Anteile für rund 980 Mio. EUR (5.826 Mio. BRL), womit Iberdrola seit Mitte Mai 2026 100% an Neoenergia hält – verbunden mit höherer Visibilität durch Konzessionsverlängerungen von über 30 Jahren.
+- Übernahme von Caruna Group (Finnland): Iberdrola vereinbarte den Kauf einer 80%-Beteiligung am größten finnischen Stromverteilnetzbetreiber für rund 2 Mrd. EUR (Bewertung des Unternehmens: ca. 5 Mrd. EUR), was das regulierte Anlagevermögen um 2,5 Mrd. EUR erhöht und einen Marktanteil von 21% am finnischen Verteilnetzmarkt bedeutet; Abschluss der Transaktion wird für Q1 2027 erwartet (vorbehaltlich behördlicher Genehmigungen).
+- Rund zwei Drittel der geplanten Investitionen 2025–2028 entfallen weiterhin auf das Stromnetzsegment (Networks), das als Wachstumstreiber in regulierten Märkten (USA, UK, Brasilien, künftig Finnland) im Fokus steht.
+- Nächster wichtiger Termin: Veröffentlichung der Ergebnisse für die ersten neun Monate 2026 am 21.10.2026.
 
 ## Quellen
-- [Company news 2026 - Iberdrola](https://www.iberdrola.com/press-room/news/2026)
-- [Iberdrola: Celebrating 125 years together - Iberdrola](https://www.iberdrola.com/home)
-- [2026 First half Results presentation - Iberdrola](https://www.iberdrola.com/shareholders-investors/operational-financial-information/results)
-- [Pedro Azagra, CEO of Iberdrola - The CEO Magazine](https://amp.theceomagazine.com/business/executive-interview-feature/energy-surge-pedro-azagra/)
-- [Iberdrola Touts Security, Stability of Renewables - Energy Intelligence](https://www.energyintel.com/0000019f-2223-dacc-a7bf-aaa3cb570000?view=secondary-register)
-- [Ignacio Galán: "Iberdrola's business model is part of the solution to energy crises" - Iberdrola](https://www.iberdrola.com/press-room/news/detail/ignacio-galan-ceraweek-iberdrola-business-model-part-solution-energy-crises)
-- [Iberdrola Q1 2026 slides: profit jumps 11%, guidance raised to >8% - Investing.com](https://www.investing.com/news/company-news/iberdrola-q1-2026-slides-profit-jumps-11-guidance-raised-to-8-93CH-4644123)
-- [Iberdrola H1 2026 slides: networks drive 22% profit jump, Finland deal - Investing.com](https://www.investing.com/news/company-news/iberdrola-h1-2026-slides-networks-drive-22-profit-jump-finland-deal-93CH-4804981)
-- [Investments of €14.46 billion drive 12% growth in reported Net Profit - Iberdrola](https://www.iberdrola.com/press-room/news/detail/investments-of-14-46-billion-drive-12-percent-growth-in-reported-net-profit)
-- [Iberdrola Agrees to Buy 80% Stake in Caruna for €2 Billion - Bloomberg](https://www.bloomberg.com/news/articles/2026-07-21/iberdrola-agrees-to-buy-80-stake-in-caruna-group-for-2-billion)
-- [Iberdrola Earnings: 2026 Guidance Confirmed, Acquisition of Caruna for EUR 2 billion - Morningstar](https://www.morningstar.com/company-reports/1489105-iberdrola-earnings-2026-guidance-confirmed-acquisition-of-caruna-for-eur-2-billion)
+- [Iberdrola reports US$4.9 billion H1 2026 net profit as solar capacity increases, but renewable generation falls – PV Tech](https://www.pv-tech.org/iberdrola-reports-h1-2026-net-profit-solar-capacity-increases-renewable-generation-falls/)
+- [Iberdrola stock holds firm as investors digest strong H1 2026 results – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/iberdrola-stock-holds-firm-as-investors-digest-strong-h1-2026-results/70055630)
+- [Company news 2026 – Iberdrola Press Room](https://www.iberdrola.com/press-room/news/2026)
+- [Pedro Azagra, CEO of Iberdrola – The CEO Magazine](https://amp.theceomagazine.com/business/executive-interview-feature/energy-surge-pedro-azagra/)
+- [Iberdrola Touts Security, Stability of Renewables – Energy Intelligence](https://www.energyintel.com/0000019f-2223-dacc-a7bf-aaa3cb570000?view=secondary-register)
+- [Iberdrola CEO: Energy security and national security absolutely linked – CNBC](https://www.cnbc.com/video/2026/01/21/iberdrola-ceo-energy-security-and-national-security-absolutely-linked.html)
+- [Iberdrola Q1 2026 slides: profit jumps 11%, guidance raised to >8% – Investing.com](https://www.investing.com/news/company-news/iberdrola-q1-2026-slides-profit-jumps-11-guidance-raised-to-8-93CH-4644123)
+- [Iberdrola H1 2026 slides: networks drive 22% profit jump, Finland deal – Investing.com](https://www.investing.com/news/company-news/iberdrola-h1-2026-slides-networks-drive-22-profit-jump-finland-deal-93CH-4804981)
+- [Iberdrola Agrees to Buy 80% Stake in Caruna for €2 Billion – Bloomberg](https://www.bloomberg.com/news/articles/2026-07-21/iberdrola-agrees-to-buy-80-stake-in-caruna-group-for-2-billion)
+- [Iberdrola Expands European Grid Business with €5 Billion Caruna Acquisition – Carbon Credits](https://carboncredits.com/iberdrola-expands-european-grid-business-with-e5-billion-caruna-acquisition/)
