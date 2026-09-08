@@ -1,44 +1,45 @@
 # BioNTech (ADR) (BNTX)
-_Aktualisiert: 05.09.2026 | Zeitraum: 29.08.2026 – 05.09.2026_
+_Aktualisiert: 08.09.2026 | Zeitraum: 01.09.2026 – 08.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 56,27053 Aktien
 - **Kaufkurs (Ø):** 145,33 EUR
-- **Aktueller Kurs:** 89,25 EUR
-- **Marktwert:** 5022,14 EUR
-- **Unrealisierter G/V:** -3215,24 EUR (-39,03%)
-- **Portfolioanteil:** 3,11%
-- **Dividenden erhalten:** 60,28 EUR
-- **Bewertung:** BioNTech bleibt operativ defizitär (Nettoverlust H1 2026: rund 1,56 Mrd. USD) und wird im Wesentlichen über seine Nettoliquidität (~16,8 Mrd. EUR) sowie die Onkologie-Pipeline bewertet, ein klassisches KGV ist nicht aussagekräftig. Der jüngste Studienabbruch bei autogene cevumeran (Darmkrebs) und die laufende CEO-Nachfolge erhöhen die Unsicherheit kurzfristig; bei -39% gegenüber dem Kaufkurs und ohne laufende Dividende erscheint angesichts der WCLC-Daten und der geplanten Werksentscheidungen Ende September ein Halten weiterhin vertretbar, ein Aufstocken sollte erst nach mehr Klarheit zu Pipeline und Restrukturierung geprüft werden.
+- **Aktueller Kurs:** 89,70 EUR
+- **Marktwert:** 5.047,47 EUR
+- **Unrealisierter G/V:** -3.189,91 EUR (-38,72%)
+- **Portfolioanteil:** 3,05%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** BioNTech bleibt operativ tief defizitär (Nettoverlust H1 2026: rund 1,35 Mrd. EUR) und senkte die Umsatzprognose 2026 deutlich auf 1,6–1,9 Mrd. EUR (zuvor 2,3–2,6 Mrd. EUR); die Nettoliquidität von ~16,8 Mrd. EUR und die Onkologie-Pipeline bleiben die eigentliche Bewertungsgrundlage, ein klassisches KGV ist weiterhin nicht aussagekräftig. / BioNTech remains deeply loss-making operationally (H1 2026 net loss: roughly EUR 1.35bn) and sharply cut 2026 revenue guidance to EUR 1.6–1.9bn (from EUR 2.3–2.6bn); net cash of ~EUR 16.8bn and the oncology pipeline remain the real valuation basis, so a classic P/E is still not meaningful. Bei -38,72% gegenüber dem Kaufkurs, ohne laufende Dividende und mit der WCLC-Konferenz sowie der Werksentscheidung als unmittelbar bevorstehenden Kurstreibern erscheint Halten weiterhin die naheliegende Position; ein Aufstocken sollte frühestens nach den WCLC-Daten (12.–15.09.) und der Werksentscheidung (Ende September) geprüft werden. / At -38.72% versus the purchase price, with no ongoing dividend and both the WCLC conference and the factory decision as imminent share-price catalysts, holding remains the sensible stance; adding to the position should only be considered after the WCLC data (Sep 12–15) and the factory decision (end of September).
 
 ## Aktuelle Meldungen
-- BioNTech beendete eine Phase-2-Studie zum mRNA-Darmkrebsimpfstoff autogene cevumeran, nachdem ein unabhängiges Komitee zu dem Schluss kam, die Behandlung werde das Überleben der Patienten wahrscheinlich nicht verlängern; die US-notierte Aktie fiel daraufhin um rund 7,5%.
-- BioNTech hat sich verpflichtet, bis Ende September 2026 über die Zukunft seiner Produktionsstandorte in Deutschland und Singapur zu entscheiden – bis zu 1.860 Stellen könnten betroffen sein.
-- Vom 12.–15.09.2026 präsentiert BioNTech auf der IASLC World Conference on Lung Cancer (WCLC) 2026 in Seoul aktualisierte Überlebensdaten zu Gotistobart sowie erstmals globale Daten zur Kombination aus Pumitamig und Elfetabart Drozuntecan.
-- Die FDA erteilte die Zulassung für den an die Variante XFG angepassten COVID-19-Impfstoff (gemeinsam mit Pfizer) für die Saison 2026/27.
+- Vom 12.–15.09.2026 präsentiert BioNTech auf der IASLC World Conference on Lung Cancer (WCLC) 2026 in Seoul aktualisierte Überlebensdaten zu Gotistobart sowie erstmals globale Lungenkrebs-Daten zur Kombination aus Pumitamig und Elfetabart Drozuntecan – ein zentraler Kurstreiber für die kommende Woche. / From Sep 12–15, 2026, BioNTech will present updated Gotistobart survival data and, for the first time, global lung-cancer data on the Pumitamig/Elfetabart Drozuntecan combination at the IASLC World Conference on Lung Cancer (WCLC) 2026 in Seoul – a key share-price catalyst for the coming week.
+- Die Entscheidung über die Zukunft der Produktionsstandorte in Deutschland und Singapur bleibt für Ende September 2026 angekündigt; bis zu 1.860 Stellen könnten betroffen sein. / The decision on the future of the German and Singapore manufacturing sites remains due by the end of September 2026, with up to 1,860 jobs potentially affected.
+- Die kolorektale Krebsstudie BNT122-01 (autogene cevumeran) wurde abrupt beendet, nachdem ein unabhängiges Komitee zu dem Schluss kam, ein Überlebensvorteil sei unwahrscheinlich; die Aktie reagierte mit spürbaren Kursverlusten. / The colorectal cancer trial BNT122-01 (autogene cevumeran) was abruptly terminated after an independent committee concluded a survival benefit was unlikely; the stock reacted with a notable sell-off.
+- Kommentatoren beschreiben September 2026 als "Monat der Abrechnung" für BioNTech, da Pipeline-Rückschlag, Werksentscheidung und ein noch nicht angetretener neuer CEO zeitlich zusammenfallen. / Commentators describe September 2026 as a "month of reckoning" for BioNTech, as the pipeline setback, the factory decision and a not-yet-started new CEO converge.
 
 ## Management
-- Der für Anfang August angekündigte CEO-Wechsel bleibt im Fokus: Guido Oelkers (bisher CEO von Sobi) übernimmt spätestens zum 01.02.2027 von Mitgründer Ugur Sahin, der gemeinsam mit Özlem Türeci ein neues, auf mRNA-Innovationen fokussiertes Unternehmen gründen will.
-- Analysten und Marktbeobachter werten die Personalie als Übergang zu einem stärker kommerziell und onkologisch ausgerichteten Kurs unter Oelkers.
+- Guido Oelkers (bisher CEO von Sobi) übernimmt spätestens zum 01.02.2027 als CEO von Mitgründer Ugur Sahin; Sahin und Özlem Türeci bereiten bis Ende 2026 den Übergang in ein neues, auf mRNA-Innovationen fokussiertes Unternehmen vor. / Guido Oelkers (formerly CEO of Sobi) takes over as CEO from co-founder Ugur Sahin no later than Feb 1, 2027; Sahin and Özlem Türeci are preparing to transition to a new mRNA-innovation company by the end of 2026.
+- Das neue Unternehmen der Gründer ist laut BioNTech kein Spin-off, sondern eine eigenständige, unabhängig finanzierte Firma; Sahin nannte den Zeitpunkt richtig, "um den Staffelstab zu übergeben". / BioNTech states the founders' new company is not a spin-off but a fully independent, separately funded entity; Sahin called it the right time "to prepare to hand over the baton".
+- Der Führungswechsel bleibt ein Unsicherheitsfaktor, da der neue CEO sein Amt erst mit erheblicher Verzögerung antritt, während operative Weichenstellungen (Werke, Pipeline) bereits jetzt getroffen werden. / The leadership change remains a source of uncertainty, as the new CEO only starts with considerable delay while operational decisions (factories, pipeline) are being made now.
 
 ## Finanzielles
-- Nettoverlust H1 2026: rund 1,56 Mrd. USD (Q1: 531,9 Mio. EUR Nettoverlust; Q2: 820,8 Mio. EUR Nettoverlust).
-- Q1 2026 Umsatz: 118,1 Mio. EUR (Vorjahresquartal: 182,8 Mio. EUR) – Rückgang v. a. durch geringere COVID-19-Impfstoffumsätze.
-- Werksschließungen in Idar-Oberstein, Marburg, Singapur und bei CureVac sollen ab 2029 rund 584,9 Mio. USD jährlich einsparen.
-- Liquidität: rund 16,8 Mrd. EUR an Zahlungsmitteln, Zahlungsmitteläquivalenten und Wertpapieranlagen (Q1 2026; Ende 2025: rund 17,2 Mrd. EUR).
+- Q2 2026 Umsatz brach auf 105,6 Mio. EUR ein (Vorjahresquartal: 260,8 Mio. EUR); der Nettoverlust H1 2026 summiert sich auf rund 1,35 Mrd. EUR (Q1: 531,9 Mio. EUR; Q2: 820,8 Mio. EUR). / Q2 2026 revenue collapsed to EUR 105.6m (prior-year quarter: EUR 260.8m); the H1 2026 net loss totals roughly EUR 1.35bn (Q1: EUR 531.9m; Q2: EUR 820.8m).
+- Die Umsatzprognose 2026 wurde deutlich gesenkt auf 1,6–1,9 Mrd. EUR (zuvor 2,3–2,6 Mrd. EUR); die F&E-Ausgabenprognose wurde auf 2,0–2,3 Mrd. EUR angepasst. / Full-year 2026 revenue guidance was cut sharply to EUR 1.6–1.9bn (from EUR 2.3–2.6bn); R&D spending guidance was adjusted to EUR 2.0–2.3bn.
+- Liquidität: rund 16,8 Mrd. EUR an Zahlungsmitteln, Zahlungsmitteläquivalenten und Wertpapieranlagen (Stand Q1 2026); bildet weiterhin das finanzielle Rückgrat für die Pipeline-Finanzierung. / Liquidity: roughly EUR 16.8bn in cash, cash equivalents and security investments (as of Q1 2026); continues to underpin pipeline funding.
+- Werksschließungen in Idar-Oberstein, Marburg, Singapur und bei CureVac sollen ab 2029 rund 584,9 Mio. USD jährlich einsparen. / Plant closures in Idar-Oberstein, Marburg, Singapore and at CureVac are expected to save around USD 584.9m annually from 2029.
 
 ## Strategie & Ausblick
-- 2026 gilt laut Management weiterhin als "katalysatorreiches Jahr" mit erwarteten Phase-3-Auslesungen zu Trastuzumab Pamirtecan, Gotistobart und BNT113.
-- Die Restrukturierung der Produktion und der Studienabbruch bei autogene cevumeran verschieben den Fokus stärker auf die spätklinische Lungenkrebs- und ADC-Pipeline.
-- Strategisches Ziel bleibt die Transformation zu einem diversifizierten Onkologieunternehmen; Pumitamig (mit Bristol Myers Squibb entwickelt) bleibt zentraler Wertreiber.
-- Die Werksentscheidung Ende September 2026 sowie die WCLC-Daten Mitte September gelten als nächste kursrelevante Ereignisse.
+- 2026 bleibt laut Management ein "katalysatorreiches Jahr" mit erwarteten Phase-3-Auslesungen zu Trastuzumab Pamirtecan, Gotistobart und BNT113 sowie bis zu 15 laufenden Phase-3-Studien zum Jahresende. / 2026 remains, per management, a "catalyst-rich year" with expected Phase 3 readouts for Trastuzumab Pamirtecan, Gotistobart and BNT113, and up to 15 ongoing Phase 3 trials by year-end.
+- Der Studienabbruch bei autogene cevumeran und die gesenkte Umsatzprognose verschieben den strategischen Fokus stärker auf die spätklinische Lungenkrebs- und ADC-Pipeline (Pumitamig, Elfetabart Drozuntecan). / The autogene cevumeran trial termination and cut revenue guidance shift strategic focus further toward the late-stage lung-cancer and ADC pipeline (Pumitamig, Elfetabart Drozuntecan).
+- Strategisches Ziel bleibt die Transformation zu einem diversifizierten Onkologieunternehmen mit Ambition, bis 2030 ein Multi-Produkt-Unternehmen zu werden. / The strategic goal remains transformation into a diversified oncology company, with an ambition to become a multi-product company by 2030.
+- Nächste kursrelevante Ereignisse: WCLC-Daten (12.–15.09.2026) und die Werksentscheidung für Deutschland/Singapur (Ende September 2026). / Next share-price-relevant events: WCLC data (Sep 12–15, 2026) and the Germany/Singapore factory decision (end of September 2026).
 
 ## Quellen
+- [BioNTech's September Crossroads: A Pipeline Setback, a Factory Fire Sale, and a CEO Who Hasn't Started Yet (NewsCase)](https://www.newscase.com/biontechs-september-crossroads-a-pipeline-setback-a-factory-fire-sale-and-a-ceo-who-hasnt-started-yet/)
 - [BioNTech Faces a September of Reckoning as Lung Cancer Data and Factory Decisions Converge](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/biontech-faces-a-september-of-reckoning-as-lung-cancer-data-and-factory/70042742)
-- [BNTX stock reacts to halted cancer trial and lower 2026 guidance](https://www.ad-hoc-news.de/boerse/news/nebenwerte/bntx-stock-reacts-to-halted-cancer-trial-and-lower-2026-guidance/70039363)
 - [BioNTech Highlights Late-Stage Lung Cancer Pipeline Momentum and First Global Data at WCLC 2026](https://www.globenewswire.com/news-release/2026/08/20/3348151/0/en/biontech-highlights-late-stage-lung-cancer-pipeline-momentum-and-first-global-data-for-pumitamig-elfetabart-drozuntecan-novel-novel-combination-at-wclc-2026.html)
-- [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company (Fierce Biotech)](https://www.fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+- [BioNTech and Co-Founders Announce Plan to Pursue Next-Generation mRNA Innovations](https://investors.biontech.de/news-releases/news-release-details/biontech-and-co-founders-announce-plan-pursue-next-generation)
 - [BioNTech names Guido Oelkers its new CEO, replacing Ugur Sahin (STAT News)](https://www.statnews.com/2026/08/03/biontech-ceo-guido-oelkers-ugur-sahin-replacement/)
 - [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and)
 - [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/08/BioNTech-Announces-Second-Quarter-2026-Financial-Results-and-Corporate-Update.html)
-- [BioNTech Closes Acquisition of CureVac N.V.](https://investors.biontech.de/news-releases/news-release-details/biontech-closes-acquisition-curevac-nv-including-subsequent)
+- [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update (GlobeNewswire)](https://www.globenewswire.com/news-release/2026/08/04/3338119/0/en/biontech-announces-second-quarter-2026-financial-results-and-corporate-update.html)
