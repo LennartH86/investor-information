@@ -1,44 +1,47 @@
 # Jumbo (BELA.AT)
-_Aktualisiert: 06.09.2026 | Zeitraum: 30.08.2026 – 06.09.2026_
+_Aktualisiert: 10.09.2026 | Zeitraum: 03.09.2026 – 10.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 23,74 EUR
-- **Aktueller Kurs:** 26,96 EUR
-- **Marktwert:** 1.348,00 EUR
-- **Unrealisierter G/V:** +153,13 EUR (12,82%)
-- **Portfolioanteil:** 0,84%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Jumbo notiert nach dem Kursanstieg auf 26,96 EUR mit einem Plus von 12,82% zum Einstiegskurs solide im Gewinn; die Marktkapitalisierung liegt bei rund 3,90 Mrd. USD. Angesichts starker Fundamentaldaten (Nettoumsatzwachstum ca. 5–7%, hohe Nettoliquidität von 473 Mio. EUR, laufendes Aktienrückkaufprogramm) und der anstehenden Q3-Zahlen am 24.09.2026 erscheint Halten sinnvoll; eine Aufstockung könnte bei einem Rücksetzer vor den Quartalszahlen interessant sein.
+- **Aktueller Kurs:** 26,20 EUR
+- **Marktwert:** 1.310,00 EUR
+- **Unrealisierter G/V:** +115,13 EUR (9,64%)
+- **Portfolioanteil:** 0,80%
+- **Dividenden erhalten:** 25,87 EUR
+- **Bewertung:** Nach dem leichten Rücksetzer von 26,96 EUR auf 26,20 EUR notiert Jumbo weiterhin komfortabel über dem Einstiegskurs (+9,64%); zusätzlich wurde erstmals eine Dividendenzahlung von 25,87 EUR verbucht. Bei starker Bilanz (Nettoliquidität ca. 473 Mio. EUR), laufendem Aktienrückkauf und Analystenkurszielen um 25,75 EUR (nahe am aktuellen Niveau) erscheint die Aktie fair bewertet; angesichts der bevorstehenden Q3-Zahlen (voraussichtlich 21.–24.09.2026) ist Halten die naheliegende Strategie, eine Aufstockung könnte bei einem weiteren Rücksetzer vor den Zahlen sinnvoll sein.
 
 ## Aktuelle Meldungen
-- Jumbo S.A. reports a market capitalization of approximately $3.90 billion as of September 2026.
-- The company's share repurchase program, initiated in 2024, is set to run until September 25, 2026.
-- Next earnings date is scheduled for September 24, 2026 (8:00 PM UTC), which will likely cover Q3/H2 trading updates.
+- Der Aktienkurs gab im Berichtszeitraum leicht von 26,96 EUR auf 26,20 EUR nach, bleibt aber deutlich über dem durchschnittlichen Kaufkurs von 23,74 EUR.
+- Analysten haben ihr Kursziel für Jumbo zuletzt von 21,10 EUR auf rund 25,75 EUR angehoben, was in etwa dem aktuellen Kursniveau entspricht.
+- Das Portfolio verzeichnete erstmals eine Dividendengutschrift von 25,87 EUR aus der Jumbo-Position.
+- Keine wesentlichen unternehmensspezifischen Pressemeldungen im aktuellen Zeitraum (03.–10.09.2026) gefunden; der Fokus der Berichterstattung liegt auf den bevorstehenden Quartalszahlen.
 
 ## Management
-- Konstantina Demiri continues as CEO of Jumbo S.A. (in role since 2016); no leadership changes reported in the current period.
-- Keine aktuellen Wechsel im Vorstand oder Aufsichtsrat gemeldet.
+- Konstantina Demiri bleibt CEO von Jumbo S.A. (seit 2016 im Amt); keine gemeldeten Veränderungen im Management oder Aufsichtsrat.
 
 ## Finanzielles
-- Full-year 2025 results: sales rose 7% year-over-year to €1.233 billion, net profit up 4% to €320 million, EBITDA up 5% to €436 million.
-- Q1 2026 sales grew 7% year-over-year, with Greece and Bulgaria up 11%, Cyprus up 4%, while Romania declined 4%.
-- 2026 full-year guidance: sales growth of approximately 5%, net income guidance of €310–320 million, and CapEx near €60 million.
-- Strong net cash position of €473 million supports continued investment flexibility and the ongoing buyback program.
+- Geschäftsjahr 2025: Umsatz stieg um 7% auf 1,233 Mrd. EUR, Nettogewinn um 4% auf 320 Mio. EUR, EBITDA um 5% auf 436 Mio. EUR.
+- Q1 2026: Umsatzwachstum von 7% gegenüber Vorjahr, getragen von Griechenland und Bulgarien (+11%) sowie Zypern (+4%), während Rumänien um 4% zurückging.
+- Ausblick 2026: Umsatzwachstum von rund 5%, Nettogewinnprognose 310–320 Mio. EUR, CapEx nahe 60 Mio. EUR.
+- Starke Nettoliquidität von 473 Mio. EUR sowie umfangreiche Ausschüttungen (131,5 Mio. EUR Baraussschüttung 2025 plus 67,18 Mio. EUR Sonderausschüttung in Q1 2026) unterstreichen finanzielle Stabilität.
+- Das laufende Aktienrückkaufprogramm läuft noch bis 25.09.2026.
+- Nächster Berichtstermin für Q3/H2-Zahlen wird für den 21.–24.09.2026 erwartet (Quellenangaben variieren leicht).
 
 ## Strategie & Ausblick
-- Jumbo completed a corporate asset purchase of a 60,000 sqm Giga Distribution Center in Romania (April 2026), strengthening logistics capacity for regional expansion.
-- New stores opened in Timișoara (Romania) and online expansion in Bulgaria, plus acquisition of three additional stores in Greece.
-- Long-term expansion plans target a store network of up to 116 stores over the next decade across Greece, Cyprus, Bulgaria, Romania, Israel, and Canada.
-- Mixed regional momentum: strength in Greece and Bulgaria offset by weaker performance in Romania during Q1 2026, worth monitoring in upcoming quarterly reports.
+- Erwerb eines 60.000 qm großen "Giga"-Logistikzentrums in Rumänien (April 2026) zur Stärkung der regionalen Expansionskapazitäten.
+- Neueröffnungen in Timișoara (Rumänien), Online-Expansion in Bulgarien sowie Übernahme von drei weiteren Filialen in Griechenland.
+- Langfristig plant Jumbo ein Filialnetz von bis zu 116 Standorten über die nächsten zehn Jahre in Griechenland, Zypern, Bulgarien, Rumänien, Israel und Kanada.
+- Laut Fox Group ist zudem die Einführung der Marke Jumbo in Kanada über die Übernahme eines ehemaligen Toys-"R"-Us-Standorts geplant.
+- Gemischte regionale Dynamik: Stärke in Griechenland und Bulgarien steht einer Schwäche in Rumänien gegenüber – im weiteren Jahresverlauf zu beobachten.
 
 ## Quellen
 - [Jumbo S.A. (BELA.AT) Stock Price, News, Quote & History - Yahoo Finance](https://finance.yahoo.com/quote/BELA.AT/)
-- [Jumbo S.A. (JUMSF) Company Profile & Facts - Yahoo Finance](https://finance.yahoo.com/quote/JUMSF/profile/)
+- [Jumbo (ATH:BELA) Stock Price & Overview - stockanalysis.com](https://stockanalysis.com/quote/ath/BELA/)
 - [Jumbo (ATSE:BELA) - Stock Analysis - Simply Wall St](https://simplywall.st/stocks/gr/retail/ath-bela/jumbo-shares)
 - [Jumbo S.A. (BELA) | Complete Financial Reports 2026](https://financialfilings.com/companies/jumbo-sa/)
-- [Jumbo S.A.](https://en.wikipedia.org/wiki/Jumbo_S.A.)
 - [Jumbo (BELA) Investor Relations, Earnings Summary & Outlook - Quartr](https://quartr.com/companies/jumbo-s-a_15933)
-- [Press Releases - Jumbo Group](https://www.jumbogroup.com/media-press-release)
-- [Jumbo S.A.: Shareholders Board Members Managers and Company Profile - MarketScreener](https://www.marketscreener.com/quote/stock/JUMBO-S-A-6259019/company/)
+- [SHARE INFO < INVESTOR RELATIONS | Jumbo](https://corporate.e-jumbo.gr/en/investor-relations/share-info-124309/)
+- [All Years < ANNOUNCEMENTS - PRESS RELEASES | Jumbo](https://corporate.e-jumbo.gr/en/investor-relations/announcements-press-releases/all-years/)
 - [Jumbo 2026 Company Profile: Stock Performance & Earnings - PitchBook](https://pitchbook.com/profiles/company/59301-91)
+- [Jumbo S.A.](https://en.wikipedia.org/wiki/Jumbo_S.A.)
