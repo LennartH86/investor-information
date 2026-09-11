@@ -1,20 +1,21 @@
 # Sixt (Vz) (SIX3.DE)
-_Aktualisiert: 08.09.2026 | Zeitraum: 01.09.2026 – 08.09.2026_
+_Aktualisiert: 11.09.2026 | Zeitraum: 04.09.2026 – 11.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 60 Aktien
 - **Kaufkurs (Ø):** 56,23 EUR
-- **Aktueller Kurs:** 60,00 EUR
-- **Marktwert:** 3.600,00 EUR
-- **Unrealisierter G/V:** +202,86 EUR (+5,97%)
+- **Aktueller Kurs:** 57,10 EUR
+- **Marktwert:** 3.426,00 EUR
+- **Unrealisierter G/V:** +28,86 EUR (+0,85%)
 - **Portfolioanteil:** 2,17%
 - **Dividenden erhalten:** 94,83 EUR
-- **Bewertung:** Die Vorzugsaktie hat sich im Berichtszeitraum leicht befestigt und notiert nun bei 60,00 EUR, womit die Position mit knapp +6% im Plus liegt. Gestützt wird der Kurs von den starken H1-2026-Zahlen (Umsatz 2,12 Mrd. EUR, +9,2%; EBT +39,4% auf 125,1 Mio. EUR) und der bestätigten bzw. leicht angehobenen Jahresprognose (Umsatz 4,45–4,60 Mrd. EUR, EBT-Marge ~10% gegenüber 9,4% im Vorjahr). Bei intaktem Wachstumstrend (20. Rekordquartal in Folge) und der bereits vereinnahmten Dividendenrendite von 94,83 EUR spricht die Datenlage weiterhin für **Halten**, mit Beobachtung des nächsten Quartalsupdates als möglichem Katalysator für eine Aufstockung.
+- **Bewertung:** Die Vorzugsaktie hat im Berichtszeitraum einen spürbaren Teil der Vorwochen-Gewinne abgegeben (von rund 60,00 EUR auf 57,10 EUR, ca. -4,8%), womit die Position nur noch knapp im Plus liegt (+0,85% statt zuvor rund +6%). Der Rücksetzer erfolgte trotz weiterhin solider operativer Lage – Reise- und Mobilitätswerte litten sektorweit unter neu aufgeflammten Inflationssorgen und höheren Ölpreisen, ohne dass Sixt-spezifisch negative Nachrichten identifiziert wurden. Fundamental bleibt das Bild intakt: starke H1-2026-Zahlen (Umsatz 2,12 Mrd. EUR, +9,2%; EBT +39,4%), bestätigte Jahresprognose (Umsatz 4,45–4,60 Mrd. EUR, EBT-Marge ~10%) sowie bereits vereinnahmte Dividenden von 94,83 EUR. Angesichts des kurzfristig eher marktgetriebenen als unternehmensspezifischen Rücksetzers erscheint **Halten** weiterhin sinnvoll; ein günstigerer Einstiegskurs könnte für eine moderate Aufstockung genutzt werden, sofern sich die fundamentale Wachstumsstory beim nächsten Zahlenwerk (Q3 2026) bestätigt.
 
 ## Aktuelle Meldungen
-- Die Sixt-Aktie zeigte sich Anfang September 2026 stabil bis leicht fester und bleibt nach dem starken ersten Halbjahr 2026 gut unterstützt; Investoren warten auf das nächste Zahlenupdate.
-- Grundlage der positiven Stimmung sind die Ende Juli/im August veröffentlichten H1-2026-Ergebnisse mit Rekordumsatz von 2,12 Mrd. EUR (+9,2% ggü. Vorjahr) und einem Q2-Umsatz von 1,19 Mrd. EUR (+9,9%).
-- Ein dediziertes neues Pressemitteilungs-Ereignis speziell für den Zeitraum 01.–08.09.2026 wurde in der Recherche nicht identifiziert; die Newsroom-Lage bleibt seit dem H1-Bericht vom 13.08.2026 im Wesentlichen unverändert.
+- Die Sixt-Stammaktie (SIX2) gab am 08.09.2026 auf 71,15 EUR nach (-1,18% ggü. Vorwoche), da Transport- und Reisewerte auf neu aufgeflammte Inflationssorgen und steigende Rohölpreise reagierten; bis zum 10.09.2026 erholte sie sich wieder leicht auf rund 68,70 EUR (+1,03% über fünf Handelstage, aber -1,88% seit Jahresbeginn).
+- Die im Portfolio gehaltene Vorzugsaktie (SIX3) folgte der sektorweiten Schwäche und notiert zum Stichtag bei 57,10 EUR, nach rund 60,00 EUR in der Vorwoche.
+- Eine eigenständige neue Pressemitteilung von Sixt speziell für den Zeitraum 04.–11.09.2026 wurde nicht identifiziert; die Nachrichtenlage bleibt weiterhin von den H1-2026-Ergebnissen (veröffentlicht 13.08.2026) und begleitender Analysten-/Marktkommentierung geprägt.
+- Kundenzufriedenheit bleibt hoch: Auf Trustpilot hält Sixt (Stand 09.09.2026) eine Bewertung von 4,4 von 5 Sternen aus rund 13.220 Rezensionen (60% Fünf-Sterne-Bewertungen).
 - Keine neuen Meldungen zu Übernahmen, Beteiligungen oder größeren Unternehmenstransaktionen im Berichtszeitraum gefunden.
 
 ## Management
@@ -23,24 +24,27 @@ _Aktualisiert: 08.09.2026 | Zeitraum: 01.09.2026 – 08.09.2026_
 - Keine Veränderungen im Vorstand oder Aufsichtsrat im Beobachtungszeitraum bekannt geworden.
 
 ## Finanzielles
-- H1 2026: Konzernumsatz 2,12 Mrd. EUR (+9,2% ggü. Vorjahr), Q2-Umsatz 1,19 Mrd. EUR (+9,9%) – das 20. Rekordquartal in Folge.
+- H1 2026: Konzernumsatz 2,12 Mrd. EUR (+9,2% ggü. Vorjahr, währungsbereinigt +11,3% auf über 2 Mrd. EUR), Q2-Umsatz 1,19 Mrd. EUR (+9,9%) – das 20. Rekordquartal in Folge.
 - H1 2026: Ergebnis vor Steuern (EBT) stieg um 39,4% auf 125,1 Mio. EUR; Q2-EBT-Marge lag bei rund 10%.
-- Q1 2026 (zur Einordnung): Konzernumsatz 928,9 Mio. EUR (+8,2% nominal, +12,6% währungsbereinigt); Corporate EBITDA 67,7 Mio. EUR (+40,2%); Konzernüberschuss 1,5 Mio. EUR nach Nettoverlust von 12,6 Mio. EUR im Vorjahresquartal.
-- Jahresprognose 2026: Konzernumsatz weiterhin bei 4,45–4,60 Mrd. EUR, EBT-Marge von rund 10% avisiert (2025: 9,4%) – je nach Quelle als „bestätigt" bzw. leicht angehoben gegenüber der ursprünglichen Prognose beschrieben.
-- Der Dollar-Gegenwind bleibt ein Belastungsfaktor im Nordamerika-Geschäft, auch wenn die zuletzt gemeldeten Wachstumsraten nominal und währungsbereinigt enger beieinander lagen als in Vorquartalen.
+- Q1 2026 (zur Einordnung): Konzernumsatz 928,9 Mio. EUR (+8,2% nominal, +12,6% währungsbereinigt); Corporate EBITDA 67,7 Mio. EUR (+40,2%); EBT verbesserte sich um 19,7 Mio. EUR ggü. Vorjahresquartal. Regional: Inland 271,2 Mio. EUR (+11,5%), Europa 344,7 Mio. EUR (+16,2%), Nordamerika 310,3 Mio. EUR (-1,9%, dollarbedingt).
+- Jahresprognose 2026: Konzernumsatz weiterhin bei 4,45–4,60 Mrd. EUR, EBT-Marge von rund 10% avisiert (2025: 9,4%) – im Berichtszeitraum unverändert bestätigt.
+- Der Dollar-Gegenwind bleibt ein Belastungsfaktor im Nordamerika-Geschäft; Analysten sehen laut vorangegangenen Einschätzungen (Berenberg, u.a.) weiterhin zweistelliges Kurspotenzial für die Aktie.
 
 ## Strategie & Ausblick
 - Wachstumstreiber bleiben die internationale Expansion (v. a. Europa und beliebte Mittelmeer-Destinationen) sowie das Mobilitätsgeschäft in Nordamerika.
 - Die im Sommer 2026 vereinbarte Flottenbeschaffung mit Stellantis (bis zu 250.000 Fahrzeuge über drei Jahre) untermauert die langfristige Kapazitätsplanung für Europa und Nordamerika.
 - Kapitaldisziplin bleibt Leitmotiv: Flottenausbau weiterhin „innerhalb der Nachfrageparameter" statt Wachstum um jeden Preis.
-- Keine Hinweise auf eine Übernahme von oder durch Sixt im Berichtszeitraum; das nächste Zahlenwerk (Q3 2026) dürfte der nächste wesentliche Kurstreiber sein.
-- Risiken bleiben die Konjunkturzyklik des Mietwagengeschäfts, Restwertentwicklung der Flotte sowie die USD/EUR-Wechselkursentwicklung.
+- Keine Hinweise auf eine Übernahme von oder durch Sixt im Berichtszeitraum; der jüngste Kursrücksetzer wirkt eher makro- und sektorgetrieben (Inflation, Ölpreis) als unternehmensspezifisch.
+- Das nächste Zahlenwerk (Q3 2026) dürfte der nächste wesentliche Kurstreiber sein; Risiken bleiben die Konjunkturzyklik des Mietwagengeschäfts, Restwertentwicklung der Flotte sowie die USD/EUR-Wechselkursentwicklung.
 
 ## Quellen
-- [Sixt stock holds steady as investors await next earnings update – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/sixt-stock-holds-steady-as-investors-await-next-earnings-update/70060525)
-- [Die Sixt-Aktie bleibt nach starkem Halbjahr 2026 gut unterstützt – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/die-sixt-aktie-bleibt-nach-starkem-halbjahr-2026-gut-unterstuetzt/70065857)
-- [Sixt stock gains after strong first-half 2026 results and guidance raise – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/sixt-stock-gains-after-strong-first-half-2026-results-and-guidance-raise/70065222)
+- [Sixt stock edges higher as investors weigh recent results – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/sixt-stock-edges-higher-as-investors-weigh-recent-results/70083194)
+- [Sixt stock edges lower as investors digest summer results and sector headwinds – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/sixt-stock-edges-lower-as-investors-digest-summer-results-and-sector/70076790)
+- [Sixt stock heads into the open after a muted Xetra move – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/sixt-stock-heads-into-the-open-after-a-muted-xetra-move/70079213)
+- [20. Rekordquartal in Folge: SIXT steigert Halbjahresumsatz um währungsbereinigt 11,3 % auf über zwei Milliarden Euro – EQS News](https://www.eqs-news.com/news/corporate/20-rekordquartal-in-folge-sixt-steigert-halbjahresumsatz-um-waehrungsbereinigt-113-auf-ueber-zwei-milliarden-euro/781cd6c4-ca58-4b23-8011-40d51758a583_de)
+- [EQS-News: SIXT mit starkem Jahresauftakt: Umsatz steigt auf 929 Mio. Euro – Ergebnis übertrifft Vorjahr deutlich – onvista.de](https://www.onvista.de/news/2026/05-13-eqs-news-sixt-mit-starkem-jahresauftakt-umsatz-steigt-auf-929-mio-euro-ergebnis-uebertrifft-vorjahr-deutlich-0-37-26511420)
 - [Sixt SE (SIX2) Leadership & Management Team Analysis – Simply Wall St](https://simplywall.st/stocks/de/transportation/etr-six2/sixt-shares/management)
 - [Sixt SE – Konzern-Quartalsmitteilung zum 31. März 2026 (PDF)](https://about.sixt.com/wp-content/uploads/2026/05/Q1-2026_Sixt-SE-Quartalsmitteilung_ERS.pdf)
+- [Sixt reviews 2026: what the Trustpilot and BBB records show – openpr.com](https://www.openpr.com/news/4628346/sixt-reviews-2026-what-the-trustpilot-and-bbb-records-show)
 - [Newsroom – SIXT SE](https://about.sixt.com/en/newsroom/)
 - [Investor Relations – SIXT SE](https://about.sixt.com/en/investor-relations/)
