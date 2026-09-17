@@ -1,51 +1,48 @@
-# Eaton Corporation (ETN)
-_Aktualisiert: 12.09.2026 | Zeitraum: 05.09.2026 – 12.09.2026_
+# Eaton Corporation plc (ETN)
+_Aktualisiert: 17.09.2026 | Zeitraum: 10.09.2026 – 17.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 3 Aktien
-- **Kaufkurs (Ø):** 321.62 EUR
-- **Aktueller Kurs:** 366.00 EUR
-- **Marktwert:** 1098.00 EUR
-- **Unrealisierter G/V:** +130.73 EUR (13.52%)
-- **Portfolioanteil:** 0.69%
-- **Dividenden erhalten:** 2.13 EUR
-- **Bewertung:** Eaton continues to climb (+13.52% versus the average purchase price) on the back of record Q1/Q2 2026 results, raised adjusted-EPS guidance ($13.40-$13.60), and roughly $11 billion in strategic acquisitions (Boyd Thermal, Ultra PCS) aimed at data-center and aerospace growth. The quarterly dividend of $1.10/share keeps the yield modest relative to the strong price appreciation and premium valuation. Given the already elevated valuation after the recent run-up and the ongoing Mobility/Dana Reverse-Morris-Trust separation, Hold remains the sensible stance; adding to the position would be more attractive on a pullback.
+- **Kaufkurs (Ø):** 321,62 EUR
+- **Aktueller Kurs:** 347,20 EUR
+- **Marktwert:** 1.041,60 EUR
+- **Unrealisierter G/V:** +74,33 EUR (7,68%)
+- **Portfolioanteil:** 0,65%
+- **Dividenden erhalten:** 2,13 EUR
+- **Bewertung:** Die Position notiert 7,68% über dem durchschnittlichen Kaufkurs, gestützt durch zwei in Folge angehobene Wachstumsprognosen (organisches Umsatzwachstum 2026 zuletzt auf 12% erhöht) sowie Rekordergebnisse in Q1 und Q2 2026. Bei einer FY2026-EPS-Guidance von 13,40–13,60 USD (+12% ggü. 2025) und starker Nachfrage aus dem Data-Center-Segment erscheint die Bewertung angesichts des Wachstumstempos gerechtfertigt; die Dividendenrendite bleibt moderat, dafür überzeugt das Ergebniswachstum. Angesichts der laufenden Portfolio-Transformation (Boyd-Thermal-Integration, geplante Dana-Kombination der Mobility-Sparte) erscheint Halten aktuell sinnvoll, ein Zukauf bei Kursschwäche wäre angesichts der positiven Guidance-Dynamik denkbar.
 
 ## Aktuelle Meldungen
-- Eaton is doubling U.S. manufacturing capacity for custom electrical enclosures (Fibrebond): a new 1-million-square-foot facility in Arkansas with an investment of over $242 million, expected to create more than 1,200 jobs to serve growing demand from data centers, utilities, industrial and digital-communication customers (announced 02.09.2026).
-- Eaton is scheduled to participate in the Morgan Stanley 14th Annual Laguna Conference on 16.09.2026, where CEO Paulo Ruiz is expected to discuss growth strategy, portfolio transformation, and demand from data centers, utilities, and aerospace.
-- The Mobility Group's planned combination with Dana Incorporated (Reverse Morris Trust transaction, valued at roughly $5.1 billion, expected to close Q1 2027) remains in the execution phase; no material update during this reporting period.
-- No new quarterly results were published in the current reporting window (05.09.-12.09.2026); the Q2 2026 record results and raised guidance continue to shape sentiment ahead of the Q3 2026 report later this fall.
+- Eaton nahm am 16.09.2026 an der Morgan Stanley 14th Annual Laguna Conference teil und beschrieb sich als mitten in einer breit angelegten Transformation mit beschleunigtem organischem Wachstum, neu geordnetem Portfolio und steigender Exponierung gegenüber Rechenzentren und Elektrifizierung.
+- Die Organic-Growth-Guidance für 2026 wurde im Jahresverlauf zweimal angehoben: von 8% auf 10% und zuletzt auf 12%; Data-Center-Aufträge legten um 85%, der zugehörige Umsatz um rund 65% zu.
+- Management räumte weiterhin Herausforderungen bei Kapazitätsausbauten und Lieferketten ein, sieht den Großteil der schwierigen Phase aber als überstanden an.
+- Eaton investiert über 242 Mio. USD in ein neues Werk in Arkansas zur Ausweitung der Fertigung modularer elektrischer Schaltschränke ("modular electrical enclosures") zur Unterstützung kritischer Infrastruktur (bekanntgegeben 02.09.2026).
+- Eaton baut die Nutzung der Plattform ISNetworld als primäres System für das Subunternehmer-Management in der EMEA-Region weiter aus (16.09.2026).
 
 ## Management
-- CEO Paulo Ruiz (in office since 01.06.2025) is scheduled to represent Eaton at the Morgan Stanley Laguna Conference on 16.09.2026.
-- David Foster has served as Executive Vice President and CFO since 02.03.2026, succeeding Olivier Leonetti, who departed on 13.03.2026 as part of a planned transition.
-- Ruiz's "Lead, Invest, and Execute for Growth" strategy encompasses cultural transformation, strategic acquisitions, the Mobility spin-off, and organic capacity investments.
-- Shawn Black has led the Aerospace segment as President since 17.08.2026.
+- CEO ist weiterhin Paulo Ruiz (im Amt seit 01.06.2025); CFO ist Dave Foster.
+- Ruiz betonte im Fireside Chat auf der Laguna Conference (16.09.2026), die Strategie von Eaton funktioniere und gewinne an Fahrt ("gathering pace"); man liege mit der Ausführung vor den eigenen Zielvorgaben.
+- Zentrale strategische Treiber laut Management: starke Nachfrage aus Rechenzentren, Versorgern (Utilities), Luftfahrt und weiteren Kernmärkten sowie eine bewusst neu geordnete Portfoliostruktur ("reshaped portfolio").
 
 ## Finanzielles
-- Q2 2026: record sales of $8.53 billion (+21% YoY), consisting of 14% organic growth and 7% from acquisitions; adjusted EPS of $3.15 (a Q2 record); segment margin of 23.1% — both above guidance.
-- Q1 2026 for comparison: record sales of $7.5 billion (+17% YoY), adjusted EPS of $2.81 (a Q1 record).
-- Full-year 2026 guidance: GAAP EPS of $10.36-$10.56; adjusted EPS of $13.40-$13.60 (up 12% at the midpoint versus 2025).
-- Quarterly dividend: $1.10 per common share.
-- Financing for the 2026 acquisition spree included $8.5 billion in U.S. notes and €1.2 billion in Euro notes.
-- No new quarterly figures were released during the current reporting period; the next report (Q3 2026) is expected later this fall.
+- Q1 2026: Rekordumsatz von 7,5 Mrd. USD (+17% YoY; davon 10% organisch, 4% aus Akquisitionen, 3% Währungseffekte); bereinigtes EPS von 2,81 USD, ein Q1-Rekord.
+- Q2 2026: Rekordumsatz von 8,53 Mrd. USD (+21% YoY; davon 14% organisch, 7% aus Akquisitionen); bereinigtes EPS von 3,15 USD, ein Q2-Rekord; Segmentmarge 23,1% (über der oberen Guidance-Grenze), Marge im Segment Electrical Americas sequenziell +190 Basispunkte.
+- FY2026-Guidance für das bereinigte EPS liegt bei 13,40–13,60 USD, ein Anstieg von rund 12% am Mittelpunkt gegenüber 2025.
+- Im laufenden Jahr wurden Übernahmen im Gesamtvolumen von rund 11 Mrd. USD abgeschlossen, u. a. Boyd Thermal (9,55 Mrd. USD, März 2026) und Ultra PCS Limited (1,55 Mrd. USD, abgeschlossen 23.01.2026).
 
 ## Strategie & Ausblick
-- Eaton closed roughly $11 billion in strategic acquisitions in 2026: Boyd Thermal ($9.55 billion, March 2026) and Ultra PCS Limited ($1.55 billion, January 2026).
-- Boyd Thermal adds liquid-cooling technology, enabling an integrated "grid-to-chip" solution to address rising power and cooling needs driven by AI workloads.
-- The Fibrebond capacity expansion in Arkansas further strengthens Eaton's ability to address growing power density and infrastructure complexity in data centers.
-- The planned separation of the Mobility business (combination with Dana Incorporated, expected close Q1 2027) sharpens the company's focus on electrification, data centers, and aerospace/defense.
-- Market observers continue to view Eaton as a beneficiary of the accelerating "grid-to-chip" data-center buildout in 2026.
+- Die Übernahme von Boyd Thermal (Flüssigkeitskühl-Technologie) ermöglicht Eaton eine integrierte "Grid-to-Chip"-Lösung angesichts stark steigender Strom- und Kühlanforderungen von KI-Workloads in Rechenzentren.
+- Mit Ultra PCS Limited stärkt Eaton seine Position in sicherheits- und missionskritischen Luft- und Verteidigungssystemen der nächsten Generation.
+- Eaton treibt seine "2030 Growth Strategy" voran und hat angekündigt, die Mobility-Sparte mit Dana Incorporated zusammenzuführen – ein weiterer Schritt zur Portfoliofokussierung auf höher margige Wachstumsfelder.
+- Die anhaltend hohe Nachfrage aus Data-Center-, Elektrifizierungs- und KI-getriebenen Endmärkten bleibt der zentrale Wachstumstreiber; Management sieht sich bei der Umsetzung der Wachstumsstrategie vor dem eigenen Zeitplan.
+- Offene Punkte bleiben die vollständige Integration der milliardenschweren Zukäufe sowie der Umgang mit anhaltenden Kapazitäts- und Lieferkettenengpässen trotz laufender Werkserweiterungen (u. a. Arkansas).
 
 ## Quellen
-- [Eaton Expands Manufacturing for Modular Electrical Enclosures With $242+ Million Investment – Panel Builder US](https://www.panelbuilderus.com/news-for-panel-builders/eaton-arkansas-facility-manufact/)
-- [Eaton to Participate in the Morgan Stanley 14th Annual Laguna Conference – StockTitan](https://www.stocktitan.net/news/ETN/eaton-to-participate-in-the-morgan-stanley-14th-annual-laguna-58f2aw2qt5fo.html)
-- [Eaton Reports Record Second Quarter 2026 Results – Eaton.com](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html)
-- [Eaton Reports Record Second Quarter 2026 Results – BusinessWire](https://www.businesswire.com/news/home/20260730561562/en/Eaton-Reports-Record-Second-Quarter-2026-Results-with-Strong-Organic-Growth-Accelerating-Orders-and-Backlog-and-Raises-Organic-Growth-Guidance)
-- [Eaton Reports Record First Quarter 2026 Results – Eaton.com](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-first-quarter-2026-results.html)
-- [Eaton Advances 2030 Growth Strategy – Combination of Mobility Group with Dana Incorporated](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-mobility-group-enters-agreement-to-combine-with-dana.html)
-- [Eaton completes acquisition of Ultra PCS Limited – Eaton.com](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-completes-acquisition-of-ultra-pcs-limited.html)
+- [Eaton at Morgan Stanley Laguna Conference: growth and margins rise – Investing.com](https://www.investing.com/news/transcripts/eaton-at-morgan-stanley-laguna-conference-growth-and-margins-rise-93CH-4904601)
+- [Eaton expands manufacturing for modular electrical enclosures with $242+ million investment in new Arkansas facility – Eaton News & Insights](https://www.eaton.com/us/en-us/company/news-insights.html)
+- [Eaton Corporation Continues to Leverage ISNetworld® to Scale Subcontractor Management Across EMEA – GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/16/3363310/0/en/eaton-corporation-continues-to-leverage-isnetworld-to-scale-subcontractor-management-across-emea.html)
+- [Eaton Reports Record First Quarter 2026 Results – Eaton Investor News](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-first-quarter-2026-results.html)
+- [Eaton Reports Record Second Quarter 2026 Results – Eaton Investor News](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-second-quarter-2026-results.html)
+- [Eaton Advances 2030 Growth Strategy with Announcement to Combine Mobility Group with Dana Incorporated – Eaton Investor News](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-mobility-group-enters-agreement-to-combine-with-dana.html)
 - [Eaton $11B Acquisition Spree Powers Data Center Growth 2026 – Memoori](https://memoori.com/eaton-11b-acquisition-spree-data-center-growth-2026/)
-- [Eaton's Strategic Buyouts to Power Its Next Growth Phase? – TradingView/Zacks](https://www.tradingview.com/news/zacks:df4bcaf31094b:0-eaton-s-strategic-buyouts-to-power-its-next-growth-phase/)
-- [Eaton Corp plc (ETN) Q2 2026 Earnings Call Transcript – Seeking Alpha](https://seekingalpha.com/article/4928835-eaton-corporation-plc-etn-q2-2026-earnings-call-transcript)
+- [Eaton completes acquisition of Ultra PCS Limited – Eaton Investor News](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-completes-acquisition-of-ultra-pcs-limited.html)
+- [Eaton Corporation plc (ETN) Q2 2026 Earnings Call Transcript – Seeking Alpha](https://seekingalpha.com/article/4928835-eaton-corporation-plc-etn-q2-2026-earnings-call-transcript)
