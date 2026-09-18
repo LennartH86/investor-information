@@ -1,49 +1,52 @@
 # Meta Platforms (META)
-_Aktualisiert: 15.09.2026 | Zeitraum: 08.09.2026 – 15.09.2026_
+_Aktualisiert: 18.09.2026 | Zeitraum: 11.09.2026 – 18.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 503,76 EUR
-- **Aktueller Kurs:** 575,00 EUR
-- **Marktwert:** 5.750,00 EUR
-- **Unrealisierter G/V:** +680,26 EUR (13,42%)
-- **Portfolioanteil:** 3,60%
-- **Dividenden erhalten:** 4,24 EUR
-- **Bewertung:** Die Position hat sich binnen einer Woche weiter verbessert (+13,42% ggü. Kaufkurs, nach +10,48% in der Vorwoche), gestützt durch eine neu deklarierte Quartalsdividende von 0,525 USD je Aktie sowie anhaltenden Optimismus rund um Metas AI-Strategie (Analysten sehen Kursziele von bis zu 820–860 USD). Konkrete KGV-/KBV-Kennzahlen wurden diese Woche nicht neu veröffentlicht, die fundamentale Lage bleibt aber unverändert: solides Umsatzwachstum bei gleichzeitig durch massive AI-Investitionen belastender Marge. Angesichts der bevorstehenden Meta Connect (23.–24.09.2026) und laufender Monetarisierungsversuche (Muse-Abos, Business-Agent-Ausbau) erscheint Halten weiterhin sinnvoll; ein Zukauf wirkt nach der Konferenz oder bei einem Kursrücksetzer attraktiver.
+- **Aktueller Kurs:** 593,70 EUR
+- **Marktwert:** 5.937,00 EUR
+- **Unrealisierter G/V:** +867,26 EUR (+17,11%)
+- **Portfolioanteil:** 3,70%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** The position extended its gains further this week (+17.11% vs. purchase price, up from +13.42% last week), supported by the recently declared $0.525 quarterly dividend (record date 21.09.2026, payable 28.09.2026) and continued optimism around Meta's AI monetization push (Meta One subscription, Meta Business Agent). No new P/E or P/B figures were published this week, and the underlying picture is unchanged: strong top-line growth offset by heavy AI capex and a Q2 operating margin under pressure (opex +55% YoY, including legal and severance charges). With Meta Connect 2026 (23.–24.09.2026) just days away, Hold remains reasonable; a fresh look at adding to the position seems more attractive after the conference or on a pullback.
 
 ## Aktuelle Meldungen
-- Metas Board hat eine Quartalsdividende von 0,525 USD je Class-A- und Class-B-Aktie beschlossen, zahlbar am 28.09.2026 an Aktionäre mit Bestand zum 21.09.2026 (Record Date).
-- Die Aktie schloss am 11.09.2026 bei 648,03 USD, nachdem die Dividendenerhöhung bekannt wurde; Analysten sehen weiteres Aufwärtspotenzial in Richtung 820–860 USD auf Basis von AI-Wachstum und Monetarisierungsfortschritten.
-- Meta hat das schwedische AI-Startup Stilla.ai übernommen; Team und Technologie werden in den "Meta Business Agent" integriert, der automatisierte Business-Kommunikation über WhatsApp, Messenger und Instagram für über 1 Million Unternehmen ermöglicht.
-- Meta hat ein eigenes KI-Erkennungssystem auf Basis des "Content Seal"-Wasserzeichens eingeführt, das aktuell nur für mit Meta AI erzeugte Bilder funktioniert.
-- Produktionsstart des hauseigenen AI-Chips "Iris" (Co-Entwicklung mit Broadcom, Fertigung bei TSMC) im September 2026, mit einer geplanten Roadmap neuer Chip-Generationen etwa alle sechs Monate bis 2027.
-- Meta Connect 2026, ein zweitägiger Livestream (23.–24.09.2026) zu neuen AI-, AI-Brillen- und VR-Entwicklungen, steht unmittelbar bevor.
+- Meta introduced "Meta One," a new subscription service across Facebook, Instagram, WhatsApp and Meta AI, offering expanded AI usage, enhanced expression features, and tools for creators and businesses (announced 03.09.2026).
+- Threads rolled out new tools for podcast creators and listeners, adding more ways to discuss podcasts directly on the platform.
+- Meta's board declared a quarterly cash dividend of $0.525 per Class A/B share, payable 28.09.2026 to shareholders of record as of 21.09.2026 (record date falls within this reporting week).
+- Meta acquired Swedish AI startup Stilla.ai, folding its team and technology into "Meta Business Agent," which automates business messaging across WhatsApp, Messenger and Instagram for more than 1 million businesses.
+- Meta launched its own AI-detection system based on the "Content Seal" watermark, currently limited to images generated with Meta AI.
+- Production of Meta's in-house AI chip "Iris" (co-developed with Broadcom, fabricated by TSMC) began in September 2026, with a roadmap targeting a new chip generation roughly every six months through 2027; a next-generation "MTIA 450" chip is separately planned for 2027.
+- Meta Connect 2026, a two-day livestream (23.–24.09.2026) covering new AI, AI-glasses and VR developments, is the next major event just ahead.
 
 ## Management
-- CEO Mark Zuckerberg hatte in der Vorwoche den autonomen KI-Assistenten "Muse" vorgestellt und seine Vision beschrieben, "jedem Menschen weltweit einen sehr fähigen persönlichen Agenten" zu geben; diese Strategie bleibt zentrales Thema.
-- Auf dem Earnings Call betonte Zuckerberg eine "erhebliche AI-Beschleunigung" für 2026 und verwies auf erste funktionierende AI-Agenten als Basis für neue Produkte und veränderte Arbeitsweisen.
-- Im Januar 2026 wurde Dina Powell McCormick zur President und Vice Chairman ernannt – ein struktureller Ausbau der Führungsebene neben Zuckerberg.
-- Frühere Aussagen zur möglichen Erschließung eines AI-Cloud-/Compute-Rental-Geschäfts (Bloomberg, Mai/Juli 2026) bleiben unverändert relevant, da hierzu keine neuen Entwicklungen gemeldet wurden.
+- CEO Mark Zuckerberg reiterated on the Q2 2026 earnings call that 2026 marks a "major AI acceleration," pointing to early working AI agents as the basis for new products and changed workflows.
+- At a company town hall, Zuckerberg candidly acknowledged that some of Meta's prior reorganization bets "haven't come to fruition," a notably direct tone about internal restructuring.
+- A Stratechery analysis ("A Script for Mark Zuckerberg," 2026) examined how Zuckerberg is framing Meta's AI narrative to investors and the public.
+- Dina Powell McCormick's appointment as President and Vice Chairman (January 2026) remains the key structural addition to the leadership bench alongside Zuckerberg; no new developments this week.
 
 ## Finanzielles
-- Q1 2026: Gesamtumsatz 56,31 Mrd. USD (+33% YoY); operatives Ergebnis 22,87 Mrd. USD (+30% YoY); Ad-Impressions +19% YoY, durchschnittlicher Preis pro Anzeige +12% YoY; DAP 3,56 Mrd. (Durchschnitt März 2026, +4% YoY).
-- Q2 2026: Gesamtumsatz 60,80 Mrd. USD (+28% YoY); operatives Ergebnis 18,78 Mrd. USD (-8% YoY, getrieben durch höhere Kosten); Ad-Impressions +14% YoY, durchschnittlicher Preis pro Anzeige +12% YoY; DAP 3,60 Mrd. (Durchschnitt Juni 2026, +3% YoY).
-- Capex-Guidance für 2026 liegt bei 125–145 Mrd. USD (zuvor 115–135 Mrd. USD), getrieben durch den Ausbau der AI-Infrastruktur inklusive Iris-Chip-Programm und Meta Superintelligence Labs.
-- Neu deklarierte Quartalsdividende von 0,525 USD je Aktie (zahlbar 28.09.2026) unterstreicht trotz hoher Investitionen weiterhin solide Cashflow-Generierung.
+- Q1 2026: total revenue $56.31bn (+33% YoY); income from operations $22.87bn (+30% YoY); ad impressions +19% YoY, average price per ad +12% YoY; family DAP 3.56bn (March 2026 average, +4% YoY).
+- Q2 2026: total revenue $60.80bn (+28% YoY); income from operations $18.78bn (-8% YoY); ad impressions +14% YoY, average price per ad +12% YoY; family DAP 3.60bn (June 2026 average, +3% YoY).
+- Q2 total expenses were $42bn, up 55% YoY, including $2.4bn in legal-proceedings charges and $1.2bn in severance expenses tied to the May 2026 headcount reduction.
+- 2026 capex guidance stands at $125–145bn (raised from $115–135bn), driven by AI infrastructure build-out including the Iris chip program and Meta Superintelligence Labs.
+- Newly declared quarterly dividend of $0.525 per share (payable 28.09.2026) underscores continued solid cash-flow generation despite heavy investment levels.
 
 ## Strategie & Ausblick
-- Die Übernahme von Stilla.ai stärkt Metas Ambitionen im Bereich automatisierter Business-Agenten und ergänzt die Muse-Strategie zur direkten Monetarisierung von KI-Produkten.
-- Fortgesetzte Investitionen in eigene AI-Chips ("Iris", mit Broadcom/TSMC) sollen die Abhängigkeit von Nvidia/AMD-Hardware reduzieren und die Rechenkapazität bis 2027 auf 14 Gigawatt verdoppeln.
-- Meta Connect 2026 (23.–24.09.2026) ist der nächste wichtige Katalysator und dürfte weitere Details zu AI-, AI-Brillen- und VR-Produkten liefern.
-- Die Einführung des "Content Seal"-Wasserzeichens zeigt zunehmenden regulatorischen und reputativen Fokus auf KI-Transparenz und Deepfake-Erkennung.
-- Zentrale offene Frage bleibt, wann sich die hohen AI-Investitionen in messbare Erträge übersetzen, bei gleichzeitig weiter unter Druck stehender operativer Marge (Q2 2026 im YoY-Vergleich rückläufig trotz Umsatzwachstums).
+- Beyond the Stilla.ai deal, Meta's broader 2026 M&A activity includes the ~$2bn Manus AI-agent acquisition, a reported $27bn Nebius deal, and a $15bn stake in Scale AI — all aimed at strengthening AI-agent capabilities and compute access.
+- Continued investment in proprietary AI chips ("Iris" with Broadcom/TSMC, and the planned "MTIA 450" for 2027) aims to reduce reliance on Nvidia/AMD hardware and double compute capacity to 14 gigawatts by 2027.
+- The Meta One subscription and Meta Business Agent (via Stilla.ai) signal a broader push to monetize AI directly, beyond traditional advertising.
+- Meta Connect 2026 (23.–24.09.2026) is the next key catalyst and should bring further detail on AI, AI-glasses and VR roadmaps.
+- The central open question remains when the heavy AI investment translates into measurable returns, given the Q2 2026 YoY decline in operating income and a sharp rise in operating expenses.
 
 ## Quellen
-- [Meta Platforms stock gains on new dividend and bullish AI-driven targets – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/meta-platforms-stock-gains-on-new-dividend-and-bullish-ai-driven-targets/70093079)
+- [Meta Newsroom](https://about.fb.com/news/)
 - [Meta – Meta Announces Quarterly Cash Dividend – Meta Investor Relations](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Quarterly-Cash-Dividend-bf2dec2b8/default.aspx)
 - [Meta Reports Second Quarter 2026 Results – Meta Investor Relations](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx)
 - [Meta Reports First Quarter 2026 Results – Meta Investor Relations](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/default.aspx)
-- [Meta Platforms, Inc. (META) Q2 FY2026 Earnings Call Transcript – Yahoo Finance](https://finance.yahoo.com/quote/META/earnings/META-Q2-2026-earnings_call-657318.html)
-- [Meta to 'push the frontier' in 2026: CEO Zuckerberg explains how – Yahoo Finance](https://finance.yahoo.com/video/meta-to-push-the-frontier-in-2026-ceo-zuckerberg-explains-how-222128505.html)
-- [Meta Platforms: From Heavy AI CapEx to 2026 ROI? – Investing.com](https://www.investing.com/analysis/meta-platforms-from-heavy-ai-capex-to-2026-roi-200673593)
+- [Meta Platforms, Inc. (META) Q2 2026 Earnings Call Transcript – Seeking Alpha](https://seekingalpha.com/article/4927296-meta-platforms-inc-meta-q2-2026-earnings-call-transcript)
+- [A Script for Mark Zuckerberg – Stratechery](https://stratechery.com/2026/a-script-for-mark-zuckerberg/)
+- [Zuckerberg says Meta's bets on reorganization "haven't come to fruition" – YouTube/CNBC](https://www.youtube.com/watch?v=uUJBRX_SkIc)
 - [Meta Platforms Acquisitions 2026 – M&A Activity & Deals – FireStrike](https://www.firestrike.ai/acquirers/meta-platforms)
+- [List of Acquisitions by Meta (Sep 2026) – Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-meta/__Ayzca0P5wsnNoqJqQT0FNwxWMnZct243ScZJmOwBSYs)
