@@ -1,43 +1,43 @@
 # Sto (Vz) (STO3.DE)
-_Aktualisiert: 16.09.2026 | Zeitraum: 09.09.2026 – 16.09.2026_
+_Aktualisiert: 20.09.2026 | Zeitraum: 13.09.2026 – 20.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 7 Aktien
 - **Kaufkurs (Ø):** 174.40 EUR
-- **Aktueller Kurs:** 99.80 EUR
-- **Marktwert:** 698.60 EUR
-- **Unrealisierter G/V:** -530.15 EUR (-43.15%)
+- **Aktueller Kurs:** 100.70 EUR
+- **Marktwert:** 704.90 EUR
+- **Unrealisierter G/V:** -523.85 EUR (-42.63%)
 - **Portfolioanteil:** 0.44%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs ist im Berichtszeitraum weiter gefallen (rund 102 → 99,80 EUR) und liegt damit gut 43% unter dem durchschnittlichen Kaufkurs von 174,40 EUR – der größte Verlust aller Positionen im Portfolio. Fundamental gilt die Aktie laut Analysten weiterhin als günstig (kassenbereinigtes KGV von rund 7,2x, Montega AG bestätigte im September 2026 erneut die "Kaufen"-Einstufung), doch die Jahresprognose 2026 bleibt breit und Sto dürfte die historischen Margenniveaus dieses Jahr nicht mehr erreichen. Bei einer sehr kleinen Position (0,44% des Portfolios) und keinen erhaltenen Dividenden erscheint **Halten** weiterhin sachgerecht; ein Nachkauf sollte an eine erkennbare Stabilisierung der Baukonjunktur geknüpft werden, ein Verkauf würde den Verlust realisieren, ohne dass sich das fundamentale Bild verschlechtert hat.
+- **Dividenden erhalten:** 59.91 EUR
+- **Bewertung:** Der Kurs hat sich zuletzt leicht von rund 99,80 auf 100,70 EUR erholt, liegt aber weiterhin gut 42% unter dem durchschnittlichen Kaufkurs von 174,40 EUR. Die operative Entwicklung zeigt sich robuster als der Kurs vermuten lässt: Nach einem witterungsbedingt schwachen Q1 legte Sto im H1 2026 beim Umsatz (+3,7%) und vor allem beim EBIT (+20,6%) deutlich zu, die Jahresprognose (Umsatz ca. 1,62 Mrd. EUR, EBIT 56–76 Mio. EUR) wurde bestätigt. Bei einer sehr kleinen Position (0,44% des Portfolios) und der fundamental eher günstigen Bewertung erscheint **Halten** weiterhin sachgerecht; ein Nachkauf würde eine klarere Stabilisierung der Baukonjunktur voraussetzen.
 
 ## Aktuelle Meldungen
-- Keine neuen Ad-hoc-Meldungen oder Pressemitteilungen von Sto im Berichtszeitraum 09.09.–16.09.2026 gefunden.
-- Die zuletzt veröffentlichte Analysten-Einschätzung bleibt die "Kaufen"-Studie von Montega AG vom September 2026, die weiterhin als aktuellste Bewertungsquelle gilt.
-- Keine neuen Vorstands-Interviews oder Unternehmens-Statements im Berichtszeitraum gefunden.
+- Keine neuen Ad-hoc-Meldungen oder Pressemitteilungen von Sto im Berichtszeitraum 13.09.–20.09.2026 gefunden.
+- Am 9. September 2026 besuchte der Parlamentarische Staatssekretär Thomas Dörflinger den Sto-Standort in Stühlingen.
+- Nach der erfolgreichen Premiere 2025 bringt Sto den "Climate Partner Day" im Herbst 2026 in weitere deutsche Regionen, um die Partnerschaft mit dem Fachhandwerk praxisnah zu demonstrieren.
 
 ## Management
 - Vorstand der STO Management SE unverändert: Rainer Hüttenberger (Sprecher, Marketing & Vertrieb Sto International), Michael Keller (Vertrieb Marke Sto Deutschland, Zentralbereiche), Jan Nissen (CTO – Verfahrenstechnik, Innovation, Materialwirtschaft, Logistik) und Rolf Wöhrle (CFO – Finanzen, Recht, Controlling, IT).
 - Kein neues, im Berichtszeitraum datiertes Vorstands-Interview gefunden.
 
 ## Finanzielles
-- H1 2026 (zuletzt veröffentlichte Zahlen, Ende August): Konzernumsatz 805,5 Mio. EUR (+3,7% ggü. Vorjahr), EBIT 30,5 Mio. EUR (+20,6%).
-- Q1 2026 zur Einordnung: Umsatz rückläufig auf 318,5 Mio. EUR (-1,9%), belastet durch ungünstige Witterung und Bauflaute zu Jahresbeginn.
-- Jahresprognose 2026 unverändert bestätigt: Konzernumsatz rd. 1,62 Mrd. EUR, EBIT-Spanne 56–76 Mio. EUR, EBT-Spanne 55–75 Mio. EUR.
-- Bewertung laut Analysten: kassenbereinigtes KGV von rund 7,2x.
-- Analystenmeinung: Montega AG stufte Sto Vz. im September 2026 mit "Kaufen" ein.
+- H1 2026 (aktuellste veröffentlichte Zahlen): Konzernumsatz 805,5 Mio. EUR (+3,7% ggü. Vorjahr), EBIT 30,5 Mio. EUR (+20,6%).
+- Q1 2026 zur Einordnung: Umsatz rückläufig auf 318,5 Mio. EUR (-1,9%), belastet durch ungünstige Witterung und anhaltende Bauflaute zu Jahresbeginn.
+- Jahresprognose 2026 unverändert bestätigt: Konzernumsatz rd. 1,62 Mrd. EUR, EBIT-Spanne 56–76 Mio. EUR.
+- Investitionen H1 2026 in Sachanlagen und immaterielle Vermögenswerte: 12,0 Mio. EUR, u.a. für die mehrjährige SAP-S/4HANA-Einführung und den Erwerb eines zuvor gemieteten Standorts in Röthis (Österreich).
+- Vollständige Übernahme der VIACOR Polymer GmbH (Polyurethan-Bodenbeschichtungen) durch Erwerb der restlichen 49,9%-Anteile; VIACOR war zuvor bereits mit 50,1% konsolidiert.
 
 ## Strategie & Ausblick
-- Die bestätigte, aber weiterhin breite Jahresprognose bei anhaltend schwierigem Marktumfeld deutet auf eine Seitwärtsbewegung ohne kurzfristige Trendwende hin.
-- Analysten gehen davon aus, dass Sto die historischen Margenniveaus 2026 nicht zurückerlangen wird, sehen die Bilanz aber als krisenresistent und den jüngsten Kursrückgang als fundamental übertrieben an.
-- Keine Hinweise auf Übernahmen, größere Zukäufe oder ein Übernahmeinteresse an Sto im Berichtszeitraum gefunden.
-- Fortsetzung der bekannten strategischen Themen: Fokussierung auf das Kerngeschäft Fassadendämmung, in dem Sto laut WirtschaftsWoche bereits zum siebten Mal als Weltmarktführer bei Wärmedämm-Verbundsystemen ausgezeichnet wurde.
+- Die bestätigte Jahresprognose bei anhaltend schwierigem Baumarktumfeld deutet auf eine allmähliche operative Stabilisierung ohne kurzfristige starke Erholung hin.
+- Mit der VIACOR-Komplettübernahme baut Sto das Bodenbeschichtungs-Portfolio (u.a. Marken VIACOR und PORPLASTIC) weiter aus.
+- Fortsetzung der bekannten strategischen Kernthemen: Fokus auf Fassadendämmung, in der Sto laut eigenen Angaben bereits zum siebten Mal als Weltmarktführer bei Wärmedämm-Verbundsystemen (EWIS) ausgezeichnet wurde.
+- Keine Hinweise auf ein Übernahmeinteresse Dritter an Sto im Berichtszeitraum gefunden.
 
 ## Quellen
 - [Sto SE News-Übersicht (onvista)](https://www.onvista.de/news/aktien/STO-SE-CO-KGAA-News-DE0007274136)
 - [Sto SE Aktie (onvista)](https://www.onvista.de/aktien/STO-SE-CO-KGAA-Aktie-DE0007274136)
-- [Original-Research: STO SE & Co. KGaA (Montega AG): Kaufen, September 2026 (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-09/69532853-original-research-sto-se-co-kgaa-von-montega-ag-kaufen-022.htm)
-- [STO Prognose 2026 & Kursziel von Analysten (aktien.guide)](https://aktien.guide/kursziel/STO-DE0007274136)
+- [Sto steigert Ergebnis im ersten Halbjahr: Umsatzplus und bestätigte 2026-Prognose (it-boltwise.de)](https://www.it-boltwise.de/sto-steigert-ergebnis-im-ersten-halbjahr-umsatzplus-und-bestaetigte-2026-prognose.html)
 - [EQS-News: Ungünstige Witterungsverhältnisse und Bauflaute belasten Q1 2026 (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-05/68436605-eqs-news-sto-se-co-kgaa-unguenstige-witterungsverhaeltnisse-und-bauflaute-zum-jahresstart-belasten-geschaeftsverlauf-im-ersten-quartal-2026-022.htm)
+- [Sto SE: Komplettübernahme von VIACOR Polymer vollzogen (GoingPublic.de)](https://www.goingpublic.de/being-public/sto-se-komplettuebernahme-von-viacor-polymer-vollzogen/)
+- [Presse | Sto](https://www.sto.de/s/presse)
 - [Vorstand der STO Management SE](https://www.sto.de/de/unternehmen/sto_gruppe/vorstand_1/vorstand.html)
-- [Sto SE & Co. KGaA (STO3.DE) Kurs & News (Yahoo Finance)](https://finance.yahoo.com/quote/STO3.DE/)
