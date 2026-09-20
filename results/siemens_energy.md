@@ -1,59 +1,54 @@
 # Siemens Energy (ENR.DE)
-_Aktualisiert: 16.09.2026 | Zeitraum: 09.09.2026 – 16.09.2026_
+_Aktualisiert: 20.09.2026 | Zeitraum: 13.09.2026 – 20.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 18 Aktien
 - **Kaufkurs (Ø):** 146.67 EUR
-- **Aktueller Kurs:** 132.56 EUR
-- **Marktwert:** 2386.08 EUR
-- **Unrealisierter G/V:** -310.88 EUR (-11.53%)
-- **Portfolioanteil:** 1.50%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Die Aktie ist im Berichtszeitraum deutlich unter Druck geraten und von rund 141 EUR auf 132,56 EUR gefallen (u. a. ein Tagesverlust von rund -6% Mitte September); auf Monatssicht steht ein Minus von rund -7,7%, auf 30-Tage-Sicht sogar rund -18,7% zu Buche. Damit notiert die Position erstmals seit Längerem deutlich unter dem Ø-Einstandskurs von 146,67 EUR (-11,53%). Belastend wirkte insbesondere die Meldung, dass die Siemens AG ihre Beteiligung an Siemens Energy weiter auf 4,98% der Stimmrechte reduziert hat – ein Signal für den fortschreitenden vollständigen Rückzug der Mutter aus der Beteiligung seit dem Spin-off 2020. Konkrete aktuelle KGV- oder Dividendenrenditen-Daten liegen aus der Recherche nicht vor; laufende Ausschüttungen bleiben ohnehin minimal. Fundamental hat sich am operativen Bild (Rekordauftragseingang, Rekordumsatz, bestätigte Jahresprognose aus Q3) nichts verschlechtert, sodass der Rücksetzer eher sentiment- und stimmrechtsgetrieben als fundamental begründet wirkt. Angesichts der intakten operativen Dynamik und bereits realisierter Gewinne aus früheren Teilverkäufen erscheint **Halten** weiterhin sinnvoll; für risikobereite Anleger könnte der deutliche Kursrückgang einen möglichen Nachkaufzeitpunkt darstellen, sofern die nächsten Quartalszahlen die Marge bestätigen.
+- **Aktueller Kurs:** 140.78 EUR
+- **Marktwert:** 2534.04 EUR
+- **Realisierter G/V:** 11065.45 EUR (249.00%)
+- **Unrealisierter G/V:** -162.92 EUR (-6.04%)
+- **Portfolioanteil:** 1.59%
+- **Dividenden erhalten:** 3.02 EUR
+- **Bewertung:** Nach dem starken Kursrückgang der Vorwoche (u. a. ausgelöst durch die Reduzierung der Siemens-Beteiligung auf 4,98%) hat sich die Aktie im aktuellen Berichtszeitraum spürbar erholt – von rund 132,56 EUR auf 140,78 EUR, u. a. gestützt durch einen Tagesgewinn von rund +3,1% auf Xetra (Schlusskurs 16.09. bei 137,12 EUR) und eine Marktfokussierung auf die soliden Margen- und Auftragsbestandsdaten aus Q3. Damit liegt die Position nur noch leicht unter dem Ø-Einstandskurs (-6,04%), nachdem bereits erhebliche Gewinne aus früheren Teilverkäufen realisiert wurden (+249% realisiert). Der Analystenkonsens (12-Monats-Kursziel rund 196 EUR) impliziert weiterhin deutliches Aufwärtspotenzial gegenüber dem aktuellen Kurs. Angesichts der intakten operativen Dynamik (Rekordauftragseingang, bestätigte/angehobene Jahresprognose) und der bereits realisierten Gewinne erscheint **Halten** weiterhin die sinnvollste Strategie; die jüngste Erholung bestätigt, dass der vorherige Rücksetzer eher sentimentgetrieben als fundamental begründet war.
 
 ## Aktuelle Meldungen
-- Die Siemens AG (über Siemens Beteiligungen Inland GmbH) hat ihre Stimmrechte an Siemens Energy auf 4,98% gesenkt; die Meldeschwelle wurde am 8. September 2026 unterschritten, die Pflichtmitteilung nach §40 WpHG wurde in der Berichtswoche veröffentlicht. Dies setzt den seit dem Spin-off 2020 (damals 35,1% Anteil) laufenden Rückzugsprozess der Mutter fort.
-- Die Aktie geriet daraufhin deutlich unter Druck: ein Tagesverlust von rund -6% Mitte September, auf Monatssicht rund -7,7% und auf 30-Tage-Sicht rund -18,7% Kursverlust.
-- Das Aktienrückkaufprogramm über bis zu 1 Mrd. EUR läuft planmäßig bis zum 30. September 2026 weiter.
-- Die Zusammenführung von Siemens Energy und Siemens Gamesa unter der neuen Dachmarke "Omterra" befindet sich weiterhin in der Umsetzungsphase; das Rebranding soll in diesem Kalenderjahr stufenweise starten.
+- Die Siemens-Energy-Aktie erholte sich im Berichtszeitraum deutlich vom vorherigen Rückgang: Am 16.09.2026 legte der Kurs um rund +3,1% auf Xetra zu und schloss bei 137,12 EUR; zum 20.09. notierte die Aktie bei 140,78 EUR.
+- Investoren richteten den Fokus zunehmend auf die soliden Margen und den Auftragsbestand des Konzerns statt auf die zuvor belastende Meldung zur Siemens-Beteiligungsreduzierung.
+- Der Analystenkonsens sieht ein 12-Monats-Kursziel von rund 196 EUR – gegenüber dem aktuellen Kursniveau ein spürbarer Bewertungsabschlag.
+- Das Aktienrückkaufprogramm läuft planmäßig bis spätestens 30.09.2026; laut aktuelleren Angaben umfasst es bis zu 2 Mrd. EUR bzw. maximal 70 Mio. Aktien (Start: 4.3.2026).
 - Keine neuen Ad-hoc-Geschäftszahlen im Berichtszeitraum; die operative Nachrichtenlage bleibt geprägt von den Q3-Zahlen vom 5. August 2026.
 
 ## Management
-- CEO Christian Bruch bekräftigte zuletzt (August 2026, Bloomberg Television), dass KI ein wichtiger, aber nicht der alleinige Wachstumstreiber für den Gasturbinenmarkt sei – die Nachfrage sei breit über viele Elektrifizierungsprojekte gestützt, nicht nur über Rechenzentren.
-- Laut EnergyNow (August 2026) sieht Bruch einen soliden Ausblick auf Basis breiter Elektrifizierung.
-- Im Mai 2026 erläuterte Bruch gegenüber CNBC, wie geopolitische Spannungen die Infrastrukturkosten treiben und wie der Konzern sein globales Auftragsbuch regional balanciert.
+- CEO Christian Bruch bekräftigte zuletzt (August 2026, Bloomberg Television), dass KI ein wichtiger, aber nicht der alleinige Wachstumstreiber für den Gasturbinenmarkt sei – die Nachfrage bleibe bis ins nächste Jahr stark und sei breit über viele Elektrifizierungsprojekte gestützt.
+- Laut EnergyNow (August 2026) sieht Bruch einen soliden Ausblick auf Basis breiter Elektrifizierung, nicht nur getrieben durch Rechenzentren.
 - Im Februar 2026 bezeichnete Bruch gegenüber Bloomberg die rund 1-Mrd.-USD-Investition in den US-Fertigungsausbau als "absolut sinnvoll".
-- Keine neuen personellen Veränderungen im Vorstand im aktuellen Berichtszeitraum; die einzige management-nahe Meldung betrifft den Rückzug der Konzernmutter Siemens AG als Aktionärin (Stimmrechtssenkung auf 4,98%).
+- Keine neuen personellen Veränderungen im Vorstand oder aktuellen CEO-Interviews im laufenden Berichtszeitraum (13.–20.09.2026).
 
 ## Finanzielles
-- Q3 FY2026 (veröffentlicht 5.8.2026): Auftragseingang auf Rekordniveau von 17,9 Mrd. EUR, getrieben von US-Nachfrage sowie Rekordwerten bei Gas Services, Grid Technologies und Transformation of Industry.
-- Umsatz Q3 FY2026: 11,4 Mrd. EUR (vergleichbares Wachstum +18,5%) – höchster Quartalsumsatz der Unternehmensgeschichte; Ergebnis je Aktie 1,28 EUR (Vorjahr: 0,71 EUR), deutlich über der Prognose von 1,16 EUR.
-- Ergebnis vor Sondereffekten verdreifachte sich nahezu auf 1,6 Mrd. EUR, Marge auf 14,2% gestiegen.
-- Free Cashflow vor Steuern erreichte 2,3 Mrd. EUR (mehr als fünfmal über Vorjahr).
-- Prognose Gesamtjahr 2026 (nach Q2 angehoben, in Q3 bestätigt): vergleichbares Umsatzwachstum 14–16%, Marge vor Sondereffekten 10–12% (Erwartung am oberen Rand), Nettoergebnis rund 4 Mrd. EUR, Free Cashflow vor Steuern rund 8 Mrd. EUR.
-- Keine neuen Finanzkennzahlen im Berichtszeitraum; nächster größerer Termin dürfte der Jahresabschluss FY2026 (Geschäftsjahresende 30.09.2026) bzw. die Jahrespressekonferenz sein.
+- Q3 FY2026 (veröffentlicht 5.8.2026): Auftragseingang auf Rekordniveau von 17,9 Mrd. EUR, getrieben von US-Nachfrage sowie Rekordwerten bei Gas Services, Grid Technologies und Transformation of Industry; höchster Quartalsumsatz der Unternehmensgeschichte.
+- Q2 FY2026 (12.5.2026): Nach starkem zweiten Quartal wurde die Jahresprognose angehoben – vergleichbares Umsatzwachstum 14–16%, Marge vor Sondereffekten 10–12%, Nettoergebnis rund 4 Mrd. EUR, Free Cashflow vor Steuern rund 8 Mrd. EUR (in Q3 bestätigt, Margenerwartung am oberen Rand der Spanne).
+- Q1 FY2026 (11.2.2026): Auftragseingang von 17,7 Mrd. EUR (neuer Rekord), Umsatz von 10,3 Mrd. EUR, Ergebnis mehr als verdoppelt gegenüber Vorjahr.
+- Keine neuen Finanzkennzahlen im aktuellen Berichtszeitraum; nächster größerer Termin dürfte der Jahresabschluss FY2026 (Geschäftsjahresende 30.09.2026) bzw. die Jahrespressekonferenz sein.
 
 ## Strategie & Ausblick
-- Zusammenführung von Siemens Energy und Siemens Gamesa unter der neuen Dachmarke "Omterra" als strategischer Schritt zu einer einheitlicheren Konzernstruktur.
-- Übernahme der nordirischen Camlin Group (Netzüberwachung, Datenanalyse, Asset-Digitalisierung; ca. 650 Mitarbeitende, ca. 104 Mio. EUR Umsatz) zur Stärkung des digitalen Netzgeschäfts; Abschluss vorbehaltlich behördlicher Genehmigungen bis Ende 2026 erwartet.
-- Geplante Gesamtinvestitionen von rund 6 Mrd. EUR zwischen 2026 und 2028, darunter der Ausbau der US-Fertigungskapazitäten für Gasturbinen- und Netzprodukte (rund 1 Mrd. USD, über 1.500 neue Arbeitsplätze).
-- Kapitalrückführung an Aktionäre von bis zu 6 Mrd. EUR bis Geschäftsjahr 2027/28 geplant, davon bis zu 3 Mrd. EUR in den nächsten zwölf Monaten; laufendes Aktienrückkaufprogramm bis 1 Mrd. EUR läuft bis 30.09.2026.
-- Der weitere Rückzug der Siemens AG als Ankeraktionärin (Stimmrechte nun bei 4,98%) markiert einen weiteren Schritt zur vollständigen Verselbstständigung von Siemens Energy seit dem Spin-off 2020 und dürfte die Aktionärsstruktur perspektivisch stärker in Richtung institutioneller Streubesitz verschieben.
+- Zusammenführung von Siemens Energy und Siemens Gamesa unter der neuen Dachmarke "Omterra" als strategischer Schritt zu einer einheitlicheren Konzernstruktur; das Rebranding soll in diesem Kalenderjahr stufenweise starten.
+- Übernahme der nordirischen Camlin Group (Netzüberwachung, Datenanalyse, Asset-Digitalisierung; ca. 650 Mitarbeitende, über 90 Mio. GBP Umsatz) zur Stärkung des digitalen Netzgeschäfts; Abschluss vorbehaltlich behördlicher Genehmigungen bis Ende 2026 erwartet.
+- Geplante Investition von rund 1 Mrd. USD in den Ausbau der US-Fertigungskapazitäten (Standorte u. a. North Carolina, Florida, Texas, Alabama, New York sowie ein neues Werk in Mississippi) für Gasturbinen- und Netzprodukte, rund 1.500 neue Arbeitsplätze.
+- Kapitalrückführung an Aktionäre über das laufende Aktienrückkaufprogramm (bis zu 2 Mrd. EUR bzw. 70 Mio. Aktien), das spätestens am 30.09.2026 ausläuft.
 - Wachstumstreiber bleiben globale Elektrifizierung, Netzausbau sowie KI- und Rechenzentren-getriebene Stromnachfrage – das Management betont bewusst die Breite der Nachfrage über den KI-Zyklus hinaus.
-- Risiken: erhöhte Volatilität rund um Stimmrechts-/Aktionärsmeldungen und Quartalszahlen, hohe Bewertung nach der mehrjährigen Kursrally, Ausführungsrisiken bei Rebranding und Camlin-Integration sowie geopolitisch bedingte Kostensteigerungen.
+- Risiken: weiterhin hohe Bewertung nach der mehrjährigen Kursrally, Volatilität rund um Aktionärs-/Stimmrechtsmeldungen, Ausführungsrisiken bei Rebranding und Camlin-Integration sowie geopolitisch bedingte Kostensteigerungen.
 
 ## Quellen
-- [Siemens AG trims voting stake in Siemens Energy to 4.98% – TipRanks](https://www.tipranks.com/news/company-announcements/siemens-ag-trims-voting-stake-in-siemens-energy-to-4-98)
-- [Beteiligung: Siemens senkt Beteiligung an Siemens Energy – energie-und-management.de](https://www.energie-und-management.de/nachrichten/detail/siemens-senkt-beteiligung-an-siemens-energy-204871)
-- [Siemens Energy Aktie: Siemens-Anteil auf 4,98 Prozent gesunken – kapitalmarktexperten.de](https://www.kapitalmarktexperten.de/siemens-energy-aktie-siemens-anteil-auf-498-prozent-gesunken/)
-- [Siemens Energy Aktie: Siemens kappt Anteile – trading-treff.de](https://trading-treff.de/trading/siemens-energy-aktie-siemens-kappt-anteile)
-- [Siemens Energy Aktie News: Siemens Energy am Montagvormittag mit negativen Vorzeichen – finanzen.net](https://www.finanzen.net/nachricht/aktien/siemens_energy-aktie-kursbewegung-14-09-2026-11210117)
-- [Siemens Energy stock slips after Q3 2026 surge as Deutsche Bank lifts target – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/siemens-energy-stock-slips-after-q3-2026-surge-as-deutsche-bank-lifts/70038618)
+- [Siemens Energy stock steadies as investors focus on margins and order backlog – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/siemens-energy-stock-steadies-as-investors-focus-on-margins-and-order/70061238)
+- [Siemens Energy stock heads into the open after a 3.1% Xetra gain – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/siemens-energy-stock-heads-into-the-open-after-a-3-1-percent-xetra-gain/70115257)
+- [Siemens Energy AG (ENR.DE) Stock Price, News, Quote & History – Yahoo Finance](https://finance.yahoo.com/quote/ENR.DE/)
 - [Siemens Energy launches up to €2 billion share buyback through September 2026 – TipRanks](https://www.tipranks.com/news/company-announcements/siemens-energy-launches-up-to-e2-billion-share-buyback-through-september-2026)
 - [Earnings Release Q3 FY 2026 – Siemens Energy](https://www.siemens-energy.com/us/en/home/press-releases/earnings-release-q3-fy-2026.html)
 - [Geschaeftszahlen für das 3. Quartal 2026 – Siemens Energy (DE)](https://www.siemens-energy.com/de/de/home/press-releases/geschaeftszahlen-fuer-das-3--quartal-2026.html)
-- [Siemens Energy CEO Says $1B US Investment 'Absolutely' Makes Sense – Bloomberg](https://www.bloomberg.com/news/videos/2026-02-03/siemens-energy-ceo-says-1b-us-investment-makes-sense-video)
-- [Siemens Energy CEO: Geopolitics driving up infrastructure costs – CNBC](https://www.cnbc.com/video/2026/05/12/siemens-energy-ceo-geopolitics-driving-up-infrastructure-costs.html)
+- [Earnings Release Q2 FY 2026 – Siemens Energy](https://www.siemens-energy.com/us/en/home/press-releases/earnings-release-q2-fy-2026.html)
+- [Siemens Energy – Earnings Release Q1 FY 2026](https://www.siemens-energy.com/us/en/home/press-releases/earnings-release-q1-fy-2026.html)
 - [Siemens Energy CEO Sees Solid Outlook on Broad Electrification – EnergyNow](https://energynow.com/2026/08/siemens-energy-ceo-sees-solid-outlook-on-broad-electrification/)
-- [Siemens Energy erweitert sein Portfolio durch Übernahme der Camlin Group – Siemens Energy (DE)](https://www.siemens-energy.com/de/de/home/press-releases/Siemens_Energy_erweitert_sein_Portfolio_durch_ubernahme_der_Camlin_Group.html)
-- [Siemens Energy Aktie: Camlin-Übernahme bis Ende 2026 – boerse-express.com](https://www.boerse-express.com/news/articles/siemens-energy-aktie-camlin-uebernahme-bis-ende-2026-914189)
+- [Watch Siemens Energy CEO: $1 Billion US Investment Makes Sense – Bloomberg](https://www.bloomberg.com/news/videos/2026-02-03/siemens-energy-ceo-says-1b-us-investment-makes-sense-video)
+- [Siemens Energy expands capabilities with Camlin Group acquisition – Siemens Energy](https://www.siemens-energy.com/global/en/home/press-releases/Siemens_Energy_expands_capabilities_with_Camlin_Group_acquisition.html)
+- [Siemens Energy to Invest $1 Billion in US to Tap Power Boom – Bloomberg](https://www.bloomberg.com/news/articles/2026-02-03/siemens-energy-to-invest-1-billion-in-us-to-tap-into-power-boom)
