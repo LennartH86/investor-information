@@ -1,47 +1,48 @@
 # Italmobiliare (ITM.MI)
-_Aktualisiert: 18.09.2026 | Zeitraum: 11.09.2026 – 18.09.2026_
+_Aktualisiert: 21.09.2026 | Zeitraum: 14.09.2026 – 21.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 130 Aktien
-- **Kaufkurs (Ø):** 26,99 EUR
-- **Aktueller Kurs:** 25,90 EUR
-- **Marktwert:** 3.367,00 EUR
-- **Unrealisierter G/V:** -157,71 EUR (-4,47%)
-- **Portfolioanteil:** 2,10%
-- **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** Against the last published NAV of 53.3 EUR/share (30.06.2026), the current price of 25.90 EUR implies a holding discount of roughly 51%, essentially unchanged from the prior period and still far above historical norms for the stock. The 1.10 EUR/share ordinary dividend paid in May 2026 equates to a trailing yield of about 4.2% on the current price, and the underlying Industrial Portfolio Companies continued to post double-digit EBITDA growth in H1 2026 (+14.9%). With no new negative catalysts this week and the next hard data point (the additional periodic report at 30.09.2026) not due until 11.11.2026, Hold remains the appropriate stance; the persistently wide NAV discount could make a selective Add attractive for investors with room in their position sizing, but there is no urgency to act before the November report.
+- **Kaufkurs (Ø):** 26.99 EUR
+- **Aktueller Kurs:** 25.63 EUR
+- **Marktwert:** 3331.90 EUR
+- **Unrealisierter G/V:** -192.81 EUR (-5.47%)
+- **Portfolioanteil:** 2.09%
+- **Dividenden erhalten:** 90.74 EUR
+- **Bewertung:** At a current price of 25.63 EUR against a reported NAV per share of around 54.7 EUR (as of March 2026, excluding own shares), Italmobiliare continues to trade at a very substantial discount to its stated net asset value, which is typical for Italian investment holding companies but arguably steep given double-digit growth at several portfolio companies (Casa della Salute, Caffè Borbone, Iseo, Bene Assicurazioni). Dividends received (90.74 EUR) partly offset the unrealized loss of -5.47%, and given the healthy H1 2026 operating momentum (aggregate portfolio EBITDA +14.9%) and a positive net financial position, the position looks reasonable to Hold; a meaningful narrowing of the NAV discount or further bolt-on M&A at portfolio companies would support a case to add on weakness rather than reduce.
 
 ## Aktuelle Meldungen
-- No new press releases or regulatory filings were issued directly by Italmobiliare S.p.A. in the 11.09.–18.09.2026 window; the company remains in its usual quiet period ahead of the next scheduled disclosure.
-- The most recent notable portfolio-company news remains Officina Profumo-Farmaceutica di Santa Maria Novella's opening of its first directly operated store in mainland China on 11.09.2026, marking a concrete step in the group's internationalisation strategy for its consumer brands.
-- The most recent company-level releases on file are still the 31.07.2026 press release on the Zanatta family's buyback of a 9.09% stake in Tecnica Group and the semi-annual (H1 2026) financial report published 05.08.2026.
-- The additional periodic financial report at 30.09.2026 is scheduled for Board review and publication on 11.11.2026; no interim data is expected before then.
-- As a smaller Italian holding company, Italmobiliare receives limited English-language media coverage outside its own investor-relations releases; most independent commentary remains in Italian-language financial press, which was not separately queried this period.
+- No company-specific press release from Italmobiliare was identified for the narrow window of 14.09.–21.09.2026; the next scheduled financial disclosure (Q3 2026) is due on November 11, 2026.
+- On September 11, 2026, portfolio company Officina Profumo-Farmaceutica di Santa Maria Novella opened its first directly operated store in China, part of the group's international retail expansion.
+- Most recent substantive corporate news predating this window: H1 2026 results were reviewed by the Board of Directors on July 29, 2026, and on July 31, 2026 Italmobiliare announced that the Zanatta family bought back a 9.09% interest in Tecnica Group.
+- Italmobiliare continues to run a share buyback program ("programma di acquisto di azioni proprie"), with periodic updates published on the company's Italian press release page.
 
 ## Management
-- Carlo Pesenti continues as Chairman and CEO, a role he has held since his appointment by the Board on 28.04.2026 under the company's one-tier management and control system; no governance changes were reported this week.
-- Laura Zanetti (Chair) and Carlo Pesenti (CEO) continue to present the group's results and strategic direction at investor meetings and capital-market events, most recently via the July 2026 company presentation; no new interviews with Pesenti were identified for the current period.
-- The most recent substantive interview on file remains the early-May 2026 feature in L'Economia del Corriere della Sera, in which Pesenti discussed the new governance structure, accelerated internationalisation of consumer brands, integrated ESG approach, and growth ambitions for the group.
+- Carlo Pesenti serves as Chairman and Chief Executive Officer of Italmobiliare, a combined role formally confirmed in April 2026 following a shareholders' meeting that approved the shift to a one-tier administration and control system.
+- Pesenti also chairs Clessidra Private Equity SGR and Officina Profumo-Farmaceutica di Santa Maria Novella, and sits on the boards of Tecnica Group and Caffè Borbone, giving him broad oversight across the group's portfolio companies.
+- No specific 2026 media interview with Carlo Pesenti was found in this search cycle; available sources are limited to corporate governance announcements and biographical profiles (e.g. Wikipedia, MarketScreener, The Org).
 
 ## Finanzielles
-- Last reported NAV (30.06.2026): 2,240.5m EUR, or 53.3 EUR/share, down 0.7% versus 31.12.2025, mainly reflecting holding costs and dividend distributions, partly offset by fair-value gains at portfolio companies.
-- H1 2026 aggregate revenue of the Industrial Portfolio Companies: 807m EUR (+9.2% year-on-year); aggregate EBITDA: 49.9m EUR (+14.9%), with standout contributions from CDS-Casa della Salute (+34.4%) and Bene Assicurazioni (+24.2%), alongside Caffè Borbone (+2.7%), Officina Profumo-Farmaceutica di Santa Maria Novella (+6.7%) and Iseo (+7.2%).
-- Net financial position at holding level was 169.4m EUR at 30.06.2026, down from 231m EUR at year-end 2025, mainly due to dividend payments.
-- An ordinary dividend of 1.10 EUR/share (approx. 46m EUR total) was distributed on 06.05.2026; no dividends have been recorded for this specific position to date.
-- No new financial figures were released this week; the next scheduled data point is the additional periodic financial report at 30.09.2026, due for publication on 11.11.2026.
+- Q1 2026: aggregate revenue of Portfolio Companies reached €395.7 million (+5.4% y/y) with aggregate EBITDA of €28.1 million (+16.5% y/y), driven by CDS-Casa della Salute (+34%), Caffè Borbone (+5.6%), Iseo (+8.8%) and Bene Assicurazioni (+8.6%).
+- NAV (Net Asset Value), excluding own shares, stood at approximately €2,299.7 million as of March 31, 2026, equivalent to a NAV per share of about €54.7.
+- H1 2026: aggregate revenue and income from Industrial Portfolio Companies reached €807 million (+9.2% y/y, up from €739.3 million), and aggregate EBITDA rose to €49.9 million (+14.9% y/y, up from €43.4 million).
+- Net financial position at June 30, 2026 was positive at €169.4 million, indicating continued balance-sheet flexibility for further investment or buybacks.
 
 ## Strategie & Ausblick
-- Italmobiliare continues to operate as a diversified investment holding with a medium- to long-term horizon; its portfolio spans Caffè Borbone, Officina Profumo-Farmaceutica di Santa Maria Novella, CDS-Casa della Salute, Italgen, SIDI Sport, Capitelli, Tecnica Group, Iseo, Bene Assicurazioni and Clessidra Holding.
-- The 11.09.2026 opening of Santa Maria Novella's first directly operated store in China remains the clearest recent expression of the group's internationalisation strategy for its consumer brands, with no further steps announced this week.
-- CDS-Casa della Salute continues to expand via M&A (recent entries in Valle d'Aosta, Liguria and Sardinia plus a new clinic in Turin, bringing the network to 43 clinics across four regions), and Bene Assicurazioni grew its perimeter through the Tecnocasa/CF Assicurazioni deal in March 2026 (acquiring CF Assicurazioni's home P&C business and 51% of CF Vita) — both illustrating active portfolio management alongside partial divestments such as the Tecnica/Zanatta buyback.
-- Strategic priorities remain unchanged: internationalisation of consumer brands (Caffè Borbone, Santa Maria Novella), continued build-out of the healthcare and insurance businesses (CDS, Bene Assicurazioni), and integrated ESG under the governance set out by Carlo Pesenti since April 2026.
-- The persistently wide NAV discount (~51% at current prices) remains the central watch item: the market continues not to fully reward the holding's operating growth, and no clear re-rating catalyst has emerged this period.
+- Italmobiliare's stated strategy is to keep supporting the development path of its portfolio companies while remaining opportunistic on further investment or divestment moves.
+- CDS-Casa della Salute continues an active M&A and clinic-opening strategy, completing two deals (Liguria, Sardinia) and opening a new clinic in Turin in Q1 2026, bringing the network to 43 clinics across 4 regions.
+- Bene Assicurazioni expanded its insurance business in March 2026 by acquiring CF Assicurazioni's home P&C business and a 51% stake in CF Vita (life insurance tied to personal loans) from Tecnocasa.
+- International expansion remains a focus, illustrated by Santa Maria Novella's first directly operated store in China (September 2026), consistent with the CEO's mandate to explore international growth for the group's portfolio companies.
 
 ## Quellen
 - [Italmobiliare – Press releases](https://www.italmobiliare.it/en/investor/press-releases)
-- [Financial Calendar | Italmobiliare](https://www.italmobiliare.it/en/investor/financial-calendar)
+- [Italmobiliare – News](https://www.italmobiliare.it/en/media/news)
+- [Italmobiliare – Financial Calendar](https://www.italmobiliare.it/en/investor/financial-calendar)
 - [First half 2026 results reviewed by the Board of Directors](https://www.italmobiliare.it/en/archive/press-releases/first-half-2026-results-reviewed-board-directors)
-- [July 2026 Company Presentation (NAV 30.06.2026, PDF)](https://www.italmobiliare.it/sites/default/files/documenti/2026-07/072026_Company%20Presentation%20IR_NAV30062026%20ENG.pdf)
-- [Board of Directors Meeting – Carlo Pesenti appointed Chairman and CEO | Italmobiliare](https://www.italmobiliare.it/en/archive/press-releases/board-directors-meeting-its-first-meeting-board-directors-appoints-carlo)
-- [Portfolio companies | Italmobiliare](https://www.italmobiliare.it/en/investments/portfolio-companies)
-- [Company Profile 2026 | Italmobiliare (PDF)](https://www.italmobiliare.it/sites/default/files/page/attachments/ENG%20Company%20profile%202026_compressed.pdf)
+- [Italmobiliare 1Q2026 financial results (PDF)](https://www.italmobiliare.it/sites/default/files/pressrelease/2026-05/Italmobiliare%201Q2026%20financial%20results.pdf)
+- [July 2026 Company Presentation (PDF)](https://www.italmobiliare.it/sites/default/files/documenti/2026-07/072026_Company%20Presentation_IR_NAV30062026%20ENG.pdf)
+- [Board of Directors Meeting – Carlo Pesenti appointed Chairman and CEO](https://www.italmobiliare.it/en/archive/press-releases/board-directors-meeting-its-first-meeting-board-directors-appoints-carlo)
+- [Carlo Pesenti CEO with new responsibilities, resigning as general manager](https://www.italmobiliare.it/en/archive/press-releases/carlo-pesenti-ceo-new-responsibilities-resigning-general-manager)
+- [Italmobiliare Q1 2026 in crescita – Il Giornale d'Italia](https://www.ilgiornaleditalia.it/news/mondo-imprese/785963/italmobiliare-q1-2026-in-crescita-ricavi-aggregati-delle-portfolio-companies-a-395-7-mln-+5-4-mol-aggregato-a-28-mln.html)
+- [Italmobiliare, a fine marzo il NAV a circa 2,3 mld euro – BeBeez](https://bebeez.it/private-equity/italmobiliare-a-fine-trimestre-2026-il-nav-e-di-229-mld-di-euro-ricavi-delle-portfolio-companies-a-3957-mln-54-e-il-mol-a-a-281-mln-165/)
+- [Aggiornamento sul programma di acquisto di azioni proprie](https://www.italmobiliare.it/it/archivio/comunicati-stampa/aggiornamento-sul-programma-di-acquisto-di-azioni-proprie-11)
