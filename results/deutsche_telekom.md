@@ -1,48 +1,46 @@
-# Deutsche Telekom AG (DTE.DE)
-_Aktualisiert: 17.09.2026 | Zeitraum: 10.09.2026 – 17.09.2026_
+# Deutsche Telekom (DTE.DE)
+_Aktualisiert: 21.09.2026 | Zeitraum: 14.09.2026 – 21.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 26,86 EUR
-- **Aktueller Kurs:** 28,88 EUR
-- **Marktwert:** 1.444,00 EUR
-- **Unrealisierter G/V:** +89,84 EUR (6,63%)
-- **Portfolioanteil:** 0,91%
+- **Aktueller Kurs:** 27,04 EUR
+- **Marktwert:** 1.352,00 EUR
+- **Unrealisierter G/V:** -2,16 EUR (-0,16%)
+- **Portfolioanteil:** 0,85%
 - **Dividenden erhalten:** 30,00 EUR
-- **Bewertung:** Bei 28,88 EUR und dem angehobenen Prognosekorridor für 2026 (bereinigtes EPS von rund 2,20 EUR) liegt das KGV weiterhin bei moderaten rund 13; Goldman Sachs sieht mit einem Kursziel von 40 EUR (Buy) deutliches Aufwärtspotenzial. Die Position notiert mit +6,63% zzgl. 30 EUR Dividenden klar im Plus gegenüber dem Kaufkurs; angesichts angehobener Cashflow-Prognose, laufendem 5-Mrd.-EUR-Rückkaufprogramm und stabiler operativer Entwicklung bleibt Halten die naheliegende Einschätzung, die T-Mobile-US-Übernahmefrage bleibt jedoch ein zu beobachtender Unsicherheitsfaktor für die Kapitalallokation.
+- **Bewertung:** Die Aktie ist nach dem Platzen des T-Mobile-US-Fusionsgerüchts Anfang August und der jüngsten Kursschwäche (-4,4% seit Mitte September) unter Druck, notiert aber praktisch auf Einstandsniveau. Bei starkem Q2-Ergebnis, angehobener Jahresprognose und einem auf 5 Mrd. EUR erhöhten Aktienrückkaufprogramm sowie weiterhin überwiegend "Overweight"-Einstufungen der Analysten erscheint die Position trotz kurzfristiger Kursschwäche als Halteposition solide.
 
 ## Aktuelle Meldungen
-- Die Telekom-Aktie notierte Mitte September 2026 bei rund 28-29 EUR; Goldman Sachs bestätigte sein Buy-Rating mit Kursziel 40 EUR nach angehobener Cashflow-Prognose aus dem Q2-Bericht.
-- Deutsche Telekom hat ihren Online-Auftritt telekom.com technisch und redaktionell neu aufgesetzt, mit stärkerem Fokus auf Nutzer, Suchmaschinen und KI-Systeme.
-- Kooperation mit Iridium Communications vorgestellt: Sprach- und Messaging-Dienste via Satellit auf Basis einer neuen Non-Terrestrial-Network-Lösung, kommerzielle Verfügbarkeit für Telekom-IoT-Kunden ab dem vierten Quartal 2026.
-- Weiterer Ausbau der Glasfaser- und Mobilfunkinfrastruktur in Deutschland (u.a. Friedenfels, Sinzig, Roßbach/Wied, Heimerzheim); Baustart eines neuen Mobilfunkmastes in Unterensingen, Inbetriebnahme für 2027 geplant.
+- Deutsche Telekom erhöht das laufende 2026er Aktienrückkaufprogramm um bis zu weitere 3 Mrd. EUR (Beschluss des Vorstands vom 6. August 2026), Gesamtvolumen damit rund 5 Mrd. EUR.
+- Relaunch von telekom.com als neue technische und redaktionelle Basis der Unternehmenskommunikation (September 2026).
+- Aktie fiel am 18. September 2026 um 3,5% auf 27,32 EUR, weiterer Rückgang bis 20. September auf rund 27,13 EUR im Zuge einer allgemeinen Schwäche bei Telekom-Werten.
+- MagentaTV gewinnt zum dritten Mal in Folge den Deutschen Fernsehpreis und überträgt die 78. Primetime Emmy Awards auf Deutsch.
+- Ausbau von Glasfaser (u.a. Waldkirch, 9.500 Haushalte) und Mobilfunk (u.a. Landkreis Dahme-Spreewald, 5 neue 4G/5G-Standorte).
 
 ## Management
-- CEO Tim Höttges bleibt im Amt, sein Vertrag wurde vom Aufsichtsrat bis Ende 2028 verlängert; er treibt aktuell eine mögliche vollständige Übernahme von T-Mobile US voran, die als eine der größten M&A-Transaktionen der Firmengeschichte gilt.
-- Höttges verwies zuletzt auf die Netzqualität als Erfolgsfaktor: Die Telekom gewann im ersten Halbjahr 2026 alle elf relevanten Ookla-Speedtest-Awards in Deutschland.
-- Auf der Hauptversammlung 2026 stellte Höttges die KI-Factory-Initiative und den Fokus auf Zuverlässigkeit als strategische Schwerpunkte heraus.
+- CEO Tim Höttges (seit 2014, Vertrag bis Ende 2028 verlängert) betont auf der Hauptversammlung 2026 Zuverlässigkeit als Kernthema und stellt die unternehmenseigene "AI Factory" vor.
+- Höttges bezeichnet Künstliche Intelligenz in einem aktuellen Interview als "größtes Geschenk an die Menschheit" und treibt massive Investitionen in Rechenzentren voran.
+- Höttges kritisiert die europäische Regulierung als Wachstumsbremse für Infrastruktur und Netzausbau.
 
 ## Finanzielles
-- Q1 2026: Konzernumsatz 29,9 Mrd. EUR (organisch +4,7%), Service-Umsätze +4,6% auf 25,0 Mrd. EUR, bereinigtes EBITDA AL organisch +7,5% auf 11,5 Mrd. EUR, bereinigter Konzernüberschuss +6,5% auf 2,6 Mrd. EUR.
-- Q2 2026 (veröffentlicht 06.08.2026): Free Cashflow AL +3,1% auf 5,0 Mrd. EUR, bereinigter Konzernüberschuss +11,1% auf 2,8 Mrd. EUR; adjustiertes EBITDA AL wuchs organisch um 7,3%.
-- Prognose 2026 angehoben: bereinigtes EBITDA AL rund 47,5 Mrd. EUR, Free Cashflow AL auf rund 20 Mrd. EUR angehoben (zuvor "über 19,8 Mrd. EUR").
-- Investitionsvolumen 2026-2030 um 800 Mio. EUR über drei Jahre erhöht, insgesamt auf rund 30 Mrd. EUR.
-- Aktienrückkaufprogramm 2026 nach Aufstockung (Beschluss 06.08.2026) auf bis zu 5 Mrd. EUR Gesamtvolumen zur Stützung des Aktienkurses.
+- Q2 2026: Umsatz 29,93 Mrd. EUR (+4,4% YoY); H1 2026: Umsatz 59,8 Mrd. EUR (+2,4%), organisches Wachstum +4,0%.
+- Adjusted EBITDA AL Q2 +7,5% auf 11,8 Mrd. EUR; H1 +4,7% auf 23,3 Mrd. EUR, Marge 39,0%.
+- Adjusted EPS H1 2026: 1,12 EUR (+10,3%).
+- Free Cashflow AL H1 2026: 10,7 Mrd. EUR (+1,8%).
+- Angehobene Jahresprognose 2026: Adjusted EBITDA AL ~47,5 Mrd. EUR, FCF AL ~20 Mrd. EUR, Adjusted EPS ~2,20 EUR.
 
 ## Strategie & Ausblick
-- Im Zentrum der strategischen Diskussion steht die mögliche vollständige Übernahme von T-Mobile US (Aufstockung von rund 54% auf 100%) über eine neue gemeinsame Holdingstruktur für Telekom und T-Mobile US.
-- Der rund 1 Mrd. EUR schwere Zukauf der polnischen Glasfaseranbieter Inea und Fiberhost (über 300.000 Kunden, 1,4 Mio. Homes passed für T-Mobile Polska) unterstreicht die fortgesetzte internationale Glasfaser-Expansion.
-- KI-Infrastruktur und souveräne Rechenzentren bleiben strategischer Schwerpunkt, flankiert von der KI-Factory-Initiative und laufendem Netzausbau (Glasfaser, 5G, Satelliten-IoT).
-- Kapitaldisziplin über erhöhte Rückkäufe und angehobene Cashflow-Prognose soll die Aktionärsrendite absichern, während die T-Mobile-Frage die Kapitalallokation mittelfristig prägen dürfte.
+- Übernahme der polnischen Glasfaser-/Breitbandanbieter Fiberhost und Inea von Macquarie Asset Management für rund 1 Mrd. EUR; Abschluss bis Ende 2026 erwartet, vorbehaltlich Kartellfreigabe.
+- Pläne für eine vollständige Übernahme von T-Mobile US (rund 300 Mrd. USD Bewertung) wurden Anfang August 2026 von T-Mobile US wegen Aktionärsbedenken und regulatorischer Hürden nicht weiterverfolgt.
+- Fortgesetzter Fokus auf Glasfaser- und Mobilfunkausbau in Deutschland sowie KI-getriebene Infrastrukturinvestitionen.
+- Deutsche Telekom gewann alle elf relevanten Ookla-Speedtest-Awards in Deutschland für H1 2026.
 
 ## Quellen
-- [Deutsche Telekom stock gains as Goldman Sachs lifts target and cash flow outlook improves – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/deutsche-telekom-stock-gains-as-goldman-sachs-lifts-target-and-cash-flow/70087741)
-- [Welcome to the new telekom.com – Deutsche Telekom](https://www.telekom.com/en/newsroom/latest-updates/news/2026/09/welcome-to-the-new-telekom-com)
-- [Deutsche Telekom's CEO Lays Groundwork for Career-Defining Deal – Bloomberg](https://www.bloomberg.com/news/articles/2026-04-23/deutsche-telekom-s-ceo-lays-groundwork-for-career-defining-deal)
-- [Board of Management: Deutsche Telekom focuses on continuity and a breath of fresh air – Deutsche Telekom](https://www.telekom.com/en/media/media-information/archive/board-of-management-deutsche-telekom-focuses-on-continuity-and-a-breath-of-fresh-air-1086426)
-- [Deutsche Telekom hebt Prognose für 2026 an – connect](https://www.connect.de/news/deutsche-telekom-quartalszahlen-q1-2026-wachstum-prognose-3212506.html)
-- [Second quarter report 2026 – Deutsche Telekom](https://www.telekom.com/en/media/media-information/archive/second-quarter-report-2026-1106292)
-- [Deutsche Telekom Raises 2026 Share Buyback By Up to €3 Billion – Bloomberg](https://www.bloomberg.com/news/articles/2026-08-06/deutsche-telekom-raises-2026-share-buyback-by-up-to-3-billion)
-- [Analysis and Implications of Deutsche Telekom's potential full acquisition of T-Mobile – IEEE ComSoc Technology Blog](https://techblog.comsoc.org/2026/06/11/strategy-and-implications-deutsche-telekoms-pursuit-of-full-acquisition-of-t-mobile-us/)
-- [Telekom's Capital Tightrope: A €3bn Buyback, a Polish Bet, and a Network in Transition – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/telekom-s-capital-tightrope-a-3bn-buyback-a-polish-bet-and-a-network/70025641)
-- [Investor Relations – Deutsche Telekom](https://www.telekom.com/en/investor-relations)
+- [Deutsche Telekom stock falls as telecom shares soften](https://www.ad-hoc-news.de/boerse/news/corporate-news/deutsche-telekom-stock-falls-as-telecom-shares-soften/70124474)
+- [Deutsche Telekom stock retreats after recent analyst support](https://www.ad-hoc-news.de/boerse/news/corporate-news/deutsche-telekom-stock-retreats-after-recent-analyst-support/70135998)
+- [Second quarter report 2026 | Deutsche Telekom](https://www.telekom.com/en/media/media-information/archive/second-quarter-report-2026-1106292)
+- [Die Deutsche-Telekom-Aktie legt nach Q2-2026 Zahlen zu](https://www.ad-hoc-news.de/boerse/news/corporate-news/die-deutsche-telekom-aktie-legt-nach-q2-2026-zahlen-zu/70117190)
+- [Report: Deutsche Telekom weighing full acquisition of T-Mobile U.S.](https://thedesk.net/2026/04/deutsche-telekom-tmobile-us-acquisition/)
+- [Deutsche Telekom Aktie: Kartellvorbehalt für Polen-Deal bis Ende 2026](https://trading-treff.de/aktien/deutsche-telekom-aktie-kartellvorbehalt-fuer-polen-deal-bis-ende-2026)
+- [Deutsche Telekom Aktie: Höttges predigt KI-Optimismus](https://www.boerse-express.com/news/articles/deutsche-telekom-aktie-hoettges-predigt-ki-optimismus-948020)
