@@ -1,39 +1,39 @@
 # Jumbo (BELA.AT)
-_Aktualisiert: 18.09.2026 | Zeitraum: 11.09.2026 – 18.09.2026_
+_Aktualisiert: 21.09.2026 | Zeitraum: 14.09.2026 – 21.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
-- **Kaufkurs (Ø):** 23,74 EUR
-- **Aktueller Kurs:** 25,18 EUR
-- **Marktwert:** 1.259,00 EUR
-- **Unrealisierter G/V:** +64,13 EUR (+5,37%)
-- **Portfolioanteil:** 0,78%
-- **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** At 25.18 EUR, the stock trades roughly in line with the recent analyst price target of about 25.75 EUR, suggesting fair valuation rather than a clear bargain. The position is still up +5.37% versus the average purchase price, though the price has pulled back from the ~26.18–26.90 EUR range seen earlier in September. With half-year/Q3 FY2026 results due on 24.09.2026, Hold looks appropriate ahead of the print; a further pullback closer to the purchase price could present an Add opportunity, while a strong beat could justify continued holding for the long-term store-expansion story.
+- **Kaufkurs (Ø):** 23.74 EUR
+- **Aktueller Kurs:** 25.42 EUR
+- **Marktwert:** 1271.00 EUR
+- **Unrealisierter G/V:** +76.13 EUR (6.37%)
+- **Portfolioanteil:** 0.80%
+- **Dividenden erhalten:** 25.87 EUR
+- **Bewertung:** At 25.42 EUR the shares sit slightly above the prior analyst price target of ~25.75 EUR (since trimmed to €35.50 on some updated models), leaving the stock roughly fairly valued rather than clearly cheap ahead of the H1 FY2026 report. The position is up 6.37% versus the average cost and has now also generated 25.87 EUR in dividends, reinforcing the income component of the thesis. With results due on 24.09.2026 and a share buyback program (min €1 / max €27.20 per share) running through 25.09.2026, Hold into the print looks sensible; a beat on the ~5% FY2026 sales growth and €310–320m net income guidance would support continued holding, while any Romania-driven miss could offer a better entry point.
 
 ## Aktuelle Meldungen
-- Jumbo confirmed its H1/Q3 FY2026 earnings release for 24.09.2026 (around 8:00 PM UTC), the key near-term catalyst just after this review period.
-- The share price eased from the mid-to-high 26 EUR range seen in early September to about 25.18 EUR by 18.09.2026, a modest pullback ahead of the earnings date.
-- No new company-specific press releases were identified for the 11.09.–18.09.2026 window; coverage continues to center on positioning ahead of the upcoming quarterly report.
-- Analyst price targets remain around 25.75 EUR (previously 21.10 EUR), now close to the current trading price.
+- Jumbo will report H1 FY2026 results on 24.09.2026, the key catalyst immediately following this review window.
+- An active share buyback program is running through 25.09.2026, with a minimum repurchase price of €1 and a maximum of €27.20 per share.
+- The share price ticked up from about 25.18 EUR (18.09.2026) to 25.42 EUR by 21.09.2026, a modest recovery ahead of earnings.
+- No new Jumbo-specific press releases were identified for the 14.09.–21.09.2026 window beyond the earnings-date confirmation and buyback update; broader coverage remains focused on positioning ahead of the report.
 
 ## Management
-- Konstantina Demiri remains CEO of Jumbo S.A. (in the role since 2016); Apostolos E. Vakakis continues as Chairman of the Board. No management or board changes were reported in the period.
-- No CEO interview or leadership commentary specific to Jumbo S.A. was found for this period; interview results returned were for unrelated companies also named "Jumbo" (e.g., Jumbo Maritime, Jumbo Interactive, Jumbo Group Singapore).
+- Konstantina Demiri remains CEO of Jumbo S.A.; Apostolos E. Vakakis continues as Chairman of the Board. No management or board changes were reported in the period.
+- No CEO interview or leadership commentary specific to Jumbo S.A. was found for this period; search results for "Jumbo CEO" returned unrelated companies also named "Jumbo" (e.g., Jumbo Maritime, Jumbo Interactive, Jumbo Group).
 
 ## Finanzielles
 - Full-year 2025: revenue rose 7% to 1.233 billion EUR, net profit up 4% to 320 million EUR, EBITDA up 5% to 436 million EUR.
 - Q1 2026: sales grew 7% year-over-year, driven by Greece and Bulgaria (+11%) and Cyprus (+4%), while Romania declined 4%.
 - FY2026 guidance: revenue growth of approximately 5%, net income guidance of 310–320 million EUR, CapEx near 60 million EUR.
-- Strong net cash position of approximately 473 million EUR, supporting continued investment and shareholder distributions.
-- H1/Q3 FY2026 results are scheduled for release on 24.09.2026, shortly after this reporting period ends.
+- Strong net cash position of approximately 473 million EUR, supporting continued investment, the buyback program, and shareholder distributions.
+- H1 FY2026 results are scheduled for release on 24.09.2026, shortly after this reporting period ends.
 
 ## Strategie & Ausblick
 - Acquisition of a 60,000 sqm "Giga" logistics/distribution center in Romania (April 2026) to strengthen regional expansion capacity.
 - New store openings in Timișoara (Romania), online expansion in Bulgaria, and the acquisition of three additional stores in Greece.
 - Long-term plan to grow the store network to up to 116 locations over the next decade across Greece, Cyprus, Bulgaria, Romania, Israel, and Canada.
 - Reported plans (via Fox Group) to introduce the Jumbo brand in Canada via a former Toys "R" Us site.
-- Mixed regional momentum continues: strength in Greece and Bulgaria contrasts with softness in Romania — a trend to watch in the upcoming H1/Q3 report.
+- The ongoing share buyback signals management confidence and continued capital return alongside expansion; mixed regional momentum (strength in Greece/Bulgaria vs. softness in Romania) remains a trend to watch in the upcoming H1 report.
 
 ## Quellen
 - [Jumbo S.A. (BELA.AT) Stock Price, News, Quote & History - Yahoo Finance](https://finance.yahoo.com/quote/BELA.AT/)
