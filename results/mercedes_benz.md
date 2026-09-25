@@ -1,53 +1,50 @@
-# Mercedes-Benz (MBG.DE)
-_Aktualisiert: 22.09.2026 | Zeitraum: 15.09.2026 – 22.09.2026_
+# Mercedes-Benz (MBG)
+_Aktualisiert: 25.09.2026 | Zeitraum: 18.09.2026 – 25.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 20 Aktien
-- **Kaufkurs (Ø):** 65,00 EUR
-- **Aktueller Kurs:** 43,65 EUR
-- **Marktwert:** 873,00 EUR
-- **Unrealisierter G/V:** -435,15 EUR (-33,26%)
-- **Portfolioanteil:** 0,54%
-- **Dividenden erhalten:** 114,86 EUR
-- **Bewertung:** Die Position notiert rund ein Drittel unter dem durchschnittlichen Einstandskurs, belastet vor allem durch den Gewinn- und Absatzrückgang im China-Geschäft sowie ein schwächeres Konzernergebnis im laufenden Jahr; die bereits vereinnahmten Dividenden von 114,86 EUR mindern den Verlust nur teilweise. Angesichts des geringen Portfolioanteils von 0,54% und der strukturellen Herausforderungen (China-Schwäche, EV-Transformation, Margendruck) erscheint ein Halten der Position sinnvoll, eine aktive Aufstockung sollte jedoch von einer klaren Stabilisierung der Quartalszahlen abhängig gemacht werden.
+- **Kaufkurs (Ø):** 65.00 EUR
+- **Aktueller Kurs:** 41.56 EUR
+- **Marktwert:** 831.20 EUR
+- **Unrealisierter G/V:** -476.95 EUR (-36.46%)
+- **Portfolioanteil:** 0.54%
+- **Dividenden erhalten:** 114.86 EUR
+- **Bewertung:** Der Kurs ist innerhalb der letzten Woche weiter von 43,65 EUR auf 41,56 EUR gefallen und notiert damit gut ein Drittel unter dem durchschnittlichen Einstandskurs von 65 EUR; die kumulierten Dividenden von 114,86 EUR mildern den Buchverlust nur geringfügig. Belastend wirken weiterhin die China-Schwäche, sinkende Konzerngewinne und Margendruck aus der EV-Transformation, während neue Modelle (u. a. C-Klasse EQ, GLA) und die angehobene FCF-Guidance für etwas Stabilität sorgen; angesichts des geringen Portfolioanteils von 0,54% erscheint ein Halten sinnvoll, eine Aufstockung sollte erst nach einer erkennbaren Stabilisierung des China-Geschäfts und der Quartalsergebnisse erwogen werden.
 
 ## Aktuelle Meldungen
-- Marktstart der neuen elektrischen C-Klasse (C-Class EQ) auf Basis der MB.EA-Plattform mit Batteriegrößen von 64, 85 und 94 kWh, Bestellstart für den Mercedes-Benz C 300 4MATIC electric ab 16.09.2026.
-- Vorstellung eines limitierten Mercedes-AMG CLE 646 Sondermodells (nur 30 Einheiten) sowie des CLE 646 Coupés als Hochleistungsvariante.
-- Start der weltweit ersten Weltumrundung mit einem batterieelektrischen Lkw (eActros 600) am 20.09.2026, geplante Route über rund 30 Länder und ca. 45.000 km.
-- Mercedes-Benz Trucks präsentierte auf der IAA Transportation eine neue eActros-Lowliner-Variante zur Erweiterung des E-Truck-Portfolios.
-- Einführung des neuen Damendufts „I am Mercedes" (17.09.2026) als Markenerweiterung im Lifestyle-Bereich.
+- Produktionsstart der neuen Mercedes-Benz GLA im Werk Rastatt (17.09.2026) mit digitalen, flexiblen und vernetzten Fahrzeugfunktionen.
+- Ankündigung der globalen Jubiläumstour „140 Years. 140 Places" der neuen S-Klasse, die im September 2026 nach Europa zurückkehrt.
+- Vorstellung neuer Möglichkeiten für Kunden, beim Laden von Elektrofahrzeugen zu Hause Kosten zu sparen (21.09.2026).
+- Start der „Neon Legacy Initiative" gemeinsam mit Roger Federer zur Förderung lokaler Tennisclubs im Umfeld des Laver Cup 2026 in London (23.09.2026).
+- Vorstellung des limitierten Mercedes-AMG CLE 646 Sondermodells (nur 30 Einheiten) sowie Bestellstart der elektrischen C-Klasse (C 300 4MATIC electric) auf Basis der MB.EA-Plattform.
 
 ## Management
-- CEO Ola Källenius bekräftigte in mehreren Interviews (u. a. mit Yahoo Finance und CNBC) die EV-Strategie des Konzerns, den Ausbau der AMG-Performance-Sparte sowie Fortschritte bei softwaredefinierten, technologielastigen Fahrzeuginterieurs.
-- Källenius sieht laut CNBC (Mai 2026) eine steigende Nachfrage-Tendenz für Elektrofahrzeuge in den USA trotz Zolldrucks.
-- Adam Chamberlain (CEO Mercedes-Benz USA) bezeichnete das US-Marktumfeld 2026 als „tougher than anticipated", hält aber am Ziel einer 28%igen Steigerung der US-Verkäufe fest; Investition von 4 Mrd. USD in das Werk Alabama bis 2030 angekündigt.
+- CEO Ola Källenius bekräftigte in mehreren Interviews (u. a. CNBC, Morgan Stanley, Robb Report) die EV-Strategie, betonte jedoch, dass Verbrennungs- und Hybridmodelle bis weit in die 2030er-Jahre relevant bleiben sollen, da BEV/PHEV bis Ende der 2020er-Jahre voraussichtlich nur rund die Hälfte des Absatzes ausmachen werden.
+- Källenius signalisierte weiteres Interesse an zusätzlichen US-Investitionen: „We are prepared to continue to invest billions and we want to grow our footprint in the United States."
+- Im Interview mit Robb Report äußerte sich Källenius zudem zum neuen elektrischen G-Wagen und zur Doppelstrategie aus klassischen Verbrennern und Elektroantrieb.
 
 ## Finanzielles
-- Q1 2026: Konzerngewinn sank um 17,2% auf 1,43 Mrd. EUR (Vorjahr: 1,73 Mrd. EUR); operatives Ergebnis (EBIT) fiel um rund 16,8% auf ca. 1,9 Mrd. EUR.
-- Umsatz ging um ca. 5% auf 31,6 Mrd. EUR zurück; weltweiter Pkw-Absatz sank um 6% auf 419.400 Fahrzeuge.
-- China-Geschäft mit deutlichem Einbruch von 27% belastete das Konzernergebnis erheblich.
-- Gegenläufig: Wachstum von 20% in den USA und 7% in Europa; BEV-Absatz stieg um 9% auf 44.300 Einheiten.
-- Laut Unternehmensangaben (Q1-Bericht) bleibt der Free Cashflow trotz des schwierigen Umfelds robust.
+- Q1 2026: Konzernumsatz sank um 4,9% auf 31,602 Mrd. EUR; EBIT lag bei 1,904 Mrd. EUR; freier Cashflow des Industriegeschäfts betrug 1,86 Mrd. EUR.
+- Weltweite Pkw-Auslieferungen fielen um 6% auf 419.400 Fahrzeuge, belastet durch einen Absatzeinbruch von 27% in China.
+- Im Juli 2026 aktualisierte Mercedes-Benz die Jahresguidance: Mercedes-Benz Financial Services erwartet nun eine adjustierte Eigenkapitalrendite von 12–14%, der Anteil elektrifizierter Fahrzeuge wird auf 23–25% geschätzt, der Gesamtfahrzeugabsatz leicht unter Vorjahresniveau.
+- Der Zwischenbericht zum 30. Juni 2026 (Q2) liegt inzwischen vor; Details zu den Halbjahreszahlen sollten in der kommenden Aktualisierung vertieft geprüft werden.
 
 ## Strategie & Ausblick
-- Fortsetzung der Elektrifizierungsstrategie mit Fokus auf die MB.EA-Plattform (u. a. neue C-Klasse EQ) und Ausbau der AMG-Performance-Modelle.
-- Reorganisation des eigenen Vertriebsnetzes: Verkauf von Mercedes-Benz-Niederlassungen (u. a. Berlin-Brandenburg an Global Auto Holdings, weitere Standorte wie Aachen, Kassel, Würzburg, Wuppertal, Reutlingen, Hannover) zur Fokussierung auf das Kerngeschäft.
-- Gezielte Zukäufe in Zukunftstechnologien (u. a. YASA, Torc Robotics, Habbl) im Bereich Elektroantrieb, Energiespeicher und autonomes Fahren/Logistik-Tech.
-- Weiterhin hohe Abhängigkeit vom chinesischen Markt als Risikofaktor, während US- und Europa-Geschäft als Wachstumsstützen dienen; Investitionsoffensive in US-Produktion (Alabama) zur Diversifizierung.
+- Fortsetzung der Elektrifizierungsstrategie mit Fokus auf die MB.EA-Plattform (C-Klasse EQ, elektrischer G-Wagen) bei gleichzeitigem Festhalten an Verbrennungs- und Hybridmodellen als Übergangstechnologie.
+- Ausbau des US-Engagements mit signalisierter Bereitschaft zu weiteren Milliardeninvestitionen und Fokus auf lokale Produktion zur Abfederung von Zollrisiken.
+- Weiterhin hohe Abhängigkeit vom chinesischen Markt als zentraler Risikofaktor für Absatz und Ergebnis.
+- Markenerweiterung und Lifestyle-Partnerschaften (u. a. Laver-Cup-Kooperation mit Roger Federer) als ergänzende Bausteine der Markenstrategie neben dem Kerngeschäft.
 
 ## Quellen
-- [Mercedes-Benz Will Launch 16 New Cars in 2026, More in 2027 – Autoblog](https://www.autoblog.com/news/mercedes-benz-will-launch-16-new-cars-in-2026-more-in-2027)
-- [New Mercedes Models in 2026: What and When? – mercedesblog.com](https://mercedesblog.com/new-mercedes-models-in-2026-what-and-when/)
 - [Mercedes-Benz Media Newsroom](https://media.mercedes-benz.com/)
-- [Von Hannover um die Welt: Elektrotrucker Tobias Wagner startet globale eActros-600-Expedition – Daimler Truck](https://www.daimlertruck.com/newsroom/pressemitteilung/von-hannover-um-die-welt-elektrotrucker-tobias-wagner-startet-globale-eactros-600-expedition-53604128)
-- [Mercedes-Benz Trucks erweitert E-Truck-Portfolio um neue eActros Lowliner-Variante – Daimler Truck](https://www.daimlertruck.com/newsroom/pressemitteilung/mercedes-benz-trucks-erweitert-e-truck-portfolio-um-neue-eactros-lowliner-variante-53486830)
-- [Mercedes-Benz CEO talks EV Strategy, future cars – Yahoo Finance](https://finance.yahoo.com/video/mercedes-benz-ceo-talks-ev-120009672.html)
-- [Mercedes-Benz CEO on EV demand in the U.S.: 'The trajectory is going upward' – CNBC](https://www.cnbc.com/video/2026/05/20/mercedes-benz-ceo-on-ev-demand-in-the-u-s-the-trajectory-is-going-upward.html)
-- [Mercedes U.S. CEO sets ambitious sales goal despite 'tougher' market than anticipated – CNBC](https://www.cnbc.com/2026/03/31/mercedes-us-ceo-sets-ambitious-sales-goal-despite-tougher-market.html)
-- [Mercedes vermeldet deutlichen Gewinnrückgang im ersten Quartal – mbpassion.de](https://mbpassion.de/2026/04/mercedes-vermeldet-deutlichen-gewinnrueckgang-im-ersten-quartal/)
-- [Mercedes-Benz: financial resilience and robust free cash flow in Q1, strong demand for new models – Mercedes-Benz Group Investor Relations](https://group.mercedes-benz.com/investors/reports-news/interim-reports/q1-2026/)
-- [Mercedes-Benz Aktie News: Absatz, Umsatz und Gewinn sinken im ersten Quartal 2026 – IT-Times](https://www.it-times.de/news/mercedes-benz-aktie-news-absatz-umsatz-und-gewinn-sinken-im-ersten-quartal-2026-180805/)
-- [Mercedes-Benz mit nächstem Deal: Dieser Handelsriese übernimmt Berliner Niederlassungen – Autohaus.de](https://www.autohaus.de/nachrichten/autohersteller/mercedes-benz-mit-naechstem-deal-dieser-handelsriese-uebernimmt-berliner-niederlassungen-3804050)
-- [Grünes Licht aus Brüssel: Mercedes-Benz verkauft Niederlassungen – heise autos](https://www.heise.de/news/EU-Kommission-Mercedes-Benz-darf-Niederlassungen-verkaufen-11408478.html)
-- [List of 14 Acquisitions by Mercedes-Benz (Apr 2026) – Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-mercedes-benz/__r7CsHuWEigJQnEmIw2T9jE3JpAivzW6B33ikboQ3sPA)
+- [Mercedes-Benz USA Online Newsroom](https://media.mbusa.com/)
+- [Mercedes turns CLE 646 coupe into 30-unit special edition – Autoblog/SEMA coverage](https://www.sema.org/news-media/enews/2026/26/spy-shots-mercedes-benz-edition)
+- [Mercedes-Benz CEO Ola Källenius on the New Electric G-Wagen – Robb Report](https://robbreport.com/motors/cars/ola-kallenius-mercedes-benz-ceo-interview-1235866350/)
+- [Mercedes-Benz CEO Ola Källenius: The Morgan Stanley Interview](https://www.morganstanley.com/insights/videos/exceptional-leaders/mercedes-benz-ceo-ola-kallenius)
+- [Mercedes-Benz CEO signals more potential US investment – Fox Business](https://www.foxbusiness.com/markets/mercedes-benz-ceo-signals-potential-more-us-investment)
+- [Mercedes-Benz's CEO is a 'petrol head.' He's also convinced EVs are the future – ABC News](https://abcnews.com/Business/mercedes-benzs-ceo-petrol-head-convinced-evs-future/story?id=129197399)
+- [Zwischenbericht zum 31. März 2026 – Mercedes-Benz Group](https://group.mercedes-benz.com/dokumente/investoren/berichte/zwischenberichte/q1/mercedes-benz-zwischenbericht-q1-2026.pdf)
+- [Mercedes-Benz: financial resilience and robust free cash flow in Q1 2026 – Mercedes-Benz Group Investor Relations](https://group.mercedes-benz.com/investors/reports-news/interim-reports/q1-2026/)
+- [Mercedes Pkw Quartalszahlen Q1 2026: minus 6% – Mercedes-Fans](https://www.mercedes-fans.de/magazin/news/mercedes-pkw-quartalszahlen-q1-2026-minus-6-wachstum-im-westen-aber-tiefrotes-minus-27-in-china.23010)
+- [Mercedes-Benz Outlook 2026 – Mercedes-Benz Group Investor Relations](https://group.mercedes-benz.com/investors/share/outlook/)
+- [Zwischenbericht zum 30. Juni 2026 (Q2) – Mercedes-Benz Group](https://group.mercedes-benz.com/dokumente/investoren/berichte/zwischenberichte/q2/mercedes-benz-zwischenbericht-q2-2026.pdf)
