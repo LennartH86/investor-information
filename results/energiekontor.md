@@ -1,46 +1,42 @@
-# Energiekontor (EKT.DE)
-_Aktualisiert: 21.09.2026 | Zeitraum: 14.09.2026 – 21.09.2026_
+# Energiekontor (EKT)
+_Aktualisiert: 25.09.2026 | Zeitraum: 18.09.2026 – 25.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 90 Aktien
-- **Kaufkurs (Ø):** 39,00 EUR
-- **Aktueller Kurs:** 25,60 EUR
-- **Marktwert:** 2304,00 EUR
-- **Unrealisierter G/V:** -1229,47 EUR (-34,79%)
-- **Portfolioanteil:** 1,44%
-- **Dividenden erhalten:** 44,18 EUR
-- **Bewertung:** Die Aktie notiert nach der deutlichen Gewinnwarnung vom 13.08.2026 (EBT-Prognose 2026 von 40-60 Mio. EUR auf nur noch 5-10 Mio. EUR gekappt) rund 35% unter dem Einstandskurs, bei einer Dividendenrendite von aktuell nur ca. 2%. Solange die Netzanschluss-Verzögerungen der schottischen Windparkprojekte nicht gelöst sind, überwiegen die Risiken; eine Position halten statt aufstocken erscheint sinnvoll, mit Beobachtung der für H2 2026 angekündigten UK-Projektverkäufe als Katalysator für eine mögliche Erholung.
+- **Kaufkurs (Ø):** 39.00 EUR
+- **Aktueller Kurs:** 24.85 EUR
+- **Marktwert:** 2236.50 EUR
+- **Unrealisierter G/V:** -1296.97 EUR (-36.71%)
+- **Portfolioanteil:** 1.46%
+- **Dividenden erhalten:** 44.18 EUR
+- **Bewertung:** Der Kurs ist gegenüber der Vorwoche nochmals leicht auf 24,85 EUR gefallen und notiert damit gut 36,7% unter dem Einstandskurs von 39 EUR; bei einem KGV von rund 17,5 und einer Dividendenrendite von nur ca. 2,1% ist die Aktie angesichts der im August gekappten Gewinnprognose eher moderat bis fair bewertet. Solange keine Klarheit über die Netzanschlüsse der schottischen Windparks und die für H2 2026 erhofften UK-Projektverkäufe besteht, erscheint Halten sinnvoller als Aufstocken.
 
 ## Aktuelle Meldungen
-- Am 13.08.2026 senkte der Vorstand die EBT-Prognose für das Geschäftsjahr 2026 drastisch von 40-60 Mio. EUR auf nur noch 5-10 Mio. EUR – Grund sind erheblich verzögerte Netzanschlüsse bei mehreren schottischen Windparkprojekten, die statt 2029 voraussichtlich erst 2031 ans Netz gehen.
-- Ausstehende Netzanschlussangebote für die weitere britische Projektpipeline wurden bis Mitte September 2026 erwartet.
-- Der Aktienkurs geriet im August/September 2026 stark unter Druck (Monatsverlust von rund -24,9% im August), zeitweise unter 25 EUR auf dem Hamburger Parkett.
-- Verkauf der deutschen Windparks „Haberloh" und „Heidkrug" (zusammen 93 MW) an illwerke vkw wurde abgeschlossen.
-- Für 2026 sind zwei Solarparks in Mecklenburg-Vorpommern mit zusammen rund 113 Megawatt für die eigene Bilanz geplant.
+- Der Aktienkurs bewegte sich im Berichtszeitraum weiter auf niedrigem Niveau um 24,85 EUR (Hamburger Parkett), nachdem er bereits Anfang September auf rund 24,90 EUR gefallen war.
+- Laut einer Meldung von ad-hoc-news gab es zuletzt eine leichte Kursstabilisierung ("stock gains on Hamburg price move") bei gleichzeitig als stabil beschriebener Projektpipeline im Erneuerbaren-Bereich.
+- Zum 1. September 2026 startete die erste Auktion unter dem neuen Strommarktregime (StromVKG-Reform); die neuen Rahmenbedingungen betreffen u.a. die Integration von Speichersystemen und die langfristige Planung neuer Projekte – relevant auch für Energiekontor.
+- Ausstehende Netzanschlussangebote für die weitere britische Projektpipeline wurden weiterhin für Mitte September 2026 erwartet; ein konkretes Update dazu liegt für den aktuellen Berichtszeitraum nicht vor.
 
 ## Management
-- Vorstandsvorsitzender Peter Szabo zeigte sich im Mai 2026 noch zuversichtlich, dass Energiekontor „gut positioniert" sei, die Jahresziele 2026 wie geplant zu erreichen – diese Einschätzung musste im August durch die Gewinnwarnung deutlich revidiert werden.
-- Keine Hinweise auf personelle Veränderungen im Vorstand oder Aufsichtsrat im Berichtszeitraum.
+- Der Vorstand besteht unverändert aus Peter Szabo (Vorsitzender), Günter Eschen, Günter Lammers (stellv. Vorsitzender) und Darius Oliver Kianzad.
+- Keine neuen Vorstandsinterviews oder personellen Veränderungen im Berichtszeitraum gefunden; die im August durch die Gewinnwarnung relativierte optimistische Einschätzung von CEO Peter Szabo aus dem Frühjahr 2026 bleibt der jüngste öffentliche Kommentar zur Jahreszielerreichung.
 
 ## Finanzielles
-- H1 2026: Umsatz stieg um 31% auf 99,9 Mio. EUR; EBITDA 21,1 Mio. EUR (-58,6% ggü. Vorjahr); EBT -4,7 Mio. EUR (Vorjahr: +28,3 Mio. EUR); Konzernergebnis -5,3 Mio. EUR; Ergebnis je Aktie -0,38 EUR.
-- FY2026-Prognose nach Anpassung: EBT nur noch 5-10 Mio. EUR (zuvor 40-60 Mio. EUR) – deutliche Gewinnwarnung.
-- Laufendes Aktienrückkaufprogramm (28.05.2026 bis 27.05.2027): Rückkauf von bis zu 80.000 Aktien, maximales Volumen 9 Mio. EUR.
-- Dividendenrendite lag Anfang September 2026 bei rund 2,1%.
+- Aktuelle Bewertungskennzahlen (Stand September 2026): KGV ca. 17,5, Dividendenrendite ca. +2,1%.
+- H1 2026 (weiterhin gültige Basis, kein neuer Quartalsbericht im Zeitraum): Umsatz +31% auf 99,9 Mio. EUR, EBT -4,7 Mio. EUR (Vorjahr +28,3 Mio. EUR), Konzernergebnis -5,3 Mio. EUR.
+- FY2026-Prognose weiterhin bei EBT 5-10 Mio. EUR (nach Kürzung von zuvor 40-60 Mio. EUR im August 2026).
+- Laufendes Aktienrückkaufprogramm (28.05.2026 bis 27.05.2027) über bis zu 80.000 Aktien bzw. maximal 9 Mio. EUR bleibt aktiv; keine neuen Details zum Fortschritt im Berichtszeitraum gefunden.
 
 ## Strategie & Ausblick
-- Das Unternehmen erwartet wesentliche Ergebnisbeiträge für 2026 vor allem im zweiten Halbjahr, abhängig von Projektverkäufen im UK und der Inbetriebnahme/Übergabe bereits verkaufter Windparks in Deutschland.
-- Der Ausbau des konzerneigenen Bestandsportfolios wird fortgesetzt, u.a. durch die geplanten Solarparks in Mecklenburg-Vorpommern (~113 MW).
-- Risiko bleibt die weitere Entwicklung der Netzanschlüsse in Schottland; zusätzliche Verzögerungen könnten die bereits gesenkte Jahresprognose erneut gefährden.
+- Die zum 1. September 2026 gestartete StromVKG-Reform mit neuer Auktionslogik ist ein mittelfristig relevanter Regulierungsfaktor für die Integration von Speichern und die Planung neuer Wind-/Solarprojekte.
+- Das Unternehmen hält an der Erwartung fest, dass wesentliche Ergebnisbeiträge für 2026 vor allem im zweiten Halbjahr anfallen, abhängig von UK-Projektverkäufen und der Übergabe bereits verkaufter deutscher Windparks.
+- Das Hauptrisiko bleibt unverändert die weitere Entwicklung der Netzanschlüsse der schottischen Windparkprojekte; zusätzliche Verzögerungen könnten die bereits gesenkte Jahresprognose erneut belasten.
 
 ## Quellen
-- [EQS-News: Energiekontor mit hoher Bautätigkeit im ersten Halbjahr 2026](https://www.boerse.de/nachrichten/EQS-News-Energiekontor-AG-Energiekontor-mit-hoher-Bautaetigkeit-im-ersten-Halbjahr-2026-wesentliche-Ergebnisbeitraege-im-zweiten-Halbjahr-erwartet/38526818)
-- [Im Fokus: Energiekontor im massiven Rückgang – September 2026 (wallstreet-online)](https://www.wallstreet-online.de/nachricht/21342683-fokus-energiekontor-massiven-rueckgang-einordnung-september-2026)
-- [Energiekontor Aktie: 113 Megawatt Solarparks 2026 geplant (Finanztrends)](https://www.finanztrends.de/rohstoff/energiekontor/news/energiekontor-aktie-113-megawatt-solarparks-2026-geplant/)
+- [Energiekontor Aktie: StromVKG-Reform ab September 2026 (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-stromvkg-reform-ab-september-2026-924904)
+- [Energiekontor stock gains on Hamburg price move and stable renewables pipeline (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/corporate-news/energiekontor-stock-gains-on-hamburg-price-move-and-stable-renewables/70058846)
+- [Im Fokus: Energiekontor im massiven Rückgang – Einordnung für den September 2026 (wallstreet-online)](https://www.wallstreet-online.de/nachricht/21342683-fokus-energiekontor-massiven-rueckgang-einordnung-september-2026)
+- [Peter Szabo – Vorstand (energiekontor.de)](https://www.energiekontor.de/en/company/management-board-and-supervisory-board/peter-szabo.html)
+- [Interview mit Peter Szabo, Vorstand der Energiekontor AG (anleihen-finder.de)](https://www.anleihen-finder.de/interview-mit-peter-szabo-vorstand-der-energiekontor-ag-00069315.html)
+- [EQS-News: Energiekontor mit hoher Bautätigkeit im ersten Halbjahr 2026 (boerse.de)](https://www.boerse.de/nachrichten/EQS-News-Energiekontor-AG-Energiekontor-mit-hoher-Bautaetigkeit-im-ersten-Halbjahr-2026-wesentliche-Ergebnisbeitraege-im-zweiten-Halbjahr-erwartet/38526818)
 - [Energiekontor senkt Ergebnisprognose für 2026 deutlich (anleihen-finder.de)](https://www.anleihen-finder.de/energiekontor-senkt-ergebnisprognose-fuer-2026-deutlich-00073255.html)
-- [EQS-Adhoc: Energiekontor passt Ergebnisprognose für Geschäftsjahr 2026 an (onvista)](https://www.onvista.de/news/2026/08-13-eqs-adhoc-energiekontor-ag-energiekontor-passt-ergebnisprognose-fuer-geschaeftsjahr-2026-an-0-37-26542891)
-- [Planmäßiger Jahresstart: Energiekontor bestätigt Ergebnisprognose für 2026 (finanznachrichten.de)](https://www.finanznachrichten.de/nachrichten-2026-05/68479380-planmaessiger-jahresstart-energiekontor-bestaetigt-ergebnisprognose-fuer-2026-496.htm)
-- [Energiekontor Aktie: Nach dem Gewinnschock (stock-world.de)](https://www.stock-world.de/energiekontor-aktie-nach-dem-gewinnschock-welche-weichen-jetzt-ueber-die-erholung-entscheiden/)
-- [Energiekontor Aktie: 8,4-Prozent-Rutsch nach Halbjahresverlust (stock-world.de)](https://www.stock-world.de/energiekontor-aktie-84-prozent-rutsch-nach-halbjahresverlust/)
-- [Energiekontor zieht Aktien ein – neues Rückkaufprogramm bis 9 Mio. EUR (wallstreet-online)](https://www.wallstreet-online.de/nachricht/20945403-energiekontor-aktien-rueckkaufprogramm-9-mio)
-- [Energiekontor Aktie: 2026-Ziele drastisch gekürzt (stock-world.de)](https://www.stock-world.de/energiekontor-aktie-2026-ziele-drastisch-gekuerzt/)
