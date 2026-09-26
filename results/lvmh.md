@@ -1,47 +1,42 @@
 # LVMH - Louis Vuitton Moët Hennessy (MC.PA)
-_Aktualisiert: 22.09.2026 | Zeitraum: 15.09.2026 – 22.09.2026_
+_Aktualisiert: 26.09.2026 | Zeitraum: 19.09.2026 – 26.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 9 Aktien
 - **Kaufkurs (Ø):** 594,89 EUR
-- **Aktueller Kurs:** 407,10 EUR
-- **Marktwert:** 3.663,90 EUR
-- **Unrealisierter G/V:** -1.741,58 EUR (-32,22%)
-- **Portfolioanteil:** 2,27%
+- **Aktueller Kurs:** 400,15 EUR
+- **Marktwert:** 3.601,35 EUR
+- **Unrealisierter G/V:** -1.804,13 EUR (-33,38%)
+- **Portfolioanteil:** 2,34%
 - **Dividenden erhalten:** 109,86 EUR
-- **Bewertung:** The stock is trading near its 52-week (and multi-year) low, down roughly 36% year-to-date, driven by weak Chinese demand and margin pressure (H1 2026 recurring operating profit fell ~7% despite modest revenue growth). Given the large unrealized loss (-32%) but a stabilizing Q2 organic growth trend (+3-4%) and LVMH's structurally strong brand portfolio, a **Hold** stance appears reasonable rather than realizing the loss, though further downside risk from soft Chinese luxury demand remains.
+- **Bewertung:** Die Aktie notiert weiterhin nahe ihrem Mehrjahrestief, rund 37% im Jahresverlauf 2026 im Minus, belastet durch schwache Nachfrage aus China und Margendruck. Die Q2-Zahlen zeigten mit +3% organischem Wachstum (Mode & Lederwaren erstmals seit zwei Jahren wieder im Plus) eine leichte Stabilisierung. Angesichts des großen unrealisierten Verlusts (-33%), aber strukturell starker Markenportfolios erscheint **Halten** weiterhin sinnvoller als ein Verkauf zur Verlustrealisierung; ein Nachkauf wäre nur bei klareren Stabilisierungssignalen aus China ratsam.
 
 ## Aktuelle Meldungen
-- Shares fell to their lowest levels since 2020, down about 35.76% year-to-date as of mid-September 2026, closing at EUR 404.10 on September 18, 2026, near the 52-week low (weak Chinese demand, competitor pressure, geopolitical uncertainty). ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-moet-hennessy-louis-vuitton-stock-falls-toward-yearly-lows-as-luxury/70131132))
-- LVMH filed a treasury share transactions disclosure covering September 7–11, 2026 with the AMF (French regulator), part of ongoing routine capital markets/buyback activity. ("LVMH: Déclaration des transactions sur actions propres") ([globenewswire.com](https://www.globenewswire.com/news-release/2026/09/15/3362481/0/fr/lvmh-d%C3%A9claration-des-transactions-sur-actions-propres.html))
-- The 2026 LVMH Prize for Young Fashion Designers was awarded: Julie Kegels won the main LVMH Prize, Lii won the Karl Lagerfeld Prize, and Yoshita 1967 won the Savoir-faire Prize. ([Investor-Radar research](https://www.lvmh.com/en/news-lvmh))
+- Die Aktie fiel im September 2026 auf den tiefsten Stand seit 2020 (rund -37% seit Jahresbeginn), Analysten wie RBC (Kursziel 475 statt 575 EUR) und Jefferies (440 statt 510 EUR, Hold) senkten ihre Kursziele deutlich. ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-falls-37-percent-as-luxury-demand-weakens/70166145))
+- LVMH meldete der AMF eine Offenlegung von Aktienrückkäufen für den Zeitraum 14.–18. September 2026. ([globenewswire.com](https://www.globenewswire.com/news-release/2026/09/22/3366676/0/en/lvmh-share-transactions-disclosure.html))
+- Die Arnault-Familie kündigte eine Umstrukturierung an; Christian Dior SE (Holdinggesellschaft) legte daraufhin über 15% zu. ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-falls-37-percent-as-luxury-demand-weakens/70166145))
+- Die Gewinner des LVMH Prize for Young Fashion Designers 2026 wurden gekürt: Julie Kegels (Hauptpreis), Lii (Karl Lagerfeld Prize) und Yoshita 1967 (Savoir-faire Prize). ([lvmh.com](https://www.lvmh.com/en/news-lvmh))
 
 ## Management
-- Bernard Arnault (Chairman & CEO, age 77) warned at the January 2026 earnings conference that "2026 won't be simple" ("2026 ne sera pas simple") for the group given a challenging, unpredictable macro environment. ([Bloomberg](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment))
-- Arnault has indicated succession planning will become a focus once he reaches age 85; commentary in the press (Forbes, August 2026) frames current internal tensions more as a governance issue than an imminent succession crisis. ([Forbes](https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/08/03/lvmh-has-a-governance-problem-not-a-succession-one/))
-- Laura Burdese was appointed CEO of Bvlgari, a management change within the group's watches & jewelry division. ([marketscreener.com](https://www.marketscreener.com/news/lvmh-laura-burdese-appointed-ceo-of-bvlgari-ce7d50dcdf8af12d))
-- Strategic focus continues on high-quality, desirable products, destination flagship stores, and cost containment.
+- Bernard Arnault (Vorstandsvorsitzender, 77 Jahre) sieht sich laut eigener Aussage weiterhin für rund zehn weitere Jahre an der Spitze von LVMH, eine automatische dynastische Nachfolge unter seinen fünf Kindern schließt er aus – die Nachfolge soll rein leistungsbezogen erfolgen. ([marketscreener.com](https://uk.marketscreener.com/news/bernard-arnault-sees-himself-leading-lvmh-for-another-10-years-ce7d50dcd889f226))
+- Arnault verriet im Juli 2026 im "Legend"-Podcast, dass er einst fast 20% an Netflix hielt, jedoch zu früh verkaufte – der Anteil wäre inzwischen ein Vielfaches wert. ([fortune.com](https://fortune.com/2026/07/29/lvmh-ceo-bernard-arnault-owned-nearly-20-netflix-cashed-out-early-stake-could-be-worth-60-billion-today/))
 
 ## Finanzielles
-- Q1 2026: Total revenue of €19.1 billion, down 6% on a reported basis (vs. €20.3bn prior year) due to a ~7% currency headwind from a strong euro against USD, JPY and CNY; organic growth remained positive at +1%.
-- H1 2026: Revenue of €38.6 billion (also reported as €43.7bn in some sources), up ~2% reported; recurring operating profit fell ~7%, indicating continued margin pressure.
-- Q2 2026: Organic revenue growth accelerated to +3% (+4% excluding Middle East conflict impact); Fashion & Leather Goods division sales rose 1% organically to €8.90 billion, aided by Jonathan Anderson's first Dior collections, new Louis Vuitton flagship stores in Beijing and Seoul, strong Tiffany/Bvlgari lines, robust Sephora growth, and a recovery in champagne and cognac.
-- Stock performance: down ~35-36% year-to-date through September 2026, trading near 52-week lows amid sector-wide luxury demand softness.
+- H1 2026: Umsatz 38,6 Mrd. EUR (-3% berichtet, +2% organisch), operatives Ergebnis 8,7 Mrd. EUR (Marge 22,5%), Konzerngewinn 5,7 Mrd. EUR (stabil ggü. Vorjahr). ([lvmh.com](https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results))
+- Q2 2026: organisches Umsatzwachstum von 3% (4% ohne Nahost-Konflikt-Effekt); Mode & Lederwaren erstmals seit sieben Quartalen wieder im Plus (+1% organisch, 8,90 Mrd. EUR). ([wwd.com](https://wwd.com/business-news/financial/lvmh-fashion-leather-goods-q2-2026-increase-1239083331/))
+- Q1 2026: Umsatz 19,1 Mrd. EUR, organisches Wachstum +1% bei -7% Währungseffekt. ([investing.com](https://www.investing.com/news/company-news/lvmh-q1-2026-slides-organic-growth-holds-amid-currency-headwinds-93CH-4610985))
 
 ## Strategie & Ausblick
-- Continued expansion into luxury hospitality via L Catterton: acquisition of the Penha Longa Resort in Portugal (in partnership with Cedar Capital Partners) and a ~20% investment in French boutique hotel group Les Domaines de Fontenille (making LVMH the largest shareholder). ([hotelinvestmenttoday.com](https://www.hotelinvestmenttoday.com/Deals/Mergers-and-Acquistions/LVMH-takes-majority-stake-in-French-boutique-operator))
-- Portfolio streamlining: sale of the Marc Jacobs brand to WHP Global (agreement announced May 14, 2026) for approximately $500 million, funded via LVMH's cash and revolving credit facility.
-- Increased ownership: stake in Loro Piana raised to 94% via a €1 billion call option exercised in January 2026, deepening control of high-end brand assets.
-- Management continues to emphasize execution discipline and cost control amid macro risks, with organic growth trends improving into Q2 2026 despite a still-soft Chinese luxury market and margin headwinds.
+- Geografisch verbesserte sich die Lage in den USA im ersten Halbjahr, Asien (ohne Japan) zeigte starkes Wachstum und bestätigte die Erholungstendenz aus H2 2025. ([nasdaq.com](https://www.nasdaq.com/press-release/lvmh-accelerating-growth-second-quarter-solid-first-half-results-2026-07-27))
+- LVMH hat 2026 die Beteiligung an Loro Piana per Kaufoption auf 94% erhöht (rund 1 Mrd. EUR) und im Mai 2026 die Übernahme des Marc-Jacobs-Geschäfts (~500 Mio. USD) abgeschlossen; über L Catterton erfolgte zudem der Erwerb des Penha-Longa-Resorts in Portugal. ([tracxn.com](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E))
+- Bernard Arnault warnte bereits im Januar 2026, dass "2026 nicht einfach" werde angesichts geopolitischer Risiken und makroökonomischer Unsicherheit. ([bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment))
 
 ## Quellen
-- [LVMH Moet Hennessy Louis Vuitton stock falls toward yearly lows as luxury demand cools – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-moet-hennessy-louis-vuitton-stock-falls-toward-yearly-lows-as-luxury/70131132)
-- [LVMH: Déclaration des transactions sur actions propres – GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/15/3362481/0/fr/lvmh-d%C3%A9claration-des-transactions-sur-actions-propres.html)
-- [News LVMH – lvmh.com](https://www.lvmh.com/en/news-lvmh)
-- [LVMH CEO Bernard Arnault Turns Gloomy About the Global Environment – Bloomberg](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment)
-- [LVMH Is Facing A Governance Issue, Not A Succession Issue – Forbes](https://www.forbes.com/sites/shaheenajanjuhajivrajeurope/2026/08/03/lvmh-has-a-governance-problem-not-a-succession-one/)
-- [LVMH: Laura Burdese appointed CEO of Bvlgari – marketscreener.com](https://www.marketscreener.com/news/lvmh-laura-burdese-appointed-ceo-of-bvlgari-ce7d50dcdf8af12d)
-- [LVMH Q1 2026 slides: organic growth holds amid currency headwinds – Investing.com](https://www.investing.com/news/company-news/lvmh-q1-2026-slides-organic-growth-holds-amid-currency-headwinds-93CH-4610985)
-- [LVMH: Accelerating growth in the second quarter; solid first-half results – Nasdaq/GlobeNewswire](https://www.globenewswire.com/news-release/2026/07/27/3333733/0/en/lvmh-accelerating-growth-in-the-second-quarter-solid-first-half-results.html)
-- [LVMH takes majority stake in French boutique operator – Hotel Investment Today](https://www.hotelinvestmenttoday.com/Deals/Mergers-and-Acquistions/LVMH-takes-majority-stake-in-French-boutique-operator)
-- [LVMH strengthens hotel expansion with strategic Portugal acquisition](https://eng.tourismandsocietytt.com/news-and-newsletter/2026/2026-april/ultimas-noticias/lvmh-strengthens-hotel-expansion-with-strategic-portugal-acquisition)
+- [LVMH stock falls 37 percent as luxury demand weakens – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-falls-37-percent-as-luxury-demand-weakens/70166145)
+- [LVMH: Share transactions disclosure – globenewswire.com](https://www.globenewswire.com/news-release/2026/09/22/3366676/0/en/lvmh-share-transactions-disclosure.html)
+- [Bernard Arnault sees himself leading LVMH for another 10 years – marketscreener.com](https://uk.marketscreener.com/news/bernard-arnault-sees-himself-leading-lvmh-for-another-10-years-ce7d50dcd889f226)
+- [LVMH CEO Bernard Arnault reveals Netflix stake – fortune.com](https://fortune.com/2026/07/29/lvmh-ceo-bernard-arnault-owned-nearly-20-netflix-cashed-out-early-stake-could-be-worth-60-billion-today/)
+- [LVMH: Accelerating growth in the second quarter; solid first-half results – lvmh.com](https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results)
+- [LVMH Fashion Division Breaks Losing Streak – wwd.com](https://wwd.com/business-news/financial/lvmh-fashion-leather-goods-q2-2026-increase-1239083331/)
+- [List of Acquisitions by LVMH – tracxn.com](https://tracxn.com/d/acquisitions/acquisitions-by-lvmh/__f6M54GFfmy8ECKHYuJNmYa8HdgABbxtYzxBc5XC-_6E)
+- [LVMH CEO Bernard Arnault Turns Gloomy About the Global Environment – bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-01-30/lvmh-ceo-bernard-arnault-turns-gloomy-about-the-global-environment)
