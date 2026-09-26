@@ -1,56 +1,53 @@
 # Novo Nordisk 'B' (NOVO-B.CO)
-_Updated: 23.09.2026 | Period: 16.09.2026 – 23.09.2026_
+_Updated: 26.09.2026 | Period: 19.09.2026 – 26.09.2026_
 
 ## Portfolio Analysis
 - **Position:** 120 shares
-- **Average purchase price:** 48.265 EUR
-- **Current price:** 34.50 EUR
-- **Market value:** 4140.00 EUR
-- **Unrealized gain/loss:** -1685.88 EUR (-28.94%)
-- **Portfolio allocation:** 2.66%
+- **Avg. purchase price:** 48.27 EUR
+- **Current price:** 33.99 EUR
+- **Market value:** 4,078.80 EUR
+- **Unrealized gain/loss:** -1,747.08 EUR (-29.99%)
+- **Portfolio allocation:** 2.65%
 - **Dividends received:** 158.63 EUR
-- **Assessment:** The share price dropped sharply this week (34.50 EUR vs. 37.63 EUR last week, roughly -8%) as the market reacted negatively to the Capital Markets Day on 21.09.2026, with the CEO himself conceding the company has "overpromised and underdelivered," pushing the unrealized loss to nearly -29%. Current P/E, P/B and dividend-yield figures could not be verified this week. With FY2026 guidance already cut, new 2030 targets now on the table, and management openly acknowledging a trust deficit with investors, Hold remains reasonable for the existing position, but the weak market reception argues against adding until the new strategy shows concrete traction.
+- **Assessment:** The share price has kept sliding since last week (34.50 EUR → 33.99 EUR), pushing the unrealized loss to nearly -30%, as the market continues to digest a lukewarm reception to the 21.09.2026 Capital Markets Day and the CEO's own admission that Novo has "overpromised and underdelivered." Current P/E, P/B and dividend-yield figures could not be verified this week. With FY2026 guidance already cut, new but unconvincing 2030 targets on the table, and management now floating a possible US primary-listing upgrade to court American investors, Hold remains reasonable for the existing position, but the continued downtrend argues against averaging down until the new strategy shows concrete execution proof points.
 
 ## Recent News
-- Novo Nordisk (now branded "Novo") held its Capital Markets Day in London on 21.09.2026, unveiling an updated corporate strategy and 2030 ambitions, including plans to launch at least five multi-blockbuster products by 2030 and to broaden beyond obesity/diabetes into a more consumer-oriented product model.
-- The stock fell sharply (reports of a drop of roughly 8%) in the days following the Capital Markets Day, as investors judged the turnaround plan insufficient to restore confidence.
-- The EU's CHMP issued a positive opinion for once-weekly Sogroya (somapacitan) in children with idiopathic short stature and recommended approval of FREHEMGO (denecimig), a factor VIIIa mimetic for haemophilia A offering flexible weekly/bi-weekly/monthly dosing.
-- The ongoing share buyback programme continued: by 18.09.2026 a cumulative 34,174,179 B-shares had been repurchased since 04.02.2026 at an average price of DKK 281.79 (transaction value ~DKK 9.63bn), with further updates published on 07.09.2026 and 21.09.2026.
-- The collaboration with Anthropic (announced 16.09.2026) to accelerate drug discovery and AI-driven software development remains in the news cycle as part of the company's broader technology push.
+- Novo's 2030 strategy presented at the 21.09.2026 Capital Markets Day continued to underwhelm investors in the days after, with the stock extending its post-event decline as analysts questioned the credibility of the five multi-blockbuster ambition ([genengnews.com](https://www.genengnews.com/topics/translational-medicine/stockwatch-novos-2030-strategy-underwhelms-investors-at-capital-markets-day/)).
+- CEO Mike Doustdar told the Financial Times (reported 23.09.2026) that Novo is open to upgrading its New York listing status, a move that would raise the company's visibility and index eligibility among US investors ([money.usnews.com](https://money.usnews.com/investing/news/articles/2026-09-23/novo-nordisk-open-to-new-york-listing-upgrade-ceo-doustdar-tells-ft)).
+- Novo's earlier $2.1 billion partnership with Vivtex (oral drug-delivery technology) continued to be cited in pharma M&A roundups as part of the company's broader business-development push ([pharmexec.com](https://www.pharmexec.com/view/mergers-acquisitions-roundup-novo-nordisk-enters-2-billion-partnership-vivtex-gsk-enters-950-million-acquisition-35pharma-inc-)).
+- The ongoing B-share buyback programme remained active, with a cumulative 34,174,179 B-shares repurchased by 18.09.2026 since 04.02.2026 at an average price of DKK 281.79, per updates on 07.09.2026 and 21.09.2026 ([globenewswire.com](https://www.globenewswire.com/news-release/2026/09/21/3365489/0/en/novo-nordisk-a-s-share-repurchase-programme.html)).
+- The EU's CHMP positive opinions from mid-September (Sogroya for idiopathic short stature; FREHEMGO for haemophilia A) remained the most recent regulatory milestones, with no new approvals reported this week ([novonordisk.com](https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916765)).
 
 ## Management
-- CEO Mike Doustdar told Bloomberg (22.09.2026) that Novo has "overpromised and underdelivered" in the past and that the company must do more to rebuild investor trust, especially with a patent cliff for its biggest drugs approaching at the start of the next decade.
-- In a CNBC interview (22.09.2026), Doustdar defended the strategic diversification push beyond obesity and diabetes, and said the company remains open to M&A, including deals to strengthen the weight-loss drug pipeline, as competition from Eli Lilly intensifies.
-- Doustdar continued to frame the "Novo" rebrand and cultural shift ("The Novo Way") as part of a package intended to speed up decision-making and win back GLP-1 market share, following the formal rebrand announced on 14.09.2026.
-- No further changes to the Executive Management or Board of Directors were reported during the period 16.–23.09.2026.
+- CEO Mike Doustdar, in the CNBC interview on rebuilding investor trust (24.09.2026), reiterated that overpromising "loses trust very quickly" and said the company still has more work to do to convince the market of its turnaround ([cnbc.com](https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html)).
+- Doustdar told the Financial Times he is open to a New York listing upgrade, signaling management's intent to broaden the US investor base as part of the trust-rebuilding effort ([money.usnews.com](https://money.usnews.com/investing/news/articles/2026-09-23/novo-nordisk-open-to-new-york-listing-upgrade-ceo-doustdar-tells-ft)).
+- No further changes to the Executive Management or Board of Directors were reported during the period 19.–26.09.2026.
 
 ## Financials
-- Q1 2026: reported revenue +32% at CER to DKK 96.8bn (adjusted revenue -4% CER); reported operating profit +65% to DKK 59.6bn; adjusted operating profit DKK 32,858m; adjusted Obesity Care sales +22% CER.
 - Q2 2026: adjusted sales DKK 78,488m (+7% CER); adjusted operating profit +11% CER (DKK 33,389m); net profit fell 21% to DKK 20,989m; diluted EPS fell 20% to DKK 4.75, weighed down by a DKK 6.3bn non-cash impairment on intangible pipeline assets.
-- FY2026 guidance remains at adjusted sales growth of 0% to -6% CER and adjusted operating profit growth of 0% to -6% CER, following the earlier downward revision.
-- Capital expenditure for 2026 is guided at around DKK 55bn (down from DKK 60bn in 2025), reflecting continued expansion of manufacturing and global supply-chain capacity.
-- Buyback execution: ~DKK 9.63bn of the DKK 11.2bn tranche executed by 18.09.2026 at an average price of DKK 281.79 per B-share.
+- FY2026 guidance remains at adjusted sales growth of 0% to -6% CER and adjusted operating profit growth of 0% to -6% CER, unchanged this week.
+- Buyback execution: ~DKK 9.63bn of the DKK 11.2bn tranche executed by 18.09.2026 at an average price of DKK 281.79 per B-share; no material update to the buyback pace was reported this week.
+- The Akero Therapeutics acquisition (~$5.2bn, closed late 2025) continues to weigh on 2026 operating profit growth by an estimated 3 percentage points due to increased R&D spend.
 - Current P/E, P/B or dividend-yield figures could not be verified for this reporting week.
 
 ## Strategy & Outlook
-- The Capital Markets Day set new 2030 ambitions, including at least five multi-blockbuster product launches and a shift toward selling more products in a consumer-goods-like model rather than purely as traditional prescription medicines.
-- Management is pursuing broader diversification beyond core obesity/diabetes franchises, with the CEO signaling continued openness to M&A (bolt-on deals and partnerships) to fill pipeline gaps amid intensifying competition from Eli Lilly.
-- The negative market reaction to the Capital Markets Day, combined with the CEO's own admission of past overpromising, suggests investors want clearer, more credible near-term execution proof points rather than long-dated 2030 targets.
-- Continued share buybacks signal management confidence despite the guidance cut and weak stock reaction, while regulatory progress (Sogroya, FREHEMGO) and the Anthropic AI collaboration point to a broadening pipeline and R&D toolset.
-- The Wegovy franchise (injectable and oral pill) remains the central growth driver, but the approaching patent cliff for core GLP-1 products in the next decade is now an explicit part of management's own framing of the challenge ahead.
+- Management continues to defend the 2030 strategy unveiled at the Capital Markets Day despite the tepid investor and analyst reception, framing diversification beyond obesity/diabetes (blood disorders, liver disease, cardiovascular) as necessary for long-term growth.
+- A possible upgrade of Novo's New York listing status, floated by the CEO this week, would be a notable structural step aimed at improving access to US capital and potentially boosting valuation multiples.
+- The CEO's continued openness to M&A (following the Akero acquisition and the Vivtex partnership) suggests further bolt-on deals remain likely as Novo seeks to close pipeline gaps and counter intensifying competition from Eli Lilly.
+- The Wegovy franchise (injectable and oral pill) remains the central growth driver, but the approaching patent cliff for core GLP-1 products in the next decade continues to be an explicit part of management's own framing of the challenge ahead.
+- Persistent share-price weakness since the Capital Markets Day indicates the market wants concrete near-term execution evidence rather than long-dated 2030 targets before re-rating the stock.
 
 ## Sources
-- [Highlights to be presented at Novo's Capital Markets Day 2026 – GlobeNewswire](https://www.globenewswire.com/news-release/2026/09/21/3365171/0/en/highlights-to-be-presented-at-novo-s-capital-markets-day-2026.html)
-- [With new strategy, Novo outlines plans for obesity, direct-to-consumer work – STAT News](https://www.statnews.com/2026/09/21/novo-nordisk-capital-markets-day-obesity-strategy/)
-- [Novo CEO Says Drugmaker Has Overpromised, Underdelivered – Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/novo-ceo-says-drugmaker-has-more-to-do-to-win-over-investors)
-- [Novo defends diversification push as CEO eyes deals beyond obesity – CNBC](https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html)
-- [Novo Must Broaden Scope to Stay Competitive, CEO Tells Workers – Bloomberg](https://www.bloomberg.com/news/articles/2026-09-15/novo-must-broaden-scope-to-stay-competitive-ceo-tells-workers)
-- [Novo Nordisk A/S - share repurchase programme - September 21, 2026 – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-a-s-share-repurchase-programme-september-21-2026)
+- [StockWatch: Novo's 2030 Strategy Underwhelms Investors at Capital Markets Day – GEN](https://www.genengnews.com/topics/translational-medicine/stockwatch-novos-2030-strategy-underwhelms-investors-at-capital-markets-day/)
+- [Novo Nordisk Open to New York Listing Upgrade, CEO Doustdar Tells FT – US News](https://money.usnews.com/investing/news/articles/2026-09-23/novo-nordisk-open-to-new-york-listing-upgrade-ceo-doustdar-tells-ft)
+- [Novo Nordisk CEO on rebuilding investor trust after backlash – CNBC](https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html)
+- [Pharma Mergers and Acquisitions Roundup: Novo Nordisk Enters $2.1 Billion Partnership with Vivtex – PharmExec](https://www.pharmexec.com/view/mergers-acquisitions-roundup-novo-nordisk-enters-2-billion-partnership-vivtex-gsk-enters-950-million-acquisition-35pharma-inc-)
 - [Novo Nordisk A/S - share repurchase programme – GlobeNewswire (21.09.2026)](https://www.globenewswire.com/news-release/2026/09/21/3365489/0/en/novo-nordisk-a-s-share-repurchase-programme.html)
 - [Novo Nordisk A/S - share repurchase programme - September 7, 2026 – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-a-s-share-repurchase-programme-september-7-2026)
-- [Novo Nordisk rebrands to 'Novo' under CEO Mike Doustdar – CNBC](https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html)
-- [VKTX, GPCR, ALT Stocks Rise: Novo Nordisk Signals Bigger M&A As It Chases Over 5 'Multi-Blockbusters' – Yahoo Finance](https://finance.yahoo.com/healthcare/articles/vktx-gpcr-alt-stocks-rise-052921256.html)
+- [News Details – Novo Nordisk (CHMP opinions)](https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916765)
+- [Novo defends diversification push as CEO eyes deals beyond obesity – CNBC](https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html)
+- [Novo CEO Says Drugmaker Has Overpromised, Underdelivered – Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/novo-ceo-says-drugmaker-has-more-to-do-to-win-over-investors)
 - [Novo Nordisk Considers Acquisitions to Expand Weight-Loss Drug Pipeline as Competition Intensifies – Yahoo Finance](https://finance.yahoo.com/healthcare/articles/novo-nordisk-considers-acquisitions-expand-104509927.html)
+- [List of 13 Acquisitions by Novo Nordisk (Apr 2026) – Tracxn](https://tracxn.com/d/acquisitions/acquisitions-by-novo-nordisk/__bnn3hmkfWd53iUiKoUr4kgPzETC7EWpU7U5I0E1VXoc)
 - [Newsroom – Novo Nordisk](https://www.novonordisk.com/news-and-media/latest-news.html)
 - [Financial results and events overview – Novo Nordisk](https://www.novonordisk.com/investors/financial-results.html)
-- [NOVO NORDISK A/S – Form 6-K – FY2026 – SEC.gov](https://www.sec.gov/Archives/edgar/data/0000353278/000117184326005184/f6k_080426.htm)
