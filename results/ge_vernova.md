@@ -1,44 +1,52 @@
 # GE Vernova (GEV)
-_Aktualisiert: 25.09.2026 | Zeitraum: 18.09.2026 – 25.09.2026_
+_Updated: 29.09.2026 | Period: 22.09.2026 – 29.09.2026_
 
-## Portfolio-Analyse
-- **Position:** 2 Aktien
-- **Kaufkurs (Ø):** 835.09 EUR
-- **Aktueller Kurs:** 839.80 EUR
-- **Marktwert:** 1679.60 EUR
-- **Unrealisierter G/V:** +7.34 EUR (+0.44%)
-- **Portfolioanteil:** 1.10%
-- **Dividenden erhalten:** 0.37 EUR
-- **Bewertung:** GEV trades essentially flat to the purchase price in EUR terms, though the underlying USD stock is up roughly 44% year-to-date and ~54% over the past year — the position was only opened in May 2026, near current levels. Valuation remains very demanding (high multiple on record backlog and improving but still modest EBITDA margins), and the dividend contribution is negligible, so the case for holding rests entirely on continued execution of the electrification/AI-power growth story. Given the record $176bn backlog, raised guidance and management's confident tone (CEO reiterating a path to $200bn backlog "very early in 2027"), holding looks reasonable; a fresh top-up is less attractive after the run-up, and the position is more a long-duration growth bet than one for reducing given the still-modest unrealized gain.
+## Portfolio Analysis
+- **Position:** 2 shares
+- **Avg. Purchase Price:** 835.09 EUR
+- **Current Price:** 833.80 EUR
+- **Market Value:** 1,667.60 EUR
+- **Unrealized Gain/Loss:** -4.66 EUR (-0.28%)
+- **Portfolio Allocation:** 1.09%
+- **Dividends Received:** 0.37 EUR
+- **Assessment:** GEV is essentially flat versus the average purchase price in EUR terms, even though the underlying USD stock is up roughly 45% year-to-date and closed around $950–955 in late September 2026 — the small EUR loss reflects USD/EUR currency effects rather than the equity story. Fundamentals continue to strengthen (record $176bn backlog, raised FY2026 guidance, resolved Vineyard Wind litigation, new turbine orders), so the case for holding remains intact, though valuation is demanding and a new bearish analyst call this week is a reminder that sentiment can swing on AI-power-demand durability concerns.
 
-## Aktuelle Meldungen
-- On September 16, 2026, CEO Scott Strazik told the 14th Annual Morgan Stanley Laguna Conference that GE Vernova's backlog will hit $200 billion "very early in 2027," up from the record $176 billion at the end of Q2.
-- The stock is up about 44% year-to-date and roughly 54% over the past year, but pulled back around 6% over the past month amid broader concerns about the durability of the AI-driven power-demand trade.
-- On September 23, 2026, GE Vernova announced a Rotor Life Extension (RLE) services agreement covering five 9F gas turbines (~1,250 MW total) at three Egyptian power plants (Kureimat, Nubaria, Cairo North), extending their operating life by 13–15 years, with services running 2028–2035.
-- Multiple sell-side analysts reiterated Buy ratings in mid-September 2026 (e.g., Jefferies), citing the strong backlog and durable power-services revenue, with price targets in the $1,310–$1,350 range.
-- The current share price of $955.04 (as of September 24, 2026) implies the stock trades well above the EUR-converted portfolio price shown above due to USD/EUR exchange effects.
+## Recent News
+- Shares closed around $951.82 on September 23 and near $949.77 on September 28, 2026, up about 45–46% year-to-date, vastly outpacing the S&P 500's ~12.5% return over the same period.
+- On September 16, 2026, GE Vernova and Vineyard Wind announced an amicable settlement resolving all outstanding litigation tied to the Vineyard Wind offshore project; GE Vernova withdrew its termination notice and both parties dismissed all pending legal claims.
+- On September 15, 2026, GE Vernova's Onshore Wind business signed an agreement with Eurus Energy Holdings to supply seven 4.2 MW turbines for the 29.4 MW Hiyamizutouge Wind Farm in Japan, including a two-year service contract with a two-year extension option.
+- On September 23, 2026, GE Vernova announced a Rotor Life Extension (RLE) services agreement covering five 9F gas turbines (~1,250 MW total) at three Egyptian power plants (Kureimat, Nubaria, Cairo North), extending operating life by 13–15 years, with services running 2028–2035.
+- Late September 2026 brought a notably bearish outlier: at least one analyst issued a new Sell rating with a sharply lower price target, contrasting with the broader bullish consensus built on AI data-center power demand and the large order backlog.
 
 ## Management
-- CEO Scott Strazik continues to frame strategy around an electricity-demand "supercycle," emphasizing disciplined capital allocation and the combination of gas turbines, electrical equipment and software to meet data-center power demand.
-- Strazik has kept up a heavy investor-conference schedule throughout 2026 (Bank of America Global Industrials, Bernstein Strategic Decisions, Semafor World Economy, Morgan Stanley Laguna), consistently reiterating the long-cycle power growth narrative.
-- Analyst sentiment remains strongly positive, with the bulk of coverage at Buy/Outperform.
+- CEO Scott Strazik continues to frame corporate strategy around a multi-year electricity-demand "supercycle," emphasizing disciplined capital allocation across gas turbines, electrical equipment and grid software to meet data-center and industrial power demand.
+- Strazik spoke at the 14th Annual Morgan Stanley Laguna Conference on September 16, 2026, reiterating that the order backlog — a record $176 billion at the end of Q2 — is on track to reach $200 billion "very early in 2027."
+- Profiles in Fortune (August 2026) and Semafor have highlighted Strazik's turnaround of the business since its 2024 spin-off from General Electric, crediting his disciplined execution for the stock's sharp rise.
+- Analyst sentiment remains predominantly positive (Buy/Outperform, e.g., Jefferies with $1,310–$1,350 targets), though a new Sell call in late September shows dispersion is widening around the AI-power-demand narrative.
 
-## Finanzielles
-- Q2 2026: revenue of $11.1 billion (+22% YoY, +12% organic); orders of $24.2 billion (+88% organic), driven by Power and Electrification; adjusted EBITDA of ~$1.2 billion at an 11.3% margin (+340 bps organically); free cash flow of $5.1 billion; adjusted EPS of $2.47 missed the Street's $3.04 estimate, weighing on the stock short-term.
-- Backlog reached a record $176 billion at the end of Q2 2026, with management guiding toward $200 billion in early 2027.
-- Full-year 2026 guidance was raised again to revenue of $45.5–46.5 billion and free cash flow of $11.5–12.5 billion.
-- Gas power capacity is on track for a 20 GW annualized run rate in H2 2026, rising toward 24 GW by 2028 and 30 GW by 2030.
+## Financials
+- Q2 2026: revenue of $11.1 billion (+22% YoY, +12% organic), topping estimates of $10.73 billion; orders of $24.2 billion (+88% organic), driven by Power and Electrification; adjusted EBITDA of ~$1.2 billion at an 11.3% margin (+340 bps organically); free cash flow of $5.1 billion (~$10 billion YTD).
+- Adjusted EPS of $2.47 missed the Street's $3.04 estimate, which weighed on the stock in the days after the print.
+- Backlog rose $13 billion sequentially to a record ~$176 billion at quarter-end, with management guiding toward $200 billion in early 2027.
+- Full-year 2026 guidance was raised to revenue of $45.5–46.5 billion and free cash flow of $11.5–12.5 billion.
+- In February 2026, GE Vernova completed the $5.275 billion acquisition of the remaining 50% stake in the Prolec GE joint venture (transformers, ~10,000 employees), funded with an even mix of cash and $2.6 billion of newly issued senior notes, strengthening the Electrification segment's manufacturing footprint.
 
-## Strategie & Ausblick
-- Continued ramp of gas turbine and electrification manufacturing capacity to meet AI/data-center-driven electricity demand, alongside international service contracts (e.g., Egypt rotor life extension).
-- Management's medium-term framing (backlog toward $200bn by early 2027, capacity build-out through 2030) points to sustained multi-year growth, though the Q2 EPS miss and recent share-price pullback suggest execution and margin delivery will be closely watched.
-- The position remains a long-duration bet on the power/electrification buildout rather than a near-term value or income play.
+## Strategy & Outlook
+- Continued build-out of gas turbine and electrification manufacturing capacity to meet AI/data-center-driven electricity demand, targeting a 20 GW annualized gas turbine run rate in H2 2026, rising toward 24 GW by 2028 and 30 GW by 2030.
+- Expansion into new international markets and services (Japan onshore wind order, Egypt rotor life extension) alongside resolution of legacy offshore wind litigation (Vineyard Wind settlement) reduces tail risk from the Offshore Wind business.
+- The Prolec GE acquisition and record backlog point to sustained multi-year growth, but the Q2 EPS miss and the emergence of a bearish analyst view underscore that margin delivery and the durability of AI-driven power demand remain the key swing factors to watch.
+- The position remains a long-duration bet on the global power/electrification buildout rather than a near-term value or income play; the EUR-denominated position is essentially break-even, so near-term portfolio impact is limited despite strong USD share-price performance.
 
-## Quellen
+## Sources
 - [GE Vernova CEO Scott Strazik to speak at 14th annual Morgan Stanley Laguna conference | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-ceo-scott-strazik-speak-14th-annual-morgan-stanley-laguna-conference)
 - [GE Vernova advances asset longevity for Egypt's power sector with Rotor Life Extension services | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-advances-asset-longevity-egypts-power-sector-rotor-life-extension)
 - [GE Vernova reports second quarter 2026 financial results and raises 2026 financial guidance | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial)
+- [GE Vernova to fully acquire Prolec GE joint venture | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-fully-acquire-prolec-ge-joint-venture)
+- [GE Vernova completes Prolec GE acquisition, accelerating Electrification segment growth trajectory | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-completes-prolec-ge-acquisition)
 - [Earnings call transcript: GE Vernova Q2 2026 results miss EPS, stock slips | Investing.com](https://www.investing.com/news/transcripts/earnings-call-transcript-ge-vernova-q2-2026-results-miss-eps-stock-slips-93CH-4805923)
 - [After $176 billion backlog, GE Vernova sends investors wakeup call | Yahoo Finance](https://finance.yahoo.com/energy/articles/176-billion-backlog-ge-vernova-020300714.html)
 - [GE Vernova Stock Is Up 44% Over the Past Year, Will It Keep Climbing in 2026? | Tikr](https://www.tikr.com/blog/ge-vernova-stock-is-up-44-over-the-past-year-will-it-keep-climbing-in-2026-heres-what-analysts-say)
+- [GE Vernova (NYSE: GEV) Stock Price Surges 45% In 2026, But Analysts See More Room To Run | Foreign Policy Journal](https://www.foreignpolicyjournal.com/2026/09/28/ge-vernova-nyse-gev-stock-price-surges-45-in-2026-but-analysts-see-more-room-to-run/)
+- [GE Vernova stock at USD 949.77 on September 28, 2026 | ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/nachboerse/ge-vernova-stock-at-usd-949-77-on-september-28-2026/70195536)
+- [Scott Strazik's stunning turnaround at GE Vernova | Fortune](https://fortune.com/2026/08/12/from-edison-to-the-ai-age-inside-ge-vernovas-reinvention-and-600-stock-spike/)
 - [GE Vernova Inc. (GEV) Stock Price, News, Quote & History | Yahoo Finance](https://finance.yahoo.com/quote/GEV/)
