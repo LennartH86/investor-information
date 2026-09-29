@@ -1,48 +1,46 @@
-# Fraport (FRA)
-_Aktualisiert: 25.09.2026 | Zeitraum: 18.09.2026 – 25.09.2026_
+# Fraport (FRA.DE)
+_Aktualisiert: 29.09.2026 | Zeitraum: 22.09.2026 – 29.09.2026_
 
 ## Portfolio-Analyse
 - **Position:** 70 Aktien
-- **Kaufkurs (Ø):** 67.25 EUR
-- **Aktueller Kurs:** 61.95 EUR
-- **Marktwert:** 4336.50 EUR
-- **Unrealisierter G/V:** -402.12 EUR (-8.49%)
-- **Portfolioanteil:** 2.83%
-- **Dividenden erhalten:** 36.83 EUR
-- **Bewertung:** Trotz des Ausschlusses aus dem STOXX Europe 600 in dieser Woche bleiben Analysten mehrheitlich optimistisch (JPMorgan: Overweight, Kursziel 81 EUR; Jefferies: Buy, Kursziel 85 EUR), was gegenüber dem aktuellen Kurs von rund 62 EUR ein deutliches Aufwärtspotenzial signalisiert. Operativ bleibt Fraport auf Kurs (Passagierwachstum, EBITDA-Ausblick bestätigt), während der Gewinnrückgang durch Terminal-3-Abschreibungen belastet – die Position erscheint angesichts der Bewertungslücke weiterhin haltenswert.
+- **Kaufkurs (Ø):** 67,25 EUR
+- **Aktueller Kurs:** 62,10 EUR
+- **Marktwert:** 4.347,00 EUR
+- **Unrealisierter G/V:** -391,62 EUR (-8,26%)
+- **Portfolioanteil:** 2,83%
+- **Dividenden erhalten:** 36,83 EUR
+- **Bewertung:** Trotz des weiterhin bestehenden Buchverlusts von -8,26% zeigt sich die Aktie im Berichtszeitraum stabil um die 62-EUR-Marke; der technische Verkaufsdruck durch Indexfonds nach dem Ausschluss aus dem STOXX Europe 600 (wirksam seit 22.09.2026) scheint weitgehend ausgelaufen zu sein. Angesichts der operativ soliden Entwicklung (Passagierwachstum, bestätigte Jahresprognose) und Analystenkurszielen von 81–85 EUR deutlich über dem aktuellen Niveau bleibt **Halten** die naheliegende Strategie; für Neukäufe spricht die Bewertungslücke, gegen einen Verkauf spricht das operative Momentum.
+_EN: Despite the ongoing unrealized loss of -8.26%, the share held stable around the EUR 62 mark during the period; the technical selling pressure from index funds following the STOXX Europe 600 exclusion (effective since Sep 22, 2026) appears to have largely run its course. Given solid operational development (passenger growth, confirmed full-year guidance) and analyst price targets of EUR 81–85 clearly above the current level, **Hold** remains the sensible strategy; the valuation gap argues for staying in, while operational momentum argues against selling._
 
 ## Aktuelle Meldungen
-- Fraport wurde um den 21.09.2026 aus dem STOXX Europe 600 gestrichen; die Aktie schloss an diesem Tag bei 60,10 EUR (-1,2%).
-- Am 23.09.2026 notierte die Aktie bei 62,85 EUR, JPMorgan bestätigte sein Overweight-Rating mit Kursziel 81 EUR.
-- Am 24.09.2026 lag der Kurs bei 62,20 EUR – rund 28,5% unter dem 52-Wochen-Hoch.
-- Die Aktie gab zudem um 0,40% nach, nachdem die August-Verkehrszahlen ein gemischtes Bild zeigten (Frankfurt-Passagiere leicht rückläufig, Konzern-Passagiere im Plus).
-- Im August 2026 stiegen die Konzern-Passagierzahlen um 2,1% auf 24,1 Mio., während Frankfurt um 0,3% nachgab; die Frachtmenge legte um 2,9% auf 179.400 Tonnen zu.
-- Vom 17.–20. sowie 24.–27.09.2026 fanden turnusmäßige Vermessungsflüge der DFS an der Landebahn Nordwest statt (routinemäßige ICAO-Kalibrierung, keine operativen Auswirkungen).
+- **Aktienkurs zum Ende des Berichtszeitraums:** Die Fraport-Aktie notierte am 28.09.2026 nachbörslich bei 61,90 EUR (-1,04%), womit sie sich nahe dem Niveau der Vorwoche bewegte. / *Share price at period end: Fraport stock traded at EUR 61.90 in after-hours trading on Sep 28, 2026 (-1.04%), holding near the previous week's level.*
+- **Nachwirkungen des STOXX-600-Ausschlusses:** Die Streichung aus dem STOXX Europe 600 wurde am 21./22.09.2026 wirksam; indexnahe Fonds dürften in der Folge Positionen abgebaut haben, was den Kurs zeitweise belastete. / *Aftermath of the STOXX 600 exclusion: removal from the STOXX Europe 600 took effect around Sep 21–22, 2026; index-tracking funds likely reduced positions as a result, weighing on the share price at times.*
+- **Turnusmäßige Vermessungsflüge:** Vom 24. bis 27.09.2026 führte die DFS erneut Vermessungsflüge an der Landebahn Nordwest durch – eine routinemäßige, von der ICAO vorgeschriebene Kalibrierung ohne operative Auswirkungen. / *Routine calibration flights: from Sep 24–27, 2026, DFS again conducted measurement flights on the North-West runway – a routine, ICAO-mandated calibration with no operational impact.*
+- **Internationale Expansion (Brasilien):** Zum 01.09.2026 übernahm die Fraport-Tochter Fraport Brasil den Betrieb des Flughafens Jericoacoara im Nordosten Brasiliens und band ihn in die bestehende Fortaleza-Konzession (Laufzeit bis 2047) ein; über die nächsten drei Jahre ist eine Modernisierung des Airports geplant. / *International expansion (Brazil): as of Sep 1, 2026, subsidiary Fraport Brasil took over operations of Jericoacoara Airport in northeastern Brazil, integrating it into the existing Fortaleza concession (running through 2047), with a three-year modernization program planned.*
 
 ## Management
-- Der Vorstand ist seit 01.05.2026 wieder fünfköpfig: Dietmar Focke (vormals CEO Lufthansa Industry Solutions) verantwortet als COO die Bereiche Aviation und Fraport Ground Services und komplettiert das Gremium nach dem Ausscheiden von Anke Giesen Ende 2025.
-- Weitere aktuelle Wortmeldungen des Vorstands zu diesem Berichtszeitraum liegen nicht vor.
+- **CEO-Kontinuität:** Dr. Stefan Schulte, seit Juni 2025 zudem Präsident von ACI Europe (Airports Council International), machte im Berichtszeitraum keine neuen öffentlichen Aussagen; strategische Kontinuität bleibt gegeben. / *CEO continuity: Dr. Stefan Schulte, who has also served as ACI Europe president since June 2025, made no new public statements during the period; strategic continuity remains in place.*
+- **Vorstandsteam:** Seit 01.05.2026 ist der Vorstand wieder fünfköpfig; Dietmar Focke (vormals CEO Lufthansa Industry Solutions) verantwortet als COO die Bereiche Aviation und Fraport Ground Services nach dem Ausscheiden von Anke Giesen Ende 2025. / *Executive board: since May 1, 2026, the executive board is back to five members; Dietmar Focke (formerly CEO of Lufthansa Industry Solutions) heads Aviation and Fraport Ground Services as COO, following Anke Giesen's departure at the end of 2025.*
 
 ## Finanzielles
-- H1 2026 (veröffentlicht 06.08.2026): Konzernumsatz stieg um 4% auf 2.069,1 Mio. EUR, das EBITDA legte um 3,8% auf 582,3 Mio. EUR zu; das Konzernergebnis brach jedoch um 47,7% auf 51,6 Mio. EUR ein, bedingt durch höhere Abschreibungen und Zinsaufwand infolge der Terminal-3-Eröffnung.
-- Terminal 3 in Frankfurt wurde im April 2026 eröffnet, sämtliche Airlines wurden zwischenzeitlich von Terminal 2 dorthin verlagert.
-- Für das Gesamtjahr 2026 erwartet Fraport ein EBITDA auf bzw. leicht über Vorjahresniveau (2025: 1,44 Mrd. EUR) von bis zu rund 1,5 Mrd. EUR, beim Konzernergebnis wird weiterhin ein Rückgang erwartet.
-- Für Aktionäre wurde im Mai 2026 eine Dividende von 1,00 EUR je Aktie für das Geschäftsjahr 2025 beschlossen und ausgezahlt – die erste seit Ausbruch der COVID-19-Pandemie; zudem wurde im Juni 2026 ein Aktienrückkauf mit einem Volumen von bis zu 5,2 Mio. EUR durchgeführt.
+- **Q1 2026 (veröffentlicht 05.05.2026):** EBITDA stieg im traditionell schwächsten Quartal um 18,5 Mio. EUR auf 196,0 Mio. EUR; das Konzernergebnis sank jedoch um 6,7 Mio. EUR auf -33,1 Mio. EUR, belastet durch abgeschlossene Ausbauprojekte. / *Q1 2026 (published May 5, 2026): EBITDA rose EUR 18.5m to EUR 196.0m in the seasonally weakest quarter; group result declined EUR 6.7m to EUR -33.1m, weighed down by completed expansion projects.*
+- **H1 2026 (veröffentlicht 06.08.2026):** Konzernumsatz +4% auf 2.069,1 Mio. EUR, EBITDA +3,8% auf 582,3 Mio. EUR; das Konzernergebnis brach dagegen um 47,7% auf 51,6 Mio. EUR ein, bedingt durch höhere Abschreibungen und Zinsaufwand infolge der Terminal-3-Eröffnung im April 2026. / *H1 2026 (published Aug 6, 2026): group revenue +4% to EUR 2,069.1m, EBITDA +3.8% to EUR 582.3m; group result, however, fell 47.7% to EUR 51.6m, driven by higher depreciation and interest expense following the Terminal 3 opening in April 2026.*
+- **Jahresprognose 2026 bestätigt:** EBITDA auf bzw. leicht über Vorjahresniveau (2025: 1,44 Mrd. EUR) erwartet, beim Konzernergebnis wird weiterhin ein Rückgang erwartet; konzernweit werden rund 188–195 Mio. Passagiere erwartet. / *Full-year 2026 guidance confirmed: EBITDA expected at or slightly above prior-year level (2025: EUR 1.44bn), while group result is still expected to decline; group-wide passenger volume is projected at roughly 188–195m.*
+- **Analystensicht:** Kursziele liegen mit durchschnittlich rund 84,88 EUR (JPMorgan Overweight 81 EUR, Jefferies Buy 85 EUR) deutlich über dem aktuellen Kurs von rund 62 EUR. / *Analyst view: price targets average around EUR 84.88 (JPMorgan Overweight EUR 81, Jefferies Buy EUR 85), clearly above the current share price of roughly EUR 62.*
 
 ## Strategie & Ausblick
-- Der Ausschluss aus dem STOXX Europe 600 dürfte kurzfristig zu Verkaufsdruck durch indexnahe Fonds führen, ändert aber nichts an der operativen Substanz des Geschäfts.
-- Fraport hält an der Jahresprognose 2026 fest; die milliardenschweren Investitionen der letzten Jahre (u. a. Terminal 3) belasten zwar aktuell das Konzernergebnis über Abschreibungen, sollen aber mittelfristig die Kapazität und Ertragskraft am Standort Frankfurt stärken.
-- Analysten bleiben mit Kurszielen von 81–85 EUR (JPMorgan, Jefferies) deutlich über dem aktuellen Kursniveau optimistisch positioniert, was auf eine erwartete Erholungsdynamik nach der Investitionsphase hindeutet.
-- Zu neuen Übernahmen oder Beteiligungen im Berichtszeitraum liegen keine aktuellen Informationen vor.
+- **Indexeffekt vorübergehend:** Der STOXX-600-Ausschluss dürfte kurzfristig technischen Verkaufsdruck erzeugt haben, ändert aber nichts an der operativen Substanz des Geschäfts. / *Temporary index effect: the STOXX 600 exclusion likely created short-term technical selling pressure but does not change the operational substance of the business.*
+- **Internationales Wachstum:** Die Übernahme des Betriebs von Jericoacoara (Brasilien) sowie die Kapazitätsausbauten in Lima und Antalya unterstreichen die Wachstumsstrategie außerhalb Frankfurts. / *International growth: taking over operations at Jericoacoara (Brazil) as well as capacity expansions in Lima and Antalya underscore the growth strategy beyond Frankfurt.*
+- **Kapitalrückführung in Aussicht:** Sobald die Netto-Verschuldung/EBITDA-Relation unter den Faktor 5 fällt, plant das Management, die Ausschüttungsquote von aktuell 1,00 EUR/Aktie auf 60–80% des Ergebnisses anzuheben. / *Capital return in prospect: once the net debt/EBITDA ratio falls below 5x, management plans to raise the payout ratio from the current EUR 1.00/share toward 60–80% of earnings.*
+- **Investitionszyklus belastet kurzfristig:** Die milliardenschweren Investitionen der letzten Jahre (u. a. Terminal 3) drücken aktuell über Abschreibungen auf das Konzernergebnis, sollen aber mittelfristig Kapazität und Ertragskraft am Standort Frankfurt stärken. / *Investment cycle weighs short term: the multi-billion-euro investments of recent years (incl. Terminal 3) currently weigh on group results via depreciation but are expected to strengthen capacity and earnings power at the Frankfurt site over the medium term.*
 
 ## Quellen
-- [Fraport stock holds near EUR 64 as JPMorgan keeps Overweight](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-holds-near-eur-64-as-jpmorgan-keeps-overweight/70168060)
-- [Fraport stock falls 0.40 percent as August traffic splits](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-falls-0-40-percent-as-august-traffic-splits/70177000)
+- [Fraport stock at EUR 61.90 on September 28, 2026, down 1.04 percent](https://www.ad-hoc-news.de/boerse/news/nachboerse/fraport-stock-at-eur-61-90-on-september-28-2026-down-1-04-percent/70195722)
 - [Fraport stock falls 1.2 percent after STOXX 600 exit](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-falls-1-2-percent-after-stoxx-600-exit/70152854)
-- [Fraport stock heads into the open after a 2.43 percent drop](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-heads-into-the-open-after-a-2-43-percent-drop/70172855)
-- [Fraport stock heads into the open after a 1.2% Xetra loss](https://www.ad-hoc-news.de/boerse/news/corporate-news/fraport-stock-heads-into-the-open-after-a-1-2-percent-xetra-loss/70148606)
 - [Vermessungsflüge vom 24. bis 27. September 2026 – Landebahn Nord West](https://www.fraport.com/de/nachhaltigkeit/nachbarschaftsdialog/aktuelles/news/2026/vermessungsfluege-vom-24---27--september-2026---landebahn-nord-w.html)
+- [Fortaleza Airport (Fraport Brasil / Jericoacoara)](https://en.wikipedia.org/wiki/Fortaleza_Airport)
+- [Fraport AGM 2026: Executive and Supervisory Boards Report to the Shareholders](https://www.fraport.com/en/newsroom/press-releases/2026/q2/fraport-agm-2026.html)
 - [Dietmar Focke verstärkt ab 01. Mai Vorstand der Fraport AG](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q1/dietmar-focke-vorstand-fraport-ag.html)
+- [Fraport-Konzern im ersten Quartal 2026 mit Wachstum im operativen Geschäft](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/verkehrszahlen/fraport-konzern-im-ersten-quartal-2026-mit-wachstum-im-operative.html)
 - [Fraport-Konzern legt operativ im ersten Halbjahr zu](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/verkehrszahlen/fraport-konzern-legt-operativ-im-ersten-halbjahr-zu.html)
-- [Fraport (FRA) Q2 2026 Summary | Quartr](https://quartr.com/events/fraport-ag-fra-q2-2026_3YGp98cz)
-- [Quartalsergebnis: Fraport steigert Umsatz trotz Iran-Krieges und Streiks](https://www.fvw.de/touristik/verkehr/quartalsergebnis-fraport-steigert-umsatz-trotz-iran-krieges-und-streiks-260962)
+- [März 2026: Experten empfehlen Fraport-Aktie mehrheitlich zum Kauf – finanzen.net](https://www.finanzen.net/nachricht/aktien/maerz-2026-experten-empfehlen-fraport-aktie-mehrheitlich-zum-kauf-15587250)
