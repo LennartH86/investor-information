@@ -1,47 +1,52 @@
 # Constellation Energy (CEG)
-_Aktualisiert: 24.09.2026 | Zeitraum: 17.09.2026 – 24.09.2026_
+_Updated: 29.09.2026 | Period: 22.09.2026 – 29.09.2026_
 
-## Portfolio-Analyse
-- **Position:** 10 Aktien
-- **Kaufkurs (Ø):** 220,81 EUR
-- **Aktueller Kurs:** 231,65 EUR
-- **Marktwert:** 2.316,50 EUR
-- **Unrealisierter G/V:** +102,87 EUR (4,65%)
-- **Portfolioanteil:** 1,51%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** CEG notiert weiterhin über dem durchschnittlichen Einstiegskurs mit einem soliden Plus von 4,65%. Das Unternehmen hat die Gewinnprognose für 2026 auf 11,50–12,50 USD je Aktie (adjusted operating EPS) angehoben und in Q1/Q2 die Konsensschätzungen deutlich übertroffen, was das positive Momentum untermauert. Angesichts der starken operativen Entwicklung (Calpine-Integration, wachsende Nachfrage durch Rechenzentren/KI, Übernahme des Rhode Island State Energy Center) erscheint ein Halten bzw. moderater Ausbau der Position sinnvoll; eine Dividendenrendite ist für das Portfolio bislang nicht relevant, da noch keine Ausschüttung erfolgt ist.
+## Portfolio Analysis
+- **Position:** 10 shares
+- **Avg. Purchase Price:** 220.81 EUR
+- **Current Price:** 228.50 EUR
+- **Market Value:** 2,285.00 EUR
+- **Unrealized Gain/Loss:** +71.37 EUR (+3.22%)
+- **Portfolio Allocation:** 1.49%
+- **Dividends Received:** 0.00 EUR
+- **Assessment:** CEG remains in positive territory versus the average entry price (+3.22%), even though the position has given back some of the gains seen in the prior period. Fundamentals stayed strong through the review window: Q2 2026 adjusted EPS of 2.55 USD beat consensus (2.33 USD), full-year adjusted operating EPS guidance was raised to 11.50–12.50 USD, and Morgan Stanley lifted its price target to 369 USD on September 18. No dividend has been paid on the position to date, so the yield component is not yet a factor. Given the raised guidance, the Calpine integration progress, and continued nuclear PPA momentum, a Hold (with room to Add on weakness) appears reasonable.
 
-## Aktuelle Meldungen
-- 21.09.2026: Constellation und Toyota Motor North America schließen eine 15-jährige Vereinbarung über erneuerbare Energien (Renewable Energy Purchase Agreement) ab; Toyota erhält Renewable Energy Certificates aus dem Milano-Solarprojekt (Ferrovial), Constellation sichert sich über 115 MW Solarkapazität (rund 246.000 MWh/Jahr).
-- 10.09.2026: Constellation vereinbart die Übernahme des Rhode Island State Energy Center (RISEC, 609 MW, gasbefeuert, flexibel/dispatchable) von Shell Energy North America für 715 Mio. USD; Erweiterung des ISO-New-England-Portfolios zur Stärkung der Netzzuverlässigkeit.
-- Aktienkurs reagierte im Berichtszeitraum positiv auf die Nachrichtenlage: u.a. Kursanstieg um 3,1% auf 262,60 USD am 21.09.2026 begleitet von einer allgemein starken Nasdaq-Entwicklung; weitere moderate Kursgewinne am 22.09.2026.
+## Recent News
+- 25.09.2026: CEG shares rose 0.63% as the market continued to digest the raised 2026 earnings guidance.
+- 23.09.2026: Stock traded around 263.88 USD, tracking the company's raised 2026 earnings outlook.
+- 21.09.2026: Constellation and Toyota Motor North America announced a 15-year Renewable Energy Purchase Agreement; Toyota will receive Renewable Energy Certificates from the Milano Solar project (developed by Ferrovial), with Constellation securing over 115 MW of solar capacity (~246,000 MWh/year); commercial operation expected September 2027. Shares gained 3.1% to 262.60 USD on the announcement.
+- 18.09.2026: Morgan Stanley raised its price target on CEG to 369 USD (from 364 USD).
+- 10.09.2026: Constellation agreed to acquire the Rhode Island State Energy Center (RISEC, 609 MW gas-fired, dispatchable) from Shell Energy North America for 715 million USD, expanding its ISO New England footprint and grid-reliability capacity.
 
 ## Management
-- CEO Joseph Dominguez äußerte sich mehrfach öffentlich zu strategischen Themen 2026, u.a. auf der CERAWeek-Konferenz (CNBC-Interview, März 2026) zu sinkenden Energiepreisen.
-- Auf der Semafor World Economy Conference (April 2026) warnte Dominguez, die USA lägen im Ausbau von Energiekapazität für KI-Rechenzentren deutlich hinter China zurück.
-- Beim Q2-Earnings-Call (August 2026) betonte Dominguez, dass bestehende Kraftwerkskapazitäten das "Fundament" für den Ausbau der Datenökonomie bildeten, da neue Kraftwerke nicht schnell genug gebaut werden könnten.
+- CEO Joe Dominguez has kept a high public profile through 2026, including a CNBC interview at CERAWeek (March 2026) on falling energy prices and a CBS Sunday Morning segment on the Crane Clean Energy Center.
+- At the Semafor World Economy Conference (April 2026), Dominguez warned that the US lags significantly behind China in building energy capacity for AI data centers.
+- On the Q2 2026 earnings call (August 2026), Dominguez emphasized that existing generation capacity is the "foundation" for data-economy growth, since new power plants cannot be built fast enough to meet demand.
+- Dominguez also appeared at the Milken Institute Global Conference 2026 discussing nuclear energy and AI-driven power demand alongside other industry leaders.
 
-## Finanzielles
-- Q2 2026 (veröffentlicht 06.08.2026): GAAP-Nettoergebnis von 1,42 USD je Aktie; Adjusted (non-GAAP) Operating Earnings von 2,55 USD je Aktie.
-- Vollständige Jahresprognose 2026 angehoben: Adjusted Operating Earnings Guidance nun 11,50–12,50 USD je Aktie.
-- Q1 2026 (veröffentlicht 11.05.2026): Bereinigtes EPS von 2,74 USD (Prognose: 2,59 USD), Umsatz von 11,12 Mrd. USD (Prognose: rund 9 Mrd. USD) – deutlich über den Erwartungen, unterstützt durch die Integration der Calpine-Übernahme.
-- Calpine-Übernahme am 07.01.2026 abgeschlossen (Eigenkapitalkaufpreis ca. 16,4 Mrd. USD, Nettokaufpreis ca. 26,6 Mrd. USD inkl. übernommener Schulden); erwartete EPS-Akkretion von über 20% in 2026 sowie mindestens 2 USD je Aktie in Folgejahren, zusätzlicher Free Cashflow von über 2 Mrd. USD jährlich.
-- Langfristige Verschuldung steigt infolge der Akquisitionsfinanzierung deutlich von ca. 7,68 Mrd. USD (2025) auf ca. 20,91 Mrd. USD (2026).
+## Financials
+- Q2 2026 (reported 05.08.2026): Revenue of 7.504 billion USD (vs. 6.101 billion USD in Q2 2025); GAAP net income of 1.42 USD/share (513 million USD total, down from 839 million USD a year ago); adjusted operating earnings of 2.55 USD/share (up from 1.91 USD/share in Q2 2025), beating the 2.33 USD consensus.
+- Full-year 2026 adjusted operating earnings guidance raised to 11.50–12.50 USD per share.
+- Secured ~920 MW of new long-term nuclear power purchase agreements in Q2, representing ~30% of expected baseload clean generation under long-term contract by 2032.
+- Nuclear fleet refueling outages averaged 23 days in Q2 2026, 40% faster than the industry average of 38 days.
+- Calpine acquisition (closed 07.01.2026): ~21.8 billion USD purchase price (50 million newly issued CEG shares plus ~4.5 billion USD cash); expected to add more than 20% to 2026 EPS and nearly double the company's generation scale (~23 GW added, plus a retail supply platform serving ~62 TWh/year).
+- Long-term debt has risen materially (from ~7.68 billion USD in 2025 toward ~20.9 billion USD in 2026) reflecting acquisition financing.
 
-## Strategie & Ausblick
-- Ausbau des Kraftwerksportfolios über Zukäufe (RISEC, Calpine) zur Bedienung wachsender Stromnachfrage, insbesondere durch KI-Rechenzentren und Datencenter.
-- Fokus auf bestehende (nukleare und konventionelle) Erzeugungskapazität als kurzfristig verfügbare Lösung, da Neubauten von Kraftwerken zu langsam für die aktuelle Nachfragedynamik seien.
-- Erweiterung des Portfolios erneuerbarer Energien durch langfristige PPA-Verträge (z.B. mit Toyota) zur Unterstützung von Nachhaltigkeitszielen von Großkunden.
-- Management sieht die USA im internationalen Vergleich (insbesondere gegenüber China) im Rückstand beim Ausbau der Energieinfrastruktur für KI, was regulatorische und politische Diskussionen befeuern dürfte.
+## Strategy & Outlook
+- Continued portfolio expansion via acquisitions (Calpine, RISEC) to meet growing electricity demand, particularly from AI/data center customers.
+- Emphasis on existing nuclear and conventional generation capacity as the fastest way to meet near-term demand, since new plant construction cannot keep pace.
+- Growing renewable energy portfolio through long-term PPAs (e.g., Toyota) to support large corporate customers' sustainability goals.
+- Management continues to flag that the US is falling behind China in energy infrastructure buildout for AI, a theme likely to keep shaping the regulatory and policy debate.
+- Analysts remain constructive, with Morgan Stanley's raised 369 USD price target reflecting confidence in the raised earnings guidance and nuclear PPA momentum.
 
-## Quellen
+## Sources
+- [Constellation Energy stock tracks a raised 2026 earnings guide](https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-tracks-a-raised-2026-earnings-guide/70177322)
+- [Constellation Energy stock rose 0.63 percent on September 25, 2026](https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-rose-0-63-percent-on-september-25-2026/70193014)
 - [Constellation and Toyota Announce Renewable Energy Purchase Agreement](https://www.constellationenergy.com/news/2026/09/constellation-and-toyota-announce-renewable-energy-purchase-agreement.html)
 - [Constellation to Acquire Rhode Island State Energy Center (RISEC) from Shell](https://investors.constellationenergy.com/news-releases/news-release-details/constellation-acquire-rhode-island-state-energy-center-risec)
 - [Constellation Reports Second Quarter 2026 Results](https://www.businesswire.com/news/home/20260805185047/en/Constellation-Reports-Second-Quarter-2026-Results)
-- [Constellation Reports First Quarter 2026 Results](https://www.constellationenergy.com/news/2026/05/constellation-reports-first-quarter-2026-results.html)
-- [Constellation Energy Q1 2026 slides: earnings beat, 20% growth target - Investing.com](https://www.investing.com/news/company-news/constellation-energy-q1-2026-slides-earnings-beat-20-growth-target-93CH-4677255)
+- [Constellation Q2 2026 slides: nuclear contracts drive 20% growth outlook - Investing.com](https://www.investing.com/news/company-news/constellation-q2-2026-slides-nuclear-contracts-drive-20-growth-outlook-93CH-4843690)
 - [Constellation Energy (CEG) Completes Acquisition of Calpine Corporation](https://finance.yahoo.com/news/constellation-energy-ceg-completes-acquisition-030917179.html)
 - [Watch CNBC's full interview with Constellation Energy CEO Joe Dominguez](https://www.cnbc.com/video/2026/03/23/watch-cnbcs-full-interview-with-constellation-energy-ceo-joe-dominguez.html)
 - [Constellation Energy CEO Joe Dominguez says US not 'going to win' race with China AI energy buildout - Semafor](https://www.semafor.com/article/04/14/2026/constellation-energy-ceo-joe-dominguez-says-us-not-going-to-win-the-race-with-china-ai-energy-buildout)
-- [Constellation Energy stock reacts to Rhode Island plant deal and raised guidance](https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-reacts-to-rhode-island-plant-deal-and-raised/70116822)
 - [Constellation Energy stock rises 3.1 percent ahead of the open](https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-rises-3-1-percent-ahead-of-the-open/70149901)
