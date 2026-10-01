@@ -1,48 +1,48 @@
 # Rio Tinto (RIO.L)
-_Updated: 26.09.2026 | Period: 19.09.2026 – 26.09.2026_
+_Aktualisiert: 01.10.2026 | Zeitraum: 24.09.2026 – 01.10.2026_
 
-## Portfolio Analysis
-- **Position:** 80 shares
-- **Avg. purchase price:** 57.28 EUR
-- **Current price:** 83.06 EUR
-- **Market value:** 6,644.80 EUR
-- **Unrealized gain/loss:** +2,031.14 EUR (+44.02%)
-- **Portfolio allocation:** 4.31%
-- **Dividends received:** 1,021.64 EUR
-- **Assessment:** No current P/E or P/B figure was disclosed in the sources reviewed this week; the share price has eased slightly from last week's near-yearly-high level as the 2026 interim dividend (211.00 US cents/share) was paid out on 24 September. With H1 2026 fundamentals still strong (underlying EBITDA +28%, free cash flow +75%), cost-cutting on track toward the USD 1.8 billion year-end target, and management now also moving to expand third-party metals trading under new CEO Simon Trott, **holding** the position remains reasonable given the +44.02% unrealized gain and steady dividend income; Q3 2026 production results (due 13 October 2026) are the next key catalyst to watch.
+## Portfolio-Analyse
+- **Position:** 80 Aktien
+- **Kaufkurs (Ø):** 57.2825 EUR
+- **Aktueller Kurs:** 83.41 EUR
+- **Marktwert:** 6672.80 EUR
+- **Unrealisierter G/V:** +2059.14 EUR (+44.63%)
+- **Portfolioanteil:** 4.36%
+- **Dividenden erhalten:** 1021.64 EUR
+- **Bewertung:** No current P/E or P/B figure was disclosed in the sources reviewed this week; the share price has ticked up slightly from last week's level, holding near its recent highs after the September interim dividend payment. With H1 2026 fundamentals still strong (underlying EBITDA +28%, free cash flow +75%) and cost-cutting on track toward the USD 1.8 billion year-end target, **holding** the position remains reasonable given the +44.63% unrealized gain and steady dividend income; Q3 2026 production results (due 13 October 2026) remain the next key catalyst to watch.
 
-## Recent News
-- Rio Tinto plans to **expand its metals trading business**, including trading more third-party metal (with alumina and copper as focus areas) and derivatives, as part of new CEO Simon Trott's push to make the business more agile ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/mining-giant-rio-tinto-plans-to-expand-metals-trading-business)).
-- Rio Tinto and the **Nyangumarta Warrarn Aboriginal Corporation (NWAC)** signed a Project Agreement on 10 September 2026 for the proposed **Winu copper-gold mine** in Western Australia ([riotinto.com](https://www.riotinto.com/en/news)).
-- Rio Tinto and the **Ngarlawangga Aboriginal Corporation** signed an Interim Modernised Agreement on 8 September 2026, strengthening their partnership ([riotinto.com](https://www.riotinto.com/en/news)).
-- Rio Tinto is scheduled to release its **Q3 2026 production results on 13 October 2026**, the next major near-term catalyst ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/mining-giant-rio-tinto-plans-to-expand-metals-trading-business)).
-- The **2026 interim dividend of 211.00 US cents per share** was paid on 24 September 2026, within this reporting period ([riotinto.com](https://www.riotinto.com/en/news)).
+## Aktuelle Meldungen
+- Rio Tinto and Chalco completed/advanced their **joint acquisition of Votorantim's 68.596% stake in Companhia Brasileira de Alumínio (CBA)**, a vertically integrated low-carbon aluminium business in Brazil backed by 1.6 GW of renewable power assets; Rio Tinto's pro-rata share is USD 297.8 million ([riotinto.com](https://www.riotinto.com/en/news/releases/2026/rio-tinto-strengthens-its-global-low-carbon-aluminium-footprint-through-joint-acquisition-with-chalco-of-votorantims-interest-in-cba)).
+- Rio Tinto and **Shougang Group are trialling carbon capture technology** at Shougang's Jingtang site in China, piloting a facility able to process up to 3,000 m³/hour of blast furnace gas and capture up to 10,000 tonnes of CO₂ per year ([gmk.center](https://gmk.center/en/news/rio-tinto-and-shougang-group-are-trialling-carbon-capture-technology-in-china/)).
+- Rio Tinto confirmed details of its **2026 interim dividend and Dividend Reinvestment Plan (DRP)**, maintaining a fully franked payment of USD 2.11 per share for the six months ended 30 June 2026 ([TipRanks](https://tipranks.com/news/company-announcements/rio-tinto-confirms-details-of-2026-interim-dividend-and-drp)).
+- Rio Tinto is scheduled to release its **Q3 2026 production results on 13 October 2026**, the next major near-term catalyst.
+- An operational growth update (7 September 2026, carried forward) outlined plans to lift global **iron ore sales capacity from 346 million tonnes (2025) to a mid-term 425–440 million tonnes**, anchored by the Simandou project in Guinea and the Rhodes Ridge asset in Western Australia ([SMM](https://news.metal.com/newscontent/104103684-rio-tinto-targets-425-to-440-million-tonnes-in-mid-term-iron-ore-capacity)).
 
 ## Management
-- **Simon Trott** continues as Chief Executive. This week's most notable development is his push to **expand Rio Tinto's metals trading arm**, adding third-party metal and derivatives trading (with alumina and copper as initial focus areas) as part of a broader effort to make the group more agile ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/mining-giant-rio-tinto-plans-to-expand-metals-trading-business)).
-- At the 2026 AGM, Trott had earlier stressed a renewed focus on **safety** following three fatalities, alongside a "winning formula" built on advantaged assets in iron ore, copper, aluminium and lithium, supported by operational excellence and disciplined capital allocation ([The Globe and Mail](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1764146/rio-tinto-ceo-sets-growth-ambition-on-safety-productivity-and-copper-led-expansion/)).
-- No new senior leadership appointments or departures were identified for 19.09.–26.09.2026.
+- **Simon Trott** continues as Chief Executive, with his cost-cutting and productivity programme remaining the dominant management theme: USD 870 million in efficiencies already banked by mid-2026, with an annualised run-rate target of USD 1.8 billion by year-end and roughly USD 1.2 billion in annual savings targeted thereafter ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/rio-tinto-s-half-year-profit-rises-on-strong-commodity-prices)).
+- Trott has described Rio Tinto as a "good bet" amid the AI-driven commodity boom and noted the company is still assessing how **geopolitical uncertainty** could affect commodity demand and customer behaviour ([Bloomberg](https://www.bloomberg.com/news/videos/2026-07-29/rio-tinto-says-iron-ore-demand-remains-resilient-stable-video)).
+- At the 2026 AGM in Perth (carried forward), Trott outlined plans to unlock **USD 5–10 billion** from the company's asset base through divestments and operational efficiencies, alongside a renewed safety focus.
+- No new senior leadership appointments or departures were identified for this reporting period (24.09.–01.10.2026).
 
-## Financials
-- **2026 interim dividend: 211.00 US cents per share**, paid on 24 September 2026 (within this reporting period).
-- **H1 2026 results (carried forward):** underlying EBITDA up 28% to USD 14.8 billion, interim dividend up 43% to USD 3.4 billion, free cash flow up 75% to USD 3.8 billion, copper equivalent production up 3%; Oyu Tolgoi copper output up more than 30% ([Yahoo Finance](https://finance.yahoo.com/markets/commodities/articles/rio-tinto-releases-second-quarter-222600568.html)).
-- **Cost-cutting progress:** USD 870 million in efficiencies delivered by mid-2026 against a raised year-end target of USD 1.8 billion, with annual savings of roughly USD 1.2 billion targeted in the years ahead ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-28/rio-tinto-s-half-year-profit-rises-on-strong-commodity-prices)).
+## Finanzielles
+- **2026 interim dividend: USD 2.11 (211.00 US cents) per share**, fully franked, confirmed together with DRP details for holders of Rio Tinto Limited ordinary shares ([TipRanks](https://tipranks.com/news/company-announcements/rio-tinto-confirms-details-of-2026-interim-dividend-and-drp)).
+- **H1 2026 results (carried forward):** underlying EBITDA up 28% to USD 14.8 billion, interim dividend up 43% to USD 3.4 billion, free cash flow up 75% to USD 3.8 billion, copper equivalent production up 3%, with Copper, Aluminium and Lithium now contributing more than 50% of underlying EBITDA.
+- **Pilbara iron ore** achieved its highest H1 production since 2018, and **Oyu Tolgoi copper output** rose more than 30% in H1 2026.
 - No explicit current P/E or P/B ratio was disclosed in the sources reviewed this period.
 
-## Strategy & Outlook
-- **New growth lever – trading expansion:** management is broadening the metals marketing/trading business (third-party metal plus derivatives, focused on alumina and copper) to generate additional agility and margin beyond mined production ([Bloomberg](https://www.bloomberg.com/news/articles/2026-09-24/mining-giant-rio-tinto-plans-to-expand-metals-trading-business)).
-- **Copper-led growth continues:** the Winu copper-gold project agreement with NWAC and ongoing Oyu Tolgoi ramp-up underpin the "copper-led expansion" ambition set out at the 2026 AGM.
-- **Cost discipline and portfolio diversification remain on track:** the group continues toward its USD 1.8 billion year-end productivity target, and prior 2026 moves (CBA joint acquisition with Chalco, Nemaska Lithium investment) continue to diversify the portfolio beyond iron ore.
-- **Community and social-licence work continues:** new agreements with Traditional Owner groups (Winu, Ngarlawangga) support the social licence underpinning Western Australian operations.
-- Key watch items: **Q3 2026 production results (13 October 2026)**, progress on the metals trading expansion, and delivery of the USD 1.8 billion productivity target by year-end 2026.
+## Strategie & Ausblick
+- **Portfolio diversification continues:** the completed CBA joint acquisition with Chalco expands Rio Tinto's low-carbon aluminium footprint in Brazil, adding to earlier 2026 moves such as the Nemaska Lithium investment (Québec) and the Zulti South mine-life extension in South Africa.
+- **Decarbonisation initiatives advancing:** the Shougang carbon capture pilot in China signals continued investment in emissions-reduction technology across the value chain.
+- **Iron ore capacity expansion on track:** mid-term guidance targets 425–440 million tonnes of sales capacity, driven by Simandou (Guinea) and Rhodes Ridge (Western Australia).
+- **Cost discipline remains central:** the group continues toward its USD 1.8 billion year-end productivity target, with Trott's broader ambition to unlock USD 5–10 billion from the asset base via divestments and efficiencies.
+- Key watch items: **Q3 2026 production results (13 October 2026)**, progress on the USD 1.8 billion productivity target, and further developments on the CBA and Simandou projects.
 
-## Sources
-- [Mining Giant Rio Tinto Plans to Expand Metals Trading Business (Bloomberg)](https://www.bloomberg.com/news/articles/2026-09-24/mining-giant-rio-tinto-plans-to-expand-metals-trading-business)
-- [Rio Tinto – News (official)](https://www.riotinto.com/en/news)
-- [Rio Tinto CEO Sets Growth Ambition on Safety, Productivity and Copper-Led Expansion (The Globe and Mail)](https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/1764146/rio-tinto-ceo-sets-growth-ambition-on-safety-productivity-and-copper-led-expansion/)
-- [Rio Tinto's CEO Focused on Cost Cuts, Says Mining Giant Is Good Bet in AI Boom (Bloomberg)](https://www.bloomberg.com/news/articles/2026-07-28/rio-tinto-s-half-year-profit-rises-on-strong-commodity-prices)
-- [Rio Tinto releases second quarter 2026 production results (Yahoo Finance)](https://finance.yahoo.com/markets/commodities/articles/rio-tinto-releases-second-quarter-222600568.html)
-- [Rio Tinto releases second quarter 2026 production results (riotinto.com)](https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-second-quarter-2026-production-results)
+## Quellen
 - [Rio Tinto strengthens its global low-carbon aluminium footprint through joint acquisition with Chalco of Votorantim's interest in CBA (riotinto.com)](https://www.riotinto.com/en/news/releases/2026/rio-tinto-strengthens-its-global-low-carbon-aluminium-footprint-through-joint-acquisition-with-chalco-of-votorantims-interest-in-cba)
-- [RIO TINTO PLC - Form 6-K, Nemaska Lithium (SEC)](https://www.sec.gov/Archives/edgar/data/863064/000086306426000015/ex08d18nemaskamr.htm)
-- [Rio Tinto Group (RIO) Stock Price, News, Quote & History (Yahoo Finance)](https://finance.yahoo.com/quote/RIO/)
+- [Rio Tinto and Shougang Group are trialling carbon capture technology in China (gmk.center)](https://gmk.center/en/news/rio-tinto-and-shougang-group-are-trialling-carbon-capture-technology-in-china/)
+- [Rio Tinto Confirms Details of 2026 Interim Dividend and DRP (TipRanks)](https://tipranks.com/news/company-announcements/rio-tinto-confirms-details-of-2026-interim-dividend-and-drp)
+- [Rio Tinto Maintains 2026 Guidance As Iron Ore Sales And Lithium Output Rise (DirectorsTalk Interviews)](https://www.directorstalkinterviews.com/rio-tinto-maintains-2026-guidance-as-iron-ore-sales-and-lithium-output-rise/4121256407)
+- [Rio Tinto targets 425 to 440 million tonnes in mid-term iron ore capacity (Shanghai Metals Market)](https://news.metal.com/newscontent/104103684-rio-tinto-targets-425-to-440-million-tonnes-in-mid-term-iron-ore-capacity)
+- [Rio Tinto's CEO Focused on Cost Cuts, Says Mining Giant Is Good Bet in AI Boom (Bloomberg)](https://www.bloomberg.com/news/articles/2026-07-28/rio-tinto-s-half-year-profit-rises-on-strong-commodity-prices)
+- [Rio Tinto Says Iron Ore Demand Remains Resilient, Stable (Bloomberg video)](https://www.bloomberg.com/news/videos/2026-07-29/rio-tinto-says-iron-ore-demand-remains-resilient-stable-video)
+- [Rio Tinto: Step-change in performance delivering higher shareholder returns (riotinto.com)](https://www.riotinto.com/en/news/releases/2026/rio-tinto-step-change-in-performance-delivering-higher-shareholder-returns)
