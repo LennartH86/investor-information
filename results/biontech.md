@@ -1,47 +1,49 @@
 # BioNTech (ADR) (BNTX)
-_Aktualisiert/Updated: 27.09.2026 | Zeitraum/Period: 20.09.2026 – 27.09.2026_
+_Aktualisiert: 02.10.2026 | Zeitraum: 25.09.2026 – 02.10.2026_
 
-## Portfolio-Analyse / Portfolio Analysis
-- **Position:** 56,27053 Aktien/shares
-- **Kaufkurs (Ø) / Avg. purchase price:** 145,33 EUR
-- **Aktueller Kurs / Current price:** 86,50 EUR
-- **Marktwert / Market value:** 4.867,40 EUR
-- **Unrealisierter G/V / Unrealized gain/loss:** -3.369,98 EUR (-40,91%)
-- **Portfolioanteil / Portfolio allocation:** 3,16%
-- **Dividenden erhalten / Dividends received:** 0 EUR
-- **Bewertung / Assessment:** Der Kurs in EUR blieb mit 86,50 EUR gegenüber der Vorwoche (86,30 EUR) nahezu unverändert, obwohl die Aktie in USD zeitweise auf rund 100,87 USD anzog – Analysten sind hier gespalten, nachdem BMO Capital Markets kürzlich auf "Market Perform" abgestuft und das Kursziel auf 105 USD gesenkt hat. Klassische Bewertungskennzahlen (KGV/KBV) bleiben aufgrund anhaltender operativer Verluste (Q2 2026: Nettoverlust 820,8 Mio. EUR) nicht aussagekräftig; die Bewertung stützt sich weiterhin primär auf die hohe Nettoliquidität (~16,6–17,2 Mrd. EUR), das laufende Aktienrückkaufprogramm sowie die Onkologie-Pipeline. Fortgesetzte Insiderverkäufe von CEO Ugur Sahin (u. a. 30.000 und 39.000 ADS in dieser Woche) und der ungelöste Werksstandort-Streit belasten weiterhin die Stimmung, ohne dass sich am grundsätzlichen Bild seit letzter Woche viel geändert hätte. Bei einem Buchverlust von -40,91% bleibt Halten die naheliegende Empfehlung; eine Aufstockung erscheint erst nach Klärung der Werksfrage und einer stabileren Kursentwicklung sinnvoll, eine Reduzierung ist angesichts der intakten Onkologie-These und der starken Bilanz aktuell nicht zwingend geboten.
+## Portfolio-Analyse
+- **Position:** 56,27053 Aktien
+- **Kaufkurs (Ø):** 145,33 EUR
+- **Aktueller Kurs:** 86,00 EUR
+- **Marktwert:** 4.839,27 EUR
+- **Unrealisierter G/V:** -3.398,11 EUR (-41,25%)
+- **Portfolioanteil:** 3,16%
+- **Dividenden erhalten:** 60,28 EUR
+- **Bewertung:** Der Kurs gab gegenüber der Vorwoche leicht nach (86,00 EUR vs. 86,50 EUR), der Buchverlust vertiefte sich dadurch minimal auf -41,25%. Klassische Kennzahlen wie KGV oder KBV bleiben aufgrund anhaltender operativer Verluste (H1 2026: Nettoverlust 1.352,7 Mio. EUR) nicht aussagekräftig, und die Dividendenrendite ist mit bislang 60,28 EUR kumulierten Ausschüttungen seit Erstkauf (2021) marginal, da BioNTech keine regelmäßige Dividende zahlt. Angesichts der hohen Nettoliquidität (~17,2 Mrd. EUR), des laufenden Aktienrückkaufprogramms und der bevorstehenden Katalysatoren (Q3-Zahlen Anfang November, CEO-Wechsel, Onkologie-Pipeline) bleibt Halten die naheliegende Empfehlung; eine Aufstockung erscheint erst nach einer klareren Kursstabilisierung und der ausstehenden Werksstandort-Entscheidung sinnvoll, eine Reduzierung ist angesichts der intakten langfristigen Onkologie-These derzeit nicht zwingend geboten.
 
-  In EUR terms the price was essentially flat week-on-week (EUR 86.50 vs. EUR 86.30), even though the ADS briefly touched roughly USD 100.87 – analysts remain split after BMO Capital Markets downgraded the stock to "Market Perform" and cut its price target to USD 105. Classic valuation ratios (P/E, P/B) remain uninformative given continued operating losses (Q2 2026 net loss of EUR 820.8m); the valuation continues to rest primarily on the large net cash position (~EUR 16.6–17.2bn), the ongoing buyback program, and the oncology pipeline. Continued insider selling by CEO Ugur Sahin (30,000 and 39,000 ADSs disclosed this week) and the still-unresolved factory-site dispute keep weighing on sentiment, without much change to the overall picture versus last week. With an unrealized loss of -40.91%, holding remains the sensible course; adding to the position looks reasonable only once the factory question is resolved and the share price stabilizes more durably, while a reduction is not clearly warranted given the intact oncology thesis and the strong balance sheet.
-
-## Aktuelle Meldungen / Recent News
-- Die BNTX-Aktie kletterte am 22.09.2026 zeitweise auf rund 100,87 USD (+2,9%); Analysten bewerten die weitere Entwicklung unterschiedlich. / The BNTX share price climbed to roughly USD 100.87 (+2.9%) on September 22, 2026; analysts are split on the outlook from here.
-- Am 18.09.2026 billigte der Aufsichtsrat KPMG AG als neuen unabhängigen Abschlussprüfer für das Geschäftsjahr zum 31.12.2027. / On September 18, 2026, the supervisory board approved KPMG AG as the company's new independent auditor for the fiscal year ending December 31, 2027.
-- Health Canada erteilte die Zulassung für den an die Omicron-Variante XFG angepassten COVID-19-Impfstoff von Pfizer/BioNTech. / Health Canada authorized the Pfizer/BioNTech Omicron XFG-adapted COVID-19 vaccine.
-- CEO Ugur Sahin verkaufte im Rahmen seines planmäßigen 10b5-1-Programms weitere Aktien: 30.000 ADS am 23.09. (Ø ca. 99,40 USD) sowie 39.000 ADS, gemeldet am 26.09. / CEO Ugur Sahin sold further shares under his pre-scheduled 10b5-1 plan: 30,000 ADSs on Sep 23 (avg. ~USD 99.40) and 39,000 ADSs disclosed on Sep 26.
-- Die Entscheidung über die Werksstandorte Marburg, Idar-Oberstein und Singapur bleibt weiterhin offen; in dieser Berichtswoche gab es dazu keine neue Ankündigung. / The decision on the Marburg, Idar-Oberstein and Singapore manufacturing sites remains pending; no new announcement was made on this during the reporting week.
+## Aktuelle Meldungen
+- Im Berichtszeitraum (25.09.–02.10.2026) hat BioNTech keine neue offizielle Pressemitteilung veröffentlicht; die jüngsten Unternehmensnachrichten stammen weiterhin aus dem Spätsommer (Q2-Zahlen, CEO-Nachfolge, Zulassungserweiterungen).
+- Das Unternehmen bezeichnet 2026 weiterhin als "katalysatorreiches Jahr": Sieben Spätphasen-Datenablesungen und bis zu 15 laufende Phase-3-Studien werden bis Jahresende erwartet, vor allem in der Onkologie.
+- Der nächste wichtige Termin ist die Veröffentlichung der Q3-2026-Zahlen, die für Anfang November 2026 erwartet wird.
+- Die Entscheidung über die Werksstandorte in Deutschland (Marburg, Idar-Oberstein) und Singapur bleibt weiterhin offen; im Berichtszeitraum gab es dazu keine neue Ankündigung.
 
 ## Management
-- Die Bestellung von KPMG als neuem Abschlussprüfer ab Geschäftsjahr 2027 ist eine Governance-/Verwaltungsmeldung, die im Zuge des laufenden Führungswechsels erfolgt. / The appointment of KPMG as new auditor from FY2027 is a governance/administrative update coming alongside the ongoing leadership transition.
-- Sahins fortgesetzte, planmäßige Insiderverkäufe (in dieser Woche über 69.000 ADS in zwei gemeldeten Transaktionen) bleiben im Marktfokus, gelten aber als vorab festgelegte 10b5-1-Verkäufe vor seinem geplanten Abschied Ende 2026 und dem Aufbau der neuen Venture "Arife". / Sahin's continued, pre-scheduled insider sales (over 69,000 ADSs across two disclosed transactions this week) remain in the market spotlight but are framed as pre-set 10b5-1 sales ahead of his planned exit by end-2026 and the buildup of the new venture "Arife".
-- Am Übergangsfahrplan hat sich diese Woche nichts geändert: Guido Oelkers (zuvor CEO von Sobi) übernimmt spätestens zum 01.02.2027 als neuer CEO. / No change to the transition timeline this week: Guido Oelkers (formerly CEO of Sobi) takes over as new CEO no later than February 1, 2027.
+- Dr. Guido Oelkers (zuvor CEO von Swedish Orphan Biovitrum/Sobi) übernimmt spätestens zum 1. Februar 2027 als neuer CEO von Mitgründer Prof. Ugur Sahin; bei Sobi hatte Oelkers zwischen 2017 und 2026 den Umsatz mehr als vervierfacht und die Profitabilität deutlich gesteigert.
+- Mitgründer Prof. Ugur Sahin und Prof. Özlem Türeci planen, BioNTech bis Ende 2026 zu verlassen und ein neues mRNA-Forschungsunternehmen aufzubauen – ein strategisch bedeutsamer Führungswechsel, der die operative Kontinuität testen wird.
+- Sahin hatte bereits im Mai 2026 angekündigt, auf der Hauptversammlung zum letzten Mal als Aufsichtsratsvorsitzender zu sprechen; der Übergabeprozess verläuft bislang planmäßig.
 
-## Finanzielles / Financials
-- Keine neuen Quartalszahlen in dieser Berichtswoche; letzter Stand bleibt Q2 2026 mit Umsatz von 105,6 Mio. EUR, einem Nettoverlust von 820,8 Mio. EUR (H1: -1.352,7 Mio. EUR) und einer Umsatzprognose 2026 von 1,6–1,9 Mrd. EUR. Q3-2026-Zahlen werden für Anfang November 2026 erwartet. / No new quarterly figures this reporting week; the latest data remain Q2 2026 with revenue of EUR 105.6m, a net loss of EUR 820.8m (H1: -EUR 1,352.7m), and full-year 2026 revenue guidance of EUR 1.6–1.9bn. Q3 2026 results are expected around early November 2026.
-- Das Aktienrückkaufprogramm (bis zu 1,0 Mrd. USD, gültig bis Mai 2027) läuft weiter; bis Q2 2026 wurden bereits rund 1,69 Mio. ADS zu durchschnittlich 89,50 USD zurückgekauft. / The share buyback program (up to USD 1.0bn, valid through May 2027) continues; approximately 1.69m ADSs had already been repurchased at an average price of USD 89.50 as of Q2 2026.
-- Die zuletzt gemeldete Nettoliquidität von rund 16,6–17,2 Mrd. EUR bleibt der jüngste bekannte Wert und stützt die Bewertung angesichts der operativen Verluste. / The most recently reported net cash position of roughly EUR 16.6–17.2bn remains the latest known figure and continues to support the valuation given ongoing operating losses.
+## Finanzielles
+- Q1 2026: Umsatz 118,1 Mio. EUR (Vorjahr 182,8 Mio. EUR), Nettoverlust 531,9 Mio. EUR (Vorjahr 415,8 Mio. EUR), verwässerter Verlust je Aktie 2,10 EUR.
+- Q2 2026: Umsatz 105,6 Mio. EUR (Vorjahr 260,8 Mio. EUR), Nettoverlust 820,8 Mio. EUR auf IFRS-Basis bzw. 562,3 Mio. EUR bereinigt – maßgeblich bedingt durch rückläufige COVID-19-Impfstofferlöse.
+- H1 2026 gesamt: Umsatz 223,7 Mio. EUR (Vorjahr 443,6 Mio. EUR), Nettoverlust 1.352,7 Mio. EUR (bereinigt 1.056,9 Mio. EUR) gegenüber 802,4 Mio. EUR im Vorjahreszeitraum.
+- Die Nettoliquidität (Zahlungsmittel plus Wertpapiere) liegt zuletzt bei rund 17,2 Mrd. EUR und bleibt die zentrale Stütze der Bewertung angesichts der anhaltenden operativen Verluste.
+- Die Umsatzprognose für das Gesamtjahr 2026 liegt bei 1,6–1,9 Mrd. EUR; Q3-2026-Zahlen werden Anfang November 2026 erwartet.
 
-## Strategie & Ausblick / Strategy & Outlook
-- Analysten bleiben gespalten: BMO Capital Markets stufte die Aktie auf "Market Perform" ab und senkte das Kursziel von 128 auf 105 USD, während der zwischenzeitliche Kursanstieg auf rund 101 USD zeigt, dass Teile des Marktes die PRESERVE-003-Onkologiedaten und das Rückkaufprogramm honorieren. / Analysts remain split: BMO Capital Markets downgraded the stock to "Market Perform" and cut its price target from USD 128 to USD 105, while the interim rise toward USD 101 shows part of the market rewarding the PRESERVE-003 oncology data and the buyback program.
-- Die Onkologie-Pipeline (Ziel: 15 Phase-3-Studien bis Jahresende 2026) bleibt der zentrale langfristige Werttreiber, während das COVID-Impfstoffgeschäft weiter an Bedeutung verliert. / The oncology pipeline (targeting 15 Phase 3 trials by year-end 2026) remains the central long-term value driver as the COVID vaccine business continues to shrink in importance.
-- Wichtige anstehende Ereignisse: die weiterhin offene Werksentscheidung Deutschland/Singapur, die Q3-2026-Zahlen (~Anfang November), weitere Pipeline-Updates sowie der Fortgang des Führungswechsels zu Guido Oelkers (bis 01.02.2027) und der parallele Aufbau von Arife durch Sahin/Türeci. / Key upcoming events: the still-pending Germany/Singapore factory decision, Q3 2026 results (~early November), further pipeline updates, and continued progress on the leadership transition to Guido Oelkers (by Feb 1, 2027) alongside the parallel buildup of Arife by Sahin/Türeci.
+## Strategie & Ausblick
+- Die Onkologie-Pipeline bleibt der zentrale langfristige Werttreiber: Sieben Spätphasen-Datenablesungen und 15 laufende Phase-3-Studien bis Jahresende 2026 sind geplant, u. a. zu Pumitamig, dem B7-H3-ADC Elfetabart Drozuntecan, Gotistobart (Anti-CTLA-4) und der mRNA-Krebsimmuntherapie BNT113.
+- Zukäufe der vergangenen Jahre (CureVac mit einem Transaktionswert von rund 1,25 Mrd. USD, Biotheus für bis zu 950 Mio. USD zur Sicherung der globalen Rechte an BNT327, sowie InstaDeep für KI-Kompetenzen) stärken die Onkologie- und Technologie-Pipeline, belasten aber weiterhin die Marge.
+- Das COVID-19-Impfstoffgeschäft verliert weiter an Bedeutung für den Konzernumsatz, während der Fokus klar auf die Onkologie-Transformation verschoben wird.
+- Wichtige anstehende Ereignisse: Q3-2026-Zahlen (Anfang November), weitere Pipeline-Updates, die ausstehende Werksentscheidung Deutschland/Singapur sowie der Fortgang des Führungswechsels zu Guido Oelkers (bis 01.02.2027) parallel zum Aufbau des neuen Sahin/Türeci-Ventures.
 
-## Quellen / Sources
-- [BioNTech Lung Cancer Data, GSK Brain Metastasis Breakthrough, and Takeda Oral Psoriasis Drug Success (GeneOnline News)](https://www.geneonline.com/20260915-news-highlights-007-news-sep-2026/)
-- [BioNTech SE stock holds near USD 101 as analysts split (ad-hoc-news)](https://www.ad-hoc-news.de/boerse/news/corporate-news/biontech-se-stock-holds-near-usd-101-as-analysts-split/70165167)
-- [BioNTech's Institutional Handover Meets a Fresh Regulatory Win (NewsCase)](https://www.newscase.com/biontechs-institutional-handover-meets-a-fresh-regulatory-win/)
-- [BioNTech (NASDAQ:BNTX) Stock: Insider Ugur Sahin Sells 30,000 Shares (Defense World)](https://www.defenseworld.net/2026/09/26/biontech-nasdaqbntx-stock-insider-ugur-sahin-sells-30000-shares.html)
-- [BioNTech (NASDAQ:BNTX) Stock: Insider Ugur Sahin Sells 39,000 Shares (Defense World)](https://www.defenseworld.net/2026/09/26/biontech-nasdaqbntx-stock-insider-ugur-sahin-sells-39000-shares.html)
-- [BioNTech taps Sobi executive Oelkers as its next CEO (BioPharma Dive)](https://www.biopharmadive.com/news/biontech-ceo-guido-oelkers-sobi-ugur-sahin/826805/)
-- [BioNTech's oncology pivot comes with a new CEO (PharmaVoice)](https://www.pharmavoice.com/news/biontech-oncology-pivot-new-ceo-guido-oelkers/827836/)
-- [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update (BioNTech)](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/08/BioNTech-Announces-Second-Quarter-2026-Financial-Results-and-Corporate-Update.html)
-- [BioNTech | Mediaroom - News](https://www.biontech.com/int/en/home/mediaroom/news.html)
+## Quellen
+- [BioNTech (BNTX) Says 2026 Poised to Be a Catalyst-Rich Year (Newsquawk)](https://www.newsquawk.com/headlines/biontech-bntx-says-2026-poised-to-be-a-catalyst-rich-year-for-biontech-with-continued-late-stage-pipeline-progress-with-candidates-across-immunomodulators-antibody-drug-conjugates-and-mrna-immunotherapies)
+- [BioNTech Provides Strategic Business Update and Outlines 2026 Milestones (BioNTech)](https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/01/biontech-provides-strategic-business-update-and-outlines-2026.html)
+- [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update (BioNTech Investors)](https://investors.biontech.de/news-releases/news-release-details/biontech-announces-second-quarter-2026-financ-/9704056)
+- [BioNTech veröffentlicht Ergebnisse für das erste Quartal 2026 (Börse Online)](https://www.boerse-online.de/dpa-afx/gnw-news-biontech-veroeffentlicht-ergebnisse-fuer-das-erste-quartal-2026-sowie-informationen-zur-geschaeftsentwicklung-522192.html)
+- [BioNTech veröffentlicht Ergebnisse für das zweite Quartal 2026 (Börse Online)](https://www.boerse-online.de/dpa-afx/gnw-news-biontech-veroeffentlicht-ergebnisse-fuer-das-zweite-quartal-2026-sowie-informationen-zur-geschaeftsentwicklung-542602.html)
+- [BioNTech recruits Sobi's Oelkers as next CEO (The Pharma Letter)](https://www.thepharmaletter.com/biotech-news/biontech-recruits-sobi-s-oelkers-as-next-ceo)
+- [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company (Fierce Biotech)](https://fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+- [BioNTech Announces Appointment of Guido Oelkers to Management Board as CEO (1stOncology)](https://www.1stoncology.com/blog/?p=112584)
+- [BioNTech Aktie: Umsatzprognose auf 1,6 bis 1,9 Milliarden gekürzt (Börse Express)](https://www.boerse-express.com/news/articles/biontech-aktie-umsatzprognose-auf-16-bis-19-milliarden-gekuerzt-935671)
+- [BioNTech buys out AI partner InstaDeep for $440M (Endpoints News)](https://endpts.com/?p=390146)
+- [BioNTech Announces Transaction to Acquire CureVac (Big Molecule Watch)](https://www.bigmoleculewatch.com/2025/06/27/biontech-announces-transaction-to-acquire-curevac/)
