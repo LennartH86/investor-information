@@ -1,48 +1,52 @@
 # Allianz (ALV.DE)
-_Aktualisiert: 27.09.2026 | Zeitraum: 20.09.2026 – 27.09.2026_
+_Aktualisiert: 02.10.2026 | Zeitraum: 25.09.2026 – 02.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 6 Aktien
 - **Kaufkurs (Ø):** 367,45 EUR
-- **Aktueller Kurs:** 427,05 EUR
-- **Marktwert:** 2.562,30 EUR
-- **Unrealisierter G/V:** +342,29 EUR (+15,42%)
-- **Portfolioanteil:** 1,66%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Die Aktie war in der Berichtswoche volatil: Nach dem Rekordhoch Anfang September brach der Kurs am 23.09. um rund 3,97% auf ca. 413 EUR ein (Gewinnmitnahmen, nachlassende Rückkaufunterstützung sowie sektorweiter Druck auf Versicherer im Zuge von KI-bezogenen Meta-Nachrichten), erholte sich danach aber bis zum 27.09. wieder auf 427,05 EUR. Analysten sind uneins über die weitere Richtung (Kursziel-Spanne 353–495 EUR), unter anderem wegen der möglichen Milliardenübernahme der britischen AA-Gruppe. Angesichts des Rekord-Halbjahresergebnisses, einer Solvency-II-Quote von 225% und der weiterhin komfortablen +15,4%-Position gegenüber dem Kaufkurs erscheint Halten weiterhin sinnvoll; ein Aufstocken bei weiteren Rücksetzern ist angesichts der soliden Fundamentaldaten vertretbar, sollte aber das M&A-Ausführungsrisiko (AA-Übernahme) berücksichtigen.
+- **Aktueller Kurs:** 411,70 EUR
+- **Marktwert:** 2.470,20 EUR
+- **Unrealisierter G/V:** +250,19 EUR (+11,27%)
+- **Portfolioanteil:** 1,61%
+- **Dividenden erhalten:** 75,54 EUR
+- **Bewertung:** Nach der Erholung auf 427,05 EUR Ende September ist die Aktie in der Berichtswoche wieder auf 411,70 EUR zurückgefallen – Medien sprechen von einer "unübersehbaren Schwächephase", während andere Kommentatoren das Spannungsfeld aus Exportoptimismus und Geopolitik als Belastungsfaktor nennen. Fundamental bleibt das Bild aber intakt: Rekord-Halbjahresergebnis, bestätigte Jahresprognose von 17,4 Mrd. EUR und eine für 2025 um 11% erhöhte Dividende von 17,10 EUR je Aktie stützen die Bewertung. Mit weiterhin komfortablen +11,27% gegenüber dem Kaufkurs und 75,54 EUR bereits vereinnahmten Dividenden erscheint Halten sinnvoll; die anstehenden Q3-Zahlen (12.11.2026) sowie der angekündigte Vorstandsumbau sind als nächste Kurstreiber im Blick zu behalten, bevor über ein Aufstocken entschieden wird.
 
 ## Aktuelle Meldungen
-- 23.09.2026: Allianz-Aktie fiel um 3,97% auf rund 413,10 EUR – Gewinnmitnahmen, nachlassende Unterstützung durch das Aktienrückkaufprogramm sowie branchenweiter Druck auf Versicherer nach KI-bezogenen Entwicklungen rund um Meta wurden als Gründe genannt.
-- 25.09.2026: Aktie notierte bei 423,60 EUR an der Xetra nach dem Rekord-Halbjahresergebnis; Analystenkursziele reichen aktuell von 353 bis 495 EUR – ein ungewöhnlich breites Meinungsspektrum.
-- Bis zum 27.09.2026 erholte sich der Kurs weiter auf 427,05 EUR.
-- Medienberichte (u.a. Sky News, Börsen-Zeitung) zufolge erwägt Allianz eine Übernahme der britischen Pannenhilfe-/Autoclub-Gruppe AA Ltd für rund 5,8 Mrd. GBP/EUR; der Deal wird seit mehreren Monaten sondiert, der aktuelle Status und ein möglicher Abschluss sind noch offen.
+- Kursrücksetzer: Nach dem Zwischenhoch von 427,05 EUR (27.09.) fiel die Aktie in der Berichtswoche auf 411,70 EUR zurück; Börse Express beschreibt eine "unübersehbare Schwächephase" bei Allianz.
+- Ein weiterer Marktkommentar ("Exportoptimismus trifft Geopolitik") verweist auf gegenläufige Einflüsse aus globaler Handelsstimmung und geopolitischen Risiken als Belastung für die Aktie.
+- Allianz hat den Termin für die Q3/9M-2026-Quartalsmitteilung auf den 12.11.2026 festgelegt – die nächsten harten Zahlen stehen also erst in rund sechs Wochen an.
+- Boerse Express hat eine aktuelle Kauf-/Verkaufs-Analyse samt Kursprognose 2026 zur Allianz-Aktie veröffentlicht.
 
 ## Management
-- Keine neuen Management-Meldungen im Berichtszeitraum (20.–27.09.2026); CEO Oliver Bäte bekräftigte zuletzt (Halbjahreszahlen) die Wachstumsstrategie und das Jahresziel von 17,4 Mrd. EUR operativem Ergebnis.
+- Vorstandsumbau bei Allianz SE: Klaus-Peter Röhler verlässt den Vorstand, Tomas Kunzmann folgt ihm Anfang 2027 im Schadenbusiness-Ressort nach.
+- Im Zuge der Umstrukturierung schrumpft der Vorstand von Allianz SE auf acht Mitglieder.
+- CEO Oliver Bäte bekräftigte auf der Hauptversammlung 2026 die Wachstumsstrategie: Gesamtgeschäftsvolumen 2025 von rund 187 Mrd. EUR, operatives Rekordergebnis von 17,4 Mrd. EUR und ein um rund 13% gestiegener Kerngewinn je Aktie von 28,61 EUR.
+- Allianz-UK-CEO Colm Holmes verwies auf Rekordgewinne in Großbritannien im sechsten Berichtszeitraum in Folge (H1 2026).
 
 ## Finanzielles
-- Q1 2026: Operatives Ergebnis von 4,5 Mrd. EUR, +6,6% ggü. Vorjahr – stärkstes erstes Quartal der Unternehmensgeschichte laut CEO Bäte.
-- Q2 2026: Operatives Ergebnis von 4,874 Mrd. EUR, +10,6% ggü. Vorjahresquartal – höchster je erzielter Wert für ein zweites Quartal; Analystenerwartung von rund 4,6 Mrd. EUR deutlich übertroffen.
-- H1 2026 gesamt: Operatives Rekordergebnis von 9,4 Mrd. EUR, +8,6% ggü. Vorjahreszeitraum.
-- Solvency-II-Quote zum 30.06.2026 bei 225% (Q1 2026: 218%) – komfortable Kapitalausstattung auch für weitere Übernahmen.
-- Jahresprognose 2026 bestätigt: Operatives Ergebnis von 17,4 Mrd. EUR (±1 Mrd. EUR); Management sieht sich auf Kurs.
-- Aktienrückkaufprogramm (gestartet 13.03.2026, Volumen bis 2,5 Mrd. EUR, Laufzeit bis Ende 2026) läuft weiter, laut Berichten mit zuletzt nachlassender Kaufintensität, was als ein Grund für den Kursrücksetzer am 23.09. genannt wurde.
+- H1 2026: Operatives Rekordergebnis von 9,4 Mrd. EUR (+8,6% ggü. Vorjahr); alle Geschäftsbereiche liegen über dem Mittelwert ihrer Jahresziele.
+- Q2 2026: Operatives Ergebnis von 4,874 Mrd. EUR (+10,6% ggü. Vorjahresquartal) – Rekordwert für ein zweites Quartal, deutlich über Analystenerwartungen (~4,6 Mrd. EUR); Gesamtgeschäftsvolumen rund 45,6 Mrd. EUR (+2,5% nominal, +5,7% intern).
+- Jahresprognose 2026 bestätigt: operatives Ergebnis von 17,4 Mrd. EUR (±1 Mrd. EUR).
+- Dividende für Geschäftsjahr 2025 um 11% auf 17,10 EUR je Aktie erhöht; ergänzt durch laufendes Aktienrückkaufprogramm (bis 2,5 Mrd. EUR, davon 1,4 Mrd. EUR bereits im H1 2026 umgesetzt).
+- Q3/9M-2026-Zahlen werden am 12.11.2026 veröffentlicht.
 
 ## Strategie & Ausblick
-- Mögliche Übernahme der britischen AA Ltd (Pannenhilfe/Autoclub) für rund 5,8 Mrd. EUR – würde die M&A-Offensive der Allianz fortsetzen; Ausgang derzeit offen.
-- Fortsetzung der Expansion in Asien (u.a. Übernahme von UOB Asset Management, ca. 376 Mio. EUR, Closing für 2027 erwartet) und punktuelle Zukäufe wie die Beteiligung an HSBC Life Singapore.
-- Bank of America sieht im Rahmen des Strategieplans 2025–2027 weiterhin rund 10 Mrd. EUR M&A-Kapazität für Bolt-on-Übernahmen, die den Gewinn je Aktie um bis zu ca. 10% steigern könnten.
-- Anhaltend hohe Solvenzquote (225%) gibt dem Management finanziellen Spielraum für weitere strategische Zukäufe, erhöht aber auch die Wahrscheinlichkeit weiterer M&A-Nachrichten und damit verbundener Kursschwankungen.
+- PIMCO-Rückkauf: Allianz wendet rund 1,6 Mrd. EUR für einen Rückkauf im Zusammenhang mit PIMCO auf – Teil der aktiven Kapitalsteuerung der Gruppe.
+- In Portugal verhandelt Allianz über die Übernahme des Versicherers Caravela für rund 150 Mio. EUR.
+- Übernahme von HSBC Life Singapore (~2 Mrd. EUR) sowie langfristige Vertriebskooperation mit HSBC; Closing wird für H1 2027 erwartet, mittelfristig wird eine zweistellige Rendite aus der Transaktion erwartet.
+- Allianz Global Investors gilt als Höchstbietender für das Asset-Management-Geschäft der United Overseas Bank (verwaltetes Vermögen > 27,5 Mrd. EUR); endgültige Entscheidung steht noch aus.
+- Insgesamt setzt Allianz die M&A-Offensive (PIMCO, Caravela, HSBC Life Singapore, UOB) fort, parallel zum laufenden Aktienrückkaufprogramm – dies hält die Kapitalallokation im Fokus der Anleger, bei gleichzeitig bestätigter operativer Rekordprognose für 2026.
 
 ## Quellen
-- [Allianz stock falls 3.97 percent ahead of the open](https://www.ad-hoc-news.de/boerse/news/vorboerse/allianz-stock-falls-3-97-percent-ahead-of-the-open/70174483)
-- [Allianz stock steadies after a 2.9 percent pullback](https://www.ad-hoc-news.de/boerse/news/corporate-news/allianz-stock-steadies-after-a-2-9-percent-pullback/70166045)
-- [Allianz stock gains 1.05 percent as analyst targets split](https://www.ad-hoc-news.de/boerse/news/corporate-news/allianz-stock-gains-1-05-percent-as-analyst-targets-split/70184090)
-- [Allianz stock rises 1.65 percent as profit hits a record](https://www.ad-hoc-news.de/boerse/news/corporate-news/allianz-stock-rises-1-65-percent-as-profit-hits-a-record/70178227)
-- [Allianz Aktie: Übernahme der britischen AA-Gruppe erwogen (Börse Express)](https://www.boerse-express.com/news/articles/allianz-aktie-uebernahme-der-britischen-aa-gruppe-erwogen-943675)
-- [Allianz vor der Entscheidung: Rekordkurs trifft auf Milliarden-Übernahme (Börse Express)](https://www.boerse-express.com/news/articles/allianz-vor-der-entscheidung-rekordkurs-trifft-auf-milliarden-uebernahme-943944)
-- [Allianz erwägt wohl Milliardenübernahme in Großbritannien (Börsen-Zeitung)](https://www.boersen-zeitung.de/banken-finanzen/allianz-erwaegt-wohl-milliardenuebernahme-in-grossbritannien)
-- [Allianz Aktie: AA-Ltd-Übernahme für 5,8 Milliarden im Gespräch (Börse Global)](https://www.boerse-global.de/allianz-aktie-aa-ltd-uebernahme-fuer-58-milliarden-im-gespraech/828438)
-- [Allianz Quartalszahlen 2Q 2026: Rekordgewinn operativ, weniger unter dem Strich (Cash.)](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
-- [Allianz Quartalszahlen 2Q 2026 | Rekordergebnis und auf Kurs Ziele zu erreichen (Allianz)](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
-- [Allianz Quartalszahlen 1Q 2026 | Operatives Rekordergebnis (Allianz)](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
+- [Allianz Aktie: Schwächephase unübersehbar (Börse Express)](https://www.boerse-express.com/news/articles/allianz-aktie-schwaechephase-unuebersehbar-877808)
+- [Allianz Aktie: Exportoptimismus trifft Geopolitik (Börse Express)](https://www.boerse-express.com/news/articles/allianz-aktie-exportoptimismus-trifft-geopolitik-889779)
+- [Allianz Aktie kaufen oder verkaufen? Analyse & Prognose 2026 (Börse Express)](https://www.boerse-express.com/analyse/allianz-aktie-kaufen-oder-verkaufen)
+- [Allianz baut SE-Vorstand um: Tomas Kunzmann folgt Anfang 2027 auf Klaus-Peter Röhler (Autohaus)](https://www.autohaus.de/nachrichten/schadenbusiness/allianz-baut-vorstand-um-klaus-peter-roehler-geht-tomas-kunzmann-rueckt-auf-3779406)
+- [Allianz Aktie: Vorstand schrumpft auf acht Mitglieder (Börse Express)](https://www.boerse-express.com/news/articles/allianz-aktie-vorstand-schrumpft-auf-acht-mitglieder-945043)
+- [Oliver Bäte, Chairman of the Board of Management – Rede zur Hauptversammlung 2026 (Allianz)](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html)
+- [Quartalsmitteilung: 2Q und 6M 2026 (Allianz)](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
+- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich (Cash.)](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
+- [Allianz Aktie: 1,6 Milliarden für PIMCO-Rückkauf (Börse Express)](https://www.boerse-express.com/news/articles/allianz-aktie-16-milliarden-fuer-pimco-rueckkauf-934083)
+- [Allianz Aktie: 150-Millionen-Deal mit Caravela (Börse Express)](https://www.boerse-express.com/news/articles/allianz-aktie-150-millionen-deal-mit-caravela-934932)
+- [Allianz Global Investors accelerates growth path in Asia Pacific with acquisition of UOB Asset Management (Allianz)](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen.html)
+- [Allianz Aktie: HSBC-Life-Singapore-Übernahme für 2 Milliarden (Finanztrends)](https://www.finanztrends.de/news/allianz-aktie-hsbc-life-singapore-uebernahme-fuer-2-milliarden/)
