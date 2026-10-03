@@ -1,51 +1,48 @@
-# Mercedes-Benz (MBG)
-_Aktualisiert: 30.09.2026 | Zeitraum: 23.09.2026 – 30.09.2026_
+# Mercedes-Benz (MBG.DE)
+_Aktualisiert: 03.10.2026 | Zeitraum: 26.09.2026 – 03.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 20 Aktien
 - **Kaufkurs (Ø):** 65.00 EUR
-- **Aktueller Kurs:** 40.80 EUR
-- **Marktwert:** 816.00 EUR
-- **Unrealisierter G/V:** -492.15 EUR (-37.62%)
-- **Portfolioanteil:** 0.53%
+- **Aktueller Kurs:** 40.00 EUR
+- **Marktwert:** 800.00 EUR
+- **Unrealisierter G/V:** -508.15 EUR (-38.84%)
+- **Portfolioanteil:** 0.52%
 - **Dividenden erhalten:** 114.86 EUR
-- **Bewertung:** Der Kurs ist in der abgelaufenen Woche weiter von 41,56 EUR auf 40,80 EUR gesunken und liegt damit gut 37% unter dem durchschnittlichen Einstandskurs von 65 EUR; die bislang erhaltenen Dividenden von 114,86 EUR können den Buchverlust nur marginal abfedern. Belastend bleiben die anhaltende China-Schwäche (Q1-Absatzeinbruch von 27%) und der Gewinnrückgang im Konzern, während die im Juli angehobene Guidance für die Finanzsparte (EK-Rendite 12–14%) und neue E-Modelle (C-Klasse EQ) für etwas Zuversicht sorgen. Angesichts des geringen Portfolioanteils von 0,53% erscheint ein Halten weiterhin sinnvoll; eine Aufstockung sollte frühestens nach einer erkennbaren Stabilisierung des China-Geschäfts und belastbaren Q2/Q3-Zahlen erwogen werden, eine Reduzierung ist bei diesem geringen Depotanteil nicht vorrangig.
+- **Bewertung:** Der Kurs ist in der abgelaufenen Woche weiter nachgegeben (auf 40,00 EUR) und liegt damit knapp 39% unter dem durchschnittlichen Einstandskurs von 65 EUR; die bislang vereinnahmten Dividenden von 114,86 EUR mindern den Buchverlust nur geringfügig. Das Q2-Ergebnis (Konzerngewinn +13,5% ggü. Vorjahr, adj. EBIT 1,55 Mrd. EUR) und die bestätigte Jahresguidance stimmen vorsichtig positiv, doch der weiterhin deutliche Absatzrückgang in China (-30% im Q2) und der sinkende Konzernumsatz bleiben Belastungsfaktoren. Bei einem Portfolioanteil von lediglich 0,52% erscheint ein Halten weiterhin die sinnvollste Option; eine Aufstockung sollte erst nach einer nachhaltigen Stabilisierung des China-Geschäfts erwogen werden, eine Reduzierung ist angesichts des geringen Depotanteils nicht vordringlich.
 
 ## Aktuelle Meldungen
-- Mercedes-Benz und Roger Federer unterstützten anlässlich des Laver Cup 2026 in London lokale Tennisclubs im Rahmen der „Neon Legacy Initiative" (23.09.2026).
-- Joshua Dürksen absolvierte seinen ersten Formel-1-Test und schrieb damit als erster Pilot aus Paraguay Motorsportgeschichte (22.09.2026).
-- „140 Years. 140 Places": Die globale Jubiläumstour der neuen S-Klasse kehrte im September 2026 nach Europa zurück (22.09.2026).
-- Auftritt bei der Rolling Pin Convention 2026: Mercedes-Benz präsentierte Star-Transporter für die Gastronomie-Branche (29.09.2026).
-- Bestellstart der elektrischen C-Klasse (C 300 4MATIC electric) auf Basis der neuen MB.EA-Plattform, u.a. mit 64/85/94-kWh-Batterievarianten.
+- Mercedes-Benz kehrt nach achtjähriger Abwesenheit (zuletzt 2018) vom 12.–18.10.2026 zum Mondial de l'Auto in Paris zurück und zeigt dort u.a. die neue CLA-Limousine, den CLA Shooting Brake sowie die elektrischen Modelle GLC EQ und GLB.
+- Auf der IAA Transportation 2026 präsentierte die Mercedes-Benz Van-Sparte ihre neuesten Nutzfahrzeuge sowie digitale Services und kundenorientierte Mobilitätslösungen.
+- 2026 wird konzernintern als eines der bedeutendsten Jahre der Unternehmensgeschichte positioniert: 140 Jahre seit Carl Benz' Patent für das Automobil (1886) treffen auf das laut Unternehmen größte Modell-Rollout der Firmengeschichte.
+- Für Südkorea kündigte Mercedes-Benz zehn neue bzw. überarbeitete Pkw-Modelle für 2026 an, darunter die batterieelektrischen und Hybrid-Varianten der CLA-Limousine sowie neue batterieelektrische GLC- und GLB-SUVs.
 
 ## Management
-- CEO Ola Källenius bekräftigte in mehreren Interviews im Jahresverlauf 2026 (u.a. Yahoo Finance, CNBC) die Doppelstrategie aus Elektrifizierung und dem Festhalten an Verbrennungs- sowie Hybridmodellen als Übergangstechnologie bis weit in die 2030er-Jahre.
-- Källenius äußerte sich zur geplanten Ausweitung der AMG-Präsenz sowie zu technologiegetriebenen Fahrzeuginnenräumen und einer möglichen Rolle im autonomen Fahren.
-- Mercedes-Benz USA-CEO Adam Chamberlain bezeichnete das US-Marktumfeld 2026 als „etwas härter als erwartet", verwies aber auf laufende Investitionen von 4 Mrd. USD in das Werk Alabama bis 2030.
+- CEO Ola Källenius zeigte sich in einem Handelsblatt-Interview überzeugt, dass die „goldene Zeit" der Automobilindustrie trotz hohen Kostendrucks noch nicht vorbei sei, und bekräftigte den Umbau des Konzerns hin zu einer überwiegend elektrischen Zukunft.
+- Källenius kündigte an, dass künftig „jeder Mercedes einen Jarvis" erhalten solle – eine KI-gestützte Superassistenz, vergleichbar mit dem Assistenzsystem aus den Iron-Man-Filmen.
+- Laut Källenius könnte die Geschwindigkeit des hochautomatisierten Fahrassistenten „Drive Pilot" auf bestimmten deutschen Autobahnen im kommenden Jahr von 60 auf 90 km/h angehoben werden.
+- Der Vorstand des europäischen Herstellerverbands ACEA bestätigte Källenius für eine zweite Amtszeit als ACEA-Präsident 2026.
 
 ## Finanzielles
-- Q1 2026: Konzernumsatz sank um rund 5% auf 31,6 Mrd. EUR; das Konzernergebnis fiel um 17,2% auf 1,43 Mrd. EUR, das EBIT lag bei 1,9 Mrd. EUR (-16,8% ggü. Vorjahr).
-- Weltweite Pkw-Auslieferungen fielen um 6% auf 419.400 Fahrzeuge; während die USA (+20%) und Europa (+7%) wuchsen, brach der Absatz in China um 27% ein.
-- Aktualisierte Jahresguidance (Stand 28.07.2026): Mercedes-Benz Financial Services erwartet nun eine adjustierte Eigenkapitalrendite von 12–14% (zuvor 10–12%); der Gesamtfahrzeugabsatz wird wegen der China-Schwäche weiterhin leicht unter Vorjahresniveau erwartet.
-- Der Zwischenbericht zum 30. Juni 2026 (Q2) liegt vor; eine vertiefte Prüfung der Halbjahreszahlen steht für die kommende Aktualisierung weiterhin aus.
+- Q1 2026: Konzernumsatz sank um rund 5% auf 31,6 Mrd. EUR, das EBIT fiel um 17% auf 1,90 Mrd. EUR – übertraf damit jedoch die Analystenerwartungen deutlich; die adjustierte Pkw-Marge lag bei 4,1% (Konsens: 3,4%). Der Absatz in China sank um 6% auf 419.400 Fahrzeuge.
+- Q2 2026: Der Konzerngewinn stieg um rund 13,5% auf ca. 1,09 Mrd. EUR, das adjustierte EBIT verbesserte sich auf 1,55 Mrd. EUR (Vorjahr: 1,27 Mrd. EUR); der Umsatz sank dagegen um 3,3% auf 32,06 Mrd. EUR.
+- In China verkaufte der Konzern im zweiten Quartal 30% weniger Fahrzeuge als im Vorjahresquartal, außerhalb Chinas stieg der Absatz dagegen um 3%.
+- Trotz des schwierigen Marktumfelds bestätigte Mercedes-Benz die Jahresprognose für 2026.
 
 ## Strategie & Ausblick
-- Fortsetzung der Elektrifizierungsstrategie auf Basis der MB.EA-Plattform (u.a. C-Klasse EQ) parallel zum Festhalten an Verbrennungs- und Hybridantrieben als Übergangstechnologie.
-- Weiterer Ausbau des US-Engagements mit Investitionen von 4 Mrd. USD in den Standort Alabama bis 2030 zur Abfederung von Zoll- und Marktrisiken.
-- Anhaltend hohe Abhängigkeit vom chinesischen Markt bleibt der zentrale Risikofaktor für Absatz und Ergebnis.
-- Markenerweiterung (Ausbau AMG) und Lifestyle-/Sport-Partnerschaften (Laver Cup, Formel 1) als ergänzende Bausteine neben dem Kerngeschäft.
-- Keine aktuellen Informationen zu Übernahmen oder größeren Beteiligungsdeals gefunden.
+- Rückkehr zu internationalen Leitmessen (Mondial de l'Auto Paris, IAA Transportation) als Teil der Markenoffensive im Jubiläumsjahr 2026.
+- Fortsetzung der Doppelstrategie aus Elektrifizierung (CLA, GLC EQ, GLB) und dem parallelen Festhalten an Verbrennungs-/Hybridmodellen als Übergangstechnologie.
+- Ausbau KI-gestützter Fahrzeugfunktionen („Jarvis"-Assistenzsystem) sowie Weiterentwicklung des automatisierten Fahrens (Drive Pilot, geplante Geschwindigkeitserhöhung auf 90 km/h).
+- Anhaltend hohe Abhängigkeit vom chinesischen Markt bleibt der zentrale Risikofaktor für Absatz- und Ergebnisentwicklung.
+- Keine aktuellen Informationen zu neuen Übernahmen oder größeren Beteiligungsdeals gefunden.
 
 ## Quellen
-- [Mercedes-Benz Media Newsroom](https://media.mercedes-benz.com/)
-- [Mercedes-Benz Media Newsroom USA](https://media.mbusa.com/)
-- [Mercedes-Benz Will Launch 16 New Cars in 2026, More in 2027 – Autoblog](https://www.autoblog.com/news/mercedes-benz-will-launch-16-new-cars-in-2026-more-in-2027)
-- [Mercedes-Benz CEO talks EV Strategy, future cars – Yahoo Finance](https://finance.yahoo.com/video/mercedes-benz-ceo-talks-ev-120009672.html)
-- [Mercedes U.S. CEO sets ambitious sales goal despite 'tougher' market than anticipated – CNBC](https://www.cnbc.com/2026/03/31/mercedes-us-ceo-sets-ambitious-sales-goal-despite-tougher-market.html)
-- [Mercedes-Benz CEO on EV demand in the U.S.: 'The trajectory is going upward' – CNBC](https://www.cnbc.com/video/2026/05/20/mercedes-benz-ceo-on-ev-demand-in-the-u-s-the-trajectory-is-going-upward.html)
-- [Mercedes-Benz's CEO is a 'petrol head.' He's also convinced EVs are the future – ABC News](https://abcnews.com/Business/mercedes-benzs-ceo-petrol-head-convinced-evs-future/story?id=129197399)
-- [Mercedes Pkw Quartalszahlen Q1 2026: minus 6% – Mercedes-Fans](https://www.mercedes-fans.de/magazin/news/mercedes-pkw-quartalszahlen-q1-2026-minus-6-wachstum-im-westen-aber-tiefrotes-minus-27-in-china.23010)
-- [Mercedes-Benz: financial resilience and robust free cash flow in Q1 2026 – Mercedes-Benz Group Investor Relations](https://group.mercedes-benz.com/investors/reports-news/interim-reports/q1-2026/)
-- [Mercedes-Benz Aktie News: Absatz, Umsatz und Gewinn sinken im ersten Quartal 2026 – finanznachrichten.de](https://www.finanznachrichten.de/nachrichten-2026-04/68337093-mercedes-benz-aktie-news-absatz-umsatz-und-gewinn-sinken-im-ersten-quartal-2026-046.htm)
-- [Mercedes-Benz Outlook 2026 – Mercedes-Benz Group Investor Relations](https://group.mercedes-benz.com/investors/share/outlook/)
-- [Zwischenbericht zum 30. Juni 2026 (Q2) – Mercedes-Benz Group](https://group.mercedes-benz.com/dokumente/investoren/berichte/zwischenberichte/q2/mercedes-benz-zwischenbericht-q2-2026.pdf)
+- [Mercedes-Benz au Mondial de l'Auto 2026: l'annonce d'un retour](https://mondial.paris/actualites/auto-mondial/mercedes-benz-au-mondial-de-l-auto-2026-l-annonce-d-un-retour-55075.html)
+- [Automotive Fleet: The 2026 Mercedes-Benz Model Line Returns With Updates](https://www.automotive-fleet.com/10251383/the-2026-mercedes-benz-model-line-returns-with-updates)
+- [Mercedes-CEO: „Goldene Zeit der Autoindustrie ist nicht vorbei" – elektroauto-news.net](https://www.elektroauto-news.net/news/mercedes-autoindustrie-strategie-e-auto)
+- [Källenius wohl vor Wiederwahl als ACEA-Präsident – electrive.net](https://www.electrive.net/2025/11/25/kaellenius-wohl-vor-wiederwahl-als-acea-praesident/)
+- [ACEA-Präsident 2026 – Mercedes-Benz Group Newsroom](https://group.mercedes-benz.com/unternehmen/news/acea-praesident-2026.html)
+- [Mercedes-Benz Aktie: S-Klasse übertrifft Erwartungen – boerse-express.com](https://www.boerse-express.com/news/articles/mercedes-benz-aktie-s-klasse-uebertrifft-erwartungen-900269)
+- [Mercedes-Ergebnis fällt nicht so stark wie befürchtet – boersen-zeitung.de](https://www.boersen-zeitung.de/unternehmen-branchen/mercedes-ergebnis-faellt-nicht-so-stark-wie-befuerchtet)
+- [Mercedes-Benz nach Q2-Ergebnis: Gewinn steigt, aber China bremst – goldesel.de](https://goldesel.de/aktien/news/mercedes-benz-nach-q2-ergebnis-gewinn-steigt-aber-china-bremst-aktie-muss-erholung-beweisen)
+- [Q1 2026 Zwischenbericht – Mercedes-Benz Group Investor Relations](https://group.mercedes-benz.com/investoren/berichte-news/zwischenberichte/q1-2026/)
