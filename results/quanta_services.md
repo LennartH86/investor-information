@@ -1,47 +1,41 @@
 # Quanta Services (PWR)
-_Updated: 30.09.2026 | Period: 23.09.2026 – 30.09.2026_
+_Updated: 04.10.2026 | Period: 27.09.2026 – 04.10.2026_
 
 ## Portfolio Analysis
 - **Position:** 2 shares
-- **Avg. purchase price:** 540.47 EUR
-- **Current price:** 575.60 EUR
-- **Market value:** 1151.20 EUR
-- **Unrealized gain/loss:** +70.26 EUR (+6.50%)
-- **Portfolio allocation:** 0.75%
+- **Purchase price (avg):** 540.47 EUR
+- **Current price:** 598.60 EUR
+- **Market value:** 1197.20 EUR
+- **Unrealized gain/loss:** +116.26 EUR (+10.76%)
+- **Portfolio allocation:** 0.78%
 - **Dividends received:** 0 EUR
-- **Assessment:** After a pullback of roughly 12% from its late-summer highs, the stock (last USD ~644 on 28.09.2026, EUR ~569.80–575.60) drew a fresh Bernstein SocGen upgrade from Market Perform to Outperform with a raised price target of USD 775, alongside continued record backlog and repeatedly raised FY2026 guidance (revenue USD 39.3–39.7bn, net income USD 1.74–1.82bn). At roughly 35–38x forward adjusted EPS and a token dividend yield (~0.1%), valuation remains rich, but the combination of the recent dip, the analyst upgrade and unchanged strong fundamentals supports Hold, with a case for cautiously Adding on further weakness.
+- **Assessment:** The stock continued its rebound over the period, rising roughly 4% in EUR terms (575.60 → 598.60 EUR) on the back of record backlog (USD 53.4bn), repeatedly raised FY2026 guidance (revenue USD 39.3–39.7bn, adjusted EPS USD 16.45–16.95) and management's confident long-term framing of AI/data-center-driven power demand. At an estimated 35x+ forward adjusted EPS and a token dividend yield (~0.1%), the valuation remains rich and leaves little room for execution missteps, but strong fundamentals, record backlog and continued M&A momentum support a Hold, with Add only on meaningful pullbacks.
 
-## Latest News
-- Quanta shares traded near USD 644.25 at the close on 28.09.2026, having pulled back around 12% from recent highs before finding support ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/nachboerse/quanta-services-stock-last-trades-at-usd-644-25-on-september-28-2026/70195094)).
-- Bernstein SocGen Group upgraded Quanta from Market Perform to Outperform after the recent slide and raised its price target from USD 748 to USD 775 ([tikr.com](https://www.tikr.com/blog/quanta-services-won-a-bernstein-upgrade-after-a-12-slide-heres-where-the-stock-could-go)).
-- In EUR terms, the stock traded around EUR 569.80 versus a prior EUR 566.60 (+0.56%) during the period ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/quanta-services-stock-trades-at-eur-569-80-versus-eur-566-60-plus-0-56/70198567)).
-- Quanta's investor relations press-release page continues to list the September dividend declaration and board appointment as the most recent corporate announcements ([investors.quantaservices.com](https://investors.quantaservices.com/news-events/press-releases)).
+## Current News
+- Quanta's board continued to expand in the period: Joseph Kim joined Quanta Services' Board of Directors, following Ellen Rubin's appointment in September, reinforcing the company's focus on technology and AI-driven infrastructure demand ([streetinsider.com](https://streetinsider.com/PRNewswire/Joseph+Kim+Joins+Quanta+Services+Board+of+Directors/26538381.html)).
+- A Hyosung joint venture based in Canonsburg, PA, in which Quanta participates, is set to start 800kV breaker production in October 2026, targeting a market estimated to reach USD 9.8bn by 2034 — supporting Quanta's grid-equipment and electrification exposure.
+- No new company-specific press release was identified for the 27.09.–04.10.2026 window beyond the board appointment; the most recent formal press releases remain the Q2 2026 results (30.07.2026) and the September dividend declaration.
 
 ## Management
-- CEO Earl C. "Duke" Austin, Jr. continues to lead the company, framing its record backlog and multi-year demand "certainty" as the central investment thesis across 2026 investor communications ([thestockpodcast.com](https://www.thestockpodcast.com/quanta-services-pwr-ceo-duke-austin/)).
-- Ellen Rubin, an AI/cloud technology executive, joined Quanta's Board of Directors on 09.09.2026, expanding the board and reinforcing the strategic focus on AI/data-center-driven power demand ([investors.quantaservices.com](https://investors.quantaservices.com/news-events/press-releases)).
+- CEO Earl C. "Duke" Austin, Jr. continues to frame record backlog and multi-year demand "certainty" as the central investment thesis, stating at the Bernstein Strategic Decisions Conference that the infrastructure buildout "runs well past 2030" ([tikr.com](https://www.tikr.com/es/blog/quanta-services-ceo-says-the-buildout-runs-well-past-2030-heres-what-that-means-for-pwr-in-2026)).
+- The Board of Directors continues to add technology- and AI-related expertise, with Joseph Kim joining as the latest addition after Ellen Rubin's appointment in September 2026 ([streetinsider.com](https://streetinsider.com/PRNewswire/Joseph+Kim+Joins+Quanta+Services+Board+of+Directors/26538381.html)).
 
 ## Financials
-- Q1 2026: revenue USD 7.87bn (vs. USD 6.23bn in Q1 2025), GAAP EPS USD 1.45, adjusted EPS USD 2.68, net income USD 220.6m ([investors.quantaservices.com](https://investors.quantaservices.com/news-events/press-releases/detail/396/quanta-services-reports-first-quarter-2026-results)).
-- Q2 2026: revenue USD 9.56bn (+41.1% YoY vs. USD 6.77bn in Q2 2025), GAAP EPS USD 2.96, adjusted EPS USD 4.24, net income USD 451.4m ([investors.quantaservices.com](https://investors.quantaservices.com/news-events/press-releases/detail/402/quanta-services-reports-second-quarter-2026-results)).
-- FY2026 guidance was raised through the year to revenue of USD 39.3–39.7bn and net income of USD 1.74–1.82bn, up from initial guidance of USD 34.7–35.2bn revenue and adjusted EPS of USD 13.55–14.25 ([theglobeandmail.com](https://www.theglobeandmail.com/investing/markets/stocks/PWR/pressreleases/1643940/quanta-services-reports-record-q1-results-raises-2026-outlook/)).
-- Record backlog of USD 53.4bn at the end of Q2 2026, up 49% year-over-year, with roughly 82% tied to electric power/grid work linked to AI and data-center investment.
-- Quarterly dividend of USD 0.11/share (USD 0.44 annualized), declared 02.09.2026, payable 09.10.2026 to holders of record as of 01.10.2026 ([investors.quantaservices.com](https://investors.quantaservices.com/news-events/press-releases/detail/404/quanta-services-announces-quarterly-cash-dividend)).
+- Q1 2026: revenue USD 7.87bn (vs. USD 6.23bn in Q1 2025), GAAP EPS USD 1.45, adjusted EPS USD 2.68, net income USD 220.6m, record backlog of USD 48.5bn ([investors.quantaservices.com](https://investors.quantaservices.com/news-events/press-releases/detail/396/quanta-services-reports-first-quarter-2026-results)).
+- Q2 2026: revenue USD 9.56bn (+41.1% YoY), GAAP EPS USD 2.96, adjusted EPS USD 4.24, net income USD 451.4m, adjusted EBITDA USD 1.1bn, record backlog of USD 53bn ([nasdaq.com](https://www.nasdaq.com/articles/quanta-services-q2-earnings-call-highlights)).
+- FY2026 guidance (raised): revenue USD 39.3–39.7bn, adjusted EBITDA USD 4.1–4.2bn, adjusted EPS USD 16.45–16.95, net income USD 1.74–1.82bn ([marketbeat.com](https://www.marketbeat.com/instant-alerts/quanta-services-nysepwr-releases-quarterly-earnings-results-beats-estimates-by-093-eps-2026-07-30/)).
+- Quarterly dividend of USD 0.11/share (USD 0.44 annualized), declared 02.09.2026, payable 09.10.2026 to holders of record as of 01.10.2026; implies a very low dividend yield (~0.1%) relative to the share price.
 
 ## Strategy & Outlook
-- Quanta continues pursuing a multi-year strategy of building deep, self-performing capabilities across electrical, mechanical, civil and fabrication services, including doubling power transformer manufacturing capacity over the coming years.
-- The 2026 acquisitions of Phalcon, Enerfab, Percheron and PSD (~USD 1.24bn upfront consideration, up to USD 242.3m contingent) are expected to add USD 1.2–1.4bn revenue and USD 120–140m adjusted EBITDA in 2026, extending Quanta's acquisition-led growth strategy ([tikr.com](https://www.tikr.com/blog/quanta-services-stock-what-a-1-7-billion-acquisition-quarter-means-for-2026)).
-- Growth remains dominated by AI- and data-center-driven electricity infrastructure demand, cited by both management and analysts as the primary multi-year tailwind; the recent Bernstein upgrade suggests renewed analyst confidence after a short-term valuation-driven pullback.
-- Management's "certainty" narrative around record backlog continues to underpin repeated guidance raises, though the stock's high forward multiple leaves limited room for execution missteps.
+- Quanta continues to pursue a multi-year, acquisition-led strategy of building self-performing capabilities across electrical, mechanical, civil and fabrication services; the 2026 acquisitions of Phalcon, Enerfab, Percheron and PSD (~USD 1.24bn upfront consideration, up to USD 242.3m contingent) are expected to add USD 1.2–1.4bn revenue and USD 120–140m adjusted EBITDA in 2026 ([tikr.com](https://www.tikr.com/blog/quanta-services-stock-what-a-1-7-billion-acquisition-quarter-means-for-2026)).
+- New infrastructure investments, such as the Hyosung JV's 800kV breaker production starting October 2026, extend Quanta's exposure to grid-equipment manufacturing alongside its traditional services business.
+- Management continues to describe the AI- and data-center-driven electrification buildout as a multi-year tailwind extending "well past 2030," underpinning repeated guidance increases through 2026.
+- Risks remain centered on valuation (elevated forward multiple), integration of multiple recent acquisitions, and dependence on continued strength in utility/data-center capital spending.
 
 ## Sources
-- [Quanta Services stock last trades at USD 644.25 on September 28, 2026 (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/nachboerse/quanta-services-stock-last-trades-at-usd-644-25-on-september-28-2026/70195094)
-- [Quanta Services Won a Bernstein Upgrade After a 12% Slide (TIKR)](https://www.tikr.com/blog/quanta-services-won-a-bernstein-upgrade-after-a-12-slide-heres-where-the-stock-could-go)
-- [Quanta Services stock trades at EUR 569.80 versus EUR 566.60 plus 0.56 percent (ad-hoc-news.de)](https://www.ad-hoc-news.de/boerse/news/corporate-news/quanta-services-stock-trades-at-eur-569-80-versus-eur-566-60-plus-0-56/70198567)
-- [Press Releases :: Quanta Services, Inc. (PWR)](https://investors.quantaservices.com/news-events/press-releases)
-- [Quanta Services Announces Quarterly Cash Dividend (Investor Relations)](https://investors.quantaservices.com/news-events/press-releases/detail/404/quanta-services-announces-quarterly-cash-dividend)
-- [QUANTA SERVICES REPORTS FIRST QUARTER 2026 RESULTS](https://investors.quantaservices.com/news-events/press-releases/detail/396/quanta-services-reports-first-quarter-2026-results)
-- [QUANTA SERVICES REPORTS SECOND QUARTER 2026 RESULTS](https://investors.quantaservices.com/news-events/press-releases/detail/402/quanta-services-reports-second-quarter-2026-results)
-- [Quanta Services Reports Record Q1 Results, Raises 2026 Outlook (The Globe and Mail)](https://www.theglobeandmail.com/investing/markets/stocks/PWR/pressreleases/1643940/quanta-services-reports-record-q1-results-raises-2026-outlook/)
-- [Quanta Services (PWR) CEO Duke Austin (The Stock Podcast)](https://www.thestockpodcast.com/quanta-services-pwr-ceo-duke-austin/)
+- [Quanta Services Q2 Earnings Call Highlights (Nasdaq)](https://www.nasdaq.com/articles/quanta-services-q2-earnings-call-highlights)
+- [Joseph Kim Joins Quanta Services Board of Directors (StreetInsider)](https://streetinsider.com/PRNewswire/Joseph+Kim+Joins+Quanta+Services+Board+of+Directors/26538381.html)
+- [Quanta Services CEO says the buildout runs well past 2030 (TIKR)](https://www.tikr.com/es/blog/quanta-services-ceo-says-the-buildout-runs-well-past-2030-heres-what-that-means-for-pwr-in-2026)
+- [Quanta Services Reports First Quarter 2026 Results (Investor Relations)](https://investors.quantaservices.com/news-events/press-releases/detail/396/quanta-services-reports-first-quarter-2026-results)
+- [Quanta Services Releases Quarterly Earnings Results, Beats Estimates by $0.93 EPS (MarketBeat)](https://www.marketbeat.com/instant-alerts/quanta-services-nysepwr-releases-quarterly-earnings-results-beats-estimates-by-093-eps-2026-07-30/)
 - [Quanta Services Stock: What a $1.7 Billion Acquisition Quarter Means for 2026 (TIKR)](https://www.tikr.com/blog/quanta-services-stock-what-a-1-7-billion-acquisition-quarter-means-for-2026)
