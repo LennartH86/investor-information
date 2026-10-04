@@ -1,47 +1,46 @@
-# Vistra Corp (VST)
-_Aktualisiert: 01.10.2026 | Zeitraum: 24.09.2026 – 01.10.2026_
+# Vistra (VST)
+_Updated: 04.10.2026 | Period: 27.09.2026 – 04.10.2026_
 
-## Portfolio-Analyse
-- **Position:** 16 Aktien
-- **Kaufkurs (Ø):** 127.014 EUR
-- **Aktueller Kurs:** 121.72 EUR
-- **Marktwert:** 1947.52 EUR
-- **Unrealisierter G/V:** -87.04 EUR (-4.28%)
-- **Portfolioanteil:** 1.27%
-- **Dividenden erhalten:** 2.73 EUR
-- **Bewertung:** Vistra remains down about 4% from the average purchase price, but the underlying business momentum looks strong: Q2 2026 Ongoing Operations Adjusted EBITDA grew more than 30% year-over-year, and full-year 2026 EBITDA guidance of $6.8–7.6 billion was reaffirmed. The share price pressure appears driven by short-term regulatory noise (FERC's delay of a PJM procurement process) rather than deteriorating fundamentals, so given continued EBITDA growth, the Cogentrix acquisition pipeline, and data-center demand tailwinds, a Hold (or selective Add on weakness) looks more sensible than Reduce.
+## Portfolio Analysis
+- **Position:** 16 shares
+- **Purchase price (avg):** 127.01 EUR
+- **Current price:** 128.00 EUR
+- **Market value:** 2048.00 EUR
+- **Unrealized gain/loss:** +13.44 EUR (+0.66%)
+- **Portfolio allocation:** 1.33%
+- **Dividends received:** 2.73 EUR
+- **Assessment:** The position has moved back into the green, recovering from last week's FERC-driven dip, and is now trading slightly above the average purchase price. Underlying fundamentals remain solid — H1 2026 Ongoing Operations Adjusted EBITDA of $3,261 million and reaffirmed full-year guidance of $6.8–7.6 billion — while the Cogentrix acquisition has now cleared FERC approval and is on track to close in late 2026, adding meaningful scale. With CEO Jim Burke having personally bought shares in August and the data-center/AI power demand story intact, Hold (or selective Add) remains the more sensible stance than Reduce.
 
-## Aktuelle Meldungen
-- Vistra shares fell about 2.7% on September 30, 2026 after FERC unexpectedly placed a five-month hold on PJM Interconnection's reliability backstop procurement submission, citing concerns the proposed cost allocation methodology was unfair to certain market participants.
-- On September 24, 2026, Vistra Operations raised $1.5 billion through junior subordinated notes due 2057, fully guaranteed by Vistra Corp.
-- Vistra signed a 20-year power deal with data-center developer New Era, with power to be supplied from its 1,180 MW natural gas-fired facility in Odessa, Texas, adjacent to the data center site; delivery is expected in Q3 2027. The companies also signed a development framework agreement giving Vistra a 5% non-voting interest in the portion of the project it powers.
-- The company continues an active share buyback program; cumulative repurchases now total roughly 163.5 million shares (about 39.9% of shares outstanding) for approximately $5.35 billion.
+## Current News
+- No material company-specific news was identified for the 27.09.–04.10.2026 window specifically; the most recent confirmed developments stem from late September 2026 (see prior period) and the broader Q2 2026 reporting cycle.
+- Cogentrix Energy transaction received FERC approval in August 2026; the ~$4.7 billion deal (10 gas-fired plants, ~5,500 MW across PJM, ISO New England, and ERCOT) remains on track to close in late 2026.
+- Vistra's share buyback program continues, with cumulative repurchases reported at roughly 163.5 million shares (~39.9% of shares outstanding) for approximately $5.35 billion as of the last update.
+- No new press releases from investor.vistracorp.com dated within the current reporting period were found via search; the IR site remains the best source for the most current announcements.
 
 ## Management
-- Jim Burke, President and CEO, described Q2 2026 as "another strong quarter," crediting employee execution for the more than 30% year-over-year increase in Ongoing Operations Adjusted EBITDA.
-- On the Q1 2026 earnings call, management highlighted data center demand dynamics, contract negotiations, and capital allocation priorities, including continued buybacks and growth investments.
-- Management reaffirmed full-year 2026 guidance on both the Q1 and Q2 calls, signaling confidence in the business outlook despite short-term market and regulatory volatility.
+- Jim Burke, President and CEO, personally purchased 2,000 Vistra shares at $135 on August 24, 2026, stating: "We continue on track to deliver another record result in 2026, as the business continues to perform very well."
+- On recent earnings calls, management reaffirmed full-year 2026 guidance and emphasized data-center demand dynamics, contract negotiations, and capital allocation priorities (buybacks plus growth investments).
+- No new CEO interviews or management commentary specific to the 27.09.–04.10.2026 period were found in search results.
 
-## Finanzielles
-- Q1 2026: GAAP net income of $1,029 million (including a $723 million unrealized hedge gain); Ongoing Operations Adjusted EBITDA of $1,494 million, up ~20% year-over-year, aided by higher realized energy/capacity prices and three months' contribution from the Lotus acquisition.
-- Q2 2026: GAAP net income of $305 million (including a $472 million unrealized hedge loss on positions expected to settle in future years); Ongoing Operations Adjusted EBITDA of $1,767 million, up more than 30% year-over-year.
+## Financials
+- Q1 2026: GAAP net income of $1,029 million (including a $723 million unrealized hedge gain); Ongoing Operations Adjusted EBITDA of $1,494 million.
+- Q2 2026: GAAP net income of $305 million (including a $472 million unrealized hedge loss); Ongoing Operations Adjusted EBITDA of $1,767 million, up more than 30% year-over-year, though revenue came in below Wall Street expectations.
+- H1 2026 (six months): Net income of $1,334 million; Ongoing Operations Adjusted EBITDA of $3,261 million.
 - Full-year 2026 guidance reaffirmed: Ongoing Operations Adjusted EBITDA of $6.8–7.6 billion and Ongoing Operations Adjusted Free Cash Flow before Growth of $3.925–4.725 billion.
-- Vistra formed Helix Digital Infrastructure together with NVIDIA, KKR, and the Kuwait Investment Authority, broadening its data-center-linked investment platform.
+- No Q3 2026 results have been published yet; the next earnings report is expected in the coming weeks (historically early-to-mid November based on prior-year timing).
 
-## Strategie & Ausblick
-- Vistra is pursuing the pending $4 billion Cogentrix Energy acquisition (announced January 2026), adding roughly 5,500 MW of modern natural gas generation across PJM, ISO New England, and ERCOT; the deal is expected to deliver mid-single-digit Ongoing Operations AFCF per share accretion in 2027 and high-single-digit accretion on average over 2027–2029.
-- Combined with the ~1.9 billion Lotus Infrastructure gas-plant acquisition closed in October 2025, Vistra has added more than 8.1 GW of modern gas generation capacity, positioning the company to meet growing power demand from AI/data centers.
-- The company is building out long-term power supply agreements with data-center and AI infrastructure developers (e.g., the New Era deal and the Meta agreement tied to the Cogentrix transaction), underscoring a strategic pivot toward securing contracted, demand-backed generation capacity.
-- Continued large-scale share buybacks and growth capital investment (Permian Basin gas units, solar development) remain core pillars of capital allocation strategy going into 2027.
+## Strategy & Outlook
+- Vistra is advancing the ~$4.7 billion Cogentrix Energy acquisition, which has cleared FERC approval and is expected to close in late 2026, adding roughly 5,500 MW of modern natural gas generation.
+- Combined with the ~$1.9 billion Lotus Infrastructure acquisition closed in October 2025, Vistra has added more than 8 GW of modern gas generation capacity to meet growing AI/data-center power demand.
+- The company continues building long-term power supply agreements with data-center developers and has formed Helix Digital Infrastructure with NVIDIA, KKR, and the Kuwait Investment Authority, committing up to $1.0 billion to digital-infrastructure-linked investments.
+- Large-scale share buybacks and growth capital investments (gas generation, data-center power deals) remain core pillars of capital allocation heading into 2027.
 
-## Quellen
-- [Vistra Struck a 20-Year Power Deal with New Era — Here's What Else Happened This Month (TradingView/Benzinga)](https://tradingview.com/news/benzinga:4dce5834a094b:0-vistra-struck-a-20-year-power-deal-with-new-era-here-s-what-else-happened-this-month)
-- [Why is Vistra stock sliding today? (Investing.com)](https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4925604)
-- [Vistra Corp Completes $1.5 Billion Subordinated Notes Offering (TipRanks)](https://tipranks.com/news/company-announcements/vistra-corp-completes-1-5-billion-subordinated-notes-offering)
-- [Vistra Reports First Quarter 2026 Results (PR Newswire)](https://www.prnewswire.com/news-releases/vistra-reports-first-quarter-2026-results-302765015.html)
-- [Vistra Reports Second Quarter 2026 Results (Investor Relations, Aug 7, 2026)](https://investor.vistracorp.com/2026-08-07-Vistra-Reports-Second-Quarter-2026-Results)
-- [Vistra (VST) Q2 2026 Earnings Call Transcript (Seeking Alpha)](https://seekingalpha.com/article/4933225-vistra-corp-vst-q2-2026-earnings-call-transcript)
-- [Vistra (VST) Q1 2026 Earnings Call Transcript (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/vistra-vst-q1-2026-earnings-212152634.html)
-- [Vistra Adds to its Industry-Leading Generation Portfolio with Acquisition of Cogentrix (Investor Relations, Jan 5, 2026)](https://investor.vistracorp.com/2026-01-05-Vistra-Adds-to-its-Industry-Leading-Generation-Portfolio-with-Acquisition-of-Cogentrix)
-- [Vistra Corp. Strikes $4 Billion Deal, Agrees to Separate Deal With Meta (D CEO Magazine)](https://www.dmagazine.com/business-economy/2026/01/vistra-corp-acquires-cogentrix-energy-for-4-billion-agrees-to-separate-deal-with-meta/)
-- [Vistra Buying US Gas-Power Fleet for $4 Billion to Deepen AI Bet (Bloomberg)](https://www.bloomberg.com/news/articles/2026-01-05/vistra-to-buy-big-us-gas-powered-fleet-for-4-billion)
+## Sources
+- [Vistra Reports First Quarter 2026 Results (Seeking Alpha)](https://seekingalpha.com/pr/20505174)
+- [Vistra Reports Second Quarter 2026 Results (Barchart)](https://www.barchart.com/story/news/3715470/vistra-reports-second-quarter-2026-results)
+- [Vistra Corp. (NYSE:VST) Q1 2026 Earnings Call Transcript (Insider Monkey)](https://www.insidermonkey.com/blog/vistra-corp-nysevst-q1-2026-earnings-call-transcript-1757092/)
+- [Vistra-CEO kaufte Aktien bei 135 $. Das sagen die Zahlen (tikr.com)](https://www.tikr.com/de/blog/vistra-ceo-just-bought-the-stock-at-135-heres-what-the-numbers-say)
+- [Vistra to buy Cogentrix Energy in $4.7-B deal amid surging power demand (Gas Processing News)](https://www.gasprocessingnews.com/news/2026/01/vistra-to-buy-cogentrix-energy-in-47-b-deal-amid-surging-power-demand/)
+- [Vistra Corp. (VST) Powers Ahead with Strategic Acquisitions and Analyst Upgrades (Yahoo Finance)](https://finance.yahoo.com/news/vistra-corp-vst-powers-ahead-133010682.html)
+- [Vistra Corp. - Form 10-Q - FY2026 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000019/vistra-20260630.htm)
+- [Vistra Shares Slip After Revenue Miss Despite Strong EBITDA Growth (Finviz)](https://finviz.com/news/379472/vistra-shares-slip-after-revenue-miss-despite-strong-ebitda-growth)
