@@ -1,60 +1,60 @@
-# Novo Nordisk 'B' (NOVO-B.CO)
-_Aktualisiert: 01.10.2026 | Zeitraum: 24.09.2026 – 01.10.2026_
+# Novo Nordisk (NOVO-B)
+_Updated: 04.10.2026 | Period: 27.09.2026 – 04.10.2026_
 
-## Portfolio-Analyse
-- **Position:** 120 Aktien
-- **Kaufkurs (Ø):** 48.265 EUR
-- **Aktueller Kurs:** 33.50 EUR
-- **Marktwert:** 4020.00 EUR
-- **Unrealisierter G/V:** -1805.88 EUR (-31.00%)
-- **Portfolioanteil:** 2.63%
-- **Dividenden erhalten:** 158.63 EUR
-- **Bewertung:** The stock remains deep in loss territory (-31%) after a sharp de-rating driven by US pricing erosion, patent expiries, and a weak 2026 sales/profit outlook (0% to -6% CER growth). Management is signaling confidence via a higher dividend and a new $2.1bn share buyback, and the long-term GLP-1 market opportunity remains intact, but near-term visibility is poor and the CEO himself admits the company has "overpromised and underdelivered." Given the position is already a significant unrealized loss, a Hold appears more sensible than Add until the turnaround (new CEO strategy, Wegovy pill ramp, pipeline deals) shows clearer traction; aggressive investors could view the depressed valuation as a contrarian entry point, but risk remains elevated.
+## Portfolio Analysis
+- **Position:** 120 shares
+- **Purchase price (avg):** 48.27 EUR
+- **Current price:** 33.15 EUR
+- **Market value:** 3978.00 EUR
+- **Unrealized gain/loss:** -1847.88 EUR (-31.72%)
+- **Portfolio allocation:** 2.58%
+- **Dividends received:** 158.63 EUR
+- **Assessment:** The position remains deeply underwater (-31.72%) as the stock continues to drift lower week over week, reflecting lingering concerns over US pricing pressure, patent expiries and a transitional 2026. That said, Novo has twice raised its FY2026 adjusted sales/operating-profit outlook (now 0% growth to -6% decline CER, up from -4% to -12%), laid out ambitious 2030/2035 growth targets at its Capital Markets Day, and continues to fund a dividend plus a $2.1bn buyback — early signs that the turnaround under CEO Mike Doustdar may be gaining traction. Given the size of the unrealized loss but improving fundamentals, Hold remains the more prudent stance over Add or Reduce at this stage.
 
-## Aktuelle Meldungen
-- Novo Nordisk published real-world data (29.09.2026) showing Ozempic 2mg patients had lower cardiovascular risk than those switching to Eli Lilly's Mounjaro.
+## Current News
+- Novo Nordisk hosted its Capital Markets Day in London (21.09.2026), outlining 2030 strategic ambitions: launching more than 5 multi-blockbuster products by 2030 and targeting over DKK 150 billion in pipeline sales by 2035, with at least 5 Phase 3 programmes each in obesity/diabetes and in other therapeutic areas.
+- The company raised its FY2026 outlook with Q2 results (04.08.2026): adjusted sales and adjusted operating profit now expected to range from 0% growth to a 6% decline at constant exchange rates (CER), an improvement from the prior -4% to -12% guidance.
+- New real-world data (29.09.2026) showed Ozempic 2mg patients had lower cardiovascular risk than those switching to Eli Lilly's Mounjaro.
 - The company rebranded to "Novo" under CEO Mike Doustdar as part of a broader cultural and strategic reset to win back market share from Eli Lilly.
-- The Wegovy pill (oral GLP-1) starting dose is now available at more than 70,000 US pharmacies, including CVS and Costco, and has captured roughly 90% of the US oral obesity medication market with over 5 million prescriptions globally.
-- The European Commission approved the Wegovy pill as the first oral GLP-1 for weight management in the EU.
-- Novo launched a new $2.1 billion share repurchase programme (announced late September 2026) and proposed a higher dividend, signaling longer-term confidence despite near-term headwinds.
-- Novo announced plans to cut 108 jobs at its New Jersey headquarters amid broader cost discipline.
+- The Wegovy pill (oral GLP-1) is now available at more than 70,000 US pharmacies and has captured roughly 90% of the US oral obesity medication market; the EU also approved it as the first oral GLP-1 for weight management.
+- Novo launched a new $2.1 billion share repurchase programme (late September 2026) and proposed a higher dividend, signaling confidence despite near-term headwinds.
+- A broader restructuring announced 08.08.2026, citing a need for "operational agility" and a shift toward AI-integrated research, included plans to cut 108 jobs at the New Jersey headquarters.
 
 ## Management
-- Mike Doustdar has served as President and CEO since 7 August 2025; two other top executives departed around the time of the 2026 sales/profit warning.
-- Doustdar stated in a Bloomberg interview that "overpromising and underdelivering loses trust very quickly," acknowledging the company's recent credibility problems with investors.
-- In a CNBC interview, Doustdar said Novo is "more active than ever in seeking out deals," emphasizing the need for the "broadest pipeline in the world" to serve hundreds of millions of patients.
-- The CEO has also discussed expanding beyond weight loss into longevity research and aesthetic medicine.
-- Novo is reportedly open to considering a direct NYSE listing to replace its current ADR structure (per Financial Times/TheStreet reporting).
+- Mike Doustdar has served as President and CEO since 7 August 2025.
+- At the J.P. Morgan Healthcare Conference (JPM26), Doustdar outlined three priorities for 2026: accelerating commercial execution (new launches, direct-to-patient sales expansion), progressing the pipeline, and balancing financial discipline while "investing where the investments are needed."
+- In a Bloomberg interview, Doustdar said he is "confident" that "the volume build-up will happen" even as realized prices decline.
+- Management changes include Jamey Millar named head of the US business and Hong Chow named head of product & portfolio strategy.
+- Doustdar has previously acknowledged the company "overpromised and underdelivered," and said Novo is "more active than ever in seeking out deals" to build the "broadest pipeline in the world."
+- Novo is reportedly open to considering a direct NYSE listing to replace its current ADR structure.
 
-## Finanzielles
-- Full-year 2026 outlook: sales and operating profit both expected to decline between 5% and 13% at constant exchange rates (CER), later revised to a range of 0% to -6% CER growth for adjusted sales and operating profit.
-- Q1 2026: reported sales up 32% at CER (boosted by a one-off 340B provision reversal in the US); adjusted sales (excluding that item) down 4% at CER, driven by lower realized prices. Adjusted operating profit reached DKK 32,858 million.
-- Q2 2026: adjusted sales up 7% at CER, adjusted operating profit up 11% at CER; net profit of DKK 21.0 billion; free cash flow of DKK 42.5 billion.
-- Shares fell as much as 18% following the 2026 sales-dip warning, reflecting pricing pressure in the US (lower realized prices, Medicaid coverage reductions for obesity treatments, "Most Favored Nations" pricing pressure) and patent expiries in several markets.
-- The Akero Therapeutics acquisition (up to $5.2 billion) is expected to weigh on 2026 operating profit growth by roughly 3 percentage points due to increased R&D spend.
+## Financials
+- Q1 2026: sales up 32% at CER to DKK 96.8 billion (vs. ~DKK 71.3bn consensus); net profit of DKK 48.56 billion (vs. DKK 29.03bn a year earlier); adjusted operating profit of DKK 32,858 million.
+- Q2 2026 (reported 04.08.2026): adjusted sales up 7% at CER, adjusted operating profit of DKK 33,389 million (+11% at CER); net profit of DKK 20,989 million, down 21% year-over-year; diluted EPS of DKK 4.75, down 20%.
+- FY2026 outlook raised: adjusted sales and adjusted operating profit now expected at 0% growth to -6% decline at CER, improved from the previous -4% to -12% guidance range.
+- Akero Therapeutics acquisition: Novo will acquire all outstanding shares for $54/share in cash (~$4.7 billion total value at closing), plus a contingent value right of up to $6/share (~$0.5bn) if US approval is obtained for efruxifermin in MASH-related compensated cirrhosis — a total deal value of up to $5.2 billion. The increased R&D spend is expected to weigh on 2026 operating profit growth by roughly 3 percentage points; closing expected around year-end 2026.
+- New $2.1 billion share buyback programme announced in late September 2026, alongside a proposed higher dividend.
 
-## Strategie & Ausblick
-- Core strategic priority: defend and expand GLP-1/obesity leadership against Eli Lilly amid intensifying price competition and volume growth increasingly offset by lower prices.
-- Oral Wegovy pill rollout is viewed as the key near-term growth driver, already the strongest-ever GLP-1 volume launch in the US.
-- Business development focus remains on bolt-on acquisitions and partnerships rather than large transformative M&A; CEO reiterated on the Q2 call that big deals are "still a way off."
-- New $2.1 billion partnership with Vivtex Corporation to develop next-generation oral biologic medicines for obesity, diabetes and related comorbidities (upfront, R&D funding and milestones up to $2.1bn plus royalties).
-- Partnership with bluebird bio to develop genetic disease therapeutics, broadening the pipeline beyond metabolic disease.
-- Capital return program (buyback + higher dividend) aims to rebuild investor trust while the company works through a transitional, lower-growth 2026.
+## Strategy & Outlook
+- Capital Markets Day 2030 ambitions: more than 5 multi-blockbuster launches by 2030 and over DKK 150 billion in pipeline sales by 2035, underpinned by at least 5 Phase 3 programmes in obesity/diabetes and at least 5 in other therapeutic areas.
+- The oral Wegovy pill remains the key near-term growth driver, with the strongest-ever GLP-1 volume launch in the US and now EU market access.
+- CagriSema (next-generation diabetes/obesity candidate) delivered strong late-stage results versus semaglutide, supporting the long-term pipeline value proposition.
+- Business development continues to focus on bolt-on acquisitions and partnerships (e.g., Akero Therapeutics) rather than large transformative M&A, though the CEO says Novo is "more active than ever in seeking out deals."
+- A broader restructuring (announced August 2026) aims for greater operational agility and a shift toward AI-integrated R&D, alongside targeted job cuts.
+- The capital return programme (buyback + higher dividend) is intended to rebuild investor trust through a transitional, lower-growth 2026, with management expressing confidence in a 2027+ reacceleration.
 
-## Quellen
-- [Novo Nordisk Releases 2025 Financial Report and 2026 Sales and Operations Profit Outlook – Pharmexec](https://www.pharmexec.com/view/novo-nordisk-2025-financial-report-2026-sales-operations-profit-outlook)
-- [Novo Nordisk shares tumble 18% after 2026 sales dip warning – Pharmaceutical Technology](https://www.pharmaceutical-technology.com/news/novo-nordisk-shares-tumble-18-after-2026-sales-dip-warning/)
-- [UPDATE: Novo shares plummet on sales, profit warning for '26 as 2 top execs head for the door – FiercePharma](https://www.fiercepharma.com/pharma/novo-shares-plummet-sales-profit-warning-26)
-- [Novo Nordisk rebrands to 'Novo' under CEO Mike Doustdar – CNBC](https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html)
-- [Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals – CNBC](https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html)
-- [Novo Nordisk CEO Looks Beyond Weight Loss to Longevity, Aesthetics – Bloomberg](https://www.bloomberg.com/news/articles/2026-06-07/novo-nordisk-ceo-looks-beyond-weight-loss-to-longevity-aesthetics)
-- [Novo CEO Says Drugmaker Has Overpromised, Underdelivered – Bloomberg](https://www.bloomberg.com/news/articles/2026-09-22/novo-ceo-says-drugmaker-has-more-to-do-to-win-over-investors)
-- [Novo Nordisk CEO on rebuilding investor trust after backlash – CNBC](https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html)
-- [Novo Nordisk (NVO) Q1 2026 earnings: Wegovy sales jump – CNBC](https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html)
-- [Novo Nordisk's adjusted operating profit reached DKK 32,858 million in Q1 2026 – GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/06/3288491/0/en/novo-nordisk-s-adjusted-operating-profit-reached-dkk-32-858-million-in-q1-2026.html)
-- [Novo Nordisk (NOVO) Q2 2026 Summary – Quartr](https://quartr.com/events/novo-nordisk-novo-q2-2026_3eA2ZP76)
-- [Novo Nordisk A/S - share repurchase programme - September 28, 2026 – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-a-s-share-repurchase-programme-september-28-2026)
+## Sources
+- [Novo Nordisk raises adjusted sales and adjusted operating profit outlook for 2026 – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-raises-adjusted-sales-and-adjusted-operating-profit-outlook-for-2026)
+- [Novo Nordisk reports adjusted operating profit of DKK 33,389 million for Q2 2026 and raises full-year outlook – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-reports-adjusted-operating-profit-of-dkk-33-389-million-for-q2-2026-and-raises-full-year-outlook)
+- [Novo Nordisk releases 2026 sales and operating profit outlook – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-releases-2026-sales-and-operating-profit-outlook)
+- [Novo Nordisk A/S – Form 6-K, Q2 2026 – SEC](https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000023/caq22026.htm)
+- [Novo Nordisk A/S – Form 6-K, Q1 2026 – SEC](https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000018/caq12026.htm)
+- [Novo Nordisk 1st-qtr 2026 results beat expectations – The Pharma Letter](https://www.thepharmaletter.com/pharma-news/novo-nordisk-1st-qtr-2026-results-beat-expectations)
+- [NVO Q1 Earnings & Sales Top Estimates, 2026 Outlook Raised, Stock Up – Nasdaq](https://www.nasdaq.com/articles/nvo-q1-earnings-sales-top-estimates-2026-outlook-raised-stock)
+- [Novo Nordisk H1 2026 earnings analysis – beancount.io](https://beancount.io/blog/2026/09/14/novo-nordisk-h1-2026-earnings-analysis)
+- [JPM26: Novo Nordisk CEO reflects on 'curse of a leader' as company looks to reassert GLP-1 footing – FiercePharma](https://fiercepharma.com/pharma/jpm26-novo-nordisk-ceo-reflects-curse-leader-company-looks-reassert-glp-1-footing)
+- [Novo CEO says volumes to compensate for price decreases – Bloomberg](https://www.bloomberg.com/news/videos/2026-02-04/novo-ceo-says-volumes-to-compensate-for-price-decreases-video)
 - [Akero Therapeutics acquired by Novo Nordisk for $5.2B – Drug Discovery World](https://www.ddw-online.com/akero-therapeutics-acquired-by-novo-nordisk-for-5-2b-37511-202510/)
-- [Pharma M&A Roundup: Novo Nordisk Enters $2.1 Billion Partnership with Vivtex – Pharmexec](https://www.pharmexec.com/view/mergers-acquisitions-roundup-novo-nordisk-enters-2-billion-partnership-vivtex-gsk-enters-950-million-acquisition-35pharma-inc-)
-- [Novo Nordisk not currently in a position to pursue large-scale M&A, CEO says – Pharmaceutical Technology](https://www.pharmaceutical-technology.com/news/novo-nordisk-not-currently-in-a-position-to-pursue-large-scale-ma-ceo-says/)
-- [Novo plans 108 job cuts at NJ headquarters – NJBIZ](https://njbiz.com/novo-108-job-cuts-nj-headquarters)
+- [Novo Nordisk to acquire Akero Therapeutics for $4.7B plus potential milestone payment – iTiger](https://www.itiger.com/hans/news/2574158915)
+- [Novo Nordisk's US growth driving investment, acquisition plans – FDANews](https://fdanews.com/articles/172837-novo-nordisks-us-growth-driving-investment-acquisition-plans)
+- [Novo creates investment unit – Nordic Life Science](https://nordiclifescience.org/novo-creates-investment-unit/)
