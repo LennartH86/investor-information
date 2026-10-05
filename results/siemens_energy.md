@@ -1,50 +1,47 @@
-# Siemens Energy (ENR.DE)
-_Aktualisiert: 01.10.2026 | Zeitraum: 24.09.2026 – 01.10.2026_
+# Siemens Energy (ENR)
+_Aktualisiert: 05.10.2026 | Zeitraum: 28.09.2026 – 05.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 18 Aktien
-- **Kaufkurs (Ø):** 146.667 EUR
-- **Aktueller Kurs:** 142.92 EUR
-- **Marktwert:** 2572.56 EUR
-- **Unrealisierter G/V:** -124.40 EUR (-4.61%)
-- **Portfolioanteil:** 1.68%
-- **Dividenden erhalten:** 3.02 EUR
-- **Bewertung:** Siemens Energy liefert operativ weiterhin starke Zahlen (Q3 GJ2026: Rekordauftragseingang von 17,9 Mrd. EUR, Umsatzplus von 18,5% und mehr als verdreifachtes Ergebnis vor Sondereinflüssen), die angehobene Jahresprognose (Nettogewinn ~4 Mrd. EUR, Free Cashflow ~8 Mrd. EUR) sowie das laufende Aktienrückkaufprogramm über bis zu 6 Mrd. EUR bis GJ 2027/28 unterstreichen die positive Dynamik; der aktuelle Kurs liegt dennoch leicht unter dem Kaufkurs der verbliebenen Position, während die operative Story (Netzausbau, KI-Rechenzentren, Camlin-Übernahme) für ein Halten der Restposition spricht. Zu beachten ist, dass diese Position in der Vergangenheit bereits teilweise verkauft wurde und dabei einen hohen realisierten Gewinn von +11.065,45 EUR (+249,00%) erbracht hat – das aktuelle kleine Buchverlust auf den Restbestand relativiert sich damit im Gesamtkontext deutlich.
+- **Kaufkurs (Ø):** 146,67 EUR
+- **Aktueller Kurs:** 145,81 EUR
+- **Marktwert:** 2.624,58 EUR
+- **Unrealisierter G/V:** -72,38 EUR (-2,68%)
+- **Portfolioanteil:** 1,70%
+- **Dividenden erhalten:** 3,02 EUR
+- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche leicht erholt (von ca. 142,92 EUR auf 145,81 EUR) und der Buchverlust auf die Restposition ist auf -2,68% geschrumpft. Operativ bleibt die Dynamik stark: Rekord-Auftragseingang, ein auf rund 154 Mrd. EUR gewachsener Auftragsbestand, eine erneut angehobene Jahresprognose für GJ2026 sowie ein laufendes Aktienrückkaufprogramm sprechen für Halten bzw. moderates Aufstocken; die Bewertung ist nach der starken Kursrally seit 2024 ambitioniert, Analysten sehen aber weiterhin Kurspotenzial (u. a. Kursziel 205 EUR von Berenberg).
 
 ## Aktuelle Meldungen
-- Wechsel im Aufsichtsrat: Pekka Lundmark (ehemaliger Nokia-Chef) wurde zum 01.10.2026 gerichtlich als Nachfolger von Matthias Rebellius in den Aufsichtsrat bestellt; formale Bestätigung durch die Hauptversammlung am 25.02.2027 ausstehend.
-- Pre-Close-Call für das 4. Quartal GJ2026 fand vor der Bilanzveröffentlichung am 11.11.2026 statt; Management peilt rund 4 Mrd. EUR Nettogewinn und ca. 8 Mrd. EUR Free Cashflow vor Steuern an.
-- Dritte Tranche des Aktienrückkaufprogramms (bis zu 2 Mrd. EUR bzw. max. 50 Mio. Aktien) läuft seit 24.09.2026 bis 31.03.2027.
-- Aktie notierte Ende September 2026 bei rund 140,88–144,58 EUR, zuletzt mit leichten Kursabschlägen.
+- Der Aufsichtsrat hat den Vertrag von CEO Dr. Christian Bruch um weitere fünf Jahre bis April 2030 verlängert – ein Signal für Kontinuität nach dem erfolgreichen Turnaround.
+- Siemens Energy meldete für das 2. Quartal GJ2026 einen Auftragseingang von rund 17,7 Mrd. EUR und bestätigte/erhöhte daraufhin die Jahresprognose.
+- Die Aktie bewegte sich im Betrachtungszeitraum weiterhin auf hohem Niveau; der Kurs zog gegenüber Ende September wieder leicht an.
+- Siemens Energy erhält weitere Großaufträge, u. a. Turbinen- und Kraftwerkstechnik für das 2,6-Gigawatt-Projekt Taweelah C in Abu Dhabi sowie einen milliardenschweren Service-Auftrag aus Oman.
+- Für das zweite Halbjahr GJ2026 plant das Unternehmen, die Jahresproduktion mittelgroßer Gasturbinen auf rund 80 Einheiten zu steigern – getrieben durch den stark wachsenden Strombedarf von KI-Rechenzentren.
 
 ## Management
-- CEO Christian Bruch betonte in mehreren Interviews 2026 (u. a. Bloomberg, Columbia University) die anhaltend starke Nachfrage durch KI-Rechenzentren und sieht bislang keine Anzeichen einer "Data-Center-Blase": Reservierungen würden sich nahezu eins zu eins in Aufträge umwandeln.
-- CFO Maria Ferraro begleitete die Quartalsberichterstattung 2026.
-- Aufsichtsratswechsel: Pekka Lundmark ersetzt Matthias Rebellius zum 01.10.2026.
+- CEO Christian Bruch: Vertragsverlängerung bis 2030 durch den Aufsichtsrat bestätigt den eingeschlagenen Strategiekurs.
+- Bruch betonte in mehreren öffentlichen Auftritten 2026, dass die Nachfrage nach Energie-Infrastruktur durch KI-Rechenzentren und Elektrifizierung breit abgestützt und nicht nur eine "Data-Center-Blase" sei.
+- Aufsichtsratswechsel von Ende September 2026 (Pekka Lundmark ersetzt Matthias Rebellius) bleibt bis zur formalen Bestätigung auf der Hauptversammlung im Februar 2027 wirksam.
 
 ## Finanzielles
-- Q3 GJ2026: Auftragseingang Rekordniveau von 17,9 Mrd. EUR (Book-to-Bill 1,57), Auftragsbestand gestiegen auf 162 Mrd. EUR.
-- Umsatz Q3 GJ2026 um 18,5% (vergleichbar) auf 11,4 Mrd. EUR gestiegen; Ergebnis vor Sondereinflüssen auf 1.623 Mio. EUR mehr als verdreifacht (Vorjahr: 497 Mio. EUR).
-- Siemens Gamesa erzielte erstmals seit GJ2022 ein positives Ergebnis und ist auf Kurs zum Break-even für GJ2026.
-- Angehobene Jahresprognose GJ2026: vergleichbares Umsatzwachstum von 14–16%, Marge vor Sondereinflüssen 10–12%, Nettogewinn rund 4 Mrd. EUR, Free Cashflow vor Steuern rund 8 Mrd. EUR.
-- Analysten-Einschätzung: Berenberg bestätigte Kaufempfehlung mit Kursziel 205 EUR; Deutsche Bank hob Kursziel nach Q3-Rally an.
+- Auftragsbestand erreichte zum Ende des jüngsten Quartals einen Rekordwert von rund 154 Mrd. EUR.
+- Q3 GJ2026: Umsatz von 11,4 Mrd. EUR (über Analystenerwartungen), Ergebnis je Aktie von 1,28 EUR; das Windgeschäft (Siemens Gamesa) war erstmals seit 2022 in einem Quartal profitabel.
+- Jahresprognose GJ2026 bestätigt/tendiert zum oberen Ende der Spanne: vergleichbares Umsatzwachstum 14–16%, Marge vor Sondereinflüssen 10–12%, Nettogewinn rund 4 Mrd. EUR, Free Cashflow vor Steuern rund 8 Mrd. EUR.
+- Analysten bleiben überwiegend positiv gestimmt; mehrere Häuser haben ihre Kursziele nach den starken Quartalszahlen angehoben.
 
 ## Strategie & Ausblick
-- Geplante Übernahme der nordirischen Camlin Group (Sensorüberwachung, KI-gestützte Netzanalyse, ca. 650 Mitarbeiter, >90 Mio. GBP Jahresumsatz) soll bis Ende 2026 abgeschlossen werden und stärkt das margenstarke Stromnetz-Digitalisierungsgeschäft.
-- Umfassendes Kapitalrückführungsprogramm: bis zu 6 Mrd. EUR an Aktionäre bis GJ 2027/28, davon bis zu 3 Mrd. EUR in den nächsten zwölf Monaten.
-- Vorbereitung der Eigenständigkeit des Geschäftsbereichs "Transformation of Industry" als separates Unternehmen (Prozess seit 25.08.2026 angelaufen).
-- Weiterhin hohe Investitionen in den USA (u. a. 1 Mrd. USD / 1.500 neue Arbeitsplätze) zur Bedienung der steigenden Stromnachfrage durch Elektrifizierung und KI-Rechenzentren.
-- Management sieht breite Elektrifizierungsnachfrage (nicht nur KI-getrieben) als tragende Säule für langfristiges Wachstum.
+- Übernahme der nordirischen Camlin Group (Sensorüberwachung, KI-gestützte Netzanalyse, ca. 650 Mitarbeiter, >90 Mio. GBP Jahresumsatz) soll bis Ende 2026 abgeschlossen werden und stärkt das margenstarke Netz-Digitalisierungsgeschäft.
+- Laufendes Kapitalrückführungsprogramm: Aktienrückkäufe im Volumen von bis zu 6 Mrd. EUR bis GJ 2027/28, aktuell in der dritten Tranche.
+- Geplante Verselbstständigung des Geschäftsbereichs "Transformation of Industry" als eigenständiges Unternehmen schreitet voran.
+- Weiterhin hohe Investitionen in den USA und weiteren Wachstumsmärkten (Nahost, u. a. Großprojekte in Abu Dhabi und Oman) zur Bedienung der steigenden Stromnachfrage.
+- Management erwartet strukturell hohe Investitionen in Stromnetze und Kraftwerkskapazität über das laufende Jahrzehnt hinweg, getragen von Elektrifizierung, Energiewende und KI-Rechenzentren.
 
 ## Quellen
-- [Ad-hoc: Siemens Energy AG raises full-year outlook and releases preliminary results for Q2 FY 2026](https://www.siemens-energy.com/us/en/home/press-releases/ad-hoc--siemens-energy-ag-raises-full-year-outlook-and-releases-.html)
-- [Earnings Release Q3 FY 2026](https://www.siemens-energy.com/us/en/home/press-releases/earnings-release-q3-fy-2026.html)
-- [Geschäftszahlen für das 3. Quartal 2026](https://www.siemens-energy.com/de/de/home/press-releases/geschaeftszahlen-fuer-das-3--quartal-2026.html)
-- [Siemens Energy Enters Final Stretch of Fiscal 2026 With Buyback Running and a New Face on the Supervisory Board](https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/siemens-energy-enters-final-stretch-of-fiscal-2026-with-buyback-running/70204659)
-- [Siemens Energy stock at EUR 140.88 on September 28, 2026](https://www.ad-hoc-news.de/boerse/news/nachboerse/siemens-energy-stock-at-eur-140-88-on-september-28-2026/70195519)
-- [Siemens Energy stock slips after Q3 2026 surge as Deutsche Bank lifts target](https://www.ad-hoc-news.de/boerse/news/corporate-news/siemens-energy-stock-slips-after-q3-2026-surge-as-deutsche-bank-lifts/70038618)
-- [Watch Siemens Energy CEO: $1 Billion US Investment Makes Sense – Bloomberg](https://www.bloomberg.com/news/videos/2026-02-03/siemens-energy-ceo-says-1b-us-investment-makes-sense-video)
-- [Siemens Energy CEO Sees Solid Outlook on Broad Electrification – EnergyNow](https://energynow.ca/2026/08/siemens-energy-ceo-sees-solid-outlook-on-broad-electrification/)
-- [Speed to Power: Christian Bruch on Siemens Energy's Turnaround – Columbia University SIPA](https://www.energypolicy.columbia.edu/speed-to-power-christian-bruch-on-siemens-energys-turnaround/)
-- [Siemens Energy Aktie: Camlin-Übernahme bis Ende 2026](https://www.boerse-express.com/news/articles/siemens-energy-aktie-camlin-uebernahme-bis-ende-2026-914189)
-- [Siemens Energy Aktie: 6 Milliarden für Rückkäufe bis 2027/28](https://trading-treff.de/trading/siemens-energy-aktie-6-milliarden-fuer-rueckkaeufe-bis-2027-28)
+- [Siemens Energy Aktie: 17,7 Milliarden Auftragseingang](https://www.boerse-express.com/news/articles/siemens-energy-aktie-177-milliarden-auftragseingang-928773)
+- [Siemens Energy Aktie: 154 Milliarden Auftragsbestand](https://www.boerse-express.com/news/articles/siemens-energy-aktie-154-milliarden-auftragsbestand-928379)
+- [Siemens Energy Raises FY26 Outlook On Strong Demand](https://nasdaq.com/articles/siemens-energy-raises-fy26-outlook-strong-demand)
+- [Earnings Release Q3 FY 2026](https://www.siemens-energy.com/de/de/home/press-releases/earnings-release-q3-fy-2026.html)
+- [Ad-hoc: Siemens Energy AG raises full-year outlook and releases preliminary results for Q2 FY 2026](https://www.emr-online.com/?p=13650)
+- [Ergebnisveröffentlichung Q2 GJ 2026: Siemens Energy erhöht nach gutem zweiten Quartal die Prognose](https://www.siemens-energy.com/de/de/home/press-releases/earnings-release-q2-fy-2026.html)
+- [Supervisory Board extends contract with CEO Christian Bruch](https://www.siemens-energy.com/de/de/home/press-releases/supervisory-board-extends-contract-with-ceo-christian-bruch-.html)
+- [Siemens Energy to boost Oman's power capacity by 20%](https://technicalreviewmiddleeast.com/power-a-water/power-generation/siemens-energy-to-boost-omans-power-capacity-by-20)
