@@ -1,46 +1,47 @@
 # Eaton Corporation (ETN)
-_Aktualisiert: 02.10.2026 | Zeitraum: 25.09.2026 – 02.10.2026_
+_Updated: 05.10.2026 | Period: 28.09.2026 – 05.10.2026_
 
-## Portfolio-Analyse
-- **Position:** 3 Aktien
-- **Kaufkurs (Ø):** 321,62 EUR
-- **Aktueller Kurs:** 391,00 EUR
-- **Marktwert:** 1.173,00 EUR
-- **Unrealisierter G/V:** +205,73 EUR (+21,27%)
-- **Portfolioanteil:** 0,77%
-- **Dividenden erhalten:** 2,13 EUR
-- **Bewertung:** Eaton continues to trade near record highs, up roughly 21% versus the average purchase price, supported by record Q1 and Q2 2026 results, raised full-year guidance (adjusted EPS of 13,40–13,60 USD, organic growth guidance of 11–13%), and a fresh price-target hike from RBC Capital to 512 USD (from 484 USD, Outperform) following the Q2 beat. The first dividend has now been credited (2,13 EUR received), though the yield remains modest relative to the strong share-price appreciation; given the continued momentum in AI/data-center and electrification markets alongside an already rich valuation near all-time highs, Hold appears sensible, with a small Add defensible for investors seeking more exposure to the data-center electrification theme.
+## Portfolio Analysis
+- **Position:** 3 shares
+- **Average purchase price:** 321.62 EUR
+- **Current price:** 388.75 EUR
+- **Market value:** 1,166.25 EUR
+- **Unrealized gain/loss:** +198.98 EUR (+20.57%)
+- **Portfolio allocation:** 0.76%
+- **Dividends received:** 2.13 EUR
+- **Assessment:** The position is up more than 20% since purchase, supported by record Q2 2026 results (adjusted EPS of $3.15 vs. $3.08 consensus) and raised full-year guidance (FY2026 adjusted EPS guidance of $13.40–$13.60), driven by strong data-center/AI-related electrical demand. Given the aggressive, debt- and equity-funded acquisition spree (Boyd Thermal, Ultra PCS, COL Group) pushing the valuation toward a premium growth multiple, a **Hold** stance looks reasonable for this small position; investors could consider **Add** on pullbacks given the strong backlog and orders momentum, but the stock is not cheap after the rally.
 
-## Aktuelle Meldungen
-- No major company-specific press release was identified strictly within the 25.09.2026–02.10.2026 window; sentiment continues to be driven by the Q2 2026 earnings beat (31.07.2026) and CEO Paulo Ruiz's appearance at Morgan Stanley's Laguna Conference (16.09.2026).
-- RBC Capital raised its price target on Eaton (ETN) to 512 USD from 484 USD, maintaining an Outperform rating, citing the stronger-than-expected Q2 2026 earnings.
-- The Board of Directors declared a quarterly dividend of 1,10 USD per ordinary share.
-- Eaton opened a new European Centre of Additive Manufacturing in the UK (20.07.2026), strengthening aerospace production capacity and regional supply-chain resilience.
+## Latest News
+- No company news specifically dated within 28.09.2026–05.10.2026 was found in search results; most recent concrete news clusters around Q2 2026 earnings (end of July 2026) and subsequent conference appearances in September 2026.
+- Eaton CEO Paulo Ruiz held a fireside chat at Morgan Stanley's 14th Annual Laguna Conference on 16.09.2026, discussing growth strategy, portfolio transformation and execution amid strong demand in data centers, utilities and aerospace.
+- Eaton's electrical backlog increased 43% year-over-year as of Q2 2026, with Electrical Americas revenue from data centers up roughly 65% year-over-year.
 
 ## Management
-- CEO Paulo Ruiz (in role since June 2025) reiterated at the Laguna Conference that "the best years for this business are still ahead of us," pointing to roughly 10 Milliarden USD in incremental revenue added between 2024 and 2026 — about ten times the top-line growth pace of the prior decade.
-- David Foster was named Executive Vice President and Chief Financial Officer, effective 02.03.2026.
-- Dan T. Simpson was named President, Global Energy Infrastructure Solutions, effective 08.07.2026, as part of management's continued organizational buildout around the electrification growth strategy.
+- CEO Paulo Ruiz continues to lead the company's growth and portfolio-transformation strategy, with recent public remarks focused on AI/data-center demand, electrification and aerospace momentum.
+- David Foster was named Executive Vice President and CFO effective 02.03.2026; Ruiz noted Foster brings "a deep understanding of our operations and a unique understanding of our markets and customers at a critical time of unprecedented demand and growth."
+- Dan T. Simpson was named President, Global Energy Infrastructure Solutions, effective 06.07.2026.
 
-## Finanzielles
-- Q1 2026: record sales of 7,5 Milliarden USD (+17% YoY, +10% organic); GAAP EPS 2,22 USD; adjusted EPS 2,81 USD (Q1 record).
-- Q2 2026: record sales of 8,53 Milliarden USD (+21% YoY, +14% organic, +7% from acquisitions); GAAP EPS 2,11 USD; adjusted EPS 3,15 USD (Q2 record); Segmentmarge 23,1% (10 Basispunkte über dem oberen Ende der Guidance); Free Cashflow 874 Mio. USD (+22% YoY).
-- Full-year 2026 guidance: adjusted EPS of 13,40–13,60 USD (~+12% YoY at the midpoint); organic growth guidance raised to 11–13%.
-- Cash deployed for acquisitions reached approximately 11,1 Milliarden USD in H1 2026 (primarily Boyd Thermal and Ultra PCS); no share buybacks planned for 2026 due to the Boyd Thermal acquisition.
+## Financials
+- Q2 2026 (reported 31.07.2026): record sales of $8.5 billion (+21% YoY: ~14% organic, ~7% from acquisitions); adjusted EPS of $3.15 (adjusted margins of 23.1%), beating consensus of $3.08.
+- Q1 2026 (reported May 2026): record results; full-year 2026 organic growth guidance raised to ~10% (from 8% at the midpoint).
+- Updated guidance: Q3 2026 adjusted EPS guidance of $3.46–$3.56; FY2026 adjusted EPS guidance of $13.40–$13.60.
+- Electrical Americas segment posted record $4.0 billion in quarterly sales, up 18% organically; 12-month rolling orders up 7% (Electrical Americas) and 11% (Aerospace); backlog up 18% (Electrical) and 15% (Aerospace) YoY.
+- Eaton paid cash of $11,079 million for acquisitions in H1 2026, plus $85 million for investments in nonmarketable securities, reflecting heavy M&A-driven capital deployment.
+- On 06.03.2026, Eaton issued $8,500 million in notes across six tranches with maturities ranging from 2028 to 2056, financing part of its acquisition activity.
 
-## Strategie & Ausblick
-- The 9,55 Milliarden USD acquisition of Boyd Thermal (closed March 2026) adds liquid-cooling technology, enabling an integrated "grid-to-chip" offering as AI data-center workloads drive sharply higher power and cooling demand.
-- The 1,53 Milliarden USD acquisition of Ultra PCS Limited (completed January 2026) strengthens Eaton's aerospace and defense safety/mission-critical systems capabilities.
-- Eaton continues to advance its "2030 Growth Strategy," including a planned Reverse Morris Trust separation combining its Mobility Group with Dana Incorporated, targeted for completion around Q1 2027.
-- Management continues to position Eaton as a primary beneficiary of AI data-center growth, electrification, and decarbonization megatrends, with accelerating orders and backlog across the Electrical and Aerospace segments supporting continued guidance raises through 2026.
+## Strategy & Outlook
+- Eaton is pursuing an aggressive, multi-billion-dollar acquisition strategy to expand exposure to AI data centers, European power distribution and aerospace: Boyd Thermal (agreed November 2025, ~$9.5B, enhancing liquid-cooling/"grid-to-chip" capabilities for data centers), Ultra PCS (closed H1 2026, ~$1.5–1.55B, mission-critical aerospace electronics), and COL Group (agreed, ~€810M/$923M, strengthening European medium-voltage power distribution).
+- Acquired businesses contributed about 7% to Eaton's Q2 2026 sales growth, alongside strong organic growth.
+- Management continues to emphasize data center, AI infrastructure, electrification and aerospace as key secular growth drivers underpinning raised guidance for the remainder of 2026.
 
-## Quellen
-- [Eaton Reports Record Second Quarter 2026 Results (BusinessWire)](https://www.businesswire.com/news/home/20260730561562/en/)
-- [Eaton Corp plc - Form 8-K - FY2026 (Q2 results, SEC)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000027/etn06302026exhibit99.htm)
-- [Eaton Corp plc - Form 10-Q - FY2026 (Q2, SEC)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000030/etn-20260630.htm)
-- [Eaton Corp plc - Form 8-K - FY2026 (Q1 results, SEC)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000010/etn03312026exhibit99.htm)
-- [Eaton $11B Acquisition Spree Powers Data Center Growth 2026 – Memoori](https://memoori.com/eaton-11b-acquisition-spree-data-center-growth-2026/)
-- [Eaton CEO to Outline Growth Strategy at Morgan Stanley Laguna Conference – Briefglance](https://briefglance.com/companies/eaton-corporation-plc/pulses/74869)
-- [Eaton Names David Foster Executive VP & CFO – AftermarketNews](https://www.aftermarketnews.com/eaton-executive-vp-cfo/)
-- [Eaton Corporation: Why Its $13 Billion in Acquisitions Supports a 62% Upside Case – TIKR](https://www.tikr.com/blog/eaton-announced-13-billion-in-acquisitions-last-year-heres-where-the-stock-goes-next)
-- [Eaton (ETN) Stock News & Updates – QuantisNow](https://www.quantisnow.com/company/ETN)
+## Sources
+- [Eaton Corp plc - Form 8-K - FY2026 (Q2 results)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000027/etn06302026exhibit99.htm)
+- [Eaton Corp plc - Form 10-Q - FY2026 (Q2)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000030/etn-20260630.htm)
+- [Eaton Corp plc - Form 10-Q - FY2026 (Q1)](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000013/etn-20260331.htm)
+- [Eaton Corp plc - Form 10-K - FY2025](https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm)
+- [Eaton CEO to Outline Growth Strategy at Morgan Stanley Laguna Conference](https://briefglance.com/companies/eaton-corporation-plc/pulses/74869)
+- [Eaton Names David Foster Executive VP & CFO](https://www.aftermarketnews.com/eaton-executive-vp-cfo/)
+- [Eaton (NYSE:ETN) Posts Quarterly Earnings Results, Beats Expectations By $0.07 EPS](https://www.marketbeat.com/instant-alerts/eaton-nyseetn-posts-quarterly-earnings-results-beats-expectations-by-007-eps-2026-07-31/)
+- [Eaton $11B Acquisition Spree / Data Center Growth 2026](https://memoori.com/eaton-11b-acquisition-spree-data-center-growth-2026/)
+- [Eaton Corporation: Why Its $13 Billion in Acquisitions Supports a 62% Upside Case](https://www.tikr.com/blog/eaton-announced-13-billion-in-acquisitions-last-year-heres-where-the-stock-goes-next)
+- [Can Eaton's Strategic Acquisitions Boost Further Long-Term Growth](https://www.zacks.com/stock/news/2996962/can-eatons-strategic-acquisitions-boost-further-long-term-growth)
