@@ -1,52 +1,57 @@
 # Iberdrola (IBE.MC)
-_Updated: 03.10.2026 | Period: 26.09.2026 – 03.10.2026_
+_Aktualisiert: 06.10.2026 | Zeitraum: 29.09.2026 – 06.10.2026_
 
-## Portfolio Analysis
-- **Position:** 106.04847 shares
-- **Avg. Purchase Price:** 14.07 EUR
-- **Current Price:** 20.89 EUR
-- **Market Value:** 2215.35 EUR
-- **Unrealized Gain/Loss:** +712.11 EUR (+47.37%)
-- **Portfolio Allocation:** 1.44%
-- **Dividends Received:** 0.77 EUR
-- **Assessment:** The position has extended its gain to +47.4% as the share price advanced to 20.89 EUR, supported by confirmed FY2026 guidance (adjusted net profit growth above 8%) and reaffirmed regulated-networks momentum ahead of the nine-month results due 21 October 2026. With the stock trading near all-time highs and much of the networks growth story already reflected in consensus targets, Hold remains the sensible stance; the Q3/nine-month report is the next catalyst to watch before considering adding to the position.
+## Portfolio-Analyse
+- **Position:** 106,04847 Aktien
+- **Kaufkurs (Ø):** 14,07 EUR
+- **Aktueller Kurs:** 21,00 EUR
+- **Marktwert:** 2.227,02 EUR
+- **Unrealisierter G/V:** +723,78 EUR (+48,15%)
+- **Portfolioanteil:** 1,44%
+- **Dividenden erhalten:** 0,77 EUR
+- **Bewertung:** Der Kurs ist im Berichtszeitraum weiter auf rund 21,00 EUR gestiegen und nähert sich damit dem oberen Ende der 52-Wochen-Spanne (15,88–22,08 EUR) bei einer Marktkapitalisierung von ca. 136,6 Mrd. EUR; die Bewertung gilt laut Marktkommentaren mittlerweile als "anspruchsvoll" ("valoración exigente"). Mit +48,15% unrealisiertem Gewinn seit Erstkauf im März 2025 und einem bestätigten Ausblick (bereinigtes Nettoergebnis-Wachstum >8% für 2026) bleibt die Position fundamental solide; angesichts der engen Widerstandsmarke um 20,4 EUR und des anstehenden Neun-Monats-Berichts am 21.10.2026 ist Halten die naheliegende Einschätzung – eine Aufstockung erscheint vor dem nächsten Katalysator (Quartalszahlen) wenig attraktiv.
 
-## Recent News
-- Iberdrola's share price continued its 2026 uptrend, reaching 20.89 EUR in the 26 September – 3 October window, extending year-to-date gains.
-- Iberdrola confirmed it will present its results for the first nine months of 2026 on **21 October 2026** (09:30–11:00), the next major scheduled catalyst for the stock.
-- Preliminary Q3 2026 figures circulating in financial media point to broadly flat quarterly net profit (~522.6 million EUR vs. ~522.1 million EUR a year earlier) against the backdrop of 15% YoY revenue growth to ~6.7 billion EUR, consistent with continued strength in the Networks division offsetting softer Generation & Customers results.
-- COP17 biodiversity summit (Yerevan, Armenia, 19–30 October) is on Iberdrola's corporate calendar, part of its sustainability engagement alongside the Q3 reporting cycle.
-- No major new M&A announcements were identified in this specific window; the previously announced Contigo Energía retail acquisition and the Caruna Networks deal (Finland) remain in progress toward completion.
+## Aktuelle Meldungen
+- Die Iberdrola-Aktie konsolidierte im Zeitraum 29.09.–06.10.2026 oberhalb der Widerstandsmarke von 20,39 EUR und bewegte sich zuletzt um 20,60–21,00 EUR; spanische Finanzmedien (dailyforex.es) bezeichnen den Oktober-Start als "anspruchsvolle Bewertung" mit den Q3-Zahlen als entscheidendem Katalysator des Monats.
+- Iberdrola hat die Präsentation der Ergebnisse für die ersten neun Monate 2026 offiziell für den **21. Oktober 2026 (9:30–11:00 Uhr)** angekündigt – damit fällt der eigentliche Quartalsbericht knapp nach das aktuelle Beobachtungsfenster.
+- In Finanzmedien kursieren bereits vorläufige Schätzungen zu Q3 2026: ein nahezu unverändertes Quartalsnettoergebnis von rund 522,6 Mio. EUR (Vorjahr: 522,1 Mio. EUR) bei einem Umsatzplus von ca. 15% auf rund 6,7 Mrd. EUR – getrieben vom starken Netzgeschäft, das schwächere Beiträge aus Erzeugung/Endkundengeschäft kompensiert.
+- Vom 19.–30. Oktober findet der COP17-Biodiversitätsgipfel in Jerewan (Armenien) statt, an dem sich Iberdrola im Rahmen seines Nachhaltigkeitsengagements beteiligt – zeitlich parallel zur Berichtssaison.
+- 2026 feiert Iberdrola unter dem Motto "125 años de luz" ("125 Jahre Licht") sein 125-jähriges Bestehen mit einem umfangreichen Programm aus Ausstellungen, Festivals und institutionellen Veranstaltungen in Spanien.
+- Keine neuen, im engeren Berichtszeitraum veröffentlichten M&A-Ankündigungen; die bereits laufenden Übernahmen (Caruna in Finnland, North West Electricity Networks in UK) befinden sich weiterhin im Abschlussprozess.
 
 ## Management
-- Executive Chairman **Ignacio Sánchez Galán** remains the public face of group strategy; no new interviews were identified specifically within the 26 September – 3 October window, but his consistent 2026 messaging (CERAWeek, Abu Dhabi Sustainability Week, ElEconomista) continues to frame market coverage, emphasizing electrification, grid investment and the removal of regulatory barriers across Europe.
-- In late October 2025 messaging (still referenced in ongoing coverage), Galán addressed more than 300 global employees on the outlook for the 2025–2028 strategic plan, a theme that continues to anchor management commentary into Q3/Q4 2026.
-- Day-to-day CEO responsibilities remain with **Pedro Azagra**; Galán continues to hold the Executive Chairman role and set overall group strategy.
-- No governance or leadership changes were reported in this period.
+- Executive Chairman **Ignacio Sánchez Galán** bleibt das öffentliche Gesicht der Konzernstrategie; ein neues Interview explizit aus dem Zeitraum 29.09.–06.10.2026 wurde nicht gefunden, seine wiederkehrenden Kernbotschaften (CERAWeek, Abu Dhabi Sustainability Week, Interview mit ElEconomista im März 2026) prägen aber weiterhin die Markteinschätzung – Schwerpunkte sind Elektrifizierung, Netzinvestitionen und der Abbau regulatorischer Barrieren in Europa.
+- Bei der Abu Dhabi Sustainability Week (Januar 2026) betonte Galán die Bedeutung der Elektrifizierung in Bereichen wie Elektromobilität, Wärmepumpen, Industrie und insbesondere Rechenzentren/KI als Wachstumstreiber.
+- Das operative Tagesgeschäft verantwortet weiterhin CEO **Pedro Azagra**, während Galán als Executive Chairman die Gesamtstrategie des Konzerns verantwortet.
+- Keine neuen Führungswechsel oder Governance-Änderungen im Berichtszeitraum festgestellt.
 
-## Financials
-- FY2026 guidance remains confirmed at adjusted net profit growth above 8%, with management signaling potential upside if current trends persist.
-- H1 2026 (last full reported period): reported net profit +22% YoY to ~4,336 million EUR; adjusted net profit +8% to ~3,565 million EUR; adjusted EBITDA +7.4% to ~8,050 million EUR (Networks +13%, Power & Customers +1%).
-- Q3 2026 (preliminary/reported in media): net profit roughly flat YoY at ~522.6 million EUR; revenues up ~15% YoY to ~6.7 billion EUR.
-- H1 2026 total investment reached 7.0 billion EUR (+25% YoY), with more than 70% directed to UK, US and Brazil, almost two-thirds into the Networks business.
-- Next reporting date: nine-month 2026 results on **21 October 2026**.
+## Finanzielles
+- Die FY2026-Guidance wird bestätigt: bereinigtes Nettoergebnis soll um mehr als 8% wachsen; Management signalisiert bei anhaltend positiver Entwicklung mögliches Aufwärtspotenzial.
+- H1 2026 (letzter vollständig berichteter Zeitraum): Nettoergebnis +21,7% auf rund 4.336 Mio. EUR; Konzern bekräftigte dabei die Jahresziele für 2026.
+- Investitionen erreichten im ersten Halbjahr 2026 rund 7,0 Mrd. EUR (+25% gegenüber Vorjahr), über 70% davon entfielen auf UK, USA und Brasilien; knapp zwei Drittel (rund 4,4 Mrd. EUR, +42%) flossen in das Netzgeschäft.
+- Vorläufige/mediale Q3-2026-Schätzungen: Quartalsnettoergebnis ca. 522,6 Mio. EUR (etwa unverändert YoY), Umsatz ca. 6,7 Mrd. EUR (+15% YoY).
+- Nächster offizieller Berichtstermin: Neun-Monats-Ergebnisse 2026 am 21. Oktober 2026.
+- Dividendenpolitik: Iberdrola verfolgt traditionell eine Scrip-/Bardividendenstrategie mit historisch attraktiver Rendite (üblicherweise im Bereich von ca. 4% auf den Kurs); für die Position wurden bislang 0,77 EUR an Dividenden vereinnahmt.
 
-## Strategy & Outlook
-- The pending acquisition of an 80% stake in **Caruna Networks** (Finland's largest electricity distributor, ~2 billion EUR equity value, ~5 billion EUR enterprise value including debt) remains on track, with completion expected in Q1 2027 subject to regulatory approvals; existing shareholders AMF and Elo retain the remaining 20%.
-- Iberdrola is also progressing the acquisition of an 88% stake in **North West Electricity Networks** (UK) for approximately 2.134 billion GBP, part of the 2024–2026 Strategic Plan's continued pivot toward regulated grid assets in the UK, US and Brazil.
-- The group continues to prioritize electrification trends in data centers, AI-driven power demand, electric mobility and heat pumps as structural growth drivers, themes Galán has reiterated at international forums (Abu Dhabi Sustainability Week, CERAWeek).
-- Key upcoming catalyst: nine-month 2026 results on 21 October 2026, expected to provide updated detail on FY2026 guidance, the Caruna and North West Electricity Networks integration timelines, and overall capex execution.
+## Strategie & Ausblick
+- Die geplante Übernahme einer 80%-Beteiligung an **Caruna Networks** (größter Stromverteiler Finnlands, Eigenkapitalwert ca. 2 Mrd. EUR, Unternehmenswert inkl. Schulden ca. 5 Mrd. EUR) bleibt auf Kurs; der Abschluss wird für das erste Quartal 2027 erwartet, vorbehaltlich regulatorischer Genehmigungen. Die bisherigen Anteilseigner AMF und Elo (finnische Pensionsfonds) halten die restlichen 20%.
+- Parallel läuft die Übernahme einer 88%-Beteiligung an **North West Electricity Networks** (UK) für rund 2,13 Mrd. GBP – Teil der strategischen Neuausrichtung auf regulierte Netzwerk-Assets in UK, USA und Brasilien gemäß dem Strategieplan 2024–2026/2025–2028.
+- Strukturelle Wachstumstreiber bleiben die Elektrifizierung von Rechenzentren/KI, Elektromobilität und Wärmepumpen – Themen, die Galán wiederholt auf internationalen Foren (Abu Dhabi Sustainability Week, CERAWeek) hervorgehoben hat.
+- Wichtigster kommender Katalysator: die Neun-Monats-Ergebnisse 2026 am 21. Oktober 2026, die weiteren Aufschluss über die FY2026-Guidance, den Integrationsfortschritt bei Caruna/North West Electricity Networks sowie die Capex-Umsetzung geben dürften.
+- Angesichts der bereits "anspruchsvollen" Bewertung nahe der 52-Wochen-Hochs dürfte der Spielraum für weitere kurzfristige Kursgewinne vor den Zahlen begrenzt sein; die mittel- bis langfristige Investment-These (Netzausbau, Elektrifizierung, geografische Diversifikation) bleibt jedoch intakt.
 
-## Sources
-- [Iberdrola official site – results calendar and COP17](https://www.iberdrola.com/?rd=1)
+## Quellen
+- [Iberdrola afronta octubre con una valoración exigente – DailyForex](https://es.dailyforex.com/stock-market-today/2026/10/iberdrola-afronta-octubre-con-una-valoracion-exigente-2026/250300)
 - [Últimas noticias – Iberdrola Press Room](https://www.iberdrola.com/press-room/iberdrola-blogs)
-- [Iberdrola management committee and executive committee review outlook for rest of year in Bilbao (PDF)](https://www.iberdrola.com/documents/20125/6180042/260825-iberdrola-management-committee-and-executive-committee-review-outlook-for-the-rest-of-year-in-bilbao.pdf)
+- [Iberdrola aumenta un 10% la distribución eléctrica global en el primer trimestre de 2026 (PDF)](https://www.iberdrola.com/documents/20125/5859769/260417-iberdrola-increases-global-electricity-distribution-10-percent-reaching-68645-gwh-first-quarter-2026.pdf)
+- [La electricidad distribuida por Iberdrola crece un 6,3% hasta junio (PDF)](https://www.iberdrola.com/documents/20125/6067380/260710-la-electricidad-distribuida-por-iberdrola-crece-6-3-por-ciento-junio.pdf)
 - [Ignacio Galán discusses the situation at Iberdrola with more than 300 global employees – Atalayar](https://www.atalayar.com/en/articulo/economy-and-business/ignacio-galan-discusses-the-situation-at-iberdrola-with-more-than-300-global-employees/20251027134852219826.html)
-- [Iberdrola posts €1.865 billion profit in Q1 2026, up 11% year-on-year, raises 2026 guidance – The Corner](https://thecorner.eu/companies/iberdrola-posts-e1-865-billion-profit-in-q1-2026-up-11-year-on-year-compared-with-same-period-last-year-raises-2026-guidance-to-over-8/125421/)
-- [Iberdrola (IBE) Q2 2026 earnings summary – Quartr](https://quartr.com/events/iberdrola-s-a-ibe-q2-2026_3Y5173kZ)
-- [Results presentation Q1 2026 (PDF) – Iberdrola](https://www.iberdrola.com/documents/20125/5846486/results-26Q1.pdf)
+- [Ignacio S. Galán – Chairman Area, Iberdrola Press Room](https://www.iberdrola.com/press-room/chairman-area)
+- [Interview: Iberdrola's Galan on Clean Energy, Carbon Policy – Energy Intelligence](https://www.energyintel.com/0000017b-a7c7-de4c-a17b-e7c725ca0000)
+- [Iberdrola gana 4.336 millones hasta junio, un 21,7% más, y reafirma sus objetivos para 2026 – Onda Vasca](https://www.ondavasca.com/iberdrola-gana-4-336-millones-hasta-junio-un-217-mas-y-reafirma-sus-objetivos-para-2026/)
+- [Iberdrola reports higher first-half profit as networks investment rises – Windtech International](https://www.windtech-international.com/company-news/iberdrola-reports-higher-first-half-profit-as-networks-investment-rises)
+- [Newsletter Investors July 2026 (PDF) – Iberdrola](https://www.iberdrola.com/documents/20125/5507066/260724-newsletter-EN.pdf)
 - [Iberdrola Reports Flat Q3 – Energy Intelligence](https://www.energyintel.com/0000017b-a7b8-de4c-a17b-e7fac61a0000)
 - [Iberdrola acquires Finland's Caruna in €5 billion deal – Enlit Europe](https://www.enlit.world/library/iberdrola-acquires-finlands-caruna-in-5-billion-deal)
 - [Iberdrola expands UK market presence with major acquisition – TipRanks](https://www.tipranks.com/news/company-announcements/iberdrola-expands-uk-market-presence-with-major-acquisition)
-- [Iberdrola lifts profit 22% and acquires Caruna for €5 billion – Energy News Pro](https://energynews.pro/en/iberdrola-lifts-profit-22-and-acquires-caruna-for-5-billion)
-- [Iberdrola reports higher first-half profit as networks investment rises – Windtech International](https://www.windtech-international.com/company-news/iberdrola-reports-higher-first-half-profit-as-networks-investment-rises)
+- [Iberdrola Q3/Q4 earnings calendar – Marketscreener](https://in.marketscreener.com/quote/stock/IBERDROLA-S-A-355153/calendar/)
