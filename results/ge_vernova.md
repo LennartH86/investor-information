@@ -1,54 +1,48 @@
 # GE Vernova (GEV)
-_Aktualisiert: 02.10.2026 | Zeitraum: 25.09.2026 – 02.10.2026_
+_Aktualisiert: 06.10.2026 | Zeitraum: 29.09.2026 – 06.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 2 Aktien
 - **Kaufkurs (Ø):** 835,09 EUR
-- **Aktueller Kurs:** 876,80 EUR
-- **Marktwert:** 1.753,60 EUR
-- **Unrealisierter G/V:** +81,34 EUR (+4,86%)
+- **Aktueller Kurs:** 882,40 EUR
+- **Marktwert:** 1.764,80 EUR
+- **Unrealisierter G/V:** +92,54 EUR (+5,53%)
 - **Portfolioanteil:** 1,14%
 - **Dividenden erhalten:** 0,37 EUR
-- **Bewertung:** The EUR-denominated position has swung from roughly break-even a week ago to a solid +4,86% gain, as continued USD share-price strength (shares traded near 950-960 USD in late September, up about 45% year-to-date) combined with EUR/USD moves to widen the gain. The stock remains richly valued (minimal dividend yield, premium multiple versus the market) on the back of its record ~176 Mrd. USD order backlog and raised FY2026 guidance, so with no new disqualifying news this week, Hold remains the sensible stance for this long-duration growth position; Q3 2026 results (expected in October) are the next catalyst to watch.
+- **Bewertung:** Der Kurs ist gegenüber der Vorwoche (876,80 EUR) leicht weiter auf 882,40 EUR gestiegen, der unrealisierte Gewinn hat sich von +4,86% auf +5,53% verbessert; die Aktie bleibt angesichts minimaler Dividendenrendite und einer hohen Bewertung (Rekordkurs, ~45-46% YTD in USD) ein klassisches Growth-Investment auf Basis des Rekord-Auftragsbestands und wiederholt angehobener Jahresprognosen. Solange keine enttäuschenden Nachrichten auftreten, erscheint Halten weiterhin angemessen; die für Oktober erwarteten Q3-2026-Zahlen sind der nächste wichtige Katalysator.
 
 ## Aktuelle Meldungen
-- GEV shares traded around 949,77-951,82 USD in late September 2026, up roughly 45-46% year-to-date, far outpacing the S&P 500's ~12,5% return over the same period; no major standalone press release specific to the first days of October 2026 had surfaced as of this update, with Q3 2026 earnings expected later in October.
-- GE Vernova's Onshore Wind business signed an agreement with Eurus Energy Holdings (mid-September 2026) to supply seven 4,2 MW turbines for the 29,4 MW Hiyamizutouge Wind Farm in Japan, including a two-year service contract with a two-year extension option.
-- A Rotor Life Extension (RLE) services agreement was announced covering five 9F gas turbines (~1.250 MW total) at three Egyptian power plants (Kureimat, Nubaria, Cairo North), extending operating life by 13-15 years for services running 2028-2035.
-- GE Vernova and Vineyard Wind reached an amicable settlement resolving all outstanding litigation tied to the Vineyard Wind offshore project, with GE Vernova withdrawing its termination notice and both parties dismissing pending legal claims.
-- Earlier in 2026, GE Vernova closed the acquisition of Robotech Automation (deal announced H1 2026, closed July 2026) to accelerate robotics and automation capabilities across its manufacturing base.
+- Im Berichtszeitraum (29.09.–06.10.2026) ist keine neue eigenständige Pressemitteilung von GE Vernova bekannt geworden; die Q3-2026-Quartalszahlen werden erst später im Oktober erwartet und lagen zum Stichtag 06.10.2026 noch nicht vor.
+- Laut einem Boursorama-Bericht erreichte die GEV-Aktie zuletzt ein Rekordniveau, getrieben von hohen Umsatzaussichten für 2026 sowie einer Ausweitung der Aktienrückkäufe.
+- Die Aktie hat 2026 bislang rund 45–46% zugelegt und damit den S&P 500 (~12,5% im gleichen Zeitraum) deutlich übertroffen, gestützt durch den Rekord-Auftragsbestand von rund 176 Mrd. USD.
+- Zur Erinnerung aus den Vorwochen: GE Vernova hat die Übernahme von Robotech Automation (Robotik/Automatisierung) im Juli 2026 abgeschlossen und den Rechtsstreit mit Vineyard Wind im September 2026 gütlich beigelegt; beide Themen bleiben im Hintergrund relevant, ohne dass es diese Woche neue Entwicklungen dazu gab.
 
 ## Management
-- CEO Scott Strazik continues to frame strategy around a multi-year electricity-demand "investment supercycle," a phrase he first used at Davos in January 2026 and has repeated at subsequent investor events, including the Bank of America Global Industrials Conference (March 2026) and the Morgan Stanley Laguna Conference (September 2026).
-- On the Q2 2026 earnings call (July 22), Strazik said data-center orders exceeded 5 Mrd. USD year-to-date, more than doubling versus the prior-year period, and that GE Vernova is "uniquely positioned to help meet this moment," with capex directed toward capacity expansion, R&D, and robotics/AI.
-- Management reiterated that the record backlog (176 Mrd. USD at Q2-end) is on track to reach 200 Mrd. USD "very early in 2027."
-- Eric Gray, CEO of the Power segment, discussed leadership, the energy transition, and AI-driven demand reshaping global power infrastructure in a Georgia Tech "Tech Talks Business" session in spring 2026.
-- Analyst sentiment stays predominantly positive (Buy/Outperform ratings, e.g., Jefferies with price targets in the 1.310-1.350 USD range), though a bearish Sell-rated outlier emerged in late September, signaling widening dispersion around the durability of AI-driven power demand.
+- CEO Scott Strazik hält an seiner Einschätzung eines mehrjährigen strombedingten "Investment-Superzyklus" fest, die er seit dem Weltwirtschaftsforum in Davos (Januar 2026) wiederholt bei Investorenkonferenzen vertreten hat.
+- In einem Semafor-Interview (Anfang Februar 2026, "The CEO behind GE Vernova's $200B power surge") beschreibt Strazik das Unternehmen trotz seiner Größe (rund 75.000 Mitarbeitende) als "Startup", das seit der Abspaltung von General Electric im April 2024 eigenständig agiert.
+- Auf dem Q2-2026-Earnings-Call (22. Juli) betonte Strazik, dass die Rechenzentrums-Auftragseingänge seit Jahresbeginn 5 Mrd. USD überschritten hätten – mehr als eine Verdopplung gegenüber dem Vorjahreszeitraum.
+- Keine neuen CEO-Auftritte oder Personalien speziell im Berichtszeitraum 29.09.–06.10.2026 identifiziert; die nächste öffentliche Positionierung des Managements wird im Rahmen der Q3-Ergebnisse im Oktober erwartet.
 
 ## Finanzielles
-- Q1 2026: orders of 18,3 Mrd. USD (+71% organic), revenue of 9,3 Mrd. USD (+16%, +7% organic), net income of 4,7 Mrd. USD (50,9% margin), adjusted EBITDA of 0,9 Mrd. USD (9,6% margin, +390 bps), free cash flow of 4,8 Mrd. USD; backlog grew 13,0 Mrd. USD sequentially (incl. 5 Mrd. USD from Prolec GE) and gas power equipment backlog/slot reservations rose from 83 to 100 GW.
-- Q2 2026: orders of 24,2 Mrd. USD (+88% organic), revenue of 11,1 Mrd. USD (+22%, +12% organic), net income of 0,6 Mrd. USD (5,8% margin), adjusted EBITDA of 1,2 Mrd. USD (11,3% margin, +340 bps organic), free cash flow of 5,1 Mrd. USD; backlog rose a further 13,0 Mrd. USD to a record ~176 Mrd. USD, with gas power equipment backlog/slot reservations rising from 100 to 116 GW.
-- Adjusted EPS of 2,47 USD in Q2 missed the Street's 3,04 USD estimate, briefly pressuring the stock after the print.
-- Full-year 2026 guidance was raised for the second time in three months (July 22): revenue now guided to 45,5-46,5 Mrd. USD (from 44,5-45,5 Mrd. USD) and free cash flow to 11,5-12,5 Mrd. USD (from 6,5-7,5 Mrd. USD previously).
-- In February 2026, GE Vernova completed the 5,275 Mrd. USD acquisition of the remaining 50% stake in the Prolec GE joint venture (transformers, ~10.000 employees), funded evenly with cash and 2,6 Mrd. USD of newly issued senior notes.
+- Q1 2026: Auftragseingang 18,3 Mrd. USD (+71% organisch), Umsatz 9,3 Mrd. USD (+16%), Free Cashflow 4,8 Mrd. USD; Backlog stieg um 13,0 Mrd. USD (inkl. 5 Mrd. USD aus Prolec GE).
+- Q2 2026: Auftragseingang 24,2 Mrd. USD (+88% organisch), Umsatz 11,1 Mrd. USD (+22%), bereinigtes EBITDA 1,2 Mrd. USD (Marge 11,3%, +340 Bp. organisch), Free Cashflow 5,1 Mrd. USD; Rekord-Backlog von ca. 176 Mrd. USD.
+- Die Jahresprognose 2026 wurde am 22. Juli zum zweiten Mal binnen drei Monaten angehoben: Umsatz nun 45,5–46,5 Mrd. USD (zuvor 44,5–45,5 Mrd. USD), Free Cashflow 11,5–12,5 Mrd. USD (zuvor 6,5–7,5 Mrd. USD).
+- Im Februar 2026 schloss GE Vernova die Übernahme der restlichen 50%-Beteiligung am Prolec-GE-Joint-Venture für rund 5,3 Mrd. USD ab, finanziert zur Hälfte über eine im Februar platzierte Anleihe über 2,6 Mrd. USD.
+- Laut Medienberichten (Boursorama) wurden die Aktienrückkäufe zuletzt ausgeweitet, was zusammen mit der angehobenen Umsatzprognose zum jüngsten Kursrekord beigetragen hat.
+- Für den Berichtszeitraum selbst (29.09.–06.10.2026) liegen keine neuen offiziellen Finanzkennzahlen vor; die Q3-2026-Berichterstattung steht noch aus.
 
 ## Strategie & Ausblick
-- GE Vernova targets at least 125 GW of gas equipment under contract by year-end 2026, with an annualized gas turbine output run rate of 20 GW in H2 2026, rising to 24 GW by 2028 and 30 GW by 2030, to meet AI/data-center-driven electricity demand.
-- The company is committed to investing 6 Mrd. USD in capex (2025-2028, including 1 Mrd. USD tied to Prolec GE from 2026-2028) and 5 Mrd. USD in R&D (2025-2028), alongside the newly closed Robotech Automation deal to build out robotics/automation capabilities.
-- International expansion (Japan onshore wind order, Egypt rotor life-extension services) and resolution of the Vineyard Wind litigation reduce legacy offshore-wind tail risk and broaden the services backlog.
-- The record order backlog and repeated guidance raises point to sustained multi-year growth, but the Q2 EPS miss and emerging bearish analyst dissent underscore that margin execution and the durability of AI-driven power demand remain the key swing factors; Q3 2026 results, expected in October, are the next readthrough.
-- For the EUR-based position, this remains a long-duration bet on the global power/electrification buildout rather than a near-term income play; currency effects continue to meaningfully influence the EUR return independent of the strong USD share-price trend.
+- GE Vernova strebt bis Jahresende 2026 mindestens 125 GW an unter Vertrag stehender Gasturbinen-Kapazität an, mit einer annualisierten Fertigungsrate von 20 GW in H2 2026, steigend auf 24 GW bis 2028 und 30 GW bis 2030, um die KI- und Rechenzentrums-getriebene Stromnachfrage zu bedienen.
+- Capex-Commitment von 6 Mrd. USD (2025–2028, davon 1 Mrd. USD im Zusammenhang mit Prolec GE) sowie F&E-Investitionen von 5 Mrd. USD (2025–2028) sollen Kapazität und Technologieführerschaft sichern; die Integration von Robotech Automation soll Robotik/Automatisierung in der Fertigung vorantreiben.
+- Der Rekord-Auftragsbestand (~176 Mrd. USD) und die wiederholten Prognoseanhebungen stützen die mehrjährige Wachstumsstory; die im Oktober erwarteten Q3-2026-Zahlen sind der nächste wesentliche Prüfstein, insbesondere für Margenentwicklung und die Nachhaltigkeit der KI-getriebenen Stromnachfrage.
+- Für die EUR-Position bleibt dies eine langfristige Wette auf den globalen Strom-/Elektrifizierungs-Ausbau statt ein kurzfristiges Einkommensinvestment; Wechselkurseffekte (EUR/USD) beeinflussen die EUR-Rendite weiterhin unabhängig von der USD-Kursentwicklung.
 
 ## Quellen
-- [GE Vernova reports second quarter 2026 financial results and raises 2026 financial guidance | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial)
-- [GE Vernova reports first quarter 2026 financial results, raises guidance | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-reports-first-quarter-2026-financial)
-- [GE Vernova CEO Scott Strazik to speak at 14th annual Morgan Stanley Laguna conference | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-ceo-scott-strazik-speak-14th-annual-morgan-stanley-laguna-conference)
-- [GE Vernova CEO Scott Strazik to speak at Bank of America Global Industrials Conference | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-ceo-scott-strazik-speak-bank-america-global)
-- [GE Vernova advances asset longevity for Egypt's power sector with Rotor Life Extension services | GE Vernova News](https://www.gevernova.com/news/press-releases/ge-vernova-advances-asset-longevity-egypts-power-sector-rotor-life-extension)
-- [GE Vernova Announces Closing of $2.6 Billion Public Offering of Senior Notes | Business Wire](https://www.businesswire.com/news/home/20260204407754/en/GE-Vernova-Announces-Closing-of-%242.6-Billion-Public-Offering-of-Senior-Notes)
-- [GE Vernova Inc. Form 8-K Q1 2026 | SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000063/gevpressrelease1q26.htm)
+- [GE Vernova atteint un niveau record grâce à des perspectives de recettes élevées pour 2026 et à une augmentation des rachats d'actions | Boursorama](https://www.boursorama.com/bourse/actualites/ge-vernova-atteint-un-niveau-record-grace-a-des-perspectives-de-recettes-elevees-pour-2026-et-a-une-augmentation-des-rachats-d-actions-8b83a2478c74d68598b55776d7867661)
 - [GE Vernova raises 2026 revenue outlook again as orders surge](https://mezha.net/eng/bukvy/89875b7c_ge_vernova_raises/)
-- [GE Vernova lifts guidance as orders, profit surge | DataCentreNews UK](https://datacentrenews.uk/story/ge-vernova-lifts-guidance-as-orders-profit-surge)
-- [GE Vernova (NYSE: GEV) Stock Price Surges 45% In 2026, But Analysts See More Room To Run | Foreign Policy Journal](https://www.foreignpolicyjournal.com/2026/09/28/ge-vernova-nyse-gev-stock-price-surges-45-in-2026-but-analysts-see-more-room-to-run/)
-- [Scott Strazik's stunning turnaround at GE Vernova | Fortune](https://fortune.com/2026/08/12/from-edison-to-the-ai-age-inside-ge-vernovas-reinvention-and-600-stock-spike/)
-- [GE Vernova Inc. (GEV) Stock Price, News, Quote & History | Yahoo Finance](https://finance.yahoo.com/quote/GEV/)
+- [GE Vernova reports second quarter 2026 financial results and raises 2026 financial guidance | GE Vernova News](https://gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial)
+- [GE Vernova Q2 2026 webcast press release (PDF) | GE Vernova](https://www.gevernova.com/sites/default/files/gev_webcast_pressrelease_07222026.pdf)
+- [GE Vernova Announces Closing of $2.6 Billion Public Offering of Senior Notes | Business Wire](https://www.businesswire.com/news/home/20260204407754/en/GE-Vernova-Announces-Closing-of-%242.6-Billion-Public-Offering-of-Senior-Notes)
+- [The CEO behind GE Vernova's $200B power surge | Semafor](https://www.semafor.com/article/02/05/2026/the-ceo-behind-ge-vernovas-power-surge)
+- [GE Vernova Inc. Form 8-K, Q1 2026 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000063/gev1q2026form8-k04222026.pdf)
+- [GE Vernova gas turbine investor coverage | Utility Dive](https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/807662/)
