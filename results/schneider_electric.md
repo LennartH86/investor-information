@@ -1,49 +1,49 @@
-# Schneider Electric SE (SU)
-_Updated: 04.10.2026 | Period: 27.09.2026 – 04.10.2026_
+# Schneider Electric SE (SU.PA)
+_Aktualisiert: 07.10.2026 | Zeitraum: 30.09.2026 – 07.10.2026_
 
-## Portfolio Analysis
-- **Position:** 5 shares
-- **Purchase price (avg):** 260.85 EUR
-- **Current price:** 303.77 EUR
-- **Market value:** 1518.85 EUR
-- **Unrealized gain/loss:** +201.22 EUR (+15.27%)
-- **Portfolio allocation:** 0.98%
-- **Dividends received:** 0 EUR
-- **Assessment:** The share price continued its climb this week (292.50 → 303.77 EUR, +3.9%), pushing the unrealized gain to +15.27%, as the market looks ahead to Q3 2026 results on October 29. Valuation remains rich for a quality industrial/AI-infrastructure compounder, and at least one French-market commentary (abcbourse.com) flags caution on current pricing despite the solid fundamentals; no dividend has been received yet given the short holding period. With record H1 2026 revenue, raised guidance, and continued strategic M&A (Cognite, Shelly Group, India buyout), a Hold stance looks reasonable, with a possible Add on weakness ahead of the Q3 print.
+## Portfolio-Analyse
+- **Position:** 5 Aktien
+- **Kaufkurs (Ø):** 260,85 EUR
+- **Aktueller Kurs:** 260,20 EUR
+- **Marktwert:** 1.301,00 EUR
+- **Unrealisierter G/V:** -16,63 EUR (-1,26%)
+- **Portfolioanteil:** 0,84%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** Der Kurs liegt aktuell knapp unter dem durchschnittlichen Einstandskurs (260,20 vs. 260,85 EUR), nachdem die Aktie in den Vorwochen deutlich höher notiert hatte (zuletzt noch rund 300 EUR) – ein spürbarer Rückgang, der angesichts der starken operativen Entwicklung (Rekord-H1 2026, angehobene Jahresprognose) eher als Bewertungskorrektur nach einer vorher sehr ambitionierten Bewertung einzuordnen ist. Französische Analysten hatten bereits zuvor vor der "teuren" Bewertung gewarnt; vor den Q3-Zahlen am 29.10.2026 erscheint angesichts der soliden Fundamentaldaten ein Halten sinnvoll, ein selektives Aufstocken auf dem aktuellen, niedrigeren Niveau ist für langfristig orientierte Anleger denkbar.
 
-## Current News
-- Schneider Electric reported record first-half 2026 revenue (~€24.8bn, +14% organic) and record Q2 2026 revenue (~€13.4bn/€11.5bn, +16.5–17% organic), marking one of the strongest quarters in company history.
-- Data Center demand remained at a very high level; Energy Management saw broad-based growth across all end markets, and Industrial Automation gained momentum in both Discrete and Process Automation.
-- Impact 2030 sustainability roadmap update: the company's Impact score reached 3.69/10, six months in, on track for the 2026 annual target of 4.20/10.
-- New product launch: "Schneider Charge," a residential Level 2 EV charger in Canada with SmartAmp dynamic load management.
-- Next major catalyst: Q3 2026 results, scheduled for October 29, 2026.
-- No Schneider Electric-specific press release dated directly in the 27.09–04.10.2026 window was found; the above reflects the most recent confirmed company news flowing into this period.
+## Aktuelle Meldungen
+- Im Beobachtungszeitraum (30.09.–07.10.2026) wurde keine unternehmensspezifische Pressemitteilung von Schneider Electric mit explizitem Datum gefunden; die Nachrichtenlage wird weiterhin von den Rekord-Halbjahreszahlen (H1 2026) und der angehobenen Jahresprognose geprägt, die den Markt seither begleiten.
+- Schneider Electric hat im August 2026 "Schneider Charge" vorgestellt, ein intelligentes Level-2-Ladegerät für Elektrofahrzeuge im Privatbereich (USA/Kanada) mit dynamischem Lastmanagement (SmartAmp).
+- Zudem wurde die nächste Generation der APC Smart-UPS lanciert – laut Unternehmen die erste Multi-Chemie-USV-Lösung für verteilte IT- und Edge-Umgebungen.
+- Nächster wichtiger Termin: Veröffentlichung der Q3-2026-Ergebnisse am 29. Oktober 2026.
 
 ## Management
-- CEO Olivier Blum (in post since November 2024) continues to frame strategy around "energy intelligence," describing an era where "AI and energy are inseparable, and together, they will reshape every business."
-- Blum has emphasized speed and execution ("there is always a premium for a company that will move fast — speed over perfection and execution") and is accelerating regionalization, giving regional teams more autonomy.
-- Management reiterated that H1 2026's record revenue, adjusted EBITA margin and free cash flow reflect disciplined execution of the company program launched in Q4 2025.
+- CEO Olivier Blum (im Amt seit November 2024) treibt die Strategie der "Energie-Intelligenz" weiter voran; in einem Interview mit Semafor (März 2026, "moving at the pace of Nvidia") erklärte er, die Welt werde bis 2035 zusätzlich rund 10.000 Terawatt an Energie benötigen und der einzige Weg, diese Lücke zu schließen, sei, Energie "intelligenter" zu machen.
+- Blum positioniert Schneider Electric zunehmend als "Energy Technology Partner" statt reinen Technologieanbieter – mit Fokus auf die Verbindung von Stromnetz und Rechenzentrum über Daten und KI.
+- Bei einem HEC-Event (Juni 2026) betonte Blum die globale Innovationsstrategie des Unternehmens; er selbst leitet das Unternehmen zunehmend aus Dubai, das als Hub für die Entwicklung in Indien, dem Nahen Osten und künftig Afrika dient.
+- Management bekräftigte, dass die Rekordzahlen aus H1 2026 (Umsatz, bereinigte EBITA-Marge, Free Cashflow) Ergebnis der disziplinierten Umsetzung des im Q4 2025 gestarteten Unternehmensprogramms seien.
 
-## Financials
-- H1 2026 revenue: ~€24.8bn, +14% organic growth (record first half).
-- Q2 2026 revenue: ~€11.5bn (+17% organic), a record quarterly high; Energy Management +18% organic, Industrial Automation +11% organic.
-- Regional growth leadership: North America +23% organic, China & East Asia +20% organic.
-- Adjusted EBITA margin expanded, supporting a raised full-year guidance.
-- Q3 2026 results due October 29, 2026, which should clarify integration costs from recent acquisitions and the updated full-year outlook.
+## Finanzielles
+- H1 2026 Umsatz: ca. 24,8 Mrd. EUR, organisches Wachstum von 14% – Rekord-Halbjahr.
+- Q2 2026 Umsatz: ca. 11,5 Mrd. EUR (+17% organisch), Rekordquartal; Energy Management +18% organisch, Industrial Automation +11% organisch.
+- Regionale Wachstumsführer: Nordamerika +23–25% organisch (größte Region, ca. 40% des Q2-Umsatzes, getrieben durch Rechenzentren, Halbleiterfabriken und Industrieelektrifizierung), China & Ostasien +20% organisch.
+- Angehobene Jahresprognose 2026: organisches Umsatzwachstum von +10% bis +13% und Margenausweitung von 70–100 Basispunkten erwartet.
+- Nächster Berichtstermin: Q3-2026-Zahlen am 29. Oktober 2026, die weitere Details zu Integrationskosten der jüngsten Akquisitionen und zur aktualisierten Jahresprognose liefern dürften.
+- Keine Dividende im Betrachtungszeitraum für die Position erhalten (kurze Haltedauer seit Erstkauf am 19.05.2026).
 
-## Strategy & Outlook
-- Continued active portfolio management via 2026 acquisitions: Cognite (industrial AI, ~$3.1bn / €2.7bn, merged into AVEVA to build a unified industrial AI platform), Shelly Group (~€1.37bn), and the earlier full buyout of the India unit (SEIPL, ~€5.5bn), with plans to expand India capacity 2.5–3x.
-- Strategic focus remains on AI-driven data center electrification, industrial automation/software, and energy transition technology, alongside the Impact 2030 sustainability roadmap.
-- At least one French-market analysis (abcbourse.com) describes Schneider Electric as "a solid leader but a valuation that calls for caution," underlining the premium rating versus underlying growth even after the strong H1.
-- Next catalyst: Q3 2026 results on October 29, 2026.
+## Strategie & Ausblick
+- Fortgesetztes aktives Portfoliomanagement durch 2026er-Akquisitionen: Cognite (Industrial AI, ca. 3,1 Mrd. USD / 2,7 Mrd. EUR, wird mit AVEVA zu einer einheitlichen Industrial-AI-Plattform verschmolzen), Shelly Group (ca. 1,37 Mrd. EUR) sowie die vollständige Übernahme der indischen Einheit SEIPL (ca. 5,5 Mrd. EUR) mit geplanter Kapazitätsausweitung in Indien um das 2,5- bis 3-Fache.
+- Strategischer Fokus bleibt auf KI-getriebener Elektrifizierung von Rechenzentren, industrieller Automatisierung/Software sowie Energiewende-Technologien, flankiert von der Nachhaltigkeits-Roadmap "Impact 2030".
+- Französische Marktkommentare (z.B. abcbourse.com) bezeichnen Schneider Electric weiterhin als "solide Marktführerin, deren Bewertung aber zur Vorsicht mahnt" – die Aktie wird trotz starker operativer Entwicklung als ambitioniert bewertet eingeschätzt; der jüngste Kursrückgang auf 260 EUR könnte diese Bewertungsdiskussion teilweise reflektieren.
+- Nächster Katalysator: Q3-2026-Ergebnisse am 29. Oktober 2026.
 
-## Sources
+## Quellen
 - [Schneider Electric delivers strong half year results – TED Magazine](https://tedmag.com/schneider-electric-delivers-strong-half-year-results/)
-- [Schneider Electric erzielt im ersten Halbjahr 2026 starke Fortschritte bei der Umsetzung seiner Nachhaltigkeits-Roadmap Impact 2030 – pv-magazine.de](https://www.pv-magazine.de/unternehmensmeldungen/schneider-electric-erzielt-im-ersten-halbjahr-2026-starke-fortschritte-bei-der-umsetzung-seiner-nachhaltigkeits-roadmap-impact-2030/)
+- [Schneider Electric relève ses objectifs après un premier semestre record – Fortuneo Bourse](https://bourse.fortuneo.fr/actualites/schneider-electric-releve-ses-objectifs-apres-un-premier-semestre-record-7066359)
 - [Schneider's Surge – Record YTD 2026 Results Could Signal a New Era for Electrification and Distribution – electricaltrends.com](https://electricaltrends.com/?p=3697806)
 - [Schneider Electric – 2026 half year results – emr-online.com](https://www.emr-online.com/?p=14040)
-- [Schneider Electric CEO Olivier Blum: a model of corporate leadership and innovation – Fortune](https://fortune.com/2025/10/22/schneider-electric-ceo-olivier-blum-model-corporate-leadership-innovation)
-- [Exclusive: Schneider Electric's CEO on how he's rebuilding the 189-year-old energy giant for the AI era – AOL/Fortune](https://www.aol.com/finance/global-500-energy-ceo-says-100622964.html)
+- [Schneider Electric's Olivier Blum on moving at the pace of Nvidia – Semafor](https://www.semafor.com/article/03/26/2026/schneider-electrics-olivier-blum-on-moving-at-the-pace-of-nvidia)
+- [Matin HEC with Olivier Blum, CEO of Schneider Electric – HEC Stories](https://hecstories.fr/en/matin-hec-with-olivier-blum-ceo-of-schneider-electric/)
 - [Schneider Electric : un leader solide mais une valorisation qui appelle à la prudence – abcbourse.com](https://www.abcbourse.com/analyses/analyse/7096)
 - [Schneider Electric enchaîne les acquisitions – CFNEWS](https://www.cfnews.net/L-actualite/International/Operations/M-A/Schneider-Electric-enchaine-les-acquisitions-112708)
 - [Schneider Electric strengthens India position with joint venture acquisition – Enlit Europe](https://www.enlit.world/library/schneider-electric-strengthens-india-position-with-joint-venture-acquisition)
