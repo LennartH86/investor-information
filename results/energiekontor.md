@@ -1,41 +1,42 @@
 # Energiekontor (EKT.DE)
-_Aktualisiert: 03.10.2026 | Zeitraum: 26.09.2026 – 03.10.2026_
+_Aktualisiert: 08.10.2026 | Zeitraum: 01.10.2026 – 08.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 90 Aktien
 - **Kaufkurs (Ø):** 39,00 EUR
-- **Aktueller Kurs:** 24,80 EUR
-- **Marktwert:** 2.232,00 EUR
-- **Unrealisierter G/V:** -1.301,47 EUR (-36,83%)
-- **Portfolioanteil:** 1,45%
+- **Aktueller Kurs:** 23,80 EUR
+- **Marktwert:** 2.142,00 EUR
+- **Unrealisierter G/V:** -1.391,47 EUR (-39,38%)
+- **Portfolioanteil:** 1,38%
 - **Dividenden erhalten:** 44,18 EUR
-- **Bewertung:** Der Kurs hat sich im Berichtszeitraum leicht erholt (24,80 EUR gegenüber zuvor rund 24,45 EUR), wodurch sich der Buchverlust der Position geringfügig auf -36,83% verringert hat. Konkrete aktuelle KGV-/KBV-Kennzahlen lagen in der Recherche nicht vor; bezogen auf die zuletzt bestätigten Kursziele von Analysten (First Berlin: Buy, Kursziel 66 EUR, noch vor der Prognosesenkung) impliziert der aktuelle Kurs ein hohes Aufholpotenzial, sofern sich die operativen Risiken (UK-Netzanschlüsse) auflösen. Da im Berichtszeitraum keine neuen negativen Nachrichten hinzukamen, die zentralen Belastungsfaktoren (gekappte EBT-Prognose, ausstehende Netzanschlussangebote in UK) aber unverändert fortbestehen, bleibt **Halten** bis zur Klärung dieser offenen Punkte die naheliegende Strategie; weder ein überstürzter Verkauf noch ein Nachkauf erscheinen aktuell zwingend geboten.
+- **Bewertung:** Der Kurs ist seit Jahresbeginn (Hoch bei knapp 48 EUR im Mai) massiv eingebrochen und notiert aktuell rund 50% darunter, nachdem das H1-2026-Ergebnis überraschend in die Verlustzone rutschte (EBT ca. -4,7 Mio. EUR trotz Umsatzplus von über 30%). Das Management bestätigt zwar die Jahresprognose (EBT 40-60 Mio. EUR), doch deren Erreichung hängt stark von Projektfertigstellungen im zweiten Halbjahr ab. Angesichts der Unsicherheit und des bereits deutlichen Buchverlusts erscheint Halten sinnvoll – eine Aufstockung sollte erst nach Bestätigung der H2-Ziele erwogen werden.
 
 ## Aktuelle Meldungen
-- Kein neues Ad-hoc und keine neue Pressemitteilung von Energiekontor im engeren Berichtszeitraum; zum ursprünglich für Mitte September erwarteten Update der Netzanschlussangebote für die weitere britische Projektpipeline liegt weiterhin keine neue Meldung vor.
-- Leichte Kurserholung: Die Aktie stieg im Berichtszeitraum von rund 24,45 EUR auf 24,80 EUR; ein Marktkommentar (stock3.com) sieht Anzeichen einer beginnenden Stabilisierung nach dem Kurssturz im August, mit weiterem Erholungspotenzial.
-- Laut einer Unternehmensmeldung wurde Nexia als neuer Abschlussprüfer des Konzerns benannt; der genaue zeitliche Bezug dieser Meldung zum aktuellen Berichtszeitraum ließ sich nicht eindeutig bestätigen.
+- H1 2026: Umsatz wächst um über 30% auf rund 99,9 Mio. EUR, Ergebnis rutscht aber mit EBT von ca. -4,7 Mio. EUR (Vorjahr: +28,3 Mio. EUR) in die Verlustzone.
+- Vier Windparks mit insgesamt 88 MW im ersten Halbjahr ans Netz genommen; Eigenportfolio wächst auf 41 Parks mit 461 MW.
+- Projektpipeline erreicht Rekordwert von über 12 GW, inklusive US-Projektrechten (Solar).
+- Hauptversammlung Ende Mai beschließt Dividende von 1,00 EUR je Aktie – doppelt so hoch wie im Vorjahr.
+- Erneut attraktive PPA-Preise für 17 Windparks mit über 100 MW Gesamtleistung für 2026/2027 gesichert.
 
 ## Management
-Keine aktuellen Informationen gefunden.
+- CEO Peter Szabo beschreibt H1 2026 als Phase intensiver Umsetzung und Bauaktivität.
+- Management bestätigt trotz des Verlusts im H1 die Jahresprognose, verweist aber auf die Notwendigkeit, zentrale Ziele (u.a. UK-Ready-to-Build-Verkäufe, Inbetriebnahme von drei deutschen Windparks) im zweiten Halbjahr zu erreichen.
+- Szabo verweist auf ein weiterhin herausforderndes regulatorisches und wirtschaftliches Umfeld in den Kernmärkten.
 
 ## Finanzielles
-- Keine neuen Quartalszahlen im Berichtszeitraum; der nächste reguläre Bericht (Quartalsmitteilung Q3/9M 2026) wird erst für November 2026 erwartet.
-- Weiterhin gültige Basis: H1 2026 mit Umsatz +31% auf rund 99,9 Mio. EUR bei einem operativen Verlust auf EBT-Ebene; die im August 2026 auf 5-10 Mio. EUR gesenkte FY2026-EBT-Prognose (zuvor 40-60 Mio. EUR) bleibt unverändert gültig.
-- Das laufende Aktienrückkaufprogramm (28.05.2026 bis 27.05.2027, bis zu 80.000 Aktien bzw. max. 9 Mio. EUR) bleibt aktiv; neue Fortschrittsdetails wurden im Berichtszeitraum nicht gefunden.
+- H1-2026-Umsatz: ca. 99,9 Mio. EUR (+31% ggü. Vorjahr).
+- H1-2026-Nettoergebnis: ca. -5,3 Mio. EUR (-0,38 EUR je Aktie).
+- Jahresprognose 2026: Group-EBT zwischen 40 und 60 Mio. EUR.
+- Stromerzeugungssegment (448 MW) erzeugte in Q1 193 GWh (+31% ggü. Vorjahr) dank besserer Windausbeute.
 
 ## Strategie & Ausblick
-- Das Unternehmen hält an der Erwartung fest, dass wesentliche Ergebnisbeiträge für 2026 vor allem im zweiten Halbjahr anfallen, abhängig von UK-Projektverkäufen und der Übergabe bereits verkaufter deutscher Windparks.
-- Das Hauptrisiko bleibt unverändert die weitere Entwicklung der Netzanschlüsse der schottischen Windparkprojekte; zusätzliche Verzögerungen könnten die bereits gesenkte Jahresprognose erneut belasten.
-- Die zum 1. September 2026 gestartete StromVKG-Reform mit neuer Auktionslogik bleibt ein mittelfristig relevanter Regulierungsfaktor für die Integration von Speichern und die Planung neuer Projekte.
-- Analysten (First Berlin Equity Research) hatten nach starkem Pipeline-Ausbau im ersten Quartal 2026 ein Kursziel von 66 EUR (Buy) bestätigt; ob diese Einschätzung nach der Prognosesenkung im August weiterhin unverändert Bestand hat, ließ sich in der aktuellen Recherche nicht bestätigen.
+- Fokus auf Fertigstellung der Bauprojekte im zweiten Halbjahr 2026, insbesondere drei deutsche Windparks und UK-Ready-to-Build-Verkäufe.
+- Weiterer Ausbau der Projektpipeline, zunehmend auch im US-Solarmarkt.
+- Analysten (First Berlin) bestätigten zuletzt ein Buy-Rating mit Kursziel 66 EUR, was angesichts des aktuellen Kurses von 23,80 EUR auf erhebliches Aufholpotenzial hindeutet, sofern die Jahresziele erreicht werden.
 
 ## Quellen
-- [Energiekontor's first half of 2026 shaped by high construction activity (energiekontor.de)](https://www.energiekontor.de/en/news/energiekontors-first-half-of-2026-shaped-by-high-construction-activity-key-earnings-contributions-scheduled-for-the-second-half-of-2026.html)
-- [Energiekontor adjusts earnings guidance for the 2026 financial year (energiekontor.de)](https://www.energiekontor.de/en/ad-hoc/energiekontor-adjusts-earnings-guidance-for-the-2026-financial-year.html)
-- [Energiekontor (EKT) Q2 2026 earnings summary (quartr.com)](https://quartr.com/events/energiekontor-ag-ekt-q2-2026_oCW45S0I)
-- [Energiekontor: Nexia wird neuer Abschlussprüfer (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-nexia-wird-neuer-abschlusspruefer-900038)
-- [Energiekontor Aktie: erholt sich deutlich, ist noch mehr drin? (stock3.com)](https://stock3.com/news/energiekontor-aktie-erholt-sich-deutlich-ist-noch-mehr-drin-17073418)
-- [Energiekontor steigt: Analyst bestätigt Buy und Kursziel 66 Euro nach starkem Q1-Pipeline-Ausbau (goldesel.de)](https://goldesel.de/aktien/news/energiekontor-steigt-analyst-bestatigt-buy-und-kursziel-66-euro-nach-starkem-q1-pipeline-ausbau)
-- [Energiekontor AG: Ordentliche Hauptversammlung stimmt allen Tagesordnungspunkten mit breiter Mehrheit zu (boerse-online.de)](https://www.boerse-online.de/dpa-afx/eqs-news-energiekontor-ag-ordentliche-hauptversammlung-stimmt-allen-tagesordnungspunkten-mit-breiter-mehrheit-zu-deutsch-527697.html)
-- [Energiekontor AG – Management Board: Peter Szabo (energiekontor.de)](https://www.energiekontor.de/en/company/management-board-and-supervisory-board/peter-szabo.html)
+- [Energiekontor: H1 2026 shaped by high construction activity](https://www.energiekontor.de/en/news/energiekontors-first-half-of-2026-shaped-by-high-construction-activity-key-earnings-contributions-scheduled-for-the-second-half-of-2026.html)
+- [Energiekontor startet planmäßig ins Geschäftsjahr 2026](https://www.boerse-online.de/dpa-afx/eqs-news-energiekontor-ag-energiekontor-startet-planmaessig-ins-geschaeftsjahr-2026-operative-fortschritte-bestaetigen-robuste-basis-fuer-weiteren-jahresverlauf-deutsch-524527.html)
+- [Energiekontor rutscht im H1 in die Verlustzone (goldesel.de)](https://goldesel.de/aktien/news/energiekontor-rutscht-im-h1-in-die-verlustzone-umsatz-wachst-auf-999-mio-euro-prognose-bleibt)
+- [Energiekontor (EKT) Q2 2026 earnings summary (Quartr)](https://quartr.com/events/energiekontor-ag-ekt-q2-2026_oCW45S0I)
+- [Energiekontor Aktie: Operativer Rekordlauf (Börse Express)](https://www.boerse-express.com/news/articles/energiekontor-aktie-operativer-rekordlauf-853439)
