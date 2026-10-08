@@ -1,42 +1,47 @@
-# Münchener Rück (MUV2)
-_Aktualisiert: 04.10.2026 | Zeitraum: 27.09.2026 – 04.10.2026_
+# Münchener Rück (MUV2.DE)
+_Aktualisiert: 08.10.2026 | Zeitraum: 01.10.2026 – 08.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
-- **Kaufkurs (Ø):** 215.00 EUR
-- **Aktueller Kurs:** 509.90 EUR
-- **Marktwert:** 5099.00 EUR
-- **Unrealisierter G/V:** +2933.82 EUR (+135.50%)
-- **Portfolioanteil:** 3.30%
-- **Dividenden erhalten:** 719.94 EUR
-- **Bewertung:** Der Kurs gab gegenüber der Vorwoche leicht von rund 514 EUR auf 509,90 EUR nach, bleibt aber weiterhin auf hohem Niveau und mehr als 135% über dem Einstandspreis. Bei der für 2026 avisierten Dividende von 24,00 EUR je Aktie ergibt sich eine Dividendenrendite von rund 4,7%; Analysten bleiben uneinheitlich (Hold/Overweight/Sell, DZ BANK mit Kaufempfehlung seit 18.09.) bei Kurszielen überwiegend im Bereich 565–600 EUR. Angesichts der bereits sehr hohen Bewertung nach der starken Kursrallye seit Kauf erscheint ein Halten der Position weiterhin sinnvoll; eine Aufstockung würde sich eher bei einem deutlicheren Kursrücksetzer anbieten.
+- **Kaufkurs (Ø):** 215,00 EUR
+- **Aktueller Kurs:** 517,60 EUR
+- **Marktwert:** 5.176,00 EUR
+- **Unrealisierter G/V:** +3.010,82 EUR (+139,06%)
+- **Portfolioanteil:** 3,33%
+- **Dividenden erhalten:** 719,94 EUR
+- **Bewertung:** Der Kurs legte gegenüber der Vorwoche von rund 509,90 EUR auf 517,60 EUR zu und notiert damit nahe seinem bisherigen Jahreshoch, rund 139% über dem Einstandspreis. Bei der für 2026 beschlossenen Dividende von 24,00 EUR je Aktie ergibt sich auf aktuellem Kursniveau eine Dividendenrendite von rund 4,6%. Nach der sehr starken Kursrallye seit Erstkauf (2020) und angesichts bereits hoher Bewertungsniveaus erscheint ein Halten der Position weiterhin sinnvoll; für eine Aufstockung würde sich eher ein deutlicherer Kursrücksetzer anbieten, etwa falls der im Herbst erwartete Strategieausblick ("Ambition 2030") oder die Q3-Zahlen enttäuschen.
 
 ## Aktuelle Meldungen
-- Die Aktie bewegte sich in der Berichtswoche leicht abwärts von rund 514 EUR auf 509,90 EUR; damit setzt sich die seit Jahresbeginn beobachtete Seitwärts-/Konsolidierungsphase auf hohem Niveau fort.
-- Seit Jahresbeginn liegt der Kurs weiterhin rund 9% im Minus, was unter anderem auf den im August gesenkten Umsatzausblick und Preisdruck im Rückversicherungsgeschäft zurückgeführt wird.
-- Keine wesentlichen neuen Unternehmensmeldungen (Ad-hoc, Pressemitteilungen) für den Zeitraum 27.09.–04.10.2026 auffindbar; die zuletzt bekannten Themen (Italien-Expansion von Munich Re Specialty, Aktienrückkaufprogramm, At-Bay-Übernahme) bleiben unverändert aktuell.
+- Für den engeren Berichtszeitraum (01.–08.10.2026) wurden keine neuen Ad-hoc-Meldungen oder Pressemitteilungen von Munich Re gefunden; der Kursanstieg auf 517,60 EUR setzt die Erholung nach dem Kursrutsch im August fort.
+- Weiterhin prägend bleibt die Kursreaktion von Anfang August: CFO Andrew Buchanan hatte eine detaillierte Prüfung des Neugeschäfts für Q3/Q4 angekündigt, was die Aktie zeitweise um rund 14% einbrechen ließ.
+- Für die Hurrikansaison 2026 hat Munich Re seine Retrozessionsabsicherung von 1,55 Mrd. auf 600 Mio. USD reduziert – ein Zeichen von mehr Risikoappetit bzw. Vertrauen in die eigene Schadenbilanz.
 
 ## Management
-- CEO Christoph Jurecka (seit 01.01.2026 im Amt, zuvor CFO) hält trotz des im August gesenkten Umsatzausblicks am Nettogewinnziel von 6,3 Mrd. EUR für 2026 fest und betont eine Strategie "Profitabilität vor Wachstum".
-- CFO Andrew Buchanan äußerte sich in einem Interview mit der Börsen-Zeitung vorsichtig zum Ausblick im Rückversicherungsgeschäft Sach/Haftpflicht angesichts eines globalen Kapitalüberangebots von rund 805 Mrd. USD, was am Markt negativ aufgenommen wurde.
+- CEO Christoph Jurecka (seit 01.01.2026 im Amt, zuvor CFO, Nachfolger von Joachim Wenning) hält trotz gesenkter Umsatzprognose am Nettogewinnziel von 6,3 Mrd. EUR für 2026 fest.
+- CFO Andrew Buchanan (seit 01.01.2026) sorgte im Sommer mit vorsichtigen Aussagen zum Neugeschäft und Preisdruck im Rückversicherungsgeschäft für Verunsicherung am Markt.
+- Robin Johnson wurde als Chief Technology Officer in den Konzernvorstand berufen.
+- Auf Tochtergesellschaftsebene wurde Kevin Rethual zum CEO von Munich Re Retakaful ernannt (wirksam 01.06.2026).
 
 ## Finanzielles
-- Nach einem Konzerngewinn von rund 3,9 Mrd. EUR im ersten Halbjahr 2026 (Q1: 1,714 Mrd. EUR; Q2: rund 2,2 Mrd. EUR, deutlich über Analystenkonsens von 1,786 Mrd. EUR) hat Münchener Rück bereits über 60% des Jahresziels von 6,3 Mrd. EUR erreicht.
-- Die im August gesenkte Umsatzprognose 2026 (von 64 auf 62 Mrd. EUR, Rückversicherung von 40 auf 38 Mrd. EUR) bleibt weiterhin gültige Grundlage der Marktbewertung.
-- Solvenzquote von 292% (Stand Ende Q1 2026) unterstreicht die weiterhin starke Kapitalausstattung; Moody's hatte das Rating im Juli von "Aa3" auf "Aa2" angehoben.
-- Dividende 2026: 24,00 EUR je Aktie, entsprechend einer Rendite von rund 4,7% auf aktuellem Kursniveau.
-- Aktienrückkaufprogramm 2026/2027 (Volumen bis zu 2.250 Mio. EUR, Laufzeit bis spätestens zur Hauptversammlung am 29.04.2027) läuft planmäßig weiter.
+- Konzerngewinn H1 2026: rund 3,9 Mrd. EUR (Q1: 1,714 Mrd. EUR; Q2 vorläufig: rund 2,2 Mrd. EUR, deutlich über dem Analystenkonsens von 1,786 Mrd. EUR) – getragen von niedriger Großschadenbelastung in der Schaden-/Unfallrückversicherung und einem starken Kapitalanlageergebnis.
+- Jahresgewinnziel von 6,3 Mrd. EUR für 2026 bestätigt; die Umsatzprognose wurde dagegen im August von 64 auf 62 Mrd. EUR gesenkt (Rückversicherungssegment von 40 auf 38 Mrd. EUR) – Grund sind anhaltende Preisabschläge bei der Vertragserneuerung (kumuliert rund -3,1% über die bisherigen drei Erneuerungsrunden 2026).
+- Dividende 2026: Erhöhung von 20 auf 24 EUR je Aktie beschlossen, entsprechend rund 4,6% Rendite auf aktuellem Kursniveau.
+- Aktienrückkaufprogramm über bis zu 2,25 Mrd. EUR läuft seit Ende April 2026 bis spätestens zur Hauptversammlung am 29.04.2027.
+- Veräußerung der indirekten Amprion-Beteiligung (über den Vermögensverwalter MEAG/M31-Konsortium) im Rahmen eines rund 3,6 Mrd. EUR schweren Gesamtpakets an RWE; Closing war für Ende September 2026 geplant.
 
 ## Strategie & Ausblick
-- Der Abschluss der Übernahme des US-Cyber-Insurtechs At-Bay (Unternehmenswert 575 Mio. USD, angekündigt 19.08.2026) steht weiterhin aus und wird für das erste Quartal 2027 erwartet; das Geschäft soll unter Hartford Steam Boiler (HSB) geführt werden und die Position im Cyber-Versicherungsmarkt stärken.
-- Mit dem Markteintritt von Munich Re Specialty in Italien (Mailand, angekündigt 23.09.2026) baut der Konzern sein primärversicherungsnahes Spezialgeschäft in Kontinentaleuropa weiter aus; erste Risiken sollen Anfang 2027 gezeichnet werden.
-- Trotz Preisdrucks im traditionellen Rückversicherungsgeschäft (Erneuerungen mit Preisrückgängen von rund 3,1% im Jahresdurchschnitt) hält das Management an der Jahresprognose sowie an der geplanten Kapitalrückführung über das laufende Rückkaufprogramm fest.
+- Munich Re hat mit Manulife eine Transaktion zur Übernahme des biometrischen Risikos eines Pflegeversicherungs-Bestands (Reserven von rund 3,2 Mrd. USD) vereinbart (Vereinbarung Anfang August 2026); der Abschluss wird vorbehaltlich regulatorischer Genehmigungen für das vierte Quartal 2026 erwartet und soll das Lebens-/Krankenrückversicherungsgeschäft als Gegengewicht zum Preisdruck in der Schaden-/Unfallsparte stärken.
+- Der Ausstieg aus der Infrastrukturbeteiligung Amprion (Verkauf an RWE) markiert eine Portfoliobereinigung im Kapitalanlagebereich der Konzern-Tochter MEAG.
+- Trotz anhaltenden Preisdrucks im traditionellen Rückversicherungsgeschäft hält das Management an der Jahresprognose sowie an der laufenden Kapitalrückführung (Aktienrückkauf, erhöhte Dividende) fest.
+- Für den Herbst wird die Vorstellung einer neuen Mehrjahresstrategie ("Ambition 2030") erwartet; konkrete Details und ein genauer Termin lagen zum Redaktionsschluss noch nicht vor.
 
 ## Quellen
-- [Münchener Rück Aktie: Hebt Jurecka das 6,3-Milliarden-Ziel? – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-hebt-jurecka-das-63-milliarden-ziel-934641)
-- [Münchener Rück Aktie: 2,2 Mrd. Q2-Gewinn, RBC bleibt skeptisch – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-22-mrd-q2-gewinn-rbc-bleibt-skeptisch-932598)
-- [Münchener Rück Aktie: Starke Zahlen, schwacher Kurs – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-starke-zahlen-schwacher-kurs-922861)
-- [Preisverfall im Kerngeschäft: Munich Re kappt Umsatzziel für 2026 – boerse.de](https://www.boerse.de/nachrichten/Preisverfall-im-Kerngeschaeft-Munich-Re-kappt-Umsatzziel-fuer-2026/38509686)
-- [Munich Re Group to Acquire Cyber Insurtech At-Bay – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-08-19.html)
-- [Munich Re Specialty Launches in Italy's Primary Specialty Market – Insurance Journal](https://www.insurancejournal.com/news/international/2026/09/23/886588.htm)
-- [Munich Re Names Andrew Buchanan As CFO, Robin Johnson As CTO – Nasdaq](https://www.nasdaq.com/articles/munich-re-names-andrew-buchanan-cfo-robin-johnson-cto)
+- [Münchener Rück Aktie: Zwischen Rekordgewinn und Hurrikan-Risiko – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-zwischen-rekordgewinn-und-hurrikan-risiko-931533)
+- [Münchener Rück Aktie: Retrozession auf 600 Millionen gekürzt – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-retrozession-auf-600-millionen-gekuerzt-921026)
+- [Münchener Rück Aktie: Konsens klar übertroffen – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-konsens-klar-uebertroffen-931714)
+- [Munich Re erzielt Quartalsergebnis (Ad-hoc, 24.07.2026) – munichre.com](https://www.munichre.com/de/unternehmen/investoren/pflichtveroeffentlichungen/ad-hoc-meldungen/2026-07-24-ad-hoc.html)
+- [Quartalsmitteilung: Munich Re verdient (Q1 2026) – munichre.com](https://www.munichre.com/de/unternehmen/media-relations/medieninformationen-und-unternehmensnachrichten/medieninformationen/2026/quartalsmitteilung-1-2026.html)
+- [Jurecka löst Wenning an der Spitze von Munich Re ab – Börsen-Zeitung](https://www.boersen-zeitung.de/personen/jurecka-loest-wenning-an-der-spitze-von-munich-re-ab)
+- [Munich Re vor der Manulife-Prüfung: Wächst hier ein neuer Ertragspfeiler? – boerse-global](https://www.boerse-global.de/munich-re-vor-der-manulife-pruefung-waechst-hier-ein-neuer-ertragspfeiler/819799)
+- [Münchener Rück Aktie: 36 Milliarden für Amprion-Exit – trading-treff](https://trading-treff.de/aktien/muenchener-rueck-aktie-36-milliarden-fuer-amprion-exit)
+- [Münchener Rück Aktie: 2,25-Milliarden-Programm bis April 2027 – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-225-milliarden-programm-bis-april-2027-926850)
