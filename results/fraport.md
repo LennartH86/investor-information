@@ -1,43 +1,51 @@
 # Fraport (FRA.DE)
-_Aktualisiert: 03.10.2026 | Zeitraum: 26.09.2026 – 03.10.2026_
+_Aktualisiert: 08.10.2026 | Zeitraum: 01.10.2026 – 08.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 70 Aktien
 - **Kaufkurs (Ø):** 67,25 EUR
-- **Aktueller Kurs:** 62,05 EUR
-- **Marktwert:** 4.343,50 EUR
-- **Unrealisierter G/V:** -395,12 EUR (-8,34%)
-- **Portfolioanteil:** 2,82%
+- **Aktueller Kurs:** 59,30 EUR
+- **Marktwert:** 4.151,00 EUR
+- **Unrealisierter G/V:** -587,62 EUR (-12,40%)
+- **Portfolioanteil:** 2,67%
 - **Dividenden erhalten:** 36,83 EUR
-- **Bewertung:** Der Kurs verharrt mit 62,05 EUR praktisch unverändert zur Vorwoche (62,10 EUR) und damit weiterhin deutlich unter dem Kaufkurs von 67,25 EUR; der Buchverlust hat sich mit -8,34% minimal ausgeweitet. Operativ bleibt die Lage stabil (bestätigte Jahresprognose, Analystenkursziele im Schnitt bei rund 85 EUR), während die bevorstehende Schließung des AirRail-Terminals Ende Oktober allenfalls ein Reputations-, kein Ertragsthema ist. Angesichts der weiterhin großen Bewertungslücke zu den Analystenzielen und ohne neue fundamentale Belastungsfaktoren bleibt **Halten** die naheliegende Einschätzung; der nächste wichtige Kurstreiber dürfte der Neun-Monats-/Q3-Bericht im November sein.
+- **Bewertung:** Die Aktie notiert rund 12% unter dem eigenen Einstiegskurs und auch deutlich unter den in Marktberichten genannten Kursniveaus von ~64–67 EUR aus dem Sommer 2026, was auf eine zuletzt schwächere Kursentwicklung hindeutet. Bei einer Dividende von 1,00 EUR je Aktie ergibt sich auf Basis des aktuellen Kurses eine Rendite von rund 1,7%; Fraport hat zudem signalisiert, die Ausschüttung erst zu erhöhen, sobald die Verschuldung (Netto-Verschuldung/EBITDA) unter den Faktor 5 fällt (aktuell 5,7). Angesichts des Endes des großen Investitionsprogramms, erstmals wieder positiven Free Cashflows seit 2018 und bestätigter Jahresprognose erscheint ein Halten der Position vertretbar; ein Aufstocken sollte eher abgewartet werden, bis sich der Kursrückgang stabilisiert und die geopolitischen Belastungsfaktoren (Nahost, Streiks) nachlassen.
 
 ## Aktuelle Meldungen
-- **Lufthansa schließt AirRail-Terminal:** Zum 26.10.2026 schließt Lufthansa das AirRail-Terminal am Fernbahnhof des Frankfurter Flughafens; Bahnreisende müssen ihr Gepäck künftig selbst zwischen Bahnhof und Terminal transportieren. Die Maßnahme betrifft primär den Kundenkomfort für Zug-Flug-Umsteiger, dürfte für Fraport operativ aber nur begrenzte Auswirkungen haben.
-- **Zuletzt gemeldete Verkehrszahlen (August 2026, veröffentlicht 11.09.2026):** Frankfurt verzeichnete 6,3 Mio. Passagiere (-0,3% ggü. Vorjahr), während das Frachtaufkommen um 2,9% auf 179.400 Tonnen stieg. Die Flugbewegungen sanken um 4,6% auf 40.968, das maximale Abfluggewicht (MTOW) um 1,6% auf 2,6 Mio. Tonnen – ein Bild von stagnierendem Passagierwachstum bei robusterem Frachtgeschäft.
-- **Kursverlauf im Berichtszeitraum:** Die Aktie bewegte sich seitwärts um die 62-EUR-Marke und hat sich damit von der Verkaufswelle nach dem STOXX-600-Ausschluss (wirksam seit 22.09.2026) weitgehend erholt, ohne jedoch neue positive Kursimpulse zu erhalten.
+- Fraport ist offizieller Flughafen-Partner der Routes World 2026, die im Oktober in Frankfurt stattfindet und über 2.500 Delegierte sowie Vertreter von mehr als 250 Airlines erwartet.
+- Der Sky Line People-Mover in Frankfurt ist nach technischen Prüfungen, Software-Updates und Routenanpassungen wieder in Betrieb.
+- Für Oktober 2026 selbst liegen in den ausgewerteten Quellen keine neuen Pressemitteilungen vor; die jüngsten Unternehmensmeldungen stammen aus August 2026 (Halbjahreszahlen).
 
 ## Management
-- **CEO-Kommentar zu Terminal 3:** In einem Interview mit hessenschau.de bezeichnete CEO Dr. Stefan Schulte das neue Terminal 3 als "architektonisches Meisterwerk" und unterstrich damit den strategischen Stellenwert des gerade abgeschlossenen Großprojekts für den Standort Frankfurt.
-- **Doppelrolle als ACI-Europe-Präsident:** Schulte bleibt zugleich Präsident von Airports Council International (ACI) Europe; im Berichtszeitraum gab es keine weiteren öffentlichen Auftritte oder personellen Veränderungen im Vorstand.
-- **Vorstandsteam unverändert:** Der fünfköpfige Vorstand mit Dietmar Focke (COO, Aviation und Fraport Ground Services) als jüngstem Zugang bleibt seit 01.05.2026 unverändert im Amt.
+- CEO Dr. Stefan Schulte bezeichnete 2025/2026 als transformative Phase: Nach einem Jahrzehnt hoher Investitionen seien wichtige Meilensteine erreicht und erstmals seit 2018 wieder ein positiver Free Cashflow erzielt worden.
+- Auf der Hauptversammlung 2026 wurde Alexander Lorz (hessischer Finanzminister) zum neuen Aufsichtsratsvorsitzenden gewählt und löst damit Michael Boddenberg nach sechs Jahren ab.
+- Dietmar Focke wurde zum 1. Mai 2026 in den Vorstand berufen und verantwortet als COO die Bereiche Aviation und Ground Services.
+- Schulte verweist auf anhaltenden Gegenwind durch Lufthansa-Streiks und die geopolitische Lage im Nahen Osten, die das Passagieraufkommen in Frankfurt belasten, während andere Konzernflughäfen wachsen.
 
 ## Finanzielles
-- **Letzter veröffentlichter Bericht (H1 2026, 06.08.2026):** Konzernumsatz +4% auf 2.069,1 Mio. EUR, EBITDA +3,8% auf 582,3 Mio. EUR; das Konzernergebnis sank dagegen um 47,7% auf 51,6 Mio. EUR, belastet durch höhere Abschreibungen und Zinsaufwand infolge der Terminal-3-Inbetriebnahme im April 2026. Ein neuer Quartalsbericht lag im aktuellen Berichtszeitraum nicht vor; der nächste Termin (Neun-Monats-/Q3-Bericht) wird für November 2026 erwartet.
-- **Jahresprognose 2026 weiterhin bestätigt:** Management erwartet EBITDA auf bzw. leicht über Vorjahresniveau (2025: 1,44 Mrd. EUR), beim Konzernergebnis weiterhin einen Rückgang sowie konzernweit rund 188–195 Mio. Passagiere.
-- **Analystensicht unverändert:** Kursziele liegen im Schnitt bei rund 84,88 EUR (u. a. JPMorgan Overweight 81 EUR, Jefferies Buy 85 EUR) und damit deutlich über dem aktuellen Kurs von 62,05 EUR – die Bewertungslücke hat sich im Berichtszeitraum nicht wesentlich verändert.
-- **Hinweis zur Datenlage:** Einzelne Finanzportale berichteten im Zeitraum widersprüchliche H1-Kennzahlen; da sich diese nicht mit der offiziellen Fraport-Mitteilung vom 06.08.2026 in Einklang bringen ließen, wurden sie hier nicht übernommen.
+- H1 2026: Konzernumsatz 2.133,0 Mio. € (+10,2% YoY); Q2-Umsatz 1.174,8 Mio. € (Vorjahr: 1.085,8 Mio. €).
+- H1-EBITDA 567,2 Mio. € (+10,0%), H1-EBIT 345,9 Mio. € (+13,1%), Konzern-Nettoergebnis H1 160,8 Mio. € (+26,1% YoY).
+- Q2-EPS lag mit 0,74 € unter der Analystenschätzung von 0,94 € (Verfehlung um 0,20 €).
+- Free Cashflow verbesserte sich um rund 700 Mio. € auf 24,4 Mio. € – erstmals wieder positiv seit 2018; Netto-Verschuldung/EBITDA sank auf 5,7.
+- Prognose für 2026 bestätigt: EBITDA zwischen 1,26 und 1,36 Mrd. €, Nettoergebnis zwischen 300 und 530 Mio. € (Angaben variieren je nach Quelle zwischen 300–400 Mio. € und 430–530 Mio. €), u. a. belastet durch höhere Zinsen und Abschreibungen aus den abgeschlossenen Großprojekten.
+- Passagierprognose für Frankfurt 2026 wurde auf etwa 63,2 Mio. Passagiere (weitgehend stabil ggü. 2025) gesenkt; konzernweit werden 188–195 Mio. Passagiere erwartet.
 
 ## Strategie & Ausblick
-- **Investitionszyklus läuft aus:** Mit Abschluss von Terminal 3 sowie den Kapazitätserweiterungen in Lima und Antalya befindet sich Fraport am Ende des umfangreichsten Investitionsprogramms der Unternehmensgeschichte; die Gesellschaft erwartet daraus mittelfristig steigende Free-Cashflow-Beiträge.
-- **Kapitalrückführung bleibt in Aussicht:** Sobald die Netto-Verschuldung/EBITDA-Relation (zuletzt 5,7) unter den Faktor 5 fällt, soll die Ausschüttungsquote von aktuell 1,00 EUR/Aktie auf 60–80% des Ergebnisses angehoben werden – ein potenzieller mittelfristiger Kurstreiber.
-- **Internationales Wachstum:** Die Integration von Jericoacoara (Brasilien) in die Fortaleza-Konzession sowie der Ausbau in Lima und Antalya stützen die Diversifizierung des Geschäfts über den Heimatstandort Frankfurt hinaus.
-- **Kurzfristig keine neuen Katalysatoren:** Operative Entwicklungen wie die AirRail-Terminal-Schließung sind für die Bewertung nachrangig; der nächste fundamentale Impuls dürfte erst mit dem Q3-Bericht im November kommen.
+- Das umfangreichste Investitionsprogramm der Unternehmensgeschichte (u. a. Terminal 3 Frankfurt, Kapazitätserweiterungen in Lima und Antalya) nähert sich dem Abschluss; Terminal 3 wurde am 23. April 2026 eröffnet.
+- Fraport plant, die Dividende (aktuell 1,00 € je Aktie) erst spürbar zu erhöhen, sobald die Verschuldungskennzahl Netto-Verschuldung/EBITDA unter 5 fällt.
+- Mittel- bis langfristig erwartet das Management wirtschaftlichen Nutzen aus den abgeschlossenen Investitionen ("Ernte einfahren" ab 2026, laut früherer CFO-Aussage).
+- Risikofaktoren bleiben die geopolitische Lage im Nahen Osten sowie Streiks bei Lufthansa, die das Passagieraufkommen am Heimatstandort Frankfurt dämpfen, während internationale Konzernflughäfen weiter wachsen.
+- Keine Hinweise auf eine Übernahme von Fraport oder größere M&A-Aktivität in 2026; Fraport Greece hat jedoch ein eigenes Investitionsprogramm über 600 Mio. € zur Modernisierung regionaler Flughäfen angekündigt.
 
 ## Quellen
-- [Lufthansa schließt AirRail-Terminal in Frankfurt: Folgen für die Fraport-Aktie](https://goldesel.de/aktien/news/lufthansa-schliesst-airrail-terminal-in-frankfurt-folgen-fur-die-fraport-aktie)
-- [Fraport August Frankfurt cargo volume rises 2.9% as passenger traffic dips 0.3%](https://capital.com/en-gb/news/fraport-august-frankfurt-cargo-volume-rises-2-9-as-passenger-traffic)
-- [Fraport meldet 6,3 Millionen Passagiere im August – Frachtaufkommen steigt](https://goldesel.de/aktien/news/fraport-meldet-63-millionen-passagiere-im-august-frachtaufkommen-steigt)
-- [Fraport-Chef Stefan Schulte im Interview: "Das neue Terminal 3 ist ein architektonisches Meisterwerk"](https://www.hessenschau.de/wirtschaft/flughafen-frankfurt-terminal-3-ist-ein-architektonisches-meisterwerk-v1,interview-fraport-chef-100.html)
-- [Fraport AGM 2026: Executive and Supervisory Boards Report to the Shareholders](https://www.fraport.com/en/newsroom/press-releases/2026/q2/fraport-agm-2026.html)
-- [Fraport-Konzern legt operativ im ersten Halbjahr zu](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/verkehrszahlen/fraport-konzern-legt-operativ-im-ersten-halbjahr-zu.html)
-- [März 2026: Experten empfehlen Fraport-Aktie mehrheitlich zum Kauf – finanzen.net](https://www.finanzen.net/nachricht/aktien/maerz-2026-experten-empfehlen-fraport-aktie-mehrheitlich-zum-kauf-15587250)
+- [Fraport Announced As Official Airport Partner For Routes World 2026 – Aviation Week](https://aviationweek.com/air-transport/airports-networks/fraport-announced-official-airport-partner-routes-world-2026)
+- [Fraport Pressemitteilungen – fraport.com](https://www.fraport.com/en/newsroom/press-releases.html)
+- [Fraport AGM 2026: Executive and Supervisory Boards Report to the Shareholders – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q2/fraport-agm-2026.html)
+- [2025 Fiscal Year: Fraport Returns to Positive Free Cash Flow After Completion of Major Investments – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/bpk/2025-fiscal-year--positive-free-cash-flow.html)
+- [Alexander Lorz, Fraport AG Supervisory Board – fraport.com](https://www.fraport.com/en/newsroom/press-releases/2026/q1/alexander-lorz-fraport-ag-supervisory-board.html)
+- [Fraport appoints Dietmar Focke to Executive Board from May 2026 – stattimes.com](https://www.stattimes.com/amp/air-cargo/fraport-appoints-dietmar-focke-to-executive-board-from-may-2026-1358420)
+- [Fraport posts stronger H1 operating results – Air Cargo Week](https://aircargoweek.com/fraport-posts-stronger-h1-operating-results/)
+- [Frankfurt Airport operator sees turnover up despite Iran war, strikes – Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/frankfurt-airport-operator-sees-turnover-072332170.html)
+- [Fraport: FY26 traffic guidance lowered but financial outlook confirmed – Reportify/J.P. Morgan](https://reportify.cn/reports/1274068100341436416)
+- [Fraport verfehlt Q2-EPS-Erwartung, steigert H1-Gewinn deutlich – Goldesel.de](https://goldesel.de/aktien/news/fraport-verfehlt-q2-eps-erwartung-steigert-h1-gewinn-deutlich-ausblick-2026-bestatigt)
+- [Fraport Greece unveils €600m investment plan to upgrade regional airports – tovima.com](https://tovima.com/travel/fraport-greece-unveils-e600m-investment-plan-to-upgrade-regional-airports)
