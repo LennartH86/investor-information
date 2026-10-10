@@ -1,52 +1,54 @@
-# BASF (BAS)
-_Aktualisiert: 05.10.2026 | Zeitraum: 28.09.2026 – 05.10.2026_
+# BASF (BAS.DE)
+_Aktualisiert: 10.10.2026 | Zeitraum: 03.10.2026 – 10.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
-- **Kaufkurs (Ø):** 44,25 EUR
-- **Aktueller Kurs:** 50,13 EUR
-- **Marktwert:** 2.506,50 EUR
-- **Unrealisierter G/V:** +278,66 EUR (+12,51%)
-- **Portfolioanteil:** 1,62%
-- **Dividenden erhalten:** 165,66 EUR
-- **Bewertung:** Die Position liegt mit +12,51% deutlich im Plus; BASF hat die Jahresprognose 2026 angehoben (EBITDA vor Sondereinflüssen auf 6,9–7,7 Mrd. EUR) und profitiert zusätzlich von einem Einmalgewinn aus dem Coatings-Verkauf sowie laufenden Aktienrückkäufen im Rahmen der "Winning Ways"-Strategie (Ausschüttungen von mind. 12 Mrd. EUR 2025–2028). Angesichts der operativ weiterhin schwachen Nachfrage in Europa und der vorsichtigen CEO-Aussagen ("keine spürbare Markterholung vor 2027") erscheint Halten sinnvoll – die anstehenden Q3-Zahlen am 28.10.2026 sollten vor einer Aufstockung abgewartet werden.
+- **Kaufkurs (Ø):** 44.25 EUR
+- **Aktueller Kurs:** 51.56 EUR
+- **Marktwert:** 2578.00 EUR
+- **Unrealisierter G/V:** +350.16 EUR (+15.72%)
+- **Portfolioanteil:** 1.61%
+- **Dividenden erhalten:** 165.66 EUR
+- **Bewertung:** Die Position notiert mit +15,72% klar im Plus, gestützt durch die im Juli angehobene EBITDA-Prognose 2026 (6,9–7,7 Mrd. EUR) und den Einmalgewinn aus dem Coatings-Verkauf. Belastbare aktuelle KGV/KBV-Daten liefert die Recherche nicht, die Bewertung bleibt aber angesichts des zyklischen Gegenwinds in Europa und der laufenden Evonik-Sondierungsgespräche mit Unsicherheit verbunden; die Dividendenrendite ist weiterhin attraktiv. Bis zur Q3-Quartalsmitteilung am 28.10.2026 und einer möglichen Klärung der Evonik-Frage erscheint Halten die naheliegende Option, eine Aufstockung sollte abgewartet werden.
 
 ## Aktuelle Meldungen
-- BASF veröffentlicht die Quartalsmitteilung zum dritten Quartal 2026 am 28.10.2026 um 7:00 Uhr MEZ – das wichtigste anstehende Ereignis im Beobachtungszeitraum.
-- BASF hat die Force-Majeure-Erklärung für wichtige Kunststoff-Rohstoffe (Polyamid 6 und 6.6) an den Standorten Ludwigshafen und Antwerp aufgehoben, nachdem strukturelle Anlagenschäden die Produktion seit Oktober 2025 stark eingeschränkt hatten.
-- Vorläufige Zahlen zum zweiten Quartal 2026 zeigten eine EBITDA vor Sondereinflüssen von 2,4 Mrd. EUR, deutlich über den Markterwartungen.
+- Für den 28.10.2026 (7:00 Uhr MEZ) ist die Quartalsmitteilung zum dritten Quartal 2026 angesetzt – das zentrale anstehende Ereignis im Beobachtungszeitraum.
+- BASF hat am 25.09.2026 Sondierungsgespräche mit der RAG-Stiftung und Evonik Industries AG zu einer möglichen Übernahme von Evonik bestätigt; der weitere Verlauf ist offen.
+- Am 21.09.2026 meldete BASF, eine MDI-Investition in Indien zu prüfen; dafür wurde ein Grundstück in Dahej (Gujarat) im Rahmen einer fortgeschrittenen Machbarkeitsstudie gesichert.
+- Am 10.09.2026 kündigte BASF den Ausbau der Säurechlorid- und Chlorformiat-Kapazitäten (ACCF) am Standort Ludwigshafen an: rund 30% mehr Kapazität bei gleichzeitig 19% geringerem durchschnittlichem CO2-Fußabdruck des Portfolios.
+- Für den geplanten Börsengang der Agrarsparte (Agricultural Solutions) mit Zielmarktreife bis Mitte 2027 wurden laut Mitteilung vom 14.09.2026 Citi, Deutsche Bank, Goldman Sachs und J.P. Morgan als Banken beauftragt.
 
 ## Management
-- CEO Markus Kamieth erwartet laut Interviews keine spürbare konjunkturelle Erholung im Jahr 2026; die Chemiebranche durchlaufe die schwierigste Phase seit 25 Jahren.
-- Kamieth sieht eine allmähliche Verbesserung des globalen Marktumfelds erst "spät in diesem Jahr und insbesondere 2027".
-- Er betont strukturelle Herausforderungen in Europa (hohe Energiekosten, Regulierungsdruck, schwache Industrienachfrage), die besonders den Standort Deutschland belasten.
-- Gegenüber dem Handelsblatt stellte Kamieth klar: "Die Industrie in Deutschland wird nicht verschwinden" und BASF investiere in Ludwigshafen mehr als an jedem anderen Standort weltweit – auch mehr als in China.
-- Strategischer Fokus liegt auf Kostendisziplin und dem China-Geschäft als wichtigstem Wachstumstreiber.
+- CEO Markus Kamieth bezeichnete das zweite Quartal 2026 als Beleg für die gestärkte Marktposition und die Fortschritte beim Restrukturierungsprogramm; BASF konnte im Q2 in fast allen Segmenten das Ergebnis steigern.
+- Kamieth hatte zuvor (Interview Ende 2025/Anfang 2026) betont, für 2026 keine spürbare konjunkturelle Erholung zu erwarten; eine allmähliche Verbesserung des globalen Marktumfelds sei erst spät 2026 und vor allem 2027 zu erwarten.
+- Er wies Kritik zurück, BASF investiere zu viel in China, und bekräftigte, dass Ludwigshafen der zentrale Konzernstandort bleibe.
+- Die Evonik-Sondierungsgespräche werfen ein Schlaglicht auf mögliche weitere strategische Weichenstellungen des Managements, deren Ausgang derzeit offen ist.
 
 ## Finanzielles
-- Q2 2026: Umsatz von 17,2 Mrd. EUR (+2,4 Mrd. EUR ggü. Vorjahr), getrieben von Preissteigerungen (+11,5%) und Mengenwachstum (+7,3%).
-- EBITDA vor Sondereinflüssen Q2 2026: 2,4 Mrd. EUR, Ergebniswachstum in nahezu allen Segmenten (Chemicals, Surface Technologies, Materials, Industrial Solutions).
-- Angehobene Jahresprognose 2026: EBITDA vor Sondereinflüssen nun 6,9–7,7 Mrd. EUR (zuvor 6,2–7,0 Mrd. EUR).
-- Einmalgewinn von 3,9 Mrd. EUR vor Steuern aus dem am 30.06.2026 abgeschlossenen Coatings-Verkauf an Carlyle/Qatar Investment Authority (Unternehmenswert 7,7 Mrd. EUR, Mittelzufluss von rund 5,8 Mrd. EUR).
-- Reduzierung der Beteiligung an Harbour Energy von über 41% auf unter 25%, Erlös von über 800 Mio. EUR.
-- Laufende Aktienrückkäufe: rund 308 Mio. Aktien bereits eingezogen.
+- Q2 2026: Umsatz von 17,2 Mrd. EUR, 2,4 Mrd. EUR über dem Vorjahresquartal, getrieben von höheren Preisen (+11,5%) und Mengenwachstum (+7,3%).
+- Operatives Ergebnis (EBITDA vor Sondereinflüssen) Q2 2026 lag mit 2,4 Mrd. EUR deutlich über den Markterwartungen (Vorjahr: 1,6 Mrd. EUR).
+- Konzernergebnis (Ergebnis nach Steuern, Anteil BASF) Q2 2026: 4,1 Mrd. EUR gegenüber 79 Mio. EUR im Vorjahresquartal, maßgeblich durch den Gewinn aus dem Verkauf des Coatings-Geschäfts an Carlyle.
+- Angehobene Jahresprognose 2026: EBITDA vor Sondereinflüssen nun 6,9–7,7 Mrd. EUR (zuvor 6,2–7,0 Mrd. EUR); Prognose für den freien Cashflow unverändert bei 1,5–2,3 Mrd. EUR.
+- Neues Aktienrückkaufprogramm über mehr als 1 Mrd. EUR angekündigt; zudem geplante vorzeitige Rückzahlung von Anleihen und Krediten mit einem Nominalvolumen von 1,6 Mrd. EUR im dritten Quartal 2026.
+- Investitionsrahmen 2026–2029: rund 13 Mrd. EUR Sachinvestitionen geplant, ca. 20% weniger als zuvor vorgesehen; Angaben zum Investitionsvolumen 2026 schwanken je Quelle zwischen rund 3 und 3,4 Mrd. EUR (inkl. immaterieller Vermögenswerte).
 
 ## Strategie & Ausblick
-- "Winning Ways"-Strategie: geplante Ausschüttungen an Aktionäre von mindestens 12 Mrd. EUR zwischen 2025 und 2028 (Dividenden plus Aktienrückkäufe).
-- Verkauf der Optical-Brighteners-Sparte (Weißmacher für Waschmittel) an Catexel, Abschluss im ersten Quartal 2026 geplant.
-- BASF bereitet eine Minderheits-IPO seiner Agrarsparte (Agricultural Solutions, bewertet mit rund 9,8 Mrd. EUR) bis 2027 vor.
-- BASF plant die vollständige Übernahme des Gemeinschaftsunternehmens Alsachimie.
-- Neue Standortvereinbarung in Ludwigshafen seit 01.01.2026: Beschäftigungssicherung für rund 30.000 Mitarbeitende bis mindestens Ende 2028, im Gegenzug Investitionen von 1,5–2 Mrd. EUR pro Jahr für Modernisierung und nachhaltigen Umbau.
-- Portfoliobereinigung (Coatings-Verkauf, Weißmacher-Verkauf, Agrar-IPO-Vorbereitung) soll den Konzern stärker auf Kerngeschäfte fokussieren und Kapital für Aktionärsrenditen freisetzen.
+- Mögliche Übernahme von Evonik wird sondiert (Stand 25.09.2026) – sollte sie zustande kommen, wäre dies eine der größten Transaktionen in der jüngeren BASF-Geschichte; der Ausgang ist derzeit offen.
+- Vorbereitung eines Börsengangs (Minderheits-IPO) der Agrarsparte Agricultural Solutions mit angestrebter Börsenreife bis Mitte 2027.
+- Prüfung einer größeren MDI-Investition in Indien (Standort Dahej, Gujarat) als Teil der Wachstumsstrategie in Asien.
+- Kapazitätsausbau im Spezialchemie-Bereich (ACCF) am Standort Ludwigshafen mit gleichzeitiger Reduktion des CO2-Fußabdrucks.
+- Neue Standortvereinbarung in Ludwigshafen sieht jährliche Investitionen von mindestens 1,5 Mrd. EUR (Obergrenze 2 Mrd. EUR) bis Ende 2028 vor, verbunden mit Beschäftigungssicherung.
+- Fortsetzung der Portfoliobereinigung (Coatings-Verkauf abgeschlossen, Agrar-IPO in Vorbereitung) zur stärkeren Fokussierung auf Kerngeschäfte und Freisetzung von Kapital für Aktionärsrenditen im Rahmen der "Winning Ways"-Strategie.
 
 ## Quellen
 - [BASF Investor Releases](https://www.basf.com/basf/www/global/de/investors/calendar-and-publications/investor-releases)
-- [BASF group releases preliminary figures for second quarter of 2026 and increases earnings outlook](https://app.boersengefluester.de/de/newswire/DE000BASF111/basf-se/basf-group-releases-preliminary-figures-for-second-quarter-of-2026-and-increases-earnings-outlook-for-full-year-2026-2366262)
-- [BASF Reports 2025 Earnings Decline as China Site Ramps Up, Outlines 2026 Outlook](https://www.chemicalprocessing.com/industrynews/news/55360696/basf-reports-2025-earnings-decline-as-china-site-ramps-up-outlines-2026-outlook)
-- [CEO of pharma-giant BASF foresees no deindustrialization in Germany](https://finance.yahoo.com/news/ceo-pharma-giant-basf-foresees-160638782.html)
-- [BASF Aktie: Warnsignale aus der Chefetage](https://www.boerse-express.com/news/articles/basf-aktie-warnsignale-aus-der-chefetage-847481)
-- [BASF Aktie: Prognose auf 7,7 Milliarden angehoben](https://www.boerse-express.com/news/articles/basf-aktie-prognose-auf-77-milliarden-angehoben-929442)
-- [BASF Aktie: 7,7-Milliarden-Closing im Juni](https://www.boerse-express.com/news/articles/basf-aktie-77-milliarden-closing-im-juni-911618)
-- [BASF to acquire full ownership of Alsachimie joint venture](https://finviz.com/news/70240/basf-to-acquire-full-ownership-of-alsachimie-joint-venture)
-- [BASF Aktie: 308 Millionen Aktien eingezogen](https://trading-treff.de/trading/basf-308-millionen-aktien-eingezogen)
+- [BASF Investitionsstrategie](https://www.basf.com/global/de/investors/basf-at-a-glance/strategy/investments.html)
 - [Wirtschaftspresse | 29. Juli 2026 (BASF.com)](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-123)
+- [Halbjahreszahlen BASF Gruppe 2026](https://www.basf.com/ch/de/media/news-releases/2026/Halbjahreszahlen-BASF-Gruppe-2026)
+- [BASF Aktie: 4,1 Milliarden Euro Konzernergebnis](https://www.boerse-express.com/news/articles/basf-aktie-41-milliarden-euro-konzernergebnis-934651)
+- [BASF Aktie: Prognose auf 7,7 Milliarden angehoben](https://www.boerse-express.com/news/articles/basf-aktie-prognose-auf-77-milliarden-angehoben-929442)
+- [BASF hebt Ergebnisprognose 2026 deutlich an](https://www.deraktionaer.de/nachricht/basf-hebt-ergebnisprognose-2026-deutlich-an-quartal-besser-als-erwartet-538165.html)
+- [BASF Aktie: Übergangsjahr 2026](https://www.boerse-express.com/news/articles/basf-aktie-uebergangsjahr-2026-873739)
+- [BASF continues to invest billions in Ludwigshafen](https://bkv-gmbh.de/news-reader-4/basf-continues-to-invest-billions-in-ludwigshafen.html)
+- [CEO of pharma-giant BASF foresees no deindustrialization in Germany](https://finance.yahoo.com/news/ceo-pharma-giant-basf-foresees-160638782.html)
+- [BASF Group releases preliminary figures for second quarter of 2026](https://app.boersengefluester.de/de/newswire/DE000BASF111/basf-se/basf-group-releases-preliminary-figures-for-second-quarter-of-2026-and-increases-earnings-outlook-for-full-year-2026-2366262)
