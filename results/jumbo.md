@@ -1,46 +1,42 @@
-# Jumbo (BELA.AT)
-_Aktualisiert: 06.10.2026 | Zeitraum: 29.09.2026 – 06.10.2026_
+# Jumbo S.A. (BELA.AT)
+_Aktualisiert: 11.10.2026 | Zeitraum: 04.10.2026 – 11.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 23,74 EUR
-- **Aktueller Kurs:** 25,20 EUR
-- **Marktwert:** 1.260,00 EUR
-- **Unrealisierter G/V:** +65,13 EUR (+5,45%)
-- **Portfolioanteil:** 0,81%
-- **Dividenden erhalten:** 25,87 EUR
-- **Bewertung:** Der Kurs legte im Berichtszeitraum weiter leicht zu (von ca. 25,06 auf 25,20 EUR) und liegt nun gut 5% über dem Einstandskurs. Bei einem FY2025-Nettogewinn von rund 320 Mio. EUR und einer geschätzten Marktkapitalisierung von ca. 3,4 Mrd. EUR ergibt sich ein KGV von grob 10-11x, was für ein schuldenfreies, stark cash-generierendes Einzelhandelsunternehmen moderat erscheint. Mit geplanten Gesamtausschüttungen von 2,20 EUR/Aktie für 2026 (reguläre + außerordentliche Dividende) liegt die Ausschüttungsrendite bezogen auf den aktuellen Kurs bei rund 8,7%. Angesichts der über Plan laufenden Umsatzdynamik (August +9% YoY) und der soliden Bilanz bleibt die Einschätzung "Halten", mit Spielraum zum Aufstocken bei Kursschwäche.
+- **Aktueller Kurs:** 24,74 EUR
+- **Marktwert:** 1.237,00 EUR
+- **Unrealisierter G/V:** +42,13 EUR (+3,53%)
+- **Portfolioanteil:** 0,77%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** The share price eased slightly versus the prior update but remains comfortably above the entry price. With FY2025 net profit of ~€320m and full-year 2026 guidance reaffirmed at €310–320m net profit on ~5% sales growth, Jumbo trades at a mid-single-digit-to-low-teens P/E for a debt-free, highly cash-generative retailer. Combined regular and extraordinary 2026 distributions of ~€2.20/share imply a high distribution yield on the current price. Given above-plan sales momentum (8-month sales +5.8% y/y) and a solid balance sheet, the position looks like a Hold, with room to add on weakness.
 
 ## Aktuelle Meldungen
-- Die Gruppenumsätze der ersten acht Monate 2026 (bis Ende August) stiegen um rund 5,8% gegenüber dem Vorjahr; allein im August legten die Umsätze um ca. 9% zu – damit liegt Jumbo deutlich über dem Jahresziel von ca. 5% Umsatzwachstum.
-- Regional zeigte sich im August ein differenziertes Bild: Griechenland und Zypern wuchsen solide, Bulgarien bleibt mit zweistelligen Zuwachsraten der stärkste Wachstumsmarkt, während Rumänien weiterhin unter Mehrwertsteuererhöhungen und einer schwächeren Landeswährung leidet.
-- Ende Oktober 2026 soll das neue Hyper-Store-Format in Baia Mare (Rumänien) eröffnet werden – ein weiterer Schritt im Ausbau des rumänischen Filialnetzes trotz dortiger Margendrücker.
-- In Zypern plant Jumbo eine neue Filiale; das Unternehmen meldete dort zuletzt einen Halbjahresgewinn von 120,6 Mio. EUR.
-- Ein möglicher Markteintritt in der Türkei wird laut griechischen Wirtschaftsmedien derzeit "auf Eis gelegt" bzw. die Investitionsentscheidung auf 2027 verschoben, mit einem möglichen Horizont für die Umsetzung bis 2028.
+- H1 2026 results (reported late September): Group sales of €519.26m, up 4.42% y/y; net profit of €120.65m, up 2.96% y/y; gross margin down 33bps to 53.53%, mainly on Romania's VAT increase and currency weakness.
+- Eight-month (through August 2026) sales update: Group sales up ~5.8% y/y, with August alone up ~9%, running ahead of the ~5% full-year guidance.
+- By country over eight months: Greece (largest market) +8%, Cyprus +6%, Bulgaria +14%; Romania continues to lag on VAT hikes and a weaker local currency.
+- A new hyperstore in Baia Mare, Romania, is scheduled to open at the end of October 2026.
+- Jumbo is proceeding with the acquisition of a ~60,000 sqm "Giga" distribution centre in Romania to expand logistics capacity.
+- A possible entry into Turkey has reportedly been put on ice, with any investment decision pushed to 2027 and implementation potentially not visible before 2028.
 
 ## Management
-- Konstantina Demiri bleibt CEO, Evaggelos-Apostolos Vakakis bleibt Chairman. Im Berichtszeitraum wurden keine Management- oder Aufsichtsratsänderungen bei Jumbo S.A. gemeldet.
-- Hinweis: Bei der Recherche zu "Jumbo CEO" tauchten mehrfach Treffer zur niederländischen Supermarktkette "Jumbo Supermarkten" (CEO-Wechsel von Tom Heidman zu Jesper Højer) auf – dies ist ein anderes, nicht börsennotiertes Unternehmen und steht in keinem Zusammenhang mit Jumbo S.A. (BELA.AT).
+- Konstantina Demiri remains CEO; Apostolos-Evaggelos Vakakis remains Chairman. No management or board changes were reported in the period.
+- At the shareholders' meeting, Vakakis signaled 2026 as a year of strengthening the cash position, with capex expected to rise from 2027.
 
 ## Finanzielles
-- Die FY2026-Guidance wurde bestätigt: ca. 5% Umsatzwachstum und ein Nettogewinn von 310–320 Mio. EUR; H1 2026 zeigte bereits 519 Mio. EUR Umsatz (+4,4%) und 120,6–121 Mio. EUR Nettogewinn (+2,9–3%), bei einer leicht rückläufigen Bruttomarge (−33 Basispunkte auf 53,5%), vor allem rumänienbedingt.
-- Die Bilanz bleibt mit rund 546 Mio. EUR Cash und ohne Finanzschulden sehr solide (Stand H1 2026, keine aktuelleren Zahlen im Berichtszeitraum).
-- Für 2026 sind Gesamtausschüttungen von 2,20 EUR je Aktie vorgesehen (reguläre Dividende von 1,20 EUR/Aktie sowie eine außerordentliche Ausschüttung von 1,00 EUR/Aktie), nachdem aus dem FY2025-Ergebnis bereits 94 Mio. EUR (0,70 EUR/Aktie) Dividende ausgeschüttet wurden.
+- FY2026 guidance reaffirmed: ~5% sales growth and €310–320m net profit.
+- Balance sheet remains very solid: ~€546m cash and no financial debt as of end-H1 2026.
+- 2026 shareholder distributions: a regular dividend of €0.70/share (from FY2025 earnings, €94m total) already paid, plus an extraordinary cash distribution of €1.00/share with an ex-date of 16 November 2026, bringing total 2026 distributions to roughly €1.20–2.20/share depending on timing of counts.
 
 ## Strategie & Ausblick
-- Fortgesetzte Expansion trotz Gegenwind in Rumänien: neue Hyper-Stores (z.B. Baia Mare) werden eröffnet, während Mehrwertsteuererhöhungen und Währungsschwäche dort weiter auf die Marge drücken.
-- Bulgarien bleibt der wachstumsstärkste Markt und zentraler Wachstumstreiber der Gruppe.
-- Ein möglicher Markteintritt in die Türkei wird vorerst zurückgestellt bzw. auf 2027/2028 verschoben – ein Hinweis auf vorsichtiges, kapitaldiszipliniertes Vorgehen bei neuen Auslandsmärkten.
-- Internationale Franchise-Partner (u.a. in Kanada und Israel) treiben die Markenexpansion außerhalb der Kernmärkte weiter voran, ohne dass Jumbo S.A. selbst Kapital investieren muss.
-- Die Entwicklung der rumänischen Margen bleibt die zentrale Beobachtungsgröße für die zweite Jahreshälfte 2026, während das Kerngeschäft in Griechenland, Zypern und Bulgarien robust und cash-generativ bleibt.
+- Continued expansion despite Romanian headwinds: new hyperstores (e.g. Baia Mare) opening while VAT hikes and currency weakness pressure margins there.
+- Bulgaria remains the group's strongest growth market.
+- Turkey market entry deferred to 2027/2028, reflecting a cautious, capital-disciplined approach to new foreign markets.
+- International franchise partners (Canada, and others) continue to extend the brand abroad without requiring capital from Jumbo S.A. itself.
+- Romanian margin trends remain the key swing factor to watch for H2 2026, while the core Greek, Cypriot and Bulgarian businesses stay robust and cash-generative.
 
 ## Quellen
-- [Jumbo maintains 2026 outlook as sales recover from conflict](https://cyprus-mail.com/2026/07/16/jumbo-to-return-e161-million-to-shareholders-throughout-2026)
 - [Cyprus shoppers keep Jumbo sales growing in August](https://cyprus-mail.com/2026/09/03/cyprus-shoppers-keep-jumbo-sales-growing-in-august)
 - [Jumbo lines up new Cyprus store as profit reaches €120.6m](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
-- [Jumbo: Στον "πάγο" η είσοδος στην Τουρκία, επιτάχυνση της επένδυσης από το 2027 με ορίζοντα το 2028 (newmoney.gr)](https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/jumbo-ston-pago-i-isodos-stin-tourkia-epitachini-tis-ependisis-apo-to-2027-me-orizonta-to-2028/amp/)
-- [Jumbo: Έκτακτη διανομή του 80% του φετινού μερίσματος (newmoney.gr)](https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/jumbo-ektakti-dianomi-tou-80-tou-fetinou-merismatos/amp/)
-- [Athens Euronext – Jumbo Announcements](https://athens.euronext.com/en/node/969022)
-- [Athens Euronext – Jumbo Announcements](https://athens.euronext.com/en/node/965800)
-- [Jumbo (BELA.AT) Q2 2026 Earnings – AllInvestView](https://www.allinvestview.com/earnings/BELA.AT/q2-2026/)
-- [Jumbo (BELA) Investor Relations, Earnings Summary & Outlook – Quartr](https://quartr.com/companies/jumbo-s-a_15933)
+- [Jumbo (BELA) H1 2026 earnings summary – Quartr](https://quartr.com/events/jumbo-s-a-bela-h1-2026_F90ztWqk)
+- [Axia on Jumbo: positive start to 2026, growth drivers Greece and Bulgaria](https://www.powergame.gr/epichirisis/1315893/axia-gia-jumbo-thetiko-xekinima-to-2026-mochloi-anaptyxis-i-ellada-kai-i-voulgaria/)
