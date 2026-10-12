@@ -1,46 +1,41 @@
 # Hochtief (HOT.DE)
-_Aktualisiert: 08.10.2026 | Zeitraum: 01.10.2026 – 08.10.2026_
+_Aktualisiert: 12.10.2026 | Zeitraum: 05.10.2026 – 12.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 18 Aktien
 - **Kaufkurs (Ø):** 62,48 EUR
-- **Aktueller Kurs:** 401,00 EUR
-- **Marktwert:** 7.218,00 EUR
-- **Unrealisierter G/V:** +6.082,44 EUR (+535,63%)
-- **Portfolioanteil:** 4,65%
+- **Aktueller Kurs:** 392,20 EUR
+- **Marktwert:** 7.059,60 EUR
+- **Unrealisierter G/V:** +5.924,04 EUR (521,68%)
+- **Portfolioanteil:** 4,41%
 - **Dividenden erhalten:** 719,00 EUR
-- **Bewertung:** Der Kurs hat sich im Berichtszeitraum leicht von rund 406 EUR auf 401 EUR zurückgebildet, notiert damit aber weiterhin nahe am Jahreshoch und deutlich über dem Niveau vor der Prognoseanhebung im Juli. Belastbare aktuelle KGV/KBV-Kennzahlen liegen weiterhin nicht vor, doch die operative Dynamik bleibt intakt: Rekord-Auftragsbestand (84,8 Mrd. EUR), eine für 2026 angehobene Gewinnprognose (1,025–1,10 Mrd. EUR operativer Konzerngewinn) und seit August ein Investment-Grade-Rating von S&P stützen die fundamentale Bewertung. Bei einem Buchgewinn von über +535% seit Erstkauf 2020 bleibt Halten die naheliegende Strategie; angesichts des mit 4,65% weiterhin spürbaren Portfolioanteils bleibt eine teilweise Gewinnmitnahme zur Risikostreuung eine Überlegung, insbesondere vor dem Neunmonatsbericht am 5. November 2026, der als nächster wesentlicher Kurstreiber ansteht.
+- **Bewertung:** Nach der massiven Kursrallye (über 500% Gewinn) ist Hochtief ambitioniert bewertet, wird aber durch Rekord-Auftragsbestand (84,8 Mrd. EUR) und die auf 30–40% erhöhte Gewinnprognose 2026 gestützt, getrieben vom US-Geschäft Turner im KI-Rechenzentrums-Boom. Angesichts der starken Kursentwicklung relativ zum Einstandskurs und bereits hoher Bewertung erscheint ein Halten mit selektiver Gewinnmitnahme sinnvoller als weiteres Aufstocken.
 
 ## Aktuelle Meldungen
-- 01.10.–08.10.2026: Der Kurs ist von rund 406 EUR auf 401 EUR leicht zurückgegangen, bewegt sich damit aber weiterhin in der seit Juli etablierten Handelsspanne nahe dem Allzeithoch.
-- Keine neue Ad-hoc-Mitteilung oder Pressemitteilung im engeren Berichtszeitraum gefunden; die zuletzt kommunizierte Jahresprognose und der Rekord-Auftragsbestand bleiben die zentralen Bezugspunkte.
-- HOCHTIEF legt den Neunmonatsbericht 2026 am 5. November 2026 im Rahmen einer Analystenkonferenz vor.
-- Die Autmatec-Übernahme (Stromnetzspezialist, ca. 50 Mio. EUR Umsatz) bleibt von der kartellrechtlichen Freigabe abhängig; neue Informationen zum Verfahrensstand wurden nicht gefunden.
+- Hochtief soll in den DAX aufsteigen (Berichte von Börse Express), was die Visibilität und institutionelle Nachfrage erhöhen könnte.
+- Turner Construction (US-Tochter) bestätigt Beteiligung am Ausbau des Meta-KI-Campus in Louisiana.
+- HOCHTIEF gewinnt 900-Mio.-Euro-Bahnauftrag in Schweden (East Link-Projekt bei Stockholm, ca. 26 km Streckenabschnitt).
+- Generalsanierung der rechten Rheinstrecke läuft von Juli bis Dezember 2026.
 
 ## Management
-- CEO Juan Santamaría Cases führt weiterhin den Vorstand; keine personellen Änderungen im Berichtszeitraum gefunden.
-- Peter Hingott leitet seit Juni 2026 als CEO die Sparte HOCHTIEF Infrastructure (Nachfolger von José Ignacio Legorburo, der in eine Europa-Führungsrolle der Gruppe wechselte).
-- Keine neuen Interview-Aussagen des Managements im Berichtszeitraum gefunden.
+- Peter Hingott wurde zum neuen CEO von HOCHTIEF Infrastructure berufen (Juni 2026); er folgt auf José Ignacio Legorburo, der nun als Executive Vice President Operations Europe fungiert. Hingott kam zuletzt von der Geiger Group, zuvor CEO der BAUER Group.
+- Konzern-CEO bleibt Juan Santamaría Cases, der einen „erfolgreichen Start ins Jahr 2026" mit hohem Gewinnwachstum und Rekord-Auftragsbestand hervorhob und die Positionierung in KI, Digitalisierung, Verteidigung und Technologie betonte.
 
 ## Finanzielles
-- Aktienkurs im Berichtszeitraum zwischen rund 401 und 406 EUR.
-- Rekord-Auftragsbestand konzernweit bei 84,8 Mrd. EUR (+23% ggü. Vorjahr); H1 2026 Umsatz 20,1 Mrd. EUR (+10%), operativer Konzerngewinn H1 480 Mio. EUR (+35%).
-- Prognose Gesamtjahr 2026 (operativer Konzerngewinn) unverändert bei 1,025–1,10 Mrd. EUR.
-- S&P Global Ratings vergab Hochtief Anfang August erstmals ein Investment-Grade-Rating ("BBB", Ausblick stabil).
-- Nächster Termin: Zwischenbericht zu den ersten neun Monaten 2026 am 5. November 2026.
+- H1 2026: Operatives Nettoergebnis +35% auf 480 Mio. EUR, Umsatz +10% auf 20,1 Mrd. EUR, Auftragseingang +25% (währungsbereinigt) auf 31,5 Mrd. EUR, Rekord-Auftragsbestand von 84,8 Mrd. EUR.
+- Q1 2026: Operatives Nettoergebnis +30% auf 217 Mio. EUR, Umsatz +14% (währungsbereinigt) auf 9,4 Mrd. EUR; ausgewiesener Nettogewinn jedoch von 307,8 Mio. auf 210,0 Mio. EUR gefallen (EPS 2,79 EUR vs. 4,09 EUR Vorjahr).
+- Konzern erhöht Prognose für operatives Nettoergebnis 2026 auf 1.025–1.100 Mio. EUR (+30% bis +40% ggü. Vorjahr).
 
 ## Strategie & Ausblick
-- Vollständige Übernahme der Thiess Group Holdings durch CIMIC (Juli 2026) stärkt das Bergbau- und Ressourcengeschäft.
-- Fortsetzung der Wachstumsstrategie in Energieinfrastruktur (Autmatec-Integration, vorbehaltlich Kartellamt-Freigabe) und Rechenzentren/Digital Infrastructure, getragen von anhaltend hoher Nachfrage nach KI-Infrastruktur in den USA (u. a. Turner-Aufträge für Meta-Rechenzentrumskampus in Louisiana).
-- Hochtief ist Ende Juni 2026 in den DAX aufgestiegen (Ersatz für Porsche SE), was die gestiegene Marktkapitalisierung und das Investoreninteresse widerspiegelt.
-- Deutsche Bank hat die Coverage mit "Hold" und einem Kursziel von 477 EUR aufgenommen; Rechenzentren gelten als zentraler Wachstumstreiber.
-- Der Neunmonatsbericht am 5. November 2026 dürfte zeigen, ob die angehobene Jahresprognose durch Umsatzwachstum, operativen Gewinn und Cash-Generierung im zweiten Halbjahr weiter untermauert wird.
+- Wachstumstreiber bleibt die US-Tochter Turner mit starker Nachfrage im Rechenzentrums-/KI-Infrastrukturmarkt.
+- Übernahme von Autmatec (Walldorf, Spezialist für Stromnetz-/Übertragungsleitungsbau) angekündigt im September 2026, vorbehaltlich Freigabe durch das Bundeskartellamt; Zielumsatz ca. 50 Mio. EUR, rund 80 Mitarbeiter – Ausbau im Bereich Netzmodernisierung und Energieinfrastruktur.
+- Tochter CIMIC hat im Juli 2026 die vollständige Übernahme der Thiess Group abgeschlossen (1,18 Mrd. AUD für die restlichen 50% von Elliott Advisors).
+- Management sieht Hochtief strategisch gut positioniert in Wachstumsfeldern wie KI-Infrastruktur, Digitalisierung, Verteidigung und Technologie.
 
 ## Quellen
-- [HOCHTIEF raises 2026 profit guidance (Pressroom ACS)](https://pressroom.grupoacs.com/en/news/hochtief-raises-2026-profit-guidance-hy26-operational-net-profit-up-35-to-eur-480m)
-- [HOCHTIEF Q1 operational net profit up 30%, record backlog](https://www.hochtief.com/news-media/press-releases/press-release/hochtief-q1-operational-net-profit-up-30-record-backlog-and-strong-cash-conversion)
-- [HOCHTIEF appoints Peter Hingott as CEO of HOCHTIEF Infrastructure](https://www.hochtief.com/fileadmin/aktuelles_medien/press-releases/260603_HOCHTIEF__appoints_Peter_Hingott_as_CEO_of_HOCHTIEF__Infrastructure.pdf)
-- [Hochtief steigt in den DAX auf (Börse Express)](https://www.boerse-express.com/news/articles/hochtief-steigt-in-den-dax-auf-prysmian-liefert-megaprojekt-ab-913948)
-- [Hochtief Aktie: Bundeskartellamt prüft Autmatec-Deal (Börse Global)](https://www.boerse-global.de/hochtief-aktie-bundeskartellamt-prueft-autmatec-deal/828055)
-- [Hochtief Aktie: S&P vergibt Investment-Grade-Rating (Börse Global)](https://www.boerse-global.de/hochtief-aktie-sp-vergibt-investment-grade-rating/823555)
-- [Hochtief Aktie: 79,3 Milliarden Auftragsbestand (Börse Express)](https://www.boerse-express.com/news/articles/hochtief-aktie-793-milliarden-auftragsbestand-931903)
+- [HOCHTIEF raises 2026 profit guidance (HY26)](https://www.hochtief.com/news-media/press-releases/press-release/hochtief-raises-2026-profit-guidance-hy26-operational-net-profit-up-35-to-eur-480m-operating-cash-flow-eur-24bn-ltm-backlog-up-23-to-record-eur-848bn)
+- [HOCHTIEF Q1 2026 operational net profit up 30%](https://www.hochtief.com/news-media/press-releases/press-release/hochtief-q1-operational-net-profit-up-30-record-backlog-and-strong-cash-conversion)
+- [Hochtief steigt in den DAX auf – Börse Express](https://www.boerse-express.com/news/articles/hochtief-steigt-in-den-dax-auf-prysmian-liefert-megaprojekt-ab-913948)
+- [Peter Hingott appointed as CEO of HOCHTIEF Infrastructure](https://www.tunnel-online.info/en/artikel/peter-hingott-appointed-as-ceo-of-hochtief-infrastructure-4399400.html)
+- [Hochtief to acquire Autmatec](https://www.energymonitor.ai/newsletters/hochtief-to-acquire-autmatec)
+- [ACS main subsidiary Hochtief Q1 2026 EBITDA +18%](https://thecorner.eu/companies/acs-main-subsidiary-hochtief-increases-q1-2026-ebitda-by-18-to-e581-million/125618/)
