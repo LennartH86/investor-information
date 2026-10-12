@@ -1,41 +1,41 @@
-# Vistra Corp. (VST)
-_Updated: 09.10.2026 | Period: 02.10.2026 – 09.10.2026_
+# Vistra (VST)
+_Aktualisiert: 12.10.2026 | Zeitraum: 05.10.2026 – 12.10.2026_
 
-## Portfolio Analysis
-- **Position:** 16 shares
-- **Avg. purchase price:** 127.01 EUR
-- **Current price:** 139.32 EUR
-- **Market value:** 2,229.12 EUR
-- **Unrealized gain/loss:** +194.56 EUR (+9.56%)
-- **Portfolio share:** 1.45%
-- **Dividends received:** 0 EUR
-- **Assessment:** The position has extended its recovery, up roughly 9% above the average purchase price and meaningfully higher than last week's level, with no specific valuation multiples (P/E/P/B) surfacing in current coverage. Underlying fundamentals remain supportive — H1 2026 Ongoing Operations Adjusted EBITDA of $3,261 million, reaffirmed full-year guidance of $6.8–7.6 billion, a second investment-grade credit rating upgrade, and continued progress on the Cogentrix acquisition and Helix Digital Infrastructure data-center venture. With no dividend income yet on this position and the AI/data-center power demand narrative intact, Hold remains the sensible stance, with a selective Add justified for investors wanting more exposure ahead of Q3 earnings (expected early-to-mid November).
+## Portfolio-Analyse
+- **Position:** 16 Aktien
+- **Kaufkurs (Ø):** 127.01 EUR
+- **Aktueller Kurs:** 144.40 EUR
+- **Marktwert:** 2310.40 EUR
+- **Unrealisierter G/V:** +275.84 EUR (13.56%)
+- **Portfolioanteil:** 1.44%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** Die Position hat weiter zugelegt und liegt nun gut 13.5% über dem durchschnittlichen Einstandskurs; konkrete Bewertungskennzahlen (KGV etc.) wurden in der aktuellen Berichterstattung nicht gefunden. Die fundamentale Lage bleibt solide: Q2 2026 Ongoing Operations Adjusted EBITDA stieg um über 30% gegenüber dem Vorjahr, die Jahresprognose von 6.8–7.6 Mrd. USD wurde bestätigt, und strategische Wachstumsprojekte (Cogentrix-Übernahme, Helix Digital Infrastructure) laufen weiter. Ohne laufende Dividendenerträge und bei anstehenden Q3-Zahlen (voraussichtlich Anfang/Mitte November) erscheint Halten weiterhin angemessen, ein selektives Aufstocken wäre für Anleger mit höherer Risikobereitschaft angesichts der intakten KI-/Rechenzentrums-Strommnachfrage vertretbar.
 
-## Latest News
-- No company-specific news dated within the 02.10.–09.10.2026 window was identified via search; the most recent confirmed items trace back to late September 2026 (New Era Technology securing 207 MW of power from Vistra for a Texas data center, reported Sept. 25, 2026) and the Q2 2026 reporting cycle in August.
-- No new press releases from investor.vistracorp.com dated in the current period were found; Q3 2026 results have not yet been published and are expected in the coming weeks.
-- Vistra's share buyback program is understood to continue, though no updated repurchase totals specific to this period were found in search results.
+## Aktuelle Meldungen
+- Keine firmenspezifischen Neuigkeiten mit Datum innerhalb des Zeitraums 05.10.–12.10.2026 wurden in der Recherche gefunden; die zuletzt bestätigten Meldungen reichen zurück bis Ende September 2026 (New Era Technology sichert sich 207 MW Strom von Vistra für ein Rechenzentrum in Texas, gemeldet am 25.09.2026) sowie den Q2-2026-Berichtszyklus im August.
+- Keine neuen Pressemitteilungen von investor.vistracorp.com mit Datum im aktuellen Zeitraum gefunden; die Q3-2026-Ergebnisse wurden noch nicht veröffentlicht und werden in den kommenden Wochen erwartet.
+- Branchenbezogene Berichterstattung (SEC-Filings, Earnings-Tracker) bestätigt weiterhin die zuvor bekannten Entwicklungen rund um Cogentrix und Helix, ohne neue Details für die aktuelle Woche.
 
 ## Management
-- No new CEO interviews or management commentary specific to the 02.10.–09.10.2026 period were found in search results.
-- Most recent public remarks from President and CEO Jim Burke remain tied to the Q2 2026 earnings release (Aug. 7), where he highlighted the more than 30% year-over-year increase in Ongoing Operations Adjusted EBITDA and an "important investment to further position Vistra for long-term growth."
-- Sources continue to differ on Burke's exact CEO start date (one profile cites August 2022, another December 2020); this is a minor data discrepancy rather than a new development.
+- Keine neuen CEO-Interviews oder Management-Kommentare speziell für den Zeitraum 05.10.–12.10.2026 wurden in den Suchergebnissen gefunden.
+- Die jüngsten öffentlichen Äußerungen von President und CEO Jim Burke beziehen sich weiterhin auf die Q2-2026-Ergebnisveröffentlichung (07.08.2026), in der er den über 30%igen Anstieg des Ongoing Operations Adjusted EBITDA im Jahresvergleich sowie die Bildung von Helix Digital Infrastructure hervorhob.
+- Quellen weichen weiterhin leicht bei Burkes genauem CEO-Startdatum ab (eine Quelle nennt August 2022, eine andere Dezember 2020); dies ist eine bekannte, untergeordnete Datendiskrepanz ohne neue Entwicklung.
 
-## Financials
-- Q1 2026: GAAP net income of $1,029 million (including a $723 million unrealized hedge gain); Ongoing Operations Adjusted EBITDA of $1,494 million; EPS of $1.35 (missed estimates by $0.11) on revenue of $5.64B (beat estimates by ~$397M).
-- Q2 2026: GAAP net income of $305 million (down from $327 million a year earlier, including a $472 million unrealized hedge loss); Ongoing Operations Adjusted EBITDA of $1,767 million, up from $1,349 million year-over-year (+30%+).
-- H1 2026 (six months): Net income of $1,334 million (vs. $59 million prior-year period); Ongoing Operations Adjusted EBITDA of $3,261 million (vs. $2,589 million prior-year period).
-- Full-year 2026 guidance reaffirmed: Ongoing Operations Adjusted EBITDA of $6.8–7.6 billion and Ongoing Operations Adjusted Free Cash Flow before Growth of $3.925–4.725 billion.
-- Vistra's corporate issuer credit rating was upgraded to investment grade at a second major rating agency during H1 2026.
-- No Q3 2026 results have been published yet; the next earnings report is expected in early-to-mid November based on prior-year timing.
+## Finanzielles
+- Q1 2026: GAAP-Nettogewinn von 1.029 Mio. USD (inkl. eines nicht realisierten Hedge-Gewinns von 723 Mio. USD); Ongoing Operations Adjusted EBITDA von 1.494 Mio. USD; EPS von 1,35 USD (verfehlte Erwartungen um 0,11 USD) bei einem Umsatz von 5,64 Mrd. USD (übertraf Erwartungen um ca. 397 Mio. USD).
+- Q2 2026: GAAP-Nettogewinn von 305 Mio. USD (gegenüber 327 Mio. USD im Vorjahr, inkl. eines nicht realisierten Hedge-Verlusts von 472 Mio. USD); Ongoing Operations Adjusted EBITDA von 1.767 Mio. USD, gegenüber 1.349 Mio. USD im Vorjahresvergleich (+30%+).
+- H1 2026 (sechs Monate): Nettogewinn von 1.334 Mio. USD (gegenüber 59 Mio. USD im Vorjahreszeitraum); Ongoing Operations Adjusted EBITDA von 3.261 Mio. USD (gegenüber 2.589 Mio. USD im Vorjahreszeitraum).
+- Jahresprognose 2026 bestätigt: Ongoing Operations Adjusted EBITDA von 6,8–7,6 Mrd. USD und Ongoing Operations Adjusted Free Cash Flow before Growth von 3,925–4,725 Mrd. USD.
+- Vistras Corporate-Issuer-Credit-Rating wurde im ersten Halbjahr 2026 bei einer zweiten großen Ratingagentur auf Investment Grade angehoben.
+- Q3-2026-Ergebnisse wurden noch nicht veröffentlicht; der nächste Quartalsbericht wird basierend auf dem Zeitplan des Vorjahres für Anfang/Mitte November erwartet.
 
-## Strategy & Outlook
-- The ~$4.7 billion Cogentrix Energy acquisition (10 gas-fired plants, ~5,500 MW across PJM, ISO New England, and ERCOT) remains pending, having cleared FERC approval, with closing still targeted for mid-to-late 2026; Vistra closed a $2.25 billion private notes offering in late January to help finance the deal.
-- Helix Digital Infrastructure, a venture formed with NVIDIA, KKR, and the Kuwait Investment Authority, positions Vistra as the preferred power provider; Vistra's initial commitment is up to $1.0 billion.
-- Combined with the ~$1.9 billion Lotus Infrastructure acquisition closed in October 2025 (2,600 MW), Vistra continues building a larger modern gas generation fleet to meet growing AI/data-center power demand, including new long-term power agreements such as the 207 MW deal with New Era Technology in Texas.
-- Large-scale share buybacks and growth capital investments (gas generation, data-center power deals) remain core pillars of capital allocation heading into 2027.
+## Strategie & Ausblick
+- Die rund 4,7 Mrd. USD schwere Übernahme von Cogentrix Energy (10 gasbefeuerte Kraftwerke, ca. 5.500 MW über PJM, ISO New England und ERCOT) bleibt ausstehend, nachdem die FERC-Genehmigung erteilt wurde; der Abschluss wird weiterhin für Mitte/Ende 2026 angestrebt. Vistra schloss Ende Januar eine Privatplatzierung von Anleihen über 2,25 Mrd. USD zur teilweisen Finanzierung ab.
+- Helix Digital Infrastructure, ein gemeinsam mit NVIDIA, KKR und der Kuwait Investment Authority gegründetes Vorhaben, positioniert Vistra als bevorzugten Stromlieferanten; Vistras anfängliche Investitionszusage beläuft sich auf bis zu 1,0 Mrd. USD.
+- Zusammen mit der im Oktober 2025 abgeschlossenen Übernahme von Lotus Infrastructure (ca. 1,9 Mrd. USD, 2.600 MW) baut Vistra weiter eine größere, moderne Gaskraftwerksflotte auf, um die wachsende KI-/Rechenzentrums-Stromnachfrage zu bedienen, einschließlich neuer langfristiger Stromabnahmeverträge wie dem 207-MW-Deal mit New Era Technology in Texas.
+- Umfangreiche Aktienrückkäufe und Wachstumsinvestitionen (Gaskraftwerke, Rechenzentrums-Stromdeals) bleiben zentrale Säulen der Kapitalallokation mit Blick auf 2027.
 
-## Sources
+## Quellen
 - [Vistra Corp. - Form 8-K - Q2 2026 Earnings Release (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000017/vistra-20260630xearningsre.htm)
 - [Vistra Corp. - Form 8-K - Q1 2026 Earnings Release (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000011/vistra-20260331xearningsre.htm)
 - [Vistra Corp. - Form 10-Q - Q1 2026 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000014/vistra-20260331.htm)
