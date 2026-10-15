@@ -1,42 +1,45 @@
-# Jumbo S.A. (BELA.AT)
-_Aktualisiert: 11.10.2026 | Zeitraum: 04.10.2026 – 11.10.2026_
+# Jumbo S.A. (BELA)
+_Updated: 15.10.2026 | Period: 08.10.2026 – 15.10.2026_
 
-## Portfolio-Analyse
-- **Position:** 50 Aktien
-- **Kaufkurs (Ø):** 23,74 EUR
-- **Aktueller Kurs:** 24,74 EUR
-- **Marktwert:** 1.237,00 EUR
-- **Unrealisierter G/V:** +42,13 EUR (+3,53%)
-- **Portfolioanteil:** 0,77%
-- **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** The share price eased slightly versus the prior update but remains comfortably above the entry price. With FY2025 net profit of ~€320m and full-year 2026 guidance reaffirmed at €310–320m net profit on ~5% sales growth, Jumbo trades at a mid-single-digit-to-low-teens P/E for a debt-free, highly cash-generative retailer. Combined regular and extraordinary 2026 distributions of ~€2.20/share imply a high distribution yield on the current price. Given above-plan sales momentum (8-month sales +5.8% y/y) and a solid balance sheet, the position looks like a Hold, with room to add on weakness.
+## Portfolio Analysis
+- **Position:** 50 shares
+- **Avg. purchase price:** 23.74 EUR
+- **Current price:** 26.10 EUR
+- **Market value:** 1305.00 EUR
+- **Unrealized gain/loss:** 110.13 EUR (9.22%)
+- **Portfolio allocation:** 0.82%
+- **Dividends received:** 25.87 EUR
+- **Assessment:** With FY2026 net profit guidance of EUR 310–320m against a market cap of roughly EUR 3.5bn (~134m shares at 26.10 EUR), Jumbo trades at a P/E of only around 11x, cheap for a debt-free, cash-generative retailer still growing sales ~5–9% y/y. Combined 2026 distributions of around EUR 2.20/share imply a high yield (~8%) on the current price, and the position is comfortably in profit versus the purchase price. Hold, with room to Add on any pullback.
 
-## Aktuelle Meldungen
-- H1 2026 results (reported late September): Group sales of €519.26m, up 4.42% y/y; net profit of €120.65m, up 2.96% y/y; gross margin down 33bps to 53.53%, mainly on Romania's VAT increase and currency weakness.
-- Eight-month (through August 2026) sales update: Group sales up ~5.8% y/y, with August alone up ~9%, running ahead of the ~5% full-year guidance.
-- By country over eight months: Greece (largest market) +8%, Cyprus +6%, Bulgaria +14%; Romania continues to lag on VAT hikes and a weaker local currency.
-- A new hyperstore in Baia Mare, Romania, is scheduled to open at the end of October 2026.
-- Jumbo is proceeding with the acquisition of a ~60,000 sqm "Giga" distribution centre in Romania to expand logistics capacity.
-- A possible entry into Turkey has reportedly been put on ice, with any investment decision pushed to 2027 and implementation potentially not visible before 2028.
+## Latest News
+- H1 2026 results (released 24 September): Group sales up ~4.4% to roughly EUR 519m; net profit up ~2.9–3% to roughly EUR 120.6m; gross margin slipped slightly to 53.53%, mainly due to Romania's VAT increase and currency weakness.
+- Regional split for H1: Greece +7%, Bulgaria +11%, Cyprus +4%, Romania -6.5%.
+- Eight-month sales update (through August): Group sales up ~5.8–6% y/y, running slightly ahead of the ~5% full-year guidance; August alone up ~9% y/y, with Greek parent-company sales +11% and Bulgaria +17% for the month.
+- Shares fell about 2.2% immediately after the H1 report.
+- A new Jumbo hyperstore in Baia Mare, Romania, is scheduled to open at the end of October 2026; a new Cyprus store is also lined up.
+- No company-specific news dated in the 08.10.–15.10.2026 window itself was found; the items above are the most recent available (September 2026).
 
 ## Management
-- Konstantina Demiri remains CEO; Apostolos-Evaggelos Vakakis remains Chairman. No management or board changes were reported in the period.
-- At the shareholders' meeting, Vakakis signaled 2026 as a year of strengthening the cash position, with capex expected to rise from 2027.
+- No management or board changes were reported in the period.
+- Management reiterated a cautious, capital-disciplined stance on new foreign markets; a possible Turkey market entry has reportedly been pushed back, with any investment decision from 2027 and visible implementation not before 2028.
 
-## Finanzielles
-- FY2026 guidance reaffirmed: ~5% sales growth and €310–320m net profit.
-- Balance sheet remains very solid: ~€546m cash and no financial debt as of end-H1 2026.
-- 2026 shareholder distributions: a regular dividend of €0.70/share (from FY2025 earnings, €94m total) already paid, plus an extraordinary cash distribution of €1.00/share with an ex-date of 16 November 2026, bringing total 2026 distributions to roughly €1.20–2.20/share depending on timing of counts.
+## Financials
+- FY2026 guidance reaffirmed: ~5% sales growth and EUR 310–320m net profit.
+- Balance sheet remains very solid: ~EUR 546m cash and no financial debt as of 30 June 2026.
+- 2026 shareholder distributions: the board approved a cash distribution of EUR 2.20/share for 2026 (including a proposed extraordinary distribution of EUR 1.00/share); year-to-date the company has already distributed about EUR 161.2m (EUR 1.20/share) to shareholders.
+- FY2025 (completed) reference: record sales of EUR 1.23bn and net profit of EUR 320m.
 
-## Strategie & Ausblick
-- Continued expansion despite Romanian headwinds: new hyperstores (e.g. Baia Mare) opening while VAT hikes and currency weakness pressure margins there.
-- Bulgaria remains the group's strongest growth market.
-- Turkey market entry deferred to 2027/2028, reflecting a cautious, capital-disciplined approach to new foreign markets.
-- International franchise partners (Canada, and others) continue to extend the brand abroad without requiring capital from Jumbo S.A. itself.
-- Romanian margin trends remain the key swing factor to watch for H2 2026, while the core Greek, Cypriot and Bulgarian businesses stay robust and cash-generative.
+## Strategy & Outlook
+- Continued store network expansion despite Romanian headwinds: new hyperstores (e.g. Baia Mare) opening while VAT hikes and currency weakness pressure margins there.
+- Bulgaria remains the group's strongest growth market; Greece (the core market) also accelerated in H2.
+- Further stores planned in Romania and Cyprus during 2027.
+- Possible Turkey market entry deferred, reflecting a conservative approach to new foreign markets and capital allocation.
+- Next scheduled report: an unconfirmed November 20, 2026 earnings date has been cited by at least one data provider, but this has not been confirmed by the company.
 
-## Quellen
+## Sources
 - [Cyprus shoppers keep Jumbo sales growing in August](https://cyprus-mail.com/2026/09/03/cyprus-shoppers-keep-jumbo-sales-growing-in-august)
 - [Jumbo lines up new Cyprus store as profit reaches €120.6m](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
 - [Jumbo (BELA) H1 2026 earnings summary – Quartr](https://quartr.com/events/jumbo-s-a-bela-h1-2026_F90ztWqk)
-- [Axia on Jumbo: positive start to 2026, growth drivers Greece and Bulgaria](https://www.powergame.gr/epichirisis/1315893/axia-gia-jumbo-thetiko-xekinima-to-2026-mochloi-anaptyxis-i-ellada-kai-i-voulgaria/)
+- [Jumbo S.A. – Wikipedia](https://en.wikipedia.org/wiki/Jumbo_S.A.)
+- [Jumbo press release / sales trading update (September 2026)](https://www.naftemporiki.gr/symbols/BELA.ATH/news/2049838)
+- [Jumbo news archive – MarketScreener](https://de.marketscreener.com/kurs/aktie/JUMBO-S-A-6259019/news-andere-sprachen/)
