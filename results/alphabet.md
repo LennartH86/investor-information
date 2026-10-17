@@ -1,50 +1,49 @@
-# Alphabet 'A' (GOOGL)
-_Aktualisiert: 14.10.2026 | Zeitraum: 07.10.2026 – 14.10.2026_
+# Alphabet Inc. (GOOGL)
+_Aktualisiert: 17.10.2026 | Zeitraum: 10.10.2026 – 17.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 32,98 Aktien
 - **Kaufkurs (Ø):** 225,30 EUR
-- **Aktueller Kurs:** 316,15 EUR
-- **Marktwert:** 10.427,96 EUR
-- **Unrealisierter G/V:** +2.995,67 EUR (+40,31%)
-- **Portfolioanteil:** 6,53%
+- **Aktueller Kurs:** 303,50 EUR
+- **Marktwert:** 10.010,71 EUR
+- **Unrealisierter G/V:** +2.578,42 EUR (+34,69%)
+- **Portfolioanteil:** 6,33%
 - **Dividenden erhalten:** 16,46 EUR
-- **Bewertung:** The position is up a healthy 40.31% versus the average purchase price, with the shares grinding higher into the Q3 2026 earnings print expected around October 27; growth has been driven by 24% YoY revenue growth and 82% YoY Cloud growth in Q2, but the stock now trades at a valuation that already prices in a lot of that momentum, and record AI capex ($195–205bn guided for 2026) is squeezing near-term free cash flow. Given the position size (6.53% of the portfolio) and the proximity of the next earnings catalyst, a **Hold** into the Q3 report looks more prudent than adding at current levels.
+- **Bewertung:** The position remains comfortably in profit at +34.69% versus the average purchase price, even though the share price has pulled back from last week's level as the market positions ahead of the Q3 2026 earnings report expected around October 27–28. With trailing-twelve-month capex guidance raised to $195–205bn and Q3 results not yet confirmed (consensus EPS around $3.01–3.02), near-term volatility is likely into the print. Given the still-solid unrealized gain, a 6.33% portfolio weight, and no fresh negative catalysts found this week, **Hold** into the Q3 report remains the more prudent stance versus adding or trimming at current levels.
 
-## Aktuelle Meldungen
-- Alphabet's Q3 2026 earnings are still expected around October 27, 2026; no official October press release has been found yet, so all figures for the quarter remain analyst estimates (EPS consensus roughly $3.01–$3.02), not confirmed results.
-- A US federal judge rejected the Department of Justice's demand that Google be forced to sell its AdX ad-exchange business, removing a major antitrust overhang that had weighed on the stock.
-- Berkshire Hathaway has reportedly increased its Alphabet stake further, now valued at roughly $37bn, a vote of confidence from Warren Buffett's firm.
-- Search & other advertising revenue grew 17% YoY to $63.3bn in Q2 2026; investors are watching closely whether that pace holds against tougher year-ago comparisons in Q3.
-- Alphabet (GOOGL) shares have returned roughly 39% over the trailing twelve months, versus about 16.8% for the S&P 500.
+## Aktuelle Meldungen / Recent News
+- Alphabet's Q3 2026 earnings have not yet been released as of October 17, 2026; estimates point to a report date around October 27–28, with consensus EPS roughly $3.01–$3.02 — these remain analyst forecasts, not confirmed figures.
+- No new official October 2026 press release from Alphabet/Google was found in this week's search; the most recent official releases on file are still the Q1 and Q2 2026 earnings reports.
+- The stock's one-year return is cited at roughly +39% versus about +16.8% for the S&P 500, underscoring the strong run-up that the current pullback is set against.
+- Search and other advertising revenue was $63.3bn in Q2 2026 (+17% YoY); whether that growth pace holds against tougher year-ago comparisons is one of the key questions for the Q3 print.
+- Google Cloud grew 82% YoY to $24.8bn in Q2 2026, with operating margin for the group expanding to roughly 34%.
 
 ## Management
-- CEO Sundar Pichai continues to frame 2026 around an "agentic" AI shift, following the Google I/O 2026 launches of Gemini 3.5 Flash and "Gemini Spark," and has called AI "the most profound technology humanity will ever work on" — more significant, in his words, than fire or electricity.
-- On the Q2 2026 earnings call, Pichai confirmed training on the next-generation Gemini 4 model was already underway, alongside the raised full-year capex guidance of $195–205bn.
-- Pichai has reiterated he is more concerned about the US maintaining AI leadership than about competition from open-source Chinese models, and at February's World Governments Summit said useful quantum computers are likely five to ten years away.
-- Management continues to face scrutiny over Google's Project Nimbus cloud contract with the Israeli government, which drew a student walkout protest during Pichai's Stanford commencement address.
+- CEO Sundar Pichai pushed back publicly (in a Bloomberg interview) on suggestions that AI could make roughly half of Alphabet's ~180,000-person workforce redundant, saying he expects headcount in engineering to keep growing into next year "because it allows us to do more."
+- Pichai has continued to describe AI as "the most profound technology humanity will ever work on," and says he is more focused on preserving US frontier AI leadership than on competition from open-source Chinese models.
+- At the World Governments Summit (February 2026), Pichai said quantum computing today resembles AI in the 2010s and predicted practically useful quantum computers within five to ten years, while cautioning it is too early to regulate the field.
+- Management continues to face scrutiny over Google's Project Nimbus contract with the Israeli government, which drew a student walkout during Pichai's June 2026 Stanford commencement address.
 
-## Finanzielles
-- Q2 2026 (last reported, ~August 2026): consolidated revenue $119.8bn (+24% YoY); Google Services revenue $94.5bn (+15% YoY); Google Cloud revenue $24.8bn (+82% YoY); operating margin expanded ~2pp to 34%; EPS roughly $9.11, boosted by a ~$98bn net unrealized gain on equity securities.
-- Q1 2026: revenue $109.9bn (+22% YoY); Google Cloud revenue +63% YoY with backlog nearly doubling quarter-over-quarter to over $460bn; paid subscriptions reached 350 million.
-- The quarterly dividend was raised 5% to $0.22/share in April 2026; the portfolio has now received 16.46 EUR in dividends, up from 0 EUR a week ago, confirming the first dividend payment has landed.
-- Full-year 2026 capex guidance stands at $195–205bn (versus an earlier $175–185bn range and $91.4bn spent in 2025), split roughly 60% toward servers/processors (including TPUs for Gemini) and 40% toward data centers; management has signaled a further significant step-up in 2027.
-- Q3 2026 results are not yet officially reported; consensus EPS estimates of roughly $3.01–$3.02 remain forecasts only and should not be treated as confirmed financials.
+## Finanzielles / Financials
+- Last confirmed results remain Q2 2026 (reported July 22, 2026): consolidated revenue $119.8bn (+24% YoY), Google Cloud revenue $24.8bn (+82% YoY), operating margin up ~2pp to 34%.
+- Q1 2026: consolidated revenue $109.9bn (+22% YoY); Google Cloud revenue +63% YoY.
+- Full-year 2026 capital expenditure guidance was raised to $195–205bn (up from an earlier $175–185bn range), with a TPU system sales ramp expected to deliver most of its revenue impact in 2027 and capex intensity expected to rise further next year.
+- A quarterly dividend payment (payable mid-September 2026) is reflected in the portfolio's cumulative dividends received of 16.46 EUR.
+- Q3 2026 financial results are not yet published; all specific Q3 figures currently circulating (e.g., EPS ~$3.01–3.02) are analyst estimates only and should not be treated as confirmed.
 
-## Strategie & Ausblick
-- Alphabet's core 2026 strategy remains an aggressive AI infrastructure build-out (TPUs, data centers, Gemini models), funded by record capex plus an $84.75bn equity capital raise and a multi-currency bond program that includes a rare 100-year "century bond" tranche.
-- The roughly $32bn acquisition of cybersecurity firm Wiz has closed and is being integrated into Google Cloud, though analysts flag a low-single-digit-point near-term headwind to Cloud operating margin from the integration.
-- Alphabet continues to back Waymo's autonomous-driving expansion (a ~$16bn funding round) and is supplying specialized AI chips to Anthropic, reinforcing its position across the AI compute stack.
-- The removal of the forced AdX-divestiture risk via the recent court ruling reduces regulatory overhang, while Google's 15-year renewable power agreements with TotalEnergies (~1 GW of Texas solar) support data-center energy needs.
-- Key watch items going forward: whether Search growth holds up against tougher comparisons, how capex intensity affects free cash flow, and the Q3 earnings release (~October 27) together with initial 2027 capex guidance.
+## Strategie & Ausblick / Strategy & Outlook
+- Alphabet's 2026 strategy remains centered on an aggressive AI infrastructure build-out — TPUs, data centers, and successive Gemini model generations — funded by record capital spending.
+- The roughly $32bn Wiz cybersecurity acquisition continues to be integrated into Google Cloud, reinforcing Alphabet's security and multi-cloud offering, though integration costs are a modest near-term drag on Cloud margins.
+- Alphabet continues to back Waymo's autonomous-driving expansion (a reported ~$16bn funding round, largely from Alphabet) and is supplying specialized AI chips to Anthropic, deepening its position across the AI compute stack.
+- Long-term infrastructure commitments include 15-year renewable power agreements with TotalEnergies (~1 GW of Texas solar capacity) to support data-center energy needs, and Alphabet has discussed longer-horizon bets such as data centers in space.
+- Key items to watch: the Q3 2026 earnings release (expected ~October 27–28) and any updated 2027 capex guidance, whether Search ad growth holds up against tougher comparisons, and the pace of AI-driven margin and free-cash-flow impact from the elevated capex program.
 
-## Quellen
+## Quellen / Sources
 - [The Dates That Matter Most For Alphabet Stock – Trefis](https://www.trefis.com/stock/googl/articles/617168/the-dates-that-matter-most-for-alphabet-stock/2026-09-30)
-- [Alphabet Announces Upsize and Pricing of $84.75 Billion Equity Capital Raise – abc.xyz](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Upsize-and-Pricing-of-84-75-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure--and-Compute-2026-QzN3D9yMAj/default.aspx)
-- [Full Transcript: Alphabet Q2 2026 Earnings Call – Benzinga](https://www.benzinga.com/news/26/09/61834280)
-- [Alphabet: Fiscal 2Q26 Financial Results – StorageNewsletter](https://www.storagenewsletter.com/?p=304141)
-- [Alphabet Inc. - Form 8-K - FY2026 (Q2) – SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm)
+- [2026 Q2 Alphabet Earnings Release (PDF) – Q4cdn](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf)
+- [Alphabet Announces First Quarter 2026 Results – SEC EDGAR](https://app.edgar.tools/filing/1652044/0001652044-26-000043/googexhibit991q12026.htm)
 - [CEO Interviews: Sundar Pichai, Alphabet – ceointerviews.ai](https://ceointerviews.ai/entity/14-sundar-pichai-alphabet/)
-- [Alphabet Aktie: Gericht weist AdX-Verkauf zurück – boerse-express.com](https://www.boerse-express.com/news/articles/alphabet-aktie-gericht-weist-adx-verkauf-zurueck-945303)
-- [Alphabet Aktie: Optimistischer Ausblick – boerse-express.com](https://www.boerse-express.com/news/articles/alphabet-aktie-optimistischer-ausblick-878385)
-- [Alphabet (GOOGL) CFO: expects capex between $180-190bn, prev guided $175-185bn – Newsquawk](https://www.newsquawk.com/headlines/alphabet-googl-cfo-says-we-expect-capex-between-usd-180-190bln-prev-guided-usd-175-185bln-this-year-and-to-significantly-increase-in-2027-from-2026)
+- [The history and future of AI at Google, with Sundar Pichai – Cheeky Pint podcast](https://cheekypint.transistor.fm/31)
+- [Alphabet posted better-than-expected Q3 earnings and revenue (prior-year context) – InvestingLive](https://investinglive.com/stocks/alphabet-posted-better-than-expected-q3-earnings-and-revenue-20251029/)
+- [Alphabet Aktie: Zukunftweisende Projekte – boerse-express.com](https://www.boerse-express.com/news/articles/alphabet-aktie-zukunftweisende-projekte-866448)
+- [Alphabet kündigt gigantische Investitionen an – stock3.com](https://stock3.com/news/alphabet-kuendigt-gigantische-investitionen-an-16915190)
