@@ -1,46 +1,47 @@
 # Daikin Industries (6367.T)
-_Updated: 15.10.2026 | Period: 08.10.2026 – 15.10.2026_
+_Aktualisiert: 18.10.2026 | Zeitraum: 11.10.2026 – 18.10.2026_
 
-## Portfolio Analysis
-- **Position:** 16 shares
-- **Avg. purchase price:** 141.52 EUR
-- **Current price:** 120.20 EUR
-- **Market value:** 1923.20 EUR
-- **Unrealized gain/loss:** -356.56 EUR (-15.64%)
-- **Portfolio allocation:** 1.21%
-- **Dividends received:** 43.40 EUR
-- **Assessment:** The share price has edged up slightly from last week (120.20 EUR vs. 119.00 EUR) and remains about 15.6% below the average entry price of 141.52 EUR; no current P/E or P/B multiples were found in this week's research. Recent quarterly results point to record operating profit and improving profitability (FUSION30 plan), so the drawdown looks more currency/sentiment-driven than fundamentally justified, and with no new negative catalysts this week, Hold remains the sensible stance ahead of the early-November earnings release.
+## Portfolio-Analyse
+- **Position:** 16 Aktien
+- **Kaufkurs (Ø):** 141,52 EUR
+- **Aktueller Kurs:** 119,45 EUR
+- **Marktwert:** 1.911,20 EUR
+- **Unrealisierter G/V:** -368,56 EUR (-16,17%)
+- **Portfolioanteil:** 1,21%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** Der Kurs ist gegenüber der Vorwoche weiter leicht gefallen (119,45 EUR vs. 120,20 EUR) und liegt nun rund 16,2% unter dem durchschnittlichen Einstandskurs von 141,52 EUR; belastbare KGV- oder KBV-Kennzahlen sowie eine aktuelle Dividendenrendite lassen sich aus der diesjährigen Recherche weiterhin nicht ableiten. Da in diesem Zeitraum keine neuen negativen Unternehmensmeldungen auftauchten und die zuletzt berichteten Quartalszahlen (Rekord-Betriebsgewinn, FUSION30-Plan) grundsätzlich intakt wirken, erscheint der Kursrückgang weiterhin eher währungs- bzw. sentimentgetrieben als fundamental begründet – Halten bleibt die naheliegende Einschätzung bis zur nächsten Quartalszahlenveröffentlichung Anfang November 2026.
 
-## Latest News
-- No company-specific press release dated within the 08.10.2026–15.10.2026 window was identified through the search queries used; the most recent confirmed item remains Daikin Europe's 30.09.2026 release of the English-language Integrated Report 2026 and Sustainability Report 2026 (covering FY2025, 01.04.2025–31.03.2026, under the FUSION30 plan).
-- Earnings trackers list Daikin's next quarterly results release around 03.–04.11.2026 (sources vary and some may refer to the US-listed ADR rather than the Tokyo-listed shares); this should be confirmed via Daikin's official investor relations page.
-- No new litigation, product launch, or regulatory news specific to this period was found; a previously reported May 2026 item on a US lawsuit and a Thailand air-conditioning software joint venture remains the most recent such disclosure identified.
+## Aktuelle Meldungen
+- Für den Zeitraum 11.10.–18.10.2026 wurde über die genutzten Suchanfragen keine unternehmensspezifische Pressemitteilung identifiziert; die jüngste bestätigte Meldung bleibt weiterhin die Veröffentlichung des englischsprachigen Integrated Report 2026 und Sustainability Report 2026 durch Daikin Europe vom 30.09.2026 (bezogen auf das Geschäftsjahr 2025, 01.04.2025–31.03.2026, im Rahmen des FUSION30-Plans).
+- Verschiedene Earnings-Kalender nennen weiterhin den 03.–04.11.2026 als voraussichtlichen Termin für die nächste Quartalszahlenveröffentlichung (Angaben variieren je Quelle, teils bezogen auf die US-ADR statt der in Tokio notierten Aktie); eine Bestätigung über die offizielle Investor-Relations-Seite von Daikin steht weiterhin aus.
+- Für diesen Zeitraum wurden keine neuen Rechtsstreitigkeiten, Produkteinführungen oder regulatorischen Meldungen gefunden; die zuvor berichteten Punkte (US-Klage und Thailand-Joint-Venture im Bereich Klimaanlagen-Software, beide Mai 2026) bleiben die jüngsten bekannten derartigen Vorgänge.
 
 ## Management
-- No confirmation was found in this period of a change at the parent company's top leadership (Chairman/CEO and President/COO roles); an earlier, unconfirmed and undated report (Cooling Post) mentioned rumors of a possible CEO succession, but this remains unverified.
-- At US subsidiary Daikin Applied, Yu Nishiwaki has served as President and CEO since 01.07.2026, with James Moe as Chief Operating Officer and Hirokazu Hirao as Chief Operating Officer of Manufacturing.
-- At Daikin Air Conditioning Italy, Hiroshi Shimada became CEO and President effective 01.01.2026, succeeding Geert Vos.
+- Für diesen Zeitraum liegt keine Bestätigung eines Wechsels in der Top-Führung der Muttergesellschaft (Chairman/CEO bzw. President/COO) vor; der frühere, undatierte und unbestätigte Bericht von Cooling Post über einen möglichen Rücktritt von CEO Noriyuki Inoue mit Masanori Togawa als vermutetem Nachfolger bleibt weiterhin unverifiziert.
+- Bei der US-Tochter Daikin Applied ist Yu Nishiwaki seit 01.07.2026 President und CEO, James Moe fungiert als Chief Operating Officer und Hirokazu Hirao als Chief Operating Officer Manufacturing.
+- Bei Daikin Air Conditioning Italy ist Hiroshi Shimada seit 01.01.2026 CEO und President, als Nachfolger von Geert Vos.
 
-## Financials
-- Q1 FY2026 (April–June 2025): management reported real-term growth in net sales and operating profit (excluding currency effects), targeting operating profit above the annual plan of 435 billion yen; one source cites total revenue of 1.21 trillion yen (-2.97% YoY) with net income of 81.53 billion yen.
-- Q2 FY2026: one summary reports record operating profit (+5.1%) and profit attributable to owners (+29.2%) despite a reported sales decline.
-- Q4 FY2026: net sales reported up 2%, with revised profit guidance and an improved equity ratio.
-- Figures for the most recent quarter (April–June 2026, labeled Q1 FY2027 by some sources) could not be confirmed from the search results; the next earnings release is expected around 03.–04.11.2026 and should be verified directly via Daikin's investor relations page.
+## Finanzielles
+- Q1 FY2026 (April–Juni 2025): Das Management berichtete real (währungsbereinigt) ein Wachstum bei Nettoumsatz und Betriebsgewinn und strebt einen Betriebsgewinn über dem Jahresplan von 435 Mrd. Yen an; eine Quelle (TipRanks) nennt dagegen einen Gesamtumsatz von 1,21 Billionen Yen (-2,97% YoY) bei einem Nettogewinn von 81,53 Mrd. Yen – die Angaben sind widersprüchlich und sollten mit Vorsicht behandelt werden.
+- Q2 FY2026: Berichtet wird ein Rekord-Betriebsgewinn (+5,1%) und ein um 29,2% höherer den Anteilseignern zurechenbarer Gewinn, trotz eines gemeldeten Umsatzrückgangs.
+- Q4 FY2026: Nettoumsatz +2%, angepasste Gewinnprognose und eine verbesserte Eigenkapitalquote.
+- Zahlen für das jüngste Quartal (April–Juni 2026, von manchen Quellen als Q1 FY2027 bezeichnet) konnten aus den Suchergebnissen nicht bestätigt werden; die nächste Zahlenveröffentlichung wird für den 03.–04.11.2026 erwartet und sollte direkt über die Investor-Relations-Seite verifiziert werden.
+- Als Gegenwind werden ein schwacher US-Wohnungsmarkt, die anhaltende Immobilienkrise in China sowie eine schwächere Klimaanlagen-Nachfrage in Südostasien im Zusammenhang mit US-Zöllen genannt.
 
-## Strategy & Outlook
-- Daikin continues to pursue a capital-intensive M&A strategy, with prior reporting citing an acquisition budget of roughly 600 billion yen (~5.2 billion USD) directed partly at European heat pump distribution/service companies and commercial refrigeration manufacturers, as part of a push for market leadership in the North American residential and commercial HVAC market.
-- The mid-term strategic plan "FUSION30" (unveiled 12.05.2026) remains the overarching framework, emphasizing electrification, decarbonization, and an AI-supported R&D ecosystem.
-- Data center cooling remains a key growth pillar, supported by the Chilldyne acquisition and an ongoing roughly $163 million investment in an R&D test laboratory at the Daikin Applied site in Plymouth, Minnesota (expected completion 2027).
-- No new, dated acquisitions for the 08.10.–15.10.2026 period were confirmed in this week's searches; PitchBook's most recently listed deal remains the Chilldyne acquisition (04.11.2025), and a Memoori report references plans to accelerate global expansion starting with North America, but no specific new 2026 deal was found.
+## Strategie & Ausblick
+- Daikin verfolgt weiterhin eine kapitalintensive M&A-Strategie; frühere Berichte nennen ein Akquisitionsbudget von rund 600 Mrd. Yen (~5,2 Mrd. USD), das teilweise auf europäische Wärmepumpen-Vertriebs-/Servicegesellschaften und Hersteller von gewerblicher Kältetechnik abzielt, im Rahmen des Vorhabens einer Marktführerschaft im nordamerikanischen Wohn- und Gewerbe-HVAC-Markt.
+- Der mittelfristige Strategieplan "FUSION30" (vorgestellt am 12.05.2026) bleibt der übergeordnete Rahmen mit Schwerpunkt auf Elektrifizierung, Dekarbonisierung und einem KI-gestützten F&E-Ökosystem.
+- Kühlung von Rechenzentren bleibt eine zentrale Wachstumssäule, unterstützt durch die Chilldyne-Akquisition und eine laufende Investition von rund 163 Mio. USD in ein F&E-Testlabor am Daikin-Applied-Standort in Plymouth, Minnesota (Fertigstellung voraussichtlich 2027).
+- Für den Zeitraum 11.10.–18.10.2026 wurden keine neuen, datierten Akquisitionen bestätigt; der jüngste bei PitchBook gelistete Deal bleibt weiterhin die Chilldyne-Akquisition (04.11.2025). Ein Memoori-Bericht verweist weiterhin auf Pläne zur beschleunigten globalen Expansion mit Schwerpunkt Nordamerika, ohne dass ein konkreter neuer Deal für 2026 in dieser Woche gefunden wurde.
 
-## Sources
+## Quellen
 - [Daikin releases Integrated Report 2026 and Sustainability Report 2026 (Daikin Europe)](https://www.daikin.eu/en_us/press-releases/daikin-releases-integrated-report-2026-and-sustainability-report-2026.html)
 - [Daikin Applied Names Yu Nishiwaki as President and CEO (Daikin Applied News Center)](https://www.daikinapplied.com/news/news/daikin-applied-names-yu-nishiwaki-as-president-and-ceo--james-moe-as-chief-operating-officer--hirokazu-hirao-as-chief-operating-officer-of-manufacturing)
 - [Daikin Applied Appoints Nishiwaki CEO and Names Two COOs (refindustry)](https://refindustry.com/news/market-news/daikin-applied-appoints-nishiwaki-ceo-and-names-two-coos/)
 - [Daikin Italia Appoints Hiroshi Shimada as CEO and President (refindustry)](https://refindustry.com/news/market-news/daikin-italia-appoints-hiroshi-shimada-as-ceo-and-president/)
-- [Daikin CEO to Step Down (Cooling Post, unconfirmed)](https://www.coolingpost.com/world-news/daikin-ceo-to-step-down/)
+- [Daikin CEO to Step Down (Cooling Post, unbestätigt)](https://www.coolingpost.com/world-news/daikin-ceo-to-step-down/)
 - [Daikin Industries (6367) Q1 2027 earnings summary (Quartr)](https://quartr.com/events/daikin-industries-ltd-6367-q1-2027_ojd1zf6h)
-- [Daikin Industries Q1 transcript and classic financials (roic.ai)](https://www.roic.ai/quote/DKILF/classic)
+- [Daikin Industries Q1 transcript und klassische Finanzkennzahlen (roic.ai)](https://www.roic.ai/quote/DKILF/classic)
 - [Daikin's 2025+ Strategy: Acquisitions in HVAC & Data Center (Memoori)](https://memoori.com/daikins-2025-strategy-acquisitions-hvac-data-center/)
 - [Daikin Applied Invests $163M in Advanced R&D Test Lab](https://www.daikin.com/press/2025/20251209)
 - [Daikin Global | Press Releases | Daikin Applied Expands Data Center Offering with Acquisition of Chilldyne](https://www.daikin.com/press/2025/20251105_1)
