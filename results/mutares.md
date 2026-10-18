@@ -1,18 +1,18 @@
 # Mutares (MUX.DE)
-_Aktualisiert: 14.10.2026 | Zeitraum: 07.10.2026 – 14.10.2026_
+_Aktualisiert: 18.10.2026 | Zeitraum: 11.10.2026 – 18.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 88 Aktien
 - **Kaufkurs (Ø):** 26,41 EUR
-- **Aktueller Kurs:** 24,40 EUR
-- **Marktwert:** 2.147,20 EUR
-- **Unrealisierter G/V:** -197,31 EUR (-8,42%)
-- **Portfolioanteil:** 1,34%
+- **Aktueller Kurs:** 24,75 EUR
+- **Marktwert:** 2.178,00 EUR
+- **Unrealisierter G/V:** -166,51 EUR (-7,10%)
+- **Portfolioanteil:** 1,38%
 - **Dividenden erhalten:** 129,58 EUR
-- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche (24,80 EUR) weiter abgeschwächt auf 24,40 EUR und notiert damit rund 8,4% unter dem Einstandskurs. Belastbare neue Kennzahlen (KGV/KBV) liegen weiterhin nicht vor, da seit dem Halbjahresbericht (04.08.2026) keine neuen Quartalszahlen veröffentlicht wurden; Sphene Capital hält unverändert an seinem Buy-Rating mit Kursziel 49,30 EUR fest, was ein deutliches Aufwärtspotenzial implizieren würde, sofern die Prognose bestätigt wird. Angesichts der bereits vereinnahmten Dividenden (129,58 EUR), der bestätigten Jahresprognose (Holding-Jahresüberschuss 165-200 Mio. EUR) und des für den 19.11.2026 erwarteten Investor Day erscheint Halten weiterhin sachgerecht; eine Aufstockung sollte auf Klarheit zu den Closings von SABIC/NexPoint Materials und Synthomer sowie auf konkrete Q3-Zahlen warten.
+- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche (24,40 EUR) leicht erholt auf 24,75 EUR, notiert aber weiterhin rund 7% unter dem Einstandskurs. Neue Quartalszahlen liegen seit dem Halbjahresbericht (04.08.2026) weiterhin nicht vor; Sphene Capital hält unverändert an seinem Buy-Rating mit Kursziel 49,30 EUR fest. Angesichts der bestätigten Jahresprognose (Holding-Jahresüberschuss 165-200 Mio. EUR), der bereits vereinnahmten Dividenden und des für den 19.11.2026 erwarteten Investor Day erscheint Halten weiterhin sachgerecht; eine Aufstockung sollte auf konkrete Q3-Zahlen und Klarheit zu den SABIC/NexPoint-Materials-Closing warten.
 
 ## Aktuelle Meldungen
-- Keine offiziellen Mutares-Pressemitteilungen mit Datum im Berichtszeitraum 07.10.–14.10.2026 auffindbar; die Nachrichtenlage bleibt seit dem Halbjahresbericht (04.08.2026) unverändert ruhig.
+- Keine offiziellen Mutares-Pressemitteilungen mit Datum im Berichtszeitraum 11.10.–18.10.2026 auffindbar; die Nachrichtenlage bleibt seit dem Halbjahresbericht (04.08.2026) ruhig.
 - Die zuletzt kursierenden Berichte zu "Rekord-Exits bei gleichzeitigem Kursdruck" (Börse-Express) prägen weiterhin die Einschätzung der Aktie, ohne dass neue Entwicklungen hinzugekommen sind.
 - Keine neuen Informationen zum Closing-Status der SABIC/NexPoint-Materials- oder Synthomer-Transaktion im Berichtszeitraum gefunden.
 
@@ -29,7 +29,7 @@ _Aktualisiert: 14.10.2026 | Zeitraum: 07.10.2026 – 14.10.2026_
 - Analystenmeinung unverändert: Sphene Capital bestätigt Buy-Rating mit Kursziel 49,30 EUR (Stand August 2026).
 
 ## Strategie & Ausblick
-- Größte Übernahme der Firmengeschichte: SABIC-Thermoplastics-Geschäft (Americas & Europe), jetzt "NexPoint Materials", für rund 450 Mio. USD Enterprise Value und ca. 2 Mrd. EUR Jahresumsatz; begründet neues Segment "Chemicals & Materials". Ein eindeutig bestätigter Closing-Termin liegt weiterhin nicht vor; Quellen sind hierzu uneinheitlich (Teile deuten auf ein Closing im Sommer 2026 hin).
+- Größte Übernahme der Firmengeschichte: SABIC-Thermoplastics-Geschäft (Americas & Europe), jetzt "NexPoint Materials", für rund 450 Mio. USD Enterprise Value und ca. 2 Mrd. EUR Jahresumsatz; begründet neues Segment "Chemicals & Materials". Laut Sphene-Capital-Research dürfte die Transaktion inzwischen nach dem H1-2026-Stichtag abgeschlossen sein, ein eindeutig bestätigter Closing-Termin liegt jedoch weiterhin nicht vor.
 - Vereinbarung zur Übernahme von Synthomer a.s. (ca. 110 Mio. EUR Umsatz, ~300 Mitarbeiter, unterzeichnet 19.06.2026); aktueller Closing-Stand weiterhin unklar.
 - Weitere 2026er-Akquisitionen: Greer Steel (USA, Stahlspezialist, Closing 02.01.2026), Car Top Systems, HARO-Fußbodenbereich (ca. 150 Mio. EUR Umsatz), TREPEL und MAFI (Spezialfahrzeuge/Logistik).
 - Verkauf von NEM Energy Group an Hyundai Heavy Industries Power Systems (größter Exit 2026 bislang) sowie Walor Precision Turning (Ende Juli abgeschlossen).
@@ -38,12 +38,9 @@ _Aktualisiert: 14.10.2026 | Zeitraum: 07.10.2026 – 14.10.2026_
 
 ## Quellen
 - [Mutares Aktie: Zwischen Rekord-Exits und Kursdruck – boerse-express.com](https://www.boerse-express.com/news/articles/mutares-aktie-zwischen-rekord-exits-und-kursdruck-934660)
-- [Mutares Aktie: NexPoint Materials für 450 Millionen Dollar – boerse-express.com](https://www.boerse-express.com/news/articles/mutares-aktie-nexpoint-materials-fuer-450-millionen-dollar-936193)
 - [Mutares Aktie: NEM-Deal bis Q3 2026 – boerse-express.com](https://www.boerse-express.com/news/articles/mutares-aktie-nem-deal-bis-q3-2026-926863)
 - [Mutares grows and generates Group revenues of EUR 3.4 billion in H1 2026 – mutares.com](https://mutares.com/en/mutares-grows-and-generates-group-revenues-of-eur-3-4-billion-in-the-first-half-of-2026-further-exit-activities-expected-in-the-second-half-guidance-for-fiscal-year-2026-confirmed-all-bond/)
 - [In the chair with Mutares' Johannes Laumann (Edison Group) – edisongroup.com](https://www.edisongroup.com/edison-tv/mutares-in-the-chair-with-mutares-johannes-laumann-on-us-expansion-a-record-deal-and-growth-momentum/BM-2808/)
 - [EQS-News: Mutares erzielt im ersten Quartal 2026 Umsatzerlöse von EUR 1.678,7 Mio. – boerse-online.de](https://www.boerse-online.de/dpa-afx/eqs-news-mutares-erzielt-im-ersten-quartal-2026-umsatzerloese-im-konzern-von-eur-16787-mio-unterzeichnete-exit-transaktionen-im-auftaktquartal-spiegeln-hohe-harvesting-dynamik-wider-deutsch-524125.html)
-- [Mutares signs agreement to acquire Synthomer a.s. – live.deutsche-boerse.com](https://live.deutsche-boerse.com/news/EQS-News-Mutares-has-signed-an-agreement-to-acquire-Synthomer-as-from-Synthomer-plc-to-grow-further-the-Chemicals---Materials-segment-b2a88d8e-2cc3-4f02-8339-40de31c2b6e9)
-- [Mutares Aktie: TREPEL und MAFI übernommen – boerse-express.com](https://www.boerse-express.com/news/articles/mutares-aktie-trepel-und-mafi-uebernommen-944907)
 - [Original-Research: Mutares SE & Co. KGaA – Sphene Capital GmbH (Buy, Kursziel 49,30 EUR) – boerse-online.de](https://www.boerse-online.de/dpa-afx/original-research-mutares-se-co-kgaa-von-sphene-capital-gmbh-buy-542819.html)
-- [Mutares Aktie: SABIC-Deal über 450 Millionen Dollar – finanztrends.de](https://www.finanztrends.de/news/mutares-aktie-sabic-deal-ueber-450-millionen-dollar/)
+- [Mutares Aktie: Transaktionen im Fokus – boerse-express.com](https://www.boerse-express.com/news/articles/mutares-aktie-transaktionen-im-fokus-863079)
