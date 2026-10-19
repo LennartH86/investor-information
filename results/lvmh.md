@@ -1,56 +1,63 @@
 # LVMH - Louis Vuitton Moët Hennessy (MC.PA)
-_Aktualisiert: 16.10.2026 | Zeitraum: 09.10.2026 – 16.10.2026_
+_Aktualisiert: 19.10.2026 | Zeitraum: 12.10.2026 – 19.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 9 Aktien
 - **Kaufkurs (Ø):** 594,89 EUR
-- **Aktueller Kurs:** 399,50 EUR
-- **Marktwert:** 3.595,50 EUR
-- **Unrealisierter G/V:** -1.809,98 EUR (-33,48%)
-- **Portfolioanteil:** 2,25%
+- **Aktueller Kurs:** 391,40 EUR
+- **Marktwert:** 3.522,60 EUR
+- **Unrealisierter G/V:** -1.882,88 EUR (-34,83%)
+- **Portfolioanteil:** 2,23%
 - **Dividenden erhalten:** 109,86 EUR
-- **Bewertung:** Die Aktie notiert rund ein Drittel unter dem eigenen Einstandskurs und spiegelt damit die seit Jahresbeginn 2026 anhaltende Schwäche des Luxussektors wider (laut Berichten über das April-Hauptversammlung lag der Kursrückgang seit Jahresbeginn zu diesem Zeitpunkt bereits bei über 25%). Bei einer gehaltenen Dividende von 13 EUR je Aktie ergibt sich auf Basis des aktuellen Kurses eine Dividendenrendite von ca. 3,3%, was für LVMH historisch hoch ist. Angesichts der schwachen China-Nachfrage und des enttäuschenden Q3-Ergebnisses bei Mode & Lederwaren erscheint die Position aktuell fundamental günstig bewertet, aber mit Unsicherheit belastet; aus Portfoliosicht spricht die hohe Dividendenrendite und die Marktführerschaft eher für ein Halten der Position als für einen Verkauf, ein kurzfristiger Turnaround ist jedoch nicht erkennbar.
+- **Bewertung:** Der Kurs ist in dieser Woche weiter von 399,50 EUR auf 391,40 EUR gefallen und liegt damit rund 35% unter dem eigenen Einstandskurs; Auslöser war die am 12.10.2026 veröffentlichte 9-Monats-Umsatzmeldung mit nur 2% organischem Wachstum und einem erneut schwachen Mode- & Lederwaren-Geschäft. Bei einer unverändert gehaltenen Dividende von 13 EUR je Aktie ergibt sich auf Basis des aktuellen Kurses eine Dividendenrendite von ca. 3,3%, was im historischen Vergleich für LVMH sehr attraktiv ist. Angesichts der anhaltenden China-Schwäche und ausbleibender kurzfristiger Erholungssignale im Luxussegment erscheint die Position fundamental günstig, aber mit fortgesetztem Kursdruck; aus Portfoliosicht spricht die hohe Dividendenrendite und die unangefochtene Marktführerschaft weiterhin für ein Halten, eine aktive Aufstockung erscheint angesichts des fehlenden Trendwechsels derzeit nicht zwingend.
 
 ## Aktuelle Meldungen
-- Q3-2026-Umsatzmeldung vom 12.10.2026: Umsatz in den ersten neun Monaten 2026 bei 57,1 Mrd. EUR, organisches Wachstum von 2%.
-- Drittes Quartal isoliert: Umsatz von ca. 18,5 Mrd. EUR, organisch +1%, unter den Erwartungen; der Bereich Mode & Lederwaren (u.a. Louis Vuitton, Dior) fiel organisch um rund 5%.
-- Regionale Entwicklung: China bleibt schwach und bremst das Wachstum, während die USA, Europa und Japan gut zulegten.
-- Parfums & Kosmetik entwickelte sich organisch flach; Guerlain und Parfums Christian Dior gehörten zu den stärkeren Marken.
-- Verkauf von Marc Jacobs an WHP Global (Vollzug laut einer Quelle zum 1. September 2026); Berichte zu Bewertung und Struktur sind uneinheitlich und sollten mit Primärquellen gegengeprüft werden.
-- Vom 16. bis 18. Oktober 2026 öffnet LVMH im Rahmen der "Journées Particulières" ("Aux Racines du Rêve") kostenlos historische Werkstätten und Standorte in Frankreich und im Ausland für die Öffentlichkeit.
+- Q3-/9-Monats-Umsatzmeldung vom 12.10.2026: Umsatz in den ersten neun Monaten 2026 bei 57,1 Mrd. EUR, berichtet -2%, organisch +2%.
+- Das dritte Quartal isoliert zeigte nur noch 1% organisches Wachstum und blieb damit unter den Erwartungen; Ursache ist die weiterhin schwache Nachfrage in China, während die USA, Europa und Japan gut zulegten.
+- Nach Sparten über neun Monate: Uhren & Schmuck +8% organisch (stärkste Sparte), Weine & Spirituosen +5%, Einzelhandel (Selective Retailing) +6%, Parfums & Kosmetik flat, Mode & Lederwaren -2%.
+- Sephora (Teil von Selective Retailing) verzeichnete starkes Umsatzwachstum und gewann in mehreren Ländern Marktanteile; LVMH expandierte zudem nach Belgien und Kroatien.
+- Verkauf der Marke Marc Jacobs an WHP Global wurde am 1. September 2026 vollzogen; Berichte zur genauen Bewertung (u.a. rund 1 Mrd. USD inkl. Beteiligung von G-III Apparel) sind uneinheitlich und sollten mit Primärquellen gegengeprüft werden.
+- Vom 16. bis 18. Oktober 2026 öffnete LVMH im Rahmen der sechsten "Journées Particulières" kostenlos historische Werkstätten, Weingüter und Boutiquen in Frankreich und im Ausland für die Öffentlichkeit.
+- Der Konzern bekräftigte trotz des schwächer als erwarteten Q3 seine Zuversicht in die eigene Strategie für den weiteren Jahresverlauf.
 
 ## Management
-- CEO und Hauptaktionär Bernard Arnault wies bei der Hauptversammlung am 23. April 2026 Spekulationen über einen baldigen Rücktritt zurück; laut einer Quelle sprach er davon, das Thema erst in 7-8 Jahren erneut zu diskutieren, laut einer anderen verwies er auf eine Wiederwahl mit 99% Zustimmung.
-- Erstmals in der Firmengeschichte sprachen bei der Hauptversammlung alle fünf Kinder Arnaults öffentlich; Arnault selbst wertete dies nicht als Nachfolgesignal, sondern als Ausdruck des Vertrauens der Aktionäre.
-- Arnault nannte als Ziel, Tiffany & Co. innerhalb von fünf Jahren zur weltweit führenden Schmuckmarke zu machen und damit Cartier zu überholen.
-- Arnault kritisierte wiederholt (zuletzt im Januar 2026) die französische Steuerpolitik als unternehmensfeindlich und warnte vor einer dadurch ausgelösten Standortverlagerung von Unternehmen.
-- In einem Podcast-Interview im Juni 2026 verwies Arnault auf das seit der Übernahme von Boussac 1984 aufgebaute Unternehmen, das heute weltweit rund 220.000 Mitarbeitende beschäftigt.
+- CEO und Hauptaktionär Bernard Arnault wies bei der Hauptversammlung im April 2026 erneut Spekulationen über einen baldigen Rücktritt zurück und verwies auf seine Wiederwahl mit 99% Zustimmung sowie darauf, das Thema Nachfolge erst in 7-8 Jahren wieder aufzugreifen.
+- Erstmals in der Firmengeschichte sprachen bei dieser Hauptversammlung alle fünf Kinder Arnaults, die jeweils operative Funktionen im Konzern innehaben, öffentlich zu den Aktionären.
+- Arnault bezeichnete 2026 angesichts des Nahost-Konflikts als "ziemlich unvorhersehbar", zeigte sich aber weiterhin zuversichtlich bezüglich der langfristigen Entwicklung von LVMH.
+- Als strategisches Ziel nannte Arnault, Tiffany & Co. binnen fünf Jahren zur weltweit führenden Schmuckmarke zu machen und damit Cartier zu überholen; die Familie Arnault hat ihren Konzernanteil zuletzt auf über 50% ausgebaut.
+- China bleibt laut Arnault der zweitgrößte Markt des Konzerns mit weiterhin hohem langfristigem Potenzial, trotz der aktuellen Nachfrageschwäche.
+- In einem Podcast-Interview im Juni 2026 ("LEGEND") blickte Arnault auf die Übernahme von Boussac 1984 zurück und räumte ein, die damals zugesagte Beschäftigungsgarantie wegen schlechterer Fabrikbedingungen und starker chinesischer Konkurrenz nicht vollständig eingehalten zu haben.
+- Arnault kritisierte zuletzt im Januar 2026 erneut die französische Steuerpolitik als unternehmensfeindlich.
 
 ## Finanzielles
-- H1 2026 (Halbjahresbericht vom 27.07.2026): Umsatz 38,6 Mrd. EUR (berichtet -3%, organisch +2%); das organische Wachstum beschleunigte sich im zweiten Quartal auf 3% (bzw. 4% ohne Effekt des Nahost-Konflikts).
-- Laufendes operatives Ergebnis im H1 2026 bei 8,7 Mrd. EUR (-4%), operative Marge stabil bei 22,5%; Konzerngewinn (Gruppenanteil) bei 5,69 Mrd. EUR.
-- Stärkste Division im H1 2026: Uhren & Schmuck; Weine & Spirituosen wuchsen organisch um 5%. Mode & Lederwaren kehrte im Q2 nach einem Rückgang im Q1 wieder in organisches Wachstum zurück.
-- 9-Monats-Umsatz 2026: 57,1 Mrd. EUR, organisch +2%.
-- Eine Analyse zum Jahresauftakt 2026 verweist auf eine solide Bilanz mit fortschreitendem Schuldenabbau, einem Rekord-Free-Cashflow von 11,3 Mrd. EUR (Basis 2025) und einer gehaltenen Dividende von 13 EUR je Aktie trotz eines schwächeren Geschäftsjahres 2025.
+- 9-Monats-Umsatz 2026 (Stand 12.10.2026): 57,1 Mrd. EUR, berichtet -2%, organisch +2%; Q3 isoliert nur +1% organisch und damit unter den Erwartungen.
+- H1 2026 (Halbjahresbericht vom 27.07.2026): Umsatz 38,6 Mrd. EUR (berichtet -3%, organisch +2%), laufendes operatives Ergebnis 8,7 Mrd. EUR, operative Marge stabil bei 22,5%; sowohl Umsatz als auch Nettogewinn übertrafen die von FactSet erhobenen Analystenerwartungen.
+- Q1 2026: Umsatz 19,12 Mrd. EUR, organisch nur +1% trotz Belastungen durch den Nahost-Konflikt.
+- Solide Bilanzlage mit fortschreitendem Schuldenabbau, einem Rekord-Free-Cashflow von 11,3 Mrd. EUR (Basis 2025) und einer unveränderten Dividende von 13 EUR je Aktie; daraus ergibt sich beim aktuellen Kurs von 391,40 EUR eine Dividendenrendite von rund 3,3%.
+- Die Aktie verlor im Berichtszeitraum (12.–19.10.2026) weiter an Wert (399,50 EUR auf 391,40 EUR), nachdem die 9-Monats-Zahlen die Wachstumsschwäche bei Mode & Lederwaren bestätigt hatten.
 
 ## Strategie & Ausblick
 - LVMH bezeichnet das Geschäft trotz unsicherem geopolitischem und wirtschaftlichem Umfeld weiterhin als "solide" und bekräftigt Zuversicht für den weiteren Jahresverlauf 2026.
-- Fokus auf Markenführung und Premiumisierung, u.a. mit dem erklärten Ziel, Tiffany zur global führenden Schmuckmarke auszubauen.
-- Portfoliobereinigung durch Trennung von kleineren/nicht strategischen Marken (Verkauf Marc Jacobs) bei gleichzeitigen punktuellen Zukäufen/Beteiligungen im kleineren Maßstab (z.B. frühere Minderheitsbeteiligungen an Molli und Mykita).
-- Weiterhin Abhängigkeit von der Erholung der chinesischen Nachfrage als zentraler Wachstumstreiber für die kommenden Quartale.
-- Kommunikationsoffensive Richtung Privatkunden und Öffentlichkeit über die "Journées Particulières" im Oktober 2026 zur Stärkung der Markenbindung.
+- Fokus auf Markenführung und Premiumisierung, insbesondere mit dem Ziel, Tiffany zur global führenden Schmuckmarke auszubauen und Cartier zu überholen.
+- Fortgesetzte Portfoliobereinigung durch Trennung von kleineren, nicht-strategischen Marken (u.a. Verkauf von Marc Jacobs) bei gleichzeitig punktuellen Zukäufen/Minderheitsbeteiligungen im kleineren Maßstab (z.B. Molli, Mykita).
+- Expansion des Einzelhandelsgeschäfts (Sephora) in neue europäische Märkte wie Belgien und Kroatien als Wachstumstreiber außerhalb von China.
+- Weiterhin hohe Abhängigkeit von der Erholung der chinesischen Nachfrage als zentraler Faktor für eine Wachstumsbeschleunigung in den kommenden Quartalen.
+- Kommunikations- und Markenbindungsoffensive gegenüber Privatkunden und Öffentlichkeit über die "Journées Particulières" (16.–18.10.2026).
 
 ## Quellen
 - [LVMH: Continued growth in the third quarter of 2026](https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026)
 - [LVMH: Poursuite de la croissance au troisième trimestre 2026](https://www.lvmh.com/fr/publications/poursuite-de-la-croissance-au-troisieme-trimestre-2026)
-- [France-Epargne: LVMH – Mode et maroquinerie reculent de 5% au T3, sous les attentes](https://www.france-epargne.fr/news/lvmh-la-mode-et-la-maroquinerie-reculent-de-5-au-troisieme-trimestre-sous-les-attentes.md)
+- [Vermögenszentrum: LVMH posts 9-month sales of EUR 57.15 billion, organic growth up 2%](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/lvmh-posts-9-month-sales-eur-5715-billion-organic-growth-2)
+- [Vermögenszentrum: LVMH Reports 2% Organic Revenue Growth In First Nine Months Of 2026](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/lvmh-reports-2-organic-revenue-growth-first-nine-months-2026)
+- [Milano Finanza: Focus su LVMH](https://www.milanofinanza.it/news/focus-su-lvmh-202610130712292656)
 - [Le Soleil: LVMH – Poursuite de la croissance au troisième trimestre 2026](https://www.lesoleil.com/communiques-de-presse/2026/10/12/lvmh-poursuite-de-la-croissance-au-troisieme-trimestre-2026-3QY2ISMJM5BUHFZ6NG3MD2OKPQ/)
+- [CBNews: LVMH annonce le retour de ses Journées Particulières en octobre 2026](https://www.cbnews.fr/node/100463)
 - [LVMH: Accelerating growth in the second quarter - solid first half results](https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results)
 - [FashionUnited: LVMH sales approach 39 billion euros in H1 amid a tense climate](https://fashionunited.com/news/business/lvmh-sales-approach-39-billion-euros-in-h1-amid-a-tense-climate/2026072773734)
-- [CBNews: LVMH annonce le retour de ses Journées Particulières en octobre 2026](https://www.cbnews.fr/node/100463)
 - [Jing Daily: Arnault deflects succession talk at LVMH AGM](https://jingdaily.com/intels/2026-04/24/arnault-deflects-succession-talk-at-lvmh-agm)
 - [The Peninsula Qatar: LVMH's Arnault says to talk of retirement in 7-8 years](https://thepeninsulaqatar.com/article/23/04/2026/lvmhs-arnault-says-to-talk-of-retirement-in-7-8-years)
 - [MarketScreener (UK): Bernard Arnault sees himself leading LVMH for another 10 years](https://uk.marketscreener.com/news/bernard-arnault-sees-himself-leading-lvmh-for-another-10-years-ce7d50dcd889f226)
+- [The Impression: LVMH's Arnault warns Middle East conflict could trigger global economic shock](https://theimpression.com/lvmhs-arnault-warns-middle-east-conflict-could-trigger-global-economic-shock/)
 - [Tout Sur Mes Finances: Action LVMH en 2026 - faut-il investir au cours actuel ?](https://www.toutsurmesfinances.com/bourse/a/action-lvmh-faut-il-investir)
 - [GDELT Cloud: Corporate Merger or Acquisition in Paris (Marc Jacobs / WHP Global)](https://gdeltcloud.com/events/merger-or-acquisition-in-paris--cameoplus_911984e1)
 - [CFNews: LVMH acquiert 50% de Cheval Blanc](https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Majoritaire/LVMH-acquiert-50-de-Cheval-Blanc-63664)
