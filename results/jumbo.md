@@ -1,45 +1,44 @@
-# Jumbo S.A. (BELA)
-_Updated: 15.10.2026 | Period: 08.10.2026 – 15.10.2026_
+# Jumbo S.A. (BELA.AT)
+_Aktualisiert: 19.10.2026 | Zeitraum: 12.10.2026 – 19.10.2026_
 
-## Portfolio Analysis
-- **Position:** 50 shares
-- **Avg. purchase price:** 23.74 EUR
-- **Current price:** 26.10 EUR
-- **Market value:** 1305.00 EUR
-- **Unrealized gain/loss:** 110.13 EUR (9.22%)
-- **Portfolio allocation:** 0.82%
-- **Dividends received:** 25.87 EUR
-- **Assessment:** With FY2026 net profit guidance of EUR 310–320m against a market cap of roughly EUR 3.5bn (~134m shares at 26.10 EUR), Jumbo trades at a P/E of only around 11x, cheap for a debt-free, cash-generative retailer still growing sales ~5–9% y/y. Combined 2026 distributions of around EUR 2.20/share imply a high yield (~8%) on the current price, and the position is comfortably in profit versus the purchase price. Hold, with room to Add on any pullback.
+## Portfolio-Analyse
+- **Position:** 50 Aktien
+- **Kaufkurs (Ø):** 23,74 EUR
+- **Aktueller Kurs:** 26,90 EUR
+- **Marktwert:** 1.345,00 EUR
+- **Unrealisierter G/V:** +150,13 EUR (12,56%)
+- **Portfolioanteil:** 0,85%
+- **Dividenden erhalten:** 25,87 EUR
+- **Bewertung:** Jumbo bleibt operativ solide mit stabilem Umsatz- und Gewinnwachstum (H1 2026: Umsatz +4%, Nettogewinn +3%) und einer sehr komfortablen Bilanz (546 Mio. EUR Cash, schuldenfrei). Bei einer Dividendenrendite von rund 2,6% (0,70 EUR Basisdividende + geplante 1 EUR Sonderausschüttung) und moderater Bewertung erscheint die Position angesichts der schwachen Entwicklung in Rumänien und der zurückgestellten Türkei-Expansion als solide Halteposition, ein Aufstocken wäre bei Rückschlägen denkbar.
 
-## Latest News
-- H1 2026 results (released 24 September): Group sales up ~4.4% to roughly EUR 519m; net profit up ~2.9–3% to roughly EUR 120.6m; gross margin slipped slightly to 53.53%, mainly due to Romania's VAT increase and currency weakness.
-- Regional split for H1: Greece +7%, Bulgaria +11%, Cyprus +4%, Romania -6.5%.
-- Eight-month sales update (through August): Group sales up ~5.8–6% y/y, running slightly ahead of the ~5% full-year guidance; August alone up ~9% y/y, with Greek parent-company sales +11% and Bulgaria +17% for the month.
-- Shares fell about 2.2% immediately after the H1 report.
-- A new Jumbo hyperstore in Baia Mare, Romania, is scheduled to open at the end of October 2026; a new Cyprus store is also lined up.
-- No company-specific news dated in the 08.10.–15.10.2026 window itself was found; the items above are the most recent available (September 2026).
+## Aktuelle Meldungen
+- Augustverkäufe stiegen um rund 9% im Jahresvergleich, die 8-Monats-Summe liegt bei +5,8% ggü. Vorjahr.
+- Management bestätigt Jahresprognose 2026: Umsatzwachstum von ca. 5% und Nettogewinn von 310–320 Mio. EUR.
+- Vorstand kündigte für ein kommendes Treffen eine außerordentliche Sonderausschüttung von 1 EUR pro Aktie an; zusammen mit der regulären Dividende ergäben sich 2,20 EUR Gesamtausschüttung für 2026.
+- Neuer Hyperstore in Baia Mare (Rumänien) für Ende Oktober geplant (Eröffnung zum Redaktionsschluss nicht bestätigt).
+- Neuer Store in Zypern geplant, nachdem der Gewinn dort auf 120,6 Mio. EUR gestiegen ist.
 
 ## Management
-- No management or board changes were reported in the period.
-- Management reiterated a cautious, capital-disciplined stance on new foreign markets; a possible Turkey market entry has reportedly been pushed back, with any investment decision from 2027 and visible implementation not before 2028.
+- CEO/Chairman Apostolos Vakakis kündigte auf der Hauptversammlung am 15. Juli 2026 an, die geplante Expansion in die Türkei vorerst auszusetzen – die aktuellen Rahmenbedingungen dort erfüllten nicht die Voraussetzungen für eine sichere Expansion (hohes Geschäftsrisiko, komplexes Handelsumfeld).
+- Strategischer Fokus bleibt auf Balkanmärkte und neue Opportunitäten innerhalb der EU; eine Kapitalerhöhung/Aktienplatzierung wird angesichts der aktuellen Marktbewertung vorerst ausgeschlossen.
+- Online-Expansion in die Türkei (E-Commerce, keine physische Präsenz) für Ende 2026 vorgesehen.
 
-## Financials
-- FY2026 guidance reaffirmed: ~5% sales growth and EUR 310–320m net profit.
-- Balance sheet remains very solid: ~EUR 546m cash and no financial debt as of 30 June 2026.
-- 2026 shareholder distributions: the board approved a cash distribution of EUR 2.20/share for 2026 (including a proposed extraordinary distribution of EUR 1.00/share); year-to-date the company has already distributed about EUR 161.2m (EUR 1.20/share) to shareholders.
-- FY2025 (completed) reference: record sales of EUR 1.23bn and net profit of EUR 320m.
+## Finanzielles
+- H1 2026: Umsatz 519 Mio. EUR (+4% YoY), Nettogewinn 121 Mio. EUR (+3% YoY), operatives Ergebnis 149 Mio. EUR (+3,2% YoY).
+- Bruttomarge leicht rückläufig um 33 Basispunkte auf 53,5%.
+- Bilanz: 546 Mio. EUR Cash-Bestand, keine Schulden.
+- Rumänien bleibt Schwachstelle: Umsatz in den ersten fünf Monaten 2026 rund 6% rückläufig, während Bulgarien und Zypern wachsen.
 
-## Strategy & Outlook
-- Continued store network expansion despite Romanian headwinds: new hyperstores (e.g. Baia Mare) opening while VAT hikes and currency weakness pressure margins there.
-- Bulgaria remains the group's strongest growth market; Greece (the core market) also accelerated in H2.
-- Further stores planned in Romania and Cyprus during 2027.
-- Possible Turkey market entry deferred, reflecting a conservative approach to new foreign markets and capital allocation.
-- Next scheduled report: an unconfirmed November 20, 2026 earnings date has been cited by at least one data provider, but this has not been confirmed by the company.
+## Strategie & Ausblick
+- Expansion in Rumänien trotz schwacher lokaler Verkäufe unverändert: Übernahme einer ehemaligen Fabrik/Distributionszentrums (60.000 qm) geplant, Ziel ist eine Verdopplung der Filialanzahl binnen 10 Jahren.
+- Q1 2026 bereits Übernahme eines Stores im Militari Shopping Center (Rumänien) abgeschlossen.
+- Filialnetz aktuell: 53 Griechenland, 20 Rumänien, 10 Bulgarien, 6 Zypern.
+- Guidance für 2026 bestätigt: ca. 5% Umsatzwachstum, Nettogewinn 310–320 Mio. EUR.
 
-## Sources
+## Quellen
+- [Jumbo: Στις 15 Ιουλίου η γενική συνέλευση και η απόφαση για μέρισμα](https://www.powergame.gr/agores/1372403/jumbo-stis-15-iouliou-i-geniki-synelefsi-kai-i-apofasi-gia-merisma/)
 - [Cyprus shoppers keep Jumbo sales growing in August](https://cyprus-mail.com/2026/09/03/cyprus-shoppers-keep-jumbo-sales-growing-in-august)
-- [Jumbo lines up new Cyprus store as profit reaches €120.6m](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
 - [Jumbo (BELA) H1 2026 earnings summary – Quartr](https://quartr.com/events/jumbo-s-a-bela-h1-2026_F90ztWqk)
-- [Jumbo S.A. – Wikipedia](https://en.wikipedia.org/wiki/Jumbo_S.A.)
-- [Jumbo press release / sales trading update (September 2026)](https://www.naftemporiki.gr/symbols/BELA.ATH/news/2049838)
-- [Jumbo news archive – MarketScreener](https://de.marketscreener.com/kurs/aktie/JUMBO-S-A-6259019/news-andere-sprachen/)
+- [Jumbo: Γιατί παγώνει η είσοδος στην Τουρκία – Απόστολος Βακάκης](https://www.aftodioikisi.gr/oikonomia/jumbo-giati-pagonei-i-eisodos-stin-toyrkia-ti-anakoinose-o-apostolos-vakakis/)
+- [Jumbo lines up new Cyprus store as profit reaches €120.6m](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
+- [Jumbo reports growth in Q1 2026 but Romania records a contraction](https://informat.ro/en/economy/jumbo-reports-a-73-increase-in-q1-2026-but-romania-records-a-contraction-115192)
