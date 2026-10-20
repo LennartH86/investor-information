@@ -1,50 +1,50 @@
-# Sto SE & Co. KGaA (STO3.DE)
-_Aktualisiert: 17.10.2026 | Zeitraum: 10.10.2026 – 17.10.2026_
+# Sto SE & Co. KGaA (Vz) (STO3.DE)
+_Aktualisiert: 20.10.2026 | Zeitraum: 13.10.2026 – 20.10.2026_
 
 ## Portfolio-Analyse
-- **Position:** 7 Vorzugsaktien
+- **Position:** 7 Aktien
 - **Kaufkurs (Ø):** 174,40 EUR
-- **Aktueller Kurs:** 100,00 EUR
-- **Marktwert:** 700,00 EUR
-- **Unrealisierter G/V:** -528,75 EUR (-43,03%)
-- **Portfolioanteil:** 0,44%
-- **Dividenden erhalten:** 59,91 EUR
-- **Bewertung:** Operativ läuft es bei Sto solide weiter (H1 2026: Umsatz +3,7% auf 805,5 Mio. EUR, EBIT +20,6% auf 30,5 Mio. EUR, Konzernergebnis 18,5 Mio. EUR bzw. 2,92 EUR je Vorzugsaktie, Jahresprognose bestätigt), ein belastbares KGV/KBV lässt sich daraus aber nicht ableiten, da die Recherche keine aktuellen Bewertungskennzahlen liefert. Der Kurs liegt trotz der guten Halbjahreszahlen weiterhin rund 43% unter dem eigenen Kaufniveau, während Analysten das Kursziel zuletzt auf 150 EUR angehoben und die Einstufung „Kaufen“ bestätigt haben – das deutet auf erhebliches Aufholpotenzial hin. Da keine neuen negativen Nachrichten vorliegen, die operative Entwicklung positiv ist und die Dividenden weiterhin fließen, erscheint ein Halten der Position weiterhin sinnvoll; eine Aufstockung kommt angesichts des Abstands zum Kursziel für risikobereite Anleger in Frage, sofern sich die Baukonjunktur nicht erneut eintrübt.
+- **Aktueller Kurs:** 103,20 EUR
+- **Marktwert:** 722,40 EUR
+- **Unrealisierter G/V:** -506,35 EUR (-41,21%)
+- **Portfolioanteil:** 0,46%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** Belastbare aktuelle KGV-/KBV-Kennzahlen liegen laut Recherche nicht vor; auf Basis des H1-2026-Ergebnisses je Vorzugsaktie (2,92 EUR) und eines Kurses von rund 103 EUR ergibt sich grob ein KGV im niedrigen bis mittleren einstelligen Bereich für das Halbjahr, was angesichts der operativ positiven Entwicklung (Umsatz- und EBIT-Wachstum, bestätigte Jahresprognose) günstig erscheint. Der Kurs hat sich gegenüber dem Vormonatstief (rund 95,80 EUR Anfang Oktober) leicht erholt, liegt aber weiterhin rund 41% unter dem eigenen Kaufniveau und spürbar unter dem von Analysten zuletzt genannten Kursziel von 150 EUR. Da im Berichtszeitraum keine neuen negativen Nachrichten aufgetaucht sind, die Geschäftsentwicklung stabil bis positiv verläuft und noch kein Q3-Bericht vorliegt, der die Lage verändern könnte, erscheint ein Halten der Position weiterhin sinnvoll; eine Aufstockung kommt für risikobereite Anleger angesichts des Abstands zum Analystenkursziel in Betracht, eine Reduzierung ist aus fundamentaler Sicht derzeit nicht angezeigt.
 
 ## Aktuelle Meldungen
-- Keine Pressemitteilungen oder Unternehmensnachrichten speziell aus dem Berichtszeitraum (10.–17.10.2026) auffindbar; die aktuellsten verfügbaren Meldungen stammen weiterhin aus dem Halbjahresbericht vom 31.08.2026.
-- Analysten hatten das Kursziel für die Sto-Vorzugsaktie zuvor auf 150 EUR angehoben und die Einstufung „Kaufen“ bestätigt; neuere Analystenkommentare aus dem aktuellen Zeitraum wurden nicht gefunden.
-- Quartalszahlen für Q3 2026 wurden laut Recherche bis zum 17.10.2026 noch nicht veröffentlicht.
-- Keine Hinweise auf Übernahmen, Zukäufe oder größere Investitionsprojekte im Jahr 2026; die Kapitalausgaben im ersten Halbjahr betrafen reguläres Capex (-46% auf 12 Mio. EUR), keine M&A-Aktivität.
+- Im Berichtszeitraum (13.–20.10.2026) wurden keine neuen Pressemitteilungen oder Unternehmensmeldungen von Sto SE gefunden; die jüngste verfügbare Unternehmensmeldung bleibt der Halbjahresbericht vom 31.08.2026.
+- Der Q3-2026-Zwischenbericht wurde laut Recherche bis zum 20.10.2026 noch nicht veröffentlicht; ein genaues Veröffentlichungsdatum ließ sich nicht ermitteln.
+- Laut einer Kursmeldung von Anfang Oktober lag die Vorzugsaktie am 02.10.2026 bei 95,80 EUR (52-Wochen-Spanne: 90,50–130,00 EUR); seitdem hat sich der Kurs leicht auf rund 103 EUR erholt.
+- Ein zuvor gemeldetes Analystenkursziel von 150 EUR mit Einstufung „Kaufen“ wurde im aktuellen Zeitraum nicht erneut bestätigt oder aktualisiert; neuere Analystenkommentare liegen nicht vor.
+- Keine Hinweise auf Übernahmen, M&A-Aktivitäten oder größere neue Investitionsprojekte im Berichtszeitraum; ein EQS-Hinweis auf eine Restrukturierung eines China-Geschäftsbereichs (Fokus auf Innenraum/Renovierung statt Neubau) stammt aus dem Kontext des Halbjahresberichts, nicht aus der aktuellen Woche.
 
 ## Management
-- Der Aufsichtsrat hat die Bestellung von CEO Rainer Hüttenberger verlängert (Pressemitteilung vom 30.04.2026).
-- Désirée Konrad wurde erneut in den Vorstand berufen.
-- Jost Bendel wurde zum 01.09.2024 in den Vorstand der STO Management SE berufen (Technologie-Ressort) und übernahm zum 01.01.2025 den Verantwortungsbereich von Jan Nissen, der zum Jahresende 2024 aus dem Vorstand ausschied.
-- Keine neuen Interviews oder Personalien aus dem aktuellen Berichtszeitraum gefunden.
+- Keine neuen Personalentscheidungen oder Interviews im Berichtszeitraum gefunden.
+- Bestehender Vorstand (Stand H1/H2 2026): Rainer Hüttenberger (Sprecher, Marketing & Markenvertrieb International, Bestellung bis 31.03.2027), Michael Keller (Markenvertrieb Deutschland, Distribution, Marketing, Nachhaltigkeit, Zentrale Dienste, bis Juni 2027; seit Januar 2026 zusätzlich Vorsitzender der gemeinnützigen Sto-Stiftung als Nachfolger von Till Stahlbusch), Désirée Konrad (Finanzen, bis August 2027), Jost Bendel (Verfahrenstechnik, Innovation, Materialwirtschaft, Logistik, seit 01.01.2025, Bestellung bis 31.08.2028, Nachfolger von Jan Nissen).
 
 ## Finanzielles
 - **H1 2026 (bis 30.06.2026):** Konzernumsatz +3,7% auf 805,5 Mio. EUR (Vorjahr: 777,1 Mio. EUR); EBIT +20,6% auf 30,5 Mio. EUR; EBT +16,8% auf 29,9 Mio. EUR; Konzernergebnis 18,5 Mio. EUR bzw. 2,92 EUR je Vorzugsaktie.
-- **Regionale Entwicklung:** Deutschland und übriges Europa liefern Wachstum, während das Geschäft in Amerika, Asien und Pazifik um 5,0% zurückging.
-- **Operativer Cashflow:** deutlich negativ aufgrund steigender Kapitalbindung im Umlaufvermögen.
-- **Q1 2026:** Konzernumsatz -1,9% auf 318,5 Mio. EUR, bedingt durch ungünstige Witterung und anhaltend schwache Baukonjunktur; höherer saisonaler Verlust u. a. wegen Lohnerhöhungen zu Jahresbeginn.
+- **Kassenbestand:** rund 103 Mio. EUR zum Ende H1 2026 (laut Quartr-Zusammenfassung).
 - **Investitionen H1 2026:** -46% auf 12 Mio. EUR (reguläres Capex, keine Akquisitionen).
-- **Mitarbeiterzahl:** Rückgang um 27 auf weltweit 5.507 Beschäftigte im ersten Halbjahr 2026.
-- **Geschäftsjahr 2025:** Konzernumsatz -1,3% auf 1,591 Mrd. EUR; EBIT +9,5% auf 64,4 Mio. EUR; alle Prognosewerte 2025 trotz schwierigem Umfeld erreicht.
-- Keine aktuellen Angaben zu KGV, KBV oder laufender Dividendenrendite aus der Recherche verfügbar.
+- **Q1 2026:** Konzernumsatz -1,9% auf 318,5 Mio. EUR, bedingt durch ungünstige Witterung und anhaltend schwache Baukonjunktur.
+- **Geschäftsjahr 2025:** Konzernumsatz -1,3% auf 1,591 Mrd. EUR; EBIT +9,5% auf 64,4 Mio. EUR; Dividende für 2025 von 3,31 EUR je Vorzugsaktie (Basisdividende plus Sonderbonus von 3,00 EUR).
+- **Q3 2026:** Noch keine veröffentlichten Zahlen; Berichtstermin nicht bekannt.
+- Keine aktuellen Angaben zu KGV/KBV aus der Recherche; eine grobe Einordnung über das H1-Ergebnis je Aktie deutet auf eine moderate Bewertung relativ zum Kaufkurs hin.
 
 ## Strategie & Ausblick
-- Prognose für das Gesamtjahr 2026 bestätigt: Konzernumsatz von rund 1,62 Mrd. EUR und EBIT im Bereich von 56 bis 76 Mio. EUR; Prognose unterstellt durchschnittliche Witterungsverhältnisse.
-- Unternehmen nennt geopolitische Risiken (u. a. im Zusammenhang mit dem Iran-Konflikt) als Unsicherheitsfaktor, insbesondere mit Blick auf Beschaffungspreise.
-- Weiterhin gedämpfte Baukonjunktur in mehreren wichtigen Absatzregionen als Belastungsfaktor, während das Innenraumgeschäft robuster läuft als das Außenfassadengeschäft.
-- Analysten sehen mit einem Kursziel von 150 EUR und „Kaufen“-Einstufung deutliches Potenzial gegenüber dem aktuellen Kursniveau.
+- Jahresprognose 2026 bestätigt: Konzernumsatz von rund 1,62 Mrd. EUR und EBIT im Bereich von 56 bis 76 Mio. EUR, unter der Annahme durchschnittlicher Witterungsverhältnisse und stabiler Konjunktur.
+- Geopolitische Risiken (u. a. im Zusammenhang mit dem Iran-Konflikt) werden weiterhin als Unsicherheitsfaktor für Beschaffungs- und Frachtkosten genannt.
+- Schwache Baukonjunktur in mehreren wichtigen Absatzregionen bleibt Belastungsfaktor, während das Innenraumgeschäft robuster läuft als das Außenfassadengeschäft; ein chinesischer Geschäftsbereich wird stärker auf Innenraum/Renovierung statt Neubau ausgerichtet.
+- Zuletzt vorliegendes Analystenkursziel von 150 EUR mit Einstufung „Kaufen“ deutet auf deutliches Aufholpotenzial gegenüber dem aktuellen Kursniveau hin, wurde im Berichtszeitraum aber nicht erneut bestätigt.
 
 ## Quellen
-- [Sto SE & Co. KGaA erhöht Konzernumsatz bis Ende Juni 2026 um 3,7 % auf 805,5 Mio. EUR (boerse-online.de)](https://www.boerse-online.de/dpa-afx/eqs-news-sto-se-co-kgaa-erhoeht-konzernumsatz-bis-ende-juni-2026-um-37-auf-8055-mio-eur-deutsch-548076.html)
 - [Sto steigert Halbjahres-EBIT um 20,6 % und bestätigt Prognose für 2026 (goldesel.de)](https://goldesel.de/aktien/news/sto-steigert-halbjahres-ebit-um-206-und-bestatigt-prognose-fur-2026)
 - [STO-Aktie: Analysten erhöhen Kursziel auf 150 Euro und bestätigen „Kaufen“ (goldesel.de)](https://goldesel.de/aktien/news/sto-aktie-analysten-erhohen-kursziel-auf-150-euro-und-bestatigen-kaufen)
-- [Sto PI 2026-05-08 Q1 2026 (PDF, sto.de)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Pressemitteilungen/Sto-PI-2026_05_08-Q1_2026_EN.pdf)
-- [Sto Zwischenmitteilung Q1 2026 (PDF, sto.de)](https://www.sto.de/cepcom/de/Dokumente/Sto_Zwischenmitteilung_Q1_2026_de.pdf)
-- [Sto PI 2026-04-30 Jahresabschluss 2025 (PDF, sto.de)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Pressemitteilungen/Sto-PI-2026_04_30-JA-2025.pdf)
+- [STO: 3,31 EUR Dividende für Vorzugsaktien (boerse-express.com)](https://www.boerse-express.com/news/articles/sto-331-eur-dividende-fuer-vorzugsaktien-900371)
+- [STO Aktie Kursdaten (boerse-express.com)](https://www.boerse-express.com/boerse/aktie/sto-secokgaa-vzo-on+tts-857576)
+- [Sto SE & Co. KGaA erhöht Konzernumsatz bis Ende Juni 2026 um 3,7 % auf 805,5 Mio. EUR (boerse-online.de)](https://www.boerse-online.de/dpa-afx/eqs-news-sto-se-co-kgaa-erhoeht-konzernumsatz-bis-ende-juni-2026-um-37-auf-8055-mio-eur-deutsch-548076.html)
+- [EQS News: Sto SE & Co KGaA Group turnover rises by 3.7% to EUR 805.5 million (live.deutsche-boerse.com)](https://live.deutsche-boerse.com/news/EQS-News-Sto-SE---Co-KGaA-Group-turnover-rises-by-37--to-EUR-8055-million-by-the-end-of-June-2026-5ef127cc-5c94-4d3f-946a-5edff0365d28)
 - [Sto SE & Co (STO3) Q2 2026 earnings summary (quartr.com)](https://quartr.com/events/sto-se-co-kgaa-sto3-q2-2026_Fec1U9ae)
-- [Sto-Aktie rutscht nach Quartalsstart ab: Umsatz sinkt, Fehlbetrag wächst – EBIT-Spanne bleibt (goldesel.de)](https://goldesel.de/aktien/news/sto-aktie-rutscht-nach-quartalsstart-ab-umsatz-sinkt-fehlbetrag-wachst-ebit-spanne-bleibt)
+- [Sto PI 2026-05-08 Q1 2026 (PDF, sto.de)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Pressemitteilungen/Sto-PI-2026_05_08-Q1_2026_EN.pdf)
+- [Sto PI 2026-04-30 Jahresabschluss 2025 (PDF, sto.de)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Pressemitteilungen/Sto-PI-2026_04_30-JA-2025.pdf)
+- [Geschäftsbericht Sto 2025 (PDF, sto.de)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Hauptversammlung-2026/Geschaeftsbericht_Sto_-2025_de.pdf)
