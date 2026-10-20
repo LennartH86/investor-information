@@ -1,55 +1,51 @@
 # Münchener Rück (MUV2.DE)
-_Aktualisiert: 16.10.2026 | Zeitraum: 09.10.2026 – 16.10.2026_
+_Aktualisiert: 20.10.2026 | Zeitraum: 13.10.2026 – 20.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 215,00 EUR
-- **Aktueller Kurs:** 544,40 EUR
-- **Marktwert:** 5.444,00 EUR
-- **Unrealisierter G/V:** +3.278,82 EUR (+151,43%)
-- **Portfolioanteil:** 3,41%
+- **Aktueller Kurs:** 541,60 EUR
+- **Marktwert:** 5416,00 EUR
+- **Unrealisierter G/V:** +3250,82 EUR (+150,14%)
+- **Portfolioanteil:** 3,42%
 - **Dividenden erhalten:** 719,94 EUR
-- **Bewertung:** Der Kurs ist gegenüber der Vorwoche (524,60 EUR) erneut deutlich gestiegen und markiert mit 544,40 EUR ein weiteres Jahreshoch, womit die Position inzwischen rund 151% über dem Einstandspreis von 2020 liegt. Auf Basis der für 2026 beschlossenen Dividende von 24,00 EUR je Aktie ergibt sich auf dem aktuellen Kursniveau eine Dividendenrendite von nur noch gut 4,4%; belastbare aktuelle KGV/KBV-Daten lagen in der Recherche weiterhin nicht vor. Angesichts der bereits sehr hohen Bewertung, des anhaltenden Preisdrucks im Rückversicherungs-Neugeschäft und des Rückzugs aus dem Venture-Capital-Geschäft erscheint ein Halten der bestehenden Position weiterhin sachgerecht; eine Aufstockung würde sich eher bei einem deutlicheren Rücksetzer anbieten, etwa sollte die für den Herbst erwartete Strategie "Ambition 2030" oder künftige Quartalszahlen enttäuschen.
+- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche (544,40 EUR) leicht um rund 0,5% auf 541,60 EUR zurückgebildet, bleibt aber unverändert auf sehr hohem Niveau und rund 150% über dem Einstandspreis von 2020. Auf Basis der für 2026 beschlossenen Dividende von 24,00 EUR je Aktie ergibt sich eine Dividendenrendite von knapp 4,4%; belastbare aktuelle KGV/KBV-Daten lagen in der Recherche weiterhin nicht vor. Angesichts der hohen Bewertung, des anhaltenden Preisdrucks im Rückversicherungs-Neugeschäft und der erst in drei Wochen (12.11.2026) anstehenden Q3-Zahlen erscheint ein Halten der bestehenden Position weiterhin am sinnvollsten; eine Aufstockung würde sich eher bei einem deutlicheren Rücksetzer anbieten, etwa sollte die Quartalsmitteilung oder eine mögliche "Ambition 2030"-Strategiepräsentation enttäuschen.
 
 ## Aktuelle Meldungen
-- Für den engeren Berichtszeitraum (09.–16.10.2026) wurden keine neuen Ad-hoc-Meldungen oder Pressemitteilungen von Munich Re identifiziert; die vorhandenen Suchtreffer zu "Oktober 2026" bezogen sich überwiegend auf bezahlte Analyse-Werbung sowie auf bereits bekannte Meldungen aus Juli/August.
-- Munich Re Ventures, der seit rund zehn Jahren bestehende Venture-Capital-Arm des Konzerns (Portfoliovolumen von rund 1,2 Mrd. USD, knapp 100 Investments u. a. in Next Insurance, Hippo, At-Bay und Faye), stellt Neuinvestitionen ein; die Aktivitäten werden in den Vermögensverwalter MEAG überführt, ein kleines Team in San Francisco bleibt zur Bestandsverwaltung bestehen.
-- Der Kursanstieg auf neue Hochs setzt die Erholung nach dem Kursrutsch von Anfang August fort, als CFO Andrew Buchanan eine detaillierte Prüfung des Neugeschäfts für Q3/Q4 angekündigt hatte (zeitweiser Einbruch von rund 14%).
-- Munich Re hat seine Retrozessionsabsicherung für die Hurrikansaison 2026 von 1,55 Mrd. auf 600 Mio. USD reduziert.
-- Moody's hat das Rating von Munich Re Mitte Juli 2026 von "Aa3" auf "Aa2" angehoben.
+- Munich Re veranstaltete am 15.10.2026 im Rahmen des Baden-Baden Reinsurance Meeting ein Medienfrühstück (09:30–11:00 Uhr MESZ, als Webcast übertragen); eine gesonderte Pressemitteilung dazu wurde in der Recherche nicht gefunden.
+- Im Zusammenhang mit dem Medienfrühstück wurde laut Sekundärberichten erneut vor "Nuclear Verdicts" gewarnt – besonders hohen Schadenersatzurteilen US-amerikanischer Gerichte, beispielhaft ein Urteil über 604 Mio. USD nach einem tödlichen Lkw-Unfall. Dabei handelt es sich um eine Risikoeinschätzung, nicht um einen bei Munich Re tatsächlich eingetretenen Schadensfall.
+- Die nächste Quartalsmitteilung (Stichtag 30.09.2026) ist für den 12.11.2026 angesetzt; Q3-Zahlen lagen zum Redaktionsschluss dieses Updates noch nicht vor.
+- Für den engeren Berichtszeitraum (13.–20.10.2026) wurden darüber hinaus keine neuen Ad-hoc-Meldungen oder offiziellen Pressemitteilungen von Munich Re identifiziert; mehrere Suchtreffer bezogen sich auf bezahlte Analyse-Werbung oder bereits bekannte Meldungen aus Juli/August (u. a. Rating-Hochstufung durch Moody's, reduzierte Retrozessionsabsicherung, Rückzug von Munich Re Ventures aus Neuinvestitionen).
 
 ## Management
-- CEO Christoph Jurecka (seit 01.01.2026 im Amt, zuvor CFO, Nachfolger von Joachim Wenning) hält trotz gesenkter Umsatzprognose am Nettogewinnziel von 6,3 Mrd. EUR für 2026 fest.
-- CFO Andrew Buchanan (seit 01.01.2026) hatte im Sommer mit vorsichtigen Aussagen zum Neugeschäft und Preisdruck im Rückversicherungsgeschäft für Verunsicherung am Markt gesorgt.
-- Robin Johnson wurde als erster Chief Technology Officer in den Konzernvorstand berufen.
-- Auf Tochtergesellschaftsebene wurde Kevin Rethual zum CEO von Munich Re Retakaful ernannt (wirksam 01.06.2026).
-- Die Entscheidung, Munich Re Ventures abzuwickeln und in MEAG zu integrieren, wird als Fortsetzung der Strategie gewertet, Innovationsaktivitäten stärker auf das Kerngeschäft zu fokussieren statt auf Start-up-Beteiligungen.
-- Ein aktuelles CEO-Interview aus 2026 konnte in der Recherche weiterhin nicht identifiziert werden.
+- CEO Christoph Jurecka (seit 01.01.2026, zuvor CFO, Nachfolger von Joachim Wenning) führt den Konzern durch das laufende Geschäftsjahr und hält trotz gesenkter Umsatzprognose am Nettogewinnziel von 6,3 Mrd. EUR für 2026 fest.
+- CFO Andrew Buchanan (seit 01.01.2026) war zuletzt im Sommer mit vorsichtigen Aussagen zum Neugeschäft und Preisdruck im Rückversicherungsgeschäft aufgefallen; neue öffentliche Aussagen aus dem aktuellen Berichtszeitraum liegen nicht vor.
+- Ein aktuelles Interview mit dem früheren CEO Joachim Wenning aus 2026 konnte nicht identifiziert werden – er ist seit Jahresbeginn nicht mehr im Amt; die jüngste bekannte Wortmeldung stammt aus einem Handelsblatt-Interview von Mai 2025.
+- Keine weiteren Personalveränderungen im Konzernvorstand im aktuellen Berichtszeitraum identifiziert (zuletzt: Berufung von Robin Johnson zum ersten Chief Technology Officer im Konzernvorstand sowie Kevin Rethual als CEO von Munich Re Retakaful ab 01.06.2026).
 
 ## Finanzielles
-- Konzerngewinn H1 2026: rund 3,925 Mrd. EUR (+23,5% ggü. Vorjahr; Q1: 1,714 Mrd. EUR; Q2: 2,211 Mrd. EUR, deutlich über dem Analystenkonsens von 1,786 Mrd. EUR) – getragen von niedriger Großschadenbelastung in der Schaden-/Unfallrückversicherung (Combined Ratio Q1: 66,8%) und einem starken Kapitalanlageergebnis.
+- Letzter bestätigter Finanzstand weiterhin: Konzerngewinn H1 2026 von rund 3,925 Mrd. EUR (+23,5% ggü. Vorjahr; Q2 allein: 2,211 Mrd. EUR, deutlich über dem Analystenkonsens von 1,786 Mrd. EUR), getragen von niedriger Großschadenbelastung in der Schaden-/Unfallrückversicherung und einem starken Kapitalanlageergebnis.
 - Solvabilitätsquote von 304%, deutlich über der regulatorisch geforderten Mindestquote von 200%.
-- Jahresgewinnziel von 6,3 Mrd. EUR für 2026 bestätigt; die Umsatzprognose wurde im August von 64 auf 62 Mrd. EUR gesenkt – Grund sind anhaltende Preisabschläge bei der Vertragserneuerung (April-Erneuerung: Volumenrückgang von ca. -18,5% bei gleichzeitig niedrigeren Preisen von ca. -3,1%).
-- Dividende 2026: Erhöhung von 20 auf 24 EUR je Aktie beschlossen, entsprechend noch rund 4,4% Rendite auf dem inzwischen gestiegenen Kursniveau von 544,40 EUR.
+- Jahresgewinnziel von 6,3 Mrd. EUR für 2026 unverändert bestätigt; die im August gesenkte Umsatzprognose von 62 Mrd. EUR (zuvor 64 Mrd. EUR) gilt weiterhin, Grund sind anhaltende Preisabschläge bei der Vertragserneuerung.
+- Dividende 2026: 24 EUR je Aktie, entsprechend rund 4,4% Rendite auf dem aktuellen Kursniveau von 541,60 EUR.
 - Aktienrückkaufprogramm über bis zu 2,25 Mrd. EUR läuft seit Ende April 2026 bis spätestens zur Hauptversammlung am 29.04.2027.
-- Q3/Q4-Zahlen für 2026 lagen zum Redaktionsschluss noch nicht veröffentlicht vor.
+- Die nächste Zahlenveröffentlichung (Q3 2026, Stichtag 30.09.2026) ist für den 12.11.2026 terminiert.
 
 ## Strategie & Ausblick
-- Munich Re hat im August 2026 eine Vereinbarung zur Übernahme des US-Cyber-Insurtechs At-Bay getroffen (Transaktionswert rund 575 Mio. USD); das Geschäft soll unter der Tochtergesellschaft Hartford Steam Boiler (HSB) geführt werden, der Abschluss wird vorbehaltlich regulatorischer Genehmigungen für das erste Halbjahr 2027 erwartet. Beobachter werten dies als selektiven Ausbau der Cyber-Versicherungssparte.
-- Mit der Abwicklung von Munich Re Ventures und der Integration in MEAG bündelt der Konzern seine Kapitalanlage- und Beteiligungsaktivitäten stärker zentral, anstatt eigenständig in Start-ups zu investieren.
-- Die 2025 vereinbarte vollständige Übernahme von Next Insurance über die Tochter ERGO (Bewertung rund 2,6 Mrd. USD) sollte nach bisherigem Zeitplan inzwischen abgeschlossen sein; eine explizite Bestätigung des Closings fand sich in der aktuellen Recherche nicht.
-- Trotz anhaltenden Preisdrucks im traditionellen Rückversicherungsgeschäft hält das Management an der Jahresprognose sowie an der laufenden Kapitalrückführung (Aktienrückkauf, erhöhte Dividende) fest.
-- Für den Herbst wird weiterhin die Vorstellung einer neuen Mehrjahresstrategie ("Ambition 2030") erwartet; ein konkreter Termin lag zum Redaktionsschluss nicht vor.
+- Munich Re hat im August 2026 eine Vereinbarung zur Übernahme des US-Cyber-Insurtechs At-Bay getroffen (Transaktionswert rund 575 Mio. USD); das Geschäft soll unter der Tochtergesellschaft Hartford Steam Boiler (HSB) geführt werden, der Abschluss wird vorbehaltlich regulatorischer Genehmigungen für das erste Halbjahr 2027 erwartet.
+- Die 2025 vereinbarte vollständige Übernahme von Next Insurance über die Tochter ERGO (Bewertung rund 2,6 Mrd. USD) sollte nach bisherigem Zeitplan inzwischen abgeschlossen sein; eine explizite Bestätigung des Closings fand sich auch in dieser Recherche nicht.
+- Mit der im Oktober-Update bereits beschriebenen Abwicklung von Munich Re Ventures und Integration in MEAG bündelt der Konzern seine Kapitalanlage- und Beteiligungsaktivitäten stärker zentral statt eigenständig in Start-ups zu investieren.
+- Trotz anhaltenden Preisdrucks im traditionellen Rückversicherungsgeschäft hält das Management an der Jahresprognose sowie an der laufenden Kapitalrückführung (Aktienrückkauf, erhöhte Dividende) fest; Entwarnung oder neue Signale werden erst mit der Q3-Mitteilung am 12.11.2026 erwartet.
+- Eine neue Mehrjahresstrategie ("Ambition 2030") wird weiterhin für den Herbst/Winter 2026 erwartet; ein konkreter Vorstellungstermin lag zum Redaktionsschluss nicht vor. Das Medienfrühstück am 15.10.2026 in Baden-Baden könnte dafür ein erster Anlass gewesen sein, ohne dass dies in der Recherche bestätigt wurde.
 
 ## Quellen
-- [Münchener Rück Aktie: Zwischen Rekordgewinn und Hurrikan-Risiko – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-zwischen-rekordgewinn-und-hurrikan-risiko-931533)
-- [Münchener Rück Aktie: Retrozession auf 600 Millionen gekürzt – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-retrozession-auf-600-millionen-gekuerzt-921026)
-- [Münchener Rück Aktie: 14 Prozent Kursrutsch nach Warnung – boerse-express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-14-prozent-kursrutsch-nach-warnung-932285)
-- [Munich Re Ventures ends new investments – Coverager](https://coverager.com/munich-re-ventures-ends-new-investments/)
-- [Munich Re to wind down $1.2bn Munich Re Ventures in 2026 – Insurance Insider](https://www.insuranceinsiderus.com/article/2fii1vnay8gpss9gm641s/all-topics/insurtech/munich-re-to-wind-down-1-2bn-munich-re-ventures-in-2026)
-- [Quarterly statement: Munich Re generates net result of €1.7bn in Q1 2026 – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/quarterly-statement-1-2026.html)
-- [Munich Re posts quarterly result of €2.2bn (Ad-hoc, 24.07.2026) – munichre.com](https://www.munichre.com/en/company/investors/mandatory-announcements/ad-hoc-announcements/2026-07-24-ad-hoc.html)
-- [Munich Re : résultats semestriels 2026 – atlas-mag.net](https://atlas-mag.net/fr/articles/munich-re-resultats-semestriels-2026)
-- [Jurecka löst Wenning an der Spitze von Munich Re ab – Börsen-Zeitung](https://www.boersen-zeitung.de/personen/jurecka-loest-wenning-an-der-spitze-von-munich-re-ab)
-- [Munich Re to Acquire At-Bay – atlas-mag.net](https://atlas-mag.net/en/articles/munich-re-acquire-bay)
+- [Münchener Rück Aktie: Medienfrühstück am 15. Oktober – trading-treff.de](https://trading-treff.de/trading/muenchener-rueck-aktie-medienfruehstueck-am-15-oktober)
+- [Aktienrückkauf – munichre.com](https://www.munichre.com/de/unternehmen/investoren/aktien/aktienrueckkauf.item-d3b198c27f657110af2e7400ea42e5dc.html)
+- [Münchener Rück Aktie: Umsatzprognose auf 62 Milliarden gesenkt – finanztrends.de](https://www.finanztrends.de/news/muenchener-rueck-aktie-umsatzprognose-auf-62-milliarden-gesenkt/)
+- [Münchener Rück Aktie: 14 Prozent Kursrutsch nach Warnung – boerse-express.com](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-14-prozent-kursrutsch-nach-warnung-932285)
+- [Münchener Rück Aktie: Retrozession auf 600 Millionen gekürzt – boerse-express.com](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-retrozession-auf-600-millionen-gekuerzt-921026)
 - [Media Relations – munichre.com](https://www.munichre.com/de/unternehmen/media-relations.content.html)
+- [Jurecka löst Wenning an der Spitze von Munich Re ab – Börsen-Zeitung](https://www.boersen-zeitung.de/personen/jurecka-loest-wenning-an-der-spitze-von-munich-re-ab)
+- [Munich Re erzielt Quartalsergebnis (Q2 2026, Ad-hoc 24.07.2026) – munichre.com](https://www.munichre.com/de/unternehmen/media-relations/medieninformationen-und-unternehmensnachrichten/medieninformationen/2026/media-release-2026-07-24.html)
+- [Munich Re : résultats semestriels 2026 – atlas-mag.net](https://atlas-mag.net/fr/articles/munich-re-resultats-semestriels-2026)
+- [Munich Re to Acquire At-Bay – atlas-mag.net](https://atlas-mag.net/en/articles/munich-re-acquire-bay)
