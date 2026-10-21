@@ -1,20 +1,20 @@
 # Sixt SE (SIX3.DE)
-_Aktualisiert: 17.10.2026 | Zeitraum: 10.10.2026 – 17.10.2026_
+_Aktualisiert: 21.10.2026 | Zeitraum: 14.10.2026 – 21.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 60 Vorzugsaktien
 - **Kaufkurs (Ø):** 56,23 EUR
-- **Aktueller Kurs:** 57,20 EUR
-- **Marktwert:** 3.432,00 EUR
-- **Unrealisierter G/V:** +34,86 EUR (+1,03%)
+- **Aktueller Kurs:** 57,50 EUR
+- **Marktwert:** 3.450,00 EUR
+- **Unrealisierter G/V:** +52,86 EUR (+1,56%)
 - **Portfolioanteil:** 2,17%
 - **Dividenden erhalten:** 94,83 EUR
-- **Bewertung:** Die Vorzugsaktie hat sich im Berichtszeitraum weiter erholt und notiert mit 57,20 EUR nun erstmals seit dem Einstieg wieder über dem Kaufkurs von 56,23 EUR. Bei bestätigter Jahresprognose (Konzernumsatz 4,45–4,60 Mrd. EUR, EBT-Marge ~10%) und einer Dividende von 3,22 EUR je Vorzugsaktie ergibt sich eine Rendite von rund 5,6%; das geschätzte KGV 2026 liegt bei rund 9. Die Bewertung bleibt damit historisch moderat, konkrete neue Unternehmensmeldungen fehlten im Berichtszeitraum jedoch weitgehend. **Halten** bleibt die naheliegende Einschätzung, mit dem Q3-2026-Bericht Mitte November als nächstem wichtigen Kurstreiber.
+- **Bewertung:** Die Vorzugsaktie notiert mit 57,50 EUR weiterhin knapp über dem Kaufkurs von 56,23 EUR und hat sich seit der letzten Aktualisierung kaum verändert. Bei bestätigter Jahresprognose (Konzernumsatz 4,45–4,60 Mrd. EUR, EBT-Marge ~10%) und einer Dividende von 3,22 EUR je Vorzugsaktie ergibt sich weiterhin eine Rendite von rund 5,6%; das geschätzte KGV 2026 liegt bei rund 9. Die Bewertung bleibt historisch moderat, konkrete neue Unternehmensmeldungen fehlten im Berichtszeitraum erneut. **Halten** bleibt die naheliegende Einschätzung, mit dem Q3-2026-Bericht am 12.11.2026 als nächstem wichtigen Kurstreiber.
 
 ## Aktuelle Meldungen
-- Keine neuen unternehmensspezifischen Sixt-Ad-hoc-Meldungen oder Pressemitteilungen im Berichtszeitraum (10.–17.10.2026) auffindbar; die jüngste offizielle Veröffentlichung bleibt der H1-2026-Bericht vom 13.08.2026.
-- Der nächste Pflichttermin ist die Veröffentlichung der Q3-2026-Zahlen, laut Finanzkalender für Mitte November 2026 vorgesehen.
-- Die Kursentwicklung der letzten Woche (von rund 55 auf 57,20 EUR) dürfte eher mit dem allgemeinen Marktumfeld als mit spezifischen Unternehmensnachrichten zusammenhängen, da keine entsprechenden Meldungen gefunden wurden.
+- Keine neuen unternehmensspezifischen Sixt-Ad-hoc-Meldungen oder Pressemitteilungen im Berichtszeitraum (14.–21.10.2026) auffindbar; die jüngste offizielle Veröffentlichung bleibt der H1-2026-Bericht vom 13.08.2026.
+- Der nächste Pflichttermin ist die Veröffentlichung der Q3-2026-Zahlen, laut Finanzkalender für den 12.11.2026 vorgesehen (ein dpa-Bericht aus Juli nannte alternativ den 11.11.2026).
+- Die Aktie bewegt sich im Berichtszeitraum seitwärts um die 57–58-EUR-Marke; spezifische Kurstreiber waren nicht auffindbar.
 
 ## Management
 - Die Co-CEOs Alexander Sixt und Konstantin Sixt sowie CFO Dr. Franz Weinberger führen das Unternehmen weiterhin; die Gründerfamilie Sixt bleibt kontrollierender Ankeraktionär.
