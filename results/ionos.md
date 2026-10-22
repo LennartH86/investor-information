@@ -1,21 +1,21 @@
-# IONOS Group (IOS.DE)
-_Aktualisiert: 19.10.2026 | Zeitraum: 12.10.2026 – 19.10.2026_
+# IONOS Group (IOS)
+_Aktualisiert: 22.10.2026 | Zeitraum: 15.10.2026 – 22.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 24,75 EUR
-- **Aktueller Kurs:** 33,88 EUR
-- **Marktwert:** 1.694,00 EUR
-- **Unrealisierter G/V:** +448,51 EUR (36,01%)
-- **Portfolioanteil:** 1,07%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs hat im Wochenvergleich leicht nachgegeben (von 34,58 EUR auf 33,88 EUR), liegt aber weiterhin deutlich über dem Einstandskurs von 24,75 EUR (+36,01%). Belastbare aktuelle KGV-/KBV-Werte wurden erneut nicht gefunden; eine Dividendenrendite lässt sich wegen bislang ausbleibender Ausschüttungen nicht ermitteln. Konkrete neue Unternehmensmeldungen aus dem Zeitraum 12.–19.10.2026 fanden sich nicht – die operative Basis (angehobene Umsatzprognose, starkes Kundenwachstum aus H1 2026) bleibt aber intakt. Angesichts des weiterhin deutlichen Kursgewinns und der soliden Fundamentaldaten erscheint ein Halten sinnvoll; eine Aufstockung sollte frühestens nach Vorliegen der Q3-2026-Zahlen (regulär im November erwartet) erwogen werden, um nicht auf einem bereits erhöhten Kursniveau nachzukaufen.
+- **Aktueller Kurs:** 36,56 EUR
+- **Marktwert:** 1.828,00 EUR
+- **Unrealisierter G/V:** +582,51 EUR (+46,77%)
+- **Portfolioanteil:** 1,15%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** Der Kurs ist im Wochenvergleich kräftig gestiegen (von 33,88 EUR auf 36,56 EUR, +7,9%) und liegt damit rund 47% über dem Einstandskurs von 24,75 EUR. Belastbare aktuelle KGV-/KBV-Werte wurden erneut nicht gefunden; eine Dividendenrendite lässt sich wegen bislang ausbleibender Ausschüttungen nicht ermitteln. Die fundamentale Basis bleibt mit der im August angehobenen Umsatzprognose und starkem Kundenwachstum intakt, zudem hat Bank of America die Coverage mit "Buy" und Kursziel 37 EUR aufgenommen. Angesichts der bereits sehr starken Kursentwicklung erscheint ein Halten sinnvoll; eine Aufstockung sollte frühestens nach Vorliegen der Q3-2026-Zahlen (regulär im November erwartet) erwogen werden, um nicht auf einem bereits deutlich erhöhten Kursniveau nachzukaufen.
 
 ## Aktuelle Meldungen
-- Im Recherchezeitraum (12.10.–19.10.2026) wurden keine neuen, spezifischen Unternehmensmeldungen oder Pressemitteilungen der IONOS Group gefunden; die jüngste offizielle Mitteilung stammt weiterhin vom 6. August 2026 (Halbjahresbericht H1 2026).
+- Im engeren Recherchezeitraum (15.10.–22.10.2026) wurden keine neuen, spezifischen Unternehmensmeldungen oder Pressemitteilungen der IONOS Group gefunden; die jüngste offizielle Mitteilung stammt weiterhin vom 6. August 2026 (Halbjahresbericht H1 2026).
 - Laut diesem Halbjahresbericht wuchs die Kundenbasis um rund 280.000 auf 6,91 Mio. Kunden, der Umsatz stieg um 6,9% (währungsbereinigt 8,2%) auf 701,1 Mio. EUR, das bereinigte EBITDA lag bei 245,2 Mio. EUR (Marge 35,0%, Vorjahr 36,1%).
-- Eine unbestätigte Schlagzeile (Stockopedia) nennt weiterhin einen möglichen Stellenabbau von 3.800 auf 3.350 Vollzeitstellen; ein Datum oder eine offizielle Bestätigung konnten erneut nicht gefunden werden.
-- Der Kurs ist im Wochenvergleich von 34,58 EUR auf 33,88 EUR leicht gesunken, ohne dass dafür eine konkrete neue Meldung identifiziert werden konnte.
+- Bank of America hat die Coverage der Aktie mit einem "Buy"-Rating und einem Kursziel von 37 EUR aufgenommen; die Marktkapitalisierung wird mit rund 4,38 Mrd. EUR angegeben.
+- Der Kurs ist im Wochenvergleich von 33,88 EUR auf 36,56 EUR deutlich gestiegen, ohne dass dafür im Rahmen der Recherche eine konkrete neue Unternehmensmeldung identifiziert werden konnte.
 - Nächster erwarteter Termin: Q3-2026-Zahlen, die laut bisherigem Finanzkalender im November 2026 veröffentlicht werden dürften (im Recherchezeitraum noch nicht erschienen).
 
 ## Management
@@ -26,17 +26,17 @@ _Aktualisiert: 19.10.2026 | Zeitraum: 12.10.2026 – 19.10.2026_
 
 ## Finanzielles
 - **Q1 2026 (veröffentlicht 12.05.2026):** Umsatz +5,7% auf 348,4 Mio. EUR (währungsbereinigt +7,6%), bereinigtes EBITDA +4,8% auf 118,2 Mio. EUR (Marge 33,9%, Vorjahr 34,2%), bereinigtes EPS 0,40 EUR (Vorjahr 0,33 EUR), Kundenbasis 6,81 Mio. (+180.000).
-- **H1 2026 (veröffentlicht 06.08.2026):** Umsatz 701,1 Mio. EUR (+6,9%, währungsbereinigt +8,2%), bereinigtes EBITDA 245,2 Mio. EUR (Marge 35,0%, Vorjahr 36,1%), bereinigtes EPS 0,84 EUR (Vorjahr 0,69 EUR), Kundenbasis 6,91 Mio. Die Aktie geriet nach den H1-Zahlen wegen der enttäuschenden EBITDA-Marge zeitweise unter Druck (Kursrückgang am Veröffentlichungstag um rund 5-6%).
+- **H1 2026 (veröffentlicht 06.08.2026):** Umsatz 701,1 Mio. EUR (+6,9%, währungsbereinigt +8,2%), bereinigtes EBITDA 245,2 Mio. EUR (Marge 35,0%, Vorjahr 36,1%), bereinigtes EPS 0,84 EUR (Vorjahr 0,69 EUR), Kundenbasis 6,91 Mio. Die Aktie geriet nach den H1-Zahlen wegen der enttäuschenden EBITDA-Marge zeitweise unter Druck (Kursrückgang am Veröffentlichungstag um rund 5-6%), hat sich seither aber deutlich erholt (aktuell 36,56 EUR).
 - **Prognose 2026 (angehoben im August):** ca. 8% währungsbereinigtes Umsatzwachstum (zuvor 7%) bei weiterhin ca. 530 Mio. EUR bereinigtem EBITDA.
 - Laut einem Investing.com-Bericht ist der Free Cashflow deutlich gesunken, was das Management mit höheren Reinvestitionen in Marketing und KI begründet; die Nettoverschuldung lag bei rund 676 Mio. EUR.
-- Eine Aggregator-Quelle nennt eine Marktkapitalisierung von rund 4,38 Mrd. EUR (Stand Mitte 2026); diese Angabe stammt nicht direkt von IONOS und konnte nicht verifiziert werden.
+- Bank of America nennt in ihrer neuen Coverage ein Kursziel von 37 EUR ("Buy"); die Marktkapitalisierung liegt bei rund 4,38 Mrd. EUR.
 - Q3-2026-Zahlen wurden im Recherchezeitraum weiterhin nicht veröffentlicht.
 
 ## Strategie & Ausblick
 - IONOS treibt den Ausbau KI-gestützter Produkte unter dem Label "IONOS Momentum" voran (AI Phone Assistant/Receptionist, AI App & Site Builder) als Wachstumstreiber für KMU-Kunden, gestützt auf die eigene souveräne europäische Cloud-Infrastruktur.
 - Die im August angehobene Umsatz- und bestätigte EBITDA-Prognose für 2026 signalisiert fortgesetzte Zuversicht des Managements in die operative Entwicklung für den Rest des Jahres.
 - CEO Weiß nannte M&A im europäischen Web-Presence-Markt als strategische Priorität bei vergleichsweise niedriger Verschuldung; konkrete Übernahme- oder Investorentransaktionen für 2026 wurden in der Recherche weiterhin nicht gefunden.
-- Ein möglicher Stellenabbau (3.800 auf 3.350 Vollzeitstellen laut unbestätigter Meldung) könnte auf Effizienzmaßnahmen hindeuten, wurde aber weiterhin nicht offiziell mit Datum bestätigt.
+- Die neue Analysten-Coverage durch Bank of America ("Buy", Kursziel 37 EUR) dürfte zur jüngsten positiven Kursentwicklung beigetragen haben.
 - Die Aktionärsstruktur (United Internet als Mehrheitsaktionär) resultiert weiterhin aus dem Börsengang 2023; keine Hinweise auf Veränderungen.
 
 ## Quellen
