@@ -1,60 +1,47 @@
 # Mercedes-Benz (MBG.DE)
-_Aktualisiert: 19.10.2026 | Zeitraum: 12.10.2026 – 19.10.2026_
+_Aktualisiert: 23.10.2026 | Zeitraum: 16.10.2026 – 23.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 20 Aktien
 - **Kaufkurs (Ø):** 65,00 EUR
-- **Aktueller Kurs:** 40,71 EUR
-- **Marktwert:** 814,20 EUR
-- **Unrealisierter G/V:** -493,95 EUR (-37,76%)
-- **Portfolioanteil:** 0,52%
+- **Aktueller Kurs:** 41,43 EUR
+- **Marktwert:** 828,60 EUR
+- **Unrealisierter G/V:** -479,55 EUR (-36,66%)
+- **Portfolioanteil:** 0,53%
 - **Dividenden erhalten:** 114,86 EUR
-- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche leicht erholt (40,20 auf 40,71 EUR), liegt aber weiterhin rund 38% unter dem Kaufkurs; belastend bleiben die China-Schwäche, US-Zölle und hohe Software-/E-Investitionen, die Umsatz und Marge 2026 drücken. Mit KGV im unteren einstelligen bis niedrigen zweistelligen Bereich (auf Basis des gesunkenen Gewinnniveaus 2025/2026) und einer Dividendenrendite, die historisch im hohen einstelligen Prozentbereich lag, erscheint die Aktie fundamental nicht teuer; angesichts des bestätigten Mittelfristplans, der laufenden Produktoffensive (neue GLA/GLB/GLC, GLE/GLS, elektrische C-Klasse) und der bereits vereinnahmten Dividenden (114,86 EUR) erscheint vorerst Halten sinnvoller als ein Nachkauf, solange die China-Nachfrage und die US-Zollsituation ungeklärt bleiben; bei weiterer Stabilisierung des Kurses und bestätigten Mittelfristzielen wäre ein vorsichtiges Aufstocken denkbar.
+- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche weiter leicht erholt (40,71 auf 41,43 EUR), liegt aber weiterhin rund 37% unter dem Kaufkurs. Der Q3-Absatz fiel mit 491.700 verkauften Pkw/Vans konzernweit um 6% (Pkw-Sparte -8%), vor allem getrieben durch die anhaltende China-Schwäche – belastbare Q3-Finanzkennzahlen liegen zum Berichtszeitraum noch nicht vor. Mit einem KGV im niedrigen zweistelligen Bereich (auf Basis des gesunkenen Gewinnniveaus 2025/2026) und einer historisch hohen Dividendenrendite erscheint die Aktie fundamental nicht teuer; angesichts des bestätigten Mittelfristplans, der laufenden Produktoffensive und der bereits vereinnahmten Dividenden (114,86 EUR) bleibt vorerst Halten die sinnvollste Einschätzung, solange China-Nachfrage und US-Zollsituation ungeklärt bleiben.
 
 ## Aktuelle Meldungen
-- Mercedes-Benz war vom 12. bis 18. Oktober 2026 nach einer Abwesenheit seit 2018 wieder auf dem Pariser Automobilsalon (Mondial de l'Auto) vertreten, Stand in Halle 5.2 (Paris Expo Porte de Versailles); Pressekonferenz am 12.10. um 14:45 Uhr.
-- Gezeigt wurden u. a. die neuen Modelle GLA, GLB und GLC sowie das AMG GT Coupé mit vier Türen; der Auftritt steht im Zeichen des 140-jährigen Firmenjubiläums (Patentanmeldung von Carl Benz 1886).
-- Die neue CLA wurde laut einer französischen Quelle zum „Car of the Year 2026" gekürt; für Südkorea wurde ein umfangreiches Produktlaunch-Programm mit bis zu zehn neuen Modellen angekündigt.
-- Ein niederländischer Händlerkonzern (Van Mossel) übernimmt den polnischen Mercedes-Benz-Vertriebspartner Auto Idea – eine Händler-, keine Konzerntransaktion.
-- Keine eigenständige offizielle Pressemitteilung des Konzerns mit Datum exakt im Berichtszeitraum (12.–19.10.2026) über die Pariser-Salon-Berichterstattung hinaus auffindbar.
+- Der Pariser Automobilsalon (12.–18.10.2026), auf dem Mercedes-Benz nach mehrjähriger Abwesenheit wieder vertreten war, ist inzwischen beendet; eine gesonderte Nachberichterstattung zum tatsächlichen Messeauftritt war im Berichtszeitraum nicht auffindbar.
+- Laut vorläufigen Absatzzahlen verkaufte der Konzern im dritten Quartal 2026 weltweit 491.700 Pkw und Vans (-6% ggü. Vorjahr); bei Mercedes-Benz Cars lag der Absatz bei 407.200 Fahrzeugen (-8%), mit Schwerpunkt des Rückgangs in China.
+- Keine eigenständige, im Berichtszeitraum (16.–23.10.2026) datierte offizielle Konzern-Pressemitteilung über die bereits bekannten Themen (Paris-Salon, Modelloffensive, 140-Jahr-Jubiläum) hinaus auffindbar.
 
 ## Management
-- CEO Ola Källenius betont weiterhin einen nicht linearen Weg zu Zero-Emission-Fahrzeugen mit regional unterschiedlichem Tempo ("verschiedene Spuren" für die nächsten 10–15+ Jahre) und kündigt einen komplett neuen, leistungsstarken elektrischen AMG für 2027 an.
-- Källenius wurde zudem für eine zweite Amtszeit als ACEA-Präsident bestätigt.
-- Middle-East-CEO Michael Stroband bezeichnet 2026/2027 als "explosive Jahre" mit rund 40 neuen oder überarbeiteten Modellen; neue GLE und GLS sollen Ende 2026 kommen, ein kompakter G-Klasse-Ableger 2027.
-- CTO Markus Schäfer sieht die Richtung hin zur Elektromobilität weiterhin klar, rechnet aber mit einer langsameren Marktdurchdringung als ursprünglich erwartet.
-- René Neumann übernahm im Januar 2026 die Position des CEO von Mercedes-Benz Vietnam (regionale Personalie, keine Konzernleitung).
+- Keine neuen Management-Meldungen im Berichtszeitraum gefunden; CEO Ola Källenius bleibt laut zuletzt verfügbaren Aussagen (2025) bei seiner Linie eines nicht linearen, regional unterschiedlich schnellen Wegs zur Elektromobilität und sieht das Ende der Verbrenner-Neuzulassungen 2035 als kaum realisierbar an.
+- Källenius wurde für eine zweite Amtszeit als ACEA-Präsident (2026) bestätigt; sein zweiter CEO-Fünfjahresvertrag läuft bis 2029.
 
 ## Finanzielles
-- Q1 2026 (veröffentlicht 29.04.2026): Konzernumsatz 31,6 Mrd. EUR, Konzern-EBIT 1,9 Mrd. EUR, Konzernergebnis rückläufig um 17,2% auf 1,43 Mrd. EUR (Vorjahr 1,73 Mrd. EUR). Bereinigte Pkw-Umsatzrendite 4,1% (Analystenerwartung 3,4%), belastet durch rückläufige China-Absätze (-6% auf 419.400 Fahrzeuge). Jahresprognose zu diesem Zeitpunkt bestätigt.
-- Q2 2026 (veröffentlicht 28.07.2026): Umsatz ca. 32,06 Mrd. EUR (-3,3%), Konzernergebnis laut mehreren Quellen +13,5% auf ca. 1,09 Mrd. EUR, Konzern-EBIT ca. 1,55 Mrd. EUR (+21,5%). Bereinigte Pkw-Marge jedoch rückläufig auf 4,0% (Vorjahr 5,1%); Wachstumsimpulse kamen vor allem aus dem Transporter-Geschäft und Kostensenkungen.
-- Wegen anhaltender Schwäche in China wurde die Umsatzprognose für das Gesamtjahr 2026 nach der Q2-Vorlage nach unten korrigiert, die xEV-Anteilsprognose dagegen angehoben.
+- Q3 2026 (Absatz, vorläufig): Konzernweit 491.700 verkaufte Pkw/Vans (-6% ggü. Q3 2025); Mercedes-Benz Cars 407.200 Fahrzeuge (-8%), Rückgang konzentriert auf China. Belastbare Finanzkennzahlen (Umsatz, EBIT, Konzernergebnis) zu Q3 2026 waren im Berichtszeitraum noch nicht veröffentlicht.
+- Zum Vergleich Q2 2026: Konzernumsatz 32,1 Mrd. EUR (Q2 2025: 33,2 Mrd. EUR), Konzern-EBIT 1,5 Mrd. EUR (Q2 2025: 1,3 Mrd. EUR); der Umsatzausblick 2026 wurde damals gekappt, das Pkw-Margenziel aber beibehalten.
 - Vollständiges Geschäftsjahr 2025 (Vergleichsbasis): Umsatz -9,2% auf 132,2 Mrd. EUR, Nettogewinn nahezu halbiert (-49%) auf 5,3 Mrd. EUR, bedingt durch US-Zölle, Preiskampf/Wettbewerb in China und hohe softwarebezogene F&E-Kosten.
-- Keine neuen Quartalszahlen (Q3 2026) innerhalb des aktuellen Berichtszeitraums (12.–19.10.2026) veröffentlicht; nächster Termin voraussichtlich Ende Oktober/Anfang November 2026.
+- Offizielle Q3-2026-Finanzzahlen werden voraussichtlich Ende Oktober/Anfang November 2026 veröffentlicht.
 
 ## Strategie & Ausblick
-- Fortsetzung der Elektrifizierungsstrategie: "zweite Phase" der E-Offensive mit der CLA als erstem Modell; CTO Schäfer sieht die Richtung weiter klar Richtung Elektromobilität, aber mit langsamerem Tempo als ursprünglich geplant.
-- Investitionsoffensive in den USA: über 7 Mrd. USD geplant, davon rund 4 Mrd. USD für den Ausbau des Werks Tuscaloosa (Alabama) bis 2030, zusätzlich Bündelung von bis zu 500 Stellen in einem neuen F&E-Zentrum in Atlanta.
-- Parallel verstärkte Investitionen in Verbrennertechnik (u. a. Facelift der S-Klasse mit Verbrennermotor für Mitte 2026 angekündigt), um auf unterschiedliche regionale Marktgeschwindigkeiten bei der E-Mobilität zu reagieren.
-- Minderheitsbeteiligung an der Series-D-Finanzierungsrunde des britischen Autonomie-Start-ups Wayve (Februar 2026, Gesamtrunde ca. 1,2 Mrd. USD) – keine Übernahme.
-- Mittelfristig bestätigter Investitionsplan von über 60 Mrd. EUR (2022–2026) für Elektrifizierung und Software.
-- Produktoffensive mit Fokus auf SUV-Baureihen (neue GLA/GLB/GLC, überarbeiteter GLE, neue GLE/GLS Ende 2026) und Leistungselektrifizierung (AMG-Elektromodell 2027) als Wachstumstreiber, während die China-Nachfrage und US-Zölle als zentrale Risiken für die Jahresprognose bestehen bleiben.
+- Fortsetzung der Elektrifizierungsstrategie mit regional unterschiedlichem Tempo; Produktoffensive mit neuen SUV-Baureihen (GLA, GLB, GLC, neue GLE/GLS Ende 2026) und elektrifizierten Modellen (u. a. AMG GT Coupé 4 Door, elektrische CLA) als Wachstumstreiber.
+- Minderheitsbeteiligung an der Series-D-Finanzierungsrunde des britischen Autonomie-Start-ups Wayve (Februar 2026, Gesamtrunde ca. 1,2 Mrd. USD, weitere Investoren u. a. NVIDIA, Microsoft, Uber) – weiterhin die jüngste bekannte strategische Beteiligung, keine Übernahme.
+- Beteiligung am Halbleiter-/Logistikpartner BTV Technologies zur Absicherung der Chip-Lieferkette (Finanzdetails nicht offengelegt, genaues Datum unklar); keine neuen größeren Übernahmen im Berichtszeitraum identifiziert.
+- Zentrale Risiken bleiben die schwache Nachfrage in China (Q3-Absatz -8% bei Mercedes-Benz Cars), US-Zölle sowie hohe Investitionen in Software und E-Mobilität, die kurzfristig auf der Marge lasten.
 
 ## Quellen
-- [Mercedes-Benz au Mondial de l'Auto 2026: un programme riche](https://mondial.paris/actualites/auto-mondial/mercedes-benz-au-mondial-de-l-auto-2026-un-programme-riche-90572.html)
-- [Mercedes-Benz au Mondial de l'Auto 2026: l'annonce d'un retour](https://mondial.paris/actualites/auto-mondial/mercedes-benz-au-mondial-de-l-auto-2026-l-annonce-d-un-retour-55075.html)
-- [Mercedes-Benz announces updates for 2026 model year (Automotive Fleet)](https://www.automotive-fleet.com/news/mercedes-benz-announces-updates-for-2026-model-year)
 - [Mercedes-Benz plans record model launch programme (Yahoo Autos)](https://autos.yahoo.com/new-vehicles-and-reviews/articles/mercedes-benz-plans-record-model-200031333.html)
+- [Mercedes-Benz announces updates for 2026 model year (Automotive Fleet)](https://www.automotive-fleet.com/news/mercedes-benz-announces-updates-for-2026-model-year)
+- [Mercedes-Benz Aktie: neue Taktik (finanztrends.de)](https://www.finanztrends.de/news/mercedes-benz-aktie-neue-taktik/)
+- [Mercedes-Benz au Mondial de l'Auto 2026: un programme riche (mondial.paris)](https://mondial.paris/actualites/auto-mondial/mercedes-benz-au-mondial-de-l-auto-2026-un-programme-riche-90572.html)
+- [Mercedes nennt Quartalszahlen: Absturz, Elektro brummt (web.de)](https://web.de/magazine/auto/mercedes-nennt-quartalszahlen-absturz-elektro-brummt-42813656)
+- [Mercedes-Ergebnis fällt nicht so stark wie befürchtet (boersen-zeitung.de)](https://www.boersen-zeitung.de/unternehmen-branchen/mercedes-ergebnis-faellt-nicht-so-stark-wie-befuerchtet)
+- [Mercedes-Benz Q2 2026 Zwischenbericht (group.mercedes-benz.com)](https://group.mercedes-benz.com/investoren/berichte-news/zwischenberichte/q2-2026/)
+- [Interview mit Ola Källenius zu China und Wettbewerb (table.media)](https://table.media/en/china/interview/kallenius-the-competition-is-enormous)
 - [ACEA-Präsident 2026 (group.mercedes-benz.com)](https://group.mercedes-benz.com/unternehmen/news/acea-praesident-2026.html)
 - [Mercedes-Benz CEO on Formula 1 and the future of driving (AOL)](https://www.aol.com/articles/mercedes-benz-ceo-formula-1-151248876.html)
-- [Mercedes CEO praises EVs, says 2027 electric AMG will "blow your mind"](https://eletric-vehicles.com/mercedes/mercedes-ceo-praises-evs-says-2027-electric-amg-will-blow-your-mind/)
-- [Leadership transition as the brand approaches its 140-year global milestone](https://ven.congthuong.vn/leadership-transition-as-the-brand-approaches-its-140-year-global-milestone-58741.html)
-- [Mercedes-Benz Aktie: S-Klasse übertrifft Erwartungen (boerse-express.com)](https://www.boerse-express.com/news/articles/mercedes-benz-aktie-s-klasse-uebertrifft-erwartungen-900269)
-- [Mercedes-Ergebnis fällt nicht so stark wie befürchtet (boersen-zeitung.de)](https://www.boersen-zeitung.de/unternehmen-branchen/mercedes-ergebnis-faellt-nicht-so-stark-wie-befuerchtet)
-- [Mercedes Q1 2026 Zwischenbericht (group.mercedes-benz.com)](https://group.mercedes-benz.com/investoren/berichte-news/zwischenberichte/q1-2026/)
-- [Mercedes Q2 2026: Gewinn plus 13,5 Prozent, E-Autos stark (elektroquatsch.de)](https://www.elektroquatsch.de/artikel/mercedes-q2-2026-gewinn-plus-13-5-prozent-e-autos-stark)
-- [Mercedes Q2 2026 Gewinn Pkw-Marge (drweb.de)](https://www.drweb.de/mercedes-q2-2026-gewinn-pkw-marge/)
-- [Mercedes-Benz nach Q2 2026: Nettogewinn steigt, aber China bremst die Jahresprognose (goldesel.de)](https://goldesel.de/aktien/news/mercedes-benz-nach-q2-2026-nettogewinn-steigt-aber-china-bremst-die-jahresprognose)
-- [Mercedes vermeldet deutlichen Gewinnrückgang im ersten Quartal (mbpassion.de)](https://mbpassion.de/2026/04/mercedes-vermeldet-deutlichen-gewinnrueckgang-im-ersten-quartal/)
-- [Mercedes-Benz announces major investment to sustain ICE technology (ArabGT)](https://en.arabgt.com/automotive-industry/mercedes-benz-announces-major-investment-to-sustain-ice-technology/)
+- [Mercedes-Benz acquires stake in BTV Technologies to secure semiconductor supply chain (S&P Global)](https://autotechinsight.spglobal.com/news/5273328/mercedes-benz-acquires-stake-in-btv-technologies-to-secure-semiconductor-supply-chain)
 - [CB Insights: Mercedes-Benz Financials & Acquisitions](https://www.cbinsights.com/company/mercedes-benz/financials)
