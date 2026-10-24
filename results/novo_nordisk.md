@@ -1,50 +1,49 @@
 # Novo Nordisk (NOVO-B.CO)
-_Aktualisiert: 20.10.2026 | Zeitraum: 13.10.2026 – 20.10.2026_
+_Aktualisiert: 24.10.2026 | Zeitraum: 17.10.2026 – 24.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 120 Aktien
-- **Kaufkurs (Ø):** 48.27 EUR
-- **Aktueller Kurs:** 34.35 EUR
-- **Marktwert:** 4122.00 EUR
-- **Unrealisierter G/V:** -1703.88 EUR (-29.25%)
-- **Portfolioanteil:** 2.60%
-- **Dividenden erhalten:** 158.63 EUR
-- **Bewertung:** No new P/E or P/B figures surfaced this week, and the share price is essentially flat versus last period, leaving the position still down roughly 29% against the average entry price. The only concrete news flow remains the ongoing DKK 15bn buyback (treasury holdings now ~1.2% of share capital) and the still-unconfirmed Chinese oral-asset/Hengrui licensing deals from late September, while Q2 fundamentals (raised FY2026 guidance, +16% obesity sales growth, 5m+ US oral Wegovy prescriptions) continue to look more constructive than the depressed stock price implies. With Q3 2026 results due around 4 November, Hold remains the more prudent stance over Add or Reduce until that report clarifies the growth and pricing trajectory.
+- **Kaufkurs (Ø):** 48,27 EUR
+- **Aktueller Kurs:** 35,04 EUR
+- **Marktwert:** 4204,80 EUR
+- **Unrealisierter G/V:** -1621,08 EUR (-27,83%)
+- **Portfolioanteil:** 2,68%
+- **Dividenden erhalten:** 158,63 EUR
+- **Bewertung:** Der Kurs legte in dieser Woche leicht um rund 2% zu (34,35 → 35,04 EUR), was den Buchverlust etwas auf -27,83% reduziert – belastbare neue KGV/KBV-Daten wurden erneut nicht gefunden. Nachrichtlich bleibt es ruhig: Die einzige bestätigte Unternehmensmeldung ist das fortlaufende DKK-15-Mrd.-Aktienrückkaufprogramm, während die im September kursierten China-Lizenzdeals weiterhin unbestätigt bleiben. Mit den Q3-2026-Zahlen in knapp zwei Wochen (ca. 4. November) bleibt Halten die naheliegende Position – die zuletzt angehobene Jahresprognose und die laufenden Rückkäufe sprechen gegen Reduzieren, konkrete neue Kurstreiber für ein Aufstocken fehlen aber noch.
 
 ## Aktuelle Meldungen
-- No new primary Novo Nordisk press release was identified specifically dated within 13.10.–20.10.2026; the most recent confirmed company announcement remains the 12.10.2026 share-buyback update (daily B-share repurchases from 5–9 October), under which the company now holds roughly 51.9 million treasury B-shares (~1.2% of share capital) with cumulative repurchases of about DKK 6.76 billion under the up-to-DKK-15bn programme that began 4 February 2026.
-- Carried over, not re-confirmed this week: aggregator reports (dated around 29 September 2026) of Novo agreeing to acquire a Chinese oral weight-loss pill for roughly EUR 2.5 billion and a licensing deal with Hengrui Pharmaceutical for the GLP-1/GIP dual-agonist candidate HRS-1596, worth up to USD 2.6 billion in milestones; these have not been independently verified against an official Novo Nordisk release.
-- Q3 2026 results have not yet been published; market estimates point to an announcement around 4 November 2026.
-- Carried-over context: oral Wegovy prescriptions in the US have surpassed 5 million since its January 2026 launch, continuing to outperform as the key near-term growth driver.
-- Coverage of this specific week was thin; novonordisk.com's newsroom or Reuters/Bloomberg should be checked directly for anything published after 12 October.
+- Neueste bestätigte Meldung: Unternehmensbekanntmachung Nr. 62/2026 vom 19.10.2026 zu den B-Aktien-Rückkäufen der Woche 12.–16. Oktober; der Bestand an eigenen Aktien stieg auf rund 53,1 Mio. B-Aktien (~1,2% des Grundkapitals), Programm läuft planmäßig bis 1. Februar 2027.
+- Darüber hinaus wurde für den Zeitraum 17.–24.10.2026 keine neue primäre Pressemitteilung von Novo Nordisk identifiziert; die Nachrichtenlage bleibt dünn.
+- Weiterhin unbestätigt/übernommen aus Vorwochen: Berichte (Ende September) über eine mögliche Übernahme eines chinesischen oralen Abnehm-Wirkstoffs für ca. 2,5 Mrd. EUR sowie eine Lizenzvereinbarung mit Hengrui Pharmaceutical (Kandidat HRS-1596, GLP-1/GIP-Dualagonist, Meilensteine bis zu 2,6 Mrd. USD) – weiterhin nicht über eine offizielle Novo-Nordisk-Meldung verifiziert.
+- Neu aufgetaucht (Datum unklar, Aggregator-Quelle): zusätzliche Pipeline-Lizenzdeals werden erwähnt – eine weltweite Lizenzvereinbarung mit dem schwedischen Spezialisten Nanexa (Wert bis zu 1,165 Mrd. EUR) sowie eine Vereinbarung zur Übernahme von drei frühphasigen Adipositas-Programmen von Kallyope Inc. (New York). Diese Angaben stammen aus einer Nachrichten-Aggregator-Seite und konnten nicht gegen eine offizielle Novo-Nordisk-Pressemitteilung verifiziert werden.
+- Q3-2026-Zahlen stehen weiterhin aus; Markterwartung unverändert bei ca. 4. November 2026.
 
 ## Management
-- CEO Mike Doustdar (in the role since August 2025) told Fierce Pharma in a June 2026 interview, "I have said publicly I am a lot more optimistic today than the day I got the job, on many fronts," while stressing the need to rebuild investor trust: "Hopefully we can project that internal confidence externally and get some trust earned back."
-- At the 21–22 September 2026 Capital Markets Day, Doustdar signaled openness to bolt-on M&A to close pipeline gaps: "Let's see where the gaps are, and let's go out and see who has produced or is about to introduce better drugs than we are able to do on our own." Shares fell nearly 8% that day, their largest single-day drop since February, on investor concern over the early-2030s semaglutide patent cliff.
-- At the January 2026 J.P. Morgan Healthcare Conference, Doustdar argued oral Wegovy outperforms Eli Lilly's rival pill orforglipron on both efficacy and tolerability.
-- No new C-suite changes or fresh CEO commentary dated specifically within 13.10.–20.10.2026 were found this period.
+- Keine neuen CEO-Aussagen oder Personalwechsel speziell für den Zeitraum 17.–24.10.2026 gefunden.
+- Übernommen aus Vorwochen: CEO Mike Doustdar (im Amt seit August 2025) äußerte sich im Fierce-Pharma-Interview optimistisch ("I have said publicly I am a lot more optimistic today than the day I got the job, on many fronts") und betonte den Wiederaufbau des Anlegervertrauens.
+- Auf dem Capital Markets Day am 21./22.09.2026 signalisierte Doustdar Offenheit für Zukäufe zur Schließung von Pipeline-Lücken ("Let's see where the gaps are, and let's go out and see who has produced or is about to introduce better drugs than we are able to do on our own."); die Aktie fiel damals um fast 8% wegen Sorgen um die Semaglutid-Patentklippe Anfang der 2030er.
 
 ## Finanzielles
-- Q2 2026 (reported 04.08.2026, last reported quarter): sales of DKK 78.5 billion (+3% at CER); adjusted operating profit of DKK 33.4 billion (+11% at CER); adjusted obesity-care sales +16%, diabetes-care sales +3%.
-- FY2026 guidance was raised following Q2 to approximately -6% to 0% (CER) for adjusted sales and operating profit growth, up from the initial -5% to -13% range given in February 2026.
-- Capital deployment in 2026 includes the ongoing share buyback (up to DKK 15bn total; ~DKK 6.76bn executed as of the 12.10.2026 update, ~1.2% of share capital now in treasury), the maintained dividend, and the pending Chinese obesity-asset and Hengrui licensing deals referenced above.
-- Q3 2026 results are not yet available; no new fiscal figures beyond Q2 were found in this period's research. Next report expected around 4 November 2026.
+- Letzter berichteter Quartalsabschluss weiterhin Q2 2026 (04.08.2026): Umsatz DKK 78,5 Mrd. (+3% CER), adjustiertes Betriebsergebnis DKK 33,4 Mrd. (+11% CER), Adipositas-Umsatz +16%, Diabetes-Umsatz +3%; berichtetes Betriebsergebnis fiel dagegen um 16% u.a. wegen DKK 6,3 Mrd. Wertminderungen (davon DKK 4,0 Mrd. im Zusammenhang mit Monlunabant); Nettogewinn -21% auf DKK 20.989 Mio.
+- FY2026-Prognose (nach Q2 angehoben): ca. -6% bis 0% (CER) für adjustierten Umsatz und adjustiertes Betriebsergebnis, gegenüber ursprünglich -5% bis -13% im Februar 2026.
+- Aktienrückkaufprogramm (bis zu DKK 15 Mrd., läuft bis 1.2.2027): Bestand an eigenen B-Aktien nun ca. 53,1 Mio. (~1,2% des Grundkapitals), Stand 19.10.2026.
+- Q3-2026-Ergebnisse liegen noch nicht vor; keine neuen Finanzkennzahlen in diesem Berichtszeitraum gefunden. Nächster Bericht erwartet um den 4. November 2026.
 
 ## Strategie & Ausblick
-- Business development remains focused on sourcing external obesity/metabolic assets (the prospective Chinese oral weight-loss pill, the Hengrui GLP-1/GIP license, the earlier Akero Therapeutics acquisition) to diversify beyond semaglutide ahead of the early-2030s patent cliff on Ozempic/Wegovy, which continues to weigh on sentiment despite the 2030/2035 ambitions set out at the September Capital Markets Day (>5 multi-blockbuster launches by 2030; >DKK 150bn in pipeline sales by 2035).
-- The active share buyback (now ~1.2% of share capital held in treasury) signals management's view that the stock is undervalued and provides ongoing technical support.
-- Oral Wegovy remains the primary near-term commercial growth driver in the US and EU, competing directly against Eli Lilly's Zepbound and orforglipron.
-- Capital returns (buyback plus dividend) stay central to rebuilding investor confidence through a lower-growth 2026, with management pointing to pipeline-driven reacceleration from 2027 as new launches and licensed/acquired assets mature; Q3 results on ~4 November should offer the next concrete read on this trajectory.
+- Geschäftsentwicklung bleibt auf externe Zukäufe im Adipositas-/Stoffwechselbereich fokussiert (potenzieller chinesischer oraler Wirkstoff, Hengrui-Lizenz, ggf. Nanexa- und Kallyope-Deals, frühere Akero-Therapeutics-Übernahme), um die Abhängigkeit von Semaglutid vor der Patentklippe Anfang der 2030er zu diversifizieren.
+- Der laufende Aktienrückkauf (~1,2% des Grundkapitals in eigenen Aktien) signalisiert weiterhin Managements Einschätzung einer Unterbewertung und bietet technische Unterstützung für den Kurs.
+- Orales Wegovy bleibt der zentrale kurzfristige Wachstumstreiber in den USA und der EU im direkten Wettbewerb zu Eli Lillys Zepbound/Orforglipron.
+- Kapitalrückführung (Rückkauf plus Dividende) bleibt zentral für den Wiederaufbau des Anlegervertrauens während eines wachstumsschwächeren Jahres 2026; die Q3-Zahlen am ca. 4. November liefern den nächsten konkreten Hinweis auf den weiteren Kurs des Unternehmens.
 
 ## Quellen
-- [Novo Nordisk A/S – Company Announcement / share buyback update, 12.10.2026 – via.ritzau.dk](https://via.ritzau.dk/files/90446/15221603/571048/en)
+- [Novo Nordisk A/S – Company Announcement No. 62/2026, share buyback update, 19.10.2026 – via.ritzau.dk](https://via.ritzau.dk/files/90446/15233058/578636/en)
+- [Novo Nordisk A/S – Company Announcement No. 61/2026, share buyback update, 12.10.2026 – via.ritzau.dk](https://via.ritzau.dk/files/90446/15221603/571048/en)
 - [Novo Nordisk raises adjusted sales and adjusted operating profit outlook for 2026 – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-raises-adjusted-sales-and-adjusted-operating-profit-outlook-for-2026)
 - [Novo Nordisk reports adjusted operating profit of DKK 33,389 million for Q2 2026 and raises full-year outlook – BioSpace](https://www.biospace.com/press-releases/novo-nordisk-reports-adjusted-operating-profit-of-dkk-33-389-million-for-q2-2026-and-raises-full-year-outlook)
-- [Novo Nordisk resultados 2T26 – Renta 4 Banco](https://www.r4.com/articulos-y-analisis/valores/novo-nordisk-resultados-2t26-mejores-de-lo-esperado-aunque-algunos-extraordinarios-dificultan-la-comparativa-revisan-al-alza-la-guia-del-ano)
 - ['I'm a lot more optimistic today': Mike Doustdar on his first year as Novo Nordisk CEO – Fierce Pharma](https://fiercepharma.com/pharma/if-thats-not-acceleration-i-dont-know-what-novo-nordisk-ceo-doustdar-talks-leadership-new)
 - [Novo Nordisk considers acquisitions to expand weight loss drug pipeline as competition intensifies – Finviz/Reuters](https://finviz.com/news/394071/novo-nordisk-considers-acquisitions-to-expand-weight-loss-drug-pipeline-as-competition-intensifies)
-- [Novo Nordisk to acquire Akero Therapeutics for $4.7B plus potential milestone payment – iTiger](https://www.itiger.com/hans/news/2574158915)
-- [Novo Nordisk news aggregation / Chinese oral asset & Hengrui licensing reports – Autobound](https://www.autobound.ai/companies/novo-nordisk/news)
+- [Novo Nordisk news aggregation / Chinese oral asset, Hengrui, Nanexa & Kallyope deal reports – Autobound](https://www.autobound.ai/companies/novo-nordisk/news)
 - [Novo Nordisk H1 2026 earnings analysis – beancount.io](https://beancount.io/blog/2026/09/14/novo-nordisk-h1-2026-earnings-analysis)
+- [Novo Nordisk Capital Markets Day, strategic ambitions through 2030/2035, 21.09.2026 – via.ritzau.dk](https://via.ritzau.dk/files/90446/15173488/545064/en)
 
-_Hinweis: Für den exakten Zeitraum 13.10.–20.10.2026 wurde kein neues primäres Unternehmens-Pressemitteilung über den Rückkauf vom 12.10.2026 hinaus bestätigt; die Chinese-Asset- und Hengrui-Meldungen sowie Teile der Management- und Strategieeinordnung stammen aus zuvor berichteten, nicht vollständig unabhängig verifizierten Quellen aus September/Oktober 2026._
+_Hinweis: Für den exakten Zeitraum 17.10.–24.10.2026 wurde keine neue primäre Unternehmens-Pressemitteilung über das Rückkauf-Update vom 19.10.2026 hinaus bestätigt. Die China-Asset-, Hengrui-, Nanexa- und Kallyope-Meldungen sowie Teile der Management- und Strategieeinordnung stammen aus zuvor berichteten bzw. aggregierten, nicht vollständig unabhängig verifizierten Quellen._
