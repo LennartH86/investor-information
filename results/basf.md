@@ -1,25 +1,26 @@
 # BASF SE (BAS.DE)
-_Aktualisiert: 21.10.2026 | Zeitraum: 14.10.2026 – 21.10.2026_
+_Aktualisiert: 25.10.2026 | Zeitraum: 18.10.2026 – 25.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 44,25 EUR
-- **Aktueller Kurs:** 52,75 EUR
-- **Marktwert:** 2.637,50 EUR
-- **Unrealisierter G/V:** +409,66 EUR (+18,39%)
-- **Portfolioanteil:** 1,66%
+- **Aktueller Kurs:** 52,31 EUR
+- **Marktwert:** 2.615,50 EUR
+- **Unrealisierter G/V:** +387,66 EUR (+17,40%)
+- **Portfolioanteil:** 1,67%
 - **Dividenden erhalten:** 165,66 EUR
-- **Bewertung:** Der Kurs ist im Wochenvergleich leicht von 53,00 EUR auf 52,75 EUR zurückgegangen (-0,47%), der unrealisierte Gewinn bleibt mit +18,39% aber weiterhin deutlich positiv. Belastbare aktuelle KGV/KBV-Kennzahlen liefert die Recherche weiterhin nicht; fundamental stützend wirken die im Juli angehobene EBITDA-Prognose 2026 (6,9–7,7 Mrd. EUR) und das laufende Aktienrückkaufprogramm. Entscheidender Katalysator ist die am 28.10.2026 anstehende Q3-Quartalsmitteilung (in einer Woche), während der Ausgang der Evonik-Sondierungsgespräche weiterhin offen ist. Angesichts der bereits realisierten Kursgewinne und fehlender neuer fundamentaler Impulse im Beobachtungszeitraum erscheint Halten bis zur Q3-Veröffentlichung weiterhin die naheliegende Option; eine Aufstockung sollte abgewartet werden.
+- **Bewertung:** Der Kurs ist im Wochenvergleich von 52,75 EUR auf 52,31 EUR leicht zurückgegangen (-0,83%), der unrealisierte Gewinn bleibt mit +17,40% aber weiterhin deutlich positiv. Belastbare aktuelle KGV/KBV-Kennzahlen liefert die Recherche weiterhin nicht; fundamental stützend wirken die im Juli angehobene EBITDA-Prognose 2026 (6,9–7,7 Mrd. EUR) und das laufende Aktienrückkaufprogramm. Entscheidender Katalysator ist die nun unmittelbar bevorstehende Q3-Quartalsmitteilung am 28.10.2026 (in drei Tagen), während der Ausgang der Evonik-Sondierungsgespräche weiterhin offen bleibt. Angesichts der bereits realisierten Kursgewinne und fehlender neuer fundamentaler Impulse im Beobachtungszeitraum erscheint Halten bis zur Q3-Veröffentlichung weiterhin die naheliegende Option; eine Aufstockung sollte abgewartet werden.
 
 ## Aktuelle Meldungen
-- Im Beobachtungszeitraum (14.10.–21.10.2026) wurden keine neuen offiziellen BASF-Pressemitteilungen gefunden; der nächste reguläre Termin ist die Quartalsmitteilung zum dritten Quartal 2026 am 28.10.2026 (7:00 Uhr MEZ), die nun nur noch eine Woche entfernt ist.
-- Der Aktienkurs gab im Wochenvergleich leicht nach (53,00 EUR auf 52,75 EUR, rund -0,5%); die Recherche konnte keine konkrete auslösende Nachricht aus diesem Zeitraum identifizieren.
+- Im Beobachtungszeitraum (18.10.–25.10.2026) wurden keine neuen offiziellen BASF-Pressemitteilungen gefunden; der nächste reguläre Termin ist die Quartalsmitteilung zum dritten Quartal 2026 am 28.10.2026 (7:00 Uhr MEZ), die nun nur noch drei Tage entfernt ist.
+- Der Aktienkurs gab im Wochenvergleich leicht nach (52,75 EUR auf 52,31 EUR, rund -0,8%); die Recherche konnte keine konkrete auslösende Nachricht aus diesem Zeitraum identifizieren.
 - Die am 25.09.2026 bestätigten Sondierungsgespräche zwischen BASF, der RAG-Stiftung und Evonik Industries AG zu einer möglichen Übernahme laufen laut verfügbaren Quellen unverändert weiter; neue offizielle Updates aus dem aktuellen Zeitraum liegen nicht vor.
 - Weiterhin unbestätigt (Sekundärquelle, zuvor berichtet): ein BASF-Angebot von 22,15 EUR pro Aktie (rund 10,3 Mrd. EUR) für Evonik, das abgelehnt worden sein soll; Arbeitnehmervertreter befürchten im Übernahmefall bis zu 4.000 Stellenstreichungen.
+- Ein Bericht (nicht eindeutig datiert) spricht von Stellenabbau am BASF-Standort Berlin (über 1.000 Beschäftigte betroffen); Finanz- und HR-Aufgaben sollen demnach nach Indien, Supply-Chain-Services nach Malaysia verlagert werden, wogegen die Gewerkschaft protestiert habe.
 
 ## Management
 - Keine neuen öffentlichen Äußerungen oder Interviews von CEO Markus Kamieth im Beobachtungszeitraum gefunden.
-- Zuvor hatte Kamieth wiederholt auf den strukturellen Kapazitäts- und Stellenabbau in der europäischen Chemieindustrie hingewiesen (rund 10% Produktionskapazität und 20.000 Stellen in drei Jahren verloren) und für 2026 keine spürbare konjunkturelle Erholung erwartet; die Chemieindustrie durchlaufe die schwierigste Phase seit 25 Jahren.
+- Zuvor hatte Kamieth wiederholt auf den strukturellen Kapazitäts- und Stellenabbau in der europäischen Chemieindustrie hingewiesen (rund 10% Produktionskapazität und 20.000 Stellen in drei Jahren verloren, 90.000 weitere Stellen akut gefährdet) und für 2026 keine spürbare konjunkturelle Erholung erwartet; die Chemieindustrie durchlaufe die schwierigste Phase seit 25 Jahren.
 - Seit 01.01.2026 ist Kamieth zudem Vorstandsmitglied und Präsident des europäischen Chemieverbands Cefic.
 - Die laufenden Evonik-Sondierungsgespräche sowie die damit verbundenen Sorgen der Arbeitnehmervertreter um bis zu 4.000 Arbeitsplätze setzen das Management weiterhin unter erhöhte öffentliche Beobachtung.
 
@@ -45,10 +46,11 @@ _Aktualisiert: 21.10.2026 | Zeitraum: 14.10.2026 – 21.10.2026_
 - [BASF ist nach gutem Quartal optimistischer für 2026 – suedostschweiz.ch](https://www.suedostschweiz.ch/schweiz-und-welt/basf-ist-nach-gutem-quartal-optimistischer-fuer-2026-2-2090381)
 - [Wirtschaftspresse | 29. Juli 2026 (BASF.com)](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-123)
 - [Halbjahreszahlen BASF Gruppe 2026](https://www.basf.com/ch/de/media/news-releases/2026/Halbjahreszahlen-BASF-Gruppe-2026)
-- [BASF übertrifft Analystenschätzungen und hebt Jahresprognose an – chemie.de](https://www.chemie.de/news/1189278/basf-uebertrifft-analystenschaetzungen-und-hebt-jahresprognose-an.html)
-- [BASF Aktie: Dämpfer für 2026 – boerse-express.com](https://www.boerse-express.com/news/articles/basf-aktie-daempfer-fuer-2026-847206)
-- [BASF Aktie: Warnsignale aus der Chefetage – boerse-express.com](https://www.boerse-express.com/news/articles/basf-aktie-warnsignale-aus-der-chefetage-847481)
+- [BASF Aktie: 4,1 Milliarden Euro Konzernergebnis – boerse-express.com](https://www.boerse-express.com/news/articles/basf-aktie-41-milliarden-euro-konzernergebnis-934651)
+- [BASF hebt Prognose an – Aktie sinkt dennoch – deraktionaer.de](https://www.deraktionaer.de/artikel/aktien/basf-hebt-prognose-an-aktie-sinkt-dennoch-20404774.html)
+- [BASF Aktie: Gedämpfte Hoffnung – boerse-express.com](https://www.boerse-express.com/news/articles/basf-aktie-gedaempfte-hoffnung-847985)
 - [Interview: BASF-Chef Kamieth „Wir lassen uns nicht unter Zeitdruck setzen“ – rheinpfalz.de](https://www.rheinpfalz.de/wirtschaft_artikel,-basf-chef-kamieth-wir-lassen-uns-nicht-unter-zeitdruck-setzen-_arid,5786317.html)
 - [Markus Kamieth neuer Präsident des Cefic – basf.com](https://www.basf.com/be/fr/media/news-releases-basf-belgium/Markus-Kamieth-nouveau-president-du-cefic)
 - [BASF confirms exploratory takeover talks with RAG-Stiftung and Evonik – specialchem.com](https://www.specialchem.com/coatings/news/basf-confirms-exploratory-takeover-talks-with-rag-stiftung-and-evonik)
 - [Evonik-Übernahme: Angebotsdetails (Sekundärquelle) – app.getquin.com](https://app.getquin.com/en/post/IERhvgMqMW)
+- [BASF accelerates cost cutting and layoffs as 2026 outlook remains cautious – harici.com.tr](https://harici.com.tr/en/basf-accelerates-cost-cutting-and-layoffs-as-2026-outlook-remains-cautious/?amp=1)
