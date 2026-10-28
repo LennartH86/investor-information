@@ -1,57 +1,56 @@
-# Deutsche Post AG / DHL Group (DHL.DE)
-_Aktualisiert: 25.10.2026 | Zeitraum: 18.10.2026 – 25.10.2026_
+# DHL Group (DHL.DE)
+_Aktualisiert: 28.10.2026 | Zeitraum: 21.10.2026 – 28.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 30 Aktien
 - **Kaufkurs (Ø):** 35,35 EUR
-- **Aktueller Kurs:** 57,33 EUR
-- **Marktwert:** 1.719,90 EUR
-- **Unrealisierter G/V:** +651,85 EUR (+61,03%)
-- **Portfolioanteil:** 1,10%
+- **Aktueller Kurs:** 58,88 EUR
+- **Marktwert:** 1766,40 EUR
+- **Unrealisierter G/V:** +698,35 EUR (+65,39%)
+- **Portfolioanteil:** 1,11%
 - **Dividenden erhalten:** 193,83 EUR
-- **Bewertung:** Der Kurs ist im Berichtszeitraum erneut leicht nachgegeben (von 57,70 EUR auf 57,33 EUR, ca. -0,6%), ohne dass neue, über die bereits bekannte Prognoseanhebung vom 16.10.2026 hinausgehende Unternehmensmeldungen vorliegen. Fundamental bleibt das Bild solide: Konzern-EBIT-Ausblick 2026 jetzt >7,0 Mrd. EUR, getrieben von starker Dynamik bei DHL Express. Der Buchgewinn seit Kauf liegt weiterhin bei sehr hohen +61%. Angesichts der stabilen operativen Lage und des unmittelbar bevorstehenden vollständigen Q3-Berichts am 5. November 2026 erscheint **Halten** weiterhin die naheliegende Strategie; eine Neubewertung bietet sich erst mit den vollständigen Q3-Zahlen an.
+- **Bewertung:** Die Position liegt seit dem Erstkauf 2022 mit +65,39% deutlich im Plus und hat über die Jahre zusätzlich 193,83 EUR an Dividenden eingebracht – DHL Group zählt traditionell zu den dividendenstärkeren DAX-Werten. Fundamental untermauert wird die Kursentwicklung durch die am 16.10.2026 vorgelegten vorläufigen Q3-Zahlen, die zu einer erneuten Anhebung der Jahresprognose führten (Konzern-EBIT nun über 7,0 Mrd. EUR statt zuvor über 6,5 Mrd. EUR). Allerdings stammt ein spürbarer Teil des Ergebnisses (rund 100 Mio. EUR im Q3, zuvor rund 150 Mio. EUR im Q2) aus temporär knappen Luftfrachtkapazitäten, was die Nachhaltigkeit der Margen etwas relativiert. Bei einer bereits sehr guten Kursperformance und einer soliden, aber nicht spektakulär günstigen Bewertung erscheint angesichts der anstehenden vollständigen Q3-Zahlen am 05.11.2026 **Halten** die sinnvollste Einordnung; eine Aufstockung könnte nach Veröffentlichung der vollständigen Zahlen und bei Rücksetzern neu bewertet werden.
 
 ## Aktuelle Meldungen
-- Im Berichtszeitraum (18.–25.10.2026) wurden keine neuen Pressemitteilungen oder Ad-hoc-Meldungen von DHL Group veröffentlicht; die jüngste relevante Nachricht bleibt die Prognoseanhebung vom 16.10.2026 (siehe Vorwoche).
-- Der Aktienkurs gab im Wochenvergleich moderat nach (-0,6%), was angesichts fehlender neuer Impulse auf allgemeine Marktbewegungen zurückzuführen sein dürfte.
-- Weiterhin unverändert bekannt: Investition von rund 160 Mio. EUR in Frankreich für 2026/2027 (kumuliert rund 900 Mio. EUR für den Zeitraum 2018–2027).
-- Nächster wichtiger Termin bleibt die Veröffentlichung des vollständigen Q3-2026-Berichts am 5. November 2026.
-
-_English summary: No new DHL Group press releases or ad-hoc announcements appeared between 18–25 October 2026; the most recent material news remains the 16 October guidance upgrade. The share price eased slightly (-0.6%) over the week on general market movement rather than company-specific news. The full Q3 2026 report is due November 5, 2026._
+- DHL Group hat am 16.10.2026 vorläufige Q3-2026-Zahlen veröffentlicht und die Gewinnprognose für das Gesamtjahr 2026 angehoben: Das berichtete Konzern-EBIT wird nun bei über 7,0 Mrd. EUR erwartet (zuvor: mehr als 6,5 Mrd. EUR). Grund ist eine breit angelegte Nachfragebelebung und positive Ergebnisdynamik, insbesondere bei DHL Express.
+- Rund 100 Mio. EUR des Q3-Ergebnisses sind laut Unternehmensangabe auf vorübergehend knappe Kapazitäten im Luftfrachtmarkt zurückzuführen – ein Effekt, der sich nicht ohne Weiteres fortschreiben lässt.
+- Die vollständigen Q3-2026-Ergebnisse werden turnusgemäß am 05.11.2026 veröffentlicht; zum Zeitpunkt dieser Recherche lagen nur die vorläufigen Eckdaten vor.
+- DHL eCommerce hat im Juli 2026 eine Vereinbarung zur Übernahme des baltischen Paketdienstleisters Venipak Group (rund 800 Paketstationen/Abholpunkte) getroffen; der Abschluss steht noch unter dem Vorbehalt behördlicher Genehmigungen.
+- Berichten zufolge hat DHL Group eine Vereinbarung zur vollständigen Übernahme des türkischen Paketdienstleisters MNG Kargo samt Tochtergesellschaften unterzeichnet; ein genaues Datum ließ sich in der Recherche nicht verifizieren.
+- Die Holdinggesellschaft firmiert seit rund dem 01.09.2026 nicht mehr als "Deutsche Post AG", sondern als "DHL AG" – eine reine Umbenennung der börsennotierten Dachgesellschaft ohne operative Auswirkungen; die Marke "DHL Group" für den Konzern bleibt unverändert seit 2023.
 
 ## Management
-- CEO Tobias Meyer: Keine neuen Interviews oder öffentlichen Auftritte im Berichtszeitraum 18.–25.10.2026 gefunden. Zuletzt bekannt bleibt die bis März 2031 verlängerte Vertragslaufzeit sowie der Verweis auf das "Fit for Growth"-Kostenprogramm, das 2025 mehr als 600 Mio. EUR brutto zum operativen Ergebnis beigetragen hat.
-- Bereits bekannt: Joe Joseph wurde als neuer CFO benannt und soll das Amt zum 1. Juni 2027 von Melanie Kreis übernehmen; dies bleibt der einzige angekündigte Wechsel im Top-Management.
-
-_English summary: No new public statements from CEO Tobias Meyer were found in this period; his contract runs to March 2031. The planned CFO handover from Melanie Kreis to Joe Joseph in June 2027 remains the only known top-management change._
+- CEO Tobias Meyer äußerte sich im Rahmen der Jahresergebnis-Kommunikation sowie in einem Bloomberg-Interview (21.04.2026) zu geopolitischen Risiken und betonte die Bedeutung der Konzernstrategie "Strategy 2030" in einem weiterhin volatilen Umfeld.
+- Meyers Vertrag als CEO wurde bis März 2031 verlängert, was als Zeichen für Kontinuität in der Führung gewertet werden kann.
+- DHL Group hat Joe Joseph als künftigen CFO benannt; er soll die bisherige Finanzstrategie des Konzerns fortführen und weiterentwickeln (Amtsantritt zum 01.06.2027).
+- Bei DHL Global Forwarding, Freight gab es im Jahresverlauf 2026 einen Wechsel an der operativen Spitze (Oscar de Bok als neuer CEO dieser Sparte).
 
 ## Finanzielles
-- **Vorläufige Q3 2026 (veröffentlicht 16.10.2026, weiterhin aktuellster Stand):** Konzernumsatz ca. 22,6 Mrd. EUR (+12% ggü. Vorjahr), Konzern-EBIT ca. 1.710 Mio. EUR (Vorjahr 1.477 Mio. EUR, +16%). DHL Express EBIT ca. 1.035 Mio. EUR (Vorjahr 692 Mio. EUR), Global Forwarding ca. 260 Mio. EUR, Supply Chain ca. 300 Mio. EUR, eCommerce ca. 50 Mio. EUR, Post & Parcel Germany ca. 150 Mio. EUR (Vorjahr 218 Mio. EUR).
-- **Angehobene Jahresprognose 2026:** Konzern-EBIT jetzt >7,0 Mrd. EUR (zuvor >6,5 Mrd. EUR), EBIT der DHL-Bereiche >6,4 Mrd. EUR (zuvor >5,9 Mrd. EUR), Capex-Ausblick auf ca. 3,6 Mrd. EUR angehoben (zuvor 3,0–3,3 Mrd. EUR), freier Cashflow (ohne M&A) auf >3,2 Mrd. EUR angehoben.
-- Zur Einordnung Q2 2026 (05.08.2026): Konzernumsatz 22,4 Mrd. EUR (+13%), Konzern-EBIT ca. 1,9 Mrd. EUR (+30%), EBIT-Marge 8,3%, Konzernergebnis nach Minderheitsanteilen ca. 1,0 Mrd. EUR (+23,9%), EPS 0,91 EUR (Vorjahr 0,72 EUR). Freier Cashflow ohne M&A im H1 2026: 1,8 Mrd. EUR. Aktienrückkaufprogramm um 500 Mio. EUR auf bis zu 6,5 Mrd. EUR aufgestockt.
-- Zur Einordnung Q1 2026: organisches Umsatzwachstum 2,0%, berichteter Umsatz 20,4 Mrd. EUR (Währungseffekte), EBIT 1,5 Mrd. EUR (Marge 7,3%), freier Cashflow ohne M&A 1,2 Mrd. EUR.
-- Vollständiger Q3-2026-Bericht mit detaillierten Zahlen (u.a. Konzernergebnis, EPS, Segmentdetails) wird planmäßig am 5. November 2026 veröffentlicht.
-
-_English summary: No updated financial figures were published this week; the preliminary Q3 2026 results (EBIT +16% YoY to ca. EUR 1.71bn, revenue +12% to ca. EUR 22.6bn) and the raised FY2026 guidance (Group EBIT >EUR 7.0bn) from October 16 remain the latest data points. Full Q3 details are due November 5, 2026._
+- **H1 2026:** Konzernumsatz 42.787 Mio. EUR (+5,3%), EBIT 3.335 Mio. EUR (+19,1%).
+- **Q2 2026:** Umsatz 22.367 Mio. EUR (+12,8% YoY), EBIT 1.858 Mio. EUR (+30%); DHL Express mit EBIT-Plus von 64% auf 1.200 Mio. EUR als wichtigster Treiber, während Post & Parcel Germany und DHL Supply Chain beim EBIT nachgaben.
+- **Q1 2026:** organisches Umsatzwachstum von 2,0%; DHL eCommerce als Schwachstelle mit einem Umsatzrückgang von 11,1%.
+- **Prognoseentwicklung 2026:** Jahres-EBIT-Ziel wurde im Jahresverlauf mehrfach angehoben – von ursprünglich über 6,2 Mrd. EUR über 6,5 Mrd. EUR (nach Q2) auf nun über 7,0 Mrd. EUR (nach vorläufigen Q3-Zahlen vom 16.10.2026).
+- Ein Teil der Ergebnisverbesserung in Q2 (ca. 150 Mio. EUR) und Q3 (ca. 100 Mio. EUR) resultiert aus knappen Luftfrachtkapazitäten und ist damit nicht vollständig struktureller Natur.
+- Die vollständigen, geprüften Q3-2026-Zahlen (inkl. Bilanz- und Cashflow-Daten) folgen am 05.11.2026.
 
 ## Strategie & Ausblick
-- **Starke operative Dynamik bleibt Treiber der Prognoseanhebung:** Division Express zeigt deutliche Verbesserung, begünstigt durch Kapazitätsengpässe im Luftfrachtmarkt; Management erwartet ein robustes Saisongeschäft im Q4.
-- **Investitionsbereitschaft bleibt hoch:** Capex-Ausblick 2026 bei rund 3,6 Mrd. EUR, was auf anhaltende Investitionen in Kapazität und Infrastruktur hindeutet.
-- **Mittelfristige Prognose wird im März 2027 überprüft:** Das Management kündigt an, die mittelfristigen Ziele (EBIT >7 Mrd. EUR in einem normalisierten Umfeld) im Zuge der Jahresergebnisse 2026 neu zu bewerten.
-- Keine neuen M&A-Meldungen im Berichtszeitraum gefunden; bekannte Zukäufe (Venipak Baltikum, MNG Kargo Türkei, Danzas AEI Emirates, Frankreich-Investition ~160 Mio. EUR) bleiben unverändert aktuell.
-- **Geopolitische Risiken im Fokus:** Weiterhin Verweis auf ausreichende globale Infrastruktur zur Abfederung geopolitischer Eskalationen; Kernrisiken bleiben Zölle/Handelskonflikte sowie das gesamtwirtschaftliche Umfeld in Europa.
-- Nächster wichtiger Termin: Vollständiger Q3-2026-Bericht am 5. November 2026.
-
-_English summary: No new strategic or M&A announcements appeared this week. Strong Express momentum and an expected robust Q4 peak season remain the drivers behind the guidance upgrade; mid-term targets will be reassessed in March 2027, and the full Q3 report is due November 5, 2026._
+- DHL Group setzt weiterhin auf die Konzernstrategie "Strategy 2030", deren Vorteile laut CEO Meyer gerade im aktuell volatilen geopolitischen und wirtschaftlichen Umfeld zum Tragen kommen sollen.
+- Mit der geplanten Übernahme von Venipak (Baltikum) und der bereits vollzogenen vollständigen Übernahme von Danzas AEI Emirates (VAE, vormals Joint Venture) baut der Konzern sein internationales Netzwerk in Wachstumsregionen weiter aus.
+- Die angestrebte Übernahme von MNG Kargo in der Türkei würde die Präsenz im osteuropäisch-nahöstlichen Raum zusätzlich stärken, sofern die Transaktion wie berichtet zustande kommt.
+- Operativ bleibt DHL Express die Wachstums- und Ergebnislokomotive des Konzerns, während Post & Parcel Germany und Teile von Supply Chain/eCommerce margenseitig unter Druck stehen.
+- Die Umbenennung der Holding von "Deutsche Post AG" zu "DHL AG" (ca. 01.09.2026) rundet die 2023 begonnene Markenvereinheitlichung unter "DHL Group" formal ab.
+- Zu beobachten bleiben: die vollständigen Q3-Zahlen am 05.11.2026 (inkl. möglicher weiterer Prognosekommentare für 2027), die Nachhaltigkeit der luftfrachtbedingten Sondereffekte, der Fortgang der Venipak- und MNG-Kargo-Transaktionen sowie die Entwicklung von DHL eCommerce.
 
 ## Quellen
-- [DHL Group raises full-year 2026 earnings guidance – DHL Group](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-raises-full-year-2026-earnings-guidance.html)
-- [DHL Group: Vorläufige Ergebnisse – Prognoseanhebung Gesamtjahr 2026 (PDF, DE) – DHL Group](https://group.dhl.com/content/dam/deutschepostdhl/de/media-relations/press-releases/2026/pm-dhl-group-vorlaeufige-ergebnisse-2026-q3-20261016.pdf)
-- [DHL Group preliminary Q3 2026 results (PDF, EN) – DHL Group](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/press-releases/2026/pr-dhl-group-preliminary-results-2026-q3-20261016.pdf)
-- [Ad-hoc announcement: DHL AG raises full-year 2026 earnings guidance – DHL Group](https://group.dhl.com/en/investors/announcements/ad-hoc-announcements/ad-hoc-dhlgroup-20261016.html)
-- [DHL AG raises full-year 2026 earnings guidance – Placera](https://www.placera.se/pressmeddelanden/dhl-dhl-ag-dhl-ag-raises-full-year-2026-earnings-guidance-20261016)
-- [DHL Group raises full-year 2026 earnings guidance – The Loadstar](https://theloadstar.com/?p=246610)
-- [Interview with CEO Tobias Meyer on the Annual Earnings 2025 – DHL Group](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
+- [DHL Group raises full-year 2026 earnings guidance (Pressemitteilung, 16.10.2026)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-raises-full-year-2026-earnings-guidance.html)
+- [PR DHL Group Preliminary Results 2026 Q3 (PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/press-releases/2026/pr-dhl-group-preliminary-results-2026-q3-20261016.pdf)
+- [Ad-hoc-Mitteilung DHL Group vom 16.10.2026](https://group.dhl.com/en/investors/announcements/ad-hoc-announcements/ad-hoc-dhlgroup-20261016.html)
+- [DHL Group raises 2026 earnings outlook after strong third quarter – Container News](https://container-news.com/dhl-group-raises-2026-earnings-outlook-after-strong-third-quarter/)
+- [DHL Group Financial Highlights H1 2026 (PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/events/2026/h1/dhl-group-financial-highlights-h1-2026.pdf)
 - [DHL Group reports 13% revenue growth in Q2 2026 – Food Business MEA](https://www.foodbusinessmea.com/dhl-group-reports-13-revenue-growth-in-q2-2026/)
-- [Exploring the Investments Driving DHL's Global Growth – Supply Chain Digital](https://supplychaindigital.com/news/exploring-the-investments-driving-dhls-global-growth)
-- [DHL Group: Investition von rund 160 Millionen Euro in Frankreich – Transport-Online](https://transport-online.de/news/dhl-group-investition-von-rund-160-millionen-euro-frankreich-189798.html)
+- [PR Q1 2026 DHL Group (PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/press-releases/2026/pr-q1-2026-2026-04-30.pdf)
+- [Interview mit Tobias Meyer – Geschäftsjahr 2025 (DHL Group)](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
+- [DHL Group CEO Talks Geopolitical Risk – Bloomberg (21.04.2026)](https://www.bloomberg.com/news/audio/2026-04-21/dhl-group-ceo-talks-geopolitical-risk)
+- [PR DHL Group Joe Joseph (CFO-Benennung, PDF)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/press-releases/2026/pr-dhl-group-joe-joseph-20260623.pdf)
+- [DHL eCommerce to acquire Venipak – The Loadstar](https://theloadstar.com/?p=301636)
+- [DHL Global Forwarding fully acquires Danzas AEI Emirates – India Seatrade News](https://indiaseatradenews.com/german-logistics-giant-dhl-fully-acquires-danzas-aei-emirates/)
