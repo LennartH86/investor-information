@@ -1,60 +1,54 @@
 # Constellation Energy (CEG)
-_Aktualisiert: 24.10.2026 | Zeitraum: 17.10.2026 – 24.10.2026_
+_Aktualisiert: 28.10.2026 | Zeitraum: 21.10.2026 – 28.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 220,98 EUR
-- **Aktueller Kurs:** 226,50 EUR
-- **Marktwert:** 2265,00 EUR
-- **Unrealisierter G/V:** +49,70 EUR (+2,24%)
-- **Portfolioanteil:** 1,44%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kursgewinn ist binnen einer Woche weiter von +5,18% auf +2,24% geschrumpft, da sich die CEG-Aktie dem Kaufkurs von 220,98 EUR weiter annähert; aktuelle KGV-, KBV- oder Dividendenrendite-Kennzahlen wurden in den recherchierten Quellen nicht gefunden, und die Position hat bislang keine Dividende erhalten. Mit den am 5. November 2026 fälligen Q3-Zahlen (Konsens: rund 3,74 USD Non-GAAP-EPS bei ca. 9,38 Mrd. USD Umsatz), der zuletzt angehobenen Jahresprognose (11,50–12,50 USD bereinigtes EPS) und intakten strukturellen Treibern (Nuklear-/Rechenzentrumsnachfrage, Calpine-Integration) bleibt Halten bis zur Ergebnisvorlage die naheliegende Haltung, statt auf den kurzfristigen Rückgang zu reagieren.
+- **Aktueller Kurs:** 232,90 EUR
+- **Marktwert:** 2329,00 EUR
+- **Unrealisierter G/V:** +113,70 EUR (+5,13%)
+- **Portfolioanteil:** 1,46%
+- **Dividenden erhalten:** 3,11 EUR
+- **Bewertung:** Die Position notiert mit +5,13% moderat im Plus gegenüber dem Einstandskurs; eine nennenswerte Dividendenrendite ist mit 3,11 EUR auf 2329 EUR Marktwert bislang kaum spürbar, was für Constellation als wachstumsorientierten Energiewert aber typisch ist. Operativ läuft es gut: Das Unternehmen hat die Jahresprognose für das bereinigte Ergebnis je Aktie zuletzt auf 11,50–12,50 USD angehoben, getrieben von der Calpine-Integration und der Nachfrage aus dem KI-/Rechenzentrumsgeschäft. Mit den nächsten Quartalszahlen am 05.11.2026 als nahem Katalysator erscheint **Halten** aktuell die sinnvollste Position; eine Aufstockung könnte nach den Zahlen geprüft werden, falls sich das positive Momentum bestätigt.
 
 ## Aktuelle Meldungen
-- Im recherchierten Zeitraum (17.–24.10.2026) wurde keine neue unternehmensspezifische Pressemitteilung gefunden; die jüngsten bestätigten Firmennachrichten stammen weiterhin aus August/September 2026.
-- Constellation hat im August 2026 den Verkauf des 606-MW-Kraftwerks Brazos Valley Energy Center in Texas an LS Power für 860 Mio. USD vereinbart, vorbehaltlich DOJ-Freigabe, Abschluss bis Jahresende 2026 erwartet – der letzte im Rahmen der Calpine-Übernahme vorgeschriebene Asset-Verkauf.
-- Laut einem Bericht vom 12. September 2026 übernimmt Constellation das Rhode Island State Energy Center (RISEC) von einer Shell-Energy-North-America-Tochter für 715 Mio. USD, Abschluss in Q1 2027 erwartet.
-- Die Q3-2026-Zahlen bleiben für den 5. November 2026 terminiert; der Analystenkonsens (Benzinga/StockAnalysis) liegt bei rund 3,74 USD Non-GAAP-EPS und 9,38 Mrd. USD Umsatz (Vorjahresquartal: 3,04 USD / 6,57 Mrd. USD).
-- Keine neue Dividenden-Ankündigung im recherchierten Zeitraum gefunden; die Position verzeichnet weiterhin 0 EUR an erhaltenen Dividenden.
+- Für den Berichtszeitraum (21.–28.10.2026) wurden keine neuen offiziellen Pressemitteilungen von Constellation Energy gefunden; die jüngste bestätigte Veröffentlichung bleiben die Q2-2026-Zahlen vom 06.08.2026.
+- Die nächsten Quartalszahlen (Q3 2026) werden für den 05.11.2026 erwartet.
+- Rhode Island State Energy Center: Constellation kauft das Gaskraftwerk Mitte September 2026 von einer Shell-Tochter für 715 Mio. USD; Abschluss wird für Q1 2027 erwartet.
+- Verkauf des Brazos Valley Energy Center (606 MW, ERCOT-Markt) an LS Power für 860 Mio. USD (vor Abschlussanpassungen) wurde vereinbart.
+- FERC hat eine Ausnahmeregelung genehmigt, mit der Netzanschlusskapazitäten von den Eddystone-Einheiten auf das Crane Clean Energy Center übertragen werden; die NRC hat zudem eine Brennstofflizenz-Änderung für Crane genehmigt – der Neustart-Zeitplan 2027 bleibt damit bestätigt.
+- Neue Nuklear-Stromlieferverträge über insgesamt 920 MW mit Laufzeiten von 15–20 Jahren wurden unterzeichnet, Lieferbeginn zwischen 2029 und 2032.
 
 ## Management
-- CEO Joseph Dominguez war 2026 medienwirksam aktiv (Weltwirtschaftsforum in Davos im Januar, CERAWeek in Houston im März, laufende Kommentare in den Earnings Calls) und betont durchgängig Calpine-Integration, Hyperscaler-/Rechenzentrumsnachfrage und die Wirtschaftlichkeit der Kernenergie.
-- Dominguez bekräftigt einen "überzeugenden" langfristigen Ausblick mit einem Basisgewinnwachstum von über 20% bis 2029; die in verschiedenen Quellen genannten Free-Cashflow-Werte für 2028/2029 schwanken zwischen rund 10,5 und 13 Mrd. USD und ließen sich nicht abschließend verifizieren.
-- Er argumentiert, Kernenergie sei bei Kosten, Zuverlässigkeit und Nachhaltigkeit inzwischen neuen Gaskraftwerken überlegen, und wertet Aktienrückkäufe als Vertrauenssignal des Managements in das Geschäft.
-- Zur Rechenzentrumsnachfrage verweist Dominguez auf ein für 2026 "fast 75% höheres" Hyperscaler-Ausgabenniveau gegenüber dem Vorjahr, mahnt aber zur Vorsicht, da die tatsächlich eingehende Last deutlich unter den in den Interconnection-Warteschlangen (über 400.000 MW) implizierten Volumina liegt.
-- Dominguez ist seit dem 4. August 2026 zusätzlich Chairman des Board; Roger Crandall kam am 5. August 2026 als unabhängiges Boardmitglied hinzu. Eine in diesem Suchdurchlauf gefundene Quelle erwähnte zusätzlich einen Wechsel beim Lead Independent Director (Charles Harrington soll demnach auf Robert Lawless folgen); dies ließ sich jedoch nicht gegen eine verlässliche Primärquelle verifizieren und wird daher nur als unbestätigter Hinweis vermerkt.
+- CEO Joseph Dominguez bezeichnete den langfristigen Ausblick als stark und stellte beim Q1-Earnings-Call ein Gewinnwachstum von über 20% bis 2029 in Aussicht; der freie Cashflow für 2028/2029 wird auf 10,5–12 Mrd. USD taxiert, rund 45% über dem Vorjahreszeitraum.
+- Dominguez beschrieb die laufenden Aktienrückkäufe als bewusstes Signal des Vertrauens des Managements in das Geschäft.
+- Zur Nachfrage aus Rechenzentren/KI äußerte er, dass die für 2026 erwarteten Hyperscaler-Ausgaben rund 75% über dem Vorjahr liegen und laufend nach oben revidiert werden; gleichzeitig warnte er, dass die Anzahl angemeldeter Netzanschlussanfragen die tatsächlich ans Netz kommende Last überzeichnet.
+- Er forderte mehr regulatorische Klarheit, damit neue Großlasten im Mid-Atlantic- und Midwest-Raum ans Netz angeschlossen werden können, und bezeichnete Pennsylvania als unterstützend gegenüber wettbewerblichen Marktlösungen.
+- Bereits Anfang 2026 (Davos, CERAWeek) hatte Dominguez die Calpine-Transaktion, die Zusammenarbeit mit Meta sowie die aktuell außergewöhnlich hohe Energienachfrage thematisiert.
 
 ## Finanzielles
-- Q2 2026 (berichtet am 6. August 2026): bereinigtes operatives EPS von 2,55 USD (Vorjahr 1,91 USD) bei 7,5 Mrd. USD Umsatz (unter dem Konsens von 7,95 Mrd. USD); das GAAP-EPS fiel auf 1,42 USD von 2,67 USD im Vorjahr, u.a. wegen Calpine-Integrationskosten, teilweise ausgeglichen durch günstige Marktbedingungen, belastet durch Nuklear-Ausfälle.
-- Q1 2026 (berichtet am 11. Mai 2026): bereinigtes operatives EPS von 2,74 USD bei 11,12 Mrd. USD Umsatz (Konsens: 2,61 USD); die Jahresprognose wurde zu diesem Zeitpunkt bestätigt.
-- Nach den Q2-Zahlen wurde die Jahresprognose 2026 für das bereinigte operative EPS auf 11,50–12,50 USD angehoben (zuvor 11,00–12,00 USD).
-- Die Q3-2026-Zahlen stehen am 5. November 2026 an; Konsens rund 3,74 USD Non-GAAP-EPS bei ca. 9,38 Mrd. USD Umsatz.
-- Investitionsplanung: rund 5,7 Mrd. USD Capex für 2026 und 4,7 Mrd. USD für 2027 (davon ca. 29% für Kernbrennstoff); das Aktienrückkaufprogramm wurde auf 5 Mrd. USD aufgestockt.
-- In den recherchierten Quellen wurden weiterhin keine aktuellen KGV-, KBV- oder Dividendenrenditezahlen gefunden.
+- Q2 2026 (veröffentlicht 06.08.2026): Umsatz von rund 7,5 Mrd. USD (+ca. 23% YoY); bereinigtes operatives Ergebnis je Aktie stieg auf 2,55 USD (Vorjahr 1,91 USD), GAAP-Gewinn je Aktie sank auf 1,42 USD (Vorjahr 2,67 USD) – die Analystenerwartung von 2,36 USD wurde übertroffen.
+- Die Jahresprognose für das bereinigte operative Ergebnis je Aktie wurde im Zuge der Q2-Zahlen auf 11,50–12,50 USD angehoben (zuvor 11,00–12,00 USD nach Q1).
+- Q1 2026 (veröffentlicht 11.05.2026): Bereinigtes Ergebnis je Aktie von 2,74 USD (Vorjahr 2,14 USD), über dem Konsens von 2,61 USD; Umsatz von rund 11,1 Mrd. USD, wesentlich getrieben durch die im Januar 2026 abgeschlossene Calpine-Übernahme.
+- Die Calpine-Akquisition (Abschluss 07.01.2026) wurde als Cash-und-Aktien-Transaktion mit einem Wert von rund 16,4 Mrd. USD strukturiert; inklusive der übernommenen Netto-Verschuldung von Calpine ergibt sich ein Gesamtvolumen von rund 26,6 Mrd. USD. Das kombinierte Unternehmen verfügt über fast 60 GW Erzeugungskapazität.
+- Visible-Alpha-Konsensschätzungen sehen den Jahresumsatz 2026 bei rund 34,5 Mrd. USD, gegenüber 25,5 Mrd. USD in 2025 (+ca. 35%).
 
 ## Strategie & Ausblick
-- Kernstrategie bleibt die Kombination aus Constellations kernkraftlastiger Erzeugungsflotte mit Calpines Gas-, Geothermie-, Batteriespeicher- und Solaranlagen sowie einem wettbewerbsfähigen Privatkundengeschäft, um einen der größten CO2-armen Energieerzeuger der USA mit knapp 60 GW Gesamtkapazität zu bilden.
-- Die Portfoliobereinigung läuft planmäßig über die von DOJ/FERC im Rahmen der Calpine-Übernahme vorgeschriebenen Veräußerungen weiter, u.a. der vereinbarte 860-Mio.-USD-Verkauf des Brazos Valley Energy Center (Abschluss bis Jahresende 2026 erwartet) sowie frühere regulatorisch bedingte Verkäufe von PJM-/ERCOT-Gasanlagen.
-- Das Wachstum bleibt an langfristige Stromlieferverträge mit Hyperscalern und Großkunden gekoppelt (u.a. ein 176-MW-Deal mit Walmart), begleitet von Fortschritten bei Kernbrennstofflizenzen und Netzanbindung, etwa am Crane Clean Energy Center (FERC-Interconnection-Waiver und NRC-Brennstofflizenz jeweils bestätigt).
-- Die vereinbarte RISEC-Übernahme von Shell (Abschluss in Q1 2027 erwartet) signalisiert fortgesetztes ergänzendes Wachstum der Erzeugungsflotte, parallel zu den Calpine-bedingten Divestments.
-- Zusätzlich wurde ein rund 350 Mio. USD schweres Programm zur Steigerung von Leistung und Lebensdauer der Windkraftflotte erwähnt.
-- Der Fokus der Marktteilnehmer liegt nun klar auf dem Q3-Zahlenwerk am 5. November 2026 – für aktualisierte Guidance, weitere Details zur Calpine-Integration und die Bestätigung anstehender Akquisitions-/Divestment-Zeitpläne.
+- Constellation kombiniert mit Calpine CO2-freie Kernenergie mit Gas- und erneuerbaren Erzeugungskapazitäten und positioniert sich so als einer der größten unabhängigen Stromerzeuger der USA.
+- Der Wiederanlauf des Crane Clean Energy Center (ehemals TMI-1) bleibt für 2027 geplant; regulatorische Genehmigungen von FERC und NRC sind dafür bereits erteilt.
+- Mit dem geplanten Erwerb des Rhode Island State Energy Center (Abschluss Q1 2027) und dem Verkauf des Brazos Valley Energy Center setzt das Unternehmen sein Portfolio gezielt um – Fokus auf emissionsarme/-freie Erzeugung und Nähe zu wachstumsstarken Lastzentren.
+- Die langfristigen Nuklear-Stromlieferverträge (920 MW, Lieferbeginn 2029–2032) sowie frühere Abschlüsse mit Hyperscalern (u. a. Meta) sollen die Erträge gegen Strompreisschwankungen absichern und von der steigenden Rechenzentrums-/KI-Stromnachfrage profitieren.
+- Management sieht ein Gewinnwachstum von über 20% p.a. bis 2029 als realistisch, warnt aber zugleich vor einer Überzeichnung der tatsächlichen Netzlast durch aktuell sehr hohe Anschlussanfragen.
+- Zu beobachten: Veröffentlichung der Q3-2026-Zahlen am 05.11.2026, Fortschritt des Crane-Wiederanlaufs, Entwicklung der Datacenter-/KI-Nachfrage sowie der Abschluss der Rhode-Island- und Brazos-Valley-Transaktionen.
 
 ## Quellen
-- [Constellation Energy Corp - Form 8-K, FY2026 (6. Aug. 2026) – sec.gov](https://www.sec.gov/Archives/edgar/data/0001868275/000186827526000097/ceg-20260806991.htm)
-- [Constellation Energy Corp - Form 8-K, FY2026 (11. Mai 2026) – sec.gov](https://www.sec.gov/Archives/edgar/data/0001868275/000186827526000063/ceg-20260511991.htm)
-- [Constellation Energy Corp - Form 8-K, FY2026 (24. Feb. 2026) – sec.gov](https://www.sec.gov/Archives/edgar/data/1868275/000186827526000029/ceg-20260224991.htm)
-- [Constellation reports second quarter 2026 results – barchart.com](https://www.barchart.com/story/news/3687226/constellation-reports-second-quarter-2026-results)
-- [Constellation Energy Reports Tomorrow With Analysts Already Lowering Their Voices – barchart.com](https://www.barchart.com/story/news/3675820/constellation-energy-reports-tomorrow-with-analysts-already-lowering-their-voices)
-- [Constellation Energy Q1 2026 earnings: revenue doubles on Calpine, EPS guidance affirmed – tikr.com](https://www.tikr.com/blog/constellation-energy-q1-2026-earnings-revenue-doubles-on-calpine-eps-guidance-affirmed)
-- [Earnings forecasts for CEG (Q3 2026 consensus) – benzinga.com](https://www.benzinga.com/quote/CEG/earnings-forecasts)
-- [Constellation Energy Corporation quote & next earnings date – stockanalysis.com](https://stockanalysis.com/quote/swx/CEG/)
-- [How to Play With Constellation Energy Stock After Mixed Q3 Results? – nasdaq.com](https://www.nasdaq.com/articles/how-play-constellation-energy-stock-after-mixed-q3-results)
-- [President, Chief Executive Officer & Director, Constellation (Joseph Dominguez interviews) – ceointerviews.ai](https://ceointerviews.ai/entity/2935-joseph-dominguez-constellation/)
-- [Constellation CEO: 'We Produce Enough Energy to Power Mexico' – barrons.com (via onservo.com rendering)](https://pub-barsections-barrons-rendering.ore.onservo.com/video/constellation-ceo-we-produce-enough-energy-to-power-mexico/43221843-40F9-4453-9217-D92A6D9EA805)
-- [Constellation CEO on What Hyperscalers Mean For the Energy System – barrons.com (via onservo.com rendering)](https://pub-barsections-barrons-rendering.ore.onservo.com/video/constellation-ceo-on-what-hyperscalers-mean-for-the-energy-system/082972B7-68F3-4DF5-978C-7DA79FF3FD50)
-- [Constellation CEO on gas, power prices and data center demand (CERAWeek, 23. März 2026) – bloomberg.com](https://www.bloomberg.com/news/videos/2026-03-23/constellation-ceo-on-gas-power-prices-and-data-center-video)
-- [Constellation's Calpine deal to drive 35 percent revenue growth 2026 (11. Sep. 2026) – spglobal.com](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/constellation-s-calpine-deal-to-drive-35-percent-revenue-growth-2026)
+- [Constellation Energy Aktie: Gewinn sinkt, Prognose steigt – boerse-express.com](https://www.boerse-express.com/news/articles/constellation-energy-aktie-gewinn-sinkt-prognose-steigt-936207)
+- [Constellation reports second quarter 2026 results – Barchart](https://www.barchart.com/story/news/3687226/constellation-reports-second-quarter-2026-results)
+- [Constellation Q2 2026 earnings: Adjusted EPS rises despite lower GAAP profit – iTiger](https://www-web.itiger.com/news/2657638309)
+- [Constellation Energy Q1 2026 earnings: revenue doubles on Calpine, EPS guidance affirmed – tikr.com](https://www.tikr.com/es/blog/constellation-energy-q1-2026-earnings-revenue-doubles-on-calpine-eps-guidance-affirmed)
+- [Constellation Energy Corp - Form 8-K (Q2 2026) – SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001868275/000186827526000097/ceg-20260806991.htm)
 - [Constellation to buy clean energy producer Calpine in $16.4bn deal – nsenergybusiness.com](https://www.nsenergybusiness.com/news/constellation-to-buy-clean-energy-producer-calpine-in-16-4bn-deal/)
-- [Constellation Energy completes Calpine acquisition – industrialinfo.com](https://www.industrialinfo.com/news/article/constellation-energy-completes-calpine-acquisition--351594)
+- [Constellation Energy completes Calpine acquisition – IndustrialInfo](https://www.industrialinfo.com/news/article/constellation-energy-completes-calpine-acquisition--351594)
+- [Constellation's Calpine deal to drive 35% revenue growth 2026 – S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/constellation-s-calpine-deal-to-drive-35-percent-revenue-growth-2026)
+- [President, Chief Executive Officer & Director, Constellation (Joseph Dominguez) – ceointerviews.ai](https://ceointerviews.ai/entity/2935-joseph-dominguez-constellation/)
+- [Constellation CEO: 'We Produce Enough Energy to Power Mexico' – Barron's](https://pub-barsections-barrons-rendering.ore.onservo.com/video/constellation-ceo-we-produce-enough-energy-to-power-mexico/43221843-40F9-4453-9217-D92A6D9EA805)
