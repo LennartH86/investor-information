@@ -1,52 +1,54 @@
-# Allianz SE (ALV.DE)
-_Aktualisiert: 24.10.2026 | Zeitraum: 17.10.2026 – 24.10.2026_
+# Allianz (ALV.DE)
+_Aktualisiert: 28.10.2026 | Zeitraum: 21.10.2026 – 28.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 6 Aktien
 - **Kaufkurs (Ø):** 367,45 EUR
-- **Aktueller Kurs:** 428,50 EUR
-- **Marktwert:** 2571,00 EUR
-- **Unrealisierter G/V:** +350,99 EUR (+15,81%)
-- **Portfolioanteil:** 1,64%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Die Allianz-Aktie hat im Berichtszeitraum weiter leicht nachgegeben (428,50 EUR nach 432,50 EUR eine Woche zuvor, ca. -0,9%), bleibt aber mit +15,81% gegenüber dem Kaufkurs weiterhin deutlich im Plus. Belastbare, aktuelle KGV-/KBV-Zahlen lagen auch diese Woche nicht vor; operativ bleibt der Konzern laut Q2/H1-2026-Zahlen (Rekordergebnis, bestätigte Jahresprognose 17,4 Mrd. EUR) und laufendem Aktienrückkauf solide aufgestellt. Nennenswerte neue, eindeutig im Zeitraum 17.–24.10.2026 datierte Entwicklungen wurden in der Recherche nicht identifiziert; die Lage ist damit im Wesentlichen unverändert zur Vorwoche. Mit den Q3-Zahlen am 12.11.2026 als nächstem konkreten Katalysator bleibt Halten die naheliegende Einschätzung; eine Neubewertung (Aufstocken/Reduzieren) erscheint erst nach diesen Zahlen bzw. bei einer Klärung der möglichen AA-Übernahme sinnvoll.
+- **Aktueller Kurs:** 433,40 EUR
+- **Marktwert:** 2600,40 EUR
+- **Unrealisierter G/V:** +380,39 EUR (+17,13%)
+- **Portfolioanteil:** 1,63%
+- **Dividenden erhalten:** 75,54 EUR
+- **Bewertung:** Die Position notiert mit +17,13% deutlich über dem Einstandskurs; gestützt wird das durch operative Rekordergebnisse in Q1 (4,5 Mrd. EUR) und Q2 2026 (4,874 Mrd. EUR) sowie eine im Jahresverlauf bestätigte bzw. laut mehreren Quellen angehobene Prognose von ca. 17,4 Mrd. EUR operativem Ergebnis für 2026 (±1 Mrd. EUR). Konkrete KGV-/KBV-Kennzahlen lieferte die Recherche nicht, doch laufende Aktienrückkäufe, eine hohe annualisierte Eigenkapitalrendite (H1 2026: 20,7% vs. 18,1% im Vorjahr) und die bereits erhaltenen Dividenden von 75,54 EUR (ca. 20% des Kaufpreises) sprechen für solide Fundamentaldaten. Angesichts des anstehenden Q3-/9M-Berichts am 12.11.2026 erscheint **Halten** derzeit sinnvoller als eine Anpassung der Position.
 
 ## Aktuelle Meldungen
-- Für den Zeitraum 17.–24.10.2026 wurde keine neue, eindeutig datierte offizielle Finanz-Pressemitteilung von Allianz SE identifiziert; die aktuellste bestätigte Quartalsmitteilung bleibt 2Q/6M 2026 vom 07.08.2026.
-- Die mögliche Übernahme des britischen Pannenhilfe-Konzerns AA (ca. 5–6,8 Mrd. GBP) bleibt weiterhin unbestätigt; weder Allianz noch AA haben sich offiziell geäußert, EQT wird weiterhin als möglicher Mitbieter genannt.
-- Der Abschluss des Anteilsverkaufs an Allianz European Reliance (National Bank of Greece übernimmt 30%) bleibt der letzte bestätigte M&A-Schritt (Share Purchase Agreement vom 14.10.2026).
-- In der Recherche zusätzlich sichtbar, aber zeitlich außerhalb des engen Berichtszeitraums und bisher nicht erwähnt: Allianz Global Investors hat am 05.08.2026 die Übernahme der UOB Asset Management (Singapur) inkl. Vertriebspartnerschaft mit UOB angekündigt, und Allianz soll laut Bloomberg in fortgeschrittenen Gesprächen über eine Übernahme von Caravela Seguros (Portugal) stehen (Stand: Juni 2026, bislang keine Bestätigung eines Abschlusses).
-- Eine Allianz-Studie zu Betriebsunterbrechungsschäden (7.888 Fälle, ca. 6,74 Mrd. EUR über fünf Jahre) wurde am 08.10.2026 veröffentlicht; liegt knapp vor dem aktuellen Berichtszeitraum.
+- 14.10.2026: Allianz SE und die National Bank of Greece (NBG) haben einen Kaufvertrag (Share Purchase Agreement) unterzeichnet, wonach NBG eine 30%-Minderheitsbeteiligung an Allianz Greece (Allianz European Reliance) übernimmt – Vollzug einer bereits am 7. Mai 2026 angekündigten Absichtserklärung.
+- 01.10.2026: Allianz bestätigt zwei CEO-Ernennungen: Philipp Kroetz (bisher CEO Allianz Direct) übernimmt zum 1. November 2026 die Führung von Allianz Partners und löst Tomas Kunzmann ab. Laut einer Finanzquelle (nicht offiziell bestätigt) übernimmt Laurent Floquet die Leitung von Allianz Direct.
+- Anfang Oktober 2026: Veröffentlichung des 17. Allianz Global Wealth Report 2026 – Kernaussage: Märkte treiben das private Haushaltsvermögen auf ein Rekordhoch, während KI sowohl neue Chancen als auch neue Risiken schafft.
+- 07.10.2026: Veröffentlichung der Studie „Sense of Community“ zu Einsamkeit und Zugehörigkeitsgefühl in einer vernetzten Welt (fünf Länder untersucht).
+- Nächster wichtiger Termin: Quartalsmitteilung zu Q3 und den ersten neun Monaten 2026, erwartet am 12.11.2026.
 
 ## Management
-- Der bereits bekannte Vorstands- und Führungsumbau bleibt unverändert aktuell: Philipp Kroetz wird zum 01.11.2026 CEO von Allianz Partners, Laurent Floquet übernimmt Allianz Direct; Tomas Kunzmann wechselt zum 01.01.2027 in den Vorstand der Allianz SE (Region Asien-Pazifik inkl. Indien), Klaus-Peter Röhler scheidet Ende 2026 aus.
-- CEO Oliver Bäte bleibt im Amt; neue, im aktuellen Berichtszeitraum eindeutig datierte Interviews oder Personalmeldungen wurden nicht gefunden.
-- Für den Zeitraum 17.–24.10.2026 konnten keine neuen Management-Wechsel oder -Aussagen identifiziert werden.
+- CEO Oliver Bäte äußerte sich in einem Interview mit der Börsen-Zeitung („Wir haben auf allen Zylindern Leistung“) zur operativen Entwicklung und zum Jahresausblick 2026; Details der Aussagen wurden in der Recherche nicht vollständig erfasst.
+- Vorstandsumbau (ursprünglich am 12.03.2026 angekündigt, mit Wirksamkeit ab 2027): Klaus-Peter Röhler scheidet Ende 2026 aus dem Vorstand aus; Tomas Kunzmann wechselt zum 1. Januar 2027 in den Vorstand der Allianz SE und übernimmt die Verantwortung für die Region Asien-Pazifik inklusive Indien.
+- Nachfolgeregelung bei Allianz Partners/Allianz Direct: Philipp Kroetz wird zum 1.11.2026 neuer CEO von Allianz Partners; die Position bei Allianz Direct wird laut unbestätigter Quelle von Laurent Floquet übernommen.
+- In einem undatierten, aber als aktuell eingeordneten Interview (Insurance Times) erklärte Bäte, dass für Allianz nur eine große Übernahme strategisch sinnvoll sei, kleinere Zukäufe dagegen nicht; im Fokus stünden neben den USA auch Europa, insbesondere Sach-, Vermögensverwaltungs- und Kreditversicherungsgeschäft.
 
 ## Finanzielles
-- Letzter veröffentlichter Berichtsstand bleibt Q2/H1 2026 (veröffentlicht 07.08.2026): operatives Ergebnis H1 9.390 Mio. EUR (+8,6% ggü. Vorjahr), Q2 operatives Ergebnis 4.874 Mio. EUR (+10,6%, Rekordwert für ein zweites Quartal).
-- Bereinigter Periodenüberschuss der Anteilseigner im Q2 2026 rückläufig um 12,7% auf 2.600 Mio. EUR (Halbjahr: +15,5% auf 6.385 Mio. EUR); laut Allianz bedingt durch einen ausgelaufenen Sondereffekt aus dem Vorjahr.
-- Solvency-II-Quote: 225% (Q1 2026: 221%); annualisierte bereinigte Eigenkapitalrendite: 20,7%.
-- Jahresprognose 2026 weiterhin bestätigt: operatives Ergebnis von 17,4 Mrd. EUR (±1 Mrd. EUR).
-- Aktienrückkaufprogramm von bis zu 2,5 Mrd. EUR (beschlossen 25.02.2026) läuft planmäßig bis spätestens 31.12.2026.
-- Q3/9M-2026-Zahlen werden am 12.11.2026 veröffentlicht – im aktuellen Berichtszeitraum lagen noch keine neuen Zahlen vor.
+- Q2/H1 2026 (veröffentlicht 07.08.2026): Operatives Rekordergebnis von 4,874 Mrd. EUR im Quartal; operatives Ergebnis Schaden-/Unfallversicherung 2,5 Mrd. EUR (+7,2% YoY). Der bereinigte Konzerngewinn sank dagegen von 2,976 Mrd. EUR auf 2,600 Mrd. EUR (-12,7%), vor allem wegen eines ausgelaufenen Sondereffekts im Vorjahr.
+- Annualisierte bereinigte Eigenkapitalrendite (RoE) im ersten Halbjahr 2026: 20,7% (Vorjahr 2025: 18,1%).
+- Q1 2026 (veröffentlicht 13.05.2026): Operatives Rekordergebnis von 4,5 Mrd. EUR; Nettogewinn sprang um 52% (eine Quelle nennt 4,1 Mrd. USD); die Jahresprognose wurde bestätigt.
+- Jahresprognose 2026: Operatives Ergebnis von rund 17,4 Mrd. EUR (±1 Mrd. EUR) – Quellen sind sich uneinig, ob diese im Jahresverlauf lediglich bestätigt oder nach den starken Quartalen angehoben wurde.
+- Laufendes Aktienrückkaufprogramm sowie als stark eingeschätzte Solvenzquote wurden von mehreren Finanzmedien im Zusammenhang mit den Quartalszahlen 2026 hervorgehoben.
+- Nächster Berichtstermin: Q3/9M 2026 am 12.11.2026.
 
 ## Strategie & Ausblick
-- Portfoliosteuerung in Griechenland abgeschlossen (Verkauf von 30% an Allianz European Reliance an die National Bank of Greece) bleibt der jüngste bestätigte Schritt der aktiven Beteiligungssteuerung.
-- Mögliche Großübernahme in Großbritannien (AA, ca. 5–6,8 Mrd. GBP) bleibt unbestätigt und ohne neuen Status im Berichtszeitraum.
-- Fortsetzung der M&A-Agenda in Asien: Übernahme von HSBC Life Singapore (ca. 2 Mrd. EUR, Closing voraussichtlich H1 2027) sowie die Übernahme der UOB Asset Management durch Allianz Global Investors.
-- Mögliche weitere Expansion in Europa: laut Medienberichten fortgeschrittene, aber unbestätigte Gespräche über eine Übernahme von Caravela Seguros (Portugal).
-- Insgesamt bleibt Allianz auf Kurs, die Jahresziele 2026 zu erreichen; die Kombination aus organischem Rekordergebnis, aktiver Kapitalallokation (Rückkäufe, gezielte Beteiligungsverkäufe) und einer breit gestreuten Zukaufsstrategie (UK, Asien, Europa) bleibt der zentrale strategische Treiber, wirft bei größeren möglichen Deals (AA, Caravela) aber weiterhin Fragen zur Kapitaldisziplin auf.
+- M&A-Aktivität in Asien als Wachstumstreiber: Am 24.07.2026 vereinbarte Allianz die vollständige Übernahme von HSBC Life Singapore für rund 2,7 Mrd. SGD, inklusive einer 15-jährigen exklusiven Vertriebspartnerschaft mit HSBC (Gesamtvolumen ca. 2,9 Mrd. SGD).
+- Am 05.08.2026 übernahm AllianzGI das Vermögensverwaltungsgeschäft der UOB Asset Management für 376 Mio. EUR inklusive einer Vertriebspartnerschaft – Ziel ist die Beschleunigung des Wachstums im asiatisch-pazifischen Raum.
+- Im Juni 2026 vereinbarte Allianz Partners die Übernahme eines Großteils des Reiseversicherungsportfolios von nib in Australien und Neuseeland (Kaufpreis nicht genannt, Vollzug steht unter Genehmigungsvorbehalt).
+- Die Transaktion mit der National Bank of Greece (30% an Allianz Greece, Vertragsunterzeichnung 14.10.2026) stärkt die Partnerschaft mit einer lokalen Bank im griechischen Markt.
+- Laut CEO Bäte bleibt Allianz offen für eine größere, strategisch sinnvolle Übernahme, während kleinere Zukäufe als wenig zielführend gelten; geografischer Fokus liegt neben den USA auf Europa (Sach-, Vermögensverwaltungs- und Kreditversicherung).
+- Zu beobachten: Veröffentlichung der Q3-/9M-2026-Zahlen (12.11.2026), Entwicklung des bereinigten Konzerngewinns nach dem Rückgang in Q2, Fortschritt und Abschluss der angekündigten Übernahmen (HSBC Life Singapore, UOB AM, nib-Portfolio, Allianz Greece) sowie der zum 1.1.2027 wirksame Vorstandswechsel (Kunzmann/Röhler).
 
 ## Quellen
-- [Allianz SE announces Board of Management changes (Allianz)](https://www.allianz.com/en/mediacenter/news/media-releases/announcements/260724-allianz-se-changes-board-of-management.html)
-- [Earnings Release: 2Q & 6M 2026 (Allianz Investor Relations)](https://www.allianz.com/en/investor_relations/announcements/ir_announcements/260807.html)
-- [EQS-News: Allianz delivers record result and is well on track to achieve its targets](https://content-astro-web.finanzen.net/nachricht/aktien/eqs-news-allianz-delivers-record-result-and-is-well-on-track-to-achieve-its-targets-15856221)
-- [Allianz SE beschließt neues Rückkaufprogramm für eigene Aktien im Volumen von bis zu 2,5 Milliarden Euro (Allianz)](https://www.allianz.com/de/investor_relations/mitteilungen/insiderinformationen/260225-ad-hoc.html)
-- [German insurer Allianz weighs £6.77bn takeover of AA (Global Banking & Finance Review)](https://www.globalbankingandfinance.com/german-insurer-allianz-weighs-6-77-billion-takeover-aa/)
-- [Allianz baut SE-Vorstand um: Tomas Kunzmann folgt Anfang 2027 auf Klaus-Peter Röhler (autohaus.de)](https://www.autohaus.de/nachrichten/schadenbusiness/allianz-baut-vorstand-um-klaus-peter-roehler-geht-tomas-kunzmann-rueckt-auf-3779406)
-- [Allianz SE Announces Board of Management Changes Ahead of 2027 Transition (Reinsurance News)](https://www.reinsurancene.ws/allianz-se-announces-board-of-management-changes-ahead-of-2027-transition/)
-- [Allianz to acquire HSBC Life Singapore (Atlas Mag)](https://atlas-mag.net/en/articles/allianz-acquire-hsbc-life-singapore)
-- [Allianz SE (ffnews.com, Unternehmensübersicht inkl. UOB Asset Management)](https://ffnews.com/companies/allianz-se)
-- [Allianz SE to acquire 72% of European Reliance General Insurance (Coverager)](https://coverager.com/allianz-se-to-acquire-72-of-european-reliance-general-insurance/)
-- [Group Financial Results (Allianz Investor Relations)](https://www.allianz.com/en/investor_relations/results-reports/results.html)
+- [Allianz confirms CEO appointments at Allianz Partners and Allianz Direct – AllianzCare](https://www.allianzcare.com/en/about-us/news/allianz-confirms-ceo-appointments-at-allianz-partners-and-allianz-direct.html)
+- [Allianz SE kündigt Veränderungen im Vorstand an – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260312-allianz-se-kuendigt-veraenderungen-im-vorstand-an.html)
+- [„Wir haben auf allen Zylindern Leistung“ – Börsen-Zeitung](https://www.boersen-zeitung.de/banken-finanzen/wir-haben-auf-allen-zylindern-leistung)
+- [Allianz reveals acquisition targets – Insurance Times](https://www.insurancetimes.co.uk/allianz-reveals-acquisition-targets/1420743.article)
+- [Allianz to buy 51% stake in Singapore insurer for $1.6 billion – Business Insurance](https://www.businessinsurance.com/allianz-to-buy-51-stake-in-singapore-insurer-for-16-billion/)
+- [Global Business: Allianz acquires UOB Asset Management; GEA buyback – Vermögenszentrum](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/global-business-allianz-acquires-uob-asset-management-gea-buyback)
+- [Allianz Partners to acquire part of nib's travel insurance portfolio – GDELT Cloud](https://gdeltcloud.com/events/allianz-partners-to-acquire-part-of-nibs-travel-insurance-po--cameoplus_99df12a8)
+- [Quartalsmitteilung: 2Q und 6M 2026 – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
+- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich – cash-online.de](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
+- [Quartalsmitteilung: 1Q 2026 – allianz.com](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260513-1q-2026-quartalsmitteilung.html)
+- [Allianz Aktie: Exportoptimismus trifft Geopolitik – boerse-express.com](https://www.boerse-express.com/news/articles/allianz-aktie-exportoptimismus-trifft-geopolitik-889779)
