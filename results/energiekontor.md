@@ -1,49 +1,52 @@
 # Energiekontor AG (EKT.DE)
-_Aktualisiert: 25.10.2026 | Zeitraum: 18.10.2026 – 25.10.2026_
+_Aktualisiert: 29.10.2026 | Zeitraum: 22.10.2026 – 29.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 90 Aktien
 - **Kaufkurs (Ø):** 39,00 EUR
-- **Aktueller Kurs:** 22,40 EUR
-- **Marktwert:** 2.016,00 EUR
-- **Unrealisierter G/V:** -1.517,47 EUR (-42,95%)
-- **Portfolioanteil:** 1,28%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs ist in der Berichtswoche weiter von zuletzt 23,50 EUR auf 22,40 EUR gefallen und liegt damit rund 43% unter dem Einstandskurs von 39,00 EUR sowie deutlich unter dem Mai-2026-Niveau (ca. 48 EUR). Bemerkenswert ist, dass First Berlin Equity Research ihr Kursziel trotz des H1-Verlusts nur moderat von 93 auf 79 EUR gesenkt und das Buy-Rating bestätigt hat – aus Analystensicht bestünde damit weiterhin erhebliches Aufholpotenzial. Da jedoch offizielle Q3-/Neunmonatszahlen für den Berichtszeitraum noch nicht vorliegen und die Jahresprognose (Konzern-EBT 40–60 Mio. EUR) erst mit diesen Zahlen überprüfbar wird, erscheint eine abwartende Haltung (Halten, kein Nachkauf) bis zur nächsten offiziellen Berichterstattung weiterhin angemessen.
+- **Aktueller Kurs:** 23,40 EUR
+- **Marktwert:** 2.106,00 EUR
+- **Unrealisierter G/V:** -1.427,47 EUR (-40,40%)
+- **Portfolioanteil:** 1,33%
+- **Dividenden erhalten:** 44,18 EUR
+- **Bewertung:** Der Kurs hat sich in der Berichtswoche von 22,40 auf 23,40 EUR (+4,5%) leicht erholt, liegt aber weiterhin rund 40% unter dem Einstandskurs von 39,00 EUR. In der Woche wurde zudem erstmals eine Dividendengutschrift von 44,18 EUR (netto, auf Basis der HV-Dividende von 1,00 EUR/Aktie) verbucht. Belastbare KGV-/KBV-Kennzahlen lassen sich wegen des H1-Verlusts weiterhin nicht sinnvoll bilden; First Berlin bestätigt trotzdem ihr Buy-Rating mit Kursziel 79 EUR, während eine Analysten-Durchschnittsangabe bei Börse Express mit rund 49 EUR deutlich niedriger liegt. Da der entscheidende Katalysator – der Neunmonatsbericht am 12.11.2026 – noch ausstehend ist, bleibt eine abwartende Haltung (Halten, kein Nachkauf) bis zu dessen Veröffentlichung sinnvoll.
 
 ## Aktuelle Meldungen
-- Für den engeren Berichtszeitraum (18.–25.10.2026) ist keine offizielle Energiekontor-Pressemitteilung auffindbar; die jüngste offizielle Unternehmensmeldung bleibt der Halbjahresbericht vom 13.08.2026.
-- Laut Marktberichten (boerse-express.de) hat Energiekontor die Windparks Haberloh und Heidkrug mit zusammen rund 93 MW an den österreichischen Versorger illwerke vkw verkauft; die Übergabe ist für Ende 2027 geplant. illwerke vkw hatte bereits 2021 den Windpark Völkersen von Energiekontor übernommen.
-- Laut einem als KI-generiert gekennzeichneten Artikel (goldesel.de) erhielt Energiekontor im September/Oktober 2026 Genehmigungen für vier weitere Windparks in Nordrhein-Westfalen und Niedersachsen mit zusammen rund 142 MW (Angabe weiterhin ungeprüft, nicht durch offizielle Unternehmensmitteilung bestätigt).
-- Das laufende Aktienrückkaufprogramm (bis zu 80.000 eigene Aktien, Laufzeit bis spätestens 27.05.2027) wird fortgesetzt.
+- Für den engeren Berichtszeitraum (22.–29.10.2026) ist keine neue offizielle Energiekontor-Pressemitteilung auffindbar; die jüngste offizielle Unternehmensmeldung bleibt der Halbjahresbericht vom 13.08.2026.
+- Im Depot wurde in der Berichtswoche eine Dividendengutschrift von 44,18 EUR (netto, 90 Aktien) verbucht – rechnerisch passend zur auf der Hauptversammlung am 27.05.2026 beschlossenen Dividende von 1,00 EUR je Aktie. Der ungewöhnlich späte Zahltermin (Oktober statt üblicherweise direkt nach der HV) ist durch keine offizielle Mitteilung im Berichtszeitraum bestätigt und bleibt daher mit Vorsicht zu interpretieren.
+- Laut einem Marktkommentar (boerse-express.com, Titel "Energiekontor Aktie: Ruhe vor dem Sturm?") wird am Markt vor den anstehenden Neunmonatszahlen mit erhöhter Kursvolatilität gerechnet; ein genaues Veröffentlichungsdatum des Artikels ließ sich technisch nicht verifizieren.
+- Der bereits zuvor gemeldete Verkauf der Windparks Haberloh und Heidkrug (zusammen rund 93 MW) an den österreichischen Versorger illwerke vkw (Übergabe geplant Ende 2027) bleibt die jüngste bestätigte strategische Transaktion; keine neuen Details im Berichtszeitraum.
+- Zur gezielten Suche nach Übernahme-/M&A-Aktivität rund um Energiekontor ergaben sich keine Treffer für 2026 – weder als Übernahmeziel noch als Käufer eines anderen Unternehmens.
 
 ## Management
-- CEO Peter Szabo hat 2026 wiederholt öffentlich die Jahresprognose (Konzern-EBT 40–60 Mio. EUR) bestätigt, zuletzt im Rahmen der Halbjahresmitteilung vom 13.08.2026 mit Verweis auf wesentliche erwartete Ergebnisbeiträge im zweiten Halbjahr.
-- Ein aktuelles Interview mit Szabo aus dem Berichtszeitraum (18.–25.10.2026) ließ sich nicht finden; öffentliche Aussagen stammen weiterhin von der Hauptversammlung (27.05.2026) und der H1-Berichterstattung.
+- Ein aktuelles Interview mit CEO Peter Szabo aus dem Berichtszeitraum (22.–29.10.2026) ließ sich nicht finden; öffentliche Aussagen stammen weiterhin von der Hauptversammlung (27.05.2026) und der H1-Berichterstattung (13.08.2026).
 - Laut Unternehmensprofil ist Szabo bis Ende 2027 als Vorstandsvorsitzender bestellt und führt das Unternehmen seit 2011.
+- Der Finanzkalender weist nun ein konkretes Datum für die nächste reguläre Berichterstattung aus: Neunmonatsbericht/Q3-Zwischenmitteilung am 12.11.2026 (laut einer Researchnotiz von M.M. Warburg), zuvor war in der Vorwoche nur "voraussichtlich November 2026" bekannt.
 
 ## Finanzielles
-- First Berlin Equity Research senkte das Kursziel für die Energiekontor-Aktie von 93 auf 79 EUR (Analyst Dr. Karsten von Blumenthal), begründet mit Projektverzögerungen in Schottland; das Buy-Rating wurde trotz des H1-Verlusts bestätigt. Das gesenkte Kursziel liegt weiterhin mehr als 250% über dem aktuellen Kurs von 22,40 EUR.
-- Die zuletzt verfügbaren Konzernzahlen (H1 2026, laut Drittquelle goldesel.de, nicht offiziell verifiziert) zeigen einen Umsatzanstieg auf 99,9 Mio. EUR (+31% ggü. 76,0 Mio. EUR), aber ein EBT von -4,7 Mio. EUR (Vorjahr +28,3 Mio. EUR) und ein Nettoergebnis von -5,3 Mio. EUR (Vorjahr +24,1 Mio. EUR).
-- Die Jahresprognose 2026 (Konzern-EBT 40–60 Mio. EUR) wurde vom Management offiziell nicht revidiert; vereinzelte Marktberichte hatten im August 2026 deutlich niedrigere EBT-Schätzungen (5–10 Mio. EUR) genannt, was im Widerspruch zur offiziellen Kommunikation des Unternehmens steht und ungeprüft bleibt.
-- Für den Berichtszeitraum liegen keine neuen Q3-2026-Zahlen vor; die nächste reguläre Berichterstattung (Neunmonatsbericht) dürfte im November 2026 erfolgen.
+- First Berlin Equity Research (Analyst Dr. Karsten von Blumenthal) hält weiterhin an ihrem im Oktober gesenkten Kursziel von 79 EUR (zuvor 93 EUR) bei bestätigtem Buy-Rating fest; dieses Ziel liegt weiterhin mehr als 230% über dem aktuellen Kurs von 23,40 EUR.
+- Eine abweichende Angabe bei Börse Express nennt einen durchschnittlichen Analysten-Kursziel von rund 49 EUR (Datenstand 23.08.2026, Basis offenbar nur eine Einzelbewertung) – damit deutlich unter dem First-Berlin-Ziel; welche Angabe aktueller bzw. repräsentativer ist, bleibt ungeprüft.
+- Die zuletzt verfügbaren Konzernzahlen bleiben die H1-2026-Zahlen (Umsatz 99,9 Mio. EUR, +31%; EBT -4,7 Mio. EUR; Nettoergebnis -5,3 Mio. EUR). Für den Berichtszeitraum liegen keine neuen Q3-Zahlen vor; diese werden erst am 12.11.2026 veröffentlicht.
+- Die Jahresprognose 2026 (Konzern-EBT 40–60 Mio. EUR) wurde vom Management offiziell nicht revidiert. Einzelne Drittquellen hatten im August deutlich niedrigere Schätzungen (5–10 Mio. EUR) genannt; dieser Widerspruch zur offiziellen Kommunikation bleibt unaufgelöst und ungeprüft.
+- In der Berichtswoche wurde die Dividendengutschrift von 44,18 EUR netto verbucht (siehe "Aktuelle Meldungen").
 
 ## Strategie & Ausblick
-- Der Verkauf der Windparks Haberloh und Heidkrug (93 MW) an illwerke vkw unterstreicht die fortgesetzte Build-Operate-Sell-Strategie von Energiekontor, bei der realisierte Projekte gezielt an langfristig orientierte Versorger veräußert werden.
-- Die Projektpipeline wuchs durch neue, bislang unbestätigte Genehmigungen (rund 142 MW, Herbst 2026) weiter; zusammen mit den zuvor gemeldeten 652 MW im Bau/Financial Close (Stand Mai 2026) deutet dies auf anhaltende operative Wachstumsdynamik hin.
-- Entscheidend für die weitere Kursentwicklung bleibt laut Unternehmensangaben die Zielerreichung im zweiten Halbjahr 2026, da wesentliche Ergebnisbeiträge dort erwartet werden; die ausstehenden Q3-/Neunmonatszahlen (voraussichtlich November 2026) dürften richtungsweisend sein.
-- First Berlin bestätigt trotz Kurszielsenkung die grundsätzlich positive langfristige Einschätzung (Buy-Rating), verweist aber auf konkrete operative Risiken (Projektverzögerungen in Schottland).
+- Die Build-Operate-Sell-Strategie wird durch den bereits bekannten Verkauf von Haberloh/Heidkrug an illwerke vkw bestätigt; im Berichtszeitraum keine neuen Projektverkäufe gefunden.
+- Weiterhin unbestätigt (nur über eine als KI-generiert gekennzeichnete Drittquelle, goldesel.de) bleiben rund 142 MW an neuen Windpark-Genehmigungen in NRW und Niedersachsen aus September/Oktober 2026.
+- Entscheidender nächster Katalysator für die Aktie ist der Neunmonatsbericht am 12.11.2026, der zeigen muss, ob das Jahres-EBT-Ziel (40–60 Mio. EUR) nach dem H1-Verlust noch erreichbar ist.
+- First Berlin bestätigt trotz gesenktem Kursziel die grundsätzlich positive langfristige Einschätzung (Buy), verweist aber weiterhin auf operative Risiken wie Projektverzögerungen in Schottland.
+- Ein Marktbericht verweist zudem auf eine ab September 2026 diskutierte Reform des Stromverkaufs- bzw. Netzentgeltrahmens ("StromVKG-Reform"), die potenziell Auswirkungen auf künftige Projektbewertungen haben könnte; eine offizielle Stellungnahme von Energiekontor dazu liegt nicht vor, die Information bleibt daher ungeprüft.
 
 ## Quellen
 - [Energiekontor: First half of 2026 shaped by high construction activity](https://www.energiekontor.de/en/news/energiekontors-first-half-of-2026-shaped-by-high-construction-activity-key-earnings-contributions-scheduled-for-the-second-half-of-2026.html)
-- [Energiekontor Aktie: 93-MW-Verkauf (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-93-mw-verkauf-859181)
-- [Energiekontor Aktie: Deal zum Jahresende (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-deal-zum-jahresende-862969)
+- [Energiekontor: Annual General Meeting approves all agenda items by a large majority](https://www.energiekontor.de/en/news/annual-general-meeting-approves-all-agenda-items-by-a-large-majority.html)
+- [Energiekontor Aktie: Ruhe vor dem Sturm? (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-ruhe-vor-dem-sturm-864773)
 - [Energiekontor Aktie: Beständig positiv (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-bestaendig-positiv-864265)
+- [Energiekontor Aktie: 93-MW-Verkauf (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-93-mw-verkauf-859181)
 - [Original-Research: Energiekontor AG – First Berlin Equity Research GmbH (Kursziel 79 EUR)](https://www.boerse-online.de/dpa-afx/original-research-energiekontor-ag-von-first-berlin-equity-research-gmbh-buy-525829.html)
+- [20260515 M.M. Warburg Researchnotiz (Finanzkalender, Q3-Termin)](https://www.energiekontor.de/fileadmin/user_upload/IR/Analystenreports/20260515_M._M._Warburg_EBT-Anhebung_2027_hebt_Kursziel_UK-Entscheidung_bleibt_zentraler_Katalysator.pdf)
 - [Energiekontor Aktie: Vier Windpark-Genehmigungen bringen 142 MW in die Pipeline (goldesel.de, KI-generiert)](https://goldesel.de/aktien/news/energiekontor-aktie-vier-windpark-genehmigungen-bringen-142-mw-in-die-pipeline)
 - [Energiekontor rutscht im H1 in die Verlustzone (goldesel.de, KI-generiert)](https://goldesel.de/aktien/news/energiekontor-rutscht-im-h1-in-die-verlustzone-umsatz-wachst-auf-999-mio-euro-prognose-bleibt)
-- [Energiekontor (EKT) Q2 2026 earnings summary (Quartr)](https://quartr.com/events/energiekontor-ag-ekt-q2-2026_oCW45S0I)
-- [EQS-CMS: Energiekontor AG – Release of a capital market information (finanzen.net)](https://www.finanzen.net/nachricht/aktien/eqs-cms-energiekontor-ag-release-of-a-capital-market-information-15734718)
-- [20260813 Energiekontor H1 2026 Company Presentation](https://www.energiekontor.de/fileadmin/user_upload/IR/Praesentationen_Factsheet/20260813_Energiekontor_H1_2026_Company_Presentation.pdf)
 - [Peter Szabo – Management Board (energiekontor.de)](https://www.energiekontor.de/en/company/management-board-and-supervisory-board/peter-szabo.html)
-- [Energiekontor: Annual General Meeting approves all agenda items by a large majority](https://www.energiekontor.de/en/news/annual-general-meeting-approves-all-agenda-items-by-a-large-majority.html)
+- [Energiekontor Aktie: Beflügelnde Strategieumstellung (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-befluegelnde-strategieumstellung-866057)
+- [Energiekontor Aktie: StromVKG-Reform ab September 2026 (boerse-express.com)](https://www.boerse-express.com/news/articles/energiekontor-aktie-stromvkg-reform-ab-september-2026-924904)
