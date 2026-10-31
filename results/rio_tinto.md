@@ -1,39 +1,40 @@
 # Rio Tinto (RIO.L)
-_Aktualisiert: 28.10.2026 | Zeitraum: 21.10.2026 – 28.10.2026_
+_Aktualisiert: 31.10.2026 | Zeitraum: 24.10.2026 – 31.10.2026_
 
 ## Portfolio-Analyse
 - **Position:** 80 Aktien
 - **Kaufkurs (Ø):** 57,28 EUR
-- **Aktueller Kurs:** 77,00 EUR
-- **Marktwert:** 6160,00 EUR
-- **Unrealisierter G/V:** +1546,34 EUR (+33,52%)
-- **Portfolioanteil:** 3,86%
-- **Dividenden erhalten:** 1128,54 EUR
-- **Bewertung:** Der Kurs hat sich im Wochenvergleich von ca. 74,79 EUR auf 77,00 EUR (+ca. 3%) erholt und notiert damit wieder deutlich über dem Kaufkurs (+33,52%). Belastbare aktuelle KGV-/KBV-Kennzahlen liegen weiterhin nicht vor, operativ bleibt das Bild stabil (bestätigte Jahresproduktionsprognosen, laufendes Kapitalfreisetzungsprogramm). Angesichts der soliden Rendite, der verlässlichen Dividende und der unveränderten operativen Guidance bleibt "Halten" die sinnvolle Einschätzung.
+- **Aktueller Kurs:** 73,07 EUR
+- **Marktwert:** 5.845,60 EUR
+- **Unrealisierter G/V:** +1.231,94 EUR (+26,70%)
+- **Portfolioanteil:** 3,71%
+- **Dividenden erhalten:** 1.128,54 EUR
+- **Bewertung:** The share price pulled back from roughly 77.00 EUR a week ago to 73.07 EUR, trimming the unrealized gain from about +33.5% to +26.70%, though the position remains comfortably above the average purchase price. No new reliable P/E or P/B figures turned up in this week's research; the operational picture stays stable, with Q3 2026 production guidance confirmed and the capital-release program on track. Given the still-solid return, the reliable dividend income already received (1,128.54 EUR), and unchanged operating guidance, "Hold" remains the sensible stance; the pullback looks like normal volatility rather than a change in fundamentals.
 
 ## Aktuelle Meldungen
-- Keine neue, eigenständige Unternehmensmeldung von Rio Tinto im engeren Zeitraum 21.–28.10.2026 identifiziert; jüngste substanzielle Nachricht bleibt der Q3-2026-Produktionsbericht vom 14. Oktober.
-- Q3-2026-Produktion: globaler Eisenerzverkauf 90,8 Mio. Tonnen (100%-Basis), +3% y/y; Jahresprognose Pilbara-Verkäufe (323–338 Mio. t) bestätigt.
-- Kupferproduktion Q3 bei 205 kt (unverändert ggü. Q3 2025, -4% ggü. Q2 2026); Oyu Tolgoi-Produktion +29% im Jahresverlauf.
-- Kapitalfreisetzungsprogramm: über USD 2 Mrd. im laufenden Jahr realisiert, weiterhin Zielkorridor von rund USD 5 Mrd. bis Jahresende 2026.
-- Keine neuen M&A-Ankündigungen in diesem Zeitfenster; Aurukun-Bauxit-Akquisition (Queensland) und die gemeinsame Rio Tinto/Chalco-Übernahme der Votorantim-Mehrheitsbeteiligung an CBA (Brasilien, Rio-Anteil ca. USD 297,8 Mio.) bleiben die jüngsten bekannten Transaktionen.
+- No new standalone company announcement from Rio Tinto identified in the narrower 24–31 October 2026 window; the most substantial recent news remains the Q3 2026 production report released on 14 October.
+- Q3 2026 production: global iron ore sales of 90.8 million tonnes (100% basis), up 3% year-on-year; full-year Pilbara shipment guidance reaffirmed.
+- Copper output in Q3 was 205 kt (flat vs. Q3 2025); Oyu Tolgoi copper production up 29% year-to-date (up ~27–29% depending on the source).
+- Aluminium segment: alumina output up roughly 10%, bauxite down about 4%, with aluminium output holding firm.
+- Capital-release program: more than $2 billion realized so far in 2026, with the company reiterating it remains on track for about $5 billion in total capital-release initiatives by year-end 2026.
+- No new M&A announcements in this window; the Rio Tinto/Chalco joint acquisition of Votorantim's controlling stake in Companhia Brasileira de Alumínio (CBA, Rio's pro-rata share ~$297.8 million) and the earlier Aurukun bauxite matters remain the most recent known transactions.
 
 ## Management
-- Simon Trott bleibt CEO (seit 25.08.2025, Nachfolger von Jakob Stausholm); keine neuen öffentlichen Interviews in diesem Zeitraum gefunden.
-- Isabelle Deschamps (Chief Legal, Governance & Corporate Affairs Officer) verlässt das Unternehmen im Jahresverlauf 2026; Trudi Charles übernimmt im August 2026 die Rolle als Chief Legal Officer, Governance and Corporate Affairs.
-- Strategischer Fokus unverändert auf Kupfer-Wachstum (Oyu Tolgoi) und Portfolio-Optimierung.
+- Simon Trott remains CEO (since 25 August 2025, succeeding Jakob Stausholm); no new public interviews found for this period. His public remarks on record for 2026 are limited to the AGM address in May.
+- Trudi Charles took over in August 2026 as Chief Legal Officer, Governance and Corporate Affairs, succeeding Isabelle Deschamps.
+- Strategic focus under Trott remains unchanged: copper growth (notably Oyu Tolgoi), cost reduction, and portfolio optimization.
 
 ## Finanzielles
-- Keine neue Quartals- oder Halbjahreszahlen-Veröffentlichung in diesem Zeitfenster; letzte vollständige Finanzzahlen bleiben die H1-2026-Ergebnisse (29. Juli): Underlying EBITDA +28% y/y auf USD 14,8 Mrd., Nettogewinn +47% auf USD 6,7 Mrd.
-- Produktivitätsprogramm weiterhin auf Kurs für einen jährlichen Effekt von USD 1,8 Mrd. bis Ende 2026.
-- Management strebt laut Berichten eine Freisetzung von über USD 10 Mrd. durch Portfolio-Optimierung und Asset-Verkäufe an.
-- Keine aktuellen KGV-, KBV- oder Analysten-Kursziel-Daten in den Suchergebnissen gefunden.
+- No new quarterly or half-year financial release in this window; the last full financial results remain the H1 2026 figures (29 July): underlying EBITDA up 28% y/y to $14.8 billion, net profit up 47% to $6.7 billion.
+- The productivity program remains on track for an annualized run-rate benefit of $1.8 billion by the end of 2026.
+- Management is reportedly targeting more than $10 billion in proceeds from portfolio optimization and asset sales, including the capital-release initiatives.
+- No current P/E, P/B, or analyst price-target data found in this week's search results.
 
 ## Strategie & Ausblick
-- Oyu Tolgoi (Kupfer) und Simandou (Eisenerz) bleiben die zentralen mittelfristigen Wachstumsprojekte; Simandou strebt weiterhin eine Jahresproduktionsrate von 60 Mtpa bis H2 2028 an.
-- Rio Tinto und BHP prüfen eine Zusammenarbeit zum Abbau von bis zu 200 Mio. Tonnen Eisenerz in den Pilbara-Minen Yandicoogina und Yandi (vorbehaltlich einer finalen Investitionsentscheidung, erste Erzlieferung nicht vor den frühen 2030ern erwartet).
-- Eine Wiederaufnahme der Glencore-Fusionsgespräche nach Ablauf der Standstill-Frist wird weiterhin nicht erwartet; Management sieht keinen ausreichenden Wertbeitrag in einer solchen Transaktion.
-- Die für 2026 bestätigten Produktionsprognosen über Eisenerz, Kupfer und Bauxit signalisieren operative Stabilität.
+- Oyu Tolgoi (copper) and Simandou (iron ore) remain the central medium-term growth projects; Simandou continues to target an annual production rate of 60 Mtpa by H2 2028.
+- Rio Tinto and BHP continue to explore a joint venture to mine up to 200 million tonnes of iron ore at the Pilbara's Yandicoogina and Yandi deposits, subject to a final investment decision, with first ore not expected before the early 2030s.
+- A revival of the Glencore merger talks is still not expected following the expiry of the standstill period; management has indicated the transaction did not offer sufficient value.
+- Confirmed 2026 production guidance across iron ore, copper and bauxite continues to signal operational stability, while the capital-release program underpins shareholder returns.
 
 ## Quellen
 - [Rio Tinto on track to release $5bn in capital after stronger Q3 iron ore sales — Mining Weekly](https://www.miningweekly.com/article/rio-tinto-on-track-to-release-5-bn-in-capital-after-stronger-q3-iron-ore-sales-2026-10-14)
