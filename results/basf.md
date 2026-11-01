@@ -1,48 +1,50 @@
-# BASF SE (BAS.DE)
-_Aktualisiert: 29.10.2026 | Zeitraum: 22.10.2026 – 29.10.2026_
+# BASF (BAS.DE)
+_Aktualisiert: 01.11.2026 | Zeitraum: 25.10.2026 – 01.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 44,25 EUR
-- **Aktueller Kurs:** 52,66 EUR
-- **Marktwert:** 2.633,00 EUR
-- **Unrealisierter G/V:** +405,16 EUR (+18,19%)
-- **Portfolioanteil:** 1,67%
+- **Aktueller Kurs:** 53,31 EUR
+- **Marktwert:** 2.665,50 EUR
+- **Unrealisierter G/V:** +437,66 EUR (+19,65%)
+- **Portfolioanteil:** 1,69%
 - **Dividenden erhalten:** 165,66 EUR
-- **Bewertung:** Der Kurs legte im Wochenvergleich leicht zu (52,31 auf 52,66 EUR), der unrealisierte Gewinn bleibt mit +18,19% deutlich positiv. Belastbare aktuelle KGV/KBV-Kennzahlen liefert die Recherche weiterhin nicht. Am 28.10.2026 wurde die Q3-Quartalsmitteilung veröffentlicht; konkrete Kennzahlen daraus waren über die Websuche noch nicht zugänglich (Indexierungsverzug), sodass der Markt die Zahlen bereits eingepreist haben könnte, ohne dass dies hier nachvollzogen werden kann. Der mögliche Evonik-Zusammenschluss bleibt der entscheidende mittelfristige Kurstreiber und weiterhin offen. Angesichts der bereits laufenden Kurserholung und fehlender neuer, überprüfbarer fundamentaler Impulse erscheint Halten weiterhin die naheliegende Option; vor einer Aufstockung sollten die tatsächlichen Q3-Zahlen abgewartet und verifiziert werden.
+- **Bewertung:** Die Position liegt mit knapp 20% deutlich im Plus, gestützt durch die am 28.10.2026 veröffentlichten, über den Erwartungen liegenden Q3-Zahlen und die zweite Anhebung der Jahresprognose 2026 in Folge. Die laufende Restrukturierung, Portfoliobereinigung (Carlyle-Lackverkauf, möglicher Agrar-IPO) und die Evonik-Sondierungsgespräche sind zusätzliche kurzfristige Kurstreiber, bergen aber auch Unsicherheit.
 
 ## Aktuelle Meldungen
-- Am 28.10.2026 veröffentlichte BASF die Quartalsmitteilung zum dritten Quartal 2026 (7:00 Uhr MEZ, Pressekonferenz 10:30 Uhr MEZ); die konkreten Kennzahlen waren zum Zeitpunkt dieser Recherche über die Websuche noch nicht auffindbar.
-- Die am 25.09.2026 bestätigten Sondierungsgespräche zwischen BASF, der RAG-Stiftung und Evonik Industries AG zu einer möglichen Übernahme laufen laut verfügbaren Quellen unverändert weiter; neue offizielle Updates aus dem aktuellen Zeitraum liegen nicht vor.
-- Laut einem am 22.10.2026 veröffentlichten Bericht (PlasticsToday) hat BASF trotz der laufenden Fusionsgespräche Zusagen gegen betriebsbedingte Kündigungen bis 2032 gemacht.
-- Weiterhin unbestätigt (Sekundärquelle, zuvor berichtet): ein BASF-Angebot von 22,15 EUR pro Aktie (rund 10,3 Mrd. EUR) für Evonik, das abgelehnt worden sein soll; Arbeitnehmervertreter befürchten im Übernahmefall bis zu 4.000 Stellenstreichungen.
+- Q3-2026-Zahlen am 28.10.2026 veröffentlicht: Umsatz 16,4 Mrd. EUR (Vorjahr 14,3 Mrd. EUR), EBITDA vor Sondereinflüssen 1,6 Mrd. EUR (Vorjahr 1,4 Mrd. EUR).
+- EBIT mit -98 Mio. EUR negativ (Vorjahr +232 Mio. EUR), belastet durch eine Abschreibung von 318 Mio. EUR im Segment Monomers.
+- Konzernergebnis nach Steuern und Minderheiten: 155 Mio. EUR (Vorjahr 172 Mio. EUR); Ergebnis je Aktie 0,18 EUR, bereinigt 0,72 EUR.
+- Free Cashflow 523 Mio. EUR, 125 Mio. EUR über Vorjahresniveau.
+- BASF bestätigt Sondierungsgespräche mit der RAG-Stiftung und Evonik zu einer möglichen Übernahme von Evonik; Fortgang und Ausgang sind laut BASF derzeit offen, ein erstes Angebot soll bereits abgelehnt worden sein.
+- Kein offizielles Pressematerial mit Datum nach dem 28.10.2026 in der Recherche gefunden; die Lage spiegelt den Stand zum Stichtag 01.11.2026.
 
 ## Management
-- Keine neuen öffentlichen Äußerungen oder Interviews von CEO Markus Kamieth im Beobachtungszeitraum gefunden.
-- Zuvor hatte Kamieth wiederholt auf den strukturellen Kapazitäts- und Stellenabbau in der europäischen Chemieindustrie hingewiesen und für 2026 keine spürbare konjunkturelle Erholung erwartet; die Chemieindustrie durchlaufe die schwierigste Phase seit 25 Jahren.
-- Seit 01.01.2026 ist Kamieth zudem Vorstandsmitglied und Präsident des europäischen Chemieverbands Cefic.
-- Die laufenden Evonik-Sondierungsgespräche sowie die damit verbundene Zusage gegen betriebsbedingte Kündigungen bis 2032 setzen das Management weiterhin unter erhöhte öffentliche Beobachtung.
+- CEO Dr. Markus Kamieth ist seit 01.01.2026 Präsident des europäischen Chemieverbands Cefic und vertritt die Branche zunehmend öffentlich.
+- Kamieth sieht laut älteren, aber weiterhin zitierten Aussagen keine Deindustrialisierung Deutschlands und betont, BASF investiere in Ludwigshafen mehr als an jedem anderen Standort weltweit, auch mehr als in China.
+- Auf dem Wirtschaftstag 2026 (22.05.2026) forderte Kamieth, dass politische Reformabsichten für die europäische Chemieindustrie endlich in reale Entlastungen münden müssten.
+- Zu den Evonik-Sondierungsgesprächen hat sich das Management öffentlich nur zurückhaltend geäußert ("Fortgang und Ausgang sind offen").
 
 ## Finanzielles
-- Q3-Quartalsmitteilung am 28.10.2026 veröffentlicht; konkrete Kennzahlen (Umsatz, EBITDA, Konzernergebnis) waren über die Websuche zum Recherchezeitpunkt noch nicht zugänglich und sollten über die BASF-IR-Seite verifiziert werden.
-- Letzte verifizierte Zahlen weiterhin aus dem Q2-Bericht vom 29.07.2026: Umsatz 17,2 Mrd. EUR (+16% ggü. Vorjahr), EBITDA vor Sondereinflüssen rund 2,4 Mrd. EUR, Konzernergebnis rund 4,1 Mrd. EUR (u.a. durch Vorsteuergewinn aus Coatings-Verkauf an Carlyle).
-- Angehobene Jahresprognose 2026 (Stand Juli): EBITDA vor Sondereinflüssen 6,9–7,7 Mrd. EUR; freier Cashflow 1,5–2,3 Mrd. EUR.
-- Aktienrückkaufprogramm über mehr als 1 Mrd. EUR sowie geplante vorzeitige Rückzahlung von Anleihen/Krediten mit Nominalvolumen von 1,6 Mrd. EUR im dritten Quartal 2026 laut letztem Stand weiterhin in Umsetzung.
+- Jahresprognose 2026 für das EBITDA vor Sondereinflüssen zum zweiten Mal angehoben: neu 7,4–7,8 Mrd. EUR (zuvor 6,9–7,7 Mrd. EUR, ursprünglich 6,2–7,0 Mrd. EUR).
+- Kostensenkungsprogramm: Einsparungen von rund 2,3 Mrd. EUR bis Ende 2026 angestrebt.
+- Sachinvestitionsplanung 2026–2029 um 20% auf rund 13 Mrd. EUR gekürzt.
+- Aktienrückkaufprogramm über bis zu 1 Mrd. EUR läuft von August 2026 bis Ende April 2027 (Anschluss an das Vorgängerprogramm über bis zu 1,5 Mrd. EUR seit November 2025).
 
 ## Strategie & Ausblick
-- Mögliche Übernahme von Evonik weiterhin in der Sondierungsphase; der Ausgang bleibt offen, neue Entwicklungen aus dem aktuellen Zeitraum liegen nicht vor. Bei Zustandekommen wäre dies laut Medienberichten der größte Zukauf in der jüngeren BASF-Geschichte.
-- Zusage gegen betriebsbedingte Kündigungen bis 2032, trotz laufender Fusionsgespräche und Restrukturierung.
-- Vorbereitung eines Börsengangs (Minderheits-IPO) der Agrarsparte Agricultural Solutions mit angestrebter Börsenreife bis Mitte 2027.
-- "CoreShift"-Kostenprogramm mit Ziel von bis zu 20% Einsparungen bei den Cash-Fixkosten im Kerngeschäft bis 2029 (gegenüber 2024-Basis).
-- Neue Standortvereinbarung in Ludwigshafen sieht jährliche Investitionen von mindestens 1,5 Mrd. EUR (Obergrenze 2 Mrd. EUR) bis Ende 2028 vor, verbunden mit Beschäftigungssicherung.
+- Portfoliobereinigung schreitet voran: Verkauf der Lacksparte an Carlyle am 30.06.2026 abgeschlossen, Übernahme von AgBiTech durch BASF Agricultural Solutions am 31.03.2026 abgeschlossen.
+- BASF hat Citi, Deutsche Bank, Goldman Sachs und J.P. Morgan als globale Koordinatoren für einen möglichen Börsengang der Agrarsparte (Agricultural Solutions) beauftragt.
+- Mögliche Großübernahme von Evonik in Sondierung; Ausgang offen, könnte das Chemieportfolio erheblich verändern.
+- Expansionsprojekte laufen weiter: MDI-Kapazitätserweiterung in Geismar, Louisiana (von 380.000 auf rund 600.000 Tonnen/Jahr) soll 2026 in Betrieb gehen; zudem wird eine mögliche MDI-Investition in Indien (Standort Dahej, Gujarat) geprüft.
+- Management rechnet weiterhin nicht mit einer kurzfristigen, signifikanten Erholung der Endmärkte, hält aber am Sparkurs und an selektiven Wachstumsinvestitionen fest.
 
 ## Quellen
-- [BASF Investor Releases](https://www.basf.com/basf/www/global/de/investors/calendar-and-publications/investor-releases)
-- [BASF Pressemitteilungen](https://www.basf.com/basf/www/global/de/media.html)
-- [BASF Wirtschaftspresse | 22. Oktober 2026](https://www.basf.com/global/de/media/news-releases/2026/10/p-26-179)
-- [Amid merger talk, BASF pledges no forced layoffs through 2032 – plasticstoday.com](https://www.plasticstoday.com/materials/amid-merger-talk-basf-pledges-no-forced-layoffs-through-2032)
-- [BASF ist nach gutem Quartal optimistischer für 2026 – suedostschweiz.ch](https://www.suedostschweiz.ch/schweiz-und-welt/basf-ist-nach-gutem-quartal-optimistischer-fuer-2026-2-2090381)
-- [Halbjahreszahlen BASF Gruppe 2026](https://www.basf.com/ch/de/media/news-releases/2026/Halbjahreszahlen-BASF-Gruppe-2026)
-- [BASF confirms exploratory takeover talks with RAG-Stiftung and Evonik – specialchem.com](https://www.specialchem.com/coatings/news/basf-confirms-exploratory-takeover-talks-with-rag-stiftung-and-evonik)
-- [Evonik-Übernahme: Angebotsdetails (Sekundärquelle) – app.getquin.com](https://app.getquin.com/en/post/IERhvgMqMW)
-- [Markus Kamieth neuer Präsident des Cefic – basf.com](https://www.basf.com/be/fr/media/news-releases-basf-belgium/Markus-Kamieth-nouveau-president-du-cefic)
+- [BASF Group Q3 net income declines, updates FY26 guidance – RTTNews](https://www.rttnews.com/3703922/basf-group-q3-net-income-declines-updates-fy26-guidance.aspx?type=qf)
+- [BASF ist nach gutem Quartal optimistischer für 2026 – Südostschweiz](https://www.suedostschweiz.ch/schweiz-und-welt/basf-ist-nach-gutem-quartal-optimistischer-fuer-2026-2-2090381)
+- [Wirtschaftspresse | 28. Oktober 2026 – basf.com](https://www.basf.com/global/de/media/news-releases/2026/10/p-26-180)
+- [Trade News | October 28, 2026 – basf.com](https://www.basf.com/kr/en/media/news-releases/asia-pacific/2026/10/apac-26-120)
+- [BASF Aktie: Umbau im Gange – Börse Express](https://www.boerse-express.com/news/articles/basf-aktie-umbau-im-gange-875840)
+- [CEO of pharma-giant BASF foresees no deindustrialization in Germany – Yahoo Finance](https://finance.yahoo.com/news/ceo-pharma-giant-basf-foresees-160638782.html)
+- [Markus Kamieth, neuer Präsident des Cefic – basf.com](https://www.basf.com/be/fr/media/news-releases-basf-belgium/Markus-Kamieth-nouveau-president-du-cefic)
+- [BASF Aktie: Zwischen Sparkurs und Innovation – Börse Express](https://www.boerse-express.com/news/articles/basf-aktie-zwischen-sparkurs-und-innovation-875332)
+- [BASF investments strategy – basf.com](https://www.basf.com/global/de/investors/basf-at-a-glance/strategy/investments.html)
