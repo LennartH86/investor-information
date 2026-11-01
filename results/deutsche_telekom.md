@@ -1,55 +1,48 @@
-# Deutsche Telekom AG (DTE.DE)
-_Aktualisiert: 29.10.2026 | Zeitraum: 22.10.2026 – 29.10.2026_
+# Deutsche Telekom (DTE.DE)
+_Aktualisiert: 01.11.2026 | Zeitraum: 25.10.2026 – 01.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 26,86 EUR
-- **Aktueller Kurs:** 25,30 EUR
-- **Marktwert:** 1.265,00 EUR
-- **Unrealisierter G/V:** -89,16 EUR (-6,58%)
-- **Portfolioanteil:** 0,80%
+- **Aktueller Kurs:** 26,01 EUR
+- **Marktwert:** 1.300,50 EUR
+- **Unrealisierter G/V:** -53,66 EUR (-3,96%)
+- **Portfolioanteil:** 0,82%
 - **Dividenden erhalten:** 30,00 EUR
-- **Bewertung:** Der Kurs hat sich in der Berichtswoche leicht erholt (von rund 25,06 EUR auf 25,30 EUR), notiert aber weiterhin rund 5,8% unter dem durchschnittlichen Kaufkurs von 26,86 EUR; der unrealisierte Verlust hat sich dadurch leicht auf -89,16 EUR (-6,58%) verringert. Auf Basis der für 2026 avisierten rund 2,20 EUR bereinigtem Ergebnis je Aktie ergibt sich beim aktuellen Kurs ein weiterhin moderates KGV von rund 11,5; zusammen mit dem laufenden Aktienrückkaufprogramm, der stabilen Dividendenpolitik (in dieser Woche sind erstmals 30,00 EUR Dividenden für die Position verbucht) und der angehobenen Jahresprognose bleibt die fundamentale Bewertung attraktiv. "Halten" bleibt die angemessene Einschätzung; eine Neubewertung der Position sollte nach den Q3-Zahlen am 05.11.2026 erfolgen, insbesondere mit Blick auf mögliche neue Aussagen zur T-Mobile-US-Holdingfrage – ein Zukauf erscheint vor diesem Termin nicht zwingend.
+- **Bewertung:** Die Position liegt moderat im Minus, während das Unternehmen operativ auf Kurs bleibt (erhöhte Jahresprognose, laufendes Rückkaufprogramm). Die anstehenden Q3-Zahlen am 05.11.2026 sowie mögliche Neuigkeiten zur T-Mobile-US-Fusion dürften kurzfristig für Kursbewegung sorgen.
 
 ## Aktuelle Meldungen
-- In der Berichtswoche (22.–29.10.2026) wurden weiterhin keine neuen dedizierten operativen Pressemitteilungen von Deutsche Telekom identifiziert; die Suche fand überwiegend Terminankündigungen, Archiv-Einträge und Medienkalender-Einträge.
-- Der Aktienkurs erholte sich in der Woche leicht von rund 25,06 EUR auf 25,30 EUR.
-- Laut Medienkalender fand am 05.10.2026 bereits der "AI Investor Day" in Bonn statt; eine inhaltliche Nachberichterstattung über konkrete Ergebnisse oder Marktreaktionen liegt weiterhin nicht vor.
-- Eine Pressekonferenz zur Eröffnung einer "KI-Fabrik" in München ist im Telekom-Medienkalender verzeichnet; Details zum konkreten Termin und Inhalt wurden in der Recherche nicht bestätigt.
-- Auf MagentaTV startete am 08.10.2026 die Thriller-Serie "Droneland" (mit Oliver Masucci, Sophie Mousel, Sibel Kekilli) – ein Medien-/Entertainment-Thema ohne direkte Kursrelevanz.
-- Das im August 2026 auf bis zu 3 Mrd. EUR aufgestockte Aktienrückkaufprogramm läuft unverändert bis Ende 2026 weiter.
-- Die seit April 2026 laufende Diskussion um eine mögliche Vollübernahme bzw. Holdingstruktur für T-Mobile US bleibt weiterhin ungelöst; neue belastbare Entwicklungen dazu wurden in dieser Berichtswoche nicht gefunden.
-- Die im August 2026 vereinbarte Übernahme der polnischen Glasfaser-/TV-Anbieter Fiberhost und Inea (Unternehmenswert rund 1 Mrd. EUR) steht weiterhin unter Kartellvorbehalt; ein Status-Update für die Berichtswoche liegt nicht vor.
+- Die Veröffentlichung der Quartalsergebnisse für das dritte Quartal 2026 ist für den 05.11.2026 in Bonn angesetzt – zum Zeitpunkt dieses Updates (01.11.2026) liegen noch keine Zahlen vor.
+- Die Telekom hat ihr laufendes Aktienrückkaufprogramm 2026 um bis zu 3 Mrd. Euro aufgestockt (Ad-hoc-Meldung, Datum der Mitteilung nicht eindeutig ermittelbar).
+- Am 15.11.2026 findet mit dem „Telekom Starkick" im Telekom Dome in Bonn eine größere Marketing-/Fußball-Veranstaltung statt (eher PR-relevant als finanziell).
 
 ## Management
-- Keine neuen öffentlichen Auftritte oder Interviews von CEO Tim Höttges in der Berichtswoche identifiziert; die letzten dokumentierten Statements stammen vom "AI Investor Day" am 05.10.2026 in Bonn sowie von der Rede zu den Q1-Zahlen am 13.05.2026.
-- Höttges betonte in früheren Auftritten 2026 wiederholt, es gebe "keine Zukunft ohne KI" für den Konzern; eine aktuelle Fortschreibung dieser Botschaft für die Berichtswoche liegt nicht vor.
-- Der anhaltende Widerstand gegen eine mögliche Holding-Struktur bzw. Komplettübernahme von T-Mobile US – sowohl von der US-Führung als auch von Minderheitsaktionären – setzt das Management weiterhin unter Druck; eine neue Entscheidung oder Positionierung in der Berichtswoche konnte nicht bestätigt werden.
-- Keine neuen Pflichtmeldungen zu Vorstands-Aktientransaktionen in der Berichtswoche gefunden; zuletzt dokumentiert war ein Erhalt von 19.289 Aktien durch Höttges im Rahmen des Share Matching Plans im Mai 2026.
+- CEO Timotheus Höttges führt das Unternehmen weiterhin mit Fokus auf die Strategie-Schwerpunkte KI, Glasfaserausbau und US-Expansion (T-Mobile US).
+- Beim Q1-2026-Earnings-Call betonte Höttges die Bedeutung von KI für die Telekom ("There is no future without AI"); Berichten zufolge wirkte er angesichts der globalen Unsicherheiten eher nachdenklich/gedämpft.
+- Ältere, unbestätigte Berichte (Handelsblatt, zitiert über turi2) spekulierten, dass Höttges' Vertrag 2026 endet und ein früherer Abgang nicht ausgeschlossen sei – hierzu gibt es keine aktuelle Bestätigung aus den Suchergebnissen dieser Woche.
+- Beim Q2-2026-Call trat offenbar auch CFO Christian Illek mit einer eigenen Präsentation zu den Datenzahlen in Erscheinung.
 
 ## Finanzielles
-- Q3-2026-Ergebnisse stehen weiterhin aus; Veröffentlichung ist für den 05.11.2026 angesetzt und rückt damit auf nächste Woche näher.
-- Letzte verfügbare Zahlen (Q2 2026, veröffentlicht 06.08.2026): Konzernumsatz rund 29,9 Mrd. EUR, organisches Wachstum +3,3%; bereinigtes EBITDA AL organisch +7,3% auf 11,8 Mrd. EUR; bereinigtes Ergebnis je Aktie organisch +11,1%, freier Cashflow AL organisch +3,1%.
-- Segmentbild Q2 2026: USA-Umsatz +5,2% auf 19,6 Mrd. EUR, Deutschland +3,5% auf 6,5 Mrd. EUR (u.a. getrieben durch MagentaTV-Nachfrage im Zuge der Fußball-WM-Saison und 161.000 Glasfaser-Neuanschlüsse); Systemgeschäft (Systems Solutions) -13,4% auf 998 Mio. EUR.
-- Jahresprognose 2026 (zuletzt im August 2026 bestätigt/leicht angehoben): bereinigtes EBITDA AL rund 47,5 Mrd. EUR, bereinigtes Ergebnis je Aktie weiterhin bei rund 2,20 EUR, freier Cashflow AL auf rund 20 Mrd. EUR angehoben.
-- Beim aktuellen Kurs von 25,30 EUR ergibt sich auf Basis der avisierten 2,20 EUR EPS ein KGV von rund 11,5 – weiterhin ein moderates Bewertungsniveau im Branchenvergleich.
-- Für die Portfolioposition wurden nun 30,00 EUR Dividenden erhalten (zuvor 0 EUR ausgewiesen); T-Mobile US bleibt laut bisherigen Quartalsberichten der Haupttreiber des Konzernwachstums und der Aktionärsrückzahlungen.
+- Q3 2026: Zahlen werden erst am 05.11.2026 veröffentlicht; zum Stichtag dieses Updates liegen noch keine aktuellen Ergebnisse vor.
+- Nach den Q1-2026-Zahlen (Mai 2026) hob die Telekom ihre Jahresprognose an: bereinigtes EBITDA AL auf rund 47,5 Mrd. Euro (zuvor rund 47,4 Mrd. Euro) und Free Cashflow auf über 19,8 Mrd. Euro (Berichten zufolge später auf rund 20 Mrd. Euro präzisiert).
+- Zum Vergleich Vorjahr (Q3 2025, veröffentlicht November 2025): Konzernumsatz stieg um 1,5% auf 28,9 Mrd. Euro, der Free Cashflow sank um 9,2% auf 5,6 Mrd. Euro; die Dividende für 2025 wurde auf einen Rekordwert von 1,00 Euro je Aktie angehoben.
+- Das Aktienrückkaufprogramm 2026 wurde um bis zu 3 Mrd. Euro aufgestockt, was auf anhaltendes Vertrauen des Managements in die eigene Bewertung hindeutet.
 
 ## Strategie & Ausblick
-- Der "AI Investor Day" (05.10.2026) diente der Konkretisierung der KI-Monetarisierungsstrategie und geplanter Investitionen; eine klare Markteinschätzung der Investoren dazu lässt sich aus der verfügbaren Berichterstattung weiterhin nicht eindeutig ablesen.
-- Glasfaserausbau bleibt zentraler strategischer Baustein, flankiert durch die laufende, kartellrechtlich noch zu genehmigende Übernahme der polnischen Anbieter Fiberhost und Inea.
-- Eine mögliche Neustrukturierung als Holdinggesellschaft bzw. Komplettübernahme von T-Mobile US (Telekom hält aktuell rund 52,8–53% der Anteile, Gesamtbewertung des Deals rund 260 Mrd. USD in der Berichterstattung) bleibt strategisch zentral, ist aber weiterhin mit Unsicherheit und Widerstand (US-Führung, Minderheitsaktionäre, nötige 75%-Mehrheit für eine Kapitalerhöhung) behaftet.
-- T-Mobile US bleibt der wichtigste Wachstums- und Cashflow-Treiber des Konzerns und finanziert sowohl Aktionärsrenditen (Rückkaufprogramm, Dividende) als auch Investitionen in Glasfaser-, Cloud- und KI-Infrastruktur (u.a. geplante "KI-Fabrik" in München).
-- Die anstehenden Q3-Zahlen am 05.11.2026 dürften richtungsweisend für die kurzfristige Kursentwicklung sein, insbesondere mit Blick auf eine mögliche weitere Bestätigung oder Anhebung der Jahresprognose sowie neue Aussagen zur T-Mobile-US-Strukturfrage.
+- Glasfaserausbau: Die Telekom plant laut Berichten Investitionen von insgesamt rund 30 Mrd. Euro bis 2030.
+- Zukauf in Polen: Vereinbarung mit Macquarie Asset Management zum Erwerb der Netzbetreiber Fiberhost und Inea für rund 1 Mrd. Euro; Abschluss bis Ende 2026 geplant, vorbehaltlich kartellrechtlicher Freigaben.
+- Mögliche Komplettübernahme von T-Mobile US: Laut Bloomberg/Reuters (April 2026) prüft die Telekom eine vollständige Zusammenführung mit ihrer US-Tochter (rund 53% Anteil) über eine neue Holdingstruktur mit Aktientausch – dies wäre einer der größten M&A-Deals überhaupt. Die Gespräche befinden sich laut Berichten in einem frühen, unbestätigten Stadium; eine offizielle Stellungnahme von Telekom oder T-Mobile liegt nicht vor. Im Februar 2026 hatte der Konzern noch erklärt, 2026 keine T-Mobile-Aktien verkaufen zu wollen.
+- KI-Strategie: Die Telekom hat ein eigenes "AI Investor Event" abgehalten, um ihre KI-Aktivitäten und den strategischen Ausblick darzustellen; zudem Eröffnung einer "AI Factory" in München.
+- Mögliche weitere Impulse zur T-Mobile-Fusion werden rund um die Q3-Zahlen am 05.11.2026 erwartet.
 
 ## Quellen
-- [Die nächsten Termine im Überblick – Finanzergebnisse Q3 2026](https://www.telekom.com/de/investor-relations/finanzkalender/details/veroeffentlichung-finanzergebnisse-q3-2026-1095114)
-- [Die nächsten Termine im Überblick – AI Investor Day](https://www.telekom.com/de/investor-relations/finanzkalender/details/deutsche-telekom-ai-investor-day-1106372)
-- [Pressekonferenz Eröffnung KI-Fabrik München – Medienkalender](https://www.telekom.com/de/medien/medienkalender/termin-details/pressekonferenz-eroeffnung-ki-fabrik-muenchen-1100826)
-- [Mergers & Acquisitions – telekom.com](https://www.telekom.com/de/investor-relations/aktie/unternehmen/mergers-und-acquisitions)
-- [Second Quarter Report 2026 – telekom.com](https://www.telekom.com/en/media/media-information/archive/second-quarter-report-2026-1106292)
-- [Deutsche Telekom nets in Q2 on US World Cup growth - mobileworldlive.com](https://www.mobileworldlive.com/deutsche-telekom/deutsche-telekom-nets-in-q2-on-us-world-cup-growth/)
-- [Deutsche Telekom grows steadily in turbulent times and raises guidance for 2026 - telekom.com](https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/05/deutsche-telekom-grows-steadily)
-- [DT CEO: 'There is no future without AI' - telecomtv.com](https://telecomtv.com/content/ai/dt-ceo-there-is-no-future-without-ai-55460/)
-- [Deutsche Telekom Seeks to Build No. 1 Carrier With T-Mobile Deal - bgov.com](https://news.bgov.com/mergers-and-acquisitions/deutsche-telekom-said-to-weigh-combination-with-t-mobile-us-1)
-- [Germany's $260 Billion Megadeal Is Worth a Hearing: Chris Hughes - Bloomberg Tax](https://news.bloombergtax.com/tax-insights-and-commentary/t-mobile-has-plenty-to-gain-from-260-billion-idea-chris-hughes)
+- [Finanzkalender – Veröffentlichung Q3 2026](https://www.telekom.com/de/investor-relations/finanzkalender/details/veroeffentlichung-finanzergebnisse-q3-2026-1095114)
+- [Ad-hoc-Mitteilungen – Deutsche Telekom](https://www.telekom.com/en/investor-relations/publications/ad-hoc-disclosures)
+- [Deutsche Telekom raises guidance for 2026 – Advanced Television](https://www.advanced-television.com/?p=284798)
+- [Deutsche Telekom grows steadily in turbulent times and raises guidance for 2026 – telekom.com](https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/05/deutsche-telekom-grows-steadily)
+- [Q1 2026 Speech Höttges (PDF)](https://www.telekom.com/resource/blob/1104802/7816840e45370a373b1b628093bd6235/dl-dtag-q1-speech-hoettges-data.pdf)
+- [DT CEO: "There is no future without AI" – TelecomTV](https://telecomtv.com/content/ai/dt-ceo-there-is-no-future-without-ai-55460/)
+- [Deutsche Telekom Aktie: Milliarden-Zukauf in Polen bis Ende 2026 – boerse-global.de](https://www.boerse-global.de/deutsche-telekom-aktie-milliarden-zukauf-in-polen-bis-ende-2026/821665)
+- [Deutsche Telekom exploring merger with T-Mobile, Bloomberg News reports – Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/deutsche-telekom-exploring-merger-t-182010144.html)
+- [Deutsche Telekom Seeks to Build No. 1 Carrier With T-Mobile Deal – Bloomberg Government](https://news.bgov.com/mergers-and-acquisitions/deutsche-telekom-said-to-weigh-combination-with-t-mobile-us-1)
+- [Deutsche Telekom Aktie: Cashflow-Prognose auf 20 Milliarden angehoben – trading-treff.de](https://trading-treff.de/trading/deutsche-telekom-aktie-cashflow-prognose-auf-20-milliarden-angehoben)
