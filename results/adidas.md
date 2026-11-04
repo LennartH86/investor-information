@@ -1,54 +1,51 @@
-# adidas (ADS.DE)
-_Aktualisiert: 31.10.2026 | Zeitraum: 24.10.2026 – 31.10.2026_
+# adidas AG (ADS.DE)
+_Aktualisiert: 04.11.2026 | Zeitraum: 28.10.2026 – 04.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 20 Aktien
 - **Kaufkurs (Ø):** 140,85 EUR
-- **Aktueller Kurs:** 167,70 EUR
-- **Marktwert:** 3.354,00 EUR
-- **Unrealisierter G/V:** +520,16 EUR (+18,36%)
-- **Portfolioanteil:** 2,13%
+- **Aktueller Kurs:** 168,50 EUR
+- **Marktwert:** 3.370,00 EUR
+- **Unrealisierter G/V:** +536,16 EUR (+18,92%)
+- **Portfolioanteil:** 2,12%
 - **Dividenden erhalten:** 20,62 EUR
-- **Bewertung:** Der Kurs liegt mit +18,36% deutlich über dem Einstandspreis, gestützt durch ein Rekord-Q3 2026 (Umsatz 7,252 Mrd. EUR), eine auf rund 2,5 Mrd. EUR angehobene Gewinnprognose für das Gesamtjahr und die WM-2026-Euphorie rund um die Marke. Da ein Teil des Gewinnsprungs auf einen einmaligen US-Zoll-Rückerstattungseffekt (~200 Mio. EUR) zurückgeht und adidas ab 2027 das langjährige DFB-Sponsoring an Nike verliert, erscheint angesichts der insgesamt starken operativen Dynamik und des laufenden Aktienrückkaufprogramms ein **Halten** der Position sinnvoll; ein Aufstocken sollte die bereits hohe Bewertung nach dem starken Kurslauf berücksichtigen.
+- **Bewertung:** Der Kurs hat sich gegenüber dem Vorzeitraum weiter leicht befestigt (168,50 EUR, +18,92% zum Einstand) und profitiert vom am 29.10.2026 bestätigten Rekord-Q3 (Umsatz 7,252 Mrd. EUR, operativer Gewinn erstmals über 1 Mrd. EUR im Quartal) sowie einer für 2026 auf rund 2,5 Mrd. EUR angehobenen Gewinnprognose; zusätzlich kursierten in der Berichtswoche Meldungen über eine mögliche Dividendenerhöhung um rund 40% auf 2,80 EUR je Aktie und ein unbestätigtes Kaufangebot für die Tochtermarke Reebok (ca. 2,2 Mrd. USD). Da ein Teil des Gewinnsprungs auf einen Einmaleffekt (US-Zoll-Rückerstattung, ca. 200 Mio. EUR) zurückgeht und die Reebok-Meldung sowie der DFB/Nike-Wechsel ab 2027 noch nicht final bestätigt bzw. bereits bekannt sind, erscheint angesichts der insgesamt starken operativen Dynamik und des laufenden Aktienrückkaufprogramms weiterhin ein **Halten** der Position sinnvoll; ein Aufstocken sollte die nach dem Kurslauf bereits gestiegene Bewertung berücksichtigen.
 
 ## Aktuelle Meldungen
-- adidas meldet für das dritte Quartal 2026 ein Rekordergebnis: Umsatz von 7,252 Mrd. EUR, ein Plus von 9% berichtet bzw. 7% währungsbereinigt gegenüber dem Vorjahr; die vollständigen Zahlen waren für den 29. Oktober 2026 angesetzt.
-- adidas Originals stellte gemeinsam mit Willy Chavarria die neue "adiSignature"-Kollektion vor; Verkaufsstart war für den 23./24. Oktober 2026 zum Preis von 300 USD geplant.
-- Die Basketball-Sparte kündigte am 13. Oktober die Rückkehr des Modells "Harden Vol. 1" mit überarbeiteter Hyperboost-Dämpfung an.
-- Am 15. Oktober präsentierte adidas eine neue Kaltwetter-Golfbekleidungslinie mit Soft-Knit-Material und CLIMAWARM+-Isolierung.
-- Eine Deichmann-Kollaborationskollektion wurde in rund 4.600 Filialen gelistet.
+- adidas bestätigte am 29.10.2026 die Rekordzahlen für das dritte Quartal 2026: Umsatz 7,252 Mrd. EUR (+9% berichtet / +7% währungsbereinigt), operativer Gewinn mit über 1 Mrd. EUR erstmals über der Milliarden-Marke in einem Quartal.
+- Berichten zufolge soll eine Dividendenerhöhung um rund 40% auf 2,80 EUR je Aktie geplant bzw. in Diskussion sein (Angabe aus Sekundärquelle, nicht unabhängig bestätigt).
+- Eine spanischsprachige Quelle berichtet unter Verweis auf das Wall Street Journal über ein Kaufangebot einer Investorengruppe (u.a. Jynwel Capital, Fonds mit Bezug zu Abu Dhabi) für die adidas-Tochter Reebok in Höhe von ca. 2,2 Mrd. USD; das Datum der Meldung (Mitte/Ende Oktober 2026) konnte nicht unabhängig verifiziert werden, daher mit Vorsicht zu behandeln.
+- Keine neuen, eindeutig auf November 2026 datierten Pressemitteilungen von adidas selbst gefunden; laut Finanzkalender ist der nächste reguläre Berichtstermin uneinheitlich angegeben (teils 10./11.11.2026 genannt), was auf veraltete Kalendereinträge hindeuten könnte, da die Q3-Zahlen bereits am 29.10.2026 veröffentlicht wurden.
+- Weiterhin laufende Produktthemen aus dem Umfeld der Vorwoche (adiSignature-Kollektion mit Willy Chavarria, Deichmann-Kollaboration, Harden Vol. 1-Relaunch) ohne neue Entwicklungen in der Berichtswoche.
 
 ## Management
-- CEO Bjørn Gulden hat laut Berichten vom März 2026 einen bis Ende 2030 verlängerten Vertrag; zum Q2-Ergebnis äußerte er sich sehr positiv ("I do not think we could have scripted it better").
-- Birgit Kretschmer wurde als neue CFO von adidas genannt (im Zusammenhang mit der im Juli 2026 angehobenen Jahresprognose).
-- Nassef Sawiris, seit 2016 im Aufsichtsrat, wird als größter Einzelaktionär mit einem Anteil von rund 6% beschrieben; eine mögliche stärkere strategische Rolle wird in mehreren Quellen thematisiert, ist aber nicht abschließend bestätigt.
+- CEO Bjørn Gulden führt adidas laut bestätigtem Vertrag bis Ende 2030; sein zuletzt öffentlich sehr positiver Ausblick auf das operative Geschäft bleibt unverändert.
+- Nassef Sawiris, größter Einzelaktionär (ca. 6%), wurde als neuer Aufsichtsratsvorsitzender vorgeschlagen; eine Bestätigung durch die Hauptversammlung liegt den Quellen zufolge noch nicht abschließend vor.
+- Birgit Kretschmer wird in Quellen weiterhin als CFO im Zusammenhang mit der angehobenen Jahresprognose genannt.
 
 ## Finanzielles
-- Q3 2026: Umsatz 7,252 Mrd. EUR (+9% berichtet / +7% währungsbereinigt) – Rekordquartal für adidas.
+- Q3 2026 (bestätigt 29.10.2026): Umsatz 7,252 Mrd. EUR (+9% berichtet / +7% währungsbereinigt); operativer Gewinn rund 37% höher als im Vorjahr und erstmals über 1 Mrd. EUR im Quartal.
 - Der operative Gewinn wurde durch eine US-Zollrückerstattung von rund 200 Mio. EUR sowie eine höhere Bruttomarge gestützt.
-- Die Jahresprognose für das operative Ergebnis 2026 wurde von rund 2,3 Mrd. EUR auf rund 2,5 Mrd. EUR angehoben (eine Quelle nennt inklusive Zolleffekt sogar 2,6 Mrd. EUR).
-- Der Umsatzausblick für 2026 wurde bei einem währungsbereinigten Wachstum von 9–10% bestätigt.
-- Ein Aktienrückkaufprogramm von bis zu 1 Mrd. EUR läuft bis Ende 2026 (gestartet im Februar 2026), finanziert aus dem starken operativen Cashflow.
-- Q1 2026: währungsbereinigter Umsatzanstieg von 14% gegenüber Vorjahr, Zahlen übertrafen Analystenerwartungen. Q2 2026: Umsatz von rund 6,7–6,74 Mrd. EUR, ebenfalls +14% währungsbereinigt, laut einer Quelle jedoch mit einem leichten Gewinn-Fehlbetrag gegenüber Erwartungen.
+- Jahresprognose 2026 für das operative Ergebnis auf rund 2,5 Mrd. EUR angehoben (zuvor rund 2,3 Mrd. EUR); Umsatzausblick bei währungsbereinigt 9–10% Wachstum bestätigt.
+- Unbestätigter Hinweis auf eine mögliche Dividendenerhöhung um ca. 40% auf 2,80 EUR je Aktie (Quelle nicht eindeutig datiert/verifiziert).
+- Aktienrückkaufprogramm von bis zu 1 Mrd. EUR läuft weiter bis Ende 2026, finanziert aus dem starken operativen Cashflow.
 
 ## Strategie & Ausblick
-- Die Fußball-Weltmeisterschaft 2026 (Nordamerika) wird als wesentlicher Wachstumstreiber für adidas im laufenden Jahr genannt; ein Report bezeichnet das WM-Finale als möglichen "Wendepunkt" für die Marke.
-- adidas wird laut einer Meldung "Official Future Partner" der Bundesliga, verliert aber einer anderen Meldung zufolge ab 2027 das langjährige Ausrüster-Sponsoring der deutschen Nationalmannschaft (DFB) an Nike – ein strategisch bedeutsamer Wechsel im deutschen Fußballgeschäft.
-- Fortsetzung der Premiumisierungs- und Lifestyle-Strategie durch Kollaborationen (Willy Chavarria/adiSignature, Deichmann, Bad Bunny x Gazelle).
-- Kapitalrückführung an Aktionäre über laufendes Rückkaufprogramm bleibt Teil der Strategie neben organischem Wachstum.
+- Die Fußball-Weltmeisterschaft 2026 bleibt zentraler Wachstumstreiber; Rekordquartal und angehobene Prognose werden von mehreren Quellen auch auf die WM-Euphorie zurückgeführt.
+- Ein möglicher Verkauf der Marke Reebok (Kaufangebot ca. 2,2 Mrd. USD durch Investorengruppe) könnte, sollte er sich bestätigen, zu einer weiteren Portfoliobereinigung und Fokussierung auf die Kernmarke adidas führen; dies ist derzeit aber unbestätigt.
+- adidas verliert ab 2027 das langjährige DFB-Ausrüster-Sponsoring an Nike, wird laut anderer Meldung aber "Official Future Partner" der Bundesliga – ein strategisch bedeutsamer, aber bereits bekannter Wechsel im deutschen Fußballgeschäft.
+- Fortsetzung der Premiumisierungs- und Lifestyle-Strategie über Kollaborationen sowie Kapitalrückführung an Aktionäre (Rückkaufprogramm, möglicherweise erhöhte Dividende) bleiben zentrale strategische Eckpunkte.
 
 ## Quellen
-- [adidas Boot Calendar – footyheadlines.com](https://www.footyheadlines.com/adidas-boot-calendar/?section=Released)
 - [adidas achieves record 1 billion quarterly operating profit, upgrades 2026 forecast – footyheadlines.com](https://www.footyheadlines.com/9784909339/adidas-achieves-record-1-billion-quarterly-operating-profit-upgrades-2026-forecast.html)
+- [Adidas steigert Rekordgewinn – ms-aktuell.de](https://ms-aktuell.de/welt/adidas-quartalszahlen-29-10-2026/)
+- [Adidas-Aktie auf Höhenflug: WM-Euphorie trifft starke Quartalszahlen – cash-online.de](https://www.cash-online.de/a/adidas-aktie-auf-hoehenflug-wm-euphorie-trifft-starke-quartalszahlen-718969/)
 - [adidas rekordquartal q3 2026 gewinnprognose – retail-news.de](https://retail-news.de/adidas-rekordquartal-q3-2026-gewinnprognose/)
-- [Adidas schraubt Prognose nach Rekord-Quartal nach oben – fashionunited.de](https://fashionunited.de/nachrichten/business/adidas-schraubt-prognose-nach-rekord-quartal-nach-oben/2026102069007)
-- [Adidas: 400 Millionen Euro Zoll-Belastung erwartet – boerse-express.com](https://www.boerse-express.com/news/articles/adidas-400-millionen-euro-zoll-belastung-erwartet-899524)
-- [Adidas Aktie: Großaktionär übernimmt Kontrolle – boerse-express.com](https://www.boerse-express.com/news/articles/adidas-aktie-grossaktionaer-uebernimmt-kontrolle-880728)
-- [Adidas-Aktie: Nassef Sawiris wird größter Investor – cairoscene.com](https://cairoscene.com/Business/Sawiris-Becomes-Adidas-Largest-Investor)
+- [Adidas schraubt Prognose nach Rekord-Quartal nach oben – textilwirtschaft.de](https://www.textilwirtschaft.de/data-markets/adidas-schraubt-prognose-nach-rekord-quartal-nach-oben-433574)
+- [adidas hebt nach Rekordquartal die Prognose an – stock3.com](https://stock3.com/news/adidas-hebt-nach-rekordquartal-die-prognose-an-17342030)
+- [Inversores quieren comprar Reebok – sitioandino.com.ar](https://www.sitioandino.com.ar/n/136012-inversores-quieren-comprar-reebok)
 - [Adidas Aktie: Nike übernimmt DFB ab 2027 – boerse-express.com](https://www.boerse-express.com/news/articles/adidas-aktie-nike-uebernimmt-dfb-ab-2027-921659)
 - [Adidas: Official Future Partner der Bundesliga – boerse-express.com](https://www.boerse-express.com/news/articles/adidas-official-future-partner-der-bundesliga-900489)
-- [Adidas Aktie: WM-Finale als Wendepunkt? – boerse-express.com](https://www.boerse-express.com/news/articles/adidas-aktie-wm-finale-als-wendepunkt-928828)
-- [Adidas Aktie: Milliarden-Plan läuft – boerse-express.com](https://www.boerse-express.com/news/articles/adidas-aktie-milliarden-plan-laeuft-870313)
-- [adidas aktie adisignature startet mit chavarria – trading-treff.de](https://trading-treff.de/aktien/adidas-aktie-adisignature-startet-mit-chavarria)
-- [Adidas Q1 2026 earnings beat expectations on strong demand – finance.yahoo.com](https://finance.yahoo.com/markets/stocks/articles/adidas-q1-2026-earnings-beat-112839812.html)
+- [adidas extends CEO Bjorn Gulden contract to 2030, proposes new chairman – sgbonline.com](https://sgbonline.com/adidas-extends-ceo-bjorn-gulden-contract-to-2030-proposes-new-chairman/)
+- [Adidas AG Finanzkalender – marketscreener.com](https://sa.marketscreener.com/quote/stock/ADIDAS-435521/calendar/)
 - [adidas Media Newsroom – adidas-group.com](https://www.adidas-group.com/en/media)
