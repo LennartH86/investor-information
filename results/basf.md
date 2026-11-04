@@ -1,50 +1,50 @@
-# BASF (BAS.DE)
-_Aktualisiert: 01.11.2026 | Zeitraum: 25.10.2026 – 01.11.2026_
+# BASF SE (BAS.DE)
+_Aktualisiert: 04.11.2026 | Zeitraum: 28.10.2026 – 04.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 44,25 EUR
-- **Aktueller Kurs:** 53,31 EUR
-- **Marktwert:** 2.665,50 EUR
-- **Unrealisierter G/V:** +437,66 EUR (+19,65%)
-- **Portfolioanteil:** 1,69%
+- **Aktueller Kurs:** 53,18 EUR
+- **Marktwert:** 2.659,00 EUR
+- **Unrealisierter G/V:** +431,16 EUR (+19,35%)
+- **Portfolioanteil:** 1,68%
 - **Dividenden erhalten:** 165,66 EUR
-- **Bewertung:** Die Position liegt mit knapp 20% deutlich im Plus, gestützt durch die am 28.10.2026 veröffentlichten, über den Erwartungen liegenden Q3-Zahlen und die zweite Anhebung der Jahresprognose 2026 in Folge. Die laufende Restrukturierung, Portfoliobereinigung (Carlyle-Lackverkauf, möglicher Agrar-IPO) und die Evonik-Sondierungsgespräche sind zusätzliche kurzfristige Kurstreiber, bergen aber auch Unsicherheit.
+- **Bewertung:** Die Position bleibt mit rund +19% klar im Plus, der Kurs hat sich gegenüber der Vorwoche leicht abgeschwächt (53,31 → 53,18 EUR), nachdem die Q3-Zahlen und die zweite Prognoseanhebung bereits eingepreist wurden. Operativ läuft es mit steigendem EBITDA und angehobener Jahresprognose solide, belastet jedoch durch ein negatives EBIT infolge einer Monomers-Abschreibung; die offenen Evonik-Sondierungsgespräche und der Umbau des Portfolios sorgen weiterhin für Unsicherheit. Angesichts der bereits deutlichen Kursgewinne und der laufenden Restrukturierung erscheint ein Halten der Position derzeit sinnvoller als eine Aufstockung.
 
 ## Aktuelle Meldungen
-- Q3-2026-Zahlen am 28.10.2026 veröffentlicht: Umsatz 16,4 Mrd. EUR (Vorjahr 14,3 Mrd. EUR), EBITDA vor Sondereinflüssen 1,6 Mrd. EUR (Vorjahr 1,4 Mrd. EUR).
-- EBIT mit -98 Mio. EUR negativ (Vorjahr +232 Mio. EUR), belastet durch eine Abschreibung von 318 Mio. EUR im Segment Monomers.
-- Konzernergebnis nach Steuern und Minderheiten: 155 Mio. EUR (Vorjahr 172 Mio. EUR); Ergebnis je Aktie 0,18 EUR, bereinigt 0,72 EUR.
-- Free Cashflow 523 Mio. EUR, 125 Mio. EUR über Vorjahresniveau.
-- BASF bestätigt Sondierungsgespräche mit der RAG-Stiftung und Evonik zu einer möglichen Übernahme von Evonik; Fortgang und Ausgang sind laut BASF derzeit offen, ein erstes Angebot soll bereits abgelehnt worden sein.
-- Kein offizielles Pressematerial mit Datum nach dem 28.10.2026 in der Recherche gefunden; die Lage spiegelt den Stand zum Stichtag 01.11.2026.
+- Keine neue Pressemitteilung mit Datum nach dem 28.10.2026 gefunden; der Nachrichtenfluss der Berichtswoche wird weiterhin von den Q3-Zahlen vom 28.10.2026 dominiert.
+- Personalwechsel: Sören Bauermann übernimmt zum 01.11.2026 den Unternehmensbereich Corporate Legal, Compliance, Insurance & Security in Ludwigshafen; die bisherige Bereichsleiterin Silke Wischeropp hat das Unternehmen verlassen.
+- Inmitten der Übernahmespekulationen um Evonik hat BASF laut Berichten vom 22.10.2026 zugesagt, bis 2032 auf betriebsbedingte Kündigungen zu verzichten ("no forced layoffs through 2032").
+- Q3-2026-Kennzahlen (veröffentlicht 28.10.2026) weiterhin aktuell: Umsatz 16,4 Mrd. EUR (Vorjahr 14,3 Mrd. EUR), EBITDA vor Sondereinflüssen 1,6 Mrd. EUR (+15%).
 
 ## Management
-- CEO Dr. Markus Kamieth ist seit 01.01.2026 Präsident des europäischen Chemieverbands Cefic und vertritt die Branche zunehmend öffentlich.
-- Kamieth sieht laut älteren, aber weiterhin zitierten Aussagen keine Deindustrialisierung Deutschlands und betont, BASF investiere in Ludwigshafen mehr als an jedem anderen Standort weltweit, auch mehr als in China.
-- Auf dem Wirtschaftstag 2026 (22.05.2026) forderte Kamieth, dass politische Reformabsichten für die europäische Chemieindustrie endlich in reale Entlastungen münden müssten.
-- Zu den Evonik-Sondierungsgesprächen hat sich das Management öffentlich nur zurückhaltend geäußert ("Fortgang und Ausgang sind offen").
+- CEO Dr. Markus Kamieth bekräftigt im Umfeld der Evonik-Gespräche die Zusage, bis 2032 keine betriebsbedingten Kündigungen vorzunehmen – ein Signal an die Belegschaft inmitten der Restrukturierung.
+- Personalwechsel auf Bereichsleiterebene: Sören Bauermann (Corporate Legal, Compliance, Insurance & Security) löst Silke Wischeropp zum 01.11.2026 ab.
+- Kamieth bleibt zudem Präsident des europäischen Chemieverbands Cefic und vertritt die Branche öffentlich bei der Forderung nach regulatorischen Entlastungen.
+- Zu den Evonik-Sondierungsgesprächen äußert sich das Management weiterhin zurückhaltend; Fortgang und Ausgang seien offen.
 
 ## Finanzielles
 - Jahresprognose 2026 für das EBITDA vor Sondereinflüssen zum zweiten Mal angehoben: neu 7,4–7,8 Mrd. EUR (zuvor 6,9–7,7 Mrd. EUR, ursprünglich 6,2–7,0 Mrd. EUR).
-- Kostensenkungsprogramm: Einsparungen von rund 2,3 Mrd. EUR bis Ende 2026 angestrebt.
-- Sachinvestitionsplanung 2026–2029 um 20% auf rund 13 Mrd. EUR gekürzt.
-- Aktienrückkaufprogramm über bis zu 1 Mrd. EUR läuft von August 2026 bis Ende April 2027 (Anschluss an das Vorgängerprogramm über bis zu 1,5 Mrd. EUR seit November 2025).
+- Q3 2026: Umsatz 16,4 Mrd. EUR (Vorjahr 14,3 Mrd. EUR); EBIT mit -98 Mio. EUR negativ (Vorjahr +232 Mio. EUR), belastet durch eine Abschreibung von 318 Mio. EUR im Segment Monomers; Konzernergebnis 155 Mio. EUR, Ergebnis je Aktie 0,18 EUR (bereinigt 0,72 EUR); Free Cashflow 523 Mio. EUR (+125 Mio. EUR ggü. Vorjahr).
+- Zum Vergleich H1 2026: EBITDA vor Sondereinflüssen stieg um 715 Mio. EUR auf 4,8 Mrd. EUR; Q2 2026 Free Cashflow war mit -189 Mio. EUR noch negativ.
+- Kostensenkungsprogramm: Einsparungen von rund 2,3 Mrd. EUR bis Ende 2026 angestrebt; Sachinvestitionsplanung 2026–2029 um 20% auf rund 13 Mrd. EUR gekürzt.
+- Aktienrückkaufprogramm über bis zu 1 Mrd. EUR läuft von August 2026 bis Ende April 2027.
 
 ## Strategie & Ausblick
-- Portfoliobereinigung schreitet voran: Verkauf der Lacksparte an Carlyle am 30.06.2026 abgeschlossen, Übernahme von AgBiTech durch BASF Agricultural Solutions am 31.03.2026 abgeschlossen.
-- BASF hat Citi, Deutsche Bank, Goldman Sachs und J.P. Morgan als globale Koordinatoren für einen möglichen Börsengang der Agrarsparte (Agricultural Solutions) beauftragt.
-- Mögliche Großübernahme von Evonik in Sondierung; Ausgang offen, könnte das Chemieportfolio erheblich verändern.
-- Expansionsprojekte laufen weiter: MDI-Kapazitätserweiterung in Geismar, Louisiana (von 380.000 auf rund 600.000 Tonnen/Jahr) soll 2026 in Betrieb gehen; zudem wird eine mögliche MDI-Investition in Indien (Standort Dahej, Gujarat) geprüft.
-- Management rechnet weiterhin nicht mit einer kurzfristigen, signifikanten Erholung der Endmärkte, hält aber am Sparkurs und an selektiven Wachstumsinvestitionen fest.
+- Mögliche Großübernahme von Evonik weiterhin in der Schwebe: BASF bestätigte am 25.09.2026 Sondierungsgespräche mit der RAG-Stiftung (rund 44% Evonik-Anteil) und Evonik; ein erstes, unbestätigtes Angebot (laut Marktberichten rund 22,15 EUR/Aktie bzw. ca. 10,3 Mrd. EUR) soll bereits abgelehnt worden sein. Ausgang weiterhin offen.
+- Im Zuge der Übernahmespekulation hat BASF Beschäftigungssicherheit bis 2032 zugesagt, um Sorgen vor Stellenabbau bei Evonik/BASF zu adressieren.
+- Portfoliobereinigung läuft weiter: Lackverkauf an Carlyle (30.06.2026) und AgBiTech-Übernahme (31.03.2026) abgeschlossen; zusätzlich volle Kontrolle über das Alsachimie-Joint-Venture durch Übernahme des Domo-Chemicals-Anteils (49%) sowie Verkauf des Silikate-Geschäfts an PQ und der Hydrosulfit-Aktivitäten an die Silox Group.
+- Möglicher Börsengang der Agrarsparte (Agricultural Solutions) wird mit Citi, Deutsche Bank, Goldman Sachs und J.P. Morgan als Koordinatoren weiter vorbereitet.
+- Expansionsprojekte laufen weiter: MDI-Kapazitätserweiterung in Geismar, Louisiana, soll 2026 in Betrieb gehen; eine mögliche MDI-Investition in Indien (Dahej, Gujarat) wird geprüft. Management erwartet weiterhin keine kurzfristige, signifikante Erholung der Endmärkte.
 
 ## Quellen
-- [BASF Group Q3 net income declines, updates FY26 guidance – RTTNews](https://www.rttnews.com/3703922/basf-group-q3-net-income-declines-updates-fy26-guidance.aspx?type=qf)
-- [BASF ist nach gutem Quartal optimistischer für 2026 – Südostschweiz](https://www.suedostschweiz.ch/schweiz-und-welt/basf-ist-nach-gutem-quartal-optimistischer-fuer-2026-2-2090381)
+- [Trade News | October 26, 2026 – basf.com](https://www.basf.com/global/en/media/news-releases/2026/10/p-26-188)
 - [Wirtschaftspresse | 28. Oktober 2026 – basf.com](https://www.basf.com/global/de/media/news-releases/2026/10/p-26-180)
-- [Trade News | October 28, 2026 – basf.com](https://www.basf.com/kr/en/media/news-releases/asia-pacific/2026/10/apac-26-120)
-- [BASF Aktie: Umbau im Gange – Börse Express](https://www.boerse-express.com/news/articles/basf-aktie-umbau-im-gange-875840)
-- [CEO of pharma-giant BASF foresees no deindustrialization in Germany – Yahoo Finance](https://finance.yahoo.com/news/ceo-pharma-giant-basf-foresees-160638782.html)
-- [Markus Kamieth, neuer Präsident des Cefic – basf.com](https://www.basf.com/be/fr/media/news-releases-basf-belgium/Markus-Kamieth-nouveau-president-du-cefic)
-- [BASF Aktie: Zwischen Sparkurs und Innovation – Börse Express](https://www.boerse-express.com/news/articles/basf-aktie-zwischen-sparkurs-und-innovation-875332)
-- [BASF investments strategy – basf.com](https://www.basf.com/global/de/investors/basf-at-a-glance/strategy/investments.html)
+- [BASF Group Q3: solidité des activités principales – basf.com (FR)](https://www.basf.com/ch/fr/media/news-releases/2026/La-solidit--de-l-ensemble-des-activit-s-principales-se-traduit-par-une-croissance-significative-de-l-EBITDA-avant--l-ments-exceptionnels-du-groupe-BASF)
+- [Amid merger talk, BASF pledges no forced layoffs through 2032 – PlasticsToday](https://www.plasticstoday.com/materials/amid-merger-talk-basf-pledges-no-forced-layoffs-through-2032)
+- [BASF confirms exploratory takeover talks with RAG-Stiftung and Evonik – SpecialChem](https://www.specialchem.com/coatings/news/basf-confirms-exploratory-takeover-talks-with-rag-stiftung-and-evonik)
+- [BASF ist nach gutem Quartal optimistischer für 2026 – Südostschweiz](https://www.suedostschweiz.ch/schweiz-und-welt/basf-ist-nach-gutem-quartal-optimistischer-fuer-2026-2-2090381)
+- [Wirtschaftspresse | 29. Juli 2026 (Halbjahreszahlen) – basf.com](https://www.basf.com/global/de/media/news-releases/2026/07/p-26-123)
+- [BASF Agricultural Solutions Completes Acquisition of AgBiTech – American Ag Network](https://www.americanagnetwork.com/?p=101146)
+- [Full acquisition of Alsachimie JV – man-made-fibers.textiletechnology.net](https://man-made-fibers.textiletechnology.net/news/full-acquisition-of-alsachimie-jv-205851)
+- [Interview: BASF CEO says doubling down on China "right decision" – The Star](https://www.thestar.com.my/news/world/2026/03/04/interview-basf-ceo-says-doubling-down-on-china-right-decision)
