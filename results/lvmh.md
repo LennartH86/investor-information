@@ -1,52 +1,50 @@
-# LVMH Moët Hennessy Louis Vuitton (MC.PA)
-_Updated: 03.11.2026 | Period: 27.10.2026 – 03.11.2026_
+# LVMH - Louis Vuitton Moët Hennessy (MC.PA)
+_Aktualisiert: 06.11.2026 | Zeitraum: 30.10.2026 – 06.11.2026_
 
-## Portfolio Analysis
-- **Position:** 9 shares
-- **Avg. purchase price:** 594.89 EUR
-- **Current price:** 393.65 EUR
-- **Market value:** 3,542.85 EUR
-- **Unrealized gain/loss:** -1,862.63 EUR (-34.46%)
-- **Portfolio weight:** 2.23%
-- **Dividends received:** 109.86 EUR
-- **Assessment:** The position is down sharply (-34.46%) from the average entry price, reflecting the broader luxury-sector slowdown (China weakness, Middle East conflict disruption, negative currency effects) that has weighed on LVMH shares through 2026, despite the group returning to modest organic growth (+2% for the first nine months). With revenue growth stabilizing, deleveraging underway, record cash flow, and the dividend maintained (interim dividend of €5.50 due 03.12.2026), a long-term investor may lean toward **Hold** rather than realizing the loss, though the recovery in Fashion & Leather Goods (still organically negative) remains the key variable to watch before considering adding to the position.
+## Portfolio-Analyse
+- **Position:** 9 Aktien
+- **Kaufkurs (Ø):** 594.89 EUR
+- **Aktueller Kurs:** 414.65 EUR
+- **Marktwert:** 3731.85 EUR
+- **Unrealisierter G/V:** -1673.63 EUR (-30.96%)
+- **Portfolioanteil:** 2.37%
+- **Dividenden erhalten:** 109.86 EUR
+- **Bewertung:** Die Aktie hat sich seit letzter Woche leicht erholt (Kurs von 393.65 EUR auf 414.65 EUR), bleibt aber mit -30.96% deutlich unter dem Einstandskurs, belastet durch die anhaltende China-Schwäche und die schwache Entwicklung bei Fashion & Leather Goods (Q3 organisch -5%). Belastbare Multiples (KGV/KBV) lagen in der Recherche nicht vor, doch die stabile Dividendenpolitik (Interimsdividende 5.50 EUR, Zahlung 03.12.2026) und die Rückkehr zu organischem Wachstum (+2% in den ersten neun Monaten) sprechen für **Halten**; eine Aufstockung erscheint erst sinnvoll, wenn sich die Erholung bei Mode & Lederwaren bestätigt.
 
-## Recent News
-- No LVMH press release or news item dated within the 27.10.2026–03.11.2026 window was found; the most recent confirmed company news is the Q3 2026 trading update published 12.10.2026.
-- Q3 2026 update (12.10.2026): nine-month group revenue of approximately €57.1 billion, with organic growth of +2%, as growth continued but was tempered by weakness in China. French headline: "LVMH : poursuite de la croissance au troisième trimestre 2026."
-- Watches & Jewelry was the standout division over the first nine months, with +8% organic growth driven by strong jewelry performance; Fashion & Leather Goods, the group's largest profit contributor, remained organically negative (roughly -2%).
-- Other recent company items: Julie Kegels named winner of the 2026 LVMH Prize; Nike appointed Alexandre Arnault to its board; Matthieu Soudan appointed managing director of Repossi; the "Journées Particulières" open-house event returned in October 2026.
-- LVMH continues recurring share buyback transaction disclosures ("Déclaration des transactions sur actions propres"), most recently covering early August 2026 in the sources found; no November disclosure was located.
+## Aktuelle Meldungen
+- Für den Zeitraum 30.10.–06.11.2026 wurde keine neue offizielle LVMH-Pressemitteilung gefunden; die letzte bestätigte Unternehmensmeldung bleibt das Q3-Trading-Update vom 12.10.2026 ("LVMH: poursuite de la croissance au troisième trimestre 2026" / "Continued growth in the third quarter of 2026").
+- Q3 2026: Konzernumsatz von 18.504 Mrd. EUR (Vorjahr 18.280 Mrd. EUR), organisches Wachstum +1% (unter den Analystenerwartungen von rund +1.3%); Neunmonatsumsatz 57.148 Mrd. EUR, organisch +2%, berichtet -2%.
+- Fashion & Leather Goods bleibt Schwachstelle: Quartalsumsatz 8.245 Mrd. EUR, organisch -5%, vor allem wegen schwacher chinesischer Nachfrage; Watches & Jewelry (+6%) und Wines & Spirits (+6%) entwickelten sich im Q3 deutlich besser.
+- US-notierte LVMH-Aktien fielen nach Veröffentlichung der Q3-Zahlen um mehr als 3%.
+- LVMH veröffentlicht weiterhin regelmäßige Meldungen zu Aktienrückkäufen ("Déclaration des transactions sur actions propres"); eine Meldung für November 2026 wurde in der Recherche nicht gefunden.
 
 ## Management
-- CEO/Chairman Bernard Arnault reiterated at the AGM (April 2026) that succession discussions remain "7-8 years" away, and a March 2026 bylaw change allows him to continue leading the group until age 85.
-- Arnault linked the 2026 outlook heavily to geopolitical conditions, noting that a swift resolution of the Middle East conflict would support a second-half recovery, while prolonged tension would pressure results.
-- In French-language commentary ("Bernard Arnault se raconte dans un podcast," LEGEND, June 2026), Arnault discussed the company's history, including the 1984 acquisition of the bankrupt Boussac group that laid the foundation for LVMH.
-- Arnault has publicly criticized French corporate tax policy (notably a surtax on large company profits) as a drag on competitiveness, and separately commented (Fortune, July 2026) on a past Netflix stake sold too early, while denying family succession tensions.
+- CEO/Chairman Bernard Arnault bekräftigte auf der Hauptversammlung im April 2026, dass eine Nachfolgediskussion noch "7-8 Jahre" entfernt sei; eine Satzungsänderung erlaubt es ihm, bis zum Alter von 85 Jahren die Gruppe zu leiten (Fortune, März 2026).
+- Arnault verknüpfte den Jahresausblick 2026 stark mit der geopolitischen Lage im Nahen Osten und warnte, eine Eskalation könne zu einer globalen wirtschaftlichen Katastrophe führen, während eine rasche Lösung die zweite Jahreshälfte stützen würde.
+- Berichten zufolge kaufte Bernard Arnault nach dem kursschwachen Q3-Bericht Aktien im Wert von rund 407 Mio. EUR (ca. 440 Mio. USD) zu, um den Familienanteil 2026 wie angekündigt auf über 50% zu erhöhen (aktuell ca. 49%).
+- Personalwechsel: Matthieu Soudan wurde zum Managing Director von Repossi ernannt; Alexandre Arnault wurde in den Nike-Verwaltungsrat berufen.
 
-## Financials
-- First nine months 2026: revenue of ~€57.1 billion (vs. ~€58.1 billion prior year), organic growth +2%.
-- First half 2026: revenue of €38.6 billion, organic growth +2% but reported revenue down -3% due to a -5% currency headwind; profit from recurring operations of €8.7 billion; free cash flow of €4.1 billion.
-- Q2 2026 standalone: revenue of €19.5 billion, +3% organic growth (management noted growth would have been +4% excluding the Middle East conflict impact); Q1 2026: revenue of €19.12 billion, +1% organic growth.
-- The group entered 2026 citing record cash flow (€11.3 billion) and continued deleveraging following debt taken on for the Tiffany & Co. acquisition; the dividend has been maintained, with an interim dividend of €5.50 per share payable 03.12.2026.
-- No new standalone P/E or P/B figures were found in this search round; given the share's roughly -34% drawdown from the portfolio's average cost, the stock is trading well below its historical valuation multiples, though absolute multiples were not confirmed in the sources reviewed.
+## Finanzielles
+- Neunmonatsumsatz 2026: ca. 57.1 Mrd. EUR (Vorjahr ca. 58.1 Mrd. EUR), organisches Wachstum +2%.
+- H1 2026: Umsatz 38.6 Mrd. EUR, organisch +2%, berichtet -3% (Währungseffekt -5%); laufendes Betriebsergebnis 8.7 Mrd. EUR; freier Cashflow 4.1 Mrd. EUR.
+- Interimsdividende von 5.50 EUR pro Aktie, zahlbar am 03.12.2026; Konzern verweist weiterhin auf hohen Cashflow (2025: 11.3 Mrd. EUR) und fortschreitenden Schuldenabbau nach der Tiffany-&-Co.-Übernahme.
+- Konkrete aktuelle KGV-/KBV-Kennzahlen wurden in dieser Recherche nicht gefunden; der Kurs liegt weiterhin deutlich (ca. -31%) unter dem Portfolio-Einstandskurs.
 
-## Strategy & Outlook
-- Management continues to frame 2026 growth as resilient but fragile, citing an "uncertain" geopolitical and economic environment, with the Middle East conflict and Chinese demand cited as the main swing factors for the balance of the year.
-- Portfolio strategy during 2026 skewed toward selective divestment and smaller bolt-on investments rather than large acquisitions: LVMH agreed to sell Marc Jacobs to WHP Global (~$1 billion deal, including a $500 million G-III investment) in May 2026, and completed earlier minority-stake investments (e.g., knitwear brand Molli via LVMH Luxury Ventures, eyewear brand Mykita via Thélios).
-- No major new acquisition was identified for 2026 in this research round; the group's capital allocation emphasis appears to be deleveraging and shareholder returns (maintained/increased dividend) rather than large M&A.
-- Analysts flagged that H2 2026 comparisons are tougher, making it a key test of whether the recent organic growth recovery (Watches & Jewelry strength vs. continued Fashion & Leather Goods softness) can be sustained into 2027.
+## Strategie & Ausblick
+- Kapitalallokation 2026 fokussiert auf gezielte Zukäufe und Portfoliobereinigung statt Großübernahmen: Verkauf von Marc Jacobs an WHP Global/G-III Apparel für ca. 850 Mio.–1 Mrd. USD (Abschluss bis Ende 2026 erwartet); vollständige Übernahme des französischen Verlags Editions Croque Futur (Challenges, Sciences & Avenir, La Recherche) Ende 2025/Anfang 2026 über UFIPAR; Aufstockung des Anteils an Loro Piana von 85% auf 94% für rund 1 Mrd. EUR.
+- Eine Sekundärquelle (geo.sig.ai) nennt LVMH als bevorzugten Käufer der Armani-Gruppe (Wert über 10 Mrd. EUR) im Testament von Giorgio Armani, mit geplantem Erstkauf von 15% innerhalb von 18 Monaten – dies ist unbestätigt und sollte mit Vorsicht behandelt werden.
+- Management sieht das Wachstum 2026 als "widerstandsfähig, aber fragil" und nennt die Nahost-Lage sowie die chinesische Nachfrage als wichtigste Einflussfaktoren für das zweite Halbjahr.
+- Die Erholung bei Watches & Jewelry und Wines & Spirits steht im Gegensatz zur anhaltenden Schwäche bei Fashion & Leather Goods; ob sich der positive Trend 2027 fortsetzt, bleibt die zentrale Beobachtungsgröße für Analysten.
 
-## Sources
-- [LVMH – Poursuite de la croissance au troisième trimestre 2026 (lvmh.com, 12.10.2026)](https://www.lvmh.com/fr/publications/poursuite-de-la-croissance-au-troisieme-trimestre-2026)
+## Quellen
+- [LVMH: Continued growth in the third quarter of 2026 (lvmh.com)](https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026)
 - [LVMH Reports €57.1 Billion In Revenue For First Nine Months Of 2026 (pulse2.com)](https://pulse2.com/lvmh-reports-e57-1-billion-in-revenue-for-first-nine-months-of-2026-as-organic-growth-reaches-2/)
-- [LVMH continued growth in the third quarter of 2026 (lvmh.com, English)](https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026)
-- [LVMH accelerating growth in the second quarter / solid first half results (lvmh.com)](https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results)
-- [LVMH sales approach 39 billion euros in H1 amid a tense climate (FashionUnited)](https://fashionunited.uk/news/business/lvmh-sales-approach-39-billion-euros-in-h1-amid-a-tense-climate/2026072789449)
-- [Bernard Arnault : la succession dans 7-8 ans (Milano Finanza, 23.04.2026)](https://www.milanofinanza.it/fashion/bernard-arnault-la-successione-tra-7-8-anni-202604231759293165)
+- [LVMH Q3 Revenue Edges Up as Chinese Demand Weakens (globaltextiletimes.com)](https://www.globaltextiletimes.com/?p=279657)
+- [LVMH sales up 1% in third quarter, Fashion and Leather Goods down 5% (Idéal Investisseur)](https://www.ideal-investisseur.fr/en/actions-b/lvmh-sales-up-1-in-third-quarter-fashion-and-leather-goods-down-5/26954.html)
+- [LVMH surprises with its earnings – is fashion back in favor with investors (XTB)](https://www.xtb.com/en/market-analysis/lvmh-surprises-with-its-earnings-is-fashion-back-in-favor-with-investors)
 - [LVMH's Arnault says to talk of retirement in 7-8 years (The Peninsula Qatar, 23.04.2026)](https://thepeninsulaqatar.com/article/23/04/2026/lvmhs-arnault-says-to-talk-of-retirement-in-7-8-years)
-- [Bernard Arnault se raconte dans un podcast (Milano Finanza)](https://www.milanofinanza.it/news/lvmh-bernard-arnault-si-racconta-in-un-podcast-2710822)
-- [Luxury Magnate Arnault Urges France to Follow US Spending Cuts (Yahoo/Bloomberg)](https://www.yahoo.com/news/arnault-sees-optimism-us-attending-195514734.html)
-- [LVMH : Déclaration des transactions sur actions propres (24matins.fr)](https://www.24matins.fr/pr/lvmh-declaration-des-transactions-sur-actions-propres-3)
-- [LVMH 2026 Annual General Meeting (lvmh.com)](https://www.lvmh.com/en/financial-calendar/2026-annual-general-meeting)
-- [Action LVMH en 2026 : faut-il investir au cours actuel ? (toutsurmesfinances.com)](https://www.toutsurmesfinances.com/bourse/a/action-lvmh-faut-il-investir)
+- [How old is LVMH CEO Bernard Arnault, how long can he run the company (Fortune, 05.03.2026)](https://fortune.com/2026/03/05/how-old-is-lvmh-ceo-bernard-arnault-how-long-can-he-run-company-85-bylaws/)
+- [Bernard Arnault Tightens Grip on LVMH With $440 Million Share Buyback (Hypebeast)](https://hypebeast.com/2026/2/bernard-arnault-tightens-grip-on-lvmh-440-million-usd-share-buyback-news)
+- [LVMH Sells Marc Jacobs for $850M to WHP Global, G-III Apparel (whalesbook.com)](https://www.whalesbook.com/news/English/luxury-products/LVMH-Sells-Marc-Jacobs-for-dollar850M-to-WHP-Global-G-III-Apparel/6a067fa3e125a601ebd8f3b9)
+- [LVMH Acquires Full Ownership of Editions Croque Futur (MarketScreener)](https://uk.marketscreener.com/news/lvmh-acquires-full-ownership-of-editions-croque-futur-ce7e59d8d980f22c)
+- [LVMH named preferred acquirer of Armani Group per Giorgio Armani's will (geo.sig.ai) – unverified](https://geo.sig.ai/brands/lvmh.md)
