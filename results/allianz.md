@@ -1,49 +1,53 @@
-# Allianz SE (ALV.DE)
-_Aktualisiert: 04.11.2026 | Zeitraum: 28.10.2026 – 04.11.2026_
+# Allianz (ALV)
+_Aktualisiert: 07.11.2026 | Zeitraum: 31.10.2026 – 07.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 6 Aktien
 - **Kaufkurs (Ø):** 367,45 EUR
-- **Aktueller Kurs:** 442,00 EUR
-- **Marktwert:** 2.652,00 EUR
-- **Unrealisierter G/V:** +431,99 EUR (+19,46%)
-- **Portfolioanteil:** 1,67%
+- **Aktueller Kurs:** 450,10 EUR
+- **Marktwert:** 2700,60 EUR
+- **Unrealisierter G/V:** +480,59 EUR (21,65%)
+- **Portfolioanteil:** 1,70%
 - **Dividenden erhalten:** 75,54 EUR
-- **Bewertung:** Der Kurs hat mit 442,00 EUR ein neues Hoch markiert und liegt nun fast 20% über dem Einstiegskurs; Treiber bleiben das bestätigte Rekord-H1-2026 (operatives Ergebnis 9,4 Mrd. EUR) und das laufende Aktienrückkaufprogramm. Vor den Q3-Zahlen am 12. November 2026 erscheint die Position als klarer Halten-Kandidat – eine Entscheidung über Aufstockung sollte erst nach Vorlage und Bewertung der Q3-Zahlen sowie des aktualisierten Ausblicks getroffen werden.
+- **Bewertung:** Der Kurs notiert mit +21,65% deutlich über dem Einstand, gestützt durch zuletzt starke operative Ergebnisse (Q3 2025: Rekord-Betriebsergebnis von 4,4 Mrd. EUR, +12,6%) und einen auf den höchsten Stand der Unternehmensgeschichte gestiegenen Markenwert (30,7 Mrd. USD, Interbrand-Ranking Ende Oktober 2026). Die mit Spannung erwarteten Q3-2026-Zahlen werden erst am 12. November veröffentlicht und liegen damit noch nicht vor; bis dahin erscheint ein Halten der Position sinnvoll, eine Neubewertung nach Zahlenvorlage wird empfohlen.
 
 ## Aktuelle Meldungen
-- Q3-2026-Ergebnisse werden am 12. November 2026 veröffentlicht; zu diesem Zeitpunkt (04.11.2026) liegen weiterhin nur die H1-Zahlen vom 7. August 2026 vor (operatives Ergebnis H1 ca. 9,4 Mrd. EUR, bereinigter Gewinn H1 ca. 6,4 Mrd. EUR, +15,5% ggü. Vorjahr).
-- Philipp Kroetz hat am 1. November 2026 offiziell die Position als CEO von Allianz Partners angetreten und folgt auf Tomas Kunzmann, der zum 1. Januar 2027 in den Vorstand der Allianz SE wechselt.
-- Laurent Floquet übernimmt im Zuge dieses Wechsels die Leitung von Allianz Direct (Nachfolge Kroetz).
-- Einem Bericht zufolge (Sky News, zitiert über stockanalysis.com) prüft Allianz eine mögliche Übernahme des britischen Pannenhilfedienstes AA im Volumen von rund 5 Mrd. GBP; von Allianz-Seite unbestätigt.
-- Das Aktienrückkaufprogramm über bis zu 2,5 Mrd. EUR (gestartet Ende Februar 2026) gilt laut Finanzpresse als fast ausgeschöpft (H1: bereits 1,4 Mrd. EUR umgesetzt).
-- Allianz und National Bank of Greece (NBG) haben eine Vereinbarung zur Übernahme einer 30%-Minderheitsbeteiligung von NBG an Allianz Griechenland (Allianz European Reliance) unterzeichnet.
+- Q3-2026-Zahlen werden am 12. November 2026 veröffentlicht; Analysten erwarten nach dem starken Vorjahresquartal (Q3 2025: Betriebsergebnis 4,4 Mrd. EUR, 9M 2,5 Mrd. EUR ... 13,1 Mrd. EUR, jeweils Rekordwerte) weiterhin solide Ergebnisse.
+- Allianz erreichte am 28.10.2026 mit 30,7 Mrd. USD den höchsten Markenwert der Unternehmensgeschichte und bleibt laut Interbrand die wertvollste Versicherungsmarke weltweit.
+- Eine Reiseversicherungs-Partnerschaft wurde zum 1. November 2026 um weitere vier Jahre verlängert, mit Fokus auf KI-gestützte Reiseversicherungsprodukte.
+- National Bank of Greece (NBG) hat Mitte Oktober 2026 eine Vereinbarung zum Erwerb einer 30%-Minderheitsbeteiligung an Allianz Griechenland (Allianz European Reliance) unterzeichnet.
 
 ## Management
-- Philipp Kroetz: seit 1. November 2026 CEO Allianz Partners (zuvor CEO Allianz Direct seit 2022).
-- Tomas Kunzmann: wechselt zum 1. Januar 2027 in den Vorstand der Allianz SE.
-- Klaus-Peter Röhler scheidet laut früheren Ankündigungen Ende 2026 altersbedingt aus dem Vorstand aus; Günther Thallingers Vorstandsmandat endet ebenfalls zum 31.12.2026 im gegenseitigen Einvernehmen mit dem Aufsichtsrat.
-- CEO Oliver Bäte (Mandat bis zur Hauptversammlung 2028 verlängert) äußerte sich zuletzt zu strukturellem Reformbedarf in Gesundheits-, Pflege- und Altersvorsorge sowie zum verstärkten KI-Einsatz im Konzern.
+- Philipp Kroetz übernimmt zum 1. November 2026 als neuer CEO von Allianz Partners, Nachfolger von Tomas Kunzmann, der zum 1. Januar 2027 in den Vorstand der Allianz SE wechselt.
+- Florian Amberg wird zeitgleich CEO von Allianz Direct; ein Nachfolger für Laurent Floquet soll zu einem späteren Zeitpunkt benannt werden.
+- Vorstandsmitglied Günther Thallinger und der Aufsichtsrat haben sich einvernehmlich darauf verständigt, dass sein Mandat zum 31. Dezember 2026 endet.
+- CEO Oliver Bäte äußerte sich 2026 mehrfach öffentlich: Im Semafor-Interview (Juli 2026) kündigte er deutlich steigende KI-Investitionen an ("very small at the moment, but it will be very big"); gegenüber Coverager wies er Hype-Thesen zu einer KI-bedingten Verdrängung von Versicherungsmaklern zurück; im Interview mit Börsen-Zeitung räumte er ein, dass die Combined Ratio im Privatkundengeschäft rund einen Prozentpunkt über dem Zielwert liegt.
 
 ## Finanzielles
-- Operatives Ergebnis H1 2026: ca. 9,4 Mrd. EUR; Jahresprognose 2026 für das operative Ergebnis bestätigt bei 17,4 Mrd. EUR (+/- 1 Mrd. EUR).
-- Bereinigter Konzerngewinn H1 2026: knapp 6,4 Mrd. EUR (+15,5% ggü. Vorjahr); im Q2-Vergleich sank der bereinigte Quartalsgewinn laut einer Quelle um 12,7% wegen eines auslaufenden Sondereffekts.
-- Branchenweite Elementarschäden in Deutschland (Sturm-/Unwetterschäden) werden auf rund 25 Mrd. EUR geschätzt, was die Combined Ratio im Sachgeschäft belasten könnte.
-- Allianz Trade prognostiziert einen Anstieg globaler Unternehmensinsolvenzen um 6% für 2025 und weitere 5% für 2026.
+- Q3 2026: Veröffentlichung der Zahlen erst am 12.11.2026 – noch keine offiziellen Werte verfügbar.
+- Referenzwerte Q3 2025 (Vorjahresvergleich): Konzern-Betriebsergebnis Rekordwert von 4,4 Mrd. EUR (+12,6% ggü. Vorjahr), 9-Monats-Betriebsergebnis 13,1 Mrd. EUR (+10,4%); Segment Schaden-/Unfallversicherung (P&C) mit +21,5% auf 2,4 Mrd. EUR im Quartal.
+- Laufende Portfolio-Position: Kurszuwachs von 367,45 EUR auf 450,10 EUR (+22,5% Kursentwicklung), zusätzlich 75,54 EUR Dividenden seit Erstkauf am 08.12.2025.
 
 ## Strategie & Ausblick
-- Wachstumsstrategie über gezielte Zukäufe: Übernahme von HSBC Life Singapore (ca. 2,7–2,9 Mrd. SGD, Closing voraussichtlich H1 2027), Übernahme von UOB Asset Management sowie Übernahme eines Großteils des Reiseversicherungsportfolios von nib Group in Australien/Neuseeland.
-- Möglicherweise weitere Zukäufe im Blick: Berichte über eine mögliche Prüfung der Übernahme des britischen Pannenhilfedienstes AA (ca. 5 Mrd. GBP) – bislang unbestätigt.
-- Erhöhung der Beteiligung an PIMCO durch Rückkauf der ausstehenden Einheiten aus dem "M Unit"-Mitarbeiterprogramm (rund 9,4% von PIMCO betroffen).
-- Fortsetzung der Internationalisierung in Asien bei gleichzeitigem Fokus auf Kapitaldisziplin und Aktienrückkäufe; nächster wichtiger Termin: Q3-Zahlen am 12. November 2026.
+- Expansion in Asien im Fokus: geplante Übernahme von HSBC Life Singapore (rund 2,1 Mrd. EUR, Abschluss voraussichtlich H1 2027) inkl. langfristiger Vertriebspartnerschaft mit HSBC Singapur, nachdem eine frühere Singapur-Akquisition (Income Insurance) 2024 an regulatorischem Widerstand gescheitert war.
+- Allianz Global Investors übernimmt das Vermögensverwaltungsgeschäft der UOB (rund 432,7 Mio. USD), Abschluss für 2027 geplant.
+- Weitere M&A-Aktivität: Übernahme des portugiesischen Versicherers Caravela (rund 150 Mio. EUR, vorbehaltlich aufsichtsrechtlicher Zustimmung) sowie Erhöhung des Pimco-Anteils auf mindestens 95% (kumulierte Investition von mindestens 1,4 Mrd. EUR).
+- Beteiligung als Gründungsinvestorin an einem europäischen Wachstums- ("Scaleup Europe") Fonds zur Stärkung der Investitionslandschaft in Europa.
+- CEO Bäte betont strategisch den deutlichen Ausbau von KI-Investitionen in den kommenden Jahren sowie eine vorsichtig-optimistische Einschätzung zu wirtschaftlicher Unsicherheit und strategischem De-Risking.
 
 ## Quellen
-- [Allianz Aktie: Rückkaufprogramm fast ausgeschöpft](https://www.finanztrends.de/news/allianz-aktie-rueckkaufprogramm-fast-ausgeschoepft/)
-- [Allianz Aktie: Quartalsbericht am 12. November](https://www.boerse-global.de/allianz-aktie-quartalsbericht-am-12-november/828374)
-- [Allianz confirms CEO appointments at Allianz Partners and Allianz Direct](https://www.allianzcare.com/en/about-us/news/allianz-confirms-ceo-appointments-at-allianz-partners-and-allianz-direct.html)
-- [Allianz Aktie: Führungswechsel nach Osten](https://www.boerse-express.com/news/articles/allianz-aktie-fuehrungswechsel-nach-osten-880350)
-- [Quartalsmitteilung: 2Q und 6M 2026](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
-- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
-- [Allianz SE (ALIZY) – stockanalysis.com (AA-Übernahmeprüfung)](https://stockanalysis.com/quote/otc/ALIZY/)
-- [Allianz to acquire HSBC Life Singapore](https://atlas-mag.net/en/articles/allianz-acquire-hsbc-life-singapore)
-- [Oliver Bäte, Chairman of the Board of Management of Allianz SE](https://www.allianz.com/en/investor_relations/shareholders/annual-general-meeting/agenda-2026/speech-baete.html)
+- [Allianz Aktie: Zahlen am 12. November](https://www.boerse-express.com/news/articles/allianz-aktie-zahlen-am-12-november-958929)
+- [Allianz confirms CEO appointments at Allianz Partners and Allianz Direct](https://www.allianz.com/en/mediacenter/news/media-releases/announcements/261001-allianz-confirms-ceo-appointments-at-allianz-partners-and-allianz-direct.html)
+- [Medienmitteilung Interbrand 2026 (PDF)](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/press/document/20261028-medienmitteilung-interbrand-2026-DE.pdf)
+- [Allianz SE announces Board of Management changes](https://www.allianz.com/en/mediacenter/news/media-releases/announcements/260724-allianz-se-changes-board-of-management.html)
+- [How Allianz's CEO prepares for the risk of 'huge havoc' (Semafor)](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc)
+- [Oliver Bäte calls BS on AI disruption hype (Coverager)](https://coverager.com/oliver-bate-calls-bs-on-ai-disruption-hype/)
+- ["Wir haben auf allen Zylindern Leistung" (Börsen-Zeitung)](https://www.boersen-zeitung.de/banken-finanzen/wir-haben-auf-allen-zylindern-leistung)
+- [Allianz Aktie: Q3-Bilanz am 12. November erwartet](https://www.boerse-global.de/allianz-aktie-q3-bilanz-am-12-november-erwartet/830678)
+- [Allianz Q3 2025 earnings summary (Quartr)](https://quartr.com/events/allianz-se-alv-q3-2025_3eMyNvEN)
+- [Allianz übernimmt HSBC Life Singapore](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260724-allianz-uebernimmt-hsbc-life-singapore-und-geht-eine-neue-langfristige-vertriebspartnerschaft-mit-hsbc-singapore-ein.html)
+- [Allianz Aktie: 2,1 Milliarden für HSBC Life Singapore](https://www.boerse-express.com/news/articles/allianz-aktie-21-milliarden-fuer-hsbc-life-singapore-932419)
+- [Allianz Aktie: AllianzGI kauft in Asien zu](https://www.boerse-express.com/news/articles/allianz-aktie-allianzgi-kauft-in-asien-zu-935750)
+- [Allianz Aktie: 150-Millionen-Deal mit Caravela](https://www.boerse-express.com/news/articles/allianz-aktie-150-millionen-deal-mit-caravela-934932)
+- [Allianz Aktie Pimco Anteil auf 95 Prozent erhöht](https://trading-treff.de/aktien/allianz-aktie-pimco-anteil-auf-95-prozent-erhoeht)
+- [Deutschlands Investitionslücke könnte seine größte Chance sein](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/261016-deutschlands-investitionsluecke-koennte-groesste-chance-sein.html)
