@@ -1,5 +1,5 @@
 # Mutares SE & Co. KGaA (MUX.DE)
-_Aktualisiert: 04.11.2026 | Zeitraum: 28.10.2026 – 04.11.2026_
+_Aktualisiert: 08.11.2026 | Zeitraum: 01.11.2026 – 08.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 88 Aktien
@@ -9,44 +9,35 @@ _Aktualisiert: 04.11.2026 | Zeitraum: 28.10.2026 – 04.11.2026_
 - **Unrealisierter G/V:** +9,49 EUR (+0,40%)
 - **Portfolioanteil:** 1,48%
 - **Dividenden erhalten:** 129,58 EUR
-- **Bewertung:** Der Kurs hat sich über den Einstandskurs geschoben, die Position liegt nun leicht im Plus (+0,40%); zusammen mit den bereits erhaltenen Dividenden von 129,58 EUR (ca. 5,6% der Investitionssumme) ergibt sich eine solide Gesamtrendite seit Erstkauf. Belastbare aktuelle KGV-/KBV-Kennzahlen waren über die Recherche weiterhin nicht zuverlässig zu ermitteln; ein Analyst (MPCM) hat das Kursziel zuletzt auf 45 EUR angehoben. Angesichts der für den 12. November 2026 angesetzten Q3-Zahlen, mehrerer laufender Exit-Prozesse (Natura, Stuart, ggf. Lapeyre, Nord Gas Solutions) und der bestätigten Jahresprognose erscheint ein Halten der Position bis zur Veröffentlichung der Quartalszahlen sinnvoll; eine Aufstockung könnte danach bei mehr Klarheit zum Exit-Fortschritt geprüft werden.
+- **Bewertung:** Die Position bewegt sich weiterhin nahezu auf Einstandskursniveau (+0,40%); inklusive der bereits erhaltenen Dividenden von 129,58 EUR ergibt sich dennoch eine solide Gesamtrendite seit Erstkauf. Belastbare aktuelle KGV-/KBV-Kennzahlen sind wegen der volatilen Holding-Nettoergebnisse weiterhin schwer zu ermitteln. Mit dem Verkauf von Stuart (SRT Group) an Quiver und dem Abschluss der Steinmüller-Übernahme setzt Mutares seine aktive Portfoliorotation fort; entscheidend für die kurzfristige Kursrichtung dürften die Q3-Zahlen am 12. November 2026 sein. Ein Halten der Position bis zur Veröffentlichung dieser Zahlen erscheint sinnvoll, eine Aufstockung könnte danach bei mehr Klarheit zu Exit-Fortschritt und Jahresprognose geprüft werden.
 
 ## Aktuelle Meldungen
-- Der Analyst MPCM hat sein Kursziel für die Mutares-Aktie laut Medienberichten auf 45 EUR angehoben.
-- Mutares erhielt am 5. Oktober 2026 ein unwiderrufliches Angebot für eine Mehrheitsbeteiligung an der Lapeyre Group von einem durch italienische Unternehmer unterstützten Investmentvehikel – ein möglicher weiterer Exit zeichnet sich ab.
-- Laut boerse-express.com sind aktuell "zwei Deals in der Schwebe"; parallel bleibt laut einem weiteren Bericht die "Efacec-Frage" (portugiesisches Portfoliounternehmen) weiterhin offen.
-- Für das Portfoliounternehmen Nord Gas Solutions (ehem. Wärtsilä Gas Solutions) wird ein Rekord-Auftragsbestand von rund 880 Mio. EUR sowie ein 2026er-Umsatz von über 575 Mio. EUR gemeldet; strategische Exit-Alternativen, darunter ein möglicher Börsengang in den nordischen Ländern, werden weiterhin geprüft.
-- Die LOI mit Grupa Specjał zum Verkauf der polnischen Drogeriekette Natura besteht fort; Signing und Vollzug werden weiterhin für Q4 2026 angestrebt.
-- Für das Portfoliounternehmen Stuart wird der Exit-Vollzug weiterhin in Q4 2026 erwartet, vorbehaltlich der Information der Arbeitnehmervertretungen.
-- Nächster wichtiger Termin: Veröffentlichung der Q3-2026-Zahlen am 12. November 2026 (außerhalb des aktuellen Berichtszeitraums, aber unmittelbar bevorstehend).
+- Mutares hat am 2. November 2026 den Verkauf von Stuart (SRT Group) und dessen Tochtergesellschaften an Quiver bekanntgegeben; das Geschäft erzielte zuletzt einen Umsatz von rund 50 Mio. EUR.
+- Die zuvor für IHI übernommene Steinmüller Engineering wurde zum 15. Oktober 2026 vollständig in den Mutares-Konzern integriert (Deal-Abschluss).
+- Der Verkauf der polnischen Drogeriekette Natura an Grupa Specjał befindet sich weiterhin in der Anbahnung; Signing und Vollzug werden für Q4 2026 erwartet, ein unterschriebener Kaufvertrag liegt laut Berichten noch nicht vor.
+- Für das Portfoliounternehmen Nord Gas Solutions wird weiterhin ein Rekord-Auftragsbestand von rund 880 Mio. EUR gemeldet; Mutares prüft dafür verschiedene Exit-Optionen, u. a. einen möglichen nordischen Börsengang.
+- Mutares treibt den geplanten Rückkauf der Nordic-Anleihe 2023/2027 weiter voran (mind. 25 Mio. EUR pro Quartal seit Q2) mit dem Ziel, das ausstehende Volumen bis Ende 2026 auf 250–300 Mio. EUR zu reduzieren.
+- Nächster wichtiger Termin: Veröffentlichung der Neunmonatszahlen 2026 und des Q3-Berichts am 12. November 2026.
 
 ## Management
-- CEO bleibt weiterhin Robin Laik; sein Vorstandsvertrag wurde bereits 2024 vorzeitig um fünf Jahre bis Ende 2029 verlängert. Für den aktuellen Berichtszeitraum wurden keine neuen Personalmeldungen gefunden.
-- CIO Johannes Laumann äußerte sich zuletzt in einem Edison-Group-Interview ("Bull, Bear & Beyond") zur US-Expansion, dem SABIC-Rekorddeal (NexPoint Materials) und dem Wachstumsmomentum des Konzerns; ein separates CEO-Interview für den aktuellen Zeitraum wurde nicht gefunden.
+- CEO bleibt weiterhin Robin Laik, dessen Vorstandsvertrag bereits 2024 vorzeitig bis Ende 2029 verlängert wurde. Für den aktuellen Berichtszeitraum wurden keine neuen Personalmeldungen gefunden.
+- Ein aktuelles CEO-Interview für den Berichtszeitraum liegt nicht vor; zuletzt äußerte sich CIO Johannes Laumann wiederholt öffentlich zur US-Expansion und zur aktiven Exit-Pipeline des Konzerns.
 
 ## Finanzielles
-- Q1 2026 (veröffentlicht 12. Mai): Konzernumsatz 1.678,7 Mio. EUR (Vorjahr 1.526,2 Mio. EUR); Holding-Nettoergebnis -0,9 Mio. EUR (Vorjahr 29,5 Mio. EUR, beeinflusst durch Teilexit Steyr Motors im Vorjahr); Adjusted EBITDA 11,1 Mio. EUR.
-- H1 2026 (veröffentlicht 4. August): Konzernumsatz 3,4 Mrd. EUR (Vorjahr 3,1 Mrd. EUR); Holding-Provisionserlöse 49 Mio. EUR (Vorjahr 53 Mio. EUR); um Kapitalmarktkosten (10 Mio. EUR) bereinigtes Holding-Nettoergebnis 6 Mio. EUR (Vorjahr 70 Mio. EUR); Bond-Covenants zum 30.06.2026 eingehalten.
-- Größte Akquisition der Firmengeschichte: SABIC Engineering Thermoplastics (Signing Januar 2026, Closing 4. August 2026, Enterprise Value ca. 450 Mio. USD laut Pressemeldungen, teils abweichende Angabe von ca. 400 Mio. USD in einer Quelle), firmiert künftig als NexPoint Materials.
-- Jahresprognose 2026 unverändert bestätigt: Konzernumsatz 7,9–9,1 Mrd. EUR; bei der Holding-Nettoergebnis-Prognose finden sich in den Quellen abweichende Angaben (überwiegend 165–200 Mio. EUR genannt, eine Quelle nennt 108–132 Mio. EUR) – sollte vor Investitionsentscheidungen anhand der Original-Mitteilung geprüft werden.
+- H1 2026 (veröffentlicht 4. August): Konzernumsatz 3,4 Mrd. EUR (Vorjahr 3,1 Mrd. EUR); um Kapitalmarktkosten (10 Mio. EUR) bereinigtes Holding-Nettoergebnis 6 Mio. EUR (Vorjahr 70 Mio. EUR); Guidance für 2026 bestätigt.
+- Jahresprognose 2026 unverändert: Konzernumsatz zwischen 7,9 und 9,1 Mrd. EUR; für das Holding-Nettoergebnis kursieren in Quellen unterschiedliche Angaben (überwiegend 165–200 Mio. EUR genannt) – vor Investitionsentscheidungen anhand der Original-Mitteilung zu prüfen.
+- Keine eigenständigen Finanzkennzahlen zum Stuart-Verkauf veröffentlicht; der Deal wird voraussichtlich in den Q3-Zahlen am 12. November näher beziffert.
 - Nächster Termin: Veröffentlichung der Q3-2026-Zahlen am 12. November 2026.
 
 ## Strategie & Ausblick
-- Guidance für Geschäftsjahr 2026 bestätigt (zuletzt auf der Hauptversammlung im Juli 2026): Konzernumsatz zwischen 7,9 Mrd. und 9,1 Mrd. EUR.
-- Für das zweite Halbjahr 2026 werden weitere Exit-Aktivitäten erwartet (u. a. Natura, Stuart, ggf. Nord Gas Solutions über einen nordischen Börsengang sowie ggf. ein Teilexit bei Lapeyre nach dem erhaltenen Übernahmeangebot).
-- Fokus auf US-Expansion und Ausbau des Industrials-Portfolios nach dem SABIC/NexPoint-Deal.
-- Offene Punkte, die im Blick zu behalten sind: der weiterhin ungeklärte Status von Efacec sowie der Fortgang der laut Medienberichten "in der Schwebe" befindlichen Deals.
+- Fortsetzung der aktiven Portfoliorotation: nach dem Stuart-Verkauf und dem Steinmüller-Zukauf stehen mit Natura und ggf. Nord Gas Solutions weitere Exit-Prozesse im Fokus für das laufende und kommende Quartal.
+- Fokus auf Schuldenreduzierung über den laufenden Anleiherückkauf sowie weiter auf US-Expansion und Ausbau des Industrials-Portfolios.
+- Die Q3-Zahlen am 12. November 2026 dürften zeigen, ob sich die für H2 2026 angekündigten weiteren Exit-Aktivitäten wie geplant materialisieren und ob die Jahresprognose Bestand hat.
 
 ## Quellen
+- [Mutares Aktie: Quiver greift nach Stuart (boerse-global.de)](https://www.boerse-global.de/mutares-aktie-quiver-greift-nach-stuart/837918)
+- [from Mutares SE & Co. KGaA: Mutares has sold SRT Group and its subsidiaries to Quiver (webdisclosure.com)](https://www.webdisclosure.com/press-release/mutares-has-sold-srt-group-and-its-subsidiaries-to-quiver-NRv04rbe4E6)
+- [Mutares Aktie: Q3-Zahlen am 12. November (boerse-express.com)](https://www.boerse-express.com/news/articles/mutares-aktie-q3-zahlen-am-12-november-955322)
 - [Mutares Aktie: Q3-Zahlen am 12. November erwartet (finanztrends.de)](https://www.finanztrends.de/news/mutares-aktie-q3-zahlen-am-12-november-erwartet/)
-- [mutares aktie mpcm hebt kursziel auf 45 euro (trading-treff.de)](https://trading-treff.de/trading/mutares-aktie-mpcm-hebt-kursziel-auf-45-euro)
-- [mutares aktie nord gas solutions vor nordic boersengang (trading-treff.de)](https://trading-treff.de/trading/mutares-aktie-nord-gas-solutions-vor-nordic-boersengang)
-- [Mutares Aktie: Zwei Deals in der Schwebe (boerse-express.com)](https://www.boerse-express.com/news/articles/mutares-aktie-zwei-deals-in-der-schwebe-926016)
-- [Mutares Aktie: Efacec-Frage bleibt offen (boerse-express.com)](https://www.boerse-express.com/news/articles/mutares-aktie-efacec-frage-bleibt-offen-927186)
-- [Mutares Aktie: NEM-Deal im Q3 2026 (boerse-express.com)](https://www.boerse-express.com/news/articles/mutares-aktie-nem-deal-im-q3-2026-926396)
-- [In the chair with Mutares' Johannes Laumann on US expansion, a record deal and growth momentum (Edison Group)](https://www.edisongroup.com/edison-tv/mutares-in-the-chair-with-mutares-johannes-laumann-on-us-expansion-a-record-deal-and-growth-momentum/BM-2808/)
-- [Mutares wächst und erreicht im ersten Halbjahr 2026 Konzernumsatz von EUR 3,4 Mrd. (boerse-online.de)](https://www.boerse-online.de/dpa-afx/eqs-news-mutares-waechst-und-erreicht-im-ersten-halbjahr-2026-konzernumsatz-von-eur%C2%A034-mrd-weitere-exit-aktivitaeten-im-zweiten-halbjahr-erwartet-guidance-fuer-geschaeftsjahr-2026-bestaetigt-deutsch-542519.html)
-- [EQS News Mutares erzielt im ersten Quartal 2026 Umsatzerlöse von EUR 1.678,7 Mio. (boerse-online.de)](https://www.boerse-online.de/dpa-afx/eqs-news-mutares-erzielt-im-ersten-quartal-2026-umsatzerloese-im-konzern-von-eur-16787-mio-unterzeichnete-exit-transaktionen-im-auftaktquartal-spiegeln-hohe-harvesting-dynamik-wider-deutsch-524125.html)
-- [Mutares Aktie: SABIC-Deal über 450 Millionen Dollar abgeschlossen (finanztrends.de)](https://www.finanztrends.de/news/mutares-aktie-sabic-deal-ueber-450-millionen-dollar-abgeschlossen/)
-- [Mutares To Acquire SABIC's Engineering Thermoplastics Business (Nasdaq)](https://www.nasdaq.com/articles/mutares-acquire-sabics-engineering-thermoplastics-business)
-- [Mutares SE & Co. KGaA Lapeyre offer coverage (live.deutsche-boerse.com)](https://live.deutsche-boerse.com/global-search/MUX)
+- [Mutares Aktie: Steinmüller-Zukauf von IHI abgeschlossen (finanztrends.de)](https://www.finanztrends.de/news/mutares-aktie-steinmueller-zukauf-von-ihi-abgeschlossen/)
+- [Mutares aktuelle News (mutares.com)](https://mutares.com/en/news)
