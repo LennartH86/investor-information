@@ -1,47 +1,49 @@
 # Jumbo S.A. (BELA.AT)
-_Aktualisiert: 04.11.2026 | Zeitraum: 28.10.2026 – 04.11.2026_
+_Aktualisiert: 08.11.2026 | Zeitraum: 01.11.2026 – 08.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 23,74 EUR
-- **Aktueller Kurs:** 27,48 EUR
-- **Marktwert:** 1.374,00 EUR
-- **Unrealisierter G/V:** +179,13 EUR (+14,99%)
+- **Aktueller Kurs:** 27,53 EUR
+- **Marktwert:** 1.376,50 EUR
+- **Unrealisierter G/V:** +181,63 EUR (+15,20%)
 - **Portfolioanteil:** 0,87%
-- **Dividenden erhalten:** 25,87 EUR
-- **Bewertung:** The share price rose further this week, from 26.98 EUR to 27.48 EUR (+1.9%), extending the unrealized gain versus the 23.74 EUR average purchase price to +14.99%. No negative company-specific news surfaced; nine-month 2026 sales growth of roughly 6% and a reported Wood & Company "Buy" rating with a 38 EUR price target point to a constructive fundamental picture, while the imminent extraordinary 1.00 EUR/share distribution (record date 17 November 2026) adds a near-term income catalyst. Hold remains appropriate, with a modest Add justified by the still-intact growth trend and no signs of deteriorating fundamentals.
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** The share price edged up slightly this week, from 27.48 EUR to 27.53 EUR (+0.2%), nudging the unrealized gain versus the 23.74 EUR average purchase price to +15.20%. Trading momentum remains strong, with October sales up roughly 13% year-on-year (the group's best month of 2026) and 10-month sales growth of about 6.7%, while an imminent extraordinary €1.00/share cash distribution (ex-date 16 Nov 2026) adds a near-term income catalyst. No official Q3 income-statement release has surfaced yet, so coverage still relies on trading updates rather than audited figures. Hold remains appropriate, with a modest Add still justified by the intact growth trend, a strong net cash position and no signs of deteriorating fundamentals.
 
 ## Aktuelle Meldungen
-- No new Jumbo-specific press release or price-sensitive filing dated within 28.10–04.11.2026 was identified this week; the extraordinary cash distribution timetable (ex-date 16 Nov 2026, record date 17 Nov 2026, payment 20 Nov 2026) remains the most price-relevant near-term event, now less than two weeks away.
-- Nine-month (January–September) 2026 group sales rose approximately 6% year-on-year, continuing the growth trend seen in the H1 and August updates.
-- Third-party coverage cites Q3 2026 group EBITDA up roughly 16.6% year-on-year, though this figure is from aggregator commentary rather than a confirmed company release.
-- Jumbo's planned physical entry into Turkey remains on hold, with investment acceleration targeted from 2027 and a 2028 horizon; an online-only Turkish launch is still slated for late 2026.
+- October 2026 group sales rose approximately 13% year-on-year, the strongest monthly growth rate of the year, lifting the January–October cumulative figure to about +6.7% y/y.
+- By geography (10-month, YTD): Greece +9%, Bulgaria +14% (+21% in October alone), Romania +5% in October; Cyprus Mail (5 Nov 2026) reports Cyprus sales up roughly 8-15% over the first ten months (sources vary slightly on the exact figure).
+- The group now operates roughly 90 stores across its four directly run markets: 53 in Greece, 6 in Cyprus, 10 in Bulgaria and 20–21 in Romania.
+- Jumbo extended its e-commerce footprint into Hungary in early November 2026, served for now from its existing Romanian online operation rather than a dedicated local entity.
+- The previously announced extraordinary cash distribution of €1.00/share (gross) was reconfirmed: ex-dividend date 16 November 2026, record date 17 November, payment from 20 November 2026. Including this payment, total 2026 shareholder cash distributions reach about €2.20/share (~€295.6m in aggregate, versus ~€157.6m distributed in respect of 2026 as cited in an earlier update) — figures from press commentary vary slightly and are not all independently confirmed.
 
 ## Management
-- Chairman & CEO Evangelos-Apostolos Vakakis remains the group's top executive; no new CEO interview or management commentary dated within this reporting window was found despite a targeted search.
-- Konstantina Demiri continues to be listed in company materials as Managing Director/CEO & Executive Director.
-- Management continues to rule out a capital increase or new share placement, reiterating its shareholder-return-focused capital allocation policy.
+- Leadership remains unsettled in public sources: some materials list Evangelos-Apostolos Vakakis as Chairman & CEO, while others (e.g. Simply Wall St) list Konstantina Demiri as CEO/Managing Director; no fresh 2026 interview with either executive was found this week.
+- Search results for "Jumbo CEO" are frequently confused with unrelated companies also named Jumbo (the Dutch supermarket chain under CEO Jesper Højer, and the Chilean Cencosud-owned Jumbo banner) — none of that commentary applies to the Greek retailer.
+- No new management commentary on strategy, M&A, or capital allocation specific to this reporting window was identified.
 
 ## Finanzielles
-- FY2025 (confirmed context): record sales of approximately €1.23bn and net profit of €320m, with a €0.70/share ordinary dividend approved at the July 2026 AGM.
-- Nine-month 2026 sales growth of ~6% y/y keeps the group broadly on track for its FY2026 guidance of ~5% sales growth and €310–320m net profit, though this guidance has not been independently reconfirmed this week.
-- A Wood & Company research note (exact publication date unverified) reportedly initiated coverage of Jumbo with a Buy rating and a €38 price target, implying roughly 32% upside at the time of the note; treat this as unconfirmed/undated third-party commentary.
-- Total 2026 shareholder cash distributions already paid are cited at approximately €161.2m (~€1.20/share: regular dividend plus an earlier extraordinary payment), with a further extraordinary distribution of €1.00/share due, ex-date 16 November 2026.
-- No official Q3/nine-month 2026 earnings release with full income-statement detail was found as published yet; the sales-growth figures above come from trading updates and press commentary rather than a confirmed financial statement.
+- FY2026 guidance (last confirmed): sales growth of ~5%, net profit of €310–320m, capital expenditure of roughly €60m.
+- 10-month 2026 sales growth of ~6.7% y/y currently runs ahead of the full-year sales guidance, supporting confidence in the FY2026 targets, though no updated guidance reconfirmation was published this week.
+- The group reportedly holds a strong net cash position of about €473m, underpinning both the shareholder distribution policy and continued investment capacity.
+- No official Q3 2026 or 10-month income-statement release (EBITDA/EBIT/net profit) has been published yet; all sales figures above come from trading updates and press commentary, not audited financial statements.
+- FY2025 context (confirmed): record sales of ~€1.23bn and net profit of ~€320m, with a €0.70/share ordinary dividend approved at the July 2026 AGM.
 
 ## Strategie & Ausblick
-- Capital allocation remains shareholder-friendly: ordinary dividend plus the upcoming extraordinary €1.00/share distribution (record date 17 November 2026); a capital increase continues to be ruled out.
-- Logistics investment continues, including the previously announced ~60,000 sqm distribution centre acquisition in Romania and planned distribution centres in Thessaloniki (completion 2027) and Oinofyta, Greece.
-- The group is reported to be proceeding with a merger-by-absorption of subsidiary Herald 2 (Herald Greece 2) as part of ongoing corporate restructuring; completion status was not confirmed this week.
-- Turkey entry remains paused for physical stores, with online entry still targeted for late 2026 and physical investment acceleration expected from 2027 onward.
-- Overall outlook: steady, cash-generative growth led by Greece, Cyprus and Bulgaria, offsetting continued Romanian softness; FY2026 guidance of ~5% sales growth and €310–320m net profit remains the latest confirmed target.
+- Capital allocation remains shareholder-friendly: ordinary dividend plus the extraordinary €1.00/share distribution due later this month; management continues to rule out a capital increase or new share placement.
+- Logistics/supply-chain investment continues, anchored by the pre-agreed acquisition of a ~60,000 sqm "Giga" distribution center in Romania, alongside previously announced distribution centers in Thessaloniki (completion 2027) and Oinofyta, Greece.
+- International e-commerce expansion continues incrementally, with the new Hungary online presence (served from Romania) following a similar playbook to prior cross-border online launches.
+- Turkey entry remains paused for physical stores, with an online-only launch still expected and physical investment acceleration targeted from 2027 with a 2028 horizon.
+- An unconfirmed item referencing a share sale and purchase agreement with Eurobank involving subsidiary "Herald 2" surfaced again in aggregator coverage; terms and status remain unclear and were not independently verified this week.
+- Overall outlook: broad-based growth across Greece, Cyprus, Bulgaria and Romania, a record October trading month, and a strong net cash position support the constructive medium-term picture; FY2026 guidance of ~5% sales growth and €310–320m net profit remains the latest confirmed target.
 
 ## Quellen
-- [Brief: Greek toy retailer Jumbo Q3 EBITDA up 16.6% – Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/news/brief-greek-toy-retailer-jumbo-q3-ebitda-up-16-6-019e6c53-b841-7083-868c-a617d154bb68/)
-- [Jumbo: Αύξηση πωλήσεων κατά 6% στο εννεάμηνο 2026 – Powergame](https://www.powergame.gr/epichirisis/1429816/jumbo-afxisi-poliseon-kata-9-sto-enneamino-2026/)
-- [Jumbo: Η Wood ξεκινά κάλυψη με Buy και τιμή στόχο τα €38, περιθώριο ανόδου 32% – NewMoney](https://www.newmoney.gr/roh/agores/jumbo-i-wood-xekina-kalipsi-me-buy-ke-timi-stocho-ta-e338-perithorio-anodou-32/)
-- [Όμιλος Jumbo: Καθαρά κέρδη 320 εκατ. ευρώ για το 2025, διανομή μερίσματος 0,70 ευρώ ανά μετοχή – Forin.gr](https://www.forin.gr/articles/article/90166/omilos-jumbo-kathara-kerdh-320-ekat-eurw-gia-to-2025-dianomh-merismatos-070-eurw-ana-metoxh)
-- [Euronext Athens / Athex – Jumbo announcements (extraordinary distribution timetable)](https://athens.euronext.com/en/node/965800)
-- [NewMoney: Jumbo στον πάγο η είσοδος στην Τουρκία, επιτάχυνση των επενδύσεων από το 2027](https://www.newmoney.gr/roh/palmos-oikonomias/epixeiriseis/jumbo-ston-pago-i-isodos-stin-tourkia-epitachini-tis-ependisis-apo-to-2027-me-orizonta-to-2028/amp/)
-- [MarketScreener – Jumbo S.A. news digest (Herald 2 merger, other items)](https://de.marketscreener.com/kurs/aktie/JUMBO-S-A-6259019/news-andere-sprachen/)
-- [AllInvestView – Jumbo (BELA.AT) earnings](https://www.allinvestview.com/earnings/BELA.AT/)
+- [Jumbo's Cyprus sales grow 8 per cent in first ten months – Cyprus Mail](https://cyprus-mail.com/2026/11/05/jumbo-absorbs-higher-costs-as-cyprus-sales-rise-15-per-cent)
+- [Jumbo: Αύξηση πωλήσεων 6,7% για το 10μηνο, 9% στην Ελλάδα – Powergame](https://www.powergame.gr/epichirisis/1447278/jumbo-afxisi-poliseon-67-gia-to-10mino-9-stin-ellada/)
+- [Brief: Jumbo Says November/October Sales Trends – Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/news/)
+- [AI assistant – Jumbo S.A. earnings release filing – financialreports.eu](https://financialreports.eu/filings/jumbo-sa/earnings-release/2026/37899261/)
+- [Jumbo (BELA) H1 2026 earnings summary – Quartr](https://quartr.com/events/jumbo-s-a-bela-h1-2026_F90ztWqk)
+- [Jumbo lines up new Cyprus store as profit reaches €120.6m – Cyprus Mail](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
+- [Jumbo: EUR 320 million profit in 2025, dividend EUR 0.7 – Euro2day](https://www.euro2day.gr/en/article/2348218/jumbo-eur-320-million-profit-in-2025-dividend-eur)
+- [Simply Wall St – Jumbo (ATH:BELA) management overview](https://simplywall.st/stocks/us/retail/otc-jums.y/jumbo/management)
