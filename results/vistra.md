@@ -1,43 +1,49 @@
-# Vistra (VST)
-_Aktualisiert: 06.11.2026 | Zeitraum: 30.10.2026 – 06.11.2026_
+# Vistra Corp. (VST)
+_Aktualisiert: 09.11.2026 | Zeitraum: 02.11.2026 – 09.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 16 Aktien
-- **Kaufkurs (Ø):** 127.01 EUR
-- **Aktueller Kurs:** 100.96 EUR
-- **Marktwert:** 1615.36 EUR
-- **Unrealisierter G/V:** -419.20 EUR (-20.60%)
-- **Portfolioanteil:** 1.03%
-- **Dividenden erhalten:** 5.52 EUR
-- **Bewertung:** Der Kurs ist seit dem letzten Update deutlich gefallen und notiert nun klar unter dem durchschnittlichen Kaufkurs (-20,60%); Analysten bewerten die Aktie weiterhin überwiegend positiv ("Strong Buy"), mehrere Häuser (CIBC, Scotiabank) senkten jedoch zuletzt vor den Q3-Zahlen ihre Kursziele (z.B. CIBC auf 181 USD, Scotiabank auf 189 USD). Angesichts des intakten Wachstumsausblicks (Cogentrix-Integration, Datacenter-/KI-Nachfrage) und der moderaten Dividendenrendite (0,231 USD/Quartal) erscheint die Position trotz des hohen Buchverlusts eher als Halteposition; eine Aufstockung sollte die heutigen Q3-Zahlen und die Kursreaktion abwarten.
+- **Kaufkurs (Ø):** 127,01 EUR
+- **Aktueller Kurs:** 112,99 EUR
+- **Marktwert:** 1807,84 EUR
+- **Unrealisierter G/V:** -226,72 EUR (-11,14%)
+- **Portfolioanteil:** 1,14%
+- **Dividenden erhalten:** 5,52 EUR
+- **Bewertung:** Vistra legte am 6. November starke Q3-Zahlen vor (Umsatz +28% auf 6,35 Mrd. USD, Adjusted EBITDA +rund 50%), wodurch die Aktie an diesem Tag fast 10% zulegte – konnte damit aber den Kursrutsch vom 4. November (-13,9% nach einer Abstufung durch KeyCorp) nur teilweise ausgleichen. Die Position liegt trotz operativ starker Entwicklung und angehobener Guidance mit -11,14% im Minus, was v.a. auf den hohen durchschnittlichen Einstandskurs sowie die erhöhte Kursvolatilität rund um Analysten-Einschätzungen zurückzuführen ist. Angesichts der angehobenen 2026er- und erstmals ausgegebenen 2027er-EBITDA-Guidance sowie der fortschreitenden Wachstumsstrategie (Cogentrix-Übernahme, Aktienrückkäufe) erscheint Halten die naheliegende Einschätzung; eine Aufstockung wäre nur bei weiterer Kursschwäche und Bestätigung der Guidance-Erreichung zu erwägen.
 
 ## Aktuelle Meldungen
-- Vistra meldet heute, 06.11.2026, die Ergebnisse für Q3 2026 (Konferenzschaltung 10:00 Uhr ET); zum Zeitpunkt der Recherche lagen die tatsächlichen Zahlen noch nicht vor. Analystenschätzungen schwanken zwischen ca. 3,01 USD EPS / 6,03 Mrd. USD Umsatz (MarketBeat) und 2,78 USD EPS / 6,73 Mrd. USD Umsatz (FN2).
-- Übernahme von Cogentrix Energy wurde am 30.10.2026 abgeschlossen: 10 moderne Gaskraftwerke mit insgesamt rund 5.500 MW Kapazität; CEO Jim Burke erklärte, dies erhöhe das Gesamterzeugungsportfolio auf fast 50.000 MW.
-- Vorstand erklärte am 29.10.2026 eine Quartalsdividende von 0,231 USD je Stammaktie.
-- Mehrere Analysten senkten vor den Q3-Zahlen ihre Kursziele (u.a. CIBC von 201 auf 181 USD, Scotiabank von 207 auf 189 USD), während der Analystenkonsens im Schnitt weiterhin "Strong Buy" lautet (23 Analysten).
+- Q3-2026-Zahlen (veröffentlicht 6. November): Umsatz rund 6,35 Mrd. USD (+28% ggü. Vorjahr, unter den Erwartungen); Nettogewinn 1.140 Mio. USD, darin ein unrealisierter Hedge-Gewinn von 559 Mio. USD enthalten (ohne diesen Effekt rund 581 Mio. USD).
+- Das Ongoing-Operations-Adjusted-EBITDA stieg um knapp 800 Mio. USD (+ca. 50%); rund 56% dieses Zuwachses (443 Mio. USD) stammten aus dem texanischen Segment (ERCOT).
+- Die Aktie legte am Tag der Ergebnisveröffentlichung rund 10% zu, nachdem sie am 4. November wegen einer Abstufung durch KeyCorp (von "Overweight" auf "Sector Weight") um 13,9% eingebrochen war.
+- Vistra schloss die Übernahme von Cogentrix Energy ab (rund 5,5 GW gasbefeuerte Erzeugungskapazität) und erhöhte das Aktienrückkaufprogramm um weitere 1,5 Mrd. USD.
+- Im Oktober/November 2026 wurden sämtliche ausstehenden Series-A-Preferred-Shares (insgesamt 1 Mrd. USD) zurückgezahlt.
 
 ## Management
-- CEO Jim Burke kommentierte den Abschluss der Cogentrix-Übernahme und betonte den Ausbau des Erzeugungsportfolios auf knapp 50.000 MW.
-- D Magazine (D CEO) veröffentlichte im November-Heft 2026 ein Porträt ("Inside Jim Burke's Big Bet on Vistra's Future") über seine langfristige Strategie bei Nuklear- und Erdgaskapazitäten sowie die PPA-Deals mit Amazon und Meta; Burke erhielt zudem den "Legacy Award" der D CEO Energy Awards 2026.
-- Burke trat im Texas Power Podcast (Power Engineering) im Gespräch mit Doug Lewin zu Energiewende-Themen und dem ERCOT-Markt auf (genaues Ausstrahlungsdatum nicht eindeutig recherchierbar).
+- CEO Jim Burke äußerte sich auf der CERAWeek 2026 zur steigenden Nachfrage durch Rechenzentren, zur Netzzuverlässigkeit und zur wachsenden Rolle der Kernenergie für Vistra.
+- Burke verweist auf die im Januar 2026 vereinbarten 20-Jahres-Stromlieferverträge (PPAs) über mehr als 2,6 GW Kernenergie mit Meta als Beleg für die Investitionssicherheit, die Vistra für Nuklearprojekte und Kapazitätserweiterungen (Uprates) an bestehenden Anlagen benötigt.
+- Im November-2026-Profil des D Magazine wurde Burke für seine langfristigen Wetten auf Kernenergie und Erdgas gewürdigt; er erhielt den "Legacy Award" bei den D CEO 2026 Energy Awards.
 
 ## Finanzielles
-- Q2 2026 (gemeldet 07.08.2026): GAAP-Nettogewinn 305 Mio. USD (Vorjahr: 327 Mio. USD); Ongoing Operations Adjusted EBITDA stieg um mehr als 30% auf 1.767 Mio. USD (Vorjahr: 1.349 Mio. USD); Operating Revenue 4.017 Mio. USD.
-- 2026er-Guidance für Ongoing Operations Adjusted EBITDA (6,8–7,6 Mrd. USD) und Ongoing Operations Adjusted FCFbG (3,925–4,725 Mrd. USD) wurde bestätigt.
-- Q1 2026: Nettogewinn 1.029 Mio. USD, Ongoing Operations Adjusted EBITDA 1.494 Mio. USD.
-- Q3-2026-Zahlen werden erst heute veröffentlicht; Konsensschätzungen der Analysten gehen weit auseinander (siehe oben).
+- 2026er-Guidance für das Ongoing-Operations-Adjusted-EBITDA wurde auf 7,1–7,5 Mrd. USD angehoben und verengt (zuvor 6,8–7,6 Mrd. USD); erstmals wurde eine 2027er-Guidance von 7,7–8,5 Mrd. USD ausgegeben, die laut Analysten größtenteils auf bereits abgesicherten (gehedgten) Preisen beruht.
+- Absicherungsquote (Stand 30. Oktober 2026): rund 100% der erwarteten Erzeugung 2026, rund 98% für 2027 und rund 78% für 2028.
+- Ausstehende Aktien zum 2. November 2026: rund 339 Mio.; seit November 2021 wurden Aktien im Wert von rund 6,7 Mrd. USD zurückgekauft.
+- Frühere Quartale 2026: Q1-Nettogewinn 1.029 Mio. USD (inkl. 723 Mio. USD unrealisiertem Hedge-Gewinn), Adjusted EBITDA 1.494 Mio. USD; Q2-Nettogewinn 305 Mio. USD, Adjusted EBITDA 1.767 Mio. USD (+über 30% ggü. Vorjahr).
 
 ## Strategie & Ausblick
-- Cogentrix-Übernahme (Nettokaufpreis ca. 4,0 Mrd. USD nach Steuervorteilen, Bruttowert medial oft mit 4,7 Mrd. USD beziffert) seit 30.10.2026 abgeschlossen und stärkt die Gaskapazitäten deutlich.
-- "Helix Digital Infrastructure"-Joint-Venture mit KKR, KIA und NVIDIA (Vistra-Commitment bis zu 1,0 Mrd. USD) positioniert Vistra weiterhin als bevorzugten Stromlieferanten für KI-Rechenzentren.
-- Nukleare Stromlieferverträge (PPAs) mit Amazon Web Services und Meta unterstreichen die strategische Ausrichtung auf Grundlastkapazität für Hyperscaler.
-- Analystenkonsens bleibt mit "Strong Buy"-Rating überwiegend positiv, allerdings mit zuletzt gesenkten Kurszielen mehrerer Häuser vor den heutigen Q3-Zahlen.
+- Mit der im Januar 2026 angekündigten und nun abgeschlossenen Übernahme von Cogentrix Energy (rund 4,0 Mrd. USD Nettokaufpreis, 10 Gaskraftwerke mit ca. 5.500 MW in PJM, ISO-NE und ERCOT) baut Vistra seine gasbefeuerte Erzeugungsflotte weiter aus; die Transaktion soll ab 2027 im mittleren bis hohen einstelligen Prozentbereich je Aktie zum Adjusted-Free-Cashflow-before-Growth beitragen.
+- Die Übernahme ist die zweite größere Erweiterung der Gasflotte innerhalb eines Jahres nach dem Lotus-Infrastructure-Deal (2.600 MW) von Mai 2025.
+- Strategischer Fokus bleibt auf wachsender Stromnachfrage durch Rechenzentren/KI, Netzzuverlässigkeit in Texas sowie dem weiteren Ausbau von Kernenergie-Kapazitäten (u.a. über den Meta-Vertrag) und Erdgas.
+- Zusätzlich plant Vistra laut Berichten Investitionen von rund 1 Mrd. USD zum Ausbau der Präsenz im Permian Basin.
 
 ## Quellen
-- [Vistra to Report Third Quarter Results on Nov. 6, 2026 (Finviz/PR Newswire)](https://finviz.com/news/396792/vistra-to-report-third-quarter-results-on-nov-6-2026)
-- [Vistra Corp. Q2 2026 Form 8-K Earnings Release (SEC)](https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000017/vistra-20260630xearningsre.htm)
-- [Vistra Adds to its Industry-Leading Generation Portfolio with Acquisition of Cogentrix (QuantisNow)](https://qnow.quantisnow.com/insight/vistra-adds-to-its-industry-leading-generation-portfolio-with-acquisition-of-6334704)
-- [Vistra to Buy Cogentrix Energy for $4.7B, Boosting Capacity by 5,500 MW (Rallies.ai)](https://rallies.ai/news/vistra-to-buy-cogentrix-for-4b-adding-5500-mw-and-targeting-2027-cash-flow-gains)
-- [Inside Jim Burke's Big Bet on Vistra's Future (D Magazine)](https://www.dmagazine.com/publications/d-ceo/2026/november/ahead-of-the-surge/)
-- [Texas Power Podcast: 1-on-1 with Vistra CEO Jim Burke (Power Engineering)](https://www.power-eng.com/operations-maintenance/texas-power-podcast-1-on-1-with-vistra-ceo-jim-burke/)
+- [Vistra shares surge nearly 10% after earnings driven by strong AI power demand (XTB)](https://www.xtb.com/int/market-analysis/news-and-research/vistra-shares-surge-nearly-10-after-earnings-driven-by-strong-ai-power-demand)
+- [Texas Made 56% of Vistra's $797M Jump in Quarterly EBITDA (FourWeekMBA)](https://fourweekmba.com/ai-texas-made-56-of-vistras-797m-jump-in-quarterly-ebitda/)
+- [Vistra Reports Third Quarter 2026 Results (GreenStockNews)](https://greenstocknews.com/news/nyse/vst/vistra-reports-third-quarter-2026-results)
+- [Vistra to report third quarter results on Nov 6 2026 (Finviz)](https://finviz.com/news/396792/vistra-to-report-third-quarter-results-on-nov-6-2026)
+- [Vistra Investor Relations – News](https://investor.vistracorp.com/news?l=25&o=0)
+- [CERAWeek 2026: Powering What's Next (Vistra)](https://vistracorp.com/ceraweek-2026-powering-whats-next/)
+- [Ahead of the Surge – D Magazine, November 2026](https://www.dmagazine.com/publications/d-ceo/2026/november/ahead-of-the-surge/)
+- [Vistra Delivers Strong Q1 2026 Profit, Bolsters Guidance With Investment Grade Credit and Robust Hedging (MarketChameleon)](https://marketchameleon.com/articles/b/2026/5/7/vistra-q1-2026-strong-profit-guidance-investment-grade-hedging)
+- [Vistra Reports Second Quarter 2026 Results (Barchart)](https://www.barchart.com/story/news/3715470/vistra-reports-second-quarter-2026-results)
+- [Vistra to Acquire 5.5 GW Gas Generation Portfolio in $4 Billion Cogentrix Deal (PGJ Online)](https://pgjonline.com/news/2026/january/vistra-to-acquire-55-gw-gas-generation-portfolio-in-4-billion-cogentrix-deal)
+- [Vistra Adds to its Industry-Leading Generation Portfolio with Acquisition of Cogentrix (Vistra Investor Relations)](https://investor.vistracorp.com/2026-01-05-Vistra-Adds-to-its-Industry-Leading-Generation-Portfolio-with-Acquisition-of-Cogentrix?asPDF=1)
