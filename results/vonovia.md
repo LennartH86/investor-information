@@ -1,59 +1,43 @@
-# Vonovia (VNA.DE)
-_Aktualisiert: 05.11.2026 | Zeitraum: 29.10.2026 – 05.11.2026_
+# Vonovia (VNA)
+_Aktualisiert: 09.11.2026 | Zeitraum: 02.11.2026 – 09.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 47 Aktien
 - **Kaufkurs (Ø):** 28,05 EUR
-- **Aktueller Kurs:** 17,00 EUR
-- **Marktwert:** 799,00 EUR
-- **Unrealisierter G/V:** -519,35 EUR (-39,39%)
+- **Aktueller Kurs:** 16,91 EUR
+- **Marktwert:** 794,77 EUR
+- **Unrealisierter G/V:** -523,58 EUR (-39,71%)
 - **Portfolioanteil:** 0,50%
 - **Dividenden erhalten:** 58,75 EUR
-- **Bewertung:** Der Kurs hat sich im Berichtszeitraum leicht erholt (16,12 → 17,00 EUR), der Verlust bleibt mit -39,4% aber weiterhin erheblich. Belastbare KGV-/KBV-Kennzahlen liegen uns nicht vor; am 28.10.2026 hat Vonovia jedoch seine Prognose 2026 nach unten präzisiert (Adjusted EBITDA nun im unteren Spannenbereich, organisches Mietwachstum nur noch ~3,8% statt ~4%) und zugleich die 2028-Ziele gesenkt (Mietwachstumsziel von 5% auf ~4,5%), was auf anhaltenden Gegenwind durch Finanzierungskosten und ein schwächeres Transaktionsgeschäft hinweist. Positiv: ein erstmaliger (wenn auch vorsichtig formulierter) 2027-Ausblick sowie das Festhalten am Entschuldungspfad (Netto-Verschuldung/Adj. Operating Earnings < 12x bis Ende 2028) über weitere Portfolioverkäufe. Angesichts der gekappten Prognosen und der noch ausstehenden/unklaren Veröffentlichung der eigentlichen Q3-Zahlen (angekündigt für 4.11.2026) erscheint "Halten" weiterhin die sinnvollste Position – ein Aufstocken sollte frühestens nach Bestätigung der Q3-Zahlen und einer stabileren Zinsperspektive erwogen werden.
+- **Bewertung:** Die Aktie notiert deutlich unter dem Kaufkurs; steigende Zinsen bremsen aktuell die Immobilienbewertung und das Transaktionsgeschäft, während das operative Geschäft (Mieteinnahmen) robust bleibt. Angesichts der gesenkten Prognose für 2027 und laufender Investitionskürzungen erscheint ein Halten der Position sinnvoll, eine Aufstockung sollte abgewartet werden, bis sich der Zinsausblick und die Nachfolge im CFO-Posten geklärt haben.
 
 ## Aktuelle Meldungen
-- Vonovia hat am 28.10.2026 per Ad-hoc-Meldung die Jahresprognose 2026 präzisiert: Das bereinigte EBITDA wird nun in der unteren Hälfte der Spanne von 2,95–3,05 Mrd. EUR erwartet, das bereinigte Ergebnis vor Steuern am unteren Ende der Spanne (mind. 1,9 Mrd. EUR); das organische Mietwachstum 2026 wurde auf rund 3,8% (zuvor ~4%) gesenkt.
-- Gleichzeitig wurde erstmals ein Ausblick für 2027 veröffentlicht und die Ziele für 2028 angepasst (Details siehe Abschnitt Strategie & Ausblick).
-- Der Zwischenbericht für die ersten neun Monate bzw. das dritte Quartal 2026 war für den 4.11.2026 angekündigt; konkrete, bestätigte Kennzahlen aus diesem Bericht ließen sich in der aktuellen Recherche (Stand 5.11.2026) noch nicht verifizieren – Angaben hierzu sollten über die offizielle Mitteilung auf investors.vonovia.de nachvollzogen werden.
-- Die Aktie stand infolge der gesenkten Prognosen unter Druck, hat sich zuletzt aber leicht erholt (Kursanstieg von 16,12 auf 17,00 EUR im Berichtszeitraum).
-- Berichten zufolge hat JPMorgan seine Beteiligung an Vonovia auf rund 5,25% aufgestockt (zuvor berichtet, weiterhin als Kontext relevant).
+- Q3-Zwischenmitteilung vom 04.11.2026: "Operatives Geschäft robust im aktuell schwierigen makroökonomischen Umfeld" – Adjusted EBITDA stieg in den ersten neun Monaten 2026 um 3,3% auf 2.187,4 Mio. EUR.
+- Immobilienverkäufe in Höhe von rund 900 Mio. EUR in den ersten neun Monaten 2026 realisiert, Käufer bleiben aber zurückhaltend.
+- Loan-to-Value (LTV) stieg zum 30.09.2026 auf 46,1% (Jahresende 2025: 45,4%).
+- Am 28.10.2026 wurde die Prognose 2026 konkretisiert, eine erste Prognose für 2027 sowie angepasste Ziele für 2028 veröffentlicht; organisches Mietwachstum 2026 wurde auf 3,8% (zuvor rund 4%) gesenkt.
+- Vonovia-Chef Luka Mucic positioniert sich gegen Berliner Pläne zur Sondierung einer Vergesellschaftung/Regulierung von rund 160.000 Wohnungen.
 
 ## Management
-- Luka Mucic ist seit Januar 2026 CEO von Vonovia und hat die Nachfolge von Rolf Buch angetreten, der das Unternehmen von 2013 bis 2025 geführt hatte.
-- Ein (nur einfach bestätigter) Bericht nennt einen Wechsel von Rolf Buch zum US-Investor KKR in eine Beraterrolle.
-- Ein aktuelles Interview mit Rolf Buch aus 2026 wurde erneut nicht gefunden; er ist operativ nicht mehr bei Vonovia aktiv, sodass öffentliche Auftritte unter seinem Namen aktuell kaum vorkommen.
-- Katja Wünschel (zuvor RWE) verantwortet seit 1. Juni 2026 die Projektentwicklung/den Neubau.
+- CFO Philip Grosse strebt keine Vertragsverlängerung an; ein Nachfolger soll in Kürze benannt werden.
+- Luka Mucic (ehemaliger CFO von Vodafone) ist seit Januar 2026 CEO von Vonovia SE und löste Rolf Buch ab, der das Unternehmen Ende 2025 nach 13 Jahren verließ.
 
 ## Finanzielles
-- H1 2026: Bereinigtes EBITDA aus fortgeführten Geschäftsbereichen stieg um 2,4% auf 1.456,5 Mio. EUR; der den Aktionären zustehende Gewinn stieg um rund 18% auf 947,3 Mio. EUR.
-- Q1 2026: Adjusted EBITDA Rental stieg um 6,3% auf 629,7 Mio. EUR, Adjusted EBITDA Total lag bei 711,6 Mio. EUR.
-- Präzisierte Prognose 2026 (28.10.2026): Adjusted EBITDA nun in der unteren Hälfte von 2,95–3,05 Mrd. EUR, Adjusted EBT am unteren Ende von mind. 1,9 Mrd. EUR; organisches Mietwachstum auf ~3,8% gesenkt.
-- Das Investitionsbudget für 2026 wurde laut Marktberichten von rund 1,4 Mrd. auf etwa 1,3 Mrd. EUR gekürzt, um Liquidität und Schuldenabbau zu priorisieren.
-- Verkaufsprogramm über 5 Mrd. EUR soll den Verschuldungsgrad (Loan-to-Value) von 45,4% auf rund 40% senken.
-- Der operative Free Cashflow stand im Jahresverlauf laut mehreren Berichten deutlich unter Druck (teils -45% genannt); die Datenlage ist uneinheitlich und dürfte sich erst mit dem vollständigen Q3-/9-Monats-Bericht klären.
+- Adjusted EBITDA (9M 2026): 2.187,4 Mio. EUR (+3,3% ggü. Vorjahr).
+- Für 2026 erwartet Vonovia beim Adjusted EBITDA ein Ergebnis in der unteren Hälfte der Prognosespanne von 2,95 bis 3,05 Mrd. EUR.
+- Geplantes Investitionsvolumen 2026 wurde auf 1,3 Mrd. EUR gesenkt; neue Manage-to-Green-Investitionen werden ausgesetzt, Development-to-Hold-Projekte zurückgefahren.
+- Immobilienwerte werden zum Jahresende 2026 voraussichtlich stabil bleiben (Niveau Ende 2025), nachdem sie vier Halbjahre in Folge gestiegen waren.
 
 ## Strategie & Ausblick
-- Erstmaliger Ausblick für 2027 (veröffentlicht am 28.10.2026): bereinigtes operatives Ergebnis leicht über 2026-Niveau, bereinigtes Vorsteuerergebnis in etwa auf Vorjahresniveau; Teile der Prognose werden wegen erhöhter Unsicherheit bei Zinsen und Transaktionsmarkt nur qualitativ angegeben.
-- 2028-Ziele angepasst: organisches Mietwachstumsziel von zuvor 5% auf rund 4,5% gesenkt; Netto-Verschuldung im Verhältnis zum bereinigten operativen Ergebnis soll bis Ende 2028 auf unter das 12-Fache sinken, u.a. durch weitere Portfolioverkäufe.
-- Das Development-/Neubau-Segment steht laut Marktberichten strategisch auf dem Prüfstand.
-- Solarausbau: rund 300 MWp Photovoltaik-Anlagen sollen bis Ende 2026 installiert sein, Investitionsvolumen über 400 Mio. EUR.
-- Zentrales strategisches Thema bleibt die Entschuldung über Portfolioverkäufe vor dem Hintergrund weiterhin erhöhter Finanzierungskosten und eines schwächeren Transaktionsmarktes.
+- Strategische Überprüfung des Development-Geschäfts läuft, ein Update wird zusammen mit den Jahreszahlen erwartet.
+- Fokus auf Schuldenabbau bis 2028 trotz höherer Finanzierungskosten.
+- Zusätzliche 40%-Beteiligung an QUARTERBACK New Energy übernommen (jetzt 80%), Kontrolle seit kartellrechtlicher Freigabe am 09.06.2026.
+- Weiterhin 40%-Beteiligung an QUARTERBACK Immobilien AG (at-equity) sowie 25,05% an Gropyus AG.
 
 ## Quellen
-- [EQS-Adhoc: Vonovia präzisiert Prognose 2026, erstmalige Prognose 2027, Anpassung Ziele 2028](https://live.deutsche-boerse.com/nachrichten/EQS-Adhoc-Vonovia-praezisiert-Prognose-2026-und-passt-Prognose-zur-organischen-Mietsteigerung-und-Operating-Free-Cash-Flow-2026-an-Veroeffentlichung-erstmalige-Prognose-2027-und-Anpassung-der-Ziele-2028-aeb6a378-e2cd-4c81-aa52-d5e203bad453)
-- [Vonovia dämpft Wachstumspläne](https://ms-aktuell.de/?p=172806)
-- [Vonovia-Aktie unter Druck: Konzern dämpft Prognose für 2026 und 2028](https://www.cash-online.de/a/vonovia-aktie-unter-druck-konzern-daempft-prognose-fuer-2026-und-2028-728971/)
-- [Vonovia Aktie: Teures Geld deckelt das Ergebnis 2027](https://www.finanztrends.de/news/vonovia-aktie-teures-geld-deckelt-ergebnis-2027/)
-- [Vonovia senkt Ziele für 2028 - Höhere Zinsen belasten](https://www.trend.at/news/vonovia-senkt-ziele-fur-2028-hohere-zinsen-belasten)
-- [Vonovia sees 2027 organic rent growth at about 4%, below 4.8% consensus](https://capital.com/en-au/news/vonovia-sees-2027-organic-rent-growth-at-about-4-below)
-- [Vonovia Aktie: Prognose gekappt, Development auf dem Prüfstand](https://www.boerse-global.de/vonovia-aktie-prognose-gekappt-development-auf-dem-pruefstand/837005)
-- [Vonovia Aktie: Zwischenbericht für Q3 am 4. November](https://trading-treff.de/trading/vonovia-aktie-zwischenbericht-fuer-q3-am-4-november)
-- [Vonovia Aktie: Q3-Zahlen am 4. November](https://www.boerse-express.com/news/articles/vonovia-aktie-q3-zahlen-am-4-november-956654)
-- [Vonovia Aktie: Investitionsbudget für 2026 schrumpft](https://www.finanztrends.de/news/vonovia-aktie-investitionsbudget-fuer-2026-schrumpft/)
-- [Vonovia H1 2026: EBITDA steigt, Cashflow bricht um 45% ein](https://www.boerse-express.com/news/articles/vonovia-h1-2026-ebitda-steigt-cashflow-bricht-um-45-ein-935745)
-- [Vonovia Aktie: JPMorgan stockt Beteiligung auf 5,25 Prozent](https://trading-treff.de/trading/vonovia-aktie-jpmorgan-stockt-beteiligung-auf-525-prozent)
-- [Rolf Buch (Wikipedia)](https://en.wikipedia.org/wiki/Rolf_Buch)
-- [Vonovia Aktie: Mucic übernimmt das Ruder](https://www.boerse-express.com/news/articles/vonovia-aktie-mucic-uebernimmt-das-ruder-853741)
-- [Vonovia Aktie: Brisanter Wechsel](https://www.boerse-express.com/news/articles/vonovia-aktie-brisanter-wechsel-848835)
-- [Vonovia Aktie: Radikaler Solar-Ausbau](https://www.boerse-express.com/news/articles/vonovia-aktie-radikaler-solar-ausbau-891705)
-- [Factsheet H1 26 DE (Vonovia IR)](https://report.vonovia.com/2026/q2/app/uploads/Factsheet_H1_26_DE.pdf)
+- [EQS-News: Vonovia – Operatives Geschäft robust im aktuell schwierigen makroökonomischen Umfeld](https://live.deutsche-boerse.com/nachrichten/EQS-News-Vonovia-Operatives-Geschaeft-robust-im-aktuell-schwierigen-makrooekonomischen-Umfeld-e6e5a4d5-90ef-4d43-8e6c-c1ce35b67292)
+- [Vonovia posts 3.3% rise in 9-month adjusted EBITDA – RTTNews](https://www.rttnews.com/3709208/vonovia-posts-3-3-rise-in-9-month-adjusted-ebitda.aspx)
+- [Vonovias Kerngeschäft bleibt robust – konii.de](https://www.konii.de/news/vonovias-kerngeschaeft-bleibt-robust-hoehere-finanzierungskosten-und-ein-schwaecheres-transaktionsgeschaeft-wirken-auf-die-prognose-2027-und-die-ziele-2028/)
+- [Vonovia Aktie: Chef Mucic hält gegen Berlins Pläne – boerse-global.de](https://www.boerse-global.de/vonovia-aktie-chef-mucic-haelt-gegen-berlins-plaene/838840)
+- [Vonovia Q3 2026 Earnings Call Highlights – MarketBeat](https://www.marketbeat.com/instant-alerts/transcript-vonovia-q3-earnings-call-highlights-2026-11-04/)
+- [Vonovia SE Q2 2026 Bericht – Business Combinations](https://report.vonovia.com/2026/q2/en?p=1207)
