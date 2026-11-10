@@ -1,51 +1,49 @@
 # Münchener Rück (MUV2.DE)
-_Aktualisiert: 06.11.2026 | Zeitraum: 30.10.2026 – 06.11.2026_
+_Aktualisiert: 10.11.2026 | Zeitraum: 03.11.2026 – 10.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 215.00 EUR
-- **Aktueller Kurs:** 589.00 EUR
-- **Marktwert:** 5890.00 EUR
-- **Unrealisierter G/V:** +3724.82 EUR (+172.03%)
-- **Portfolioanteil:** 3.75%
+- **Aktueller Kurs:** 565.00 EUR
+- **Marktwert:** 5650.00 EUR
+- **Unrealisierter G/V:** +3484.82 EUR (+160.95%)
+- **Portfolioanteil:** 3.50%
 - **Dividenden erhalten:** 719.94 EUR
-- **Bewertung:** Munich Re hat nach starken vorläufigen Q3-Zahlen (Nettogewinn rund 1,7 Mrd. EUR, über dem Analystenkonsens von 1,479 Mrd. EUR) die Gewinnprognose 2026 von 6,3 Mrd. auf 6,6 Mrd. EUR angehoben, während der Markt darauf bislang nur verhalten reagierte. Bei einem Kursgewinn von bereits +172% gegenüber dem Einstand und sinkenden Marktpreisen im Rückversicherungsgeschäft erscheint die Bewertung ambitioniert; angesichts der soliden Ertragslage und laufenden Aktienrückkäufen ist ein Halten der Position sinnvoll, eine Aufstockung sollte eher die endgültigen Q3-Zahlen am 12.11.2026 oder einen Kursrückschlag abwarten.
+- **Bewertung:** Der Kurs ist gegenüber der Vorwoche von 589 EUR auf 565 EUR zurückgegangen (-4,1%), bleibt aber mit +160,95% gegenüber dem Einstand weiterhin sehr deutlich im Plus. Die entscheidenden Impulse stehen noch aus: Die endgültigen Q3-2026-Zahlen werden erst am 12.11.2026 veröffentlicht, nachdem die vorläufigen Zahlen (Nettogewinn rund 1,7 Mrd. EUR) bereits über dem Analystenkonsens lagen und die Jahresprognose auf 6,6 Mrd. EUR angehoben wurde. Angesichts des hohen Buchgewinns, des laufenden Aktienrückkaufprogramms und eines Vorstandswechsels im operativen Rückversicherungsgeschäft erscheint ein Halten der Position sinnvoll; eine Entscheidung über Aufstockung oder Teilverkauf sollte die endgültigen Q3-Zahlen am 12.11.2026 abwarten.
 
 ## Aktuelle Meldungen
-- Munich Re meldete am 23.10.2026 vorläufige Q3-Zahlen mit einem Nettogewinn von rund 1,7 Mrd. EUR, der den Analystenkonsens von 1,479 Mrd. EUR übertraf, aber unter dem Vorjahresquartal (1,997 Mrd. EUR) lag.
-- Nach neun Monaten 2026 steht ein kumulierter Nettogewinn von 5,7 Mrd. EUR zu Buche; die Gewinnprognose für das Gesamtjahr wurde von 6,3 Mrd. auf 6,6 Mrd. EUR angehoben.
-- Die Aktie reagierte auf die Prognoseanhebung kaum, da Beobachter die niedrige Großschadenbelastung nicht als strukturelle Verbesserung werten, sondern als Momentaufnahme eines ruhigen Schadenjahres.
-- Die endgültigen Q3-2026-Zahlen werden am 12.11.2026 veröffentlicht; ein Berichtsdatum von 06.11.2026 bei einem Earnings-Aggregator widerspricht dem von Munich Re selbst bestätigten Termin und ist weniger verlässlich.
-- Personalwechsel im operativen Bereich: Michal Mekota, Head of Single Risks Claims, scheidet zum Jahresende 2026 altersbedingt aus; Nachfolger wird laut Berichten ein Herr Meyer.
+- Der Aktienkurs ist im Berichtszeitraum von rund 589 EUR auf 565 EUR gefallen, ohne dass dafür eine konkrete Unternehmensmeldung identifiziert werden konnte; möglicherweise spiegelt dies die Erwartungshaltung vor den endgültigen Q3-Zahlen.
+- Die endgültigen Zahlen zum dritten Quartal 2026 werden am 12.11.2026 veröffentlicht (Quartalsmitteilung zum 30.09.2026); bis dahin gelten weiterhin die am 23.10.2026 gemeldeten vorläufigen Werte (Nettogewinn ca. 1,7 Mrd. EUR, Neunmonatsgewinn 5,7 Mrd. EUR, angehobene Jahresprognose von 6,6 Mrd. EUR).
+- Am 21.10.2026 meldete Munich Re eine Veränderung im Vorstand: Clarisse Kopff verlässt den Vorstand Ende Oktober 2026 und wird nicht ersetzt; Thomas Blunck (61) übernimmt zum 1.11.2026 zusätzlich die Verantwortung für das Rückversicherungsgeschäft in Europa und Lateinamerika.
+- Keine eigenständige Munich-Re-Pressemitteilung für den Zeitraum 03.–10.11.2026 gefunden; die nächste wesentliche Veröffentlichung ist die Quartalsmitteilung am 12.11.2026.
 
 ## Management
-- Christoph Jurecka (zuvor CFO) hat zum 1. Januar 2026 den Vorstandsvorsitz von Joachim Wenning übernommen; Wenning war Ende 2025 nach Abschluss des Strategieprogramms „Ambition 2025" und aus persönlichen Gründen zurückgetreten.
-- Ein aktuelles 2026er-Interview mit CEO Jurecka wurde in der Recherche nicht gefunden. Auf der Hauptversammlung 2026 bezeichnete Jurecka das Jahr 2025 als "finanziell stärker als je zuvor" und stellte das Nachfolgeprogramm "Ambition 2030" vor.
-- Operative Personalveränderung unterhalb der Vorstandsebene: Nachfolgeregelung im Schadenbereich (Single Risks Claims) zum Jahresende 2026.
+- Christoph Jurecka ist seit 1. Januar 2026 Vorstandsvorsitzender (Nachfolger von Joachim Wenning) und bezeichnete 2025 als "finanziell stärkstes Jahr" des Konzerns; strategischer Fokus liegt auf dem Nachfolgeprogramm "Ambition 2030" (Ziele u. a. Eigenkapitalrendite über 18% bis 2030, EPS-Wachstum über 8% p.a., Solvenzquote dauerhaft über 200%).
+- Vorstandsveränderung zum 1.11.2026: Clarisse Kopff scheidet aus dem Vorstand aus und wird nicht ersetzt; Thomas Blunck übernimmt zusätzlich das Rückversicherungsgeschäft Europa/Lateinamerika.
+- Ein aktuelles, eigenständiges 2026er-Interview mit CEO Jurecka wurde weiterhin nicht gefunden; öffentliche Aussagen liegen bislang vor allem aus dem Aktionärsbrief und der Hauptversammlung 2026 vor.
+- Personalwechsel im operativen Bereich (bereits in Vorwoche berichtet): Michal Mekota, Head of Single Risks Claims, scheidet zum Jahresende 2026 altersbedingt aus; Nachfolge laut Berichten durch einen Herrn Meyer.
 
 ## Finanzielles
-- Konzernergebnisprognose 2026 von 6,3 Mrd. EUR auf 6,6 Mrd. EUR angehoben, gestützt auf niedrige Großschäden und ein starkes Kapitalanlageergebnis.
-- Vorläufiger Q3-Nettogewinn von rund 1,7 Mrd. EUR; kumulierter Neunmonatsgewinn 2026 bei 5,7 Mrd. EUR.
-- Munich Re will im vierten Quartal 2026 – je nach Entwicklung der Großschäden – die Reserven weiter stärken.
+- Vorläufiger Q3-2026-Nettogewinn von rund 1,7 Mrd. EUR, über dem Analystenkonsens von 1,479 Mrd. EUR, aber unter dem Vorjahresquartal (1,997 Mrd. EUR); endgültige Zahlen folgen am 12.11.2026.
+- Kumulierter Neunmonatsgewinn 2026: 5,7 Mrd. EUR; Jahresprognose von 6,3 Mrd. auf 6,6 Mrd. EUR angehoben.
+- Q2 2026 lag mit rund 2,2 Mrd. EUR deutlich über dem Analystenkonsens von 1,786 Mrd. EUR; Q1 2026 erzielte einen Nettogewinn von 1,714 Mrd. EUR (Vorjahr: 1,094 Mrd. EUR).
 - Laufendes Aktienrückkaufprogramm über bis zu 2,25 Mrd. EUR bleibt bestehen.
-- Marktumfeld bleibt herausfordernd: Erneuerungsvolumen im April 2026 sank um 18,5%, die Preise fielen um 3,1%; ein Analyst erwartet weiter sinkende Preise bis 2027.
+- Marktumfeld in der Rückversicherung bleibt herausfordernd mit sinkenden Erneuerungspreisen; dies begrenzt laut Beobachtern das weitere Gewinnwachstum trotz der angehobenen Prognose.
 
 ## Strategie & Ausblick
-- Selektives M&A-Vorgehen im Cyberversicherungsgeschäft: Berichte vom 20.08.2026 über eine geplante Übernahme von At-Bay; Details zu Kaufpreis und Abschlussstatus liegen noch nicht vor.
-- Die 2025 angekündigte Übernahme von NEXT Insurance durch die ERGO-Tochter (rund 2,6 Mrd. USD) wurde im Juli 2025 abgeschlossen und stärkt den Eintritt in den US-amerikanischen KMU-Versicherungsmarkt.
-- Die Vermögensverwaltungstochter MEAG hat eine Minderheitsbeteiligung an der Digitalinfrastruktur-Plattform TowerPoint erworben.
-- Munich Re baut laut Berichten die Beteiligung an der kanadischen GroupHEALTH aus (zuvor 40% über Munich Re New Ventures); genaues Datum unklar.
-- Strategisch bestätigt der Konzern den Wachstumskurs über alle Segmente ("Ambition 2030"), sieht aber angesichts sinkender Rückversicherungspreise keinen Automatismus für weiter steigende Gewinne.
+- Die im August 2026 vereinbarte Übernahme des US-Cyber-Insurtechs At-Bay (Unternehmenswert rund 575 Mio. USD) soll über die Tochter Hartford Steam Boiler (HSB) integriert werden; der Abschluss steht unter dem Vorbehalt behördlicher Genehmigungen und wird für das erste Quartal 2027 erwartet. Die Transaktion soll Munich Res Position im Cybermarkt durch Kombination von Versicherung mit proaktivem Risikomanagement und einer Technologieplattform stärken.
+- ERGO, die Erstversicherungstochter, hat die bereits angekündigte Übernahme von ADB Gjensidige (ehemalige litauische Tochter von Gjensidige Forsikring) abgeschlossen und baut damit die Präsenz im Baltikum aus.
+- Die 2025 angekündigte Übernahme von NEXT Insurance durch ERGO (rund 2,6 Mrd. USD) wurde im Juli 2025 abgeschlossen und stärkt den Eintritt in den US-amerikanischen KMU-Versicherungsmarkt.
+- Strategisch bleibt der Konzern auf Wachstum über alle Segmente ausgerichtet ("Ambition 2030"), sieht aber angesichts sinkender Rückversicherungspreise keinen Automatismus für weiter steigende Gewinne; die Vorstandsneuordnung (Blunck/Kopff) soll die operative Steuerung des europäischen/lateinamerikanischen Rückversicherungsgeschäfts stärken.
 
 ## Quellen
-- [Munich Re erzielt Quartalsergebnis (Medieninformation 23.10.2026)](https://www.munichre.com/de/unternehmen/media-relations/medieninformationen-und-unternehmensnachrichten/medieninformationen/2026/media-release-2026-10-23.html)
-- [Munich Re reports quarterly net profit of €1.7bn and raises full-year guidance (Ad-hoc)](https://www.munichre.com/en/company/investors/mandatory-announcements/ad-hoc-announcements/2026-10-23-ad-hoc.html)
+- [Munich Re reports quarterly net profit of €1.7bn and raises full-year guidance (Medieninformation 23.10.2026)](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-10-23.html)
+- [Change in Munich Re's Board of Management (Medieninformation 21.10.2026)](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-10-21.html)
 - [Munich Re erhöht die Gewinnprognose – Börsen-Zeitung](https://www.boersen-zeitung.de/banken-finanzen/munich-re-erhoeht-die-gewinnprognose)
-- [Münchener Rück erhöht Gewinnziel nach neun Monaten – ms-aktuell.de](https://ms-aktuell.de/welt/munich-re-gewinnprognose-23-10-2026/)
-- [Munich Re übertrifft Erwartungen und liegt auf Rekordkurs – Versicherungsbote](https://www.versicherungsbote.de/id/4949794/Munich-Re-uebertrifft-Erwartungen-und-liegt-auf-Rekordkurs/)
-- [Münchener Rück Aktie: Gewinnziel steigt nach starkem Quartal auf 6,6 Milliarden Euro – goldesel.de](https://goldesel.de/aktien/news/munchener-ruck-aktie-gewinnziel-steigt-nach-starkem-quartal-auf-66-milliarden-euro)
-- [Jurecka löst Wenning an der Spitze von Munich Re ab – Börsen-Zeitung](https://www.boersen-zeitung.de/personen/jurecka-loest-wenning-an-der-spitze-von-munich-re-ab)
-- [Munich Re Aufsichtsrat beschließt Veränderungen im Vorstand](https://www.munichre.com/de/unternehmen/media-relations/medieninformationen-und-unternehmensnachrichten/medieninformationen/2025/medieninformation-2025-07-23.html)
-- [Munich Re to Acquire At-Bay – atlas-mag.net](https://atlas-mag.net/en/articles/munich-re-acquire-bay)
+- [Event calendar – Munich Re (Termin Quartalsmitteilung 12.11.2026)](https://www.munichre.com/en/company/media-relations/event-calendar.content.html)
+- [Munich Re Group to Acquire Cyber Insurtech At-Bay (Pressemitteilung 19.08.2026)](https://www.munichre.com/hsb/en/press-and-publications/press-releases/2026/media-release-2026-08-19.en.html)
+- [Munich Re agrees $575m acquisition of cyber insurtech At-Bay – Intelligent Insurer](https://www.intelligentinsurer.com/munich-re-agrees-dollar575m-acquisition-of-cyber-insurtech-at-bay)
+- [ERGO erwirbt Nichtlebensversicherer ADB Gjensidige im Baltikum – Reinsurance News](https://www.reinsurancene.ws/munich-res-ergo-acquires-non-life-insurer-adb-gjensidige-in-the-baltics/)
+- [Annual General Meeting 2026 approves higher dividend of €24 per share](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-04-29.html)
 - [Munich Re's ERGO completes $2.6 billion acquisition of NEXT Insurance – Insurance Business Mag](https://insurancebusinessmag.com/reinsurance/news/breaking-news/munich-res-ergo-completes-2-6-billion-acquisition-of-next-insurance-541175.aspx)
-- [Meyer to succeed Mekota as Munich Re's Head of Single Risks Claims – Reinsurance News](https://www.reinsurancene.ws/)
+- [Munich Re Q1 2026: Quartalsmitteilung – Nettogewinn 1,714 Mrd. EUR](https://www.munichre.com/de/unternehmen/media-relations/medieninformationen-und-unternehmensnachrichten/medieninformationen/2026/quartalsmitteilung-1-2026.content.html)
