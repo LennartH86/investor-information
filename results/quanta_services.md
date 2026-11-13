@@ -1,51 +1,47 @@
 # Quanta Services (PWR)
-_Updated: 10.11.2026 | Period: 03.11.2026 – 10.11.2026_
+_Aktualisiert: 13.11.2026 | Zeitraum: 06.11.2026 – 13.11.2026_
 
-## Portfolio Analysis
+## Portfolio-Analyse
 - **Position:** 2 shares
-- **Average purchase price:** 540.47 EUR
-- **Current price:** 526.80 EUR
-- **Market value:** 1053.60 EUR
-- **Unrealized P/L:** -27.34 EUR (-2.53%)
-- **Portfolio weight:** 0.65%
-- **Dividends received:** 0 EUR
-- **Assessment:** The stock has recovered strongly over the past week, narrowing the unrealized loss from roughly -17% to just -2.53%, as the market continued to digest the record Q3 2026 results (revenue +57% YoY, adjusted EPS 6.06 USD, record backlog of 63.7 bn USD) and the raised full-year guidance. No new company-specific news was found for the 03.11–10.11.2026 window itself; the rebound looks like a continuation of the post-earnings reassessment rather than a new catalyst. Given the intact growth story (grid modernization, data centers, active M&A), holding the position remains reasonable.
+- **Kaufkurs (Ø):** 540.47 EUR
+- **Aktueller Kurs:** 548.20 EUR
+- **Marktwert:** 1,096.40 EUR
+- **Unrealisierter G/V:** +15.46 EUR (+1.43%)
+- **Portfolioanteil:** 0.67%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** The position has moved into positive territory this week, with the price climbing further past the average purchase price on continued positive digestion of the record Q3 2026 results (revenue +57% YoY, adjusted EPS 6.06 USD, record backlog ~64 bn USD) and raised FY2026 guidance (EPS 17.90–18.30 USD). With the growth story (grid modernization, data centers, M&A) intact and no negative catalysts in the window, holding the position continues to look reasonable; the small position size limits the case for adding meaningfully for now.
 
-## Current News
-- No standalone press releases or company-specific news items were found for the narrow period 03.11.–10.11.2026; coverage in this window largely continued to reference the Q3 2026 earnings release (29.10.2026) and its aftermath.
-- The share price recovered markedly within the period, moving from around 450 EUR (as of 06.11.2026) back up to 526.80 EUR (10.11.2026), consistent with continued positive market reassessment of the Q3 results and raised guidance rather than any single new announcement.
-- Analyst commentary following Q3 results continues to circulate, with several sources noting that supply chain and workforce capacity (not demand) are now viewed as the main constraint on growth, and that Quanta is expanding manufacturing capacity, training programs and acquisitions to address this.
-- Company press release page and SEC filing feeds show no new 8-K or press release dated in the 03.11.–10.11.2026 window; the next scheduled major disclosure would likely be a conference participation announcement or further investor-conference appearances.
+## Aktuelle Meldungen
+- No standalone company-specific press release was identified strictly within 06.11.–13.11.2026 beyond a conference-participation announcement (dated around 10.11.2026) confirming management will attend the Baird Global Industrial Conference (Chicago, 11.11.2026) and the UBS Global Industrials and Transportation Conference (Palm Beach, early December).
+- CEO Duke Austin, CFO Jayshree Desai and VP of IR Kip Rupp met institutional investors at the Baird conference on 11.11.2026, including a fireside chat hosted by a Baird analyst at 5:05 p.m. ET; a webcast replay was made available on the Quanta investor relations site.
+- Coverage during the window continued to reference the Q3 2026 earnings release (29.10.2026) and its aftermath; the share price has continued recovering/advancing since the earnings print.
+- No new 8-K or major press release beyond the conference announcements was found for this specific window.
 
 ## Management
-- CEO Earl "Duke" Austin Jr. has reiterated, in post-Q3 commentary, that Quanta is positioned for strong double-digit adjusted EPS growth in 2027, supported by the record backlog of 63.7 bn USD.
-- Austin continues to frame Quanta's value proposition around "certainty" of execution, workforce availability, supply chain and schedule reliability for utility and technology customers, including in earlier 2026 appearances such as the Bernstein Strategic Decisions Conference.
-- CFO Jayshree Desai has highlighted the roughly 245 million USD (net of cash acquired) spent on acquisitions completed after the Q2 close, as part of the company's ongoing M&A program.
-- No new, standalone CEO interview or management appearance specific to the 03.11.–10.11.2026 period was identified; statements found continue to derive from the Q3 earnings call (29.10.2026) and prior 2026 investor conference appearances.
-- Management continues to emphasize that the infrastructure investment cycle (grid modernization, renewables integration, data center connectivity) is structural and expected to run "well past 2030."
+- CEO Duke Austin and CFO Jayshree Desai represented the company at the Baird Global Industrials Conference fireside chat on 11.11.2026; no new strategic statements beyond prior post-Q3 commentary were surfaced from this appearance in available coverage.
+- Management continues to reiterate (from post-Q3 commentary) that Quanta is positioned for strong double-digit adjusted EPS growth in 2027, supported by the record backlog of roughly 64 bn USD.
+- Austin continues to frame the company's value proposition around execution "certainty" — workforce availability, supply chain and schedule reliability — for utility and technology customers.
+- No standalone CEO interview specific to this window was identified; statements found continue to derive from the Q3 earnings call and the November investor-conference appearances.
 
-## Financials
-- **Q3 2026 (latest reported quarter):** Revenue 12.01 bn USD (+57% YoY); GAAP EPS 4.55 USD; Adjusted EPS 6.06 USD (prior year: 3.33 USD); Adjusted EBITDA approx. 1.4 bn USD.
-- **Backlog:** Record total backlog of 63.7 bn USD, with RPO of 41.8 bn USD, up significantly from the prior quarter.
-- **FY2026 guidance (raised):** Revenue of 41.3–41.6 bn USD and Adjusted EPS of 17.90–18.30 USD (previously: revenue 39.3–39.7 bn USD, Adjusted EPS 16.45–16.95 USD).
-- **Cash flow:** Operating cash flow of approx. 1.5 bn USD and free cash flow of approx. 1.2 bn USD in Q3 2026, both quarterly records.
-- **Dividend:** Quarterly dividend of 0.11 USD/share, most recently paid 09.10.2026 to shareholders of record as of 01.10.2026; no dividend announcement identified for the 03.11.–10.11.2026 period.
-- **Financing:** A 2 bn USD senior notes offering was completed in August 2026, partly to fund the ongoing acquisition program.
-- **Price action:** Share price recovered from approx. 450 EUR (06.11.2026) to 526.80 EUR (10.11.2026), narrowing the unrealized portfolio loss from -16.74% to -2.53% over the week.
+## Finanzielles
+- **Q3 2026 (latest reported quarter):** Revenue approx. 12.0 bn USD (+57% YoY); Adjusted EPS 6.06 USD (vs. 3.33 USD prior year); record operating cash flow of approx. 1.5 bn USD and free cash flow of approx. 1.2 bn USD.
+- **Backlog:** Record total backlog of approx. 64 bn USD, with remaining performance obligations of approx. 41.8 bn USD.
+- **FY2026 guidance (raised):** Revenue of 41.3–41.6 bn USD and Adjusted EPS of 17.90–18.30 USD.
+- **Price action:** Share price rose from 526.80 EUR (10.11.2026) to 548.20 EUR (13.11.2026), moving the position from a small unrealized loss into a gain of +1.43% over the week.
+- No new dividend announcement was identified for this window; the most recent quarterly dividend (0.11 USD/share) was paid 09.10.2026.
 
-## Strategy & Outlook
-- Growth strategy remains focused on grid modernization, renewable energy interconnection, and rising demand from the data center and technology sectors.
-- The active M&A program continues: five acquisitions completed in the first nine months of 2026 (including Tri-City Group, Phalcon, Enerfab, Percheron and PSD), following eight acquisitions in full-year 2025 (including the 1.35 bn USD Dynamic Systems deal).
-- The sharp rise in backlog to 63.7 bn USD signals materially improved visibility into 2027 and underpins management's expectation of strong double-digit adjusted EPS growth next year.
-- Several analyst commentaries note that supply chain and workforce capacity, rather than demand, are increasingly viewed as the binding constraint on near-term growth, prompting continued investment in training, manufacturing capacity and acquisitions.
-- Next catalysts: further analyst reactions to the raised FY2026 guidance, potential early signals on FY2027 guidance, and any additional acquisition announcements or investor conference appearances in the coming weeks.
+## Strategie & Ausblick
+- Growth strategy remains centered on grid modernization, renewable energy interconnection, and rising demand from data centers and the broader technology sector.
+- The active M&A program continues, with acquisitions completed in 2026 (including Tri-City Group, Phalcon, Enerfab, Percheron and PSD) expected to contribute roughly 1.2–1.4 bn USD of incremental 2026 revenue.
+- The record backlog of approx. 64 bn USD underpins management's expectation of strong double-digit adjusted EPS growth into 2027.
+- Supply chain and workforce capacity, rather than demand, continue to be flagged as the key constraints on near-term growth, prompting continued investment in training, manufacturing capacity and acquisitions.
+- Next catalysts: outcomes/commentary from the November–December investor conference circuit (Baird, UBS), any early signals on FY2027 guidance, and further acquisition announcements.
 
-## Sources
-- [Quanta Services Reports Third Quarter 2026 Results – Finviz](https://finviz.com/news/411212/quanta-services-reports-third-quarter-2026-results)
+## Quellen
+- [Quanta Services to Participate in Institutional Investor Conferences in November and December – Finviz](https://finviz.com/news/419821/quanta-services-to-participate-in-institutional-investor-conferences-in-november-and-december)
 - [Transcript: Quanta Services Q3 Earnings Call Highlights – MarketBeat](https://www.marketbeat.com/instant-alerts/transcript-quanta-services-q3-earnings-call-highlights-2026-10-30/)
 - [PWR Q3 Earnings Beat on Electric Strength, 2026 View Raised, Stock Up – Zacks](https://www.zacks.com/stock/news/3018963/pwr-q3-earnings-beat-on-electric-strength-2026-view-raised-stock-up)
+- [Quanta Services Reports Third Quarter 2026 Results – Finviz](https://finviz.com/news/411212/quanta-services-reports-third-quarter-2026-results)
 - [Duke Austin, Quanta Services CEO, on Ambitious 2026 Growth Expectations – Panabee](https://www.panabee.com/quote/duke-austin-on-ambitious-2026-growth-expectations-and-market-convergence-drivers-pwr-103025)
-- [Quanta Services CEO Says the Buildout Runs "Well Past 2030" – Tikr Blog](https://www.tikr.com/blog/quanta-services-ceo-says-the-buildout-runs-well-past-2030-heres-what-that-means-for-pwr-in-2026)
 - [Quanta Services Reports Second Quarter 2026 Results – Barchart](https://www.barchart.com/story/news/3546702/quanta-services-reports-second-quarter-2026-results)
-- [Quanta Services Acquires Tri-City Group – King & Spalding](https://www.kslaw.com/news-and-insights/quanta-services-acquires-tri-city-group)
 - [Press Releases Overview – Investor Relations](https://investors.quantaservices.com/news-events/press-releases?page=1)
