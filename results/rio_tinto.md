@@ -1,47 +1,48 @@
 # Rio Tinto (RIO.L)
-_Aktualisiert: 10.11.2026 | Zeitraum: 03.11.2026 – 10.11.2026_
+_Updated: 14.11.2026 | Period: 07.11.2026 – 14.11.2026_
 
-## Portfolio-Analyse
-- **Position:** 80 Aktien
-- **Kaufkurs (Ø):** 57.28 EUR
-- **Aktueller Kurs:** 77.30 EUR
-- **Marktwert:** 6184.00 EUR
-- **Unrealisierter G/V:** +1570.34 EUR (+34.04%)
-- **Portfolioanteil:** 3.83%
-- **Dividenden erhalten:** 1128.54 EUR
-- **Bewertung:** The share price continued to climb this week (from 75.00 to 77.30 EUR, +3.1%), pushing the unrealized gain to +34.04%, supported by a newly approved growth investment at Resolution Copper and a resumed ramp-up at Oyu Tolgoi following a seismic disruption. With the position already large (3.83% of portfolio) and richly valued relative to cost, **Hold** remains appropriate; investors who already hold a full position may consider a partial trim into strength rather than adding more at current levels.
+## Portfolio Analysis
+- **Position:** 80 shares
+- **Average purchase price:** 57.28 EUR
+- **Current price:** 75.51 EUR
+- **Market value:** 6040.80 EUR
+- **Unrealized gain/loss:** +1427.14 EUR (+30.93%)
+- **Portfolio weight:** 3.29%
+- **Dividends received:** 1128.54 EUR
+- **Assessment:** The share price eased slightly this week (from around 77.30 to 75.51 EUR), trimming last week's gain but still leaving an unrealized return of roughly +31% on cost, alongside substantial dividend income (~1,128 EUR) already received. News flow stayed constructive (Resolution Copper, Oyu Tolgoi restart, CBA aluminium deal, strong Q3 copper and lithium output), with no signs of operational setbacks; given the position's size and the already large unrealized gain, **Hold** remains the reasonable stance, with a partial trim worth considering only if the position weight is to be actively managed down.
 
-## Aktuelle Meldungen
-- Rio Tinto approved a $144 million investment by Resolution Copper (Rio Tinto's share: approximately $79 million) to advance the next phase of development at the Arizona copper project (reported around 6 November 2026).
-- Underground operations at Oyu Tolgoi (Mongolia) were restarted after a seismic event forced a temporary halt; the restart was reported around 30 October 2026.
-- Reuters reported (23 October 2026) a roughly $1.9 billion investment in a Queensland bauxite project.
-- China's state iron-ore buyer reportedly agreed a new annual supply contract with Rio Tinto, according to a Reuters report dated 21 October 2026.
-- No official Rio Tinto press release dated within November 2026 was found via search at the time of this update; the newsroom and ASX/LSE feeds may lag the aggregator coverage above.
-- A Reuters report (28 October 2026) referenced a proposed CEO pay increase of around 56%, which has not been independently verified against company filings.
+## Recent News
+- No Rio Tinto press release dated specifically within 07.11.2026–14.11.2026 was found via search; the most recent confirmed company-level items are from late October/early November 2026 (below), and search results suggest no later news has surfaced in this window.
+- Resolution Copper (Arizona, US): a $144 million development-phase investment was approved, with Rio Tinto's share at approximately $79 million (reported around 6 November 2026).
+- Oyu Tolgoi (Mongolia): underground operations resumed restart after a seismic event had forced a temporary halt (reported around 30 October 2026).
+- Queensland bauxite project: a roughly $1.9 billion investment was reported (23 October 2026).
+- CEO pay: a Reuters-sourced report (28 October 2026) referenced a proposed ~56% increase to the CEO's pay package; not independently confirmed via an official filing in this research round.
+- Ownership of the Argyle Pink Diamonds brand has passed to jewellery designer Boodles, per Rio Tinto's own news page.
 
 ## Management
 - CEO: **Simon Trott** has led Rio Tinto since 25 August 2025, succeeding Jakob Stausholm; he previously headed the company's iron-ore division.
 - At the 2026 AGMs (London and Perth, 6 May 2026), Trott outlined a plan to make the company "stronger, sharper and simpler," with safety highlighted as a priority after three fatalities since the previous AGM, and stated an ambition for Rio Tinto to become "the most valued metals and mining business."
-- A Reuters report referenced a proposed increase of roughly 56% to the CEO's pay package (28 October 2026); this has not been confirmed via an official company filing in this research round.
+- A March 2026 interview cited Trott saying China will remain Rio Tinto's largest market (contributing nearly 57% of 2025 combined sales revenue) and that the company will pursue M&A only where it clearly creates value; this secondhand report should be treated with some caution.
+- The previously reported ~56% CEO pay increase proposal (28 October 2026) remains unconfirmed by an official company filing.
 - No further leadership changes were identified in this week's research window.
 
-## Finanzielles
-- Q3 2026 production results (14 October 2026) remain the latest operational disclosure: Oyu Tolgoi copper output up around 27-29% year-to-date; group copper output roughly flat at ~205kt for the quarter (9-month total ~646kt, +1% YTD); lithium carbonate equivalent output up 33% YTD.
-- The company reiterated it remains on track for about $5 billion of capital releases by end-2026, part of a broader $5-10 billion multi-year capital-release program (more than $2bn completed year-to-date as of the Q3 update).
-- New capital commitments this week: approximately $79 million (Rio Tinto's share of a $144 million total) for Resolution Copper's next development phase, and a reported ~$1.9 billion Queensland bauxite project investment.
-- No new half-year or full-year financial statements were released in this window; the next scheduled major financial disclosure is expected to be the full-year/annual results early in 2027.
+## Financials
+- Q3 2026 production results (14 October 2026) remain the latest operational disclosure: Oyu Tolgoi copper output up ~27-29% year-to-date, group copper production roughly flat for the quarter with a nine-month total up ~1% YTD, and lithium carbonate equivalent output up 33% YTD despite weather disruption; global iron ore sales up ~3% YTD.
+- Simandou (Guinea) iron ore reached an annualised run-rate of about 10 Mtpa (100% basis) as of the Q3 update.
+- The company reiterated it remains on track for about $5 billion of capital releases by end-2026, and separately targets an annualised productivity benefit run-rate of about $1.8 billion by end-2026.
+- Capital commitments from recent weeks: ~$79 million (Rio Tinto's share of a $144 million total) for Resolution Copper's next development phase, plus a reported ~$1.9 billion Queensland bauxite project investment.
+- No new half-year or full-year financial statements were released in this window; the next scheduled major financial disclosure is expected to be the full-year/annual results in early 2027.
 
-## Strategie & Ausblick
+## Strategy & Outlook
 - Rio Tinto has formally ended merger talks with Glencore; following the August 2026 standstill expiry, management concluded the deal did not offer sufficient shareholder value, and focus remains on organic growth, cost reduction and copper expansion.
-- Growth capital continues to be directed toward copper: the new Resolution Copper (Arizona) investment and the ongoing Oyu Tolgoi ramp-up (now restarting after the seismic event) underline copper as the primary long-term growth pillar.
-- The Queensland bauxite investment and continued Yarwun refinery life-extension measures point to continued portfolio optimization within the aluminium value chain.
-- Rio Tinto and Chalco's joint acquisition of Votorantim's controlling stake in Brazil's CBA (announced January 2026, ~$902.6m total, Rio's pro-rata share ~$297.8m) remains pending closing conditions, including regulatory approvals; status was not confirmed as finalized in this week's research.
-- Simandou (Guinea) iron ore ramp-up and integration of the Arcadium Lithium business remain additional medium-term growth drivers, alongside the explored Pilbara iron-ore collaboration with BHP (potential joint mining at Yandicoogina and Yandi, first ore not expected before the early 2030s).
+- Growth capital continues to be directed toward copper: the Resolution Copper (Arizona) investment and the ongoing Oyu Tolgoi ramp-up (restarting after the seismic event) underline copper as the primary long-term growth pillar.
+- The Queensland bauxite investment points to continued portfolio optimization within the aluminium value chain.
+- Rio Tinto and Chalco's joint acquisition of Votorantim's controlling stake in Brazil's CBA (announced January 2026, ~$902.6m total, Rio's pro-rata share ~$297.8m) remains pending closing conditions, including regulatory approvals; status was not confirmed as finalized in this week's research. Rio's aluminium and lithium chief executive, Jérôme Pécresse, has framed the deal as aligned with growing the aluminium business.
+- Simandou's ramp-up toward its ~10 Mtpa annualised run-rate and continued integration of the Arcadium Lithium business remain additional medium-term growth drivers, alongside the explored Pilbara iron-ore collaboration with BHP (potential joint mining at Yandicoogina and Yandi, first ore not expected before the early 2030s).
 
-## Quellen
+## Sources
 - [Rio Tinto topic page – Mining Weekly](https://www.miningweekly.com/topic/rio-tinto)
-- [Rio Tinto releases third quarter 2026 production results – riotinto.com](https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-third-quarter-2026-production-results)
-- [Q3 2026 production results (Japanese) – riotinto.com](https://www.riotinto.com/ja-jp/jp/news/releases/2026/rio-tinto-announces-third-quarter-production-results-2026)
+- [Rio Tinto releases third quarter 2026 production results – riotinto.com (Japanese)](https://www.riotinto.com/ja-jp/jp/news/releases/2026/rio-tinto-announces-third-quarter-production-results-2026)
 - [ASX announcement, Q3 2026 production – announcements.asx.com.au](https://announcements.asx.com.au/asxpdf/20261014/pdf/07591gbn3g6c6g.pdf)
 - [Rio Tinto provides Q3 2026 production update – Fool.com.au](https://www.fool.com.au/2026/10/14/rio-tinto-provides-q3-2026-production-update/)
 - [Rio Tinto releases third quarter 2026 production results – Webull](https://www.webull.com/news/15743050307216384)
