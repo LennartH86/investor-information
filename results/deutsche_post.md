@@ -1,57 +1,57 @@
-# DHL Group (DHL.DE)
-_Aktualisiert: 11.11.2026 | Zeitraum: 04.11.2026 – 11.11.2026_
+# Deutsche Post (DHL Group) (DHL.DE)
+_Aktualisiert: 15.11.2026 | Zeitraum: 08.11.2026 – 15.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 30 Aktien
 - **Kaufkurs (Ø):** 35,35 EUR
-- **Aktueller Kurs:** 58,60 EUR
-- **Marktwert:** 1758,00 EUR
-- **Unrealisierter G/V:** +689,95 EUR (+64,60%)
-- **Portfolioanteil:** 1,09%
+- **Aktueller Kurs:** 60,73 EUR
+- **Marktwert:** 1821,90 EUR
+- **Unrealisierter G/V:** +753,85 EUR (+70,58%)
+- **Portfolioanteil:** 0,99%
 - **Dividenden erhalten:** 193,83 EUR
-- **Bewertung:** Der Kurs erholte sich in der Berichtswoche von 57,74 auf 58,60 EUR (+1,5%) und machte damit den leichten Rückgang der Vorwoche wieder wett – ein Zeichen dafür, dass der Markt den am 05.11. veröffentlichten, geprüften Q3-Bericht sowie die zum zweiten Mal im Jahr angehobene Guidance (Group EBIT > 7,0 Mrd. EUR, FCF ex M&A > 3,2 Mrd. EUR) inzwischen positiv verarbeitet hat. Substanziell neue Kurstreiber lagen im Berichtszeitraum nicht vor; die fundamentale Lage bleibt mit einem Buchgewinn von +64,6% und solider operativer Dynamik unverändert attraktiv. "Halten" bleibt angesichts der stabilen Ertragslage, der bestätigten Jahresprognose und ohne neue negative Katalysatoren die angemessene Einschätzung; eine Aufstockung erscheint nach dem starken Kursverlauf seit dem Erstkauf 2022 (35,35 EUR) nicht zwingend erforderlich.
+- **Bewertung:** DHL Group hat die Jahresprognose 2026 im Laufe des Jahres zweimal angehoben (zuletzt am 16.10.2026) und erwartet nun ein operatives Ergebnis (EBIT) von über 7,0 Mrd. EUR sowie einen freien Cashflow (ex M&A) von über 3,2 Mrd. EUR – ein klares Zeichen operativer Stärke, getragen vor allem von DHL Express und Global Forwarding. Mit +70,58% Kursgewinn seit Erstkauf (2022-06-23) und laufenden Dividendenerträgen von 193,83 EUR erscheint die Position fundamental gut unterlegt; angesichts der wiederholten Prognoseanhebungen und der soliden Wachstumsstory (Capex-Ausweitung auf ~3,6 Mrd. EUR für Zukunftsfelder wie Pharma/Healthcare, E-Commerce und Data-Center-Logistik) spricht derzeit mehr für Halten bzw. moderates Aufstocken als für Reduzieren; eine Gewinnmitnahme nach dem starken Lauf wäre jedoch ebenfalls nachvollziehbar.
 
 ## Aktuelle Meldungen
-- Ruhiger Berichtszeitraum ohne neue Pressemitteilung aus Bonn: Zentrales Ereignis bleibt der am 05.11.2026 veröffentlichte, geprüfte Q3-2026-Konzernbericht (bereits in der Vorwoche berichtet), der die vorläufigen Zahlen vom 16.10. bestätigte (Konzernumsatz 22,7 Mrd. EUR, +12,6% YoY).
-- Der Aktienkurs erholte sich binnen der Woche leicht von 57,74 auf 58,60 EUR (+1,5%), nachdem er zuvor nach der Zahlenvorlage kurzfristig nachgegeben hatte ("buy the rumor, sell the news").
-- Medienresonanz auf die Q3-Zahlen hält an: Die Börsen-Zeitung kommentierte, das robuste DHL-Geschäft gebe "der Gesamtwirtschaft Hoffnung" – ein Hinweis auf DHL Express/Forwarding als Frühindikator für die globale Handelsaktivität (DHL business gives hope to the overall economy, per Börsen-Zeitung commentary).
-- Ergänzend sichtbar wurde eine im Jahresverlauf 2026 vollzogene Übernahme in Großbritannien: DHL Supply Chain hat eine Mehrheitsbeteiligung am E-Commerce-Fulfillment-Anbieter Brandpath Group erworben (DHL Supply Chain acquires majority stake in e-commerce fulfillment firm Brandpath), was das bereits breite M&A-Bild in der Logistiksparte weiter ergänzt.
+- Q3 2026 Ergebnisse veröffentlicht am 05.11.2026: Konzernumsatz stieg um 12,6% auf 22,7 Mrd. EUR (Q3 2025: 20,1 Mrd. EUR), EBIT stieg um rund 16% auf ca. 1.710 Mio. EUR (Vorjahr: 1.477 Mio. EUR).
+- Zweite Prognoseanhebung 2026 am 16.10.2026: DHL Group erwartet nun ein operatives Ergebnis von mehr als 7,0 Mrd. EUR (zuvor: mehr als 6,5 Mrd. EUR) und einen freien Cashflow (ohne M&A) von mehr als 3,2 Mrd. EUR.
+- DHL Express war im Q3 die stärkste Division: Umsatz +19,2% auf 6.995 Mio. EUR, EBIT +50% auf 1.038 Mio. EUR. DHL Global Forwarding Umsatz +23,4% auf 5.644 Mio. EUR.
+- DHL eCommerce und Post & Parcel Germany standen dagegen operativ unter Druck ("operational headwinds").
+- Capex-Plan für 2026 auf rund 3,6 Mrd. EUR angehoben (zuvor 3,0–3,3 Mrd. EUR), mit Fokus auf Life Sciences/Healthcare, New Energy, E-Commerce und Data-Center-Logistik.
 
 ## Management
-- CEO Tobias Meyer führt den Konzern weiterhin entlang der "Strategy 2030"; sein Vertrag wurde bereits bis März 2031 verlängert.
-- In einem (im Jahresverlauf geführten) Interview mit der Wirtschaftsförderungsbehörde EDB Singapur betonte Meyer die strategische Bedeutung Singapurs als regionaler Hub für Asien ("Nobody knows Asia like we do") – ein weiteres Signal für die anhaltende Internationalisierungsstrategie des Konzerns abseits des europäischen Kerngeschäfts.
-- Die CFO-Nachfolge bleibt bestätigt: Joe Joseph (aktuell CFO von DHL Express) wird zum 01.06.2027 neuer Konzern-CFO und folgt auf Melanie Kreis, die nach über 20 Jahren im Unternehmen ausscheidet.
-- Im IR-Bereich steht ebenfalls ein Wechsel an: Martin Ziegenbalg geht 2027 in den Ruhestand, Nachfolger wird Robert Schneider.
-- Meyer hält trotz der durchweg positiven operativen Zahlen und der zweiten Prognoseanhebung 2026 weiterhin an einer vorsichtigen Grundhaltung angesichts geopolitischer Unsicherheiten (Zölle, globaler Handel) fest.
+- Robert Schneider übernimmt die Nachfolge von Martin Ziegenbalg als EVP Investor Relations; Ziegenbalg geht 2027 in den Ruhestand.
+- Berichten zufolge wird Joe Joseph, aktuell CFO von DHL Express, als CFO-Nachfolger von Melanie Kreis vorgesehen (Übergang laut Medienberichten im Juni 2027).
+- CEO Tobias Meyer äußerte sich im Rahmen der Jahresergebnisse 2025 zur verbesserten Profitabilität und zur Bedeutung der "Strategy 2030" im aktuellen Marktumfeld; ein aktuelleres, eigenständiges Interview zu Q3 2026 wurde in der Recherche nicht gefunden.
 
 ## Finanzielles
-- Q3 2026 (final, veröffentlicht 05.11.2026): Konzernumsatz 22,7 Mrd. EUR (+12,6% YoY, Vorjahr 20,1 Mrd. EUR); DHL Express: Umsatz 6.995 Mio. EUR (+19,2%), EBIT 1.038 Mio. EUR (+50%); DHL Global Forwarding: Umsatz 5.644 Mio. EUR (vs. 4.572 Mio. EUR im Vorjahr).
-- FY2026-Guidance (bestätigt, zweite Anhebung im Jahresverlauf): Reported Group EBIT weiterhin > 7,0 Mrd. EUR erwartet (ursprünglich > 6,2 Mrd. EUR), freier Cashflow (ex M&A) > 3,2 Mrd. EUR.
-- Capex-Budget 2026 liegt weiterhin bei rund 3,6 Mrd. EUR (zuvor 3,0–3,3 Mrd. EUR), mit Schwerpunkten Life Sciences & Healthcare, New Energy, E-Commerce und Data-Centre-Logistik.
-- Jahresverlauf zur Einordnung: Q1 2026 Umsatz 20,4 Mrd. EUR (-1,9% berichtet, organisch +2,0%); Q2 2026 Umsatz 22.367 Mio. EUR (+12,8%), EBIT 1.858 Mio. EUR (+30%, davon DHL Express EBIT +64,3%); H1-2026-EBIT 3.335 Mio. EUR (+19,1%).
-- Mittelfristziel von über 7 Mrd. EUR EBIT in einem normalisierten Makroumfeld soll im März 2027 überprüft werden – nächster wichtiger Termin für die Bewertung der strukturellen Ertragskraft.
+- Q1 2026: Umsatz 20.420 Mio. EUR (Vorjahr 20.809 Mio. EUR), organisches Umsatzwachstum von 2,0%; operatives Ergebnis laut Branchenmedien ca. +8,3%.
+- Q2 2026 (05.08.2026): Konzernumsatz +13% auf 22,4 Mrd. EUR; EBIT 1.858 Mio. EUR gegenüber 1.429 Mio. EUR im Vorjahr (+30,0%). DHL Express EBIT +64,3% auf 1.200 Mio. EUR, Global Forwarding Umsatz +17,9%.
+- Q3 2026 (05.11.2026): Umsatz 22,7 Mrd. EUR (+12,6% ggü. Vorjahr), EBIT ca. 1.710 Mio. EUR (+16%).
+- Prognoseanhebungen im Jahresverlauf: ursprünglich >6,2 Mrd. EUR EBIT, dann im Juli >6,5 Mrd. EUR, im Oktober >7,0 Mrd. EUR.
 
 ## Strategie & Ausblick
-- M&A-Pipeline bleibt sehr aktiv und international breit gestreut: neben den bereits bekannten Übernahmen von Open Market (Kolumbien), Aero Cargas S.A. (Uruguay), Venipak (Baltikum), CRYOPDP (Pharma-/Zelltherapie-Logistik) und der Vital-Group-Gesellschaften (Südafrika) kommt nun die Mehrheitsbeteiligung an Brandpath Group (UK E-Commerce-Fulfillment) hinzu.
-- Strategischer Schwerpunkt bleibt der Ausbau von Express/Forwarding, E-Commerce-Expansion sowie Life-Sciences-/Healthcare-Logistik, flankiert von Investitionen in New Energy und Data-Centre-Logistik gemäß Capex-Plan 2026.
-- Asien bleibt strategisch zentral: Meyer hebt im EDB-Interview Singapur als Konnektivitäts- und Innovationshub für die Region hervor, parallel laufen die Infrastrukturinvestitionen in den "Super Gateway" Shenzhen (rund 177 Mio. EUR) weiter.
-- Der Konzern bestätigt trotz starker Zahlen eine vorsichtige Haltung für 2027 angesichts geopolitischer Unsicherheiten (Zölle, Handelskonflikte); die Überprüfung des Mittelfristziels (>7 Mrd. EUR EBIT im normalisierten Umfeld) im März 2027 bleibt der nächste wichtige Termin für Investoren.
-- Post & Paket Deutschland bleibt strukturell das schwächste Segment im Konzernportfolio, während internationale Express- und Forwarding-Aktivitäten die Haupttreiber des Wachstums sind.
+- Fortsetzung der "Strategy 2030" mit Fokus auf profitables Wachstum in Kernsegmenten (Express, Global Forwarding) und gezielten Zukunftsfeldern.
+- Erhöhte Investitionen (Capex ~3,6 Mrd. EUR) in Wachstumsfelder: Life Sciences/Healthcare, New Energy, E-Commerce, Data-Center-Logistik.
+- Aktive M&A-Strategie 2026, u.a.: Übernahme von Aero Cargas S.A. (Uruguay, September 2026) durch DHL Global Forwarding mit Fokus auf Healthcare-Logistik; geplante Übernahme von Open Market (Kolumbien, ca. 4.100 Mitarbeiter, September 2026); verbindliche Vereinbarung zur Übernahme von Venipak Group (Baltikum: Litauen, Lettland, Estland, Juli 2026) durch DHL eCommerce; genehmigte Übernahme der Vital Group-Gesellschaften in Südafrika (DHL Supply Chain, April 2026); Übernahme von CRYOPDP (Spezialkurier für klinische Studien/Zell- und Gentherapien); Mehrheitsbeteiligung an Brandpath Group (E-Commerce-Fulfillment, UK).
+- Management rechnet weiterhin mit anhaltenden geopolitischen Unsicherheiten, sieht die Geschäftsentwicklung aber durch wiederholte Prognoseanhebungen bestätigt.
 
 ## Quellen
-- [DHL Group Q3 2026 press release (PDF, group.dhl.com)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/press-releases/2026/pr-q3-2026-20261105.pdf)
-- [DHL Group Konzernergebnisse Q3 2026 (group.dhl.com)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-group-konzernergebnisse-q3-2026.html)
-- [DHL Group financial figures Q3 2026 (group.dhl.com)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-q3-2026.html)
-- [DHL Group continues its growth trajectory in Q3 and significantly increases revenue and earnings (ajot.com)](https://www.ajot.com/news/dhl-group-continues-its-growth-trajectory-in-the-third-quarter-and-significantly-increases-revenue-and-earnings)
-- [DHL Group upgrades 2026 outlook as Q3 EBIT hits €1.7bn (stattimes.com)](https://www.stattimes.com/financial/dhl-group-upgrades-2026-outlook-as-q3-ebit-hits-17bn-1361217)
-- [DHL-Geschäft macht der Gesamtwirtschaft Hoffnung (boersen-zeitung.de)](https://www.boersen-zeitung.de/unternehmen-branchen/dhl-geschaeft-macht-der-gesamtwirtschaft-hoffnung)
-- [DHL Group's Martin Ziegenbalg to retire in 2027, Robert Schneider to succeed as EVP Investor Relations (group.dhl.com)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-groups-martin-ziegenbalg-to-retire-in-2027-robert-schneider-to-succeed-as-evp-investor-relations.html)
-- [DHL Group names Joe Joseph CFO as Melanie Kreis plans exit (stattimes.com)](https://www.stattimes.com/amp/air-cargo/dhl-group-names-joe-joseph-cfo-as-melanie-kreis-plans-exit-1359577)
-- ['Nobody knows Asia like we do': DHL Group CEO on Singapore as a regional hub (edb.gov.sg)](https://www.edb.gov.sg/en/business-insights/insights/nobody-knows-asia-like-we-do-dhl-group-ceo-on-singapore-as-a-regional-hub-for-connectivity-and-innovation.html)
-- [DHL Acquires Majority Stake in E-Commerce Fulfillment Firm Brandpath (supplychain247.com)](https://www.supplychain247.com/article/dhl-supply-chain-acquires-ecommerce-fulfillment-firm-brandpath/mergers)
-- [DHL Group raises full-year 2026 earnings guidance (group.dhl.com)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-raises-full-year-2026-earnings-guidance.html)
-- [DHL Group reports revenue growth in second quarter 2026 (container-news.com)](https://container-news.com/dhl-group-reports-revenue-growth-in-second-quarter-2026/)
-- [DHL Supply Chain expands its capabilities in Colombia through acquisition of Open Market (group.dhl.com)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-expands-its-capabilities-in-colombia-through-acquisition-of-open-market.html)
-- [DHL invests in Latin American growth with acquisition of Aero Cargas S.A. in Uruguay (group.dhl.com)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-invests-in-latin-american-growth-with-acquisition-of-aero-cargas-sa-in-uruguay.html)
-- [DHL eCommerce to acquire Venipak, strengthening its position across the Baltic region (group.dhl.com)](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-ecommerce-to-acquire-venipak-strengthening-its-position-across-the-baltic-region.html)
-- [DHL Group Acquires CRYOPDP to Strengthen Pharma Logistics (pulse.bot)](https://www.pulse.bot/supply-chain/news/dhls-billion-euro-boost-to-pharma-da256112-f37a-4c46-b581-bfe752877446/)
+- [DHL Group raises 2026 earnings outlook after strong third quarter](https://container-news.com/dhl-group-raises-2026-earnings-outlook-after-strong-third-quarter/)
+- [DHL Group upgrades 2026 outlook as Q3 EBIT hits €1.7bn](https://www.stattimes.com/amp/financial/dhl-group-upgrades-2026-outlook-as-q3-ebit-hits-17bn-1361217)
+- [DHL Group raises full-year 2026 earnings guidance](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-raises-full-year-2026-earnings-guidance.html)
+- [DHL Group Konzernergebnisse Q3 2026 (DE)](https://group.dhl.com/de/presse/pressemitteilungen/2026/dhl-group-konzernergebnisse-q3-2026.html)
+- [DHL Group continues its growth trajectory in Q3 2026](https://www.ajot.com/news/dhl-group-continues-its-growth-trajectory-in-the-third-quarter-and-significantly-increases-revenue-and-earnings)
+- [DHL Group's Martin Ziegenbalg to retire in 2027, Robert Schneider to succeed as EVP Investor Relations](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-groups-martin-ziegenbalg-to-retire-in-2027-robert-schneider-to-succeed-as-evp-investor-relations.html)
+- [Pressemitteilung Q3 2026 (PDF, DE)](https://group.dhl.com/content/dam/deutschepostdhl/de/media-relations/press-releases/2026/pm-q3-2026-20261105.pdf)
+- [Press release Q3 2026 (PDF, EN)](https://group.dhl.com/content/dam/deutschepostdhl/en/media-relations/press-releases/2026/pr-q3-2026-20261105.pdf)
+- [DHL Group names Joe Joseph CFO as Melanie Kreis plans exit](https://www.stattimes.com/amp/air-cargo/dhl-group-names-joe-joseph-cfo-as-melanie-kreis-plans-exit-1359577)
+- [Interview with Tobias Meyer – Annual earnings 2025](https://group.dhl.com/en/media-relations/events/interviews/2026/interview-with-tobias-meyer-annual-earnings-2025.html)
+- [DHL Group Quarterly Statement Q1 2026 (PDF)](https://reporting-hub.group.dhl.com/ecomaXL/files/DHL-Group-Quarterly-Statement-Q1-2026.pdf)
+- [DHL Group reports revenue growth in second quarter 2026](https://container-news.com/dhl-group-reports-revenue-growth-in-second-quarter-2026/)
+- [DHL Group financial figures H1 2026](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-group-financial-figures-h1-2026.html)
+- [DHL invests in Latin American growth with acquisition of Aero Cargas S.A. in Uruguay](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-invests-in-latin-american-growth-with-acquisition-of-aero-cargas-sa-in-uruguay.html)
+- [DHL expands its capabilities in Colombia through acquisition of Open Market](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-expands-its-capabilities-in-colombia-through-acquisition-of-open-market.html)
+- [DHL eCommerce to acquire Venipak, strengthening its position across the Baltic region](https://group.dhl.com/en/media-relations/press-releases/2026/dhl-ecommerce-to-acquire-venipak-strengthening-its-position-across-the-baltic-region.html)
+- [DHL Supply Chain acquires Vital Group companies to expand transport-led logistics in South Africa](https://www.dhl.com/za-en/home/press/press-archive/2026/dhl-supply-chain-acquires-vital-group-companies-to-expand-transport-led-logistics-and-support-customer-growth-in-south-africa.html)
+- [DHL Group Acquires CRYOPDP to Strengthen Pharma Logistics](https://www.pulse.bot/supply-chain/news/dhls-billion-euro-boost-to-pharma-da256112-f37a-4c46-b581-bfe752877446/)
+- [DHL Acquires Majority Stake in E-Commerce Fulfillment Firm Brandpath](https://www.supplychain247.com/article/dhl-supply-chain-acquires-ecommerce-fulfillment-firm-brandpath/mergers)
