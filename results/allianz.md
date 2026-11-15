@@ -1,57 +1,52 @@
-# Allianz SE (ALV)
-_Aktualisiert: 11.11.2026 | Zeitraum: 04.11.2026 – 11.11.2026_
+# Allianz (ALV.DE)
+_Aktualisiert: 15.11.2026 | Zeitraum: 08.11.2026 – 15.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 6 Aktien
 - **Kaufkurs (Ø):** 367,45 EUR
-- **Aktueller Kurs:** 462,80 EUR
-- **Marktwert:** 2776,80 EUR
-- **Unrealisierter G/V:** +556,79 EUR (+25,08%)
-- **Portfolioanteil:** 1,72%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Die Position notiert mit +25,08% deutlich über dem Einstandskurs von 367,45 EUR, getragen von starken operativen Ergebnissen in Q1/Q2 2026 (Rekord-Betriebsergebnisse) und einer aktiven M&A-Pipeline (HSBC Life Singapore, mögliche AA-Übernahme). Die entscheidenden Q3-2026-Zahlen werden erst morgen, am 12. November, veröffentlicht und lagen zum Stichtag dieses Updates noch nicht vor. Bis zur Zahlenvorlage erscheint ein Halten der Position sinnvoll; eine Neubewertung nach den Q3-Daten und einer möglichen Konkretisierung des AA-Deals wird empfohlen.
+- **Aktueller Kurs:** 475,85 EUR
+- **Marktwert:** 2855,10 EUR
+- **Unrealisierter G/V:** +635,09 EUR (+28,61%)
+- **Portfolioanteil:** 1,55%
+- **Dividenden erhalten:** 75,54 EUR
+- **Bewertung:** Die Position liegt mit knapp +29% deutlich im Plus, gestützt durch die am 11.11.2026 vorab gemeldeten Rekordzahlen (operatives 9-Monats-Ergebnis von 14,1 Mrd. Euro) und den angehobenen Jahresausblick auf rund 18,6 Mrd. Euro operatives Ergebnis. Zusammen mit den bereits erhaltenen Dividenden von 75,54 EUR und der laufenden Aktienrückkauf-Dynamik spricht die fundamentale Entwicklung für ein Halten der Position; ein Aufstocken erscheint angesichts des bereits deutlich gestiegenen Kurses (475,85 EUR vs. 367,45 EUR Einstand) eher auf Kursrückschläge zu beschränken, konkrete KGV-/KBV-Kennzahlen lagen in der Recherche nicht vor.
 
 ## Aktuelle Meldungen
-- Allianz veröffentlicht die Q3-2026-Zahlen erst am 12. November 2026 (einen Tag nach diesem Update) – zum Berichtszeitraum lagen noch keine offiziellen Werte vor.
-- Medienberichten zufolge prüft Allianz eine milliardenschwere Übernahme des britischen Pannenhilfedienstes AA Ltd.; die kolportierten Werte schwanken je nach Quelle zwischen rund 5 Mrd. GBP, 5,8 Mrd. EUR und 6,77 Mrd. USD. Ein verbindliches Angebot liegt bislang nicht vor, die aktuellen Eigentümer (TowerBrook, Warburg Pincus, Stonepeak) verfolgen offenbar einen Dual-Track-Prozess inkl. möglichem Börsengang, mit EQT als weiterem Interessenten.
-- Allianz hat am 5. November 2026 die zweite Ausgabe des "Green Transition Tracker 2026" veröffentlicht (im Vorfeld der COP31 in Antalya): Erneuerbare Energien haben Kohle beim weltweiten Energiemix überholt, der globale Netto-Null-Pfad bleibt aber verfehlt.
-- Eine strategische Reiseversicherungs-Partnerschaft wurde zum 1. November 2026 um vier Jahre verlängert, mit Fokus auf KI-gestützte Reiseversicherungsprodukte.
+- Allianz meldete am 11.11.2026 vorab ein Rekord-Neunmonatsergebnis 2026 von 14,1 Mrd. Euro operativem Gewinn (Vorjahr: 13,1 Mrd. Euro) und hob den Ausblick fürs Gesamtjahr auf rund 18,6 Mrd. Euro an; die vollständige Veröffentlichung der Q3-Zahlen war für den 12.11.2026 angesetzt.
+- Laut Interbrand erreichte Allianz am 9.11.2026 mit 30,7 Mrd. US-Dollar den höchsten Markenwert der Unternehmensgeschichte und ist damit im achten Jahr in Folge die wertvollste Versicherungsmarke der Welt.
+- Allianz Commercial kündigte den Start eines neuen Lloyd's-Zeichnungssyndikats ("Syndicate 1893") an, das ab 1. Januar 2027 operativ tätig sein soll.
+- Kurz vor dem Berichtszeitraum (5.11.2026) veröffentlichte Allianz den "Green Transition Tracker 2026": Erneuerbare Energien haben weltweit Kohle überholt, das globale Netto-Null-Ziel bleibt aber verfehlt.
 
 ## Management
-- Philipp Kroetz übernahm zum 1. November 2026 als neuer CEO von Allianz Partners, Nachfolger von Tomas Kunzmann, der zum 1. Januar 2027 in den Vorstand der Allianz SE wechselt.
-- Florian Amberg wurde zeitgleich CEO von Allianz Direct.
-- Der Vorstand der Allianz SE schrumpft zum Jahreswechsel 2026/2027 von neun auf acht Mitglieder: Günther Thallinger scheidet zum 31. Dezember 2026 einvernehmlich aus; Berichten zufolge verlässt auch Klaus-Peter Röhler altersbedingt den Vorstand. Andreas Wimmer soll die Kapitalanlage des Konzerns übernehmen, der freigewordene Sitz wird nicht neu besetzt.
-- CEO Oliver Bäte äußerte sich 2026 mehrfach öffentlich, u. a. im Semafor-Interview (Juli) zu geopolitischen Risiken sowie gegenüber der Börsen-Zeitung zum Ausblick für Allianz Global Investors; eine neue November-Stellungnahme zum AA-Deal lag zum Redaktionsschluss nicht vor.
+- Zum 1.11.2026 trat Philipp Kroetz die Position als CEO von Allianz Partners an und folgt auf Tomas Kunzmann, der in den Vorstand der Allianz SE wechselte; Laurent Floquet übernimmt als CEO von Allianz Direct, sein Nachfolger bei Allianz Partners steht noch nicht fest.
+- Günther Thallingers Vorstandsmandat endet laut Mitteilung zum 31.12.2026 im gegenseitigen Einvernehmen mit dem Aufsichtsrat.
+- Andreas Wimmer übernimmt zusätzlich zu seiner bisherigen Funktion die Verantwortung für die Allianz Investment Management SE.
+- Ein aktuelles CEO-Interview von Oliver Bäte speziell aus dem Berichtszeitraum (08.–15.11.2026) wurde nicht gefunden; die jüngsten verfügbaren Interviews stammen von Juli 2026 (Semafor, "The CEO Signal") und August 2026 (Monocle sowie ein Gespräch mit Vorstandsmitglied Günther Thallinger zum Klimawandel).
 
 ## Finanzielles
-- Q3 2026: Veröffentlichung erst am 12.11.2026 – zum Berichtszeitraum noch keine offiziellen Werte verfügbar.
-- Q2 2026 (veröffentlicht 7.8.2026): Operatives Ergebnis von 2,5 Mrd. EUR (+7,2% ggü. Vorjahresquartal); das um Sondereffekte bereinigte Ergebnis für die Anteilseigner sank wegen eines auslaufenden Einmaleffekts um rund 12,7% auf ca. 2,6 Mrd. EUR. Bereinigte Eigenkapitalrendite (H1) bei 20,7%.
-- Q1 2026: Operatives Rekordergebnis von 4,5 Mrd. EUR (+6,6%), bereinigtes Ergebnis für die Anteilseigner +48,4%.
-- Aktienrückkaufprogramm über bis zu 2,5 Mrd. EUR läuft weiter; im ersten Halbjahr 2026 wurden bereits Aktien im Wert von rund 1,4 Mrd. EUR zurückgekauft.
-- FY-2026-Guidance für das operative Ergebnis unverändert bei rund 17,4 Mrd. EUR (+/- 1 Mrd. EUR).
-- Laufende Portfolio-Position: Kursentwicklung von 367,45 EUR auf 462,80 EUR (+25,96% reine Kursentwicklung), Gesamtrendite inkl. aktuellem Kurswert +25,08%; keine Dividendenzahlungen seit Erstkauf am 8.12.2025 erfasst.
+- 9-Monats-Ergebnis 2026 (vorab, 11.11.): operatives Ergebnis 14,1 Mrd. Euro, deutlich über dem Vorjahreswert von 13,1 Mrd. Euro; Jahresausblick auf ca. 18,6 Mrd. Euro operatives Ergebnis angehoben (zuvor: 17,4 Mrd. Euro ± 1 Mrd. Euro).
+- Q1 2026: operatives Rekordergebnis von 4,517 Mrd. Euro (+6,6%).
+- Q2/H1 2026: annualisierte bereinigte Eigenkapitalrendite von 20,7%; operatives Ergebnis im zweiten Quartal laut Quartalsmitteilung bei 2,5 Mrd. Euro (Vorjahresquartal 2,3 Mrd. Euro) – einzelne Finanzportale nennen abweichende Quartalszahlen, sodass für verbindliche Werte die Originalmitteilungen der Allianz SE herangezogen werden sollten.
+- Laufende Kapitalmaßnahmen und hohe Solvenzquote werden von mehreren Finanzmedien als Treiber der positiven Kursreaktion auf die Quartalszahlen genannt.
 
 ## Strategie & Ausblick
-- Mögliche Übernahme von AA Ltd. (UK) könnte das britische Kfz-Versicherungsgeschäft neu ordnen; Ausgang und finale Bewertung sind noch offen, eine Stellungnahme zum Q3-Call am 12.11. ist denkbar.
-- Expansion in Asien: geplante Übernahme von HSBC Life Singapore (rund 2 Mrd. EUR, 15-jährige Vertriebspartnerschaft, Abschluss voraussichtlich H1 2027) – zweiter Anlauf nach dem 2024 am regulatorischen Widerstand gescheiterten Income-Insurance-Deal.
-- Weitere M&A- und Beteiligungsaktivität: Übernahme des portugiesischen Versicherers Caravela (rund 150 Mio. EUR, vorbehaltlich aufsichtsrechtlicher Zustimmung), Einstieg von AllianzGI beim deutschen Stromnetzbetreiber Amprion sowie 51%-Mehrheitsbeteiligung an der Batteriespeicherplattform GESI – beides im Rahmen der Energiewende-Investitionsstrategie.
-- Gegenläufig: National Bank of Greece erwirbt eine 30%-Minderheitsbeteiligung an Allianz Griechenland (Verkauf, keine Zukäufe durch Allianz).
-- Fortgesetzter Fokus auf KI-Investitionen (u. a. KI-gestützte Reiseversicherung) und auf Kapitaldisziplin über das laufende Aktienrückkaufprogramm; FY-2026-Ausblick unverändert.
+- M&A-Fokus in Asien/Europa: Übernahme von HSBC Life Singapore für rund 2 Mrd. Euro (Closing voraussichtlich H1 2027) inkl. 15-jähriger Vertriebspartnerschaft mit HSBC; AllianzGI übernimmt UOB Asset Management für rund 432,7 Mio. US-Dollar (Closing 2027), wodurch das verwaltete Vermögen in Asien-Pazifik auf über 170 Mrd. Euro steigen soll.
+- Beteiligungsgeschäft: National Bank of Greece erwirbt eine 30%-Minderheitsbeteiligung an Allianz European Reliance (Allianz Griechenland); AllianzGI hält zudem eine Beteiligung am deutschen Stromnetzbetreiber Amprion gemeinsam mit Talanx.
+- Allianz beteiligt sich an einem europäischen Wachstumsfonds mit Fokus auf private Altersvorsorge und Europas Innovationskraft.
+- Strategischer Ausbau der Partnerschaft mit TUI (vier Jahre, ab 1.11.2026) mit Schwerpunkt auf KI-gestützter Reiseversicherung.
+- Längerfristig verweist Allianz auf das deutsche "Investitionslücke"-Thema (Artikel vom 16.10.2026) als Chance für institutionelle Investitionen; KI-Investitionen werden laut CEO Bäte derzeit als klein, aber stark wachsend eingeschätzt.
 
 ## Quellen
+- [Allianz delivers record nine-month result of 14.1 billion euros and raises 2026 outlook](https://www.allianz.com/en/mediacenter/news/media-releases/financials/261111-announcement.html)
+- [Allianz reaches highest-ever brand value of $30.7 billion](https://www.allianzcare.com/en/about-us/news/allianz-reaches-highest-ever-brand-value-of-30-billion.html)
 - [Allianz Aktie: Zahlen am 12. November](https://www.boerse-express.com/news/articles/allianz-aktie-zahlen-am-12-november-958929)
-- [Green Transition Tracker 2026 (Medienmitteilung, PDF)](https://www.allianz.com/content/dam/onemarketing/azcom/Allianz_com/press/document/261105-media-release-green-transition-tracker-2026-DE.pdf)
-- [Allianz Aktie: AA-Offerte rückt in den Fokus](https://www.boerse-express.com/news/articles/allianz-aktie-aa-offerte-rueckt-in-den-fokus-944611)
-- [Allianz circles AA in deal that could reshape UK motor insurance](https://www.insurancebusinessmag.com/uk/news/auto-motor/allianz-circles-aa-in-deal-that-could-reshape-uk-motor-insurance-587948.aspx)
-- [Allianz erwägt wohl Milliardenübernahme in Großbritannien (Börsen-Zeitung)](https://www.boersen-zeitung.de/banken-finanzen/allianz-erwaegt-wohl-milliardenuebernahme-in-grossbritannien)
 - [Allianz confirms CEO appointments at Allianz Partners and Allianz Direct](https://www.allianz.com/en/mediacenter/news/media-releases/announcements/261001-allianz-confirms-ceo-appointments-at-allianz-partners-and-allianz-direct.html)
-- [Allianz Aktie: Vorstand schrumpft auf acht Mitglieder](https://www.boerse-express.com/news/articles/allianz-aktie-vorstand-schrumpft-auf-acht-mitglieder-945043)
-- [Allianz Aktie: Thallinger verlässt Vorstand zum 31. Dezember 2026](https://www.boerse-express.com/news/articles/allianz-aktie-thallinger-verlaesst-vorstand-zum-31-dezember-2026-933586)
-- [Quartalsmitteilung: 2Q und 6M 2026](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
-- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich (cash-online)](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
-- [Allianz Aktie: 4,5 Milliarden operatives Ergebnis im Q1](https://www.boerse-express.com/news/articles/allianz-aktie-45-milliarden-operatives-ergebnis-im-q1-912219)
-- [Allianz übernimmt HSBC Life Singapore](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260724-allianz-uebernimmt-hsbc-life-singapore-und-geht-eine-neue-langfristige-vertriebspartnerschaft-mit-hsbc-singapore-ein.html)
-- [Allianz Aktie: 150-Millionen-Deal mit Caravela](https://www.boerse-express.com/news/articles/allianz-aktie-150-millionen-deal-mit-caravela-934932)
-- [AllianzGI acquires a stake in the German electricity grid Amprion from Talanx](https://ap.allianzgi.com/en-ap/insights/press-releases/20260326-allianzgi-buys-stake-in-german-grid-amprion)
-- [AllianzGI acquires a 51% stake in German battery storage platform GESI](https://www.allianzcapitalpartners.com/en/media/news/20260423-allianzgi-acquires-51-percent-stake-in-gesi)
+- [Allianz SE announces changes to its Board of Management](https://allianz.com/en/mediacenter/news/media-releases/financials/260312-allianz-se-announces-changes-to-its-board-of-management.html)
 - [How Allianz's CEO prepares for the risk of 'huge havoc' (Semafor)](https://www.semafor.com/article/07/03/2026/how-allianzs-ceo-prepares-for-the-risk-of-huge-havoc)
+- [Wir denken in einem zu engen Lösungsraum (Interview Günther Thallinger)](https://www.allianz.com/de/mediencenter/news/interviews/260824-wir-denken-in-einem-zu-engen-loesungsraum.html)
+- [Quartalsmitteilung: 2Q und 6M 2026](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/finanzen/260807-2q-2026-quartalsmitteilung.html)
+- [Allianz Quartalszahlen 2026: Rekordgewinn operativ, weniger unter dem Strich](https://www.cash-online.de/a/allianz-quartalszahlen-2026-rekordgewinn-operativ-weniger-unter-dem-strich-723791/)
+- [Allianz Aktie: 2,1 Milliarden für HSBC Life Singapore](https://www.boerse-express.com/news/articles/allianz-aktie-21-milliarden-fuer-hsbc-life-singapore-932419)
+- [AllianzGI acquires a stake in the German electricity grid Amprion from Talanx](https://ap.allianzgi.com/en-ap/insights/press-releases/20260326-allianzgi-buys-stake-in-german-grid-amprion)
+- [Für private Vorsorge und Europas Innovationskraft: Allianz beteiligt sich an europäischem Wachstumsfonds](https://www.allianz.com/de/mediencenter/news/medienmitteilungen/260917-allianz-beteiligt-an-eurpaeischem-wachstumsfonds.html)
+- [How Germany's investment gap could be its biggest opportunity](https://www.allianz.com/en/mediacenter/news/media-releases/261016-how-germanys-investment-gap-could-be-its-biggest-opportunity.html)
