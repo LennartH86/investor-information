@@ -1,54 +1,51 @@
-# Italmobiliare S.p.A. (ITM.MI)
-_Aktualisiert: 12.11.2026 | Zeitraum: 05.11.2026 – 12.11.2026_
+# Italmobiliare (ITM.MI)
+_Aktualisiert: 16.11.2026 | Zeitraum: 09.11.2026 – 16.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 130 Aktien
 - **Kaufkurs (Ø):** 26,99 EUR
-- **Aktueller Kurs:** 26,15 EUR
-- **Marktwert:** 3.399,50 EUR
-- **Unrealisierter G/V:** -125,21 EUR (-3,55%)
-- **Portfolioanteil:** 2,08%
-- **Dividenden erhalten:** 0,00 EUR (im aktuellen Datensatz keine Dividendenzahlung erfasst; ein früheres Update dieser Datei hatte noch 90,74 EUR ausgewiesen – diese Abweichung konnte nicht aufgeklärt werden und sollte im Portfolio-Tool geprüft werden)
-- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche von 25,25 EUR auf 26,15 EUR erholt, der unrealisierte Verlust reduzierte sich entsprechend auf -3,55%. Gemessen am zuletzt gemeldeten NAV pro Aktie von rund 53 EUR (Stand H1 2026, exkl. eigener Aktien) notiert die Aktie weiterhin mit einem sehr hohen Holding-Discount von über 50%. In Verbindung mit der positiven Netto-Finanzposition der Holding, solidem operativem Wachstum der Portfoliogesellschaften und werthaltigen Exits (Tecnica, Capitelli) erscheint die Bewertung attraktiv; die für den 11.11.2026 erwarteten Q3-Zahlen konnten in dieser Recherche nicht verifiziert werden (siehe unten). Einschätzung: Halten, bei Kursschwäche und bestätigt positiven Q3-Zahlen ggf. selektives Aufstocken.
+- **Aktueller Kurs:** 26,35 EUR
+- **Marktwert:** 3.425,50 EUR
+- **Unrealisierter G/V:** -99,21 EUR (-2,81%)
+- **Portfolioanteil:** 1,87%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** Mit den am 11.11.2026 veröffentlichten 9M-Zahlen (Umsatz der Portfoliogesellschaften +7,9% auf 1.284,1 Mio. EUR, NAV/Aktie rund 53,6 EUR) notiert die Aktie bei 26,35 EUR weiterhin mit einem Holding-Discount von rund 51% zum NAV und nur noch -2,81% unter dem Einstandskurs – eine spürbare Erholung gegenüber der Vorwoche. Angesichts solider operativer Entwicklung, werthaltiger Portfoliorotation (Tecnica, Capitelli) und laufendem Aktienrückkauf erscheint die Position weiterhin attraktiv bewertet; Einschätzung: Halten, bei anhaltender Kursschwäche ggf. selektives Aufstocken.
 
 ## Aktuelle Meldungen
-- Laut Finanzkalender war für den 11.11.2026 die Veröffentlichung der "Informazioni periodiche aggiuntive al 30 settembre 2026" (Zwischenmitteilung zum Q3 2026) durch den Verwaltungsrat vorgesehen. In den fünf durchgeführten Web-Recherchen (Stand 12.11.2026) konnte der Inhalt dieser Veröffentlichung nicht gefunden bzw. nicht verifiziert werden – es ist unklar, ob die Meldung bereits veröffentlicht wurde. Dies sollte zeitnah direkt auf italmobiliare.it/en/press-releases oder via Borsa Italiana geprüft werden.
-- Der Aktienkurs lag Anfang November (03.11.2026) bei rund 25,05 EUR (Tradegate, +1,62% an diesem Tag); der aktuelle Portfoliokurs von 26,15 EUR deutet auf eine Erholung in der Berichtswoche hin, konnte durch die Recherche aber nicht tagesgenau nachvollzogen werden.
-- Keine weiteren, neuen Pressemitteilungen für den Zeitraum 05.–12.11.2026 gefunden; die jüngsten substanziellen News stammen weiterhin aus Juli–Oktober 2026 (siehe Strategie-Abschnitt).
+- Der Verwaltungsrat hat am 11.11.2026 die "Informazioni periodiche aggiuntive al 30 settembre 2026" (9M-2026-Zwischenmitteilung) veröffentlicht: Umsatz der industriellen Portfoliogesellschaften in den ersten neun Monaten +7,9% auf 1.284,1 Mio. EUR; positive Netto-Finanzposition der Holding (Italmobiliare S.p.A. standalone) von 229,5 Mio. EUR; konsolidierte Netto-Finanzposition der Gruppe negativ mit -266 Mio. EUR (ggü. -257,3 Mio. EUR zum 31.12.2025); NAV pro Aktie rund 53,6 EUR, damit gegenüber Jahresende 2025 unter Berücksichtigung der 1,10-EUR-Dividende praktisch unverändert.
+- Der Aktienkurs hat sich im Berichtszeitraum weiter erholt: von rund 25,05 EUR Anfang November über 26,15 EUR (Vorwoche) auf nun 26,35 EUR.
+- Über die 9M-Zahlen hinaus wurden im Zeitraum 09.–16.11.2026 keine weiteren eigenständigen Pressemitteilungen gefunden; die jüngsten strategischen News (Capitelli-Verkauf, Tecnica-Closing) stammen weiterhin aus September/Oktober 2026.
 
 ## Management
-- Carlo Pesenti ist Chairman und CEO von Italmobiliare; die Hauptversammlung vom 22.04.2026 bestätigte ihn im Zuge des Übergangs zum "One-Tier"-Verwaltungssystem (mit Management Control Committee) in dieser Funktion.
-- Kein datierbares, eigenständiges CEO-Interview für 2026 gefunden. In einer Unternehmensmeldung zum Verkauf von Capitelli an die CA-Animation-Gruppe wird Pesenti zu Lieferketten- und Produktionsverbesserungen zitiert; die Recherche ergab hierzu widersprüchliche Datierungen (eine Quelle nennt August 2026, eine andere den 01.10.2026 als Datum der bindenden Vereinbarung) – das genaue Datum dieser Aussage ist nicht sicher verifiziert.
-- Laut Governance-Angaben kontrolliert Pesenti direkt und indirekt rund 49% des Grundkapitals. Vereinzelte Drittanbieter-Profile (z.B. zur Board-Chair-Position) weichen von den Angaben der Unternehmenswebsite ab; als verlässlichere Quelle wurde die Unternehmensseite selbst herangezogen.
+- Carlo Pesenti ist weiterhin Chairman und CEO von Italmobiliare im Rahmen des seit der Hauptversammlung vom 22.04.2026 geltenden "One-Tier"-Verwaltungssystems mit Management Control Committee.
+- Für den Berichtszeitraum wurde kein neues, eigenständiges CEO-Interview gefunden; die Recherche lieferte stattdessen Governance-Seiten und Interviews mit anderen Führungskräften im Rahmen des "GEN ITM"-Newsletters (z.B. mit der CFO von Italgen), nicht mit Pesenti selbst.
+- Laut Governance-Angaben kontrolliert Pesenti direkt und indirekt weiterhin rund 49% des Grundkapitals (unverändert zur Vorwoche).
 
 ## Finanzielles
-- H1 2026 (veröffentlicht 29.07.2026): Aggregierter Umsatz der Portfoliogesellschaften +9,2%, aggregiertes EBITDA +14,9%. NAV pro Aktie (exkl. eigener Aktien) ca. 53,3 EUR zum 30.06.2026; positive Netto-Finanzposition der Holding von 169,4 Mio. EUR.
-- Q1 2026 (veröffentlicht 13.05.2026): Aggregierter Umsatz +5,4% bis +6,3% (je nach Quelle), aggregiertes EBITDA der Portfoliogesellschaften +16,5% ggü. Vorjahr. NAV rund 2.299,7 Mio. EUR, nahezu unverändert gegenüber Ende 2025.
-- Geschäftsjahr 2025: Konzern-Nettogewinn 55,4 Mio. EUR (ggü. 104,8 Mio. EUR 2024, also etwa halbiert), Dividende dennoch auf 1,10 EUR je Aktie angehoben (Ex-Tag 04.05.2026).
-- Q3-2026-Zahlen (Zwischenmitteilung zum 30.09.2026): laut Kalender am 11.11.2026 erwartet, Inhalt/Veröffentlichung in dieser Recherche nicht bestätigt – unbedingt zeitnah direkt prüfen, da dies die aktuellste und für die Bewertung relevanteste Information wäre.
+- 9M 2026 (veröffentlicht 11.11.2026): Aggregierter Umsatz der industriellen Portfoliogesellschaften +7,9% auf 1.284,1 Mio. EUR; positive Netto-Finanzposition der Holding von 229,5 Mio. EUR; konsolidierte Netto-Finanzposition der Gruppe -266 Mio. EUR (ggü. -257,3 Mio. EUR Ende 2025); NAV pro Aktie ca. 53,6 EUR.
+- H1 2026 (veröffentlicht 29.07.2026, zur Einordnung): Umsatz der Portfoliogesellschaften +9,2%, EBITDA +14,9%; NAV pro Aktie ca. 53,3 EUR; positive Netto-Finanzposition der Holding von 169,4 Mio. EUR.
+- Geschäftsjahr 2025: Konzern-Nettogewinn 55,4 Mio. EUR (ggü. 104,8 Mio. EUR 2024), Dividende dennoch auf 1,10 EUR je Aktie angehoben (Ex-Tag 04.05.2026).
+- Bewertungsrelation: Aktueller Kurs von 26,35 EUR gegenüber NAV/Aktie von rund 53,6 EUR entspricht einem Holding-Discount von rund 51%.
 
 ## Strategie & Ausblick
-- Portfolio-Rotation Tecnica Group: Verkauf eines 9,09%-Anteils an die Familie Zanatta (über Prime Holding) für 50 Mio. EUR; Closing am 24.09.2026 vollzogen. Italmobiliare hält danach 30,91% (Zanatta-Familie damit bei rund 69,09%), mit eingeräumten Kaufoptionen auf den Restanteil.
-- Verkauf Capitelli Fratelli: Bindende Vereinbarung zum Verkauf der 80%-Beteiligung an die CA-Animation-Gruppe (Enterprise Value 36 Mio. EUR auf 100%-Cash-free/Debt-free-Basis, mit Preisanpassung nach Geschäftsergebnis 2026). Erwarteter Cash-on-Cash-Multiple von 3x und IRR von rund 20%. Closing wird für Q4 2026 erwartet, vorbehaltlich Golden-Power-Genehmigung.
-- Aktienrückkaufprogramm seit 16.03.2026 auf Basis des Hauptversammlungsbeschlusses von April 2025 weiterhin aktiv.
-- Strategischer Fokus 2026 liegt klar auf Portfoliobereinigung/Exits mit attraktiven Bewertungsmultiples statt auf neuen Großakquisitionen durch die Holding selbst; auf Beteiligungsebene gibt es weiterhin Zukäufe (z.B. Casa della Salute/Servizi Medici Hesperia im Mai 2026).
+- Portfolio-Rotation Tecnica Group: Nach Closing am 24.09.2026 hält Italmobiliare noch 30,91% an Tecnica Group (Zanatta-Familie über Prime Holding bei 69,09%), mit eingeräumten Kaufoptionen auf den Restanteil.
+- Verkauf Capitelli Fratelli: Bindende Vereinbarung (Oktober 2026) zum Verkauf der Beteiligung an die CA-Animation-Gruppe (Enterprise Value 36 Mio. EUR, Cash-free/Debt-free-Basis); erwarteter Cash-on-Cash-Multiple von 3x und IRR von rund 20%; Closing weiterhin für Q4 2026 erwartet, vorbehaltlich Golden-Power-Genehmigung.
+- Fortgesetzte Zukäufe auf Beteiligungsebene statt neuer Großakquisitionen durch die Holding selbst: u.a. Casa della Salute/Servizi Medici Hesperia (Mai 2026), Mehrheitsbeteiligung an L'Aromatika/Caffè Borbone (60%) sowie Übernahme der Schuh-Marke Sidi Sport – genaue Datierung der beiden letztgenannten Transaktionen in der Recherche nicht abschließend verifiziert.
+- Aktienrückkaufprogramm (seit 16.03.2026 auf Basis des HV-Beschlusses von April 2025) weiterhin aktiv; strategischer Fokus bleibt auf Portfoliobereinigung/Exits zu attraktiven Multiples.
 
 ## Quellen
-- [Finanztrends – Italmobiliare Aktie](https://www.finanztrends.de/aktie/italmobiliare/)
+- [Teleborsa – Italmobiliare ricavi aggregati e MOL in crescita nei primi nove mesi (11.11.2026)](https://www.teleborsa.it/DettaglioNews/259_2026-11-11_TLB/Italmobiliare-ricavi-aggregati-e-MOL-in-crescita-nei-primi-nove-mesi.html)
+- [Borsa Italiana / Teleborsa – Italmobiliare ricavi aggregati e MOL in crescita nei primi nove mesi](https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/italmobiliare-ricavi-aggregati-e-mol-in-crescita-nei-primi-nove-mesi-259_2026-11-11_TLB.html?lang=it)
 - [Italmobiliare – Corporate Calendar 2026](https://www.italmobiliare.it/en/archive/press-releases/corporate-calendar-2026)
 - [Italmobiliare – First half 2026 results reviewed by the Board of Directors](https://www.italmobiliare.it/en/archive/press-releases/first-half-2026-results-reviewed-board-directors)
-- [Italmobiliare – Pressemitteilung H1 2026 Ergebnisse (PDF)](https://www.italmobiliare.it/sites/default/files/pressrelease/2026-07/ITALMOBILIARE%20Comunicato%20stampa%20-%20Risultati%20primo%20semestre%202026.pdf)
-- [Italmobiliare – Key figures at March 31, 2026](https://www.italmobiliare.it/en/newsletter-12/KEY-FIGURES-AT-MARCH-31-2026)
-- [Teleborsa – Italmobiliare ricavi aggregati e MOL in crescita nel primo trimestre 2026](https://www.teleborsa.it/News/2026/05/13/italmobiliare-ricavi-aggregati-e-mol-in-crescita-nel-primo-trimestre-223.html)
+- [Quartr – Italmobiliare (ITM) company overview, Q1/Q2 2026 earnings](https://quartr.com/companies/italmobiliare-s-p-a_15948)
 - [Teleborsa – Italmobiliare ricavi +9,2% ed EBITDA +14,9% nel primo semestre 2026](https://www.teleborsa.it/News/2026/07/29/italmobiliare-ricavi-9-2percent-ed-ebitda-14-9percent-nel-primo-semestre-2026-173.html)
 - [Teleborsa – Italmobiliare ricavi aggregati in aumento e MOL in flessione nel 2025, dividendo di 1,1 euro](https://www.teleborsa.it/News/2026/03/05/italmobiliare-ricavi-aggregati-in-aumento-e-mol-in-flessione-nel-2025-dividendo-di-1-1-euro-231.html)
-- [MilanoFinanza – Italmobiliare cresce con Caffè Borbone, CDS e Santa Maria Novella, ora punta su M&A e cessioni](https://www.milanofinanza.it/news/italmobiliare-cresce-con-caffe-borbone-cds-e-santa-maria-novella-ora-punta-su-m-a-e-cessioni-202607291409505853)
-- [MilanoFinanza – Italmobiliare avvia l'uscita da Tecnica, vende il 9% per 50 milioni](https://www.milanofinanza.it/news/italmobiliare-avvia-l-uscita-da-tecnica-vende-il-9-per-50-milioni-maxi-plusvalenza-202607312253371668)
 - [Italmobiliare – The Zanatta Family buys back 9.09% interest in Tecnica Group](https://www.italmobiliare.it/en/archive/press-releases/italmobiliare-zanatta-family-buys-back-909-interest-tecnica-group)
-- [FashionUnited – Zanatta family increases stake in Tecnica Group to 69%](https://fashionunited.uk/news/business/zanatta-family-increases-stake-in-tecnica-group-to-69-percent/2026080389578)
+- [Borsa Italiana / Teleborsa – Italmobiliare, closing cessione quota Tecnica Group a Prime Holding (24.09.2026)](https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/italmobiliare-closing-cessione-quota-tecnica-group-a-prime-holding-127_2026-09-24_TLB.html?lang=it)
 - [Italmobiliare – Agreement reached for the sale of Capitelli to the CA Animation group](https://www.italmobiliare.it/en/node?page=0)
 - [Leaders League – CA Animation acquires majority stake in Capitelli Fratelli from Italmobiliare](https://www.leadersleague.com/en/news/ca-animation-acquires-majority-stake-in-capitelli-fratelli-from-italmobiliare)
 - [MilanoFinanza – Italmobiliare/Casa della Salute acquisisce Servizi Medici Hesperia](https://www.milanofinanza.it/news/italmobiliare-casa-della-salute-acquisisce-servizi-medici-hesperia-e-punta-a-100-milioni-di-ricavi-202605041432219603)
-- [Dealroom – Zanatta family to buy $50m Tecnica stake as founders lift control to 69%](https://dealroom.co/news/142567-zanatta-family-to-buy-50m-tecnica-stake-as-founders-lift-control-to-69/)
-
-**Hinweis zur Datenqualität:** Die für den 11.11.2026 erwartete Q3-2026-Zwischenmitteilung konnte in dieser Recherche nicht aufgefunden werden; ihre Inhalte sind daher NICHT in dieser Analyse berücksichtigt und sollten separat nachgeprüft werden, sobald verfügbar.
+- [AziendaBanca – Italmobiliare acquisisce il 60% de L'Aromatika, titolare del marchio Caffè Borbone](https://www.aziendabanca.it/notizie/legal/italmobiliare-acquisisce-il-60-de-laromatika-titolare-del-marchio-caffe-borbone)
+- [AziendaBanca – Italmobiliare rileva Sidi Sport](https://www.aziendabanca.it/notizie/legal/italmobiliare-rileva-sidi-sport-iconico-brand-di-calzature-per-il-ciclismo-e-motociclismo)
+- [Borsa Italiana / Teleborsa – Italmobiliare, Morgan Stanley si muove nel capitale ma quota totale stabile al 5,34% (22.10.2026)](https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/italmobiliare-morgan-stanley-si-muove-nel-capitale-ma-quota-totale-e-stabile-al-534-231_2026-10-22_TLB.html?lang=it)
