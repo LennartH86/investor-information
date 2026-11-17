@@ -1,41 +1,43 @@
 # Iberdrola (IBE.MC)
-_Aktualisiert: 13.11.2026 | Zeitraum: 06.11.2026 – 13.11.2026_
+_Aktualisiert: 17.11.2026 | Zeitraum: 10.11.2026 – 17.11.2026_
 
 ## Portfolio-Analyse
-- **Position:** 106.04847 shares
-- **Kaufkurs (Ø):** 14.07 EUR
-- **Aktueller Kurs:** 23.50 EUR
-- **Marktwert:** 2,492.14 EUR
-- **Unrealisierter G/V:** +988.90 EUR (+65.78%)
-- **Portfolioanteil:** 1.53%
+- **Position:** 106,04847 Aktien
+- **Kaufkurs (Ø):** 14,07 EUR
+- **Aktueller Kurs:** 22,86 EUR
+- **Marktwert:** 2.424,27 EUR
+- **Unrealisierter G/V:** +921,03 EUR (+61,27%)
+- **Portfolioanteil:** 1,34%
 - **Dividenden erhalten:** 0 EUR
-- **Bewertung:** The share price continued to climb this week (from roughly 22.58 EUR to 23.50 EUR), extending the re-rating that followed the strong 9M-2026 results (net profit +9.6–10% to EUR 5.816bn, raised full-year guidance) and this week's announcement that Iberdrola is doubling its Spanish grid investment to EUR 6bn through 2030. No independently verified current P/E or P/B figures were found in this research, but at 23.50 EUR the position is up +65.78% versus the 14.07 EUR average entry price, while cumulative dividends received remain at 0 EUR. Given the price is near all-time highs with no visible safety margin, **holding** continues to look appropriate — the structural growth story (grid expansion, Caruna acquisition, electrification) remains intact, but adding at current levels offers a comparatively unattractive risk/reward.
+- **Bewertung:** Der Kurs hat sich gegenüber der Vorwoche leicht zurückgebildet (von rund 23,50 EUR auf 22,86 EUR), bleibt aber mit +61,27% deutlich über dem Einstandskurs von 14,07 EUR und nahe den Mehrjahreshochs. Belastbare, aktuelle KGV- oder KBV-Kennzahlen konnten in dieser Recherche nicht verifiziert werden; der Markt dürfte die stark gestiegenen 9M-2026-Gewinne (+9,6–10%) sowie die angehobene Jahresprognose bereits weitgehend eingepreist haben. Da bislang keine Dividenden im Datensatz erfasst sind und die Bewertung nach dem starken Lauf wenig Sicherheitsmarge bietet, erscheint **Halten** weiterhin die sinnvollste Position; ein Nachkauf auf aktuellem Niveau wirkt renditeseitig weniger attraktiv als ein Zuwarten auf einen Rücksetzer.
 
 ## Aktuelle Meldungen
-- 10.11.2026: Iberdrola brought together around 300 suppliers to announce it will double its investment in Spanish electricity grids to EUR 6 billion for the period 2027–2030, reinforcing the networks-led capex strategy. Press release title (ES): "Iberdrola moviliza a sus proveedores para duplicar la inversión en redes eléctricas en España".
-- 05.11.2026: UK regulator Ofgem opened a formal investigation into Iberdrola's subsidiary ScottishPower, examining practices around backbilling limits and support for vulnerable customers — a regulatory risk item to monitor for the UK network business.
-- Second 2026 edition of the "Iberdrola Retribución Flexible" (Flexible Remuneration) optional scrip-dividend scheme was confirmed, with the execution window running from 15.12.2026 to 03.02.2027.
-- No additional standalone press releases were identified specifically within 06.–13.11.2026 beyond the above; newsflow this week was dominated by the grid-investment announcement and the ongoing ScottishPower/Ofgem matter.
+- 10.11.2026: Iberdrola versammelte rund 300 Zulieferer und kündigte an, die Investitionen in die spanischen Stromnetze im Zeitraum 2027–2030 auf 6 Mrd. EUR zu verdoppeln (Pressetitel ES: "Iberdrola moviliza a sus proveedores para duplicar la inversión en redes eléctricas en España"); laut einer portugiesischen Fassung der Mitteilung sind allein für 2027 rund 1,2 Mrd. EUR vorgesehen.
+- 05.11.2026 (weiterhin relevant/Nachwirkung): Die britische Regulierungsbehörde Ofgem hat eine formelle Untersuchung gegen die Iberdrola-Tochter ScottishPower eingeleitet; geprüft werden u. a. Rückforderungsfristen bei Nachberechnungen ("Backbilling") und der Umgang mit vulnerablen Kunden – ein regulatorisches Risiko für das britische Netzgeschäft, das weiter zu beobachten ist.
+- Im gleichen Kontext berichtete eine Branchenquelle, dass die IEA niedrigere Stromsteuern in Spanien anmahnt, bei gleichzeitigem Lob für den spanischen Erneuerbaren-Kraftwerkspark.
+- Die zweite Tranche 2026 des optionalen Aktien-Dividendenprogramms "Iberdrola Retribución Flexible" wurde bestätigt, mit Ausübungsfenster vom 15.12.2026 bis 03.02.2027.
+- Für den engeren Berichtszeitraum 13.–17.11.2026 wurden keine zusätzlichen eigenständigen Pressemitteilungen identifiziert; die Newsflow der Woche wird weiterhin von der Netzinvestitions-Ankündigung vom 10.11. und dem ScottishPower/Ofgem-Thema dominiert.
 
 ## Management
-- Executive Chairman **Ignacio Sánchez Galán** remains the public face of group strategy; no new individual statements were found for this specific week, following his early-November meeting with over 300 employees on leadership challenges and opportunities.
-- CEO **Pedro Azagra** (in post since 2025, previously head of US subsidiary Avangrid) continues to lead day-to-day operations; no new governance or leadership changes were identified for this reporting period.
-- Nota en español: El presidente ejecutivo Ignacio Galán y el consejero delegado Pedro Azagra continúan al frente de la estrategia y la gestión operativa del grupo; no se han identificado cambios de gobierno corporativo en esta semana.
+- Executive Chairman **Ignacio Sánchez Galán** bleibt das öffentliche Gesicht der Konzernstrategie; für diese spezifische Woche wurden keine neuen Einzeläußerungen gefunden, abgesehen von seinem Treffen mit über 300 Mitarbeitenden Anfang November zu Führungsthemen und -chancen.
+- CEO **Pedro Azagra** (im Amt seit 2025, zuvor Leiter der US-Tochter Avangrid) führt weiterhin das operative Tagesgeschäft; es wurden keine neuen Governance- oder Führungswechsel für diesen Berichtszeitraum festgestellt.
+- Hinweis: Iberdrola selbst führt Galán auf manchen Seiten als "Executive Chairman and CEO", auf anderen wird die operative CEO-Funktion klar Azagra zugeordnet – die Rollentrennung ist in den Quellen nicht vollständig einheitlich dargestellt.
 
 ## Finanzielles
-- 9M 2026 (confirmed, carried forward): net profit EUR 5.816bn (+9.6–10% y/y); record investment of EUR 10.087bn (+13% y/y); full-year 2026 guidance raised, with management targeting a record year.
-- New this week: planned doubling of grid investment in Spain to EUR 6bn for 2027–2030, signalling continued capex acceleration into the regulated networks business.
-- Second 2026 scrip-dividend ("Iberdrola Retribución Flexible") confirmed, exercise window 15.12.2026–03.02.2027.
-- For context, earlier 2026 quarters: Q1 2026 adjusted net profit +11% to EUR 1.865bn (guidance raised to >8% growth); H1 2026 net profit EUR 4.34bn (+22%), driven by network investment in the UK, US and Brazil.
-- No independently verified current P/E or P/B ratios were found in this research round.
+- 9M 2026 (bestätigt, fortgeführt): Nettogewinn 5,816 Mrd. EUR (+9,6–10% ggü. Vorjahr); Rekordinvestitionen von 10,087 Mrd. EUR (+13% ggü. Vorjahr); Jahresprognose 2026 angehoben, Management strebt ein Rekordjahr an.
+- Zwischendividende in Höhe von 0,275 EUR brutto je Aktie im Zusammenhang mit den 9M-Ergebnissen bestätigt (Ankündigung 21.10.2026).
+- Zweite Tranche 2026 des Aktien-Dividendenprogramms ("Iberdrola Retribución Flexible") bestätigt, Ausübungsfenster 15.12.2026–03.02.2027.
+- Verschuldungsausblick: Nettoverschuldung zum Jahresende 2026 wird auf rund 55 Mrd. EUR geschätzt, im Rahmen der Markterwartungen.
+- Zum Vergleich, frühere Quartale 2026: Q1 2026 bereinigter Nettogewinn +11% auf 1,865 Mrd. EUR (Prognose auf >8% Wachstum angehoben); H1 2026 Nettogewinn 4,34 Mrd. EUR (+22%), getragen von Netzinvestitionen in UK, USA und Brasilien.
+- Belastbare, aktuelle KGV- oder KBV-Kennzahlen wurden in dieser Recherche nicht gefunden.
 
 ## Strategie & Ausblick
-- Continued capital rotation toward regulated network assets in stable jurisdictions, now reinforced by the plan to double Spanish grid capex to EUR 6bn by 2030, on top of the roughly 75% of 9M investment already directed to the UK, US and Brazil.
-- Acquisition of **Caruna** (Finland's largest electricity distributor) for around EUR 5bn including debt (~80% stake), expected to close Q1 2027 subject to regulatory approval; expected to add roughly 7% annual growth to earnings/asset base.
-- Acquisition of **Contigo Energía**'s Spanish retail business (September 2026) added around 100,000 electricity customers in Spain.
-- Mexico divestment (April 2026) confirms continued strategic focus on core markets with stable regulatory frameworks.
-- The Ofgem investigation into ScottishPower is a watch item: it does not currently threaten the thesis but represents incremental regulatory/reputational risk in the UK networks business.
-- Structural growth drivers remain electrification (data-centre/AI demand, EV charging, heat pumps) and continued grid expansion — themes Galán has repeatedly emphasized at international forums (Davos, CERAWeek, Abu Dhabi Sustainability Week). Con el precio cerca de máximos históricos, la revalorización a corto plazo parece ya bastante avanzada, pero la tesis de inversión a medio/largo plazo permanece intacta, lo que respalda una visión de **Halten/Hold**.
+- Fortgesetzte Kapitalrotation hin zu regulierten Netzanlagen in stabilen Jurisdiktionen, nun bekräftigt durch den Plan, die spanischen Netzinvestitionen bis 2030 auf 6 Mrd. EUR zu verdoppeln – zusätzlich zu den rund 75% der 9M-Investitionen, die bereits auf UK, USA und Brasilien entfielen.
+- Übernahme von **Caruna** (größter finnischer Stromverteiler) für rund 5 Mrd. EUR inkl. Schulden (~80%-Beteiligung), Abschluss voraussichtlich Q1 2027 vorbehaltlich regulatorischer Genehmigung; soll das Ergebnis- bzw. Anlagenwachstum um rund 7% p.a. erhöhen.
+- Übernahme des spanischen Retail-Geschäfts von **Contigo Energía** (September 2026) brachte rund 100.000 zusätzliche Stromkunden in Spanien.
+- Die Ofgem-Untersuchung gegen ScottishPower bleibt ein Beobachtungspunkt: Sie gefährdet die Investmentthese aktuell nicht, stellt aber ein zusätzliches regulatorisches/reputatives Risiko im britischen Netzgeschäft dar.
+- Strukturelle Wachstumstreiber bleiben die Elektrifizierung (Rechenzentren/KI-Nachfrage, E-Mobilität, Wärmepumpen) sowie der fortgesetzte Netzausbau – Themen, die Galán wiederholt auf internationalen Foren (Davos, CERAWeek, Abu Dhabi Sustainability Week) hervorgehoben hat.
+- Bei einem Kurs nahe den Mehrjahreshochs erscheint die kurzfristige Neubewertung bereits weit fortgeschritten; die mittel- bis langfristige Investmentthese bleibt jedoch intakt, was eine **Halten**-Einschätzung stützt.
 
 ## Quellen
 - [Iberdrola brings together suppliers to double investment in electricity grids in Spain](https://www.iberdrola.com/press-room/news/detail/iberdrola-brings-together-suppliers-double-investment-electricity-grids-spain)
@@ -47,4 +49,6 @@ _Aktualisiert: 13.11.2026 | Zeitraum: 06.11.2026 – 13.11.2026_
 - [Iberdrola acquires Finland's largest electricity distribution company, valued at 5 billion euros](https://www.iberdrola.com/press-room/news/detail/iberdrola-acquires-finland-largest-electricity-distribution-company-valued-5-billion-euros)
 - [Iberdrola adds electricity customers in Spain with the acquisition of Contigo Energía retail business (PDF)](https://www.iberdrola.com/documents/20125/6242883/260928-Iberdrola-adds-100000-electricity-customers-in-Spain-with-the-acquisition-of-Contigo-Energia-retail-business.pdf)
 - [Ignacio Galán discusses Iberdrola's leadership challenges and opportunities in meeting with more than 300 employees](https://www.iberdrola.com/press-room/news/detail/ignacio-galan-discusses-iberdrola-s-leadership-challenges-opportunities-meeting-more-than-300-employees)
-- [Iberdrola consolidates its key role in the global energy debate in Davos – Atalayar](https://www.atalayar.com/en/articulo/economy-and-business/iberdrola-consolidates-its-key-role-in-the-global-energy-debate-in-davos/20260123170000222757.amp.html)
+- [energynews.pro – Iberdrola company news (Ofgem/ScottishPower, IEA Spain tax items)](https://energynews.pro/en/company/iberdrola)
+- [Iberdrola (IBE) Q3 2026 earnings summary – Quartr](https://quartr.com/events/iberdrola-s-a-ibe-q3-2026_3Y517Bpl)
+- [Iberdrola shareholders & investors – results](https://www.iberdrola.com/shareholders-investors/investors/results)
