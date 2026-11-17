@@ -1,56 +1,53 @@
 # Siemens Energy (ENR.DE)
-_Aktualisiert: 13.11.2026 | Zeitraum: 06.11.2026 – 13.11.2026_
+_Aktualisiert: 17.11.2026 | Zeitraum: 10.11.2026 – 17.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 18 Aktien
 - **Kaufkurs (Ø):** 146,67 EUR
-- **Aktueller Kurs:** 130,52 EUR
-- **Marktwert:** 2.349,36 EUR
-- **Unrealisierter G/V:** -347,60 EUR (-12,89%)
-- **Portfolioanteil:** 1,44%
+- **Aktueller Kurs:** 126,14 EUR
+- **Marktwert:** 2.270,52 EUR
+- **Unrealisierter G/V:** -426,44 EUR (-15,81%)
+- **Portfolioanteil:** 1,25%
 - **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs hat sich im Wochenverlauf von rund 117 EUR deutlich auf 130,52 EUR erholt (+ca. 11,6%); ein Bericht vom 9.11.2026 bezeichnet die Aktie mit einem Jahresplus von über 30% sogar als einen der stärksten DAX-Werte 2026. Zum Kaufkurs von 146,67 EUR bleibt die Position dennoch rund 13% im Minus. Belastbare KGV- oder Dividendenrenditen-Werte zu den für den 11.11.2026 angesetzten Q4-/Gesamtjahreszahlen ließen sich in der Recherche nicht zweifelsfrei bestätigen (unterschiedliche Angaben zum genauen Veröffentlichungstermin). Angesichts operativer Stärke (Rekordauftragsbestand, laufendes Aktienrückkaufprogramm, bislang bekräftigte Jahresprognose) und der jüngsten Kurserholung erscheint Halten sinnvoll, eine Aufstockung sollte die Bestätigung der Jahreszahlen abwarten.
+- **Bewertung:** Siemens Energy hat am 11.11.2026 Rekordzahlen für das Geschäftsjahr 2026 vorgelegt (Ergebnis vor Sondereinflüssen gut verdoppelt auf 5,5 Mrd. EUR, Gewinn nach Steuern rund 4,1 Mrd. EUR, Free Cashflow vor Steuern fast verdoppelt auf 8,8 Mrd. EUR) und die Dividende deutlich angehoben sowie ein neues Rückkaufprogramm von bis zu 9 Mrd. EUR bis Ende GJ2030 angekündigt; die Aktie legte am Tag der Veröffentlichung rund 10% zu. Trotzdem notiert der Kurs mit 126,14 EUR aktuell niedriger als in der Vorwoche (130,52 EUR) und rund 14% unter dem Kaufkurs von 146,67 EUR – über einen längeren Zeitraum liegt die Aktie laut Berichten sogar rund 36% unter ihrem Rekordhoch vom April 2026. Zu konkreten KGV- oder Dividendenrenditen-Werten gab es in der Recherche widersprüchliche bzw. nicht zweifelsfrei bestätigte Angaben (u.a. zur genauen Dividendenhöhe). Angesichts der operativ sehr starken Jahreszahlen, des bekräftigten/erhöhten Ausblicks für GJ2027 (Nettogewinn ca. 5 Mrd. EUR) und des bereits erzielten historischen Gesamtgewinns aus früheren Teilverkäufen dieser Position (realisiert: +11.065,45 EUR) erscheint Halten weiterhin sinnvoll; eine Aufstockung könnte nach Bestätigung der nun kommunizierten Daten durch die offizielle Siemens-Energy-Investor-Relations-Seite erwogen werden.
 
 ## Aktuelle Meldungen
-- Die Veröffentlichung der Zahlen zum vierten Quartal und Gesamtjahr 2026 war für den 11.11.2026 angesetzt (eine Quelle nennt abweichend den 12.11.2026); konkrete, verlässlich bestätigte Ergebniswerte dazu ließen sich in der Recherche nicht finden – vor den Zahlen hatte das Management im Pre-Close-Call die Jahresprognose bekräftigt.
-- Der Kurs hat sich von einem Monatstief bei ca. 117 EUR deutlich erholt; ein Bericht vom 9.11.2026 beschreibt einen bemerkenswerten Kursanstieg mit einem Jahresplus von über 30% (laut dieser Quelle Spitzenreiter im DAX 2026). Andere Quellen aus der ersten Novemberwoche sprachen zuvor noch von einem Kursverlust von fast 40% seit dem Rekordhoch im April 2026 – die Angaben zur Kursentwicklung widersprechen sich teilweise.
-- Siemens Energy hat einen Liefervertrag mit dem US-Anbieter Dynamis Power Solutions über 119 Gasturbinenkerne vom Typ SGT-400 (je ca. 15 MW) geschlossen; erste Lieferungen sollen 2027 beginnen.
-- Im Rahmen des laufenden Aktienrückkaufs wurden zwischen dem 26. Oktober und 1. November 2026 weitere 1.337.076 Aktien erworben; seit dem 24. September 2026 summiert sich das Volumen auf 5.850.308 Aktien. Die dritte Tranche (bis zu 2 Mrd. EUR) soll bis Ende März 2027 abgeschlossen sein.
-- Im Aufsichtsrat ist Pekka Lundmark Nachfolger von Matthias Rebellius geworden; die Wahl soll auf der Hauptversammlung am 25. Februar 2027 bestätigt werden.
+- Siemens Energy hat am 11.11.2026 die Zahlen zum vierten Quartal und Gesamtjahr des Geschäftsjahres 2026 (bis 30.09.2026) veröffentlicht: Rekordumsatz von rund 44,2 Mrd. EUR, Rekordauftragsbestand von rund 164 Mrd. EUR, Gewinn nach Steuern von ca. 4,1 Mrd. EUR (+145% ggü. Vorjahr); Ergebnis vor Sondereinflüssen mehr als verdoppelt auf 5,5 Mrd. EUR, Free Cashflow vor Steuern knapp verdoppelt auf 8,8 Mrd. EUR.
+- Die Aktie reagierte am Tag der Zahlen mit einem Kursanstieg von rund 10%; über einen längeren Zeitraum liegt der Kurs aber weiterhin rund 36% unter dem Rekordhoch vom April 2026. Die genaue kurzfristige Kursentwicklung wird in verschiedenen Quellen unterschiedlich beschrieben.
+- Siemens Energy hat ein neues Aktienrückkaufprogramm von bis zu 9 Mrd. EUR bis Ende Geschäftsjahr 2030 angekündigt, zusätzlich zum bestehenden Programm über 6 Mrd. EUR. Im laufenden Rückkauf wurden zwischen dem 2. und 8. November 2026 weitere 1.539.908 Aktien erworben.
+- Siemens Gamesa erreichte laut CEO Christian Bruch im Geschäftsjahr 2026 den Breakeven; das Windgeschäft war zuvor seit dem Geschäftsjahr 2022 defizitär.
+- Zur Dividende gibt es widersprüchliche Angaben (eine Quelle nennt 2,30 EUR je Aktie als mehr als Verdreifachung, eine andere 0,70 EUR) – ein verlässlicher Wert ließ sich in der Recherche nicht zweifelsfrei bestätigen und sollte über die offizielle Pressemitteilung geprüft werden.
+- Siemens Energy hat zuvor (Ende Oktober/Anfang November) einen Liefervertrag mit dem US-Anbieter Dynamis Power Solutions über 119 Gasturbinenkerne vom Typ SGT-400 geschlossen; erste Lieferungen sollen 2027 beginnen. Im Aufsichtsrat ist zudem Pekka Lundmark Nachfolger von Matthias Rebellius geworden (Bestätigung auf der Hauptversammlung am 25.02.2027 vorgesehen).
 
 ## Management
-- CEO Christian Bruch bekräftigte im Pre-Close-Call vor den Q4-/Jahreszahlen die Prognose für das Geschäftsjahr 2026.
-- Bruch wies laut einem Bericht der Frankfurter Allgemeine Sonntagszeitung Forderungen von Aktionären nach einer Abspaltung der Wind-Sparte Siemens Gamesa klar zurück.
-- In einem Bloomberg-Interview (August 2026) sprach Bruch über ein geplantes Investment von rund 1 Mrd. USD (ca. 847 Mio. EUR) in US-Fertigungskapazitäten über die nächsten zwei Jahre.
-- Beim Pressecall zu den Q3-Zahlen (Anfang August 2026) äußerte sich Bruch zur starken Nachfrage aus dem Nahen Osten sowie zur geplanten Verselbstständigung von Transformation of Industry.
+- CEO Christian Bruch kommentierte die Rekordzahlen des Geschäftsjahres 2026 und verwies auf den Turnaround bei Siemens Gamesa (erstmals seit GJ2022 wieder positives Ergebnis/Breakeven).
+- Für das Geschäftsjahr 2027 stellte das Management ein Nettoergebnis von rund 5 Mrd. EUR, zweistelliges EPS-Wachstum und eine bereinigte Marge von 14–16% in Aussicht; als Wachstumstreiber werden KI-/Rechenzentren-Nachfrage und Elektrifizierung genannt (Rechenzentrumskunden sollen bereits mehr als ein Viertel des Umsatzes im Gasturbinengeschäft ausmachen).
+- Bruch hatte zuvor Forderungen von Aktionären nach einer Abspaltung der Wind-Sparte Siemens Gamesa zurückgewiesen und ein Investment von rund 1 Mrd. USD in US-Fertigungskapazitäten über zwei Jahre angekündigt (keine aktuelle Bestätigung in dieser Recherchewoche gefunden).
 
 ## Finanzielles
-- Die für den 11.11.2026 (bzw. laut einer abweichenden Quelle 12.11.2026) erwarteten Q4-/Gesamtjahreszahlen 2026 ließen sich in der Recherche nicht mit konkreten, verlässlich bestätigten Werten belegen.
-- **Q3 FY2026** (veröffentlicht Anfang August 2026): Umsatz stieg vergleichbar um 18,5% auf 11,4 Mrd. EUR, Auftragseingang 17,9 Mrd. EUR; Siemens Gamesa erzielte erstmals seit dem Geschäftsjahr 2022 ein positives Quartalsergebnis. Das Management bekräftigte die angehobene Jahresprognose mit einer Marge vor Sondereinflüssen am oberen Ende der Zielspanne.
-- **Q2 FY2026** (12. Mai 2026): Auftragseingang 17.749 Mio. EUR, Umsatz 10.294 Mio. EUR, Ergebnis 1.109 Mio. EUR; der Nettogewinn für FY2026 wurde danach auf rund 4 Mrd. EUR angehoben, der Free-Cashflow-Ausblick (vor Steuern) auf rund 8 Mrd. EUR.
-- **Q1 FY2026** (11. Februar 2026): Auftragseingang 17.609 Mio. EUR, Umsatz 9.675 Mio. EUR, Ergebnis 1.007 Mio. EUR (Marge 10,4%), Free Cashflow vor Steuern 2.869 Mio. EUR.
+- **Q4/Gesamtjahr GJ2026** (veröffentlicht 11.11.2026): Umsatz ca. 44,2 Mrd. EUR, Auftragsbestand Rekordwert ca. 164 Mrd. EUR, Ergebnis vor Sondereinflüssen 5,5 Mrd. EUR (mehr als verdoppelt), Gewinn nach Steuern ca. 4,1 Mrd. EUR, Free Cashflow vor Steuern 8,8 Mrd. EUR (knapp verdoppelt). Angaben zur Dividende sind widersprüchlich (2,30 EUR vs. 0,70 EUR je Aktie je nach Quelle) und nicht zweifelsfrei bestätigt.
+- **Ausblick GJ2027:** Nettogewinn von rund 5 Mrd. EUR erwartet, zweistelliges EPS-Wachstum, bereinigte Marge von 14–16%.
+- **Q3 FY2026** (Anfang August 2026, zur Einordnung): Umsatz vergleichbar +18,5% auf 11,4 Mrd. EUR, Auftragseingang 17,9 Mrd. EUR; Siemens Gamesa erstmals seit GJ2022 wieder positives Quartalsergebnis.
+- Aktienrückkäufe: zwischen 2. und 8. November 2026 wurden 1.539.908 weitere Aktien erworben (zuvor 5.850.308 Aktien zwischen 24.09. und 01.11.2026 im Rahmen der dritten, bis zu 2 Mrd. EUR schweren Tranche des 6-Mrd.-EUR-Programms); zusätzlich wurde ein neues Rückkaufprogramm von bis zu 9 Mrd. EUR bis Ende GJ2030 angekündigt.
 
 ## Strategie & Ausblick
-- Für das Geschäftsjahr 2026 bekräftigte das Management zuletzt ein vergleichbares Umsatzwachstum von 14–16% und einen Nettogewinn von rund 4 Mrd. EUR.
-- Siemens Energy bereitet die Verselbstständigung des Geschäftsbereichs Transformation of Industry (Umsatz zuletzt rund 5,7 Mrd. EUR) vor; die Sparte soll entkonsolidiert werden, wobei der Konzern eine wesentliche Minderheitsbeteiligung behalten will. Als Optionen werden externe Investoren oder eine Kapitalmarkttransaktion genannt.
-- Übernahme der Camlin Group (spezialisiert auf sensorbasierte Netzüberwachung, ca. 650 Mitarbeiter, davon 340 in Nordirland) zur Stärkung des digitalen Portfolios im Stromnetzgeschäft; Abschluss wurde noch vor Jahresende 2026 erwartet. Zum Kaufpreis gibt es uneinheitliche Angaben, daher nicht belastbar bestätigt.
-- Laufendes Aktienrückkaufprogramm von bis zu 6 Mrd. EUR bis Ende Geschäftsjahr 2028, aktuell in der dritten Tranche.
-- Management sieht Rechenzentren/KI-Nachfrage nach Gasturbinen als Wachstumstreiber bis weit in die 2030er Jahre hinein, betont aber die breite Diversifikation der Nachfrage über viele Projekte und Regionen (u.a. starke Nachfrage aus dem Nahen Osten).
+- Für das Geschäftsjahr 2027 peilt das Management ein Nettoergebnis von rund 5 Mrd. EUR, zweistelliges EPS-Wachstum und eine bereinigte Marge von 14–16% an; KI-/Rechenzentren-Nachfrage und Elektrifizierung gelten als zentrale Wachstumstreiber, ergänzt durch breite Diversifikation über viele Projekte und Regionen (u.a. Naher Osten).
+- Zwei große Kapitalrückführungsprogramme laufen parallel: das bestehende Rückkaufprogramm über bis zu 6 Mrd. EUR (dritte Tranche bis Ende März 2027) und ein neu angekündigtes Programm über bis zu 9 Mrd. EUR bis Ende GJ2030.
+- Siemens Energy bereitet weiterhin die Verselbstständigung des Geschäftsbereichs Transformation of Industry vor (Entkonsolidierung bei Beibehaltung einer wesentlichen Minderheitsbeteiligung; Optionen: externe Investoren oder Kapitalmarkttransaktion).
+- Übernahme der Camlin Group (sensorbasierte Netzüberwachung, Nordirland) zur Stärkung des digitalen Portfolios im Stromnetzgeschäft; der Abschluss wurde noch vor Jahresende 2026 erwartet, zum Kaufpreis gibt es weiterhin uneinheitliche Angaben (u.a. rund 250 Mio. EUR).
+- Zusätzlicher Wachstumsimpuls durch den Liefervertrag mit Dynamis Power Solutions über 119 SGT-400-Gasturbinenkerne (Lieferbeginn 2027).
 
 ## Quellen
+- [Siemens Energy – 4,1 Milliarden Euro Rekordgewinn (infranken.de)](https://www.infranken.de/deutschland/41-milliarden-euro-rekordgewinn-bei-siemens-energy-art-6410298,PRINT)
+- [RTTNews: Siemens Energy FY2026 Q4/Jahresergebnis](https://www.rttnews.com/story.aspx?Id=3713160)
+- [Oilprice: Siemens Energy More Than Triples Dividend After Record Year](https://oilprice.com/Latest-Energy-News/World-News/Siemens-Energy-More-Than-Triples-Dividend-After-Record-Year.html)
+- [stock3: PTA-CMS Bekanntmachung Aktienrückkauf (02.–08.11.2026)](https://stock3.com/news/pta-cms-siemens-energy-ag-bekanntmachung-nach-art-5-abs-1-lit-b-abs-3-der-verordnung-eu-nr-596-2014-30-17384278)
 - [Siemens Energy Aktie: Liefervertrag mit Dynamis Power Solutions](https://www.boerse-global.de/siemens-energy-aktie-liefervertrag-mit-dynamis-power-solutions/830845)
-- [Siemens Energy Stock Before 11 November: Record Backlog and 2030 Targets](https://admiralmarkets.com/education/articles/shares/siemens-energy-stock)
-- [Siemens Energy Aktie: Vorstand bekräftigt Jahresprognose 2026](https://www.kapitalmarktexperten.de/siemens-energy-aktie-vorstand-bekraeftigt-jahresprognose-2026/)
-- [Siemens Energy nähert sich mit starkem Quartal dem oberen Ende des Zielkorridors (Q3 FY2026)](https://www.siemens-energy.com/de/de/home/press-releases/siemens-energy-naehert-sich-mit-starkem-quartal-dem-oberen-ende-.html)
+- [drweb.de: Siemens Energy Rekordgewinn Geschäftsjahr 2026](https://www.drweb.de/siemens-energy-rekordgewinn-geschaeftsjahr-2026/)
+- [Siemens Energy Share Buyback (Investor Relations)](https://www.siemens-energy.com/global/en/home/investor-relations/share/share-buyback.html)
+- [Siemens Energy earnings release Q3 FY2026 (Pressemitteilung)](https://www.siemens-energy.com/de/de/home/press-releases/earnings-release-q3-fy-2026.html)
 - [Siemens Energy to divest Transformation of Industry unit](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/siemens-energy-divest-transformation-industry-unit)
-- [Earnings Release Q3 FY 2026 (Siemens Energy)](https://www.siemens-energy.com/de/de/home/press-releases/earnings-release-q3-fy-2026.html)
-- [Ergebnisveröffentlichung Q2 GJ 2026](https://www.siemens-energy.com/de/de/home/press-releases/earnings-release-q2-fy-2026.html)
-- [Siemens Energy Q1 FY26 Ergebnisveröffentlichung (PDF)](https://assets.siemens-energy.com/dam/30d17ddd-e792-47f7-8e30-b3ee005764f6/2026-02-11_Ergebnisver%C3%B6ffentlichung-Q1-GJ26-pdf_Original%20file.pdf)
-- [Siemens Energy CEO: New spinoff will focus on R&D, service](https://www.power-eng.com/gas/siemens-energy-ceo-new-spinoff-will-balance-conventional-power-as-part-of-future-decarbonization/)
+- [Siemens Energy Aktie: 250-Millionen-Übernahme Camlin Group](https://www.boerse-global.de/siemens-energy-aktie-250-millionen-uebernahme-camlin-group/808010)
 - [Siemens Energy CEO says $1B US investment "absolutely makes sense"](https://ca.marketscreener.com/news/siemens-energy-ceo-says-1b-us-investment-absolutely-makes-sense-ce7e5bd3da81f720)
 - [Siemens Energy Rejects Wind Unit Split, Prioritizes Turnaround](https://news.osna.fm/?p=30981)
-- [Siemens Energy Aktie: 250-Millionen-Übernahme Camlin Group](https://www.boerse-global.de/siemens-energy-aktie-250-millionen-uebernahme-camlin-group/808010)
-- [Siemens Energy will Transformation of Industry verselbstständigen](https://www.vermoegenszentrum.ch/boersen-und-maerkte/news/siemens-energy-will-tranformation-industry-verselbststaendigen)
-- [Siemens Energy Share Buyback (Investor Relations)](https://www.siemens-energy.com/global/en/home/investor-relations/share/share-buyback.html)
-- [Siemens Energy verzeichnet bemerkenswerten Kursanstieg trotz widriger Umstände (09.11.2026)](https://www.investmentweek.com/siemens-energy-verzeichnet-bemerkenswerten-kursanstieg-trotz-widriger-umstande/)
 - [Termine Siemens Energy AG (Marketscreener)](https://de.marketscreener.com/kurs/aktie/SIEMENS-ENERGY-AG-113013151/termine/)
