@@ -1,42 +1,43 @@
 # NVIDIA (NVDA)
-_Updated: 14.11.2026 | Period: 07.11.2026 – 14.11.2026_
+_Aktualisiert: 17.11.2026 | Zeitraum: 10.11.2026 – 17.11.2026_
 
-## Portfolio Analysis
-- **Position:** 8 shares
-- **Average purchase price:** 149.96 EUR
-- **Current price:** 146.64 EUR
-- **Market value:** 1,173.12 EUR
-- **Unrealized gain/loss:** -27.55 EUR (-2.29%)
-- **Portfolio weight:** 0.64%
-- **Dividends received:** 0 EUR
-- **Assessment:** This is a brand-new position (first purchase 12.11.2026), so there is no meaningful track record yet. The stock has sold off sharply over the past month (down roughly -22% from early October into early November, including a single-day -9.3% drop), reflecting broader AI-valuation jitters even as NVIDIA's own fundamentals (record Q3 FY26 revenue of $57B, +62% YoY) remain strong. With fiscal Q3 FY27 results due 17.11.2026, near-term volatility is likely — holding through the print rather than reducing seems reasonable given the small position size and still-robust data center demand.
+## Portfolio-Analyse
+- **Position:** 8 Aktien
+- **Kaufkurs (Ø):** 149,96 EUR
+- **Aktueller Kurs:** 142,14 EUR
+- **Marktwert:** 1.137,12 EUR
+- **Unrealisierter G/V:** -63,55 EUR (-5,29%)
+- **Portfolioanteil:** 0,63%
+- **Dividenden erhalten:** 0 EUR
+- **Bewertung:** Die Position bleibt seit dem Ersteinstieg am 12.11.2026 im Minus, und der Kurs ist in der laufenden Woche weiter gefallen (von 146,64 EUR auf 142,14 EUR) – im Einklang mit der breiteren Verunsicherung über KI-Bewertungen, die NVIDIA im Oktober/November bereits einen Kursrückgang von rund -22% beschert hatte. Fundamental bleibt das Geschäft (Rekordumsätze, starke Data-Center-Nachfrage, laufende Großinvestitionen ins KI-Ökosystem) intakt; angesichts der kleinen Position und des heutigen Quartalsberichts (17.11.2026) erscheint vorerst Halten statt Reduzieren sinnvoll, eine Aufstockung sollte die Reaktion auf die Zahlen abwarten.
 
-## Recent News
-- NVIDIA will hold its next earnings conference call on Tuesday, 17.11.2026, 2:00 p.m. PT, covering fiscal Q3 2027 (quarter ended 25.10.2026); results expected around 1:20 p.m. PT that day.
-- NVDA stock fell sharply in the run-up to earnings: closed at $186.64 on 06.11.2026, down about -22% from early October, including a single-day drop of -9.3% on 05.11.2026 — broader AI-valuation concerns rather than company-specific news appear to be the driver.
-- NVIDIA newsroom (08.11.2026) highlighted its role in Korea's "physical AI" ecosystem build-out.
+## Aktuelle Meldungen
+- NVIDIA hat für heute, 17.11.2026, 14:00 Uhr PT, die Telefonkonferenz zu den Ergebnissen des dritten Quartals des Fiskaljahres 2027 (Quartal endete am 25.10.2026) angesetzt; die Zahlen sollten gegen 13:20 Uhr PT veröffentlicht werden. Zum Zeitpunkt dieser Recherche lagen die konkreten Ergebnisse noch nicht in den durchsuchten Quellen vor.
+- Die Aktie stand im Vorfeld der Zahlen unter Druck: Schlusskurs am 06.11.2026 bei 186,64 USD, damit rund -22% gegenüber Anfang Oktober, inklusive eines Tagesrückgangs von -9,3% am 05.11.2026 – getrieben von allgemeiner Sorge um KI-Bewertungen, nicht von unternehmensspezifischen Negativmeldungen.
+- NVIDIA-Newsroom (08.11.2026): Bericht über die Rolle des Unternehmens beim Ausbau des "Physical AI"-Ökosystems in Südkorea (u. a. Zusammenarbeit mit Hyundai und weiteren Industriepartnern).
 
 ## Management
-- CEO Jensen Huang has been highly visible in 2026 media (AP, Fox News, CNBC, Stratechery, CNA, Lex Fridman), consistently framing AI adoption and Blackwell/GPU demand as still accelerating ("Blackwell sales are off the charts, cloud GPUs are sold out").
-- Huang has also commented publicly on the need for "new social norms" as AI becomes ubiquitous, and discussed his relationship with the US administration regarding AI/export policy.
+- CEO Jensen Huang war 2026 medial sehr präsent (u. a. AP, Fox News, CNBC, Stratechery, CNA, Lex Fridman) und betont durchgängig, die KI-Nachfrage beschleunige sich weiter ("Blackwell-Verkäufe gehen durch die Decke, Cloud-GPUs sind ausverkauft").
+- Huang äußerte sich zudem öffentlich zur Notwendigkeit "neuer sozialer Normen" im Umgang mit allgegenwärtiger KI sowie zu seinem Verhältnis zur US-Regierung in Fragen der KI- und Exportpolitik.
 
-## Financials
-- Fiscal Q3 FY26 (quarter ended Oct 2025, most recent reported figures at time of writing): revenue $57.01B (+62% YoY), beating consensus of $55.19B; Data Center revenue $51.2B (+66% YoY); adjusted EPS $1.30 (+60% YoY); Gaming revenue $4.3B (+30% YoY).
-- Q4 FY26 guidance: ~$65.0B revenue (±2%), with no China data-center compute revenue assumed.
-- Free cash flow of $22.09B in the quarter; ~$37B returned to shareholders via dividends and buybacks over the first nine months of fiscal 2026.
-- Fiscal Q3 FY27 results (current quarter) due 17.11.2026 — not yet reported as of this update.
+## Finanzielles
+- Fiskal-Q4 FY26 (Quartal bis 25.01.2026, zuletzt vollständig berichtetes Quartal): Rekordumsatz von 68,1 Mrd. USD (+20% ggü. Vorquartal, +73% ggü. Vorjahr); Data-Center-Umsatz 62,3 Mrd. USD (+75% YoY); GAAP-Bruttomarge 75,0%; GAAP-Gewinn pro Aktie 1,76 USD, Non-GAAP-EPS 1,62 USD.
+- Gesamtjahresumsatz FY26: 215,9 Mrd. USD (+65% ggü. Vorjahr).
+- Ausblick für Q1 FY27: erwarteter Umsatz von 78,0 Mrd. USD (±2%), weiterhin ohne Annahme von Data-Center-Compute-Umsätzen aus China.
+- Die Ergebnisse für das aktuelle Quartal (Fiskal-Q3 FY27) werden erst heute, am 17.11.2026, veröffentlicht und lagen zum Redaktionsschluss dieser Recherche noch nicht vor.
 
-## Strategy & Outlook
-- Continued aggressive capital deployment into the AI ecosystem: ~$2B investment in CoreWeave (Jan 2026), investment in Thinking Machines Lab (Mar 2026), reported ~$30B investment in OpenAI, and a ~$12.9B agreement to acquire Hugging Face (Aug 2026), alongside reported advanced talks to invest in Perplexity (>$30B valuation).
-- Management continues to describe AI infrastructure demand ("AI chip bookings over $500B") as supply-constrained rather than demand-constrained, supporting a bullish multi-year capex narrative for data centers.
-- Key near-term catalyst/risk: fiscal Q3 FY27 earnings on 17.11.2026, plus ongoing scrutiny of AI capex sustainability and China export restrictions.
+## Strategie & Ausblick
+- Fortgesetzt aggressive Kapitalallokation ins KI-Ökosystem: rund 2 Mrd. USD Investition in CoreWeave (Januar 2026), Beteiligung an Thinking Machines Lab (März 2026) mit strategischer Partnerschaft über 1 GW Hardware-Kapazität, rund 5 Mrd. USD Intel-Beteiligung, berichtete rund 30 Mrd. USD Investition in OpenAI sowie eine mit rund 20 Mrd. USD bezifferte Übernahme des KI-Chip-Start-ups Groq; zusätzlich Berichte über eine rund 12,9 Mrd. USD schwere Übernahme von Hugging Face und fortgeschrittene Gespräche über eine Beteiligung an Perplexity (Bewertung über 30 Mrd. USD) – letztere Angaben stammen aus einzelnen Sekundärquellen und sind nicht unabhängig bestätigt.
+- Management beschreibt die Nachfrage nach KI-Infrastruktur weiterhin als angebotsbeschränkt statt nachfragebeschränkt ("KI-Chip-Auftragsbestand über 500 Mrd. USD"), was die bullische Mehrjahres-Capex-Erzählung für Rechenzentren stützt.
+- Wichtigster kurzfristiger Katalysator/Risikofaktor: die heutigen Quartalszahlen (Fiskal-Q3 FY27) am 17.11.2026, daneben anhaltende Diskussionen über die Nachhaltigkeit des KI-Capex-Booms und China-Exportbeschränkungen.
 
-## Sources
+## Quellen
 - [NVIDIA Sets Conference Call for Third-Quarter Financial Results](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873)
-- [NVIDIA investor relations press release](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/)
-- [StockTitan NVDA overview](https://www.stocktitan.net/overview/NVDA/)
-- [NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 (Barchart)](https://www.barchart.com/story/news/36215834/nvidia-announces-financial-results-for-third-quarter-fiscal-2026)
-- [Jensen Huang says Blackwell sales are off the charts (Barchart)](https://www.barchart.com/story/news/36226367/jensen-huang-says-blackwell-sales-are-off-the-charts-and-cloud-gpus-are-sold-out-as-nvidia-crushes-q3-earnings-and-beats-analyst-expectations)
-- [Fortune: Jensen Huang, Trump, and NVIDIA's AI relationship](https://fortune.com/2026/06/17/jensen-huang-trump-nvidia-ai-midnight-calls-relationship/)
-- [Nvidia pours billions into companies supporting AI growth (National CIO Review)](https://nationalcioreview.com/articles-insights/extra-bytes/nvidia-pours-billions-into-the-companies-supporting-ai-growth)
-- [Nvidia-CoreWeave $2 billion AI factory deal (Fintool)](https://fintool.com/news/nvidia-coreweave-2-billion-ai-factory)
+- [NVIDIA Investor Relations – Pressemitteilung zur Telefonkonferenz](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx)
+- [StockTitan NVDA Übersicht](https://www.stocktitan.net/overview/NVDA/)
+- [NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026 (Investor Relations)](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026)
+- [Jensen Huang: Blackwell-Verkäufe "off the charts" (Barchart)](https://www.barchart.com/story/news/36226367/jensen-huang-says-blackwell-sales-are-off-the-charts-and-cloud-gpus-are-sold-out-as-nvidia-crushes-q3-earnings-and-beats-analyst-expectations)
+- [Fortune: Jensen Huang, Trump und NVIDIAs KI-Beziehung](https://fortune.com/2026/06/17/jensen-huang-trump-nvidia-ai-midnight-calls-relationship/)
+- [Stratechery: Interview mit Jensen Huang über Accelerated Computing](https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/)
+- [National CIO Review: Nvidia pours billions into AI growth](https://nationalcioreview.com/articles-insights/extra-bytes/nvidia-pours-billions-into-the-companies-supporting-ai-growth)
+- [Nvidia-CoreWeave 2-Milliarden-Dollar-Deal (Fintool)](https://fintool.com/news/nvidia-coreweave-2-billion-ai-factory)
