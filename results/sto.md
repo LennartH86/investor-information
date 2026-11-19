@@ -8,7 +8,7 @@ _Aktualisiert: 19.11.2026 | Zeitraum: 12.11.2026 – 19.11.2026_
 - **Marktwert:** 714.00 EUR
 - **Unrealisierter G/V:** -514.75 EUR (-41.89%)
 - **Portfolioanteil:** 0.40%
-- **Dividenden erhalten:** 0 EUR
+- **Dividenden erhalten:** 59.91 EUR
 - **Bewertung:** Die Position liegt mit knapp -42% deutlich im Minus; die für 2026 gezahlte Dividende von 0,31 EUR je Aktie entspricht beim aktuellen Kurs nur einer Rendite von rund 0,3% und bietet kaum Entschädigung für den Kursverlust. Analystenhaus Montega sieht mit einem "Kaufen"-Rating und einem im September 2026 auf 150 EUR angehobenen Kursziel deutliches Erholungspotenzial, operativ bestätigte Sto zuletzt die Jahresprognose (Umsatz ~1,62 Mrd. EUR, EBIT 56-76 Mio. EUR) und steigerte das H1-EBIT um 20,6%. Angesichts des geringen Portfolioanteils (0,40%) und der operativ stabilen, aber noch nicht überzeugenden Erholung erscheint Halten sinnvoller als ein Nachkauf oder ein Verkauf zum aktuellen tiefen Kurs.
 
 ## Aktuelle Meldungen

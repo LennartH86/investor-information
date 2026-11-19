@@ -8,7 +8,7 @@ _Aktualisiert: 19.11.2026 | Zeitraum: 12.11.2026 – 19.11.2026_
 - **Marktwert:** 3462,00 EUR
 - **Unrealisierter G/V:** +628,16 EUR (+22,17%)
 - **Portfolioanteil:** 1,94%
-- **Dividenden erhalten:** 0 EUR
+- **Dividenden erhalten:** 20,62 EUR
 - **Bewertung:** Der Kurs ist gegenüber der Vorwoche von rund 178 auf 173,10 EUR zurückgekommen, der Buchgewinn hat sich von +25,77% auf +22,17% verringert. Fundamental bleibt die Lage solide (Rekord-Q3 mit EBIT erstmals über 1 Mrd. EUR, angehobene Jahresprognose), doch der Verlust des Champions-League-Ball-Vertrags an Nike ab 2027/28 ist ein strategischer Rückschlag im Fußballgeschäft, der den Kurs in dieser Woche belastet haben könnte. Halten erscheint weiterhin sinnvoll; eine Aufstockung sollte angesichts des Rücksetzers und der anhaltenden Europa-Schwäche abgewartet werden, bevor neue fundamentale Impulse (z. B. aus den Investorenkonferenzen) vorliegen.
 
 ## Aktuelle Meldungen
