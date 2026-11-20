@@ -1,47 +1,55 @@
 # Energiekontor (EKT.DE)
-_Aktualisiert: 15.11.2026 | Zeitraum: 08.11.2026 – 15.11.2026_
+_Aktualisiert: 20.11.2026 | Zeitraum: 13.11.2026 – 20.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 90 Aktien
 - **Kaufkurs (Ø):** 39,00 EUR
-- **Aktueller Kurs:** 22,60 EUR
-- **Marktwert:** 2034,00 EUR
-- **Unrealisierter G/V:** -1499,47 EUR (-42,44%)
-- **Portfolioanteil:** 1,11%
-- **Dividenden erhalten:** 44,18 EUR
-- **Bewertung:** Konkrete KGV-/KBV-Kennzahlen wurden in der Recherche nicht gefunden; der starke Kursverlust seit Kauf hängt erkennbar mit der deutlichen Prognosesenkung vom 13.08.2026 zusammen (Konzern-EBT-Spanne für 2026 von 40–60 Mio. Euro auf nur noch 5–10 Mio. Euro gekürzt, Grund: verspätete Netzanschlusstermine u.a. in Schottland). Angesichts der weiterhin großen Projektpipeline (rund 11,9 GW) und einer moderaten Ausschüttungspolitik (rund 35% des Bilanzgewinns) erscheint die Position nach diesem Einbruch eher ein Fall für Halten als für ein Aufstocken, solange keine weitere Klarheit zu den Netzanschlussverzögerungen und den Q3-Zahlen besteht.
+- **Aktueller Kurs:** 20,90 EUR
+- **Marktwert:** 1.881,00 EUR
+- **Unrealisierter G/V:** -1.652,47 EUR (-46,77%)
+- **Portfolioanteil:** 1,07%
+- **Dividenden erhalten:** 0,00 EUR
+- **Bewertung:** Der Kurs hat sich seit dem Kauf mehr als halbiert, was zeitlich mit einer massiven Gewinnwarnung zusammenfällt: Die EBT-Prognose für 2026 wurde laut Marktberichten von ursprünglich 40–60 Mio. EUR auf nur noch 5–10 Mio. EUR gekappt, offenbar wegen späterer Netzanschlusstermine (u.a. bei UK-Projekten, teils erst 2029–2032). Für 2025 wurde zwar eine auf 1,00 EUR je Aktie verdoppelte Dividende vorgeschlagen (Rendite auf Kaufkurs bezogen gering, auf aktuellen Kurs ca. 4,8%, aber 2026 fraglich), das grundlegende Geschäftsmodell (Projektentwicklung + Eigenbetrieb) bleibt aber intakt. Angesichts der erheblichen Prognoseunsicherheit und des bereits realisierten Kursverlusts erscheint vorerst Halten (nicht Nachkaufen) sinnvoll, bis die Q3-2026-Zahlen und die Ursachen des Guidance-Cuts offiziell bestätigt sind; ein Reduzieren ist für risikoaverse Anleger ebenfalls vertretbar.
 
 ## Aktuelle Meldungen
-- Am 05.11.2026 hat Energiekontor die zuvor verkauften Windparks Elsdorf-Frankeshoven und Elsdorf-Tollhausen planmäßig in Betrieb genommen; das Unternehmen bleibt langfristig für die technische und kaufmännische Betriebsführung zuständig und erwartet daraus einen positiven, aber nicht näher bezifferten Beitrag zum Konzernergebnis 2026.
-- Die Projektpipeline wurde im ersten Halbjahr 2026 auf rund 11,9 Gigawatt (inklusive US-Projektrechte) weiterentwickelt.
-- Ein Kursbericht von Mitte November 2026 nennt einen Aktienkurs von rund 23,40 Euro, was einem Minus von knapp 35 Prozent seit Jahresbeginn entspricht.
+- 03.11.2026: Energiekontor und MPC richten gemeinsam eine direkte Stromversorgung ("Wind Park to Production Site") für K+S ein.
+- 05.11.2026: Inbetriebnahme der Windparks Elsdorf-Frankeshoven und Elsdorf-Tollhausen plangemäß; positiver Ergebnisbeitrag für das Geschäftsjahr 2026 erwartet. Die Stadt Elsdorf hat die Anlagen vollständig übernommen, Energiekontor bleibt für technische und kaufmännische Betriebsführung langfristig eingebunden.
+- 12.11.2026: Neun-Monats-Update 2026 – weitere Financial Closes und Ausbau des Eigenportfolios; in Großbritannien liegen aktualisierte Netzanschlussangebote für sieben schottische Windprojekte (über 350 MW) vor, mit vorgeschlagenen Anschlussterminen zwischen 2029 und 2032.
+- Laut einer Q3-2026-Zusammenfassung (Quartr, Stand 12.11.2026) wurde die EBT-Prognose 2026 drastisch von 40–60 Mio. EUR auf 5–10 Mio. EUR gesenkt (Vergleich FY2025 EBT: 40,5 Mio. EUR). Eine Quelle (Börsen-Zeitung: "Energiekontor kappt Prognose – Spätere Netzanschlusstermine") deutet auf verzögerte Netzanschlüsse als Ursache hin. Diese Angaben stammen aus Drittquellen und sollten gegen die offizielle Mitteilung von Energiekontor geprüft werden.
 
 ## Management
-- CEO Peter Szabo ist laut Unternehmensangaben insbesondere für Auslandsmärkte, Finanzen & Controlling, Investor & Public Relations, Vertrieb und ESG verantwortlich; seine aktuelle Bestellung läuft bis Ende 2027.
-- Vorstand und Aufsichtsrat haben der Hauptversammlung am 27.05.2026 vorgeschlagen, rund 35 Prozent des Bilanzgewinns auszuschütten; alle Tagesordnungspunkte wurden mit großer Mehrheit angenommen.
-- Die Gründer Dr. Bodo Wilkens und Günter Lammers halten laut Fact Sheet (Februar 2026) weiterhin je 25,5 Prozent der Anteile, der Streubesitz liegt bei 48,8 Prozent.
+- CEO: Peter Szabo, Mandat bis Ende 2027.
+- Mai 2026: Szabo bekräftigte, das Unternehmen sei weiterhin gut positioniert, die Jahresziele 2026 wie geplant zu erreichen (vor dem späteren Guidance-Cut).
+- Februar 2026: Im Zusammenhang mit der Inbetriebnahme des Windparks Oederquart betonte Szabo die Bedeutung von Repowering für die Ausbauziele erneuerbarer Energien in Deutschland.
+- März 2026: Zur Finanzierung des Repowering-Windparks Donstorf verwies Szabo auf ein Umfeld mit eingeschränkter Planungssicherheit.
+- Kein aktuelles CEO-Interview zu den jüngsten Entwicklungen (Guidance-Cut) in der Recherche gefunden; weitere Einordnung über IR-Seite oder Wirtschaftspresse empfohlen.
 
 ## Finanzielles
-- Energiekontor war mit einer EBT-Prognose von 40 bis 60 Mio. Euro für 2026 (Vorjahr: 40,5 Mio. Euro) ins Geschäftsjahr gestartet.
-- Mit einer Ad-hoc-Mitteilung vom 13.08.2026 wurde diese Prognose deutlich auf nur noch 5 bis 10 Mio. Euro EBT gesenkt; als Grund wurden verspätete Netzanschlusstermine (u.a. in Schottland) genannt. Die Aktie brach danach spürbar ein – dies dürfte der Hauptgrund für den massiven Kursverlust der Position sein.
-- Im ersten Halbjahr 2026 stieg der Umsatz deutlich (laut unterschiedlichen Quellen auf rund 99,9 bis 101,8 Mio. Euro, Vorjahr rund 76,0 Mio. Euro), das Unternehmen rutschte jedoch in die Verlustzone; das EBIT lag bei 10,1 Mio. Euro gegenüber 39,3 Mio. Euro im Vorjahreszeitraum, unter anderem wegen höherer Zinskosten aus der Investitionstätigkeit.
-- Zahlen zum dritten Quartal 2026 (laut stockanalysis.com Veröffentlichungstermin 12.11.2026) wurden in der Recherche nicht gefunden.
+- FY2025: EBT 40,5 Mio. EUR; Vorschlag einer auf 1,00 EUR je Aktie verdoppelten Dividende (ca. 35% des Bilanzgewinns der Energiekontor AG).
+- H1 2026: Umsatz über 30% gestiegen (ca. 101,8 Mio. EUR vs. 76,0 Mio. EUR im Vorjahr), Ergebnis laut einzelner Quelle in der Periode negativ; Unternehmen betonte projektbedingte Unregelmäßigkeit der Halbjahreszahlen.
+- Ursprüngliche FY2026-Prognose: EBT 40–60 Mio. EUR, im Mai 2026 bestätigt.
+- Laut Drittquelle (Q3-2026-Zusammenfassung) wurde diese Prognose auf 5–10 Mio. EUR gesenkt – eine erhebliche Abwärtsrevision, die noch nicht anhand einer Primärquelle (offizielle Energiekontor-Mitteilung) verifiziert werden konnte.
+- Laufender Aktienrückkauf seit Juli 2025, zuletzt im Februar 2026 mit Käufen berichtet.
+- Marktkapitalisierung lag zum 31.03.2026 bei ca. 531 Mio. EUR (vor dem jüngsten Kursrückgang).
 
 ## Strategie & Ausblick
-- Energiekontor verfolgt weiterhin eine Doppelstrategie aus Projektentwicklung/-verkauf und dem Ausbau eines eigenen Windpark- und Solarportfolios, unter anderem über Repowering-Projekte wie Oederquart und Donstorf.
-- Im Januar 2026 wurden mit dem österreichischen Partner illwerke vkw Kaufverträge für zwei deutsche Windparkprojekte mit rund 93 Megawatt abgeschlossen.
-- Für das Solarprojekt Kolitzheim-Herlheim in Bayern wurde im Juli 2026 ein zehnjähriger PPA mit EHA und dm unterzeichnet; zudem wurden PPAs für 17 Windparks mit über 100 MW Gesamtleistung für 2026/2027 gesichert, um die Wirtschaftlichkeit von Parks nach Auslaufen der EEG-Förderung zu stützen.
-- Das Management betont, dass die Bauaktivität auf historisch hohem Niveau liegt, wichtige Ergebnisbeiträge aber planmäßig erst in der zweiten Jahreshälfte 2026 anfallen sollten.
+- Mittelfristziel: EBT von 120 Mio. EUR bis 2028 (laut Unternehmensstrategie, Stand vor dem aktuellen Guidance-Cut – Erreichbarkeit nun fraglich).
+- Verkauf der Windparkprojekte Haberloh und Heidkrug (ca. 93 MW) an die österreichische illwerke vkw (Februar 2026) als Beispiel für das "Build-to-Sell"-Geschäft neben dem Eigenbetrieb-Portfolio.
+- Fokus auf Repowering-Projekte (u.a. Oederquart, Donstorf) sowie Ausbau des Eigenportfolios (Holtumer Moor, Drensteinfurt-Rieth, Elsdorf).
+- Großbritannien bleibt zentraler Wachstums- und Risikofaktor: verzögerte Netzanschlusstermine (2029–2032) für mehrere hundert MW an schottischen Windprojekten belasten die kurzfristige Visibilität der Erträge.
+- Direktbelieferungsmodelle (z.B. K+S über MPC) als neuer Vertriebsweg neben klassischen PPA-Strukturen.
 
 ## Quellen
-- [Energiekontor Aktie: Zwei Windparks in Elsdorf starten und stützen Ergebnis 2026](https://goldesel.de/aktien/news/energiekontor-aktie-zwei-windparks-in-elsdorf-starten-und-stutzen-ergebnis-2026)
-- [Energiekontor commissions repowered Oederquart wind park and expands own park portfolio](https://www.energiekontor.de/en/news/energiekontor-commissions-repowered-oederquart-wind-park-and-expands-own-park-portfolio.html)
-- [Energiekontor's first half of 2026 shaped by high construction activity](https://www.energiekontor.de/en/news/energiekontors-first-half-of-2026-shaped-by-high-construction-activity-key-earnings-contributions-scheduled-for-the-second-half-of-2026.html)
-- [Spätere Netzanschlusstermine – Energiekontor kappt Prognose (Börsen-Zeitung)](https://www.boersen-zeitung.de/unternehmen-branchen/energiekontor-kappt-prognose)
-- [ROUNDUP: Energiekontor kappt Prognose – Projekte verspätet – Aktie bricht ein](https://www.boerse-online.de/dpa-afx/roundup-energiekontor-kappt-prognose-projekte-verspaetet-aktie-bricht-ein-545176.html)
-- [Energiekontor steigert H1-Umsatz um 31% – doch Verlustzone drückt Ergebnis und trübt 2026-Ausblick](https://goldesel.de/aktien/news/energiekontor-steigert-h1-umsatz-um-31-doch-verlustzone-druckt-ergebnis-und-trubt-2026-ausblick)
-- [Energiekontor (XTRA:EKT) Stock Cools As Revenue Rises But Losses Emerge](https://www.webull.com/news/15402635254850560)
-- [Energiekontor and illwerke vkw continue successful cooperation and conclude purchase agreements for two German wind park projects](https://www.energiekontor.de/en/news/energiekontor-and-illwerke-vkw-continue-successful-cooperation-and-conclude-purchase-agreements-for-two-german-wind-park-projects-with-around-93-megawatts.html)
-- [Annual General Meeting approves all agenda items by a large majority](https://www.energiekontor.de/en/news/annual-general-meeting-approves-all-agenda-items-by-a-large-majority.html)
-- [2026-02 Energiekontor Fact Sheet (EN)](https://www.energiekontor.de/fileadmin/user_upload/IR/Praesentationen_Factsheet/2026-02_Energiekontor_Fact_Sheet_en.pdf)
-- [Energiekontor (EKT) Q3 2026 publication date – stockanalysis.com](https://stockanalysis.com/quote/lon/0E9V/)
+- [Energiekontor and Elsdorf Commission Two 40 MW Wind Farms in Germany (BlackRidge Research)](https://www.blackridgeresearch.com/news-releases/energiekontor-and-elsdorf-commission-two-40-mw-wind-farms-in-germany)
+- [Energiekontor Pressemitteilung: Elsdorf Wind Parks on Schedule (Finanzwire)](https://www.finanzwire.com/press-release/energiekontor-ag-energiekontor-commissions-two-wind-parks-in-elsdorf-on-schedule-positive-contribution-to-earnings-for-2026-8ZUzmSI1JsU)
+- [Energiekontor and MPC enable direct power supply to K+S (Webdisclosure)](https://www.webdisclosure.com/press-release/energiekontor-ag-from-wind-park-to-production-site-energiekontor-and-mpc-enable-direct-power-supply-to-ks-3lT6UTSd6hV)
+- [Energiekontor advances project realisation and expansion of its own portfolio in the first nine months of 2026 (Finanzwire)](https://www.finanzwire.com/press-release/energiekontor-ag-energiekontor-advances-project-realisation-and-expansion-of-its-own-portfolio-in-the-first-nine-months-of-2026-MF29yubQEvI)
+- [Energiekontor (EKT) Q3 2026 earnings summary (Quartr)](https://quartr.com/events/energiekontor-ag-ekt-q3-2026_oCW4ZEqh)
+- [Energiekontor kappt Prognose – Spätere Netzanschlusstermine (Börsen-Zeitung)](https://www.boersen-zeitung.de/unternehmen-branchen/energiekontor-kappt-prognose)
+- [Energiekontor's first half of 2026 shaped by high construction activity (energiekontor.de)](https://www.energiekontor.de/en/news/energiekontors-first-half-of-2026-shaped-by-high-construction-activity-key-earnings-contributions-scheduled-for-the-second-half-of-2026.html)
+- [Energiekontor achieves solid Group earnings in the 2025 financial year (energiekontor.de)](https://www.energiekontor.de/en/news/energiekontor-achieves-solid-group-earnings-in-the-2025-financial-year-and-strengthens-basis-for-further-growth.html)
+- [Energiekontor starts the 2026 financial year on track (energiekontor.de)](https://www.energiekontor.de/en/news/energiekontor-starts-the-2026-financial-year-on-track-operational-progress-confirms-robust-foundation-for-the-remainder-of-the-year.html)
+- [Peter Szabo – Management Board (energiekontor.de)](https://www.energiekontor.de/en/company/management-board-and-supervisory-board/peter-szabo.html)
+- [Energiekontor illwerke sign deal for two onshore wind parks of around 93 MW in Germany (RTTNews)](https://www.rttnews.com/3612102/energiekontor-illwerke-sign-deal-for-two-onshore-wind-parks-of-around-93-mw-in-germany.aspx)
+- [CMS berät illwerke vkw beim Erwerb der Windparkprojekte Haberloh und Heidkrug (CMS Law)](https://cms.law/de/deu/news-information/cms-beraet-illwerke-vkw-beim-erwerb-der-windparkprojekte-haberloh-und-heidkrug)
+- [Energiekontor AG Financials (stockanalysis.com)](https://stockanalysis.com/quote/etr/EKT/financials/)
