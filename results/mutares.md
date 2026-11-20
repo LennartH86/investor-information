@@ -1,49 +1,56 @@
 # Mutares (MUX.DE)
-_Aktualisiert: 15.11.2026 | Zeitraum: 08.11.2026 – 15.11.2026_
+_Aktualisiert: 20.11.2026 | Zeitraum: 13.11.2026 – 20.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 88 Aktien
 - **Kaufkurs (Ø):** 26,41 EUR
-- **Aktueller Kurs:** 27,60 EUR
-- **Marktwert:** 2428,80 EUR
-- **Unrealisierter G/V:** +84,29 EUR (+3,60%)
-- **Portfolioanteil:** 1,32%
+- **Aktueller Kurs:** 26,50 EUR
+- **Marktwert:** 2.332,00 EUR
+- **Unrealisierter G/V:** -12,51 EUR (-0,53%)
+- **Portfolioanteil:** 1,33%
 - **Dividenden erhalten:** 129,58 EUR
-- **Bewertung:** Der Kurs hat sich im Berichtszeitraum von rund 28,00 EUR auf 27,60 EUR leicht abgeschwächt, nachdem am 12.11. die Neunmonatszahlen vorlagen; die Position bleibt mit +3,60% unrealisiert plus 129,58 EUR erhaltener Dividenden insgesamt im Plus. Belastbare KGV-/KBV-Kennzahlen sind wegen der stark schwankenden Holding-Nettoergebnisse weiterhin kaum aussagekräftig; entscheidender ist, ob die Jahresprognose (Konzernumsatz 7,9–9,1 Mrd. EUR, Holding-Nettoergebnis 165–200 Mio. EUR) nach den Q3-Zahlen und den jüngsten Exit-Meldungen (Guascor-Verkauf) weiter Bestand hat. Angesichts der fortgesetzten aktiven Portfoliorotation und bestätigten Guidance erscheint ein Halten der Position weiterhin sinnvoll; eine Aufstockung könnte nach einer eingehenderen Prüfung der vollständigen Q3-Zahlen und des Guascor-Deal-Beitrags in Betracht gezogen werden.
+- **Bewertung:** Der Kurs liegt praktisch auf dem Einstiegsniveau, die Position ist nahezu break-even. Mutares zahlte für 2026 eine Dividende von 2,00 EUR je Aktie, was bei aktuellem Kurs einer attraktiven Rendite von rund 7,5% entspricht; dem steht jedoch ein deutlicher Rückgang des Holding-Nettoergebnisses in den ersten neun Monaten 2026 (33 Mio. EUR ggü. 84 Mio. EUR im Vorjahr) gegenüber. Angesichts bestätigter Jahresprognose, hoher Dividendenrendite, aber gleichzeitig sinkender Holding-Gewinne und laufender Anleihe-Refinanzierung erscheint ein Halten der Position derzeit sinnvoller als ein Aufstocken.
 
 ## Aktuelle Meldungen
-- Verkauf von Guascor Energy (11.11.2026): Mutares hat eine Vereinbarung zum Verkauf von Guascor Energy an Oaktree zu einem Eigenkapitalwert von 74,0 Mio. EUR unterzeichnet. Guascor war 2022 als Carve-out von Siemens Energy übernommen und seitdem zu einem eigenständigen Anbieter für Energielösungen entwickelt worden.
-- Veröffentlichung der Neunmonatszahlen 2026 und des Q3-Berichts am 12.11.2026; konkrete Kennzahlen aus dem Bericht ließen sich über die Recherche nicht im Detail verifizieren, weshalb vor Anlageentscheidungen die Originalmitteilung von Mutares geprüft werden sollte.
-- Der Anfang November bekanntgegebene Verkauf von Stuart (SRT Group) an Quiver bleibt im Fokus der Berichterstattung; eigene Finanzkennzahlen zum Deal wurden weiterhin nicht gesondert veröffentlicht.
-- Für Nord Gas Solutions wird ein erwarteter Jahresumsatz 2026 von über 575 Mio. EUR gemeldet; strategische Exit-Optionen werden weiterhin geprüft.
-- Mutares hatte im Oktober ein unwiderrufliches Angebot für eine Mehrheitsbeteiligung an der Lapeyre Group erhalten; der Status dieser Transaktion ist weiterhin offen.
-- Eine eigenständige Mutares-Pressemitteilung aus dem engeren Berichtszeitraum (08.–15.11.) über die Recherche hinaus zum Guascor-Signing und zu den Q3-Zahlen wurde nicht gefunden.
+- Mutares hat eine vorzeitige Refinanzierung der ausstehenden Anleihe 2023/2027 angekündigt (13.11.2026): Die Anleihe 2024/2029 soll um bis zu 165 Mio. EUR aufgestockt werden; das Umtauschangebot läuft vom 17.11. bis 4.12.2026, die endgültige Aufstockungssumme wird am 9.12.2026 festgelegt, Ausgabe der neuen Anleihen ist für den 21.12.2026 geplant.
+- Für den 19.11.2026 wurde ein Investor Day angekündigt, der sich mit Portfolioreife, Wertschöpfung, der Exit-Pipeline und der Kapitalallokation befasst.
+- Mutares hat eine Vereinbarung zum Verkauf von Guascor Energy an Oaktree zu einem Eigenkapitalwert von 74,0 Mio. EUR unterzeichnet (11.11.2026); das Closing wird bis Ende Q4 2026 erwartet.
+- Die Feuerwehrsparte von Magirus geht für einen Eigenkapitalwert von 65 Mio. EUR an die japanische Morita Holdings Corporation; das Verteidigungs- und Sicherheitsgeschäft bleibt laut Magirus bei Mutares.
+- Neunmonatszahlen 2026 (veröffentlicht 12.11.2026, kurz vor dem Berichtszeitraum): Konzernumsatz stieg auf 5,4 Mrd. EUR (Vorjahr: 4,7 Mrd. EUR); die Jahresprognose 2026 sowie der mittelfristige Ausblick wurden bestätigt.
 
 ## Management
-- CEO bleibt weiterhin Robin Laik; für den aktuellen Berichtszeitraum keine neuen Personalmeldungen gefunden.
-- Kein neues 2026er-Interview mit Robin Laik gefunden; die jüngste datierte Veröffentlichung mit ihm bleibt ein Edison-Group-Video von Mai 2024.
-- CIO Johannes Laumann bleibt das sichtbarste Gesicht in der Außenkommunikation: In mehreren (teils undatierten) Interviews mit Der Aktionär und Unternehmeredition äußert er sich zur US- und China-Pipeline, zur aktiven Exit-Strategie und zur jüngsten Kapitalerhöhung. Edison Group hat zudem ein Podcast/Video-Format mit ihm veröffentlicht.
+- CEO Robin Laik ist Mitgründer und seit 01.02.2008 CEO von Mutares, zuständig für Strategie, Unternehmensentwicklung und Investor Relations.
+- CIO Johannes Laumann äußerte sich in mehreren Interviews 2026 (u.a. Der Aktionär, Edison Group) zur US-Expansion, zum rekordgroßen SABIC-Deal (ca. USD 2,5 Mrd. Umsatz) und zum weiteren Monetarisierungspotenzial im Portfolio.
+- Kein datiertes, aktuelles Interview mit CEO Robin Laik aus dem Berichtszeitraum gefunden.
 
 ## Finanzielles
-- Q3-Bericht/Neunmonatszahlen 2026 wurden am 12.11.2026 veröffentlicht; detaillierte Kennzahlen konnten über die Recherche nicht zuverlässig bestätigt werden – die Originalmitteilung sollte vor einer Bewertung konsultiert werden.
-- Zur Erinnerung aus den Vorperioden: Q1 2026 Konzernumsatz 1.678,7 Mio. EUR (Vorjahr 1.526,2 Mio. EUR), Holding-Nettoergebnis -0,9 Mio. EUR; H1 2026 Konzernumsatz 3,4 Mrd. EUR, bereinigtes Holding-Nettoergebnis 6 Mio. EUR, Guidance 2026 bestätigt.
-- Jahresprognose 2026 laut Unternehmensangaben weiterhin: Konzernumsatz 7,9–9,1 Mrd. EUR; Holding-Nettoergebnis 165–200 Mio. EUR.
-- Keine eigenständigen Finanzkennzahlen zum Guascor- oder Stuart-Verkauf veröffentlicht; der Equity-Wert von Guascor beträgt 74,0 Mio. EUR.
+- Konzernumsatz 9M 2026: 5,4 Mrd. EUR (Vorjahr 4,7 Mrd. EUR).
+- Holding-Nettoergebnis 9M 2026: ca. 33 Mio. EUR, deutlich unter dem Vorjahreswert von ca. 84 Mio. EUR (-56%).
+- Q1 2026: Konzernumsatz 1.678,7 Mio. EUR (Vorjahr 1.526,2 Mio. EUR); Holding-Nettoergebnis -0,9 Mio. EUR (Vorjahr 29,5 Mio. EUR); Adjusted EBITDA 11,1 Mio. EUR (Vorjahr -30,1 Mio. EUR).
+- H1 2026: Konzernumsatz 3,4 Mrd. EUR (+9% ggü. Vorjahr), Adjusted EBITDA drehte ins Plus.
+- FY2026-Guidance (bestätigt): Konzernumsatz zwischen 7,9 Mrd. EUR und 9,1 Mrd. EUR; Holding-Nettoergebnis zwischen 165 Mio. EUR und 200 Mio. EUR.
+- Dividende: Die Hauptversammlung 2026 billigte eine Dividende von 2,00 EUR je Aktie.
+- Laufende Anleihe-Refinanzierung (Aufstockung der 2024/2029-Anleihe um bis zu 165 Mio. EUR) deutet auf aktives Liquiditäts- und Fälligkeitsmanagement hin.
 
 ## Strategie & Ausblick
-- Fortsetzung der aktiven Portfoliorotation: Nach den Verkäufen von Stuart und Guascor Energy sowie der laufenden Prüfung von Exit-Optionen für Nord Gas Solutions setzt Mutares den Harvesting-Kurs im Exit-Bereich fort.
-- Die US-Expansion sowie der Ausbau des Industrials- und Chemicals-&-Materials-Portfolios (u. a. SABIC-Sparte, TREPEL/MAFI) bleiben zentrale strategische Stoßrichtungen.
-- Mit dem möglichen Erwerb der Lapeyre Group zeichnet sich eine weitere größere Akquisition ab; der Transaktionsstatus bleibt abzuwarten.
-- Die Q3-Zahlen vom 12.11. sind der zentrale Prüfstein dafür, ob die für 2026 angekündigte Jahresprognose weiterhin erreichbar erscheint; Anleger sollten die Originalmitteilung und den Ausblick für Q4 im Detail verfolgen.
+- Investor Day am 19.11.2026 mit Fokus auf Portfolioreife, Wertschöpfung, Exit-Pipeline und Kapitalallokation – Hinweis auf eine stärkere Betonung des "Harvesting" reifer Portfoliounternehmen.
+- Aktive Exit-Strategie: Verkäufe von Guascor Energy (Oaktree) und Magirus-Feuerwehrsparte (Morita) sowie zuvor Buderus Edelstahl, LiBCycle und weitere Beteiligungen.
+- Parallel dazu weiterhin aktive Akquisitionsstrategie 2026: u.a. SABIC Engineering Thermoplastics (größter Deal der Firmengeschichte, ca. USD 2,5 Mrd. Umsatz), Magna Car Top Systems, TREPEL/MAFI (Infrastruktur & Defense), Synthomer a.s., HARO-Flooring (Hamberger) und Amaneos/Magna-Lighting.
+- Strategischer Ausbau der US-Präsenz und der Segmente Chemicals & Materials sowie Infrastructure & Defense.
+- Management bestätigt die Jahres- und Mittelfristprognose trotz rückläufigem Holding-Nettoergebnis in den ersten neun Monaten 2026.
 
 ## Quellen
-- [Mutares signs agreement to sell Guascor Energy to Oaktree for an Equity Value of EUR 74.0 million (placera.se)](https://www.placera.se/pressmeddelanden/mutares-se-co-mutares-signs-agreement-to-sell-guascor-energy-to-oaktree-for-an-equity-value-of-eur-74-0-million-20261111)
-- [Mutares has signed an agreement for the sale of Guascor Energy to Oaktree (placera.se)](https://www.placera.se/pressmeddelanden/mutares-se-co-mutares-has-signed-an-agreement-for-the-sale-of-guascor-energy-to-oaktree-20261111)
-- [EQS-Adhoc: Mutares signs agreement to sell Guascor Energy to Oaktree (finanzwire.com)](https://www.finanzwire.com/press-release/eqs-adhoc-mutares-signs-agreement-to-sell-guascor-energy-to-oaktree-for-an-equity-value-of-eur-740-million-gT6al6cVwdg)
-- [Mutares Aktie: Q3-Zahlen am 12. November (boerse-express.com)](https://www.boerse-express.com/news/articles/mutares-aktie-q3-zahlen-am-12-november-955322)
-- [Mutares Aktie: Q3-Zahlen am 12. November erwartet (finanztrends.de)](https://www.finanztrends.de/news/mutares-aktie-q3-zahlen-am-12-november-erwartet/)
-- [Mutares has sold SRT Group and its subsidiaries to Quiver (webdisclosure.com)](https://www.webdisclosure.com/press-release/mutares-has-sold-srt-group-and-its-subsidiaries-to-quiver-NRv04rbe4E6)
-- [Mutares Aktie: Quiver greift nach Stuart (boerse-global.de)](https://www.boerse-global.de/mutares-aktie-quiver-greift-nach-stuart/837918)
-- ["Wir haben eine große Visibilität in den USA bekommen" (unternehmeredition.de)](https://www.unternehmeredition.de/wir-haben-eine-grosse-visibilitaet-in-den-usa-bekommen/)
-- [In the chair with Mutares' Johannes Laumann on US expansion, a record deal and growth momentum (edisongroup.com)](https://www.edisongroup.com/edison-tv/mutares-in-the-chair-with-mutares-johannes-laumann-on-us-expansion-a-record-deal-and-growth-momentum/BM-2808/)
-- [Mutares aktuelle News (mutares.com)](https://mutares.com/en/news)
+- [Mutares Pressemitteilungen](https://mutares.com/en/category/press-releases)
+- [Mutares signs agreement to sell Guascor Energy to Oaktree for an Equity Value of EUR 74.0 million (Placera)](https://www.placera.se/pressmeddelanden/mutares-se-co-mutares-signs-agreement-to-sell-guascor-energy-to-oaktree-for-an-equity-value-of-eur-74-0-million-20261111)
+- [Mutares Aktie: Q3-Zahlen am 12. November (Börse Express)](https://www.boerse-express.com/news/articles/mutares-aktie-q3-zahlen-am-12-november-955322)
+- [Mutares Aktie: Guascor-Deal in der Schwebe? (Börse Global)](https://www.boerse-global.de/mutares-aktie-guascor-deal-in-der-schwebe/842072)
+- [Mutares Aktie: Oaktree greift bei Guascor zu (Börse Global)](https://www.boerse-global.de/mutares-aktie-oaktree-greift-bei-guascor-zu/842970)
+- [Mutares Aktie: Morita kauft Magirus-Feuerwehrsparte (Finanztrends)](https://www.finanztrends.de/news/mutares-aktie-morita-kauft-magirus-feuerwehrsparte/)
+- [Mutares Aktie: Neunmonatsumsatz steigt auf 5,4 Mrd. Euro (Trading-Treff)](https://trading-treff.de/trading/mutares-aktie-neunmonatsumsatz-steigt-auf-54-mrd-euro)
+- [EQS-News: Mutares increases Holding net income by 56% to just under EUR 83.5 million in the first nine months of 2025 (Wallstreet Online)](https://www.wallstreet-online.de/nachricht/20158107-eqs-news-mutares-increases-holding-net-income-by-56-to-just-under-eur-83-5-million-the-first-nine-months-of-2025-further-exits-expected-the-fourth-quarter)
+- [„Wir haben eine große Visibilität in den USA bekommen" (Unternehmeredition)](https://www.unternehmeredition.de/wir-haben-eine-grosse-visibilitaet-in-den-usa-bekommen/)
+- [In the chair with Mutares' Johannes Laumann on US expansion, a record deal and growth momentum (Edison Group)](https://www.edisongroup.com/edison-tv/mutares-in-the-chair-with-mutares-johannes-laumann-on-us-expansion-a-record-deal-and-growth-momentum/BM-2808/)
+- [EQS-News: Mutares reports Group revenues of EUR 1,678.7 million for the first quarter of 2026 (Deutsche Börse)](https://live.deutsche-boerse.com/nachrichten/EQS-News-Mutares-reports-Group-revenues-of-EUR-16787-million-for-the-first-quarter-of-2026--Exit-transactions-signed-in-the-first-quarter-reflect-strong-harvesting-momentum-4dce3905-4c77-4023-8631-6cb82a5c9424)
+- [Mutares grows and generates Group revenues of EUR 3.4 billion in the first half of 2026 (Mutares)](https://mutares.com/en/mutares-grows-and-generates-group-revenues-of-eur-3-4-billion-in-the-first-half-of-2026-further-exit-activities-expected-in-the-second-half-guidance-for-fiscal-year-2026-confirmed-all-bond/)
+- [Mutares lands €150m revenue flooring platform in German carve-out (PE Insights)](https://pe-insights.com/mutares-lands-e150m-revenue-flooring-platform-in-german-carve-out/)
+- [Mutares has signed an agreement to acquire Synthomer a.s. (Mutares)](https://mutares.com/en/mutares-has-signed-an-agreement-to-acquire-synthomer-a-s-from-synthomer-plc-to-grow-further-the-chemicals-materials-segment/)
