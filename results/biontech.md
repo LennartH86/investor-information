@@ -1,85 +1,53 @@
-# BioNTech (ADR) (BNTX)
-_Aktualisiert: 16.11.2026 | Zeitraum: 09.11.2026 – 16.11.2026_
+# BioNTech (BNTX)
+_Aktualisiert: 20.11.2026 | Zeitraum: 13.11.2026 – 20.11.2026_
 
 ## Portfolio-Analyse
-- **Position:** 56,27053 Aktien
+- **Position:** 56,27053 Aktien (ADR)
 - **Kaufkurs (Ø):** 145,33 EUR
-- **Aktueller Kurs:** 77,68 EUR
-- **Marktwert:** 4.371,09 EUR
-- **Unrealisierter G/V:** -3.866,29 EUR (-46,94%)
+- **Aktueller Kurs:** 74,05 EUR
+- **Marktwert:** 4.166,83 EUR
+- **Unrealisierter G/V:** -4.070,55 EUR (-49,42%)
 - **Portfolioanteil:** 2,38%
 - **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** Die Aktie hat im Wochenvergleich wieder nachgegeben (79,15 → 77,68 EUR) und bleibt mit knapp -47% zum Kaufkurs die mit Abstand schwächste Portfolioposition; da BioNTech keine Dividende zahlt und das Neun-Monats-Ergebnis 2026 kumuliert weiterhin einen Nettoverlust von über 1,1 Mrd. EUR ausweist, sind klassische Bewertungskennzahlen (KGV/KBV) kaum aussagekräftig. Im untersuchten Zeitraum (09.–16.11.2026) wurden keine neuen eigenständigen Unternehmensmeldungen gefunden – die am 03.11.2026 veröffentlichten Q3-Zahlen (überraschender Quartalsgewinn, leicht angehobene Umsatzprognose) bleiben der maßgebliche Bezugspunkt. Angesichts der ungeklärten Visibilität auf 2027 (Führungswechsel Sahin/Türeci → Oelkers) erscheint ein Nachkauf weiterhin verfrüht, eine Reduzierung nach den bereits realisierten hohen Verlusten und laufenden Onkologie-Katalysatoren (BMS, Gilead, Duality Bio) aber ebenfalls nicht zwingend – Einschätzung: Halten.
+- **Bewertung:** Die Aktie ist im Berichtszeitraum weiter gefallen und notiert nun fast 50% unter dem durchschnittlichen Kaufkurs von 145,33 EUR; da BioNTech keine Dividende zahlt, entfällt eine Bewertung über die Dividendenrendite, und klassische Kennzahlen wie KGV/KBV sind angesichts stark schwankender Quartalsergebnisse (Q3 2026 IFRS-Nettogewinn von 184,5 Mio. EUR nach Verlusten in Q1/Q2 2026) wenig aussagekräftig. Angesichts der bereits realisierten hohen Buchverluste, des bevorstehenden Führungswechsels (Şahin/Türeci → Oelkers) und der laufenden Transformation zu einem onkologiefokussierten Unternehmen erscheint eine weitere Reduzierung wenig sinnvoll – Halten bleibt die naheliegende Einschätzung, ein Nachkauf ist angesichts der unklaren kurzfristigen Visibilität auf 2027 aber verfrüht.
 
 ## Aktuelle Meldungen
-- Im Berichtszeitraum 09.–16.11.2026 wurden keine neuen eigenständigen Pressemitteilungen oder wesentlichen Nachrichten von BioNTech identifiziert; die jüngste umfassende Unternehmensmeldung bleibt der Q3-2026-Bericht vom 03.11.2026.
-- Die Aktie gab im Wochenvergleich nach, von 79,15 EUR (12.11.) auf 77,68 EUR (16.11.) – ein Rücksetzer nach der vorherigen moderaten Erholung, der Kurs bleibt weiterhin deutlich unter dem Niveau früherer Jahre.
-- Nachrichtlich (vorherige Berichtszeiträume, zur Einordnung weiterhin relevant): BioNTech und Duality Bio werten gemeinsam Daten zu Trastuzumab Pamirtecan bei Brust- und Endometriumkarzinom aus und erörtern mögliche nächste Schritte, einschließlich einer potenziellen BLA-Einreichung.
-- Das seit Mai 2026 laufende Aktienrückkaufprogramm über 1,0 Mrd. USD wird unverändert fortgeführt.
-
-/ English:
-- No new standalone press releases or materially new company news were identified for BioNTech in the review period Nov 9–16, 2026; the most recent comprehensive update remains the Q3 2026 report from November 3, 2026.
-- The share price pulled back week-over-week, from €79.15 (Nov 12) to €77.68 (Nov 16), giving up some of the prior modest recovery and remaining well below prior-year levels.
-- For context (from prior reporting periods, still relevant): BioNTech and Duality Bio are jointly reviewing trastuzumab pamirtecan data in breast and endometrial cancer and discussing potential next steps, including a possible BLA submission.
-- The $1.0 billion share repurchase program launched in May 2026 continues unchanged.
+- Die am 3. November 2026 veröffentlichten Q3-2026-Zahlen bleiben die zuletzt veröffentlichte wesentliche Unternehmensmeldung; im engeren Berichtszeitraum 13.–20.11.2026 wurden keine neuen eigenständigen Pressemitteilungen identifiziert.
+- Q3-2026-Umsatz lag bei rund 1,3 Mrd. EUR (Vorjahr: 1,5 Mrd. EUR) – der Rückgang resultiert vor allem aus geringerer Nachfrage nach dem COVID-19-Impfstoff; trotzdem meldete BioNTech einen IFRS-Nettogewinn.
+- BioNTech hat für die Saison 2026/2027 einen variantenangepassten COVID-19-Impfstoff ("variant-adapted COVID-19 vaccine") in mehreren Weltregionen eingeführt.
+- Im Rahmen der Kollaboration mit Roche/Genentech hat BioNTech eine Option gezogen; die laufende klinische Studie zum Pankreaskarzinom (PDAC) wird wie geplant fortgesetzt.
+- Das seit Mai 2026 laufende Aktienrückkaufprogramm über bis zu 1,0 Mrd. USD wird unverändert fortgeführt.
+- Die Aktie verlor im Wochenvergleich weiter an Wert und markierte damit eine Fortsetzung der seit Jahresbeginn schwachen Kursentwicklung.
 
 ## Management
-- Keine neuen Management-Meldungen im Berichtszeitraum 09.–16.11.2026. Der bereits bekannte und bestätigte Führungswechsel bleibt unverändert: Mitgründer Ugur Sahin und Özlem Türeci geben ihre Rollen bei BioNTech bis Ende 2026 ab, um ein neues, auf mRNA der nächsten Generation fokussiertes Unternehmen zu gründen.
-- Guido Oelkers, Ph.D. (zuvor CEO von Sobi) bleibt designierter neuer CEO und tritt sein Amt spätestens zum 01.02.2027 an.
-- Ein aktuelles Interview mit dem amtierenden oder designierten CEO aus diesem Berichtszeitraum wurde nicht gefunden; die letzten öffentlich dokumentierten Wortmeldungen von Sahin stammen weiterhin aus einem Fireside Chat im Juni 2026 sowie der Hauptversammlungsrede vom 15.05.2026 und der JPMorgan-Konferenz im Januar 2026.
-
-/ English:
-- No new management news in the review period Nov 9–16, 2026. The previously announced and confirmed leadership transition remains unchanged: co-founders Ugur Sahin and Özlem Türeci will step down from their BioNTech roles by end of 2026 to found a new company focused on next-generation mRNA.
-- Guido Oelkers, Ph.D. (formerly CEO of Sobi) remains the designated incoming CEO, taking office by February 1, 2027 at the latest.
-- No current interview with the incoming or outgoing CEO from this period was found; Sahin's most recent publicly documented remarks remain a June 2026 fireside chat, the May 15, 2026 AGM address, and the January 2026 J.P. Morgan conference.
+- Die Mitgründer Prof. Uğur Şahin (CEO) und Dr. Özlem Türeci (CMO) werden BioNTech bis Ende 2026 verlassen, um ein neues, auf mRNA der nächsten Generation fokussiertes Unternehmen zu gründen; Şahin bezeichnete das Gründerpaar sinngemäß als "ready to become pioneers again".
+- Guido Oelkers (zuvor CEO des schwedischen Biotechs Sobi) ist als neuer CEO vorgesehen und übernimmt das Amt spätestens zum 1. Februar 2027.
+- Ein neues, datiertes Interview von Şahin aus dem aktuellen Berichtszeitraum wurde nicht gefunden; die jüngsten öffentlich dokumentierten Aussagen stammen aus einem Fireside Chat bei den "Grand Challenges" im Juni 2026, in dem er über F&E-Investitionen und den globalen Zugang zu medizinischer Innovation sprach. Mit Blick auf angekündigte Werksschließungen betonte er, BioNTech werde sich künftig stärker auf die Beschleunigung seiner onkologischen Kernprogramme konzentrieren.
 
 ## Finanzielles
-- Keine neuen Finanzzahlen im Berichtszeitraum 09.–16.11.2026; letzter veröffentlichter Bericht bleibt Q3 2026 (03.11.2026): Umsatz 1,3 Mrd. EUR (Vorjahr: 1,5 Mrd. EUR); IFRS-Nettogewinn 184,5 Mio. EUR (Vorjahr: -28,7 Mio. EUR); bereinigter Nettogewinn 440,9 Mio. EUR; verwässertes Ergebnis je Aktie 0,73 EUR (Vorjahr: -0,12 EUR).
-- F&E-Aufwendungen Q3 2026: 748,1 Mio. EUR (Vorjahr: 564,8 Mio. EUR).
-- Kumuliert Januar–September 2026: Nettoverlust von 1.168,2 Mio. EUR (Vorjahreszeitraum: -831,1 Mio. EUR).
-- Jahresumsatzprognose 2026: 1,7–1,9 Mrd. EUR (zuletzt angehoben von 1,6–1,9 Mrd. EUR); Prognosen für bereinigte F&E- (2,0–2,3 Mrd. EUR) und SG&A-Kosten (0,7–0,8 Mrd. EUR) unverändert.
-- Cash-Position zuletzt bekannt: rund 16,8–17,2 Mrd. EUR an liquiden Mitteln, Zahlungsmitteläquivalenten und Wertpapieren (Angaben je Quelle leicht abweichend); eine aktualisierte Zahl zum Ende Q3 2026 wurde in den gesichteten Quellen nicht gefunden.
-- Laufendes Aktienrückkaufprogramm über 1,0 Mrd. USD seit Mai 2026.
-
-/ English:
-- No new financial figures in the review period Nov 9–16, 2026; the last published report remains Q3 2026 (Nov 3, 2026): revenue €1.3 billion (prior year: €1.5 billion); IFRS net profit €184.5 million (prior year: -€28.7 million); adjusted net profit €440.9 million; diluted EPS €0.73 (prior year: -€0.12).
-- Q3 2026 R&D expenses: €748.1 million (prior year: €564.8 million).
-- Cumulative Jan–Sep 2026: net loss of €1,168.2 million (prior-year period: -€831.1 million).
-- 2026 full-year revenue guidance: €1.7–1.9 billion (most recently raised from €1.6–1.9 billion); adjusted R&D (€2.0–2.3 billion) and SG&A (€0.7–0.8 billion) guidance unchanged.
-- Cash position last known: roughly €16.8–17.2 billion in cash, cash equivalents and securities (figures vary slightly by source); an updated figure as of end of Q3 2026 was not found in the sources reviewed.
-- Ongoing $1.0 billion share repurchase program initiated in May 2026.
+- **Q1 2026:** Umsatz 118,1 Mio. EUR (Vorjahr: 182,8 Mio. EUR) – Rückgang primär durch geringere COVID-19-Impfstofferlöse.
+- **Q2 2026:** Umsatz 105,6 Mio. EUR (Vorjahr: 260,8 Mio. EUR), IFRS-Nettoverlust 820,8 Mio. EUR; die Jahresumsatzprognose wurde in der Folge auf 1,6–1,9 Mrd. EUR gesenkt (zuvor 2,0–2,3 Mrd. EUR).
+- **Q3 2026:** Umsatz rund 1,3 Mrd. EUR (Vorjahr: 1,5 Mrd. EUR); F&E-Aufwendungen 748,1 Mio. EUR (Vorjahr: 564,8 Mio. EUR). BioNTech hob danach den Mittelwert der Jahresumsatzprognose 2026 wieder leicht an; die Prognosen für F&E- und Vertriebs-/Verwaltungskosten (SG&A) blieben unverändert.
+- Das Aktienrückkaufprogramm von bis zu 1,0 Mrd. USD (gestartet im Mai 2026) läuft unverändert weiter.
+- Keine Dividendenzahlung im Datensatz; BioNTech zahlt derzeit keine Dividende.
 
 ## Strategie & Ausblick
-- Keine neuen strategischen Ankündigungen im Berichtszeitraum 09.–16.11.2026. Die Onkologie-Partnerschaft mit Bristol Myers Squibb (u.a. BNT327) bleibt zentraler Werttreiber und war maßgeblich für den Q3-Gewinn verantwortlich.
-- Die am 22.10.2026 angekündigte Kollaboration mit Gilead Sciences (Pumitamig + TROP2-gerichtete Therapie) und die laufende gemeinsame Datenauswertung mit Duality Bio zu Trastuzumab Pamirtecan erweitern das Onkologie-Partnerportfolio weiter.
-- Im Jahr 2026 wurden sechs weitere Phase-3-Studien initiiert; Fokus liegt auf Programmen nahe der Zulassung/Markteinführung, mit dem erklärten Ziel, bis 2030 ein voll integriertes Multi-Produkt-Onkologieunternehmen zu werden.
-- Die CureVac-Integration (abgeschlossen Anfang 2026) und die Biotheus-Übernahme (BNT327/PM8002) gelten als vollständig abgeschlossen und stärken die mRNA- bzw. Onkologie-Plattform; neue Übernahmen wurden im Berichtszeitraum nicht identifiziert.
-- Geplante Investition von bis zu 1 Mrd. GBP über 10 Jahre in UK-F&E, unterstützt durch einen Zuschuss der britischen Regierung von bis zu 129 Mio. GBP.
-- Der bevorstehende Führungswechsel (Abgang der Gründer Sahin/Türeci, neuer CEO Oelkers spätestens ab Februar 2027) bleibt der wichtigste strategische Unsicherheitsfaktor für 2027.
-
-/ English:
-- No new strategic announcements in the review period Nov 9–16, 2026. The oncology partnership with Bristol Myers Squibb (incl. BNT327) remains the key value driver and was the main contributor to the Q3 profit.
-- The October 22, 2026 Gilead Sciences collaboration (pumitamig + TROP2-directed therapy) and the ongoing joint data review with Duality Bio on trastuzumab pamirtecan further expand BioNTech's oncology partnership portfolio.
-- Six additional Phase 3 trials were initiated in 2026, focusing on programs nearing approval/launch, as BioNTech pursues its stated goal of becoming a fully integrated multi-product oncology company by 2030.
-- The CureVac integration (completed in early 2026) and the Biotheus acquisition (BNT327/PM8002) are both fully complete and strengthen the mRNA/oncology platform; no new acquisitions were identified in the review period.
-- Planned investment of up to £1 billion over 10 years in UK R&D, supported by a UK government grant of up to £129 million.
-- The upcoming leadership transition (founders Sahin/Türeci departing, new CEO Oelkers taking office by February 2027 at the latest) remains the key strategic uncertainty heading into 2027.
+- BioNTech treibt den strategischen Wandel zu einem onkologiefokussierten Multi-Produkt-Unternehmen voran; 2026 wurden mehrere neue Phase-3-Studien initiiert, u.a. zu Immunmodulatoren, Antikörper-Wirkstoff-Konjugaten (ADCs) und mRNA-Immuntherapien.
+- Die im Januar 2026 abgeschlossene Übernahme von CureVac N.V. (All-Stock-Deal mit einem implizierten Eigenkapitalwert von rund 1,25 Mrd. USD) wird weiter integriert; der Forschungs- und Produktionsstandort Tübingen soll Teil der BioNTech-Plattform werden.
+- Die bestehende globale Kollaboration mit Bristol Myers Squibb zum bispezifischen Antikörper BNT327 bleibt ein zentraler Werttreiber für die Onkologie-Pipeline.
+- Geplante Investition von bis zu 1 Mrd. GBP über zehn Jahre in britische F&E-Aktivitäten im Rahmen der Partnerschaft mit der britischen Regierung.
+- Der anstehende Führungswechsel (Abgang Şahin/Türeci, Amtsantritt Oelkers spätestens Februar 2027) bleibt der größte strategische Unsicherheitsfaktor für das Geschäftsjahr 2027.
 
 ## Quellen
 - [BioNTech Announces Third Quarter 2026 Financial Results and Corporate Update – finviz.com](https://finviz.com/news/414016/biontech-announces-third-quarter-2026-financial-results-and-corporate-update)
-- [BioNTech Announces Third Quarter 2026 Financial Results and Corporate Update – biopharmawatch.com](https://www.biopharmawatch.com/news/BNTX/biontech-announces-third-quarter-2026-financial-results-corporate-update)
+- [BioNTech reports Q3 net profit, revenue falls 15% on lower COVID-19 vaccine demand – rttnews.com](https://www.rttnews.com/3707863/biontech-reports-q3-net-profit-revenue-falls-15-on-lower-covid-19-vaccine-demand.aspx)
 - [BioNTech Announces Third Quarter 2026 Financial Results and Corporate Update – ariva.de](https://www.ariva.de/news/biontech-announces-third-quarter-2026-financial-results-and-12192574)
-- [BioNTech Aktie: Q3-Zahlen angekündigt – boerse-express.com](https://www.boerse-express.com/news/articles/biontech-aktie-q3-zahlen-angekuendigt-958332)
-- [BioNTech Q3 2026 Earnings Call Transcript Highlights – marketbeat.com](https://www.marketbeat.com/instant-alerts/transcript-biontech-q3-earnings-call-highlights-2026-11-03/)
-- [BioNTech and Gilead Sciences Announce Clinical Collaboration – taiwannews.com.tw](https://www.taiwannews.com.tw/en/news/6463460)
-- [BioNTech and Co-Founders Announce Plan to Pursue Next-Generation mRNA Company – biontech.com](https://www.biontech.com/int/en/home/mediaroom/news/press-releases/2026/03/biontech-and-co-founders-announce-plan-pursue-next-generation.html)
-- [BioNTech Strives to Become Commercial 'Powerhouse' While Maintaining Humility – biospace.com](https://www.biospace.com/business/biontech-strives-to-become-commercial-powerhouse-while-maintaining-humility)
-- [JPM26: BioNTech Gears Up for Multiproduct Oncology Status by 2030 – clinicaltrialsarena.com](https://www.clinicaltrialsarena.com/news/jpm26-biontech-gears-up-for-multiproduct-oncology-status-by-2030/)
-- [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update – investors.biontech.de](https://investors.biontech.de/node/18731/pdf)
-- [BioNTech Secures $2B Upfront from BMS Deal, €17.2B Cash Underpins €32B Pipeline Upside – rallies.ai](https://rallies.ai/news/biontech-secures-2b-upfront-from-bms-deal-172b-cash-underpins-32b-pipeline-upside)
-- [BioNTech Completes Acquisition of Biotheus – pharmasource.global](https://pharmasource.global/?p=23471)
-- [BioNTech Finalizes CureVac Takeover to Consolidate mRNA Platform – panabee.com](https://www.panabee.com/news/biontech-finalizes-curevac-takeover-to-consolidate-mrna-platform)
-- [BioNTech Appoints Guido Oelkers as New Chief Executive Officer – europeanpharmaceuticalreview.com](https://www.europeanpharmaceuticalreview.com/biontech-appoints-guido-oelkers-as-new-chief-executive-officer/2136131.article)
-- [BioNTech CEO Oelkers oncology pivot interview – pharmavoice.com](https://www.pharmavoice.com/news/biontech-oncology-pivot-new-ceo-guido-oelkers/827836/)
-
-_Hinweis: Im Berichtszeitraum 09.–16.11.2026 wurden keine neuen eigenständigen Unternehmensmeldungen über die bereits bekannten Q3-2026-Ergebnisse und Partnerschaften hinaus gefunden; die obigen Abschnitte zu Management, Finanzielles und Strategie fassen daher weiterhin gültige, zuvor berichtete Informationen zusammen._
+- [Full Press Release Details – biopharmawatch.com](https://www.biopharmawatch.com/news/BNTX/biontech-announces-third-quarter-2026-financial-results-corporate-update)
+- [BioNTech Announces First Quarter 2026 Financial Results and Corporate Update – finviz.com](https://finviz.com/news/350513/biontech-announces-first-quarter-2026-financial-results-and-corporate-update)
+- [BioNTech Announces Second Quarter 2026 Financial Results and Corporate Update – seekingalpha.com](https://seekingalpha.com/pr/20605251)
+- [BioNTech's CEO, CMO prep departure to set up next-gen mRNA company – fiercebiotech.com](https://fiercebiotech.com/biotech/biontechs-ceo-cmo-prep-departure-set-next-gen-mrna-company)
+- [BioNTech bigwigs will step down to form new mRNA company – pharmaphorum.com](https://pharmaphorum.com/news/biontech-bigwigs-will-step-down-form-new-mrna-company)
+- [BioNTech's oncology pivot under new CEO Guido Oelkers – pharmavoice.com](https://www.pharmavoice.com/news/biontech-oncology-pivot-new-ceo-guido-oelkers/827836/)
+- [Fireside Chat with Uğur Şahin – grandchallenges.org](https://www.grandchallenges.org/video/fireside-chat)
+- [BioNTech Closes Acquisition of CureVac N.V. Including Subsequent Offering Period – nasdaq.com](https://www.nasdaq.com/press-release/biontech-closes-acquisition-curevac-nv-including-subsequent-offering-period)
+- [BioNTech investor profile – cbinsights.com](https://www.cbinsights.com/investor/biontech)
