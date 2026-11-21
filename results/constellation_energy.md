@@ -1,46 +1,47 @@
 # Constellation Energy (CEG)
-_Aktualisiert: 16.11.2026 | Zeitraum: 09.11.2026 – 16.11.2026_
+_Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
 - **Kaufkurs (Ø):** 220,98 EUR
-- **Aktueller Kurs:** 254,20 EUR
-- **Marktwert:** 2.542,00 EUR
-- **Unrealisierter G/V:** +326,70 EUR (+14,75%)
-- **Portfolioanteil:** 1,39%
-- **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** The stock has pulled back slightly from last week's post-earnings high (254,20 EUR vs. 254,90 EUR), but remains up nearly 15% on the position after the strong Q3 2026 beat and the second FY2026 guidance raise (adjusted operating EPS now $12,50–$12,80), putting shares at roughly 20x forward earnings — reasonable given continued double-digit EPS growth from the Calpine integration and new hyperscaler supply deals. Today, 16.11.2026, is the dividend record date ($0,4265/share, payable 04.12.2026), so a first dividend payment should soon show up for this position. **Halten** remains the appropriate stance — fundamentals and guidance support the thesis, but after the run-up new buying should wait for a pullback or further confirmation that the Rhode Island and nuclear-uprate projects stay on schedule.
+- **Aktueller Kurs:** 218,80 EUR
+- **Marktwert:** 2.188,00 EUR
+- **Unrealisierter G/V:** -27,30 EUR (-1,23%)
+- **Portfolioanteil:** 1,28%
+- **Dividenden erhalten:** 3,11 EUR
+- **Bewertung:** Shares have fallen sharply over the past week, from 254,20 EUR to 218,80 EUR (roughly -14%), erasing the prior post-earnings gain and flipping the position from a strong unrealized profit into a small loss — yet no company-specific negative news emerged in this window, and the Q3 2026 beat and raised FY2026 guidance ($12,50–$12,80 adjusted operating EPS) remain intact, so the drop looks more like broad market/rate-sensitive profit-taking than a change in fundamentals. The first dividend (3,11 EUR received) has now posted to the position. At roughly 17x forward earnings after the pullback, valuation has become more attractive relative to last week. **Halten** is appropriate; the long-term nuclear/hyperscaler demand thesis is unchanged, and a further stabilization could make this a reasonable point to consider adding, but confirmation that nothing operational drove the sell-off is warranted first.
 
 ## Aktuelle Meldungen
-- No major new company-specific news was found in the 09.11.–16.11.2026 window beyond continued market digestion of the Q3 2026 earnings report (released 09.11.2026), which remains the dominant story this period.
-- 16.11.2026 is the record date for the previously declared $0,4265/share quarterly dividend, payable 04.12.2026 — the first dividend this portfolio should receive on this position.
-- Secondary reporting continues to reference new data-center supply agreements with Google (a 20-year PPA for roughly 890 MW of nuclear capacity, enabling over $4,3 billion in investment across 11 nuclear units) and Amazon (20-year, 690 MW PPA), together adding over 1.000 MW of emissions-free generation under contract.
-- Shares traded modestly lower this week versus the immediate post-earnings pop, consistent with profit-taking after the sharp Q3 rally.
+- No new company-specific news was identified in the 14.11.–21.11.2026 window; coverage continues to center on the Q3 2026 earnings report released 09.11.2026, now a week and a half old.
+- The stock gave back its entire post-earnings rally this week, dropping from 254,20 EUR to 218,80 EUR, with no identifiable company-specific catalyst found in the search results — consistent with sector-wide or rate-driven profit-taking after a strong run.
+- The first quarterly dividend for this position has now been received (3,11 EUR), corresponding to the $0,4265/share dividend with record date 16.11.2026 and payment date 04.12.2026 referenced previously (the payment appears to have posted earlier than the stated date).
+- Secondary reporting continues to reference the Google (20-year, ~890 MW nuclear PPA, up to $4,3 billion of related investment) and Amazon (20-year, 690 MW PPA) supply agreements as still-active storylines from the Q3 release.
 
 ## Management
-- CEO Joe Dominguez's most recent substantive public commentary remains tied to the Q3 2026 earnings release (09.11.2026), where he framed "growing demand for reliable power" as the driver behind the raised guidance and new hyperscaler contracts.
-- No new dedicated CEO interview was identified within this reporting window (09.–16.11.2026); the most recent standalone interviews remain earlier in 2026 (Davos in January, CERAWeek in March, and the April Semafor interview where Dominguez said the US is "not going to win" the race with China on AI-related energy build-out).
-- Standing management themes continue: positioning data-center/AI demand as a structural long-term growth driver, pairing nuclear uprates with new gas and renewable capacity, and maintaining capital discipline following the Calpine integration.
+- No new standalone CEO interview or commentary from Joe Dominguez was identified in this window (14.–21.11.2026).
+- Most recent substantive Dominguez commentary remains tied to the Q3 2026 earnings call (09.11.2026), where he attributed the raised guidance and new hyperscaler deals to "growing demand for reliable power."
+- Other 2026 media appearances on record include Davos (January), CERAWeek/Bloomberg (March), the Semafor interview (April, where he said the US is "not going to win" the AI energy race with China), and his inclusion on the TIME100 AI 2026 list (August).
 
 ## Finanzielles
-- Q3 2026 (reported 09.11.2026, still the most recent results in this window): adjusted operating EPS of $5,06 (vs. $3,04 a year earlier); GAAP net income of $5,19/share; revenue of $9,55 billion (vs. $6,57 billion a year earlier), beating the ~$9,35 billion consensus.
-- FY2026 adjusted operating EPS guidance stands at $12,50–$12,80, raised from $11,50–$12,50 after Q2 2026 and originally $11,00–$12,00 — the second raise this year.
-- Nuclear fleet capacity factor was 97,2% in Q3 2026; the Calpine business contributed 38.387 GWh of generation in the quarter.
-- Pending/announced transactions unchanged from last week: planned ~$715 million acquisition of the Rhode Island State Energy Center (gas-fired, up to 609 MW) from Shell, still subject to regulatory approval; pending sale of the Brazos Valley Energy Center to LS Power (~$860 million), awaiting DOJ approval, expected to close by end of 2026.
-- Dividend: $0,4265/share, record date 16.11.2026, payable 04.12.2026 — not yet reflected in this portfolio's dividend-received figure, but due shortly.
+- Q3 2026 (reported 09.11.2026, still the most recent results): adjusted operating EPS of $5,06 (vs. $3,04 a year earlier); GAAP EPS of $5,19 (vs. $2,97); net income of approximately $1,8 billion (vs. ~$930 million); revenue of $9,55 billion (vs. $6,57 billion), roughly 45% higher year over year and above the ~$9,35–9,37 billion consensus.
+- FY2026 adjusted operating EPS guidance narrowed to $12,50–$12,80, the second upward revision this year (previously $11,50–$12,50; originally $11,00–$12,00).
+- Conditional DOE loan commitment of up to $5 billion (secured October 2026) to help finance nuclear uprates via the Federal Financing Bank, still subject to a final loan agreement.
+- Pending/announced transactions unchanged: ~$715 million acquisition of the Rhode Island State Energy Center (up to 609 MW gas-fired) from Shell, still awaiting regulatory approval, with one source now indicating a possible Q1 2027 close; pending sale of the Brazos Valley Energy Center to LS Power (~$860 million), awaiting DOJ approval.
+- Dividend of $0,4265/share has now been reflected in this portfolio's holdings (3,11 EUR received), consistent with the previously stated record date (16.11.2026) and payment date (04.12.2026).
 
 ## Strategie & Ausblick
-- Constellation continues to position itself as the largest US independent power producer following the Calpine acquisition (closed 07.01.2026, ~$26,6 billion enterprise value), combining nuclear, gas and renewable generation to meet rising AI/data-center electricity demand.
-- The conditional DOE loan commitment of up to $5 billion and the previously announced $4,3 billion nuclear expansion plan (via the Google PPA, enabling uprates across 11 nuclear units) signal continued multi-year capital deployment toward expanding existing nuclear capacity.
-- New long-term supply agreements with Google and Amazon (alongside existing Meta and Microsoft deals) reinforce the hyperscaler demand thesis, though management has previously cautioned that headline interconnection-queue figures can overstate load that ultimately materializes.
-- Watch items: closing of the Rhode Island State Energy Center acquisition and the Brazos Valley divestiture, progress on DOE-backed nuclear uprates, receipt of the first dividend payment for this position, and whether the raised FY2026 guidance holds through Q4 reporting.
+- Constellation remains the largest independent power producer in the US following the Calpine acquisition (closed 07.01.2026, net purchase price ~$26,6 billion after accounting for assumed debt and tax attributes), combining nuclear, gas and renewable generation to serve rising AI/data-center electricity demand.
+- The ~$4,3 billion nuclear expansion plan (tied to the Google PPA, adding roughly 1.165–1.200 MW across 11 nuclear units) and the DOE-backed $5 billion financing commitment point to continued heavy multi-year capital deployment into existing nuclear capacity.
+- Long-term supply agreements with Google, Amazon, Meta and Microsoft continue to reinforce the hyperscaler demand thesis, though management has previously cautioned that headline interconnection-queue figures can overstate load that ultimately materializes.
+- Watch items: whether the week's roughly 14% share-price pullback reflects a broader market move or signals emerging concerns; closing of the Rhode Island State Energy Center acquisition and the Brazos Valley divestiture; progress on DOE-backed nuclear uprates; and confirmation that the raised FY2026 guidance holds through Q4 reporting.
 
 ## Quellen
 - [Constellation Reports Third Quarter 2026 Results](https://www.constellationenergy.com/news/2026/11/constellation-reports-third-quarter-2026-results.html)
-- [Constellation Energy Raises 2026 Earnings Outlook After Q3 Beat — CEO Highlights Growing Demand For Reliable Power](https://stocktwits.com/news-articles/markets/equity/constellation-energy-raises-2026-earnings-outlook-after-q3-beat-ceo-highlights-growing-demand-for-reliable-power/cNGrQIqR9ew)
+- [Constellation Energy Shares Rise Over 4% As Q3 Earnings Beat Estimates And 2026 Outlook Improves](https://finviz.com/news/419132/constellation-energy-shares-rise-over-4-as-q3-earnings-beat-estimates-and-2026-outlook-improves)
+- [Constellation Q3 updates: New Peak+, uprates, restart, midterm elections](https://www.ans.org/news/article-8576/constellation-q3-updates-new-peak-uprates-restart-midterm-elections/)
 - [Constellation Energy Raises 2026 Earnings Outlook, Unveils $4.3 Billion Nuclear Expansion Plan](https://www.citybiz.co/?p=931445)
-- [Constellation Energy Q3 2026 Earnings Beat: What Drove the 30% Upside](https://247wallst.com/cards/constellation-energy-q3-2026-earnings-ceg-01m702rh8x40z04vrnc1npn79v)
-- [Constellation Energy Corporation declares dividend Q3 2026](https://www.constellationenergy.com/news/2026/10/constellation-energy-corporation-declares-dividend-q3-2026.html)
+- [Constellation Energy: $1.8 Billion Q3 Net Income, Raised 2026 Guidance, And $5 Billion Nuclear Financing Commitment](https://pulse2.com/constellation-energy-1-8-billion-q3-net-income-raised-2026-guidance-and-5-billion-nuclear-financing-commitment/)
+- [Constellation Energy Q3 2026 Revenue Rises 45 Percent](https://grafa.com/en/news/united-states/constellation-energy-q3-2026-revenue-rises-45-percent)
 - [Constellation to acquire Rhode Island State Energy Center from Shell](https://www.constellationenergy.com/news/2026/09/constellation-to-acquire-rhode-island-state-energy-center-from-shell.html)
-- [Constellation Energy Finalizes $26.6B Calpine Deal, Projects 20% EPS Growth](https://rallies.ai/news/constellation-energy-finalizes-calpine-acquisition-to-become-largest-us-electricity-producer)
+- [Constellation Completes Calpine Transaction Powering America's Clean Energy Future](https://www.constellationenergy.com/newsroom/2026/01/constellation-completes-calpine-transaction-powering-americas-clean-energy-future.html)
 - [Constellation CEO says US not 'going to win' race with China on building out energy for AI – Semafor](https://www.semafor.com/article/04/14/2026/constellation-energy-ceo-joe-dominguez-says-us-not-going-to-win-the-race-with-china-ai-energy-buildout)
