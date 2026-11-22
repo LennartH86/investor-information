@@ -1,53 +1,48 @@
 # Eaton Corporation (ETN)
-_Aktualisiert: 17.11.2026 | Zeitraum: 10.11.2026 – 17.11.2026_
+_Updated: 22.11.2026 | Period: 15.11.2026 – 22.11.2026_
 
-## Portfolio-Analyse
-- **Position:** 3 Aktien
-- **Kaufkurs (Ø):** 321,62 EUR
-- **Aktueller Kurs:** 305,00 EUR
-- **Marktwert:** 915,00 EUR
-- **Unrealisierter G/V:** -52,27 EUR (-5,40%)
-- **Portfolioanteil:** 0,50%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs ist gegenüber der Vorwoche (319,50 EUR) deutlich zurückgefallen und hat den unrealisierten Verlust dieser kleinen Position von -0,91% auf -5,40% ausgeweitet, obwohl fundamental keine negativen Nachrichten erkennbar sind – die Q3-Zahlen bleiben Rekordwerte und die FY2026-Guidance wurde zuletzt auf 13,70-13,80 USD je Aktie (adj. EPS) angehoben. Der Rückgang dürfte eher eine Gewinnmitnahme nach der starken Rally sowie allgemeine Bewertungssorgen (KGV auf historisch hohem Niveau) widerspiegeln, wie sie sich auch in Wells Fargos gesenktem Kursziel andeuten. Angesichts der weiterhin intakten operativen Dynamik (Rekord-Backlog, Margenausweitung) erscheint ein **Halten** bei dieser sehr kleinen Position weiterhin sinnvoll; ein Nachkauf wäre nur bei einer Stabilisierung und klarerem Bewertungsbild zu erwägen.
+## Portfolio Analysis
+- **Position:** 3 shares
+- **Average purchase price:** 321.62 EUR
+- **Current price:** 283.85 EUR
+- **Market value:** 851.55 EUR
+- **Unrealized gain/loss:** -115.72 EUR (-11.96%)
+- **Portfolio weight:** 0.50%
+- **Dividends received:** 2.13 EUR
+- **Assessment:** Fundamentals remain strong — Eaton posted record Q3 2026 sales ($8.9B, +28% YoY) and adjusted EPS ($3.68), raised full-year organic growth and EPS guidance, and continues to build backlog in electrical/data-center and aerospace end markets. The current unrealized loss appears driven by broader share-price pullback/valuation compression rather than deteriorating fundamentals, so given the raised guidance, record orders/backlog, and active M&A pipeline, a **Hold** stance looks reasonable; adding on further weakness could be considered, but no specific P/E or dividend-yield data were found in this period's research to confirm valuation attractiveness.
 
-## Aktuelle Meldungen
-- Die dominierende Nachricht bleibt das Rekord-Q3-2026-Ergebnis (veröffentlicht am 3. November): Der Nettoumsatz stieg um 28% im Jahresvergleich auf ein Rekordniveau von 8,95 Mrd. USD, mit einem organischen Wachstum von 19% (über der oberen Guidance-Grenze); das bereinigte EPS lag bei 3,68 USD gegenüber einem Konsens von 3,54 USD, das GAAP-EPS bei 2,77 USD (+7% YoY).
-- Rekord-Segmentmargen von 25,3%, oberhalb der oberen Guidance-Grenze; Aufträge und Auftragsbestand erreichten in allen drei Segmenten Rekordwerte.
-- Eaton hob die Guidance für das Gesamtjahr 2026 an: Organisches Wachstum wird nun bei 13-15% erwartet (zuvor 11-13%), bereinigtes EPS bei 13,70-13,80 USD (zuvor 13,40-13,60 USD); für Q4 wird ein bereinigtes EPS von 4,05-4,15 USD erwartet.
-- Zusammen mit den Q3-Zahlen kündigte Eaton eine Vereinbarung zur Übernahme der italienischen COL Group (Mittelspannungs-Stromverteilung) von Oaktree für einen Unternehmenswert von rund 810 Mio. Euro an; der Abschluss wird für das erste Quartal 2027 erwartet.
-- In dieser Woche neu hinzugekommen: Analysten-Kursziel-Anpassungen nach den Q3-Zahlen – am 9. November bekräftigte RBC Capital sein "Outperform"-Rating und erhöhte das Kursziel von 526 auf 539 USD, während Wells Fargo das "Overweight"-Rating beibehielt, aber das Kursziel von 503 auf 485 USD senkte, was auf unterschiedliche Einschätzungen zur Bewertung nach der jüngsten Kursrally hindeutet.
-- Keine neuen eigenständigen Eaton-Pressemitteilungen oder Unternehmensankündigungen wurden in dieser Rechercherunde für den Zeitraum nach dem 9. November gefunden; der Kursrückgang in der aktuellen Woche scheint somit eher markt- bzw. bewertungsgetrieben als durch neue Unternehmensnachrichten verursacht zu sein.
+## Recent News
+- Nov 3, 2026: Eaton reported record Q3 2026 results — net sales of $8.95B (+28% YoY, 19% organic growth), GAAP EPS of $2.77, and record adjusted EPS of $3.68, beating consensus estimates (~$3.54).
+- Record orders and backlog across all three segments; 12-month rolling organic orders up 39% (Electrical Americas) and 51% (Electrical Global); total backlog growth of 46% (Electrical) and 33% (Aerospace).
+- Electrical Americas segment sales hit a record $4.2B for the quarter; record segment margins of 25.3%.
+- Eaton raised full-year 2026 guidance: organic growth now seen at 13–15% (up from 11–13%), adjusted EPS guidance raised to $13.70–$13.80 (from $13.40–$13.60).
+- No significant Eaton-specific news was found dated after Nov 3, 2026 within the 15.11–22.11 window itself; the Q3 release remains the dominant news driver for the period.
 
 ## Management
-- CEO: Paulo Ruiz, der am 1. Juni 2025 CEO wurde, nachdem er zuvor President und COO war (seit September 2024); er kam 2019 zu Eaton, nach rund 18 Jahren bei Siemens.
-- CFO: David Foster ist seit dem 2. März 2026 Executive Vice President und Chief Financial Officer und trat die Nachfolge von Olivier Leonetti im Rahmen eines geplanten Übergangs an.
-- Es wurde kein neues Medieninterview mit Ruiz aus 2026 gefunden; verfügbares Material beschränkt sich weiterhin auf Konferenzauftritte (u.a. eine Präsentation bei der UBS Global Industrials and Transportation Conference sowie ein Fireside Chat mit CTO Michael Regelski bei der Barclays Industrial Select Conference) statt eines eigenständigen Interviews.
-- Das Management bekräftigt weiterhin, dass die geplante Abspaltung des Mobility-Geschäfts (Reverse Morris Trust) im Zeitplan liegt, mit einem erwarteten Abschluss im ersten Quartal 2027.
+- CEO Paulo Ruiz (in role since June 1, 2025) commented publicly (e.g., at Morgan Stanley's Laguna Conference) that Eaton's strategy is gaining momentum, driven by electrical-market demand and an increasing portfolio focus on data centers and aerospace; he noted guidance has been raised multiple times through the year (from ~8% to ~10% to ~12% organic growth) and said "the best years for this business are still ahead of us."
+- David Foster was appointed Executive Vice President and CFO effective March 2, 2026, succeeding Olivier Leonetti, who departed March 13, 2026, as part of a planned leadership transition.
 
-## Finanzielles
-- Q3 2026: Rekord-Nettoumsatz von 8,95 Mrd. USD (+28% YoY); organisches Wachstum von 19%; bereinigtes EPS 3,68 USD (vs. 3,54 USD erwartet); GAAP-EPS 2,77 USD (+7% YoY); Rekord-Segmentmargen von 25,3%.
-- Q2 2026 (zum Vergleich): Rekordumsatz von 8,5 Mrd. USD (+21% YoY; 14% organisch, 7% akquisitorisch); bereinigtes EPS 3,15 USD; freier Cashflow 874 Mio. USD.
-- Q1 2026 (zum Vergleich): Rekordumsatz von 7,45 Mrd. USD (+17% YoY); bereinigtes EPS 2,81 USD (vs. ca. 2,73-2,74 USD erwartet); GAAP-EPS 2,22 USD.
-- Aktuelle FY2026-Guidance (nach Q3): organisches Wachstum 13-15%; bereinigtes EPS 13,70-13,80 USD; Q4-Guidance für bereinigtes EPS 4,05-4,15 USD.
-- Keine neuen unabhängig bestätigten KGV-, KBV- oder Dividendenrendite-Zahlen wurden in diesem Zeitraum gefunden; beim aktuellen Kurs von 305,00 EUR gegenüber einer FY-Guidance von über 13 USD EPS notiert die Aktie weiterhin mit einer für ihr Wachstumsprofil typischen Bewertungsprämie, die sich nach dem jüngsten Kursrückgang etwas reduziert hat.
+## Financials
+- Q3 2026: Net sales $8.95B (+28% YoY); organic growth +19%; GAAP EPS $2.77; adjusted EPS $3.68 (record); segment margins 25.3% (record).
+- Q2 2026: Net sales $8.5B (record, +21% YoY); EPS $2.11; company also announced plans to separate its Mobility business via a Reverse Morris Trust transaction.
+- Q1 2026: Net sales $7.5B (record, +17% YoY); EPS $2.22; adjusted EPS $2.81.
+- FY2026 guidance (post-Q3): GAAP EPS of $10.39–$10.49; adjusted EPS of $13.70–$13.80; organic growth of 13–15%.
 
-## Strategie & Ausblick
-- Die M&A-getriebene Portfolio-Umgestaltung geht weiter: Abgeschlossene Übernahmen umfassen Ultra PCS (1,53 Mrd. USD, Luft- und Raumfahrtelektronik/-steuerungen, abgeschlossen im Januar 2026) und Boyd Thermal (9,5 Mrd. USD, Flüssigkeitskühlung für Rechenzentren, abgeschlossen im ersten Halbjahr 2026); die ausstehende COL-Group-Übernahme (ca. 810 Mio. Euro, europäische Mittelspannungs-Stromverteilung) wird voraussichtlich im ersten Quartal 2027 abgeschlossen.
-- Die geplante Abspaltung des Mobility-Geschäfts (Vehicle- und eMobility-Segmente) von Eaton in ein unabhängiges, börsennotiertes Unternehmen über eine Reverse-Morris-Trust-Transaktion bleibt für einen Abschluss im ersten Quartal 2027 auf Kurs.
-- Übergeordnete strategische Ausrichtung: anhaltender Fokus auf wachstums- und margenstärkere Endmärkte in den Bereichen Elektrotechnik, Luft- und Raumfahrt sowie Rechenzentren, teilweise finanziert durch Portfolio-Vereinfachung (Mobility-Abspaltung) und fortlaufende Zukäufe.
-- Der Rekord-Auftragsbestand und das sich beschleunigende organische Wachstum in allen drei Segmenten stützen die angehobene Guidance des Managements und das weiterhin konstruktive Analystenbild (RBC-Kurszielerhöhung), wobei nach der jüngsten Kursvolatilität und angesichts der weiterhin erhöhten Bewertung auch vorsichtigere Stimmen (Wells Fargos gesenktes Kursziel) bestehen bleiben.
+## Strategy & Outlook
+- Continued build-out in electrical infrastructure for data centers and utilities, plus expansion in aerospace, via both organic investment and M&A.
+- Active acquisition pipeline in 2026: completed acquisition of Boyd Thermal ($9.5B deal, closed March 12, 2026) adding thermal management for data centers/aerospace; acquired Ultra PCS (~$1.53B, January 2026) adding mission-critical aerospace electronics; agreed to acquire COL Group (European medium-voltage electrical distribution, ~€810M/$923M), expected to close Q1 2027.
+- Planned separation of the Mobility business via a Reverse Morris Trust transaction, signaling continued portfolio focus on higher-growth electrical and aerospace segments.
+- Management consistently raised guidance through 2026, reflecting confidence in sustained demand from data-center buildouts and broader electrification trends.
 
-## Quellen
-- [Eaton shares rise as Q3 earnings beat forecasts and revenue jumps 28% to record $8.9 billion (Finviz)](https://finviz.com/news/414407/eaton-shares-rise-as-q3-earnings-beat-forecasts-and-revenue-jumps-28-to-record-89-billion)
-- [Eaton Reports Record Third Quarter 2026 Results (Business Wire via offshoresource.com)](https://offshoresource.com/business-wire/eaton-reports-record-third-quarter-2026-results-with-strong-organic-growth-accelerating-record-orders-and-backlog-raises-organic-growth-guidance/)
-- [Eaton Q3 EPS rises 7% year over year to $2.77; Q3 net sales climb 28% year over year to $8.95 billion (Capital.com)](https://capital.com/en-ae/news/eaton-q3-eps-rises-7-year-over-year-to-2-77)
-- [Eaton Corp (ETN) Q3 2026 earnings data (Newsquawk)](https://www.newsquawk.com/headlines/eaton-corp-etn-q3-2026-usd-adj-eps-368-exp-354-revenue-89bln-exp-853bln-next-qtr-eps-405-415-exp-409-current-fy-eps-1370-1380-exp-1360)
-- [Eaton raises FY26 organic growth outlook (RTTNews)](https://www.rttnews.com/3707773/eaton-raises-fy26-organic-growth-outlook-update.aspx?type=alleco)
-- [Eaton to buy Italy's COL Group for €810 million (IT Brief UK)](https://itbrief.co.uk/story/eaton-to-buy-italy-s-col-group-for-eur-810-million)
-- [Eaton announces David Foster as EVP and CFO effective March 2, 2026 (Transformers Magazine)](https://transformers-magazine.com/tm-news/eaton-appoints-david-foster-as-cfo/)
-- [Eaton Corporation plc Presents at UBS Global Industrials and Transportation Conference – Transcript (Seeking Alpha via newsquantified.com)](https://www.newsquantified.com/etn/stock-report/eaton-corporation-plc-ordinary-shares-presents-ubs-global-industrials-and-0fd4yl)
-- [Eaton CTO to Discuss Electrical Business Growth Drivers at Barclays Conference (BriefGlance)](https://briefglance.com/companies/eaton-corporation-plc/pulses/49176)
-- [Eaton Reports Record Second Quarter 2026 Results (tedmag.com)](https://tedmag.com/eaton-reports-record-second-quarter-2026-results/)
-- [Can Eaton's Strategic Acquisitions Boost Further Long-Term Growth (Zacks)](https://www.zacks.com/stock/news/2996962/can-eatons-strategic-acquisitions-boost-further-long-term-growth)
-- [Eaton To Buy Boyd Thermal For $9.5 Billion, Expanding Data Center Liquid Cooling And Aerospace Capabilities (Pulse2)](https://pulse2.com/eaton-to-buy-boyd-thermal-for-9-5-billion-expanding-data-center-liquid-cooling-and-aerospace-capabilities/amp/)
+## Sources
+- [Eaton Reports Record Third Quarter 2026 Results (Business Wire via Finviz)](https://finviz.com/news/414001/eaton-reports-record-third-quarter-2026-results-with-strong-organic-growth-accelerating-record-orders-and-backlog-raises-organic-growth-guidance)
+- [Eaton shares rise as Q3 earnings beat forecasts and revenue jumps 28% to record $8.9 billion](https://finviz.com/news/414407/eaton-shares-rise-as-q3-earnings-beat-forecasts-and-revenue-jumps-28-to-record-89-billion)
+- [Eaton Q3 EPS rises 7% YoY to $2.77; Q3 net sales climb 28% YoY to $8.95 billion (Capital.com)](https://capital.com/en-ae/news/eaton-q3-eps-rises-7-year-over-year-to-2-77)
+- [Eaton Raises FY26 Organic Growth Outlook (RTT News)](https://www.rttnews.com/3707773/eaton-raises-fy26-organic-growth-outlook-update.aspx?type=alleco)
+- [Eaton signs agreement to acquire COL Group (Finviz)](https://finviz.com/news/395512/eaton-signs-agreement-to-acquire-col-group-expanding-manufacturing-capacity-and-capabilities-for-data-center-and-utility-markets-in-emea)
+- [Eaton to acquire Boyd Corp's Boyd Thermal business in $9.5B deal (RTT News)](https://www.rttnews.com/3589667/eaton-to-acquire-boyd-corp-s-boyd-thermal-business-in-9-5-bln-deal.aspx)
+- [Can Eaton's strategic acquisitions boost further long-term growth? (Zacks)](https://www.zacks.com/stock/news/2996962/can-eatons-strategic-acquisitions-boost-further-long-term-growth)
+- [Eaton announces David Foster as EVP and CFO effective March 2, 2026 (Business Wire)](https://www.businesswire.com/news/home/20260302016909/en/Eaton-announces-David-Foster-as-Executive-Vice-President-and-Chief-Financial-Officer-effective-March-2-2026)
+- [Eaton Sees Best Years Ahead as Data Center Demand Powers Growth (The Cerbat Gem)](https://www.thecerbatgem.com/?p=10396780)
+- [Eaton Corporation (ETN) Q1 2026 earnings summary (Quartr)](https://quartr.com/events/eaton-corporation-plc-etn-q1-2026_3ermLugF)
+- [Eaton Reports Record Second Quarter 2026 Results (Finviz)](https://finviz.com/news/375472/eaton-reports-record-second-quarter-2026-results-with-strong-organic-growth-accelerating-orders-and-backlog-and-raises-organic-growth-guidance)
