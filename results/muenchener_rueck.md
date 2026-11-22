@@ -1,50 +1,49 @@
 # Münchener Rück (MUV2.DE)
-_Aktualisiert: 19.11.2026 | Zeitraum: 12.11.2026 – 19.11.2026_
+_Aktualisiert: 22.11.2026 | Zeitraum: 15.11.2026 – 22.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 10 Aktien
-- **Kaufkurs (Ø):** 215.00 EUR
-- **Aktueller Kurs:** 583.40 EUR
-- **Marktwert:** 5834.00 EUR
-- **Unrealisierter G/V:** +3668.82 EUR (+169.45%)
-- **Portfolioanteil:** 3.27%
-- **Dividenden erhalten:** 719.94 EUR
-- **Bewertung:** Die Position liegt mit +169% deutlich im Plus, zusätzlich wurden bereits 719.94 EUR an Dividenden vereinnahmt – die Gesamtrendite seit Erstkauf (11.05.2020) ist damit sehr stark. Das Unternehmen hat das Nettogewinnziel für 2026 jüngst von 6,3 Mrd. EUR auf 6,6 Mrd. EUR angehoben und für 2025 eine Dividende von 24 EUR je Aktie beschlossen, was die fundamentale Entwicklung weiterhin stützt. Belastbare aktuelle KGV-/KBV-Kennzahlen lagen in der Recherche nicht vor; angesichts der angehobenen Prognose, des laufenden Aktienrückkaufprogramms und des geringen Portfolioanteils (3.27%) erscheint "Halten" sinnvoll – ein Nachkauf wäre nur bei einem günstigeren Einstiegsniveau zu prüfen, da die Position bereits sehr weit gelaufen ist.
+- **Kaufkurs (Ø):** 215,00 EUR
+- **Aktueller Kurs:** 574,80 EUR
+- **Marktwert:** 5748,00 EUR
+- **Unrealisierter G/V:** +3582,82 EUR (+165,47%)
+- **Portfolioanteil:** 3,36%
+- **Dividenden erhalten:** 719,94 EUR
+- **Bewertung:** Munich Re hat die finalen Q3-2026-Zahlen (12.11.) bestätigt und die Jahresprognose zum zweiten Mal 2026 angehoben, nun auf 6,6 Mrd. EUR Konzernergebnis – ein klares Signal operativer Stärke trotz höherer Großschadenbelastung im Rückversicherungsgeschäft. Bei der für 2025 beschlossenen Dividende von 24,00 EUR ergibt sich zum aktuellen Kurs eine Rendite von rund 4,2%. Angesichts des bereits sehr deutlichen Kursgewinns (+165,47% seit Erstkauf 2020) und der soliden, aber nicht spektakulär günstigen Bewertung erscheint Halten die naheliegende Strategie; ein Nachkauf würde sich eher bei einem Kursrückschlag anbieten, ein Verkauf ist angesichts des intakten Wachstums- und Dividendenprofils nicht indiziert.
 
 ## Aktuelle Meldungen
-- Münchener Rück veröffentlichte am 12.11.2026 den vollständigen Quartalsbericht zum 3. Quartal 2026: Nettoergebnis Q3 von rund 1,7 Mrd. EUR (nach Reinsurance News teils mit 1,742 Mrd. EUR angegeben) sowie ein Neunmonatsergebnis von 5,667 Mrd. EUR bei steigenden Versicherungserlösen.
-- Vorab hatte eine Ad-hoc-Meldung vom 23.10.2026 bereits ein Quartalsergebnis gemeldet und die Jahresprognose für 2026 von 6,3 Mrd. EUR auf 6,6 Mrd. EUR angehoben.
-- Munich Re Specialty hat am 02.11.2026 den Geschäftsbetrieb in Australien gestartet.
-- Aon und Munich Re kündigten am 03.11.2026 eine gemeinsame Pandemie-Rückversicherungslösung für Indonesien und die Philippinen an.
+- Finale Q3-2026-Ergebnisse (veröffentlicht 12.11.2026): Konzernergebnis von 1.742 Mio. EUR (Vorjahresquartal: 1.997 Mio. EUR), 9-Monats-Konzernergebnis von 5.667 Mio. EUR.
+- Bereits am 23.10.2026 hatte eine Ad-hoc-Meldung vorläufige Zahlen und eine Anhebung der Jahresprognose veröffentlicht; die Quartalsmitteilung vom 12.11. bestätigte dies unter dem Titel „Munich Re baut Geschäft aus und erhöht Gewinnziel auf 6,6 Mrd. €".
+- Munich Re Specialty hat am 02.11.2026 den offiziellen Start des Geschäfts in Australien bekanntgegeben.
+- Aon und Munich Re kündigten am 03.11.2026 eine gemeinsam entwickelte Pandemie-Rückversicherungslösung für Indonesien und die Philippinen an.
+- Munich Re warnte (Reinsurance News, Zitat von Manager Eckl) vor einer bereits großen und weiter wachsenden Protection Gap in Asien.
 
 ## Management
-- Zum 01.01.2026 übernahm Dr. Christoph Jurecka den Vorstandsvorsitz von Joachim Wenning, der den Konzern Ende 2025 aus persönlichen Gründen verlassen hat. Hinweis: Die im Auftrag genannte Annahme "CEO ist Joachim Wenning" ist damit nicht mehr aktuell – aktueller Vorstandsvorsitzender ist Christoph Jurecka.
-- Thomas Blunck (CEO Reinsurance) übernahm zum 01.11.2026 zusätzlich die Verantwortung für den Bereich P&C Reinsurance Europe & Latin America.
-- Rebecca Rycroft wurde laut Reinsurance News zur CFO des Canada-Life-Geschäfts berufen.
-- Eine aktuelle Interview-Berichterstattung mit dem (ehemaligen) CEO Joachim Wenning aus 2026 wurde in der Recherche nicht gefunden; öffentliche Auftritte 2026 betreffen primär den neuen CEO Christoph Jurecka (u. a. Hauptversammlung April 2026).
+- Vorstandswechsel: Thomas Blunck übernahm zum 01.11.2026 die Verantwortung für P&C Reinsurance Europe & Latin America.
+- Clarisse Kopff schied Ende Oktober 2026 aus dem Vorstand aus; eine Nachbesetzung ihrer Position ist nicht vorgesehen.
+- CEO Christoph Jurecka (seit der Ablösung von Joachim Wenning im Amt) verwies auf der Hauptversammlung im April 2026 auf das Rekordergebnis 2025 von 6,1 Mrd. EUR und die von den Aktionären genehmigte Dividendenerhöhung um 20% auf 24,00 EUR je Aktie; strategisch stellte er die Weiterentwicklung zum diversifizierten Versicherer über Rückversicherung, Erstversicherung und Specialty-Geschäft heraus.
+- Christa Schwimmer, CEO Specialty Reinsurance/Lloyd's/Bermuda, sieht laut Reinsurance News vor den Erneuerungsrunden im Januar 2027 erhebliche Kapazität im Markt.
 
 ## Finanzielles
-- Q3 2026: Nettoergebnis rd. 1,7 Mrd. EUR; 9-Monats-Nettoergebnis 5,667 Mrd. EUR.
-- Jahresprognose 2026 angehoben: Nettogewinnziel jetzt 6,6 Mrd. EUR (vorher 6,3 Mrd. EUR).
-- Für das Geschäftsjahr 2025 wurde eine Dividende von 24 EUR je Aktie beschlossen.
-- Laufendes Aktienrückkaufprogramm mit einem Volumen von bis zu 2.250 Mio. EUR, gestartet am 14.05.2026 (Laufzeit bis April 2027); bislang rund 1,2 Mio. zurückgekaufte Aktien.
-- Belastungsfaktor laut Marktberichten: sinkende Preise im klassischen Rückversicherungsgeschäft, was den Kurs zeitweise belastet hat trotz guter Ergebnisse.
+- Q3 2026: Konzernergebnis 1.742 Mio. EUR; Kapitalanlageergebnis 1.859 Mio. EUR (Vorjahr 2.385 Mio. EUR); Combined Ratio in der P&C-Rückversicherung bei 80,0% (Vorjahr 62,7%), Anstieg durch höhere Großschäden.
+- 9-Monats-Konzernergebnis 2026: 5.667 Mio. EUR.
+- Jahresprognose 2026 im Jahresverlauf zweimal angehoben: ursprünglich 6,3 Mrd. EUR, aktuell 6,6 Mrd. EUR Konzernergebnis.
+- Solvabilitätsquote Ende 2025 bei komfortablen 298%; für 2025 wurde eine Dividende von 24,00 EUR je Aktie (+20% ggü. Vorjahr) ausgezahlt, was bei aktuellem Kurs einer Rendite von rund 4,2% entspricht.
 
 ## Strategie & Ausblick
-- Übernahme des US-Cyber-Insurtechs At-Bay durch die Tochter Hartford Steam Boiler für einen Unternehmenswert von 575 Mio. USD; Ziel ist die Verbindung von Cyberversicherung mit aktiver Cyberabwehr. Abschluss der Transaktion wird für das erste Quartal 2027 erwartet, vorbehaltlich behördlicher Genehmigungen.
-- Die EU-Kommission genehmigte am 17.07.2026 einen Unternehmenszusammenschluss unter Beteiligung der Münchener Rück (Details zur konkreten Transaktion in den Quellen nicht abschließend benannt).
-- Konzernstrategie "Ambition 2030" bildet weiterhin den strategischen Rahmen nach Ablauf des Vorgängerprogramms "Ambition 2025".
-- Regionale Expansion in Spezialversicherung (Australien) und neue Rückversicherungslösungen in Asien (Pandemiedeckung Indonesien/Philippinen) unterstreichen das Wachstum außerhalb des klassischen P&C-Rückversicherungsgeschäfts.
+- Neue Mehrjahresstrategie „Ambition 2030" (im Dezember 2025 angekündigt) bildet den Rahmen für die weitere Profitabilitäts- und Wachstumsplanung des Konzerns.
+- Übernahme des US-Cyber-Insurtechs At-Bay angekündigt am 19.08.2026: Unternehmenswert von 575 Mio. USD, Integration über die Tochter Hartford Steam Boiler (HSB); Abschluss der Transaktion wird für Q1 2027 erwartet. Munich Re erwartet mittelfristig einen starken Ergebnisbeitrag aus dem Cyber-Geschäft.
+- ERGO hat die bereits 2025 angekündigte Übernahme des baltischen Nichtleben-Versicherers ADB Gjensidige Anfang Januar 2026 abgeschlossen.
+- Internationaler Ausbau setzt sich fort: neue Specialty-Niederlassung in Australien, Partnerschaft mit Aon für Pandemiedeckungen in Südostasien; Fokus bleibt auf Diversifizierung zwischen Rückversicherung, ERGO (Erstversicherung) und Specialty-Geschäft.
+- Für die Erneuerungsrunde zum 01.01.2027 wird laut Management ausreichend Marktkapazität erwartet, was auf einen moderateren Preisauftrieb im Rückversicherungsgeschäft hindeuten könnte.
 
 ## Quellen
-- [Munich Re posts net result of €5.7bn for 9M26 as insurance revenue rises – Reinsurance News](https://www.reinsurancene.ws/munich-re-posts-net-result-of-e5-7bn-for-9m26-as-insurance-revenue-rises/)
-- [Quarterly statement: Munich Re expands its business and raises its profit target to €6.6bn – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/quarterly-statement-3-2026.html)
-- [Munich Re reports quarterly net profit of €1.7bn and raises full-year guidance – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-10-23.html)
-- [Change in Munich Re's Board of Management – munichre.com](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-10-21.null.html)
-- [Company: Munich Re – Insurance Asia News (Australien-Start, Aon-Pandemiedeckung)](https://insuranceasianews.com/companies_category/munich-re/)
-- [Münchener Rück: Was der At-Bay-Deal für die Aktie bedeutet – Finanztrends](https://www.finanztrends.de/news/muenchener-rueck-was-at-bay-deal-fuer-aktie-bedeutet/)
-- [Munich Re übernimmt At-Bay für 575 Mio. US-Dollar – goldesel.de](https://goldesel.de/aktien/news/munich-re-ubernimmt-at-bay-fur-575-mio-us-dollar-cyber-wachstum-bis-q1-2027-anpeilen)
-- [Münchener Rück Aktie: EU-Kommission genehmigt Zusammenschluss – Börse Express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-eu-kommission-genehmigt-zusammenschluss-929338)
-- [Münchener Rück Aktie: 2,25-Milliarden-Programm bis April 2027 – Börse Express](https://www.boerse-express.com/news/articles/muenchener-rueck-aktie-225-milliarden-programm-bis-april-2027-926850)
-- [Munich Re erhöht die Gewinnprognose – Börsen-Zeitung](https://www.boersen-zeitung.de/banken-finanzen/munich-re-erhoeht-die-gewinnprognose)
-- [CEO-Wechsel bei der Munich Re: Wenning übergibt an Jurecka – CIO.de](https://www.cio.de/article/4027232/ceo-wechsel-bei-der-munich-re-wenning-uebergibt-an-jurecka.html)
+- [Munich Re: Quarterly statement 3/2026 – Munich Re expands its business and raises its profit target to €6.6bn](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/quarterly-statement-3-2026.html)
+- [Munich Re reports quarterly net profit of €1.7bn and raises full-year guidance (Ad-hoc, 23.10.2026)](https://www.munichre.com/en/company/investors/mandatory-announcements/ad-hoc-announcements/2026-10-23-ad-hoc.html)
+- [Reinsurance News: Munich Re posts net result of €5.7bn for 9M26 as insurance revenue rises](https://www.reinsurancene.ws/munich-re-posts-net-result-of-e5-7bn-for-9m26-as-insurance-revenue-rises/)
+- [Munich Re: Change in Munich Re's Board of Management](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/business-news/2026/business-news-21-05-2026.html)
+- [Munich Re Group to Acquire Cyber Insurtech At-Bay (19.08.2026)](https://www.munichre.com/hsb/en/press-and-publications/press-releases/2026/media-release-2026-08-19.en.html)
+- [Reinsurance News: Munich Re agrees to acquire cyber insurtech At-Bay in $575m deal](https://reinsurancene.ws/munich-re-agrees-to-acquire-cyber-insurtech-at-bay-in-575m-deal)
+- [Munich Re: Annual General Meeting approves higher dividend of €24 per share](https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/media-release-2026-04-29.html)
+- [Börsen-Zeitung: Munich Re erhöht die Gewinnprognose](https://www.boersen-zeitung.de/banken-finanzen/munich-re-erhoeht-die-gewinnprognose)
+- [Munich Re: Acquisitions and Divestments overview](https://www.munichre.com/en/company/investors/reports-and-presentations/acquisitions-and-divestments.item-78be2cf112500c73f14cfd6cc29bce27.html)
