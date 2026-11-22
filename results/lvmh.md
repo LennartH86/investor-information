@@ -1,51 +1,49 @@
-# LVMH - Louis Vuitton Moët Hennessy (MC.PA)
-_Aktualisiert: 17.11.2026 | Zeitraum: 10.11.2026 – 17.11.2026_
+# LVMH (MC.PA)
+_Updated: 22.11.2026 | Period: 15.11.2026 – 22.11.2026_
 
-## Portfolio-Analyse
-- **Position:** 9 Aktien
-- **Kaufkurs (Ø):** 594,89 EUR
-- **Aktueller Kurs:** 401,55 EUR
-- **Marktwert:** 3.613,95 EUR
-- **Unrealisierter G/V:** -1.791,53 EUR (-33,14%)
-- **Portfolioanteil:** 1,99%
-- **Dividenden erhalten:** 109,86 EUR
-- **Bewertung:** Der Kurs von 401,55 EUR liegt rund 33% unter dem durchschnittlichen Einstandskurs und bewegt sich weiterhin nahe den Jahrestiefs 2026. Aktuelle KGV-/KBV-Kennzahlen waren in dieser Rechercherunde nicht verlässlich zu finden; die bestätigte Zwischendividende von 5,50 EUR/Aktie (zahlbar 03.12.2026) entspricht beim aktuellen Kurs einer Halbjahresrendite von gut 1,4% – auf Jahresbasis (bei ähnlicher Schlussdividende) ergäbe sich schätzungsweise eine Gesamtrendite im Bereich von 3-4%. Da die Schwäche weiterhin klar auf die Sparte Mode & Lederwaren konzentriert ist, während Uhren & Schmuck sowie Weine & Spirituosen sich erholen, spricht vieles eher für ein Abwarten bis zur FY2026-Veröffentlichung (vorläufig 28.01.2027) als für ein Nachkaufen auf aktuellem Niveau.
+## Portfolio Analysis
+- **Position:** 9 shares
+- **Average purchase price:** 594.89 EUR
+- **Current price:** 379.38 EUR
+- **Market value:** 3414.42 EUR
+- **Unrealized gain/loss:** -1991.06 EUR (-36.83%)
+- **Portfolio weight:** 1.99%
+- **Dividends received:** 109.86 EUR
+- **Assessment:** The share has fallen a further ~5.5% since last week's update (401.55 EUR → 379.38 EUR) and now trades about 37% below the average purchase price, continuing to track near its 2026 lows; reliable current P/E/P/B figures could not be confirmed in this research round. The confirmed interim dividend of 5.50 EUR/share (payable 03.12.2026) represents roughly a 1.45% semi-annual yield at the current price, implying an estimated full-year yield in the 3-4% range if the final dividend is similar. With weakness still concentrated in Fashion & Leather Goods while Watches & Jewelry and Wines & Spirits are recovering, and no new catalyst until the FY2026 release (tentatively 28.01.2027), Hold still looks more appropriate than Add or Reduce at this stage.
 
-## Aktuelle Meldungen
-- LVMH stellte auf der Veranstaltung "Business of Tomorrow" in Paris (03.11.2026) den Ausbau seiner konzernweiten KI-Strategie ("AI for ALL") vor; Berichterstattung dazu erschien am 06.11.2026.
-- Reuters berichtet, dass LVMH im Jahr 2026 mehr als 167 Mrd. USD an Marktkapitalisierung verloren hat – als Hauptgrund wird die anhaltende Nachfrageschwäche in China genannt.
-- Eine unbestätigte Quelle (LinkedIn-Post, keine Primärquelle) nennt einen Kursrückgang von rund -29% auf Jahressicht bzw. -40% seit Jahresbeginn 2026; diese Zahlen sollten mit Vorsicht behandelt werden, da sie nicht durch eine belastbare Quelle bestätigt sind.
-- Nigo wurde als neuer Artistic Director von Maison Kenzo berufen (Datum der Meldung auf lvmh.com nicht eindeutig datiert).
-- Berichte zu möglichen Managementänderungen (u.a. eine Meldung zu Pietro Beccari als Chair/CEO einer gebündelten "Fashion Group" innerhalb LVMH) kursieren bei MarketScreener; Datum und offizielle Bestätigung durch LVMH liegen noch nicht vor – als unbestätigt zu werten.
-- Der LVMH Prize 2026 für junge Modedesigner wurde vergeben: Julie Kegels sowie zwei weitere Labels wurden ausgezeichnet, Gesamtpreisgeld 800.000 EUR.
-- Keine neue reguläre Quartals- oder Halbjahresmeldung in diesem Berichtszeitraum; der Q3-2026-Trading-Update vom 12.10.2026 bleibt die aktuellste fundamentale Offenlegung. Nächster Fixpunkt: FY2026-Zahlen, laut Marktkalender vorläufig für 28.01.2027 angesetzt (noch nicht offiziell von LVMH bestätigt).
+## Recent News
+- No major new LVMH-specific headline news was identified for the 15.11.2026–22.11.2026 window specifically; the most recent substantive items (AI strategy event, Kenzo leadership change) date from early November and were already covered in the prior update.
+- LVMH filed a routine disclosure with the French AMF on 03.11.2026 regarding treasury share transactions (own-share buyback activity, 26–30 October).
+- Reuters reporting (carried via Yahoo Finance) that LVMH has lost more than USD 167 billion in market capitalization during 2026, attributed mainly to persistent demand weakness in China, continues to be cited in market commentary this period.
+- No new quarterly or trading-update release in this period; the Q3 2026 trading update (12.10.2026) remains the latest confirmed disclosure. Next fixed point: FY2026 results, tentatively scheduled for 28.01.2027 (not yet officially confirmed by LVMH).
 
 ## Management
-- Bernard Arnault bleibt Chairman & CEO; die Nachfolgefrage bleibt laut seinen Aussagen auf der AGM im April 2026 frühestens in 7-8 Jahren Thema. Eine Satzungsänderung erlaubt ihm den Verbleib im Amt bis zum Alter von 85 Jahren.
-- Berichte über eine mögliche Bündelung der Modesparte unter einem neuen Chair/CEO (genannt wird Pietro Beccari) sind diese Woche aufgetaucht, aber unklar datiert und nicht offiziell von LVMH bestätigt – Beobachtung für die kommenden Wochen empfohlen.
-- Nigo ist neu als Artistic Director von Maison Kenzo tätig.
-- Unverändert aus Vorwochen: Alle fünf Kinder von Bernard Arnault halten weiterhin leitende Positionen im Konzern; Jean Arnault soll Jean-Christophe Babin als CEO von LVMH Watches ablösen (weiterhin nicht offiziell bestätigt). Die Arnault-Familienholdings kontrollieren rund 49-50% des Kapitals und etwa 66% der Stimmrechte.
+- Bernard Arnault remains Chairman & CEO. At the April 2026 AGM he reiterated that the succession question would not be revisited for "another 7-8 years"; a bylaw change allows him to remain in post until age 85.
+- Unconfirmed reports (MarketScreener) about a possible restructuring that would bundle LVMH's fashion division under a dedicated Chair/CEO (Pietro Beccari named) continue to circulate but remain undated/unconfirmed by LVMH — worth monitoring in coming weeks.
+- All five of Bernard Arnault's children continue to hold senior operating positions across the group; Frédéric Arnault (CEO of Loro Piana) was profiled in a recent SCMP interview discussing the transition from a watchmaking background to running an Italian luxury maison. Jean Arnault's reported move to head LVMH Watches (succeeding Jean-Christophe Babin) remains unconfirmed.
+- The Arnault family holding structure continues to control roughly 49-50% of share capital and about 66% of voting rights; Bernard Arnault has also made further personal share purchases (~EUR 407m reported) following the stock's pullback.
 
-## Finanzielles
-- In diesem Berichtszeitraum wurden keine neuen Quartalszahlen veröffentlicht. Letzter bestätigter Stand bleibt der 9-Monats-Umsatz zum 12.10.2026: 57,1 Mrd. EUR, organisches Wachstum +2% (+1% berichtet); dabei Uhren & Schmuck +8% organisch, Weine & Spirituosen +5% organisch, Mode & Lederwaren weiterhin rückläufig.
-- Laut Reuters hat LVMH 2026 bislang mehr als 167 Mrd. USD an Marktkapitalisierung eingebüßt, vor allem wegen der schwächeren Nachfrage aus China.
-- Die Zwischendividende von 5,50 EUR/Aktie bleibt bestätigt, zahlbar am 03.12.2026.
-- Keine neuen, verlässlichen KGV-/KBV-Kennzahlen in dieser Rechercherunde gefunden; der Aktienkurs (401,55 EUR) liegt weiterhin rund 33% unter dem durchschnittlichen Einstandskurs von 594,89 EUR.
+## Financials
+- No new quarterly figures were published in this period. Last confirmed data point: nine-month 2026 revenue of EUR 57.1bn, organic growth +2% (+1% reported); Watches & Jewelry +8% organically, Wines & Spirits +5% organically, Fashion & Leather Goods still declining.
+- H1 2026 (for reference): revenue EUR 38.6bn (-3% reported, +2% organic), recurring operating profit EUR 8.7bn, free cash flow EUR 4.1bn.
+- Reuters estimates LVMH has lost over USD 167bn in market capitalization during 2026, primarily linked to softer Chinese demand.
+- Confirmed interim dividend of 5.50 EUR/share, payable 03.12.2026.
+- No reliable current P/E/P/B figures could be sourced this round; share price (379.38 EUR) remains roughly 37% below the average purchase price of 594.89 EUR and has declined a further ~5.5% versus the prior week's price.
 
-## Strategie & Ausblick
-- LVMH hat auf der Veranstaltung "Business of Tomorrow" (03.11.2026, Paris) den weiteren Ausbau seiner konzernweiten KI-Strategie ("AI for ALL") vorgestellt, mit Fokus auf operative Effizienz und Kundenerlebnis über alle Sparten hinweg.
-- Die Kapitalallokation bleibt weiterhin auf gezielte Zukäufe und Portfoliobereinigung statt auf große Übernahmen ausgerichtet (unverändert aus Vorwochen: Verkauf von Marc Jacobs an ein WHP Global/G-III-Joint-Venture, Übernahme von French Bloom, Aufstockung des Loro-Piana-Anteils auf 94%).
-- Die Schere zwischen den sich erholenden Sparten Uhren & Schmuck sowie Weine & Spirituosen und der weiterhin schwächelnden Kernsparte Mode & Lederwaren bleibt der zentrale Beobachtungspunkt für die kommenden Monate.
-- Nächster harter Datenpunkt bleibt die FY2026-/Q4-Veröffentlichung, vorläufig für den 28.01.2027 vorgesehen (noch nicht offiziell bestätigt).
+## Strategy & Outlook
+- LVMH's group-wide "AI for ALL" strategy, outlined at the "Business of Tomorrow" event in Paris (03.11.2026), remains the most recent strategic initiative communicated, focused on operational efficiency and customer experience across divisions.
+- Capital allocation continues to favor targeted portfolio adjustments over large M&A: completed stake increase in Loro Piana to 94% (Jan 2026), agreed divestment of Marc Jacobs to a WHP Global/G-III joint venture (announced 14.05.2026; closing date reported inconsistently across sources — some cite a 2027 close subject to antitrust clearance, others report a September 2026 closing), and the small Les Editions Croque Futur acquisition (30.12.2025).
+- The divergence between recovering Watches & Jewelry / Wines & Spirits and the still-soft core Fashion & Leather Goods division remains the key watch item for coming months.
+- The next hard data point is the FY2026/Q4 release, tentatively set for 28.01.2027 (not yet officially confirmed by LVMH).
 
-## Quellen
+## Sources
 - [LVMH outlines AI expansion at Business of Tomorrow event in Paris (vermoegenszentrum.ch)](https://www.vermoegenszentrum.ch/en/stock-exchange-and-markets/news/lvmh-outlines-ai-expansion-business-tomorrow-event-paris)
-- [LVMH lost more than $167 billion in market value in 2026 amid China weakness (Reuters, via Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/lvmh-posts-modest-organic-growth-090441214.html)
-- [LVMH appoints Pietro Beccari as Chair/CEO of Fashion Group (uk.marketscreener.com)](https://uk.marketscreener.com/news/lvmh-appoints-pietro-beccari-as-chair-ceo-of-fashion-group-update-ce7d51d9db8af322)
-- [LVMH announces management changes (uk.marketscreener.com)](https://uk.marketscreener.com/news/lvmh-announces-management-changes-ce7e5adfdb89f621)
-- [Nigo named artistic director of Maison Kenzo (lvmh.com)](https://www.lvmh.com/news-documents/news/nigo-named-artistic-director-of-maison-kenzo/)
+- [LVMH posts modest organic growth amid Middle East disruption (Reuters via Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/lvmh-posts-modest-organic-growth-090441214.html)
 - [LVMH: Continued growth in the third quarter of 2026 (lvmh.com)](https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026)
-- [LVMH (MC) Q3 2026 earnings summary (quartr.com)](https://quartr.com/events/lvmh-mo-t-hennessy-louis-vuitton-soci-t-europ-enne-mc-q3-2026_3eduNT8W)
-- [Arnault deflects succession talk at LVMH AGM (Jing Daily)](https://jingdaily.com/intels/2026-04/24/arnault-deflects-succession-talk-at-lvmh-agm)
-- [How old is LVMH CEO Bernard Arnault, how long can he run the company (Fortune, 05.03.2026)](https://fortune.com/2026/03/05/how-old-is-lvmh-ceo-bernard-arnault-how-long-can-he-run-company-85-bylaws/)
-- [LVMH Press Releases (MarketScreener)](https://au.marketscreener.com/quote/stock/LVMH-4669/news-press-releases/)
+- [LVMH: Accelerating growth in the second quarter - solid first half results (lvmh.com)](https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results)
+- [Bernard Arnault sees himself leading LVMH for another 10 years (MarketScreener)](https://uk.marketscreener.com/news/bernard-arnault-sees-himself-leading-lvmh-for-another-10-years-ce7d50dcd889f226)
+- [LVMH's Arnault says to talk of retirement in 7-8 years (The Peninsula Qatar)](https://thepeninsulaqatar.com/article/23/04/2026/lvmhs-arnault-says-to-talk-of-retirement-in-7-8-years)
+- [Loro Piana CEO Frédéric Arnault navigating Italian luxury brand's complexities (SCMP)](https://www.scmp.com/magazines/style/people/luxury-ceos/article/3369350/loro-piana-ceo-frederic-arnault-navigating-italian-luxury-brands-complexities)
+- [LVMH and WHP Global announce definitive agreement for the acquisition of Marc Jacobs (lvmh.com)](https://www.lvmh.com/en/publications/lvmh-and-whp-global-announce-definitive-agreement-for-the-acquisition-of-marc-jacobs)
+- [LVMH acquires full ownership of Editions Croque Futur (MarketScreener)](https://uk.marketscreener.com/news/lvmh-acquires-full-ownership-of-editions-croque-futur-ce7e59d8d980f22c)
+- [Nigo named artistic director of Maison Kenzo (lvmh.com)](https://www.lvmh.com/news-documents/news/nigo-named-artistic-director-of-maison-kenzo/)
