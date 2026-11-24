@@ -1,20 +1,20 @@
-# FRoSTA (FRO.DE)
-_Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
+# FRoSTA (NAF.DE)
+_Aktualisiert: 24.11.2026 | Zeitraum: 17.11.2026 – 24.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 15 Aktien
 - **Kaufkurs (Ø):** 97,40 EUR
-- **Aktueller Kurs:** 104,00 EUR
-- **Marktwert:** 1.560,00 EUR
-- **Unrealisierter G/V:** +90,45 EUR (+6,15%)
-- **Portfolioanteil:** 0,91%
+- **Aktueller Kurs:** 105,00 EUR
+- **Marktwert:** 1.575,00 EUR
+- **Unrealisierter G/V:** +105,45 EUR (+7,18%)
+- **Portfolioanteil:** 0,89%
 - **Dividenden erhalten:** 0,00 EUR
-- **Bewertung:** Der Kurs gab im Berichtszeitraum leicht von 104,50 EUR auf 104,00 EUR nach, liegt aber weiterhin gut 6% über dem Einstandskurs von 97,40 EUR; belastbare aktuelle KGV-/KBV-Kennzahlen und eine Dividendenrendite ließen sich erneut nicht zuverlässig ermitteln, und in der Position wurden bislang keine Dividenden vereinnahmt. Die operative Datenlage bleibt uneinheitlich: Drittanbieter-Zusammenfassungen (Quartr) zum H1 2026 nennen eine Umsatzprognose für das Gesamtjahr von 9–17%, während die ursprüngliche Vorstandsprognose (Februar 2026) weiterhin 4–9% nennt. Da im Berichtszeitraum keine neuen kursrelevanten Unternehmensmeldungen auftauchten und sich der Kurs nur geringfügig bewegte, erscheint **Halten** weiterhin am sinnvollsten.
+- **Bewertung:** Der Kurs legte im Berichtszeitraum weiter leicht zu (von rund 104,00 EUR auf 105,00 EUR) und liegt damit gut 7% über dem Einstandskurs von 97,40 EUR; belastbare aktuelle KGV-/KBV-Kennzahlen und eine Dividendenrendite ließen sich erneut nicht zuverlässig ermitteln, und in der Position wurden bislang keine Dividenden vereinnahmt. Die operative Datenlage bleibt uneinheitlich: Drittanbieter-Zusammenfassungen (Quartr) zum H1 2026 nennen eine Umsatzprognose für das Gesamtjahr von 9–17%, während die ursprüngliche Vorstandsprognose (Februar 2026) weiterhin 4–9% nennt. Da im aktuellen Berichtszeitraum keine neuen kursrelevanten Unternehmensmeldungen auftauchten und der Kurs sich moderat positiv entwickelte, erscheint **Halten** weiterhin am sinnvollsten.
 
 ## Aktuelle Meldungen
-- Im Berichtszeitraum (14.11.–21.11.2026) wurde keine neue eigenständige Pressemitteilung von FRoSTA gefunden; auch die Finanzkalender-Seite von frosta-ag.com listet für November 2026 keinen Termin.
-- Der Aktienkurs gab im Berichtszeitraum leicht von 104,50 EUR auf 104,00 EUR nach, ohne dass sich dafür eine konkrete Nachrichtenlage identifizieren ließ.
-- Ein ad-hoc-news.de-Artikel zu einem neuen Produkt ("Frosta Pfannengerichte Gemüse Pfanne", ein fleischfreies Pfannengericht) wurde gefunden; das Datum ist uneindeutig (7. November oder 11. Juli 2026) und somit nicht sicher dem aktuellen Berichtszeitraum zuzuordnen.
+- Im Berichtszeitraum (17.11.–24.11.2026) wurde keine neue eigenständige Pressemitteilung von FRoSTA gefunden; die Finanzkalender-Seite von frosta-ag.com listet für November 2026 weiterhin keinen Termin.
+- Der Aktienkurs legte im Berichtszeitraum leicht von rund 104,00 EUR auf 105,00 EUR zu, ohne dass sich dafür eine konkrete neue Nachrichtenlage identifizieren ließ.
+- Der ad-hoc-news.de-Artikel zum neuen Produkt ("Frosta Pfannengerichte Gemüse Pfanne", ein fleischfreies Pfannengericht) bleibt die jüngste auffindbare Produktmeldung; das Datum ist weiterhin uneindeutig (7. November oder 11. Juli 2026) und somit nicht sicher dem aktuellen Berichtszeitraum zuzuordnen.
 - Keine Hinweise auf eine neue Übernahme oder einen neuen Großinvestor im Berichtszeitraum; die Meldung zu Verhandlungen mit Nestlé über italienische Tiefkühlmarken (lebensmittelpraxis.de) bleibt ohne verifizierbares aktuelles Datum und wurde 2026 nicht erneut bestätigt.
 
 ## Management
@@ -26,7 +26,7 @@ _Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
 ## Finanzielles
 - H1 2026 (laut Drittanbieter-Zusammenfassung Quartr, 13.07.2026): Umsatz rund 368 Mio. EUR (+11,7% ggü. Vorjahr); Nettogewinn 18,2 Mio. EUR, Nettomarge 4,9%; liquide Mittel 83,2 Mio. EUR (Vorjahreshalbjahr: 110,1 Mio. EUR). Gesamtjahresprognose 2026 laut dieser Quelle: Umsatzwachstum 9–17%, Konzernnettomarge 5–8% vom Umsatz.
 - Gesamtjahr 2025 (zur Einordnung): Umsatz +6,8% auf 682 Mio. EUR, getragen vor allem von der Marke FRoSTA (+15,7% auf 386 Mio. EUR); höhere Kosten und Investitionen belasteten jedoch Ergebnis und Marge.
-- Ausblick Gesamtjahr 2026: Die Quellen widersprechen sich weiterhin – die ursprüngliche Vorstandsprognose (Februar 2026, u. a. zitiert bei yumda.com) nennt ein Umsatzwachstum von 4–9% und einen Konzernjahresüberschuss zwischen 4–8% vom Umsatz, während die Quartr-Zusammenfassung des H1-Berichts ein höheres Umsatzwachstum von 9–17% nennt. Eine einheitlich bestätigte Prognose lässt sich aus den recherchierten Quellen nicht ableiten; zudem nennt eine Webull-Meldung abweichende Halbjahreszahlen (Umsatz 351,7 Mio. EUR, Nettoergebnis 19,3 Mio. EUR für H1 2025), die nicht zu den Quartr-Werten passen und als wenig verlässlich einzustufen sind.
+- Ausblick Gesamtjahr 2026: Die Quellen widersprechen sich weiterhin – die ursprüngliche Vorstandsprognose (Februar 2026, u. a. zitiert bei yumda.com) nennt ein Umsatzwachstum von 4–9% und einen Konzernjahresüberschuss zwischen 4–8% vom Umsatz, während die Quartr-Zusammenfassung des H1-Berichts ein höheres Umsatzwachstum von 9–17% nennt. Eine einheitlich bestätigte Prognose lässt sich aus den recherchierten Quellen nicht ableiten; zudem nennt eine Webull-Meldung abweichende Halbjahreszahlen (Umsatz 351,7 Mio. EUR), die nicht zu den Quartr-Werten passen und als wenig verlässlich einzustufen sind.
 - Nächster Berichtstermin laut Quartr-Finanzkalender: H2/Jahresbericht 2026 am 11.02.2027.
 - Laut Portfolio-Daten wurden für die Position bislang keine Dividenden vereinnahmt; konkrete aktuelle KGV-/KBV-Kennzahlen sowie eine Dividendenrendite für die FRoSTA-Aktie insgesamt wurden in der Recherche weiterhin nicht gefunden.
 
@@ -45,6 +45,7 @@ _Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
 - [Interview mit FRoSTA-Vorstand Hinnerk Ehlers: „Wir sind krisenfest" – lebensmittelpraxis.de](https://lebensmittelpraxis.de/sortiment/44229-interview-mit-frosta-vorstand-hinnerk-ehlers-wir-sind-krisenfest-so-waechst-das-unternehmen-trotz-globaler-unsicherheiten.html)
 - [Frosta AG – Frosta Pfannengerichte Gemüse Pfanne (Produktmeldung) – ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/frosta-pfannengerichte-gemuese-pfanne-by-frosta-ag-meat-free-skillet/69744884)
 - [FRoSTA Verhandlungen mit Nestlé – lebensmittelpraxis.de](https://lebensmittelpraxis.de/industrie-aktuell/17616-frosta-verhandlungen-mit-nestle.html)
+- [Europas heimlicher Tiefkühl-König? Die massive Expansions-Story in Italien und Österreich – aktienwelt360.de](https://www.aktienwelt360.de/2026/06/18/europas-heimlicher-tiefkuehl-koenig-die-massive-expansions-story-in-italien-und-oesterreich/)
 - [FRoSTA Aktiengesellschaft (FRA:NLM) – stockanalysis.com](https://stockanalysis.com/quote/fra/NLM/financials/metrics)
 - [FRoSTA – Operating Figures (Investor Relations) – frosta-ag.com](https://www.frosta-ag.com/en/investor-relations/facts-and-figures/)
 - [FRoSTA AG – Parqet Assetprofil (Insidertransaktionen) – app.parqet.com](https://app.parqet.com/en/assets/frosta-DE0006069008)
