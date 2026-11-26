@@ -1,19 +1,19 @@
 # Italmobiliare (ITM.MI)
-_Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
+_Aktualisiert: 26.11.2026 | Zeitraum: 19.11.2026 – 26.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 130 Aktien
 - **Kaufkurs (Ø):** 26,99 EUR
-- **Aktueller Kurs:** 24,65 EUR
-- **Marktwert:** 3.204,50 EUR
-- **Unrealisierter G/V:** -320,21 EUR (-9,08%)
-- **Portfolioanteil:** 1,88%
+- **Aktueller Kurs:** 25,40 EUR
+- **Marktwert:** 3.302,00 EUR
+- **Unrealisierter G/V:** -222,71 EUR (-6,32%)
+- **Portfolioanteil:** 1,87%
 - **Dividenden erhalten:** 90,74 EUR
-- **Bewertung:** The stock has given back last week's recovery and fallen from 26.35 EUR to 24.65 EUR, pushing the unrealized loss on the position from -2.81% to -9.08% even though no new negative company-specific news emerged in this window. Against the 9M-2026 NAV per share of roughly 53.6 EUR (confirmed in the November 11 "informativa periodica aggiuntiva"), the current price implies a holding discount of around 54%, wider than the ~51% seen a week ago and towards the upper end of its typical range. With the standalone holding still net cash (229.5 mln EUR) and the Capitelli disposal on track for Q4 closing, the move looks driven by general market/sentiment weakness rather than deteriorating fundamentals; rating: Halten, with the wider NAV discount making selective Aufstocken attractive for patient investors if the price weakness persists.
+- **Bewertung:** The stock has recovered part of last week's drop, rising from 24.65 EUR back to 25.40 EUR (+3.0%), narrowing the unrealized loss on the position from -9.08% to -6.32%. No new company-specific news was found for this window beyond continued secondary coverage of the already-known 9M-2026 figures (board approval 11.11.2026). Against the last disclosed NAV per share of roughly 53.6 EUR, the current price still implies a wide holding discount of around 53%, slightly narrower than the prior week but still well above typical historical levels. With the standalone holding net cash and the Capitelli disposal on track for Q4 closing, fundamentals remain intact; rating: Halten, with the persistently wide NAV discount keeping selective Aufstocken attractive for patient, value-oriented investors.
 
 ## Aktuelle Meldungen
-- No new company-specific press release (comunicato stampa) was identified for the 14.11.–21.11.2026 window; the most recent corporate disclosure remains the "Informazioni periodiche aggiuntive al 30 settembre 2026" published on 11.11.2026 (aggregate 9M revenue of the industrial portfolio companies +7.9% to 1,284.1 mln EUR, MOL/EBITDA +13.5%).
-- Teleborsa reported a positive trading session for ITM.MI shortly after the 9M release (12.11.2026, "piazza affari positiva la giornata per Italmobiliare"), but the stock has since reversed, closing the current reporting week markedly lower at 24.65 EUR versus 26.35 EUR the prior week.
+- No new company-specific press release (comunicato stampa) was identified for the 19.11.–26.11.2026 window; the most recent corporate disclosure remains the "Informazioni periodiche aggiuntive al 30 settembre 2026" published on 11.11.2026 (aggregate 9M revenue of the industrial portfolio companies +7.9% to 1,284.1 mln EUR, MOL/EBITDA +13.5%).
+- The share price recovered over the current week, rising from 24.65 EUR to 25.40 EUR, after Teleborsa had reported a positive trading session for ITM.MI shortly after the 9M release (12.11.2026).
 - Shareholder-structure news from late October (Morgan Stanley repositioning within its stake, total holding stable at 5.34%) remains the latest disclosed ownership movement; no new Consob notifications were found for the current period.
 
 ## Management
