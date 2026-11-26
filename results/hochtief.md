@@ -1,40 +1,38 @@
 # Hochtief (HOT.DE)
-_Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
+_Aktualisiert: 26.11.2026 | Zeitraum: 19.11.2026 – 26.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 18 Aktien
 - **Kaufkurs (Ø):** 62,48 EUR
-- **Aktueller Kurs:** 339,40 EUR
-- **Marktwert:** 6.109,20 EUR
-- **Unrealisierter G/V:** +4.973,64 EUR (+437,99%)
-- **Realisierter G/V:** +4.938,27 EUR (+403,14%)
-- **Portfolioanteil:** 3,58%
+- **Aktueller Kurs:** 335,20 EUR
+- **Marktwert:** 6.033,60 EUR
+- **Unrealisierter G/V:** +4.898,04 EUR (+431,33%)
+- **Portfolioanteil:** 3,42%
 - **Dividenden erhalten:** 719,00 EUR
-- **Bewertung:** Die Aktie hat den Abwärtstrend aus der Vorwoche fortgesetzt und ist von rund 367,60 EUR auf 339,40 EUR gefallen (-7,7%) – damit liegt der Kurs inzwischen rund 39% unter dem Rekordhoch von 554 EUR aus dem Mai 2026. Belastend wirken weiterhin die unklare Faktenlage rund um die ACS-Übernahmespekulation sowie eine weitere Kurszielsenkung durch Deutsche Bank (von 411 auf 403 EUR). Operativ bleibt das Bild mit Rekord-Auftragsbestand (~90 Mrd. EUR) und bestätigter Gewinnprognose für 2026 (1.025–1.100 Mio. EUR) intakt, die Bewertung bleibt mit einem KGV im Bereich von rund 25–30 und einer niedrigen Dividendenrendite von ca. 1,2–1,5% aber weiterhin ambitioniert. Bei einem unrealisierten Kursgewinn von knapp +438% sowie bereits realisierten Gewinnen von über 4.900 EUR und 719 EUR Dividenden seit Erstkauf 2020 bleibt dies die mit Abstand profitabelste Position im Portfolio. Angesichts der erhöhten Unsicherheit durch die ACS-Übernahme-/Fusionsgerüchte und der jüngsten Kursschwäche erscheint Halten mit punktueller Teilgewinnmitnahme weiterhin sinnvoll; ein Aufstocken ist auf diesem Bewertungsniveau nicht attraktiv.
+- **Bewertung:** Der Kurs hat sich im Berichtszeitraum auf niedrigerem Niveau stabilisiert bzw. ist leicht weiter gefallen (von ca. 339,40 EUR auf 335,20 EUR, -1,2%) und liegt damit rund 40% unter dem Rekordhoch von 554 EUR aus dem Mai 2026. Konkrete neue Nachrichten im engeren Berichtszeitraum sind rar; die prägenden Themen bleiben die ungeklärte ACS-Übernahme-/Fusionsspekulation um die Mutter ACS sowie die zuletzt gesenkten Kursziele (Deutsche Bank: 403 EUR, "Hold"). Operativ bleibt das Bild mit Rekord-Auftragsbestand (~90 Mrd. EUR) und bestätigter Gewinnprognose für 2026 (1.025–1.100 Mio. EUR) weiterhin solide, die Bewertung bleibt mit einem KGV im Bereich von ca. 25–30 und einer niedrigen Dividendenrendite von ca. 1,2–1,5% aber ambitioniert. Bei einem unrealisierten Kursgewinn von über +431% sowie 719 EUR erhaltenen Dividenden seit Erstkauf 2020 bleibt dies die mit Abstand profitabelste Position im Portfolio. Angesichts der weiterhin ungeklärten ACS-Spekulation und der seitwärts bis leicht schwächeren Kursentwicklung erscheint Halten mit punktueller Teilgewinnmitnahme weiterhin sinnvoll; ein Aufstocken ist auf diesem Bewertungsniveau nicht attraktiv.
 
 ## Aktuelle Meldungen
-- Die Aktie setzte im Berichtszeitraum ihren Rückgang fort und fiel von ca. 367,60 EUR auf 339,40 EUR; der Kurs bleibt damit deutlich unter dem Rekordhoch von 554 EUR vom Mai 2026.
-- Die Übernahme- bzw. Fusionsspekulation um Mutterkonzern ACS bleibt ungeklärt: Laut Bloomberg/dpa-AFX prüft ACS offenbar eine Komplettübernahme oder Fusion mit Hochtief, Vertreter beider Unternehmen lehnten zunächst eine Stellungnahme ab; andere Berichte (u.a. cash.ch) melden hingegen, ACS habe einem solchen Interesse gegenüber der spanischen Börsenaufsicht CNMV widersprochen. Die Quellenlage bleibt widersprüchlich.
-- Bloomberg berichtete zudem, dass ein möglicher Börsengang der US-Tochter Turner in New York als Option diskutiert werde; ACS habe laut eigener Aussage keinen Verkauf von Turner-Anteilen erwogen.
-- Deutsche Bank senkte ihr Kursziel für Hochtief von 411 auf 403 EUR und bestätigte das "Hold"-Rating.
-- Die kartellrechtliche Prüfung der 2026 vereinbarten Übernahme des Stromnetzspezialisten Autmatec läuft weiter.
+- Der Kurs bewegte sich im Berichtszeitraum (19.–26.11.2026) seitwärts bis leicht schwächer von ca. 339,40 EUR auf 335,20 EUR (-1,2%) und bleibt damit rund 40% unter dem Rekordhoch von 554 EUR vom Mai 2026.
+- Die Übernahme-/Fusionsspekulation um Mutterkonzern ACS ist weiterhin nicht abschließend geklärt: Mehrere Quellen (u.a. cash.ch) berichten von einem Dementi seitens ACS gegenüber der spanischen Börsenaufsicht CNMV, während frühere Bloomberg-Berichte eine Prüfung einer Komplettübernahme oder Fusion nahelegten. Ein Branchenkommentar (stock3.com, Titel "Hochtief: Akute Fantasie erstmal entwichen") deutet darauf hin, dass die kurzfristige spekulative Dynamik rund um das Thema zuletzt nachgelassen hat; Details konnten nicht verifiziert werden.
+- Ein weiterer Artikel (boerse-global.de, Titel "Hochtief Aktie: Cairns-Klinik als Hebel?") verweist auf ein mögliches Klinik-/Krankenhausprojekt in Cairns, Australien, als potenziellen Kurstreiber; der Inhalt im Detail konnte nicht abschließend verifiziert werden, da die Quelle nicht abrufbar war.
+- Die kartellrechtliche Prüfung der 2026 vereinbarten Übernahme des Stromnetzspezialisten Autmatec läuft weiter, ohne dass im Berichtszeitraum neue Informationen dazu vorliegen.
+- Keine neue offizielle Pressemitteilung von Hochtief im engeren Berichtszeitraum identifiziert; der nächste reguläre Termin ist die Jahresbilanz 2026 (voraussichtlich im Februar/März 2027).
 
 ## Management
-- Konzern-CEO ist weiterhin Juan Santamaría; ein aktuelles Interview aus dem Berichtszeitraum wurde nicht gefunden, zuletzt äußerte er sich im Zusammenhang mit den H1-2026-Zahlen (Juli) zum starken Momentum im zweiten Halbjahr.
+- Konzern-CEO ist weiterhin Juan Santamaría; ein aktuelles Interview aus dem Berichtszeitraum wurde nicht gefunden. Ein McKinsey-Artikel ("Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI") beschreibt grundsätzlich die KI-getriebene Wachstumsstrategie des Konzerns, ein genaues Veröffentlichungsdatum ließ sich nicht verifizieren.
 - Peter Hingott ist seit Juni 2026 CEO von HOCHTIEF Infrastructure (Nachfolger von José Ignacio Legorburo, der als EVP Operations Europe weiterarbeitet); keine neuen Meldungen im Berichtszeitraum.
 - Keine weiteren neuen Personalentscheidungen im Berichtszeitraum identifiziert.
 
 ## Finanzielles
-- Q3 2026 (veröffentlicht am 5. November): Umsatz +22,3% auf 11,9 Mrd. EUR, operativer Konzerngewinn +48,8% auf 271,9 Mio. EUR, Auftragsbestand Rekordwert von ca. 90 Mrd. EUR (Stand Ende September). Diese Zahlen stammen aus einer einzelnen Quelle und konnten nicht vollständig mit einer offiziellen Hochtief-Mitteilung abgeglichen werden.
-- 9-Monats-Zahlen 2026: operativer Gewinn 752 Mio. EUR (+40% ggü. Vorjahr), Auftragseingang +62,6% auf 17,1 Mrd. EUR.
-- Konzernprognose für das Gesamtjahr 2026 unverändert bei 1.025–1.100 Mio. EUR operativem Nettoergebnis (zur Jahresmitte von 950-1.025 Mio. EUR angehoben).
+- Letzte veröffentlichte Zahlen bleiben die Q3-2026-/9-Monats-Zahlen vom 5. November: Umsatz der ersten neun Monate +22,3% auf 11,9 Mrd. EUR (Q3 laut Sekundärquelle), operativer Konzerngewinn der ersten neun Monate 752 Mio. EUR (+40% ggü. Vorjahr), Auftragsbestand Rekordwert von ca. 90 Mrd. EUR (Stand Ende September), Auftragseingang 9M +62,6% auf 17,1 Mrd. EUR.
+- Konzernprognose für das Gesamtjahr 2026 unverändert bei 1.025–1.100 Mio. EUR operativem Nettoergebnis.
 - Bewertungskennzahlen laut Marktquellen: KGV weiterhin erhöht (Schätzungen reichen je nach Quelle von ca. 25 bis über 30), Dividendenrendite ca. 1,2–1,5%.
-- Deutsche Bank senkte das Kursziel im Berichtszeitraum weiter von 411 auf 403 EUR ("Hold"); Barclays hatte zuvor bereits auf 487 EUR gesenkt.
+- Keine neuen Analysten-Kursziel-Anpassungen im engeren Berichtszeitraum gefunden; zuletzt hatte Deutsche Bank am 6. November auf 403 EUR gesenkt ("Hold"), Barclays zuvor bereits auf 487 EUR.
 
 ## Strategie & Ausblick
-- Haupttreiber des Wachstums bleibt die US-Tochter Turner mit anhaltend hoher Nachfrage im Rechenzentrums- und KI-Infrastrukturmarkt; ein möglicher NY-Listing von Turner wird laut Bloomberg als strategische Option diskutiert.
-- Die australische Tochter CIMIC/Thiess (seit Juli 2026 zu 100% übernommen) gewinnt weiterhin neue Energieinfrastruktur- und Bergbauaufträge.
-- Die ungeklärte ACS-Übernahme-/Fusionsspekulation dürfte kurzfristig für erhöhte Kursvolatilität sorgen; ein konkreter Zeitplan oder Angebotspreis liegt weiterhin nicht vor, die Quellenlage zu einem Dementi ist widersprüchlich.
+- Haupttreiber des Wachstums bleibt die US-Tochter Turner mit anhaltend hoher Nachfrage im Rechenzentrums- und KI-Infrastrukturmarkt; ein möglicher NY-Listing von Turner wurde laut Bloomberg zuletzt als strategische Option diskutiert, ACS hat laut eigener Aussage aber keinen Verkauf von Turner-Anteilen erwogen.
+- Die australische Tochter CIMIC/Thiess (seit Juli 2026 zu 100% übernommen) gewinnt weiterhin neue Infrastruktur- und Bergbauaufträge; ein möglicher Klinik-Auftrag in Cairns wurde in der Presse als weiterer Werttreiber genannt, aber nicht im Detail verifiziert.
+- Die ungeklärte ACS-Übernahme-/Fusionsspekulation bleibt ein latenter Unsicherheitsfaktor, wobei die kurzfristige spekulative Dynamik laut Marktkommentaren zuletzt etwas nachgelassen hat; ein konkreter Zeitplan oder Angebotspreis liegt weiterhin nicht vor.
 - Die Autmatec-Übernahme zur Stärkung des Energieinfrastruktur-/Netzgeschäfts bleibt in kartellrechtlicher Prüfung.
 - Management sieht den Konzern strategisch gut positioniert in strukturellen Wachstumsfeldern wie KI-Infrastruktur, Energiewende/Rohstoffe, Digitalisierung, Verteidigung und Technologie; der Rekord-Auftragsbestand stützt diese Einschätzung.
 
@@ -43,10 +41,10 @@ _Aktualisiert: 21.11.2026 | Zeitraum: 14.11.2026 – 21.11.2026_
 - [HOCHTIEF (HOT) Q3 2026 earnings summary – Quartr](https://quartr.com/events/hochtief-aktiengesellschaft-hot-q3-2026_3sdub95D)
 - [Hochtief Aktie: Zwischenbericht am 5. November – Börse Express](https://www.boerse-express.com/news/articles/hochtief-aktie-zwischenbericht-am-5-november-957988)
 - [ROUNDUP: Hochtief verdient dank KI-Boom kräftig, Auftragsbestand auf Rekordhöhe – Deutsche Börse](https://live.deutsche-boerse.com/nachrichten/ROUNDUP-Hochtief-verdient-dank-KI-Boom-kraeftig---Auftragsbestand-auf-Rekordhoehe-f757d40e-80da-408d-97ee-c71acd8f2fec)
-- [Hochtief Aktie: ACS winkt bei Übernahme ab – boerse-global.de](https://www.boerse-global.de/hochtief-aktie-acs-winkt-bei-uebernahme-ab/842232)
+- [Hochtief Aktie: Cairns-Klinik als Hebel? – boerse-global.de](https://www.boerse-global.de/hochtief-aktie-cairns-klinik-als-hebel/844054)
+- [Hochtief: Akute Fantasie erstmal entwichen – stock3.com](https://stock3.com/news/hochtief-akute-fantasie-erstmal-entwichen-17382976)
 - [ACS dementiert Bericht über Komplettübernahme von Hochtief – cash.ch](https://www.cash.ch/news/acs-dementiert-bericht-uber-interesse-an-komplettubernahme-von-hochtief-983580)
 - [Insider: Spanische Mutter erwägt Komplettübernahme von Hochtief – Börsen-Zeitung](https://www.boersen-zeitung.de/unternehmen-branchen/insider-spanische-mutter-erwaegt-komplettuebernahme-von-hochtief)
-- [Artikel: ACS/Hochtief-Komplettübernahme (Bloomberg-Bericht) – drweb.de](https://www.drweb.de/acs-hochtief-komplettuebernahme-bloomberg/)
 - [Hochtief Aktie: Übernahme von Autmatec vereinbart – boerse-global.de](https://www.boerse-global.de/hochtief-aktie-uebernahme-von-autmatec-vereinbart/828143)
-- [Hochtief, DE0006070006 – Ad-hoc-News](https://www.ad-hoc-news.de/boerse/news/vorboerse/hochtief-stock-trades-at-eur-342-50-down-6-32/70479289)
+- [Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI – McKinsey](https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age)
 - [HOCHTIEF raises 2026 profit guidance (HY26) – hochtief.com](https://www.hochtief.com/news-media/press-releases/press-release/hochtief-raises-2026-profit-guidance-hy26-operational-net-profit-up-35-to-eur-480m-operating-cash-flow-eur-24bn-ltm-backlog-up-23-to-record-eur-848bn)
