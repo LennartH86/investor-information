@@ -1,48 +1,48 @@
-# Sto SE & Co. KGaA (STO3.DE)
-_Aktualisiert: 23.11.2026 | Zeitraum: 16.11.2026 – 23.11.2026_
+# Sto SE & Co. KGaA (Vz) (STO3.DE)
+_Aktualisiert: 27.11.2026 | Zeitraum: 20.11.2026 – 27.11.2026_
 
 ## Portfolio-Analyse
-- **Position:** 7 Vorzugsaktien
-- **Kaufkurs (Ø):** 174.40 EUR
-- **Aktueller Kurs:** 99.60 EUR
-- **Marktwert:** 697.20 EUR
-- **Unrealisierter G/V:** -531.55 EUR (-43.26%)
-- **Portfolioanteil:** 0.41%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs ist im Berichtszeitraum trotz solider Neunmonatszahlen (Umsatz +4,2% auf 1.269,1 Mio. EUR, leicht angehobene Umsatzprognose) weiter unter Druck geraten und liegt mit -43,26% deutlich unter dem Einstandskurs; die letzte gezahlte Dividende von 0,31 EUR je Vorzugsaktie entspricht beim aktuellen Kurs nur einer Rendite von rund 0,3% und kompensiert den Kursverlust kaum. Die EBIT-Prognose für 2026 (56-76 Mio. EUR) wurde trotz höherer Umsatzerwartung nicht angehoben, was auf anhaltenden Margendruck hindeutet, während Analysten (Montega, Kursziel 150 EUR, "Kaufen") weiterhin deutliches Erholungspotenzial sehen. Angesichts des sehr geringen Portfolioanteils (0,41%) und der operativ stabilen, aber noch nicht überzeugenden Erholung erscheint Halten weiterhin sinnvoller als ein Nachkauf oder ein Verkauf zum aktuell tiefen Kurs.
+- **Position:** 7 Aktien
+- **Kaufkurs (Ø):** 174,40 EUR
+- **Aktueller Kurs:** 95,00 EUR
+- **Marktwert:** 665,00 EUR
+- **Unrealisierter G/V:** -563,75 EUR (-45,88%)
+- **Portfolioanteil:** 0,37%
+- **Dividenden erhalten:** 59,91 EUR
+- **Bewertung:** Der Kurs ist seit dem Kaufzeitpunkt (Juni 2024) massiv eingebrochen und notierte am 19.11.2026 noch bei 102,80 EUR (-14,48% seit Jahresbeginn); seitdem ist er bis zum 27.11.2026 weiter auf 95,00 EUR gefallen. Operativ zeigt sich das Unternehmen dagegen stabil bis leicht verbessert: Der Neunmonatsumsatz 2026 stieg um 4,2% auf 1.269,1 Mio. EUR, die EBIT-Prognose für 2026 (56–76 Mio. EUR) wurde trotz leicht angehobener Umsatzprognose bestätigt, und die Dividende war zuletzt unverändert. Angesichts der großen Diskrepanz zwischen stabiler operativer Entwicklung und anhaltendem Kursverfall erscheint die Position fundamental eher unterbewertet; aufgrund der Größe im Portfolio (0,37%) und des bereits hohen Buchverlusts ist Halten naheliegender als ein Nachkauf oder Verkauf – eine Aufstockung wäre nur bei Risikobereitschaft und Vertrauen in eine Baukonjunktur-Erholung sinnvoll.
 
 ## Aktuelle Meldungen
-- Sto veröffentlichte am 19.11.2026 den Neunmonatsbericht 2026: Konzernumsatz stieg um 4,2% auf 1.269,1 Mio. EUR, getrieben von einer Umsatzerholung in Deutschland gegenüber einer schwachen Vorjahresbasis.
-- Die Jahresprognose für den Umsatz 2026 wurde leicht angehoben, die EBIT-Prognose (56-76 Mio. EUR) blieb jedoch unverändert, da die höhere Umsatzerwartung nicht zu einer Anhebung der Ergebnisprognose führt.
-- Das Geschäft blieb im dritten Quartal 2026 weiterhin durch eine schwache Baukonjunktur belastet.
-- Die Aktie notierte am 19.11.2026 bei rund 102,80 EUR (+2,19% auf Tagesbasis), liegt seit Jahresbeginn aber weiterhin rund 14,5% im Minus.
-- Zum 30.09.2026 beschäftigte der Sto-Konzern weltweit 5.539 Mitarbeitende.
+- Neunmonatsbericht veröffentlicht am 19.11.2026: Konzernumsatz stieg um 4,2% auf 1.269,1 Mio. EUR; das Unternehmen betont, dass die Rahmenbedingungen weiterhin schwierig bleiben.
+- In Deutschland zeigt sich eine Umsatzerholung, allerdings gegenüber einer schwachen Vorjahresbasis.
+- Der Konzern hat zum 30.09.2026 weltweit 5.539 Mitarbeitende beschäftigt.
+- Am Tag der Veröffentlichung (19.11.2026) lag der Kurs bei 102,80 EUR (+2,19% auf Tagesbasis, aber -14,48% seit Jahresbeginn).
+- Keine Meldungen zu einer Übernahme oder größeren Akquisition im Jahr 2026 gefunden.
 
 ## Management
-- Der Aufsichtsrat der persönlich haftenden Gesellschafterin (STO Management SE) hatte den Vertrag von CEO Rainer Hüttenberger bereits im April 2026 bis zum 30.06.2029 verlängert; im Berichtszeitraum gab es keine neuen Personalmeldungen.
-- Désirée Konrad ist seit 01.05.2026 nach Eltern-/Mutterschaftsurlaub wieder im Vorstand (Ressort Finanzen); laut Lobbyregister zählen zudem Michael Keller (Vertrieb) und Jost Joseph Bendel (Technik) zum Vorstand.
-- Kein neues Vorstands-Interview aus 2026 auffindbar; öffentliche Aussagen des Managements beschränken sich weiterhin auf die HV-Rede vom 18.06.2026 und die Quartals-/Neunmonatsmitteilungen.
+- Der Aufsichtsrat der STO Management SE (persönlich haftende Gesellschafterin) hat am 23.04.2026 den neuen Vorstandsvertrag von CEO Rainer Hüttenberger bis zum 30.06.2029 beschlossen.
+- Désirée Konrad (Finanzen) wurde mit Wirkung zum 01.05.2026 erneut zur Vorständin bestellt, nachdem sie vom 01.01. bis 30.04.2026 in Mutterschutz/Elternzeit war.
+- Weitere Vorstandsmitglieder laut aktuellem Lobbyregister-Eintrag: Michael Keller (Markenvertrieb) und Jost Joseph Bendel (Technik).
+- Die Hauptversammlung fand am 18.06.2026 in Donaueschingen statt; die Rede von CEO Hüttenberger ist auf der Investor-Relations-Seite von Sto verfügbar.
 
 ## Finanzielles
-- Neun-Monats-Umsatz 2026: 1.269,1 Mio. EUR (+4,2% ggü. Vorjahr).
-- Jahresprognose 2026: Umsatz leicht angehoben (zuvor ca. 1,62 Mrd. EUR), EBIT-Spanne unverändert bei 56-76 Mio. EUR.
-- H1 2026 (zur Erinnerung): Konzernumsatz 805,5 Mio. EUR (+3,7%), EBIT 30,5 Mio. EUR (+20,6%).
-- Zusätzlicher Preisdruck auf der Beschaffungsseite durch den Konflikt zwischen Iran, Israel und den USA wird erwartet, ist aber noch nicht vollständig in den Zahlen sichtbar.
-- Analystenbewertung unverändert: Montega AG mit "Kaufen"-Rating und Kursziel 150 EUR (Stand September 2026).
-- Keine neuen Dividendeninformationen im Berichtszeitraum; letzte Ausschüttung 0,31 EUR je Vorzugsaktie, ausgezahlt am 23.06.2026.
+- Q1 2026: Umsatzrückgang um 1,9%, bedingt durch ungünstige Witterung und ein schwaches Baugeschäft.
+- H1 2026 (Stand 31.08.2026): Halbjahresumsatz stieg um 3,7% auf 805,5 Mio. EUR; das operative Ergebnis (EBIT) im zweiten Quartal stieg um 20,6% auf 30,5 Mio. EUR.
+- 9M 2026 (Stand 19.11.2026): Konzernumsatz stieg um 4,2% auf 1.269,1 Mio. EUR.
+- Prognose für das Gesamtjahr 2026: leicht angehobene Umsatzerwartung auf 1,62 Mrd. EUR (2025: 1,59 Mrd. EUR); die EBIT-Prognose bleibt bei 56–76 Mio. EUR unverändert.
+- Für das Geschäftsjahr 2025 wurden trotz anhaltend schwieriger Rahmenbedingungen alle Prognosewerte erreicht (Umsatzrückgang, EBIT im Plus, unveränderte Dividende).
 
 ## Strategie & Ausblick
-- Sto hält trotz anhaltend schwieriger Rahmenbedingungen an der angehobenen Umsatzprognose für 2026 fest, sieht aber keinen Grund, die Ergebnisprognose zu erhöhen.
-- Der deutsche Bau- und Sanierungsmarkt bleibt laut Unternehmensangaben gedämpft; eine durchgreifende Erholung zeichnet sich weiterhin nicht ab.
-- Geopolitische Risiken (Nahost-Konflikt) könnten die Beschaffungskosten in den kommenden Quartalen zusätzlich belasten.
-- Keine Hinweise auf Übernahmen, Beteiligungen oder größere neue Investitionsvorhaben im Jahr 2026 gefunden; die zuletzt bekannten Zukäufe (Viacor Polymer, Sto Italia) liegen vor 2026.
+- Das Management hält trotz leicht verbesserter Umsatzprognose an der bisherigen EBIT-Prognose fest und verweist auf anhaltenden Kostendruck und eine unsichere Konjunktur.
+- Als zusätzliches Risiko wurde zusätzlicher Preisdruck bei der Beschaffung durch den Iran-Israel-US-Konflikt genannt, der sich laut Unternehmen bislang noch nicht vollständig in den Ergebnissen niedergeschlagen hat.
+- Keine aktuellen Informationen zu Übernahmen, größeren Investitionsprojekten oder strategischen Neuausrichtungen gefunden.
 
 ## Quellen
-- [Konzernumsatz der Sto SE & Co. KGaA steigt in den ersten neun Monaten 2026 um 4,2% auf 1.269,1 Mio. EUR (deraktionaer.de)](https://www.deraktionaer.de/nachricht/eqs-newskonzernumsatzderstosecokgaasteigtindenerstenneunmonaten2026um42auf12691mioeurschwierigerahmenbedingungenbestehenfortdeutsch-567173.html)
-- [Sto steigert Neunmonatsumsatz und hebt 2026-Umsatzprognose leicht an (goldesel.de)](https://goldesel.de/aktien/news/sto-se-co-vz-aktie-sto-steigert-neunmonatsumsatz-und-hebt-2026-umsatzprognose-leicht-an)
-- [Sto SE & Co. KGaA's consolidated turnover increases by 4.2% to EUR 1,269.1 million (webdisclosure.com)](https://www.webdisclosure.com/press-release/sto-se-co-kgaas-consolidated-turnover-increases-by-42-to-eur-12691-million-in-the-first-nine-months-of-2026-difficult-general-conditions-persist-Y8R1OsYcEJ2)
-- [Sto SE & Co (STO3) Q3 2026 earnings summary (quartr.com)](https://quartr.com/events/sto-se-co-kgaa-sto3-q2-2026_Fec1U9ae)
-- [Lobbyregister-Eintrag Sto SE & Co. KGaA (bundestag.de, PDF)](https://www.lobbyregister.bundestag.de/media/1d/49/755373/Lobbyregister-Registereintraege-Detailansicht-R001945-2026-06-11_09-08-06.pdf)
-- [Sto HV-Rede 2026 (sto.de, PDF)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Hauptversammlung-2026/Sto-HV-Rede-2026_de.pdf)
-- [Sto acquires remaining shares in Viacor Polymer (european-coatings.com)](https://european-coatings.com/news/markets-companies/sto-acquires-remaining-shares-in-viacor-polymer)
-- [MarketScreener: News & Key Events STO SE & CO KGAA](https://uk.marketscreener.com/quote/stock/STO-SE-CO-KGAA-436634/news-key-events/)
+- [EQS-News: Konzernumsatz der Sto SE & Co. KGaA steigt in den ersten neun Monaten 2026 um 4,2% auf 1.269,1 Mio. EUR](https://www.deraktionaer.de/nachricht/eqs-newskonzernumsatzderstosecokgaasteigtindenerstenneunmonaten2026um42auf12691mioeurschwierigerahmenbedingungenbestehenfortdeutsch-567173.html)
+- [Sto steigert Neunmonatsumsatz und hebt 2026-Umsatzprognose leicht an](https://goldesel.de/aktien/news/sto-se-co-vz-aktie-sto-steigert-neunmonatsumsatz-und-hebt-2026-umsatzprognose-leicht-an)
+- [webdisclosure: Sto SE & Co. KGaA's consolidated turnover increases by 4.2% to EUR 1,269.1 million](https://www.webdisclosure.com/press-release/sto-se-co-kgaas-consolidated-turnover-increases-by-42-to-eur-12691-million-in-the-first-nine-months-of-2026-difficult-general-conditions-persist-Y8R1OsYcEJ2)
+- [EQS-News: Sto SE & Co. KGaA erhöht Konzernumsatz bis Ende Juni 2026 um 3,7% auf 805,5 Mio. EUR](https://live.deutsche-boerse.com/nachrichten/EQS-News-Sto-SE---Co-KGaA-erhoeht-Konzernumsatz-bis-Ende-Juni-2026-um-37--auf-8055-Mio-EUR-be282126-1bc2-4bb3-b2f4-220c498ffe09)
+- [Sto steigert Halbjahres-EBIT um 20,6 Prozent und bestätigt 2026-Prognose](https://goldesel.de/aktien/news/sto-steigert-halbjahres-ebit-um-206-prozent-und-bestatigt-2026-prognose)
+- [EQS-News: Sto-Konzern erreicht im Geschäftsjahr 2025 trotz anhaltend schwieriger Rahmenbedingungen alle Prognosewerte](https://live.deutsche-boerse.com/nachrichten/EQS-News-Sto-Group-achieves-all-forecast-figures-in-the-2025-financial-year-despite-persistently-difficult-general-conditions-551c225f-dd8f-45bb-ac34-2354ad9a1afe)
+- [Sto SE & Co. KGaA Vz erreicht Prognosen 2025: Umsatzrückgang, EBIT plus und unveränderte Dividende](https://goldesel.de/aktien/news/sto-se-co-kgaa-vz-erreicht-prognosen-2025-umsatzruckgang-ebitplus-und-unveranderte-dividende)
+- [Sto HV-Rede 2026 (CEO Rainer Hüttenberger)](https://www.sto.de/cepcom/de/Dokumente/Investor-Relations/Hauptversammlung-2026/Sto-HV-Rede-2026_de.pdf)
+- [Lobbyregister-Eintrag Sto SE & Co. KGaA (Vorstandsübersicht)](https://www.lobbyregister.bundestag.de/media/1d/49/755373/Lobbyregister-Registereintraege-Detailansicht-R001945-2026-06-11_09-08-06.pdf)
