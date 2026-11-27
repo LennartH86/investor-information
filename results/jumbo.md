@@ -1,46 +1,48 @@
 # Jumbo S.A. (BELA.AT)
-_Updated: 23.11.2026 | Period: 16.11.2026 – 23.11.2026_
+_Updated: 27.11.2026 | Period: 20.11.2026 – 27.11.2026_
 
 ## Portfolio Analysis
 - **Position:** 50 shares
 - **Average purchase price:** 23.74 EUR
-- **Current price:** 27.22 EUR
-- **Market value:** 1361.00 EUR
-- **Unrealized gain/loss:** +166.13 EUR (+13.90%)
-- **Portfolio weight:** 0.79%
-- **Dividends received:** 0 EUR
-- **Assessment:** Using FY2026 guidance (net profit of EUR 310–320m) and an estimated market cap in the EUR 3.5–3.7bn range at the current 27.22 EUR price, Jumbo continues to trade around an estimated P/E of ~11x, which still looks reasonable given ongoing double-digit sales momentum (October sales +13% YoY) and a net-cash balance sheet. The share price edged up slightly from 27.00 to 27.22 EUR this week with no negative news, so the position (now +13.90%) continues to support a Hold, with selective Add on weakness remaining a reasonable option rather than reducing.
+- **Current price:** 26.78 EUR
+- **Market value:** 1339.00 EUR
+- **Unrealized gain/loss:** +144.13 EUR (+12.06%)
+- **Portfolio weight:** 0.75%
+- **Dividends received:** 25.87 EUR
+- **Assessment:** No reliable, current P/E or P/B figure surfaced in research, but H1 2026 net profit grew ~3% on ~4–5% sales growth and the company kept FY2026 guidance of roughly 5% sales growth and €310–320 million net profit, suggesting steady (if unspectacular) earnings momentum behind the +12.06% price gain. With an extraordinary €1/share cash distribution paid from 20 November 2026 (total 2026 distributions ~€2.20/share) on top of continued expansion (Romania, Moldova, Canada), the combination of growth and shareholder returns supports a Hold/Add stance rather than Reduce.
 
 ## Recent News
-- No new company-specific press releases or news items dated strictly within 16.11.2026–23.11.2026 were found this week; the research mainly reconfirmed items already reported in the prior update.
-- The extraordinary gross cash distribution of EUR 1.00 per share (ex-dividend from 16.11.2026) began being paid out to shareholders from 20.11.2026, as previously announced; combined with earlier 2026 payments, total distributions for the year reach EUR 2.20 per share (approx. EUR 295.6m in total). Jumbo's own 2025 earnings release separately cited total shareholder distributions of EUR 157.56m for 2026, subject to General Meeting approval — the two figures were not reconciled from public sources this week.
-- No formal Q3/nine-month 2026 income-statement release was located; October sales were last reported up approximately 13% YoY, the strongest single month of the year, continuing the trend noted in the prior update.
-- Caution: several search results returned for "Jumbo" this week actually concern unrelated companies — the Dutch supermarket chain Jumbo (van Eerd family, CEO Jesper Højer, recent HEMA full-ownership acquisition), Jumbo Interactive (Australia, lottery/UK prize-draw acquisition), and Jumbo Group (Singapore, property SPV investment). None of these relate to Jumbo S.A. (ATH:BELA).
+- Extraordinary gross cash distribution of €1.00 per share, with payment starting 20 November 2026 (ex-dividend date 16 November, record date 17 November 2026); combined with earlier payouts, total 2026 cash distributions reach about €2.20 per share (~€295.6 million in aggregate), per Cyprus Mail.
+- Cyprus subsidiary sales rose about 8% over the first ten months of 2026 (Cyprus Mail, 5 Nov 2026).
+- Company reiterated plans to open its first stores in Moldova and Canada (Toronto) before the end of 2026, alongside a newly extended e-commerce presence in Hungary.
+- One source (Stockopedia headline) references a share sale and purchase agreement with Eurobank involving a subsidiary named "Herald 2" and a planned merger absorbing "Herald Greece 2"; deal terms and dates could not be confirmed in this research and should be treated as unverified.
 
 ## Management
-- No new CEO interviews, appointments, or governance announcements specific to Jumbo S.A. (ATH:BELA) were found for 16.11.2026–23.11.2026.
-- As noted previously, some third-party data sites (e.g. Simply Wall St) list Konstantina Demiri as CEO, but this was not independently confirmed again this week.
-- Note: unrelated companies also named "Jumbo" have their own, separate management news this period (e.g. the Dutch supermarket chain's CEO Jesper Højer discussing a H1 2026 recovery) — these do not apply to the Greek company held in this portfolio.
+- Research returned conflicting/ambiguous CEO information: a Simply Wall St profile lists Konstantina Demiri as CEO of Jumbo S.A., but no 2026 interview or management commentary specific to this company could be confirmed in the search results.
+- Note: several search results for "Jumbo CEO" actually referred to the unrelated Dutch supermarket chain Jumbo (CEO Jesper Højer, appointed 1 January 2026) — these were excluded from this report as they concern a different company.
+- No current information found on Jumbo S.A. board or senior management changes in the review period.
 
 ## Financials
-- H1 2026 (last reported half-year, released 21.09.2026): group sales of approximately EUR 519.3m (+4.42% YoY), net profit of approximately EUR 120.65m (+2.96% YoY). One secondary source cited a conflicting H1 sales figure (~EUR 590m); the EUR 519.3m figure is corroborated by more sources and is treated as more reliable.
-- FY2026 guidance (reiterated, unchanged this period): sales growth of approximately 5%, net profit of EUR 310–320m, capital expenditure of approximately EUR 60m.
-- For context, FY2025: revenue of approximately EUR 1.23bn (+7.0% YoY), net profit of approximately EUR 320m, net cash position of approximately EUR 473m.
-- No Q3/nine-month 2026 financial report was found as a formal release this week; one earnings calendar listed a next report date of 20.11.2026 (already passed as of this update) without confirmation that it was published, while another calendar lists the next (Q4/FY) report for April 2027.
+- H1 2026 results (published ~21–26 September 2026): sources vary on exact revenue — one puts group sales at €519.26 million (+4.42% YoY), another cites ~€590 million (+4%); net profit was reported at approximately €120.6–121 million, up roughly 3% YoY.
+- Gross margin reportedly declined ~33 basis points to 53.5%, attributed to cost/margin pressure in the Romanian market.
+- FY2026 guidance maintained at approximately 5% sales growth and €310–320 million net profit.
+- A separate figure cites projected 2026 shareholder payouts of about €157.56 million, up ~20% from 2025 (subject to AGM approval); this appears inconsistent with the ~€295.6 million total distribution figure reported elsewhere, and the discrepancy could not be resolved from available sources.
+- Next scheduled report date is unclear: one source lists 20 November 2026, another lists April 2027 for full-year results; it could not be confirmed whether a November 2026 release has already occurred.
 
 ## Strategy & Outlook
-- Continued international expansion: the first Jumbo-branded stores in Moldova and Canada (Toronto) are still expected to open before the end of 2026, provided there are no delays; the group's online retail presence was also extended to Hungary in early November 2026 via its Romanian e-commerce operation.
-- Eight Jumbo stores are now reported as operating in Israel.
-- The pre-agreed acquisition of a 60,000 sqm "Giga" distribution center in Romania remains in progress ("progressing in parallel" per the FY2025 release); no update on completion was found this week.
-- The group continues to describe its liquidity position as supportive of its ongoing investment and growth programme; no new acquisitions by Jumbo S.A. itself were announced this period.
+- Continued international expansion: first stores planned in Moldova and Canada before end of 2026, plus new online presence in Hungary.
+- Pre-agreed acquisition of a large (60,000 sqm) "Giga" distribution center in Romania, described as part of a strategic priority to strengthen regional supply-chain infrastructure.
+- Management continues to frame 2026 as an "investment and growth programme" year, balancing capital expenditure with sizeable shareholder distributions (ordinary + extraordinary dividends).
 
 ## Sources
-- [Jumbo's Cyprus sales grow 8 per cent in first ten months — Cyprus Mail](https://cyprus-mail.com/2026/11/05/jumbo-absorbs-higher-costs-as-cyprus-sales-rise-15-per-cent)
-- [Jumbo lines up new Cyprus store as profit reaches €120.6m — Cyprus Mail](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
-- [Jumbo S.A. earnings release filing (FY2025/2026) — financialreports.eu](https://financialreports.eu/filings/jumbo-sa/earnings-release/2026/37899261/)
-- [Jumbo S.A. (ATH:BELA) earnings transcripts and calendar — Stockanalysis.com](https://stockanalysis.com/quote/ath/BELA/transcripts/)
-- [Jumbo (BELA) H1 2026 earnings summary — Quartr](https://quartr.com/events/jumbo-s-a-bela-h1-2026_F90ztWqk)
-- [Jumbo outlines 2026 outlook ahead of shareholder meeting — Cyprus Mail](https://cyprus-mail.com/2026/02/04/jumbo-outlines-2026-outlook-ahead-of-shareholder-meeting)
-- [Jumbo S.A. company news listing — Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/news/)
-- [Jumbo S.A. earnings calendar — marketscreener.com](https://de.marketscreener.com/kurs/aktie/JUMBO-S-A-6259019/termine/)
-- Note: searches this week also surfaced unrelated companies sharing the "Jumbo" name (Dutch supermarket chain Jumbo/HEMA, Jumbo Interactive Australia, Jumbo Group Singapore); these were excluded from the sections above as they do not concern Jumbo S.A. (ATH:BELA).
+- [Brief: Jumbo Says November Sales Up Aprox. 7.0% YoY – Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/news/brief-jumbo-says-november-sales-up-aprox-7-0-yo-y-019e6dc0-3b4d-72ee-b635-014f209ef762/)
+- [Jumbo absorbs higher costs as Cyprus sales rise 15 per cent – Cyprus Mail](https://cyprus-mail.com/2026/11/05/jumbo-absorbs-higher-costs-as-cyprus-sales-rise-15-per-cent)
+- [Jumbo lines up new Cyprus store as profit reaches €120.6m – Cyprus Mail](https://cyprus-mail.com/2026/09/25/jumbo-lines-up-new-cyprus-store-as-profit-reaches-e120-6m)
+- [Cyprus shoppers keep Jumbo sales growing in August – Cyprus Mail](https://cyprus-mail.com/2026/09/03/cyprus-shoppers-keep-jumbo-sales-growing-in-august)
+- [Jumbo S.A. earnings release filing – financialreports.eu](https://financialreports.eu/filings/jumbo-sa/earnings-release/2026/37899261/)
+- [Jumbo S.A. (ATH:BELA) Q2 2026 earnings summary – allinvestview.com](https://www.allinvestview.com/earnings/BELA.AT/q2-2026/)
+- [Jumbo S.A. H1 2026 earnings summary – Quartr](https://quartr.com/companies/jumbo-s-a_15933)
+- [Jumbo S.A. earnings call summary – Investing.com](https://ng.investing.com/equities/jumbo-earnings)
+- [Jumbo outlines 2026 outlook ahead of shareholder meeting – Cyprus Mail](https://cyprus-mail.com/2026/02/04/jumbo-outlines-2026-outlook-ahead-of-shareholder-meeting)
+- [Jumbo S.A. management profile – Simply Wall St](https://simplywall.st/stocks/us/retail/otc-jums.y/jumbo/management)
+- [Jumbo S.A. news listing – Stockopedia](https://www.stockopedia.com/share-prices/jumbo-sa-ATH:BELA/news/)
