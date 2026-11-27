@@ -1,50 +1,48 @@
 # SpaceX
-_Aktualisiert: 22.11.2026 | Zeitraum: 15.11.2026 – 22.11.2026_
+_Updated: 27.11.2026 | Period: 20.11.2026 – 27.11.2026_
 
-## Portfolio-Analyse
-- **Position:** 8 Aktien (Sekundärmarkt-Anteile, kein öffentlicher Börsenhandel)
-- **Kaufkurs (Ø):** 126,17 EUR
-- **Aktueller Kurs:** 118,13 EUR
-- **Marktwert:** 945,04 EUR
-- **Unrealisierter G/V:** -64,30 EUR (-6,37%)
-- **Portfolioanteil:** 0,55%
-- **Dividenden erhalten:** 0 EUR
-- **Bewertung:** Der Kurs ist gegenüber der Vorwoche (125,56 EUR) weiter auf 118,13 EUR gefallen, der Verlust zum Einstand hat sich damit auf -6,37% ausgeweitet. Fundamental überwiegen in der laufenden Berichtsperiode operative Erfolgsmeldungen (erstmaliges Einfangen der Starship-Oberstufe), denen allerdings der Verlust des Boosters bei demselben Flug gegenübersteht – ein gemischtes, aber insgesamt eher konstruktives Signal für das Raumfahrtprogramm. Belastbare, tagesaktuelle Kursreferenzen für dieses Sekundärmarkt-Vehikel ließen sich recherchemäßig nicht verifizieren (öffentliche SPCX-Notierungen beziehen sich auf den Nasdaq-Handel seit dem IPO im Juni 2026, nicht zwingend auf dieses Sekundärmarkt-Produkt). Angesichts des sehr geringen Portfolioanteils (0,55%), fehlender Dividenden und anhaltender Bewertungsunsicherheit erscheint Halten weiterhin die naheliegende Einschätzung; weder für ein Aufstocken noch für eine Reduzierung gibt es einen klaren, primärquellig belegten Auslöser.
+## Portfolio Analysis
+- **Position:** 8 shares
+- **Average purchase price:** 126.17 EUR
+- **Current price:** 119.44 EUR
+- **Market value:** 955.52 EUR
+- **Unrealized gain/loss:** -53.82 EUR (-5.33%)
+- **Portfolio weight:** 0.54%
+- **Dividends received:** 0 EUR
+- **Assessment:** SpaceX completed its IPO on Nasdaq (ticker SPCX) in June 2026, so pricing has shifted from pure secondary-market/tender marks toward public market quotes, though the stock still has a very short trading history and highly volatile valuation swings (reports range from roughly $1.6T to $2.7T within 2026). Standard P/E and P/B ratios are not available/meaningful here given the limited reporting history and the ongoing integration of large all-stock acquisitions (xAI, Cursor); any multiple would not yet be comparable. The position is down 5.33% from the average purchase price, broadly in line with reports of the stock trading well below its post-IPO highs. Given the small 0.54% portfolio weight, continued heavy AI-related capital commitments, and still-unsettled post-merger financials, a Hold stance looks more appropriate than Add or Reduce at this time.
 
-## Aktuelle Meldungen
-- Starship-Testflug am 14.11.2026: Erstmals wurde die Oberstufe („Ship“) nach einem Orbitalflug von den Fangarmen des Startturms in Starbase, Texas, eingefangen – rund 22 Stunden nach dem Start. Das Schiff absolvierte 14 Erdumläufe und setzte 26 Starlink-Satelliten aus; laut SpaceX funktionierten alle Systeme einschließlich Hitzeschild einwandfrei.
-- Der zugehörige Super-Heavy-Booster ging hingegen verloren: Nach einem vorzeitigen Brennschluss während des Boostback-Manövers (vermutlich Treibstoffmangel-Alarm) verfehlte er die Turmposition, steuerte stattdessen Richtung Golf von Mexiko und wurde nach der Landebrenn-Phase durch das Selbstzerstörungssystem gesprengt. Die Ursache des vorzeitigen Triebwerksabschaltens wird laut Berichten noch untersucht.
-- Mehrere im November-Manifest gelistete Falcon-9-Missionen für das Militär (u.a. USSF-432, USSF-627, USSF-317) dürften laut vorherigen Planungen im Berichtszeitraum bzw. kurz davor stattgefunden haben; eine primärquellige Bestätigung aller Starttermine lag nicht vor.
-- Analysten-Spekulationen (unbestätigt) nennen Intel, Tesla, CoreWeave und GlobalFoundries als mögliche weitere Übernahmeziele im Zuge der von SpaceX verfolgten KI-/Compute-Expansionsstrategie – hierbei handelt es sich um Einschätzungen Dritter, nicht um bestätigte Transaktionen.
+## Recent News
+- SpaceX targeted November 13, 2026 for Starship Flight 15, its first attempt to catch the ship with the launch tower (date given by VP of Launch Kiko Dontchev at the UP.Summit); subsequent coverage indicates the flight launched but the booster/ship catch attempt was not completed as planned.
+- SpaceX's investor relations site confirmed that board member Don Harrison stepped down from the Board of Directors effective November 4, 2026, after more than a decade of service.
+- Falcon 9/Starlink launch cadence continued through November, including California-based missions reported around November 7, 10 and 13; by early November SpaceX had launched over 13,000 Starlink satellites in total, with roughly 11,200 operational.
+- Reporting on the stock notes significant valuation swings since the June 2026 IPO, with some coverage describing a pullback to around $1.6T from post-listing highs, underscoring continued volatility in the newly public shares.
 
 ## Management
-- Elon Musk blieb im Berichtszeitraum medial präsent; laut mehreren Sekundärquellen äußerte er sich in weiteren Gesprächen (u.a. im Umfeld des „DealBook“-Formats) zu Themen wie einer möglichen Zusammenlegung von SpaceX und Tesla, dem Ausbau terrestrischer Mobilfunk-/Satellitenanbindung sowie der Vermietung von Rechenkapazität an Dritte (u.a. Anthropic). Ein genaues, primärquellig verifiziertes Datum innerhalb des Berichtszeitraums ließ sich nicht zweifelsfrei bestimmen; die Angaben sind daher mit Vorsicht zu behandeln.
-- Der zum 4.11.2026 wirksame Rückzug von Board-Mitglied Don Harrison (nach über zehn Jahren im Amt) bleibt der jüngste bestätigte Management-Wechsel; ein Nachfolger wurde weiterhin nicht benannt.
-- CFO Bret Johnsen und CEO/CTO Elon Musk bleiben unverändert in ihren Funktionen; keine weiteren personellen Veränderungen im Spitzenmanagement identifiziert.
+- Elon Musk gave an extended interview to investor Ron Baron on November 6, 2026, covering Tesla, SpaceX, Starship, and AI, including SpaceX's growing AI/compute ambitions.
+- Musk has publicly framed SpaceX's future growth increasingly around AI (e.g., telling staff that AI would eventually carry more of the company's revenue than rockets), consistent with the xAI and Cursor acquisitions.
+- The departure of long-serving board member Don Harrison (effective November 4, 2026) marks a board-level change shortly after the company's transition to public markets.
 
-## Finanzielles
-- Keine neuen Quartalszahlen im Berichtszeitraum. Der zuletzt veröffentlichte Bericht bleibt Q3 2026 (Umsatz 14,6 Mrd. USD, +161% YoY; keine konkrete Nettogewinn-/Verlustangabe verfügbar).
-- Zur Einordnung: Q2 2026 (erster Quartalsbericht als börsennotiertes Unternehmen) wies einen Umsatz von ca. 7,8 Mrd. USD (+92% YoY) aus, davon ca. 4,3 Mrd. USD Starlink-Umsatz, einen Nettoverlust von 541 Mio. USD sowie Capex von ca. 18,4 Mrd. USD, überwiegend für KI-Infrastruktur.
-- Die zuletzt berichtete Cash-Position von ca. 100 Mrd. USD sowie ein Auftragsbestand von ca. 47,5 Mrd. USD (Stand Q2 2026) ließen sich nicht gegen neuere, primärquellige Angaben aktualisieren.
-- Hohe, stark auf KI-Infrastruktur konzentrierte Investitionsausgaben bleiben ein wiederkehrendes Thema.
+## Financials
+- SpaceX released Q3 2026 results via an official investor-relations press release (SpaceX Reports Third Quarter 2026 Results), its first such report as a newly public company.
+- SpaceX completed its IPO in June 2026, reported as the largest IPO on record; figures vary by source (around $75–86 billion raised), with an initial valuation near $1.78 trillion.
+- Subsequent secondary pricing has been reported anywhere from roughly $1.6 trillion to $1.9–2.7 trillion depending on the date and source, reflecting unusually high volatility for a newly listed, large-cap name.
+- P/E and P/B ratios are not available/meaningful: SpaceX has only a few months of public trading history, and standardized earnings/book-value figures comparable across sources were not found in this research.
 
-## Strategie & Ausblick
-- Das erfolgreiche erstmalige Einfangen der Starship-Oberstufe am 14.11.2026 gilt als wichtiger technischer Meilenstein für das Wiederverwendbarkeits-Programm, auch wenn der parallele Verlust des Boosters zeigt, dass die vollständige Zweifach-Rückgewinnung (Ship + Booster) noch nicht zuverlässig gelingt. Weitere Testflüge dürften folgen, um die Ursache des Booster-Ausfalls zu adressieren.
-- Die im Februar 2026 vollzogene xAI-Fusion (Bewertung des zusammengeschlossenen Unternehmens ca. 1,25 Bio. USD) und die im Juni 2026 angekündigte, für ca. 60 Mrd. USD in Aktien geplante Übernahme von Cursor/Anysphere (ursprünglich für Q3 2026 zum Abschluss erwartet) bleiben zentrale Bausteine der KI-Expansionsstrategie; ein bestätigter Abschlussstatus der Cursor-Transaktion ließ sich weiterhin nicht aus Primärquellen ermitteln.
-- Unbestätigte Analystenspekulationen zu weiteren möglichen Übernahmezielen (Intel, Tesla, CoreWeave, GlobalFoundries) unterstreichen den Fokus auf Rechenkapazität und KI-Infrastruktur, sind aber nicht als konkrete Unternehmenspläne zu werten.
-- Starlink bleibt mit zuletzt rund 13.096 gestarteten Satelliten (Stand Anfang November 2026) der größte Umsatztreiber; eine Aktualisierung der Satellitenzahlen für den aktuellen Berichtszeitraum lag nicht vor.
-- Die Vermietung von Rechenkapazität an KI-Unternehmen (laut unbestätigten Berichten u.a. an Anthropic) sowie mögliche terrestrische Mobilfunkambitionen deuten auf eine fortschreitende Diversifizierung über das klassische Raumfahrt- und Startlink-Geschäft hinaus.
+## Strategy & Outlook
+- SpaceX announced the acquisition of AI company xAI in February 2026, valuing the combined entity at roughly $1.25 trillion, reinforcing Musk's strategy of merging space, Starlink and AI/compute infrastructure.
+- Following the June 2026 IPO, SpaceX agreed to acquire AI coding startup Cursor in an all-stock deal reportedly worth about $60 billion, with the deal expected to close around Q3 2026 — described by some analysts as the start of a broader AI-focused acquisition spree.
+- Speculative commentary suggests further potential AI/semiconductor-related targets (e.g., Intel, Tesla, CoreWeave, GlobalFoundries), though none of these are confirmed deals.
+- Starship development continues to be a near-term operational focus, with Flight 15 testing full booster/ship recovery capability; successful reusability milestones remain central to SpaceX's long-term cost and Mars/launch-cadence strategy.
 
-## Quellen
-- [SpaceX Catches Starship From Orbit for First Time After Booster Recovery Fails (technobezz.com)](https://www.technobezz.com/news/spacex-catches-starship-orbit-booster-recovery-fails)
-- [SpaceX catches Starship after orbital flight but loses booster (aviation24.be)](https://www.aviation24.be/space/spacex/spacex-catches-starship-after-orbit-but-loses-booster/)
-- [SpaceX Starship Catch Brings First Upper-Stage Recovery, but Booster Failure Remains the Hurdle (IBTimes UK)](https://www.ibtimes.co.uk/spacex-starship-first-upper-stage-catch-super-heavy-loss-1832512)
-- [SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first (DT Next)](https://www.dtnext.in/news/sports/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first)
-- [SpaceX Starship Launches on Key Test, Skipped Booster Catch (Bloomberg Government)](https://news.bgov.com/states-of-play/spacex-starship-launches-on-key-test-skipped-booster-catch-3)
-- [SpaceX Thanks Don Harrison for His Service on the Board (SpaceX IR)](https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx)
-- [SpaceX Reports Third Quarter 2026 Results (PDF)](https://s21.q4cdn.com/184289198/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf)
-- [SpaceX Reports Second Quarter 2026 Results (benton.org)](https://benton.org/node/360236)
+## Sources
+- [SpaceX Thanks Don Harrison for His Service on the Board (IR release)](https://ir.spacex.com/updates/releases-details/2026/SpaceX-Thanks-Don-Harrison-for-His-Service-on-the-Board--2026-Si4CNaX_y_/default.aspx)
+- [SpaceX Targets Nov. 13 for Historic Starship Launch](https://broadbandbreakfast.com/spacex-targets-nov-13-for-historic-starship-launch/)
+- [SpaceX Starship Launches on Key Test, Skipped Booster Catch](https://news.bgov.com/states-of-play/spacex-starship-launches-on-key-test-skipped-booster-catch-3)
+- [SpaceX Seeks Full Starship Recovery On Nov 13 Test Flight](https://www.rttnews.com/3713251/spacex-seeks-full-starship-recovery-on-nov-13-test-flight.aspx?type=corp)
 - [Elon Musk's Full Ron Baron Interview 2026: Tesla, SpaceX, Starship, AI and More](https://teslanorth.com/2026/11/07/elon-musks-full-ron-baron-interview-2026-tesla-spacex-starship-ai-and-more)
-- [SpaceX Just Agreed to Acquire This AI Start-Up For $60 Billion (Nasdaq)](https://www.nasdaq.com/articles/spacex-just-agreed-acquire-ai-start-60-billion)
-- [SpaceX stock on secondary markets – current price, how to buy and what the discount looks like (valueaddvc.com)](https://valueaddvc.com/blog/spacex-stock-on-secondary-markets-current-price-how-to-buy-and-what-the-discount-looks-like)
-- [More sellers than buyers: the signal behind SpaceX's pricing dynamics (MSCI)](https://www.msci.com/indexes/markets-in-motion/visualizations/more-sellers-than-buyers-the-signal-behind-spacex-pricing-dynamics)
+- [Dealroom analysis: SpaceX IPO](https://dealroom.co/charts/spacex-ipo)
+- [SpaceX Announces Closing of Initial Public Offering (IR release)](https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Closing-of-Initial-Public-Offering-Including-Full-Exercise-of-Underwriters-Option-to-Purchase-Additional-Shares-2026-RgoR-Y1Vwh/default.aspx)
+- [xAI Joins SpaceX to Accelerate Humanity's Future](https://satnews.com/2026/02/02/xai-joins-spacex-to-accelerate-humanitys-future/)
+- [SpaceX's $60 Billion Cursor Acquisition Changes Everything](https://www.nasdaq.com/articles/spacexs-60-billion-cursor-acquisition-changes-everything-heres-why)
+- [SpaceX Launches Start of Acquisition Spree with Cursor After Historic IPO](https://247wallst.com/investing/2026/06/16/spacex-launches-start-of-acquisition-spree-with-cursor-after-historic-ipo/)
+- [SpaceX Reports Third Quarter 2026 Results (IR release, PDF)](https://s21.q4cdn.com/184289198/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf)
