@@ -1,41 +1,40 @@
 # BASF (BAS.DE)
-_Aktualisiert: 23.11.2026 | Zeitraum: 16.11.2026 – 23.11.2026_
+_Aktualisiert: 28.11.2026 | Zeitraum: 21.11.2026 – 28.11.2026_
 
 ## Portfolio-Analyse
 - **Position:** 50 Aktien
 - **Kaufkurs (Ø):** 44,25 EUR
-- **Aktueller Kurs:** 49,78 EUR
-- **Marktwert:** 2489,00 EUR
-- **Unrealisierter G/V:** +261,16 EUR (+11,72%)
-- **Portfolioanteil:** 1,45%
+- **Aktueller Kurs:** 51,00 EUR
+- **Marktwert:** 2.550,00 EUR
+- **Unrealisierter G/V:** +322,16 EUR (+14,46%)
+- **Portfolioanteil:** 1,42%
 - **Dividenden erhalten:** 165,66 EUR
-- **Bewertung:** Der Kurs ist gegenüber der Vorwoche von 51,54 EUR auf 49,78 EUR zurückgegangen, nachdem BASF am 19.11.2026 seine Übernahmebemühungen um Evonik endgültig beendet hat; die Position bleibt mit +11,72% aber weiterhin deutlich im Plus gegenüber dem Einstiegskurs von 44,25 EUR. Mit dem Rückzug aus dem Evonik-Poker entfällt eine zuletzt belastende Unsicherheit, BASF kündigt stattdessen disziplinierte Kapitalallokation und Aktionärsrückgaben an; der Capital Markets Day am 23./24.11.2026 dürfte hierzu weitere Details liefern. Angesichts der soliden Dividendenrendite und des fortgesetzten Portfolio-Umbaus erscheint ein Halten der Position weiterhin sinnvoll, eine Aufstockung könnte nach Auswertung der CMD-Inhalte erneut geprüft werden.
+- **Bewertung:** Der Kurs hat sich in der Berichtswoche von 49,78 EUR auf 51,00 EUR erholt und liegt damit wieder deutlich über dem Einstiegskurs (+14,46%). Nach dem endgültigen Rückzug vom Evonik-Angebot (19.11.) und dem Capital Markets Day am 23./24.11. in Ludwigshafen fehlen noch belastbare Berichte zu den dort vorgestellten Inhalten; die positive Kursreaktion deutet aber auf eine gute Aufnahme der dort präsentierten Strategie (Fokus auf Kapitaldisziplin, Aktionärsrückgaben, Portfoliobereinigung) hin. Angesichts der soliden Dividendenrendite, der angehobenen Jahresprognose und des laufenden Rückkaufprogramms erscheint ein Halten der Position weiterhin sinnvoll.
 
 ## Aktuelle Meldungen
-- BASF hat am 19.11.2026 offiziell bekanntgegeben, seine Bemühungen um eine Übernahme von Evonik Industries einzustellen, nachdem Evonik zwei unverbindliche Bar-Angebote (zuletzt 24 EUR je Aktie, rund 11,2 Mrd. EUR Eigenkapitalwert) abgelehnt hatte; BASF begründet dies damit, dass die eigenständigen Aussichten und Risiken von Evonik eine höhere Bewertung nicht rechtfertigten.
-- Die Evonik-Aktie verlor nach der Rückzugs-Meldung zeitweise mehr als 23%; der nordrhein-westfälische Wirtschaftsminister hatte eine Übernahme durch BASF zuvor öffentlich abgelehnt.
-- Am 23./24.11.2026 findet der Capital Markets Day in Ludwigshafen statt, mit Konzern-Keynote von CEO Markus Kamieth und separater Präsentation zur Agrarsparte (Teilbörsengang weiterhin für Mitte 2027 geplant).
-- Die in der Vorwoche gemeldeten Themen – Verkauf des Mining-Solutions-Geschäfts an SNF (12.11., Closing ab Januar 2027) und die neue Nemasphere-Saatguttechnologie gegen Nematoden bei Sojabohnen (16.11.) – bleiben ohne wesentliche neue Entwicklungen in dieser Woche aktuell.
+- BASF hat den Capital Markets Day am 23./24.11.2026 in Ludwigshafen abgehalten, mit Konzern-Keynote von CEO Markus Kamieth und separater Präsentation zur Agrarsparte durch Dr. Livio Tedeschi; konkrete neue Mittelfristziele oder Marktreaktionen zu den Inhalten waren zum Redaktionsschluss noch nicht im Detail verfügbar.
+- Der Rückzug vom Evonik-Übernahmeangebot (offiziell am 19.11. bestätigt) bleibt das prägende Thema der vergangenen zwei Wochen; BASF stellt stattdessen Kapitaldisziplin und Aktionärsrückgaben in den Vordergrund.
+- Der Verkauf des Mining-Solutions-Geschäfts an SNF (vereinbart am 12.11., Closing voraussichtlich ab Januar 2027) sowie die neue Nemasphere-Saatguttechnologie gegen Nematoden bei Sojabohnen bleiben ohne wesentliche neue Entwicklungen in dieser Woche.
+- Keine neuen Pressemitteilungen zu weiteren M&A-Aktivitäten seit dem Evonik-Rückzug.
 
 ## Management
-- CEO Dr. Markus Kamieth: Mit der offiziellen Pressemitteilung vom 19.11.2026 bestätigt das Unternehmen den Rückzug vom Evonik-Angebot und kündigt an, den Fokus künftig auf disziplinierte Kapitalallokation und Aktionärsrückgaben zu legen, statt die Übernahme weiterzuverfolgen.
-- Kamieth eröffnet den Capital Markets Day am 23.11.2026 mit einer Keynote zur Konzernstrategie; Inhalte und etwaige neue Mittelfristziele lagen zum Redaktionsschluss noch nicht vor.
-- Neue Einzelinterviews mit Kamieth zu aktuellen Themen der Berichtswoche wurden nicht gefunden; frühere 2026er-Interviews (u. a. zu China-Investitionen, Standort Deutschland) bleiben inhaltlich relevant, ohne neue Aussagen aus dieser Woche.
+- CEO Dr. Markus Kamieth leitete die Keynote auf dem Capital Markets Day am 24.11.2026; Inhalte zu neuen Konzern- oder Segmentzielen lagen zum Redaktionsschluss noch nicht in berichteter Form vor.
+- Dr. Livio Tedeschi präsentierte am 24.11.2026 die Strategie der Agrarsparte im Hinblick auf den für Mitte 2027 geplanten Teilbörsengang.
+- Keine neuen Einzelinterviews mit Kamieth in der Berichtswoche identifiziert.
 
 ## Finanzielles
-- Die mit dem Q3-Bericht (28.10.2026) angehobene Jahresprognose 2026 für das EBITDA vor Sondereinflüssen (7,4–7,8 Mrd. EUR) wurde in der Berichtswoche nicht weiter angepasst.
-- Mit dem Rückzug vom Evonik-Angebot entfällt eine potenzielle Großinvestition (zuletzt mit rund 11,2 Mrd. EUR Angebotswert); BASF stellt stattdessen Aktionärsrückgaben in den Vordergrund.
-- Das laufende Aktienrückkaufprogramm (bis zu 1 Mrd. EUR, bis Ende April 2027) sowie das Kostensenkungsprogramm werden unverändert fortgeführt; neue Details könnten im Rahmen des Capital Markets Day folgen.
+- Die im Rahmen des Q3-Berichts (28.10.2026) angehobene Jahresprognose 2026 für das EBITDA vor Sondereinflüssen (7,4–7,8 Mrd. EUR) wurde in der Berichtswoche nicht weiter angepasst.
+- Das laufende Aktienrückkaufprogramm (bis zu 1 Mrd. EUR, bis Ende April 2027) läuft unverändert weiter.
+- Mit dem Evonik-Rückzug entfällt eine potenzielle Großinvestition von zuletzt rund 11,2 Mrd. EUR Angebotswert; stattdessen rückt die Kapitalrückgabe an Aktionäre in den Fokus.
 
 ## Strategie & Ausblick
-- Mit dem endgültigen Rückzug von der Evonik-Übernahme beendet BASF eine seit September 2026 laufende Konsolidierungsinitiative in der Spezialchemie und schafft Klarheit für Investoren, die zuletzt eine mögliche Großtransaktion mit Unsicherheit belegt hatte.
-- Der Fokus verschiebt sich auf organische Portfoliobereinigung (Verkauf Mining Solutions an SNF, geplanter Teilbörsengang der Agrarsparte Mitte 2027) sowie auf disziplinierte Kapitalallokation und Aktionärsrückgaben.
-- Der Capital Markets Day am 23./24.11.2026 in Ludwigshafen ist der zentrale Termin dieser Woche und dürfte die strategische Neuausrichtung nach dem Evonik-Rückzug sowie mögliche neue Mittelfristziele konkretisieren.
+- Der Capital Markets Day markiert den ersten großen strategischen Auftritt seit dem Evonik-Rückzug und dürfte die künftige Kapitalallokation sowie mögliche neue Mittelfristziele konkretisieren; belastbare Details stehen noch aus.
+- Die Vorbereitung des geplanten Teilbörsengangs der Agrarsparte (Mitte 2027) bleibt ein zentraler strategischer Baustein, wie die separate Präsentation am Capital Markets Day unterstreicht.
+- Die laufende Portfoliobereinigung (Mining Solutions-Verkauf an SNF, frühere Verkäufe von Silikat- und Aufhellungsgeschäften) setzt sich fort und soll den Fokus auf das Kerngeschäft schärfen.
 
 ## Quellen
+- [Capital Markets Day 2026 – basf.com](https://www.basf.com/global/en/investors/calendar-and-publications/calendar/2026/capital-markets-day)
 - [Business & Financial News | November 19, 2026 – basf.com](https://www.basf.com/global/en/media/news-releases/2026/11/p-26-202)
+- [Business & Financial News | November 12, 2026 – BASF signs agreement to sell its mining solutions business to SNF](https://www.basf.com/global/en/media/news-releases)
 - [Latest information on a possible combination of BASF and Evonik – basf.com](https://www.basf.com/global/en/evonik)
-- [BASF beendet Übernahmepoker um Evonik – infranken.de](https://www.infranken.de/deutschland/basf-beenden-bemuehungen-um-uebernahme-von-evonik-art-6412474,PRINT)
-- [BASF lenkt ein: Keine Übernahme von Evonik – chemanager-online.com](https://chemanager-online.com/de/news/basf-lenkt-ein-keine-uebernahme-von-evonik)
-- [Capital Markets Day 2026 – basf.com](https://www.basf.com/basf/www/global/de/investors/calendar-and-publications/calendar/2026/capital-markets-day.html)
-- [Wirtschaftspresse | 28. Oktober 2026 (Q3-Bericht) – basf.com](https://www.basf.com/global/de/media/news-releases/2026/10/p-26-180)
+- [Business & Financial News | October 28, 2026 – Q3 2026 Ergebnis](https://www.basf.com/global/en/media/news-releases/2026/10/p-26-180)
